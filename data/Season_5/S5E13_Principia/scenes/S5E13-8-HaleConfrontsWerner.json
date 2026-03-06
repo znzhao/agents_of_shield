@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 8,
+    "scene_name": "HaleConfrontsWerner",
+    "description": "General Hale confronts Werner after he takes Ruby hostage, insisting she has no ties to HYDRA and wants him to help her build something new. Werner rejects her offer and the legacy of both their families, but Hale leaves the possibility of his freedom open. Secretly, she instructs Ruby to gain Werner's trust and access his valuable knowledge.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "Let her go or they will kill you."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Why am I here?"
+        },
+        {
+            "character": "Hale",
+            "line": "They wanted to chemically lobotomize you, so I had you transferred."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Maybe that's what I wanted."
+        },
+        {
+            "character": "Hale",
+            "line": "It's good to see you, Werner, after all these years."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "It's Alex, Alex Braun. I don't want anything to do with my father or his name or HYDRA."
+        },
+        {
+            "character": "Hale",
+            "line": "HYDRA. Such a boys' club. So much testosterone."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "If you're not HYDRA, why were you always visiting my father?"
+        },
+        {
+            "character": "Hale",
+            "line": "Oh, we had overlapping interests back then but I hated his guts, if we're being honest. I can use you, Alex. I know what you can do, ‘cause I've read your S.H.I.E.L.D. file, your psych evaluations. I've pieced it all together. S.H.I.E.L.D. zapped your brain when you were in the memory enhancer. Something was bound to happen. I mean, h-how much do you remember?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "What you mean is, how much do I remember that my father said or did or wrote down."
+        },
+        {
+            "character": "Hale",
+            "line": "It's valuable information. And your father is one of the reasons that HYDRA went off the rails. See, what I'm building here is something new, a better future for you, for you and for Ruby. Can you help me do that, Alex?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Go to hell."
+        },
+        {
+            "character": "Hale",
+            "line": "I am so sorry you feel that way."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Kill me. I don't care."
+        },
+        {
+            "character": "Hale",
+            "line": "I'm not gonna kill you, Alex. Tomorrow morning, they'll take you wherever it is you want to go. You're free. Go. It's my gift to you."
+        },
+        {
+            "character": "Hale",
+            "line": "Gain his trust, his love, whatever it is you need to do to get inside his head. We need that information. Ruby. Stick to the books this time. Don't you go off the rails."
+        }
+    ]
+}

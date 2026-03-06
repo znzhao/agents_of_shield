@@ -1,0 +1,96 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 13,
+    "scene_name": "EscapeAndHandlerNeutralized",
+    "description": "The building's alarm is triggered as Ward flees under fire, and Fitz and Simmons frantically work to sever the implant before a lethal failsafe is triggered. May and Coulson close in on the handler, and Coulson confronts the Englishman. Upon revealing his S.H.I.E.L.D. identity, the handler's own implant detonates, killing him instantly. Ward and Skye make a clean getaway as Amador’s life is spared.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "All right, then. Most likely, both the power source and kill switch are located within the eye itself. So, how to disconnect without triggering the kill switch? Oh. I know what to do. Um... I just need to clarify one thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You sound winded. Is this a bad time?"
+        },
+        {
+            "character": "Ward",
+            "line": "Little bit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, not so good for me, either, considering I'm holding a still-attached prosthetic eye that could explode at any second."
+        },
+        {
+            "character": "Ward",
+            "line": "Are the wires exposed or shielded? Cut it now. Cut the wires now!"
+        },
+        {
+            "character": "Amador",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, no problem. Ward explained the sitch."
+        },
+        {
+            "character": "Ward",
+            "line": "Coming your way."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know what that means."
+        },
+        {
+            "character": "Ward",
+            "line": "Let's go."
+        },
+        {
+            "character": "Coulson",
+            "line": "He probably left as soon as he threw the kill switch."
+        },
+        {
+            "character": "May",
+            "line": "He's there, 20 meters from you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think I've got him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me, sir."
+        },
+        {
+            "character": "Man",
+            "line": "I'm sorry, but I'm very late."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm with S.H.I.E.L.D."
+        },
+        {
+            "character": "Man",
+            "line": "Oh, god."
+        }
+    ]
+}

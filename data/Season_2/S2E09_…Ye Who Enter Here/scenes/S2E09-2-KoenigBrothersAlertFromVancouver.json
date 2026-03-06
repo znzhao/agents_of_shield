@@ -1,0 +1,172 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 2,
+    "scene_name": "KoenigBrothersAlertFromVancouver",
+    "description": "Billy and Sam Koenig contact the Playground from Vancouver, reporting a HYDRA attempt to abduct Raina led by Agent 33 disguised as May. Coulson discusses the situation with the Koenigs and begins forming a plan. Meanwhile, a news brief mentions the murder-suicide of Senator Christian Ward, and Skye and May discuss Grant Ward's guilt. Coulson decides to split the teams based on the new HYDRA threat.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "bobbi_morse",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "antoine_triplett",
+        "raina"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Chad",
+            "line": "Come on, what do you mean you can't break a hundred?"
+        },
+        {
+            "character": "Cashier",
+            "line": "Sorry. Nothing over $20."
+        },
+        {
+            "character": "Raina",
+            "line": "I've changed my mind. I'd like a chia water instead."
+        },
+        {
+            "character": "Chad",
+            "line": "You got it, babe. Make it two."
+        },
+        {
+            "character": "Cashier",
+            "line": "Okay."
+        },
+        {
+            "character": "Raina",
+            "line": "I've been thinking about our next trip. Maybe Shanghai?"
+        },
+        {
+            "character": "Chad",
+            "line": "You have expensive tastes."
+        },
+        {
+            "character": "Raina",
+            "line": "And a wandering spirit. Be right back."
+        },
+        {
+            "character": "Chad",
+            "line": "Thank you."
+        },
+        {
+            "character": "Raina",
+            "line": "You know, Agent May, the whole point of embedding a tracker in somebody is that you don't have to stalk them. Or did you just come by to say..."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Gonna want to make your next right. Next right. Unless you want to spend your last night on Earth In the hotel HYDRA."
+        },
+        {
+            "character": "Raina",
+            "line": "How..."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "I'll explain later. Come here. Give me a hug. I'm not hitting on you, okay? I'm S.H.I.E.L.D. Okay, just... stay close. And stay quiet. Shh. Bye-bye, HYDRA. I'm Agent Sam Koenig. Coulson sent me. Sorry, but you're gonna need a lanyard."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "I'm telling you, sir, she looked exactly like Agent May, except for the freaky facial-scar thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "That was Agent 33. She was wearing a nanomask, disguised as May, but May electrocuted her right in the face."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Oh, that is so badass."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Sam, I'm on with the director. Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "You were saying you think HYDRA was there to kidnap Raina, not kill her?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Well, we counted four two-man teams, all non-tactical, all in full surveillance mode. And the freaky one told Raina that Whitehall wanted to talk."
+        },
+        {
+            "character": "Coulson",
+            "line": "Question is why... and why now."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "No idea, sir, but this is the first sighting we've had of HYDRA since you let Raina out in the wild."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. I'm sending Agent May with an extraction team. Sit tight until they get there."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Copy that, sir."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "He's sending the cavalry. Sweet!"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Sam, what, are you 13? You can't do a sit-up. You think you're gonna hook up with the cal..."
+        },
+        {
+            "character": "Reporter",
+            "line": "More news on the investigation of the horrific murder-suicide of Massachusetts Senator Christian Ward. FBI sources claim that while the senator did leave a recorded confession, other evidence found at the scene suggests another party may have been involved."
+        },
+        {
+            "character": "Skye",
+            "line": "He did it. You know Ward did it."
+        },
+        {
+            "character": "May",
+            "line": "No doubt in my mind."
+        },
+        {
+            "character": "Skye",
+            "line": "The senator should've let us help."
+        },
+        {
+            "character": "May",
+            "line": "We tried, but he wanted nothing to do with us. All we can do now is try and catch Ward."
+        },
+        {
+            "character": "Skye",
+            "line": "Or put the son of a bitch down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Change of plans. We're splitting up the teams."
+        },
+        {
+            "character": "Skye",
+            "line": "We're going after Ward?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, we're not. HYDRA found Raina. Tried to grab her in Vancouver."
+        },
+        {
+            "character": "May",
+            "line": "Grab her. Not kill her."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're grasping. HYDRA knows we found the city. Maybe they think she can help them."
+        },
+        {
+            "character": "May",
+            "line": "We're pulling an extraction."
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 10,
+    "scene_name": "SenateHearingAndBreakInGoesWrong",
+    "description": "Daisy undergoes tough questioning by Senator Nadeer during the hearing as Coulson and Elena attempt to plant surveillance in Nadeer's office. Their plan backfires when the break-in and surveillance act are detected, resulting in Coulson and Elena being apprehended. Nadeer uses this to publicly undermine S.H.I.E.L.D. and press the committee into further investigations.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "jeffrey_mace",
+        "glenn_talbot"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "All right, let's bring the meeting to order. Agent Daisy Johnson, we'd like to swear you in."
+        },
+        {
+            "character": "Man",
+            "line": "You're clear, go in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Elena",
+            "line": "That went well."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz is an artist."
+        },
+        {
+            "character": "Elena",
+            "line": "So, Mack... personal time, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't put me in the middle of this."
+        },
+        {
+            "character": "Elena",
+            "line": "What middle? No middle. But you know something."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not for me to say. Mack's a very private person. All I know about him is what's in his file. I spent six months on a plane with the guy. I bet I know less than you."
+        },
+        {
+            "character": "Elena",
+            "line": "So maybe something's on his file."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe you should ask him."
+        },
+        {
+            "character": "Elena",
+            "line": "[Speaking Spanish]"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I don't know about annoying him, but you're starting to annoy me. Isn't it better to learn things organically instead of all at once in a report?"
+        },
+        {
+            "character": "Elena",
+            "line": "No, all at once. Much better. Private person, secrets? Same thing. Must be even tougher with May. If it's better to get to know each other in tiny, slow, annoying pieces..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think that's how I put it."
+        },
+        {
+            "character": "Elena",
+            "line": "... then you two will never get together."
+        },
+        {
+            "character": "Coulson",
+            "line": "Me and May? No. It's not like that."
+        },
+        {
+            "character": "Elena",
+            "line": "Please. I don't need to read a file on you two to know."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, no one likes a smart-ass."
+        },
+        {
+            "character": "Elena",
+            "line": "That hasn't been my experience."
+        },
+        {
+            "character": "Fitz",
+            "line": "You and May ready for the op?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, we've got it covered. Uh, we could always use a fresh pair of eyes if you'd like to join us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no. I've got stuff to do here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. You know, one of the upsides of having a girlfriend is you get to talk about what's bothering you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, doesn't really sound like an upside for the girlfriend."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know you're upset about AIDA. I'm in a strange position. I don't want to intrude on you while you're processing. But I also want you to know you can talk to me. Always."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I know. Just, uh... You know I go all quiet when I'm processing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Senator, I understand. Being a party to the Sokovia Accords would be very different from being an undercover S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Senator",
+            "line": "Well, you'll answer to a different authority, the public."
+        },
+        {
+            "character": "Daisy",
+            "line": "Believe me, I've... I've had worse bosses."
+        },
+        {
+            "character": "Chairperson",
+            "line": "Uh, next up is Senator Nadeer."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Thank you, Mr. Chairperson. Agent Johnson, as an Inhuman yourself, do you feel more responsibility to help Inhumans than normal Americans?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, first of all, Inhumans are normal. Let's be clear about that. But with regard to whom I'll help, I'm here for all Americans. But more often than not, Inhumans are left to fend for themselves with few resources."
+        },
+        {
+            "character": "Nadeer",
+            "line": "So Inhumans cause more trouble."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. Inhumans are more likely the victims of hate crimes, which is not fair. They are our friends, they are our co-workers, our brothers. They all deserve help, wherever they may be."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Agent Johnson, let's discuss your theft of more than $7 million from three banks while you were undercover from S.H.I.E.L.D."
+        },
+        {
+            "character": "Daisy",
+            "line": "Illegally acquired funds going towards illegal activity."
+        },
+        {
+            "character": "Nadeer",
+            "line": "So you say. Has the U.S. government recovered those funds?"
+        },
+        {
+            "character": "Daisy",
+            "line": "The money has been distributed to worthy causes."
+        },
+        {
+            "character": "Nadeer",
+            "line": "I see. So you took the entire justice system into your own hands."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're in position."
+        },
+        {
+            "character": "Simmons",
+            "line": "Place them around the room, and they'll give us geometric scans."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson. Security officers approaching the location. Hold. Okay, they're moving past. We're good."
+        },
+        {
+            "character": "Daisy",
+            "line": "I was working as a S.H.I.E.L.D. operative..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Without signing the Accords, so either you committed an illegal act by robbing banks or S.H.I.E.L.D. committed an illegal act by using an unauthorized enhanced agent."
+        },
+        {
+            "character": "Talbot",
+            "line": "Mr. Chairman, this line of questioning..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "And S.H.I.E.L.D. is still doing it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Transmitting images now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hold on. What the hell just happened?"
+        },
+        {
+            "character": "Elena",
+            "line": "What's this?"
+        },
+        {
+            "character": "Nadeer",
+            "line": "Even as we speak, S.H.I.E.L.D. continues to engage in illegal activity."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's not true."
+        },
+        {
+            "character": "Nadeer",
+            "line": "General, moments ago, my people apprehended two S.H.I.E.L.D. operatives breaking in to my office. Seems they were trying to install surveillance equipment to spy on my staff and me."
+        },
+        {
+            "character": "Mace",
+            "line": "Uh, there... there must be some mistake here."
+        },
+        {
+            "character": "Nadeer",
+            "line": "This Inhuman, Ms. Rodriguez? She signed the Sokovia Accords, but now she's been caught red-handed in a S.H.I.E.L.D.-sanctioned operation without U.N. approval, just as S.H.I.E.L.D. did with Agent Johnson. It appears S.H.I.E.L.D. really is a criminal organization after all."
+        },
+        {
+            "character": "Daisy",
+            "line": "That conversation does not look fun."
+        },
+        {
+            "character": "Elena",
+            "line": "I have a feeling no conversation with that woman is ever fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "She knew we'd be there. Not just any Inhuman. You specifically."
+        },
+        {
+            "character": "Daisy",
+            "line": "There has to be a leak."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. There has to be."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, we're all free to go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Because there's a catch, right?"
+        },
+        {
+            "character": "Mace",
+            "line": "Well, maybe a slight..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're damn right there's a catch. There's gonna be a full investigation, starting with a Senate committee hearing. They may even bring charges."
+        },
+        {
+            "character": "Mace",
+            "line": "That's unlikely, so let's all just take a beat..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Unlikely? They're gonna drag us in front of every subcommittee, asking us who we are and what we do."
+        },
+        {
+            "character": "Coulson",
+            "line": "This was the risk in going legit."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, this was the risk in going after Nadeer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Couldn't have known she'd be ready for us."
+        },
+        {
+            "character": "Talbot",
+            "line": "Maybe if somebody had warned you first?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, you do this all the time, Phil. I give you the benefit of my expertise, and you just ignore it."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're never up front with us, General. You lied about Taiwan, you lied to us about Jeffrey..."
+        },
+        {
+            "character": "Talbot",
+            "line": "They kidnapped my son! And I put Jeffrey in that position because you have too damn much baggage to hold that position yourself."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have very different styles. We always have."
+        },
+        {
+            "character": "Talbot",
+            "line": "And your style just gave the bad guy all the ammunition she needs to go after us."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not how I see it."
+        },
+        {
+            "character": "Talbot",
+            "line": "Really? How do you see it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This move just exposed the fact that we have a leak. Someone tipped Nadeer off we were coming. You opposed the op. Did you warn her?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I believed in you when no one else did, Phil. No. I am not the leak. S.H.I.E.L.D. only exists because of me. And maybe that's a mistake."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello, Agent May. Time to give this up, please."
+        },
+        {
+            "character": "May",
+            "line": "No. You'll have to kill me."
+        },
+        {
+            "character": "AIDA",
+            "line": "Very well. But know that it will not make me happy."
+        },
+        {
+            "character": "May",
+            "line": "Oh, no."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello, Agent May. Congratulations. You got further this time than your previous attempts at this course."
+        },
+        {
+            "character": "May",
+            "line": "What is this?"
+        },
+        {
+            "character": "AIDA",
+            "line": "We call it the Framework. Your journey to escape Dr. Radcliffe's lab, our fight, all of this. It's a simulation. I assure you, you're safe. We've moved you to another location."
+        },
+        {
+            "character": "May",
+            "line": "You put this in my head."
+        },
+        {
+            "character": "AIDA",
+            "line": "Dr. Radcliffe knew the best way to keep you busy was to give you something to fight."
+        },
+        {
+            "character": "May",
+            "line": "Something like you."
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes, but this is the program's end. We're coding more, but we can't keep up with you. You keep getting through it faster. I'll wipe your memory and send you through again."
+        },
+        {
+            "character": "May",
+            "line": "You wipe my memory, but I get better every time?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes. Memory traces."
+        },
+        {
+            "character": "May",
+            "line": "So I'm beating it. And I'll get out eventually, beat you."
+        },
+        {
+            "character": "AIDA",
+            "line": "In 3, 2, 1..."
+        },
+        {
+            "character": "AIDA",
+            "line": "Oh, dear. Not again."
+        }
+    ]
+}

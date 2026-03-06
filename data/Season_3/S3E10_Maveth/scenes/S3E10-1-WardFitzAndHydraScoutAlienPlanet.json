@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "WardFitzAndHydraScoutAlienPlanet",
+    "description": "Ward, Fitz, and the Hydra team arrive on the alien world Maveth, immediately setting out to scout the inhospitable terrain for the location of the next portal. Ward puts pressure on Fitz to work quickly, while Fitz tries to hide his contempt and searches for any advantage. The team discovers a large monument in the shape of Hydra’s symbol, hinting at the planet's dark history. Fitz narrowly fails to overpower Ward and instead finds himself tumbling down a hill, landing near Will's hidden cave.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Is something wrong? Fitz. Go ahead and scout that ridge."
+        },
+        {
+            "character": "Man",
+            "line": "Yes sir."
+        },
+        {
+            "character": "Ward",
+            "line": "We have less than six hours to find the next portal and go home."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why don't you shut the hell up so I can concentrate? This program's a work in progress, designed from Simmons' limited data and hypothetical calculations. See? Our exit location is determined by the position of the..."
+        },
+        {
+            "character": "Ward",
+            "line": "Just figure it out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "Let me be clear, if I don't make it back, Simmons will be killed, slowly, horribly. It'd all be your fault. Is that what you want?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What do you want? Why are we here? Find some ancient, mythical creature. Wake up, Ward. This is a snark hunt, and the only reason Malick sent you is because you're expendable."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, over here!"
+        },
+        {
+            "character": "Ward",
+            "line": "Move. Move!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Is that..."
+        },
+        {
+            "character": "Ward",
+            "line": "Hail HYDRA."
+        }
+    ]
+}

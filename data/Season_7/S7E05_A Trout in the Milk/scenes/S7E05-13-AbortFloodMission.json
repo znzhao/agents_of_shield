@@ -1,0 +1,78 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 13,
+    "scene_name": "AbortFloodMission",
+    "description": "As May and Coulson prepare to detonate charges to flood the base, Mack discovers that his parents are among the Lighthouse's prisoners. Thorn by the potential loss, Mack aborts the mission and orders Enoch to destroy the Insight satellite with the Zephyr’s missiles instead. Simmons reports a direct hit as the satellite is destroyed, sacrificing their covert position but saving Mack’s parents and preventing Insight’s use.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Charge is in position."
+        },
+        {
+            "character": "May",
+            "line": "Mack, we're ready to detonate on your signal."
+        },
+        {
+            "character": "Simmons",
+            "line": "Waiting on your signal, Mack. Mack. Are those prisoners?"
+        },
+        {
+            "character": "Mack",
+            "line": "They're my parents. If Coulson and May flood the base... then they'll drown."
+        },
+        {
+            "character": "Simmons",
+            "line": "Insight. We can't let it launch."
+        },
+        {
+            "character": "Mack",
+            "line": "Abort. Abort."
+        },
+        {
+            "character": "Mack",
+            "line": "Abort. Abort."
+        },
+        {
+            "character": "May",
+            "line": "Are you sure?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, this is our only chance."
+        },
+        {
+            "character": "Mack",
+            "line": "Abort!"
+        },
+        {
+            "character": "Mack",
+            "line": "Initiate countermeasures."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack, are you saying that..."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm saying arm the damn missiles."
+        },
+        {
+            "character": "Simmons",
+            "line": "Direct hit. Missiles detonated on impact. Insight has been destroyed."
+        },
+        {
+            "character": "Mack",
+            "line": "But we just gave up our position."
+        }
+    ]
+}

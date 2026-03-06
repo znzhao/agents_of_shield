@@ -1,0 +1,61 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 1,
+    "scene_name": "HumanResistanceAfterBattle",
+    "description": "Mack, Elena, and Flint regroup with the human resistance in the aftermath of a skirmish with the Kree, discussing the importance of their recent victory and planning next steps. Mack is cautious, aware that Kasius now knows humans are alive and preparing for retaliation. The group briefly celebrates but quickly turns to the increasing threat posed by Kasius.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "flint"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Hold your fire! Nice work."
+        },
+        {
+            "character": "Gunner",
+            "line": "Yeah? Why does the guy named Gunner get stuck throwing rocks?"
+        },
+        {
+            "character": "Mack",
+            "line": "‘Cause you're damn good at it."
+        },
+        {
+            "character": "Elena",
+            "line": "Enemy of my enemy."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, puts things in perspective. He's fighting for a good reason."
+        },
+        {
+            "character": "Elena",
+            "line": "For the record, I like Rebel Peacemaker Mack, too. He's sexy."
+        },
+        {
+            "character": "Mack",
+            "line": "Is that right?"
+        },
+        {
+            "character": "Flint",
+            "line": "Whoa. Two more Kreepers. This is our floor now. No Blues allowed."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, slow down, slow down. We got a long way to go still."
+        },
+        {
+            "character": "Elena",
+            "line": "Smile, Turtle Man. We did good."
+        },
+        {
+            "character": "Mack",
+            "line": "We got lucky. But now Kasius knows we're still here. They'll be back."
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "VossWelcomesSHIELDScavengerCamp",
+    "description": "May and the S.H.I.E.L.D. team are introduced to Voss, who explains Robin’s state of mind and mentions her prophecy about their survival. Other survivors and exiles are living among the plane wreckage. Afterquiries about who survived, Coulson, May, Daisy, and Deke reunite emotionally, confirming the Zephyr has become their base. The group tries to piece together the situation with Robin’s visions and their role in it.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "skye",
+        "deke_shaw",
+        "robin_hinton"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Voss",
+            "line": "Don't be put out if you can't follow Robin's train of thought. It's like her life is a deck of cards shuffled out of order. She's a seer, all right, but nowadays, she can't separate past, present, and future. Samuel Voss. My apologies for the rough rescue, but you got to act fast when gravity storms start kicking up."
+        },
+        {
+            "character": "May",
+            "line": "You're going back out?"
+        },
+        {
+            "character": "Voss",
+            "line": "Yeah, my crew's gonna go out and collect your friends."
+        },
+        {
+            "character": "May",
+            "line": "Wait. They made it to the surface? How do you know?"
+        },
+        {
+            "character": "Voss",
+            "line": "She told me. A decade ago. Sounds like them now. Don't worry. Robin told me they survive this crash, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Love what they've done with the place."
+        },
+        {
+            "character": "May",
+            "line": "Looks like, uh, you had a rough landing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, can't recommend the airline. Inexperienced pilot, lot of turbulence, ran out of pretzels in coach."
+        },
+        {
+            "character": "Daisy",
+            "line": "May."
+        },
+        {
+            "character": "May",
+            "line": "Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, my God."
+        },
+        {
+            "character": "May",
+            "line": "Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, it's good to see you. What? It's crazy the Zephyr ended up on the last remaining chunk of Earth."
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Must've been en route to the Lighthouse before it crashed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wonder if that means some of us survived the end of the world?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I doubt I made it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ooh."
+        },
+        {
+            "character": "May",
+            "line": "Medical, same place."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. It's good to see you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Glad we finally found some allies. You get any answers about who they are, why they brought us here?"
+        },
+        {
+            "character": "May",
+            "line": "Just more questions. I have a lot to catch you up on."
+        },
+        {
+            "character": "Deke",
+            "line": "No, you don't understand. Not just dead. As far as everyone in the Lighthouse was concerned, everybody that came up here was torn to scraps. But they're all still alive and living in an actual airplane."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, your design really withstood the test of time."
+        },
+        {
+            "character": "Deke",
+            "line": "Woah, you designed this? Damn. Can't imagine what it must've been like to fly."
+        },
+        {
+            "character": "Fitz",
+            "line": "Technically, I'm the engineer, I'm not the pilot."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh. Yeah, well, that's still cool, I guess."
+        }
+    ]
+}

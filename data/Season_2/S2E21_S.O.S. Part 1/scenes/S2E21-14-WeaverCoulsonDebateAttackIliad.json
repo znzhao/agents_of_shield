@@ -1,0 +1,81 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 14,
+    "scene_name": "WeaverCoulsonDebateAttackIliad",
+    "description": "On The Iliad and at the Playground, Weaver and Oliver urge Coulson to attack after S.H.I.E.L.D. loses their teleporter tracking device. Mack returns, stating he’ll stick around until the situation with the Inhumans is settled. Coulson stalls, insisting on more intel, as Weaver distrusts Skye and urges an aggressive response.",
+    "roles": [
+        "robert_gonzales",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Weaver",
+            "line": "They destroyed the device we used to track the Teleporter. Not knowing their next move is exactly why S.H.I.E.L.D. needs to end this before it goes any further."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree that losing the tracking device is a big setback. Satellite imaging suggests their compound's been all but deserted."
+        },
+        {
+            "character": "Weaver",
+            "line": "That doesn't mean we can't strike."
+        },
+        {
+            "character": "Coulson",
+            "line": "Until I know more, I won't be forced into action. We may still have assets in there."
+        },
+        {
+            "character": "Oliver",
+            "line": "Agent Skye? She could expose us. She knows every S.H.I.E.L.D. procedure."
+        },
+        {
+            "character": "Weaver",
+            "line": "You're gambling with our lives because of one agent. The security of S.H.I.E.L.D. far outweighs the safety of Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not her safety it's her usefulness. Mack, I thought you left."
+        },
+        {
+            "character": "Mack",
+            "line": "I did, but with Gonzales dead, I need to see this settled first."
+        },
+        {
+            "character": "Weaver",
+            "line": "So, you agree we should attack?"
+        },
+        {
+            "character": "Mack",
+            "line": "No. I agree it needs to be settled."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not sure whether I'm happier you haven't left yet or that you agree with me for once. I understand Skye could be a threat, but she's also our best bet for resolution. I have her father here. Give me a few hours to gather more information."
+        },
+        {
+            "character": "Weaver",
+            "line": "Three hours. We'll continue gathering intel on this side."
+        },
+        {
+            "character": "Mack",
+            "line": "Is there a problem?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Only time will tell."
+        },
+        {
+            "character": "Mack",
+            "line": "What about the alien thing in the cargo hold? Could be what this is all about."
+        },
+        {
+            "character": "Weaver",
+            "line": "I've already doubled the guard. You used to be chief engineer. If you're sticking around, make yourself useful. This ship needs to be battle ready."
+        }
+    ]
+}

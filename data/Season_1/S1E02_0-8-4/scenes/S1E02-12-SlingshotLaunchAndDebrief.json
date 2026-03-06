@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 12,
+    "scene_name": "SlingshotLaunchAndDebrief",
+    "description": "At the Slingshot launch facility, Coulson explains to Skye why the 0-8-4 must be destroyed. Ward and May discuss Skye's potential as a field agent, and Ward agrees to supervise her training. The team reflects on their teamwork and watches as the artefact is launched into space, symbolizing closure. Coulson congratulates them on their ingenuity, and the team celebrates their first mission's success.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "Slingshot launch facility (desert)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Slingshot is protocol. A weapon like the 0-8-4 is too dangerous for any person or country to have. People like Reyes would always be after it."
+        },
+        {
+            "character": "Skye",
+            "line": "What happened with Reyes, anyway?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's being held at a S.H.I.E.L.D. detainment facility. I expect the Peruvian government will negotiate for her release. She probably won't spend much time in jail."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I mean what happened with you and Reyes? You guys totally did it back in the day, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's classified."
+        },
+        {
+            "character": "Ward",
+            "line": "Looks like Skye might end up as more than just a consultant, despite our reservations. She could turn into a solid asset... with some serious work."
+        },
+        {
+            "character": "May",
+            "line": "Well, if she wants to be a field agent, she'll need a supervising officer, someone disciplined, someone good."
+        },
+        {
+            "character": "Ward",
+            "line": "All right. I'll do it. Just to clarify, you were, uh, talking about me, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We blew up a plane."
+        },
+        {
+            "character": "Simmons",
+            "line": "I had a new experience."
+        },
+        {
+            "character": "Fitz",
+            "line": "Eat that, Professor Vaughn."
+        },
+        {
+            "character": "Simmons",
+            "line": "You had a new experience. But it was new for all of us."
+        },
+        {
+            "character": "May",
+            "line": "They're happy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, come on. You guys don't want to miss this. So, it'll take about 180 days to reach the sun. Now, yes, of course, it would have been faster if they'd used hydrogen-fueled APUs, but they're having fun."
+        },
+        {
+            "character": "Skye",
+            "line": "How many of those have you guys had?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, yeah, especially after a hard day of everyone almost dying."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which doesn't happen every day, right? It's an anomaly, an irregularity. Not...the norm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Speaking of “not the norm,” whose idea was it to blow a hole in the plane?"
+        },
+        {
+            "character": "Skye",
+            "line": "May said that the doors were tied to the pressurization, so I thought..."
+        },
+        {
+            "character": "Simmons",
+            "line": "So we thought it was the only way to release them."
+        },
+        {
+            "character": "Ward",
+            "line": "It was everyone's idea, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, quite genius, really."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice work."
+        },
+        {
+            "character": "Man",
+            "line": "All clear for liftoff."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, time for blastoff. Launching... In three... two... The trajectory will take it beyond the Lagrange point so that it doesn't hit Herschel."
+        },
+        {
+            "character": "Simmons",
+            "line": "And there haven't been any coronal mass ejections, so it shouldn't lose telemetry."
+        },
+        {
+            "character": "Ward",
+            "line": "Guys, English."
+        }
+    ]
+}

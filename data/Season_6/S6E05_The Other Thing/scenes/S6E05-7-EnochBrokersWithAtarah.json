@@ -1,0 +1,166 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 7,
+    "scene_name": "EnochBrokersWithAtarah",
+    "description": "Enoch and Atarah debate the fate of the S.H.I.E.L.D. team and Fitz. Atarah is prepared to kill Fitz unless the agents help with time travel. Ultimately, Enoch reveals that Simmons is Fitz's motivation, leading Atarah to take Simmons hostage and force the team's hand.",
+    "roles": [
+        "enoch",
+        "jemma_simmons",
+        "piper",
+        "davis"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "You have made a grave mistake. Leopold Fitz is not our enemy. You need to release him."
+        },
+        {
+            "character": "Atarah",
+            "line": "Incorrect. You need to help. They have the answers we need. He is our leverage."
+        },
+        {
+            "character": "Enoch",
+            "line": "Fitz... has been a most loyal companion. He and I have had many adventures together."
+        },
+        {
+            "character": "Atarah",
+            "line": "I am trying to save our entire race, and you are concerned about the welfare of one human. Why?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Because we have recently become best friends."
+        },
+        {
+            "character": "Atarah",
+            "line": "It seems Earth has made you soft."
+        },
+        {
+            "character": "Enoch",
+            "line": "I do not disagree that I have changed... but I believe it is for the better. One must change to grow."
+        },
+        {
+            "character": "Atarah",
+            "line": "I hardly recognize you anymore. The Enoch I invited into my charging pod was reckless... but not a traitor."
+        },
+        {
+            "character": "Enoch",
+            "line": "I cannot believe I ever granted you access to my data port."
+        },
+        {
+            "character": "Atarah",
+            "line": "The fate of the Chronicoms is at stake here. You refuse to assist me, then I will proceed my way."
+        },
+        {
+            "character": "Enoch",
+            "line": "Your way?"
+        },
+        {
+            "character": "Atarah",
+            "line": "If you will not answer my questions, I have no further use for your friend. Malachi, dispose of the criminal on my command."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, wait!"
+        },
+        {
+            "character": "Enoch",
+            "line": "Bring him back."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Stop this now."
+        },
+        {
+            "character": "Atarah",
+            "line": "Then give me what I want."
+        },
+        {
+            "character": "Simmons",
+            "line": "There was a machine that controlled a time monolith, but it was in the future, and it's been destroyed. That's all we know."
+        },
+        {
+            "character": "Atarah",
+            "line": "Who built this machine?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We have no idea."
+        },
+        {
+            "character": "Atarah",
+            "line": "Convenient."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's true! The machine was there when we arrived. It was built on old designs."
+        },
+        {
+            "character": "Atarah",
+            "line": "If so, that is most unfortunate."
+        },
+        {
+            "character": "Atarah",
+            "line": "Perhaps I have no further use for any of you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch, help us stop this."
+        },
+        {
+            "character": "Enoch",
+            "line": "I have not seen this future myself, but there is only one logical conclusion. If anyone can solve the mysteries of time travel, it is Leopold Fitz."
+        },
+        {
+            "character": "Atarah",
+            "line": "This is true?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's possible. Likely, even, but he hasn't done it yet, and the chances of him re-creating it are next to zero."
+        },
+        {
+            "character": "Atarah",
+            "line": "Explain."
+        },
+        {
+            "character": "Simmons",
+            "line": "If he did this, he'd have his whole life to figure it out and the end of the world as motivation."
+        },
+        {
+            "character": "Atarah",
+            "line": "You claim he is your best friend, but we are the last of our kind. You have knowledge that could aid us. What would motivate him to do what we need?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Her. Put Jemma Simmons in danger, and Fitz can solve anything."
+        },
+        {
+            "character": "Daisy",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch!"
+        },
+        {
+            "character": "Atarah",
+            "line": "Let him live... and her. Kill the others."
+        },
+        {
+            "character": "Simmons",
+            "line": "They need Fitz alive, which means they won't kill him."
+        },
+        {
+            "character": "Daisy",
+            "line": "And I can kick her ass. Let's go."
+        }
+    ]
+}

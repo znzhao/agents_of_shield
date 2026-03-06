@@ -1,0 +1,63 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "RobbinsAutopsyAtPlayground",
+    "description": "Back at The Playground, Simmons, Fitz, and Mack perform an autopsy on Agent Stevens’ body while Skye and Coulson watch. Simmons identifies the death as ritualistic and finds GH.325 in her blood, linking her murder to the T.A.H.I.T.I. recipients. The revelation raises alarm about the killer’s targeting of S.H.I.E.L.D. agents and the dangerous side effects of the serum.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "How'd you two manage to acquire a body?"
+        },
+        {
+            "character": "Fitz",
+            "line": "“Corpsey diem.” Seize the dead."
+        },
+        {
+            "character": "Mack",
+            "line": "Huh. Like I told my man here, you want something in life, you got to grab it and walk out like you own it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that all it takes? Really? Because I always thought if you wanted something in life, you had to work hard and earn it. Give me some room, please. Does she have any family?"
+        },
+        {
+            "character": "Skye",
+            "line": "No one. No relatives, no kids."
+        },
+        {
+            "character": "Coulson",
+            "line": "She didn't deserve this."
+        },
+        {
+            "character": "Skye",
+            "line": "Is anything coming back to you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She was level 6. It should all be in my head. But it's not."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're going to need blood and tissue samples, full CBC, and multi-element analysis. Would anyone like to leave before we get started?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll stay out of your way."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll let you know when I finish."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "MackAndSargeStandoff",
+    "description": "Mack tries to get information from Sarge regarding his true intentions and the Shrike threat. Sarge remains cryptic, offering only philosophical comments on gods and threats to the planet, while Mack asserts his commitment to protecting his people. Their exchange establishes a hostile but grudgingly respectful dynamic.",
+    "roles": [
+        "alphonso_mackenzie",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "I've been through this routine before. You're not ready to hear the answers."
+        },
+        {
+            "character": "Mack",
+            "line": "Indulge me."
+        },
+        {
+            "character": "Sarge",
+            "line": "You don't have time to spare. It's a nice little planet. Be a shame to lose it."
+        },
+        {
+            "character": "Mack",
+            "line": "Why don't we start by you giving me your real name?"
+        },
+        {
+            "character": "Sarge",
+            "line": "You can call me whatever you want."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm. I'll call you a murderer. You shot one of my Agents point blank. He was just a kid."
+        },
+        {
+            "character": "Sarge",
+            "line": "Who got in my way."
+        },
+        {
+            "character": "Mack",
+            "line": "And I know that once you're on a planet, it doesn't survive. I've seen the footage."
+        },
+        {
+            "character": "Sarge",
+            "line": "It doesn't have to come to that, but it will if you don't open that door."
+        },
+        {
+            "character": "Mack",
+            "line": "You're talking about this Shrike creator that's coming. You told May it's a monster."
+        },
+        {
+            "character": "Sarge",
+            "line": "Yeah. Or to you, a god."
+        },
+        {
+            "character": "Mack",
+            "line": "S.H.I.E.L.D.'s dealt with a lot of folks who thought they were gods. Just had egos. There's only one God."
+        },
+        {
+            "character": "Sarge",
+            "line": "Oh, I see. This is that kind of planet. One God controlling everything. Benevolent, right? To make you feel all warm inside when times get tough?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's not that simple."
+        },
+        {
+            "character": "Sarge",
+            "line": "Whatever your fairy tale, I've seen gods up close, and I think you're gonna get that opportunity, too. Believe me. You're not prepared for this."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm prepared to protect my people from whatever's coming."
+        },
+        {
+            "character": "Sarge",
+            "line": "Your people? Hmm. They keep looking at me. You might want to get used to that."
+        },
+        {
+            "character": "Mack",
+            "line": "And why's that? Because by the end of the day... I'll be the one in charge."
+        }
+    ]
+}

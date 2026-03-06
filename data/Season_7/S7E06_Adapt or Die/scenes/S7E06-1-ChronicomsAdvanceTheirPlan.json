@@ -1,0 +1,123 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 1,
+    "scene_name": "ChronicomsAdvanceTheirPlan",
+    "description": "Sibyl and Luke evaluate the aftermath of Project Insight's destruction, discussing how S.H.I.E.L.D.'s actions have set up the next stage of the Chronicoms' plan. Sibyl emphasizes adaptation and instructs Luke to wake the Hunters, setting a tone of mounting threat as the Chronicoms move forward. This scene establishes their strategy for overwhelming S.H.I.E.L.D. and foreshadows the infiltration of the Lighthouse.",
+    "roles": [
+        "sibyl"
+    ],
+    "vibe": "mysterious",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Sibyl",
+            "line": "All life follows these patterns. Eroded coastlines, seashells, leaves. A new world blooms beneath your feet. Can you feel it?"
+        },
+        {
+            "character": "Luke",
+            "line": "I feel the weight of Malick's death. Of Insight being destroyed. Is that the world you envisioned?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "As one branch dies, a new one bears fruit."
+        },
+        {
+            "character": "Luke",
+            "line": "Do not speak in metaphor, Sibyl. Your path has led to disaster."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Has it? S.H.I.E.L.D. revealed their ship to destroy Insight. We have their location. Malick's son captured Daisy Johnson. They are divided. And Alphonso Mackenzie's parents will force them into the Lighthouse. They are reckless."
+        },
+        {
+            "character": "Luke",
+            "line": "They have begun to bend under stress. You wish to overwhelm them."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I do. Begin the next phase."
+        },
+        {
+            "character": "Luke",
+            "line": "I will wake the Hunters one by one."
+        },
+        {
+            "character": "Sibyl",
+            "line": "We must continue to adapt."
+        },
+        {
+            "character": "Ford",
+            "line": "We have zero booster reading."
+        },
+        {
+            "character": "King",
+            "line": "Radar is picking up a debris field."
+        },
+        {
+            "character": "Ford",
+            "line": "Copy. Confirm air-to-air missile strike. Insight is down."
+        },
+        {
+            "character": "Stoner",
+            "line": "We know the rocket is dead. Find me the ship that killed it."
+        },
+        {
+            "character": "Guard",
+            "line": "Sir."
+        },
+        {
+            "character": "Stoner",
+            "line": "So, sucker punching me wasn't enough. You're saboteurs. Your friends blew up my rocket. On the Fourth of July."
+        },
+        {
+            "character": "Coulson",
+            "line": "You didn't want that thing to reach orbit, General. You would have found that out the hard way."
+        },
+        {
+            "character": "Stoner",
+            "line": "Because time-traveling robots would have turned their deadly lasers upon the earth?"
+        },
+        {
+            "character": "Coulson",
+            "line": "More or less."
+        },
+        {
+            "character": "Stoner",
+            "line": "Yeah. And you. This was destined for a celebratory barbecue, Chastity. That's not your real name, is it?"
+        },
+        {
+            "character": "May",
+            "line": "Melinda May. I'm not an HR Liaison."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think he got that from the bag of explosives."
+        },
+        {
+            "character": "Ford",
+            "line": "Sir. We have the hostile bogey."
+        },
+        {
+            "character": "Stoner",
+            "line": "All right, now we're talking."
+        },
+        {
+            "character": "Ford",
+            "line": "It's a faint signal. We're working on it."
+        },
+        {
+            "character": "May",
+            "line": "They shouldn't be able to track Z1."
+        },
+        {
+            "character": "Stoner",
+            "line": "Advanced Integrated Tracking System. Little gift from our friend, Mr. Malick."
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll be blown out of the sky."
+        }
+    ]
+}

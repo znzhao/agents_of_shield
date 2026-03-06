@@ -1,0 +1,100 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 11,
+    "scene_name": "VaccineDebateAndHunterDiscoversTalbotsSon",
+    "description": "Simmons demonstrates to Fitz and Lincoln that Creel's blood could effectively act as a vaccine against Terrigenesis, suggesting massive implications for Inhumans. Daisy angrily debates with Lincoln about whether preventing transformation is right, challenging his medical perspective. Meanwhile, at the symposium, Hunter discovers Talbot's son hidden in a gel-matrix container after noticing Creel's suspicious activity, only to be knocked out by Creel in an effort to maintain his cover.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln",
+        "lance_hunter",
+        "carl_creel"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Here we have a sample of Daisy's blood taken two years ago, before she was exposed to terrigen. When we add the terrigen. The reaction is what we'd expect."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Terrigenesis."
+        },
+        {
+            "character": "Simmons",
+            "line": "Dr. Fitz, if you wouldn't mind. Here, we have the same blood, but watch what happens when we add a sample of Creel's blood to the mix. It not only stops the terrigenesis process. It breaks it down."
+        },
+        {
+            "character": "Fitz",
+            "line": "Creel's blood is protecting hers."
+        },
+        {
+            "character": "Lincoln",
+            "line": "A vaccine against terrigenesis."
+        },
+        {
+            "character": "Simmons",
+            "line": "Potentially. It can't reverse the effects once someone's transformed, but..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "This could virtually put an end to..."
+        },
+        {
+            "character": "Daisy",
+            "line": "To us? I'm sorry, but isn't that what you were gonna say?"
+        },
+        {
+            "character": "Zuma",
+            "line": "We do not believe the inhumans are a plague or weapons. I support Mr. Petrov's sanctuary state, and I propose we vote on the matter."
+        },
+        {
+            "character": "Chen",
+            "line": "I second that."
+        },
+        {
+            "character": "Talbot",
+            "line": "If the Russki turns out to be the inside man, this vote could be a bad thing for us. We've got three yeas, two nays. If I vote yea, he's gonna have a lot of inhumans in his backyard when the sun comes up, you know?"
+        },
+        {
+            "character": "May",
+            "line": "We've caught an encrypted text going out. Looks like it's from Ellen King. Hunter, are you in her room?"
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter's off mission. He's chasing Creel. Can you decrypt the message?"
+        },
+        {
+            "character": "May",
+            "line": "Decrypting. “Move... Him... Now.” We need to get in her room."
+        },
+        {
+            "character": "Morse",
+            "line": "Copy that."
+        },
+        {
+            "character": "Hunter",
+            "line": "That truck looks like a good place to hide. Easy way out. Ohh, guns. Why does no one ever listen to me?"
+        },
+        {
+            "character": "Morse",
+            "line": "May, I've got something. She's got an inhuman locked up and sedated for military experiments, but I'm not seeing a Malick connection."
+        },
+        {
+            "character": "May",
+            "line": "Any word from Hunter?"
+        },
+        {
+            "character": "Morse",
+            "line": "Radio silence."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi and May, we've been set up. We need to get Coulson and Talbot out of there now."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 11,
+    "scene_name": "CreelBakshiAndRainaNegotiations",
+    "description": "Creel communicates with Sunil Bakshi, his Hydra handler, reporting the infection he contracted from the Obelisk. Bakshi instructs him to proceed with the exchange despite his instability. Raina then approaches Creel, trying to negotiate for the Obelisk with the offer of rare carbyne, but Creel rebuffs her and warns her about Hydra's reach.",
+    "roles": [
+        "carl_creel",
+        "sunil_bakshi",
+        "raina"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Creel",
+            "line": "Who's this?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Good evening, Mr. Creel. We've been trying to reach you."
+        },
+        {
+            "character": "Creel",
+            "line": "Where the hell were you? I waited at the drop site for an hour."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Calm down, Mr. Creel. There's no need to panic. We're being cautious now that S.H.I.E.L.D. is a factor."
+        },
+        {
+            "character": "Creel",
+            "line": "Forget them. I got a real problem. That thing really messed me up. I turned to rubber when I touched it. Thought that it would protect me, but it infected me, too."
+        },
+        {
+            "character": "Bakshi",
+            "line": "We're well aware of your condition. But believe me when I say that Mr. Whitehall wouldn't have selected you for this job if you weren't capable of completing it."
+        },
+        {
+            "character": "Creel",
+            "line": "You don't know what it's doing to me. I can't keep it off."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Once we have the Obelisk, you will be taken care of the way Hydra has always taken care of you. Please proceed to the secondary drop site, and I shall meet you at the appropriate time. Good night."
+        },
+        {
+            "character": "Man",
+            "line": "Hello?!"
+        },
+        {
+            "character": "Creel",
+            "line": "What?! What are you looking at?!"
+        },
+        {
+            "character": "Raina",
+            "line": "Leave them alone, Mr. Creel. We have far more important things to discuss."
+        },
+        {
+            "character": "Creel",
+            "line": "I know you from somewhere?"
+        },
+        {
+            "character": "Raina",
+            "line": "My name is Raina, and I'm a huge admirer of yours... and your gifts."
+        },
+        {
+            "character": "Creel",
+            "line": "Beat it, lady. I'm not into groupies."
+        },
+        {
+            "character": "Raina",
+            "line": "You misunderstand. I know you recently acquired something extremely precious and rare... something I'm very interested in."
+        },
+        {
+            "character": "Creel",
+            "line": "Whatever you're offering... it ain't enough."
+        },
+        {
+            "character": "Raina",
+            "line": "Maybe not. But aren't you the least bit curious as to what it might be? It's called carbyne, an allotrope of carbon found in stardust, three times harder than diamond. With an added bonus. It can store energy. Beautiful, isn't it? So filled with potential."
+        },
+        {
+            "character": "Creel",
+            "line": "Am I supposed to be impressed?"
+        },
+        {
+            "character": "Raina",
+            "line": "I'll settle for interested."
+        },
+        {
+            "character": "Creel",
+            "line": "You have no idea who you're dealing with, lady. You ever hear of Hydra?"
+        },
+        {
+            "character": "Raina",
+            "line": "Name rings a bell."
+        },
+        {
+            "character": "Creel",
+            "line": "Let me give you a tip... run. ‘Cause if the guy I'm working for gets ahold of you, I'd hate to see what he's gonna do to that pretty little face of yours."
+        },
+        {
+            "character": "Raina",
+            "line": "Looks like you need some help there, Mr. Creel."
+        },
+        {
+            "character": "Creel",
+            "line": "I'm not the one who needs help, lady."
+        },
+        {
+            "character": "Raina",
+            "line": "You do if you touched the Obelisk."
+        },
+        {
+            "character": "Creel",
+            "line": "I'll tell you what... I'm gonna do you a solid and not tell my boss about you!"
+        },
+        {
+            "character": "Raina",
+            "line": "What about the carbyne?"
+        },
+        {
+            "character": "Creel",
+            "line": "It's the cost of doing business."
+        }
+    ]
+}

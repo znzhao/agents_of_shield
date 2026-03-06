@@ -1,0 +1,54 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 19,
+    "scene_name": "AftermathAtThePlayground",
+    "description": "As the dust settles at the Playground, the S.H.I.E.L.D. team reflects on Radcliffe’s loss and the outcome of the AIDA crisis. Coulson prepares to remove the Darkhold for further safety, and May offers to fly him. The team recognizes Senator Nadeer as a formidable new adversary.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "holden_radcliffe",
+        "leo_fitz",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Okay, here's another one. Have you ever watched “Chopping Mall?”"
+        },
+        {
+            "character": "Mack",
+            "line": "Eight teenagers trapped in a shopping mall while three deadly security robots hunt them down. Of course I've seen “Chopping Mall.” Come on, now. You got to do better than that. Hey, Turbo. Drink up. Ah. How's Radcliffe holding up?"
+        },
+        {
+            "character": "Fitz",
+            "line": "He's taking it pretty hard, actually. AIDA was his life's work. She was kind of... like a child."
+        },
+        {
+            "character": "Mack",
+            "line": "“Small Wonder.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, Director. I'll handle the Darkhold personally. We'll leave first thing in the morning. Copy that."
+        },
+        {
+            "character": "May",
+            "line": "You gonna need a pilot?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think it's more a solo mission. Sounds like Senator Nadeer was the one who's been organizing the Watchdogs."
+        },
+        {
+            "character": "May",
+            "line": "Hmm. At least now we know who our real enemy is."
+        }
+    ]
+}

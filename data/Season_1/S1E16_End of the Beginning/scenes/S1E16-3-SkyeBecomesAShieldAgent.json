@@ -1,0 +1,106 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 3,
+    "scene_name": "SkyeBecomesAShieldAgent",
+    "description": "As Skye receives her S.H.I.E.L.D. badge, various team members congratulate her. The atmosphere is warm and hopeful as Garrett shares insights about Ward’s personality and evolution. Ward and Skye share a mentor-mentee moment, reflecting on how much they’ve changed. The new operation plan is set, and field teams are divided up.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "victoria_hand"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Don't thank me. You've passed every required S.H.I.E.L.D. exam with flying colors."
+        },
+        {
+            "character": "Hand",
+            "line": "For a level 1 agent."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've assisted us on multiple field missions, put your life on the line. You earned this."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hell... you took two in the gut. More than Sitwell here's ever done."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, everyone. Back to work."
+        },
+        {
+            "character": "Garrett",
+            "line": "Congratulations."
+        },
+        {
+            "character": "Skye",
+            "line": "Thanks."
+        },
+        {
+            "character": "Simmons",
+            "line": "Congratulations, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Awesome!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Congratulations."
+        },
+        {
+            "character": "Skye",
+            "line": "Couldn't have done it without a great and very patient S.O."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, you could have. I'm no Clairvoyant, but I do believe some things are meant to be."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Can't say I'm a fan... of this double-blind situation. How will the field teams meet us at the destinations?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They won't. They'll be on standby. We can't risk the Clairvoyant knowing we're coming."
+        },
+        {
+            "character": "Sitwell",
+            "line": "What you're saying is, one of these teams could be heading straight into an ambush without backup."
+        },
+        {
+            "character": "Hand",
+            "line": "Agent Sitwell, I just received word from the Triskelion. You have orders to report to the Lemurian Star immediately."
+        },
+        {
+            "character": "Coulson",
+            "line": "So I assume you'll take his place."
+        },
+        {
+            "character": "Hand",
+            "line": "In your hunt for Santa Claus? No. I'm taking a transport jet back to the Hub where I can quarterback the field teams via satellite. Someone's gonna have to pull your asses out of the fire when things go South. I'll be in touch."
+        },
+        {
+            "character": "Sitwell",
+            "line": "I guess I got a boat to catch. Good luck, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You, too, Agent Sitwell."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, on this phone, you will find a set of coordinates that'll lead you to one of the three potential Clairvoyants I've chosen. When you're within a mile, your partner will be granted access to the candidate's name and profile on their own phone. Make sense?"
+        }
+    ]
+}

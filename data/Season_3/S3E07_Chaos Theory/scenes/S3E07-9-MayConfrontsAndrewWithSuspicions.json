@@ -1,0 +1,100 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "MayConfrontsAndrewWithSuspicions",
+    "description": "May confronts Andrew privately at the training facility, revealing that she has investigated him and found evidence connecting him to Inhuman deaths. She pushes him to admit the truth about his involvement and the darkness she suspects within him. This tense scene builds up to Andrew’s unravelling as May demands honesty, suspecting her ex-husband might be Lash.",
+    "roles": [
+        "melinda_may",
+        "andrew_garner"
+    ],
+    "vibe": "dramatic",
+    "location": "The Cocoon (S.H.I.E.L.D. Inhuman training/containment facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "Melinda, talk to me. What's all this about?"
+        },
+        {
+            "character": "May",
+            "line": "I need to know, for myself, before anyone else gets involved."
+        },
+        {
+            "character": "Andrew",
+            "line": "Know what?"
+        },
+        {
+            "character": "May",
+            "line": "I saw your flight logs. I tracked your movements. You were within 30 miles of at least five Inhuman deaths."
+        },
+        {
+            "character": "Andrew",
+            "line": "Why are you looking at my flight logs?"
+        },
+        {
+            "character": "May",
+            "line": "I pulled your medical files, too. Your blood work was deleted."
+        },
+        {
+            "character": "Andrew",
+            "line": "Maybe Simmons accidentally..."
+        },
+        {
+            "character": "May",
+            "line": "You thought you covered your tracks, but you didn't."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, honestly, what are you getting at?"
+        },
+        {
+            "character": "May",
+            "line": "That Von Strucker kid was alive! He didn't die in that blast. I tracked him down. He told me what you did."
+        },
+        {
+            "character": "Andrew",
+            "line": "What I did? So some kid says I..."
+        },
+        {
+            "character": "May",
+            "line": "He wasn't lying. The look on his face. It was pure terror. What happened to you? You can tell me."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda..."
+        },
+        {
+            "character": "May",
+            "line": "Don't lie to me."
+        },
+        {
+            "character": "Andrew",
+            "line": "You don't want to know."
+        },
+        {
+            "character": "May",
+            "line": "He said you were a monster."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, don't..."
+        },
+        {
+            "character": "May",
+            "line": "How could this even happen?!"
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, stop."
+        },
+        {
+            "character": "May",
+            "line": "Andrew, please! Please!"
+        },
+        {
+            "character": "Andrew",
+            "line": "Stop!"
+        }
+    ]
+}

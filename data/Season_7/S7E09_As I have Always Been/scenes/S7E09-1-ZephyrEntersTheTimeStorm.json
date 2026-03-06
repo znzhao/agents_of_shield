@@ -1,0 +1,250 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 1,
+    "scene_name": "ZephyrEntersTheTimeStorm",
+    "description": "The episode opens with Daisy awakening from her stasis pod aboard Zephyr One, confused by a chaotic situation as radiation flares damage the ship. Mack is blinded, Elena is trapped in the Quinjet, and May, Simmons, and Deke frantically respond to the crisis. The team realizes they are caught in a time storm and dangerously close to a catastrophic vortex, beginning their desperate efforts to survive.",
+    "roles": [
+        "skye",
+        "sousa",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "deke_shaw",
+        "enoch"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "Hey. What are you doing up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "How long have you been here?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Well, I guess, uh... when did you go to sleep? Since then."
+        },
+        {
+            "character": "Daisy",
+            "line": "Did we jump again?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm not sure. Hey, w-where you going?"
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get a read on our location."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's happening?"
+        },
+        {
+            "character": "May",
+            "line": "Time Drive overloaded."
+        },
+        {
+            "character": "Sousa",
+            "line": "Any chance that's 21st-century slang for “worked normally?”"
+        },
+        {
+            "character": "Mack",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys? Anyone want to fill me in on... that?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I was so much happier asleep."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where's Coulson?"
+        },
+        {
+            "character": "May",
+            "line": "Charging."
+        },
+        {
+            "character": "Elena",
+            "line": "Looks like something just fried the Quinjet's flight system."
+        },
+        {
+            "character": "Mack",
+            "line": "We can't afford to lose that. You anywhere nearby?"
+        },
+        {
+            "character": "Elena",
+            "line": "Hey, it's me. Everywhere's nearby. I'm already here. I'll check it out."
+        },
+        {
+            "character": "May",
+            "line": "Simmons? Are you seeing this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, radiation levels are off the charts. We need to get out of this."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't want to alarm anyone..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, wouldn't want to spoil our feeling of Zen."
+        },
+        {
+            "character": "Deke",
+            "line": "...but we're trapped in a time storm."
+        },
+        {
+            "character": "Sousa",
+            "line": "Are you just taking unrelated words and putting them together?"
+        },
+        {
+            "character": "Deke",
+            "line": "No, Bugsy, this is real. It's just like Simmons said. We jumped within a jump, and it tore a hole in space-time, and now we're being pulled in towards the vortex like we're circling a drain."
+        },
+        {
+            "character": "Mack",
+            "line": "And if we go down that drain?"
+        },
+        {
+            "character": "May",
+            "line": "We'll cease to exist."
+        },
+        {
+            "character": "Deke",
+            "line": "No, we'll cease to have ever existed or be reduced to the size of an atom. Honestly, I have no idea how the science works here."
+        },
+        {
+            "character": "Daisy",
+            "line": "So it's pulling us in."
+        },
+        {
+            "character": "Deke",
+            "line": "Yes. We're 94 kilometers away."
+        },
+        {
+            "character": "Mack",
+            "line": "Aah!"
+        },
+        {
+            "character": "May",
+            "line": "Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "I can't see! I can't see!"
+        },
+        {
+            "character": "Elena",
+            "line": "Hey, any idea what just hit us?"
+        },
+        {
+            "character": "May",
+            "line": "Radiation."
+        },
+        {
+            "character": "Elena",
+            "line": "It shorted out the doors to the Quinjet. I'm trapped inside. Mack? Are you okay?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm fine. Just deal with the Quinjet."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll help her."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll get Mack to Simmons. Can you... Find a way out of here?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Let's hope so."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What happened?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sure it looks worse than it is."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're literally blind. It's a radiation flare."
+        },
+        {
+            "character": "Simmons",
+            "line": "I have something for the burns."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Just some... tools Deke left lying around. He's been doing a lot since he got back from his time away."
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent Simmons, would you like some help examining the Time Drive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I would, yes. But Mack first."
+        },
+        {
+            "character": "Mack",
+            "line": "No, fixing the Time Drive is the most..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Shut it. We can do both."
+        },
+        {
+            "character": "May",
+            "line": "Just got hit with another flare. I'm showing a fire, starboard side hallway."
+        },
+        {
+            "character": "Daisy",
+            "line": "I got it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fire's out!"
+        },
+        {
+            "character": "May",
+            "line": "Great, but it won't be the last."
+        },
+        {
+            "character": "Daisy",
+            "line": "How are we supposed to prevent... Is that supposed to..."
+        }
+    ]
+}

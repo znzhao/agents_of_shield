@@ -1,0 +1,195 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 12,
+    "scene_name": "ConfrontingWardAndMay",
+    "description": "Coulson confronts Ward about Nash’s murder, pressing him for details to determine if he acted independently or under orders. Meanwhile, Fitz discovers May’s unauthorized encrypted line and warns Skye; the two confront May in the Bus’s loading bay. With guns drawn, Coulson and Skye demand answers, suspecting May is hiding information about the Clairvoyant.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Sir, first off, I want to say..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Save it. I don't want your apologies. I don't want your excuses."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not making excuses."
+        },
+        {
+            "character": "Coulson",
+            "line": "The only thing I want to know is whether you made the call yourself, or did someone order you to do it?"
+        },
+        {
+            "character": "Ward",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't play dumb, Agent Ward. Just answer the question... Did someone order you to kill the Clairvoyant?"
+        },
+        {
+            "character": "Fitz",
+            "line": "May? Another encrypted line. What are you up to, Agent May?"
+        },
+        {
+            "character": "May",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Um... I was just wondering, since, uh... 'cause we're going to the Triskelion... um, I thought you would like to, um... there's, uh, gonna be an aviation team on the ground. They could probably recalibrate it. But I think it's... it should be all right."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "I was just looking for you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why? I didn't do anything."
+        },
+        {
+            "character": "Skye",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "I didn't say you did. What'd you do?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, uh... I'm not quite sure, actually. 'Cause, um... I was just, um... um, doing maintenance in the avionics bay before. Okay. Why would May... why would May have an unauthorized encrypted hard line in the cockpit, complete with a thumb scanner? That isn't in any of the plane's specs."
+        },
+        {
+            "character": "Skye",
+            "line": "Slow down. An encrypted hard line?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Dedicated to one receiver. She's not supposed to have that. Who's she talking to?"
+        },
+        {
+            "character": "Skye",
+            "line": "Cut the line."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "You need to cut the line right now, Fitz. Do not let her call out!"
+        },
+        {
+            "character": "May",
+            "line": "Agent Melinda May, update log 95."
+        },
+        {
+            "character": "Ward",
+            "line": "I wasn't put on your plane so you could make me a better person, Coulson! You put me here to make the hard call, and I made it."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not what I asked you, Agent Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "I answered your question. I wasn't working with anybody. I take full responsibility for my own actions."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then why... what?"
+        },
+        {
+            "character": "Skye",
+            "line": "We have a problem."
+        },
+        {
+            "character": "Coulson",
+            "line": "Put it down. Put it down, May!"
+        },
+        {
+            "character": "May",
+            "line": "It's not what you think, Coulson. It's just an icer."
+        },
+        {
+            "character": "Coulson",
+            "line": "This one is not. It's real, with real bullets. So you better put yours down and tell me what the hell's going on right now."
+        },
+        {
+            "character": "May",
+            "line": "I..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now!"
+        },
+        {
+            "character": "May",
+            "line": "I can't."
+        },
+        {
+            "character": "Skye",
+            "line": "You better listen to the man, Agent May."
+        },
+        {
+            "character": "May",
+            "line": "You have no idea what you're doing."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe not. But I know you're not fast enough to take us both."
+        },
+        {
+            "character": "May",
+            "line": "Look... I can explain everything. But not here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why not here? You have to check with someone first, using that encrypted phone in the cockpit? Who's on the other end of that line, May?"
+        },
+        {
+            "character": "May",
+            "line": "I can't say."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's okay. I think I know. It makes sense now why Deathlok put Blake in critical condition, left you alive and well, why he led us to the track only to disappear... instead of defending his boss. Why would he do that? Because that wasn't his boss, was it? Was it?!"
+        },
+        {
+            "character": "May",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop lying to me! Who do you answer to?! Who's the real Clairvoyant?!"
+        },
+        {
+            "character": "May",
+            "line": "Wha...?"
+        }
+    ]
+}

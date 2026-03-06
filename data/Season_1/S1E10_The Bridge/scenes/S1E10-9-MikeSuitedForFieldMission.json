@@ -1,0 +1,133 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 9,
+    "scene_name": "MikeSuitedForFieldMission",
+    "description": "Preparations are made for the warehouse raid: Simmons and Fitz suit up Mike with a custom diagnostic suit that monitors his vitals, while Coulson and Ward discuss strategy. The team, including Skye and May, coordinate their approach, readying for a potentially dangerous confrontation with Centipede. There is a sense of camaraderie and encouragement as they prepare.",
+    "roles": [
+        "phil_coulson",
+        "michael_peterson",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Oh, it almost looks homey. Is that Ace? What a cutie. He must be so proud of you, his dad working for S.H.I.E.L.D. Which he can't know with everything being classified."
+        },
+        {
+            "character": "Mike",
+            "line": "That's all right. He knows I'm working. Called him on his birthday and gave him all the “Heroes of New York” action figures."
+        },
+        {
+            "character": "Skye",
+            "line": "Nice. Are you two close?"
+        },
+        {
+            "character": "Mike",
+            "line": "We're a team. I'd do anything for this little guy."
+        },
+        {
+            "character": "Skye",
+            "line": "It's got to be the best feeling, son looking up to you who wants to grow up to be just like you."
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah. Looks like he's growing fast, though."
+        },
+        {
+            "character": "Coulson",
+            "line": "You said you wanted your shot. Here it is."
+        },
+        {
+            "character": "Mike",
+            "line": "I won't let you down."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think it's quite smart."
+        },
+        {
+            "character": "Fitz",
+            "line": "How does it feel?"
+        },
+        {
+            "character": "Mike",
+            "line": "Feels good. Comfortable."
+        },
+        {
+            "character": "Ward",
+            "line": "Having powers is cheating, but the suit's pretty cool."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's perfect for an array of tactical missions."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, also measures your heart rate, systolic pressures, and glucose levels."
+        },
+        {
+            "character": "Fitz",
+            "line": "All while providing state-of-the-art ballistic protection."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mike",
+            "line": "Thanks."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no. Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "We've never been so proud."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hayward's cellphone has been traced to an abandoned factory about eight miles from here."
+        },
+        {
+            "character": "Ward",
+            "line": "Probably Centipede's new lab."
+        },
+        {
+            "character": "Coulson",
+            "line": "Certainly been there M.O... we destroy one factory, they set up another, putting us back to square one. This time, I want answers."
+        },
+        {
+            "character": "May",
+            "line": "Means we go in quiet, do minimal damage to the facility and the people inside."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward, May, you'll go in through the west entrance. Mr. Peterson and I will enter through the loading dock. You'll run the back end from outside."
+        },
+        {
+            "character": "Skye",
+            "line": "We're doing this just us? We've been playing whack-a-mole with these guys since Ward first picked me out of my van. Shouldn't big S.H.I.E.L.D. be sending in backup?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Trust me, they already did."
+        },
+        {
+            "character": "May",
+            "line": "Let's move."
+        },
+        {
+            "character": "Fitz",
+            "line": "No pressure."
+        }
+    ]
+}

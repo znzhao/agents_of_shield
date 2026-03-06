@@ -1,0 +1,24 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "WhitehallTestsAgent33",
+    "description": "Daniel Whitehall and Sunil Bakshi work late into the night, attempting to force Agent 33 to submit to Hydra through the Faustus method of psychological torture. Whitehall is calm and methodical, demonstrating patience and explaining his philosophy about compliance and second chances as Bakshi looks on. The scene sets up Hydra's ruthless approach to brainwashing and introduces the psychological horror of the compliance programming.",
+    "roles": [
+        "daniel_whitehall",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "First time I drank this, I had just enlisted. It was bland, immature. But I had a hunch. I bought a case. Mm. Mmm. $10 seemed so expensive back then. And now one bottle costs over $2,000. Goes to show you patience is most definitely a virtue... something we've both benefited from. I believe in second chances. I want us to work together. I want you to become a valued member of our organization. Surrender... and you will find meaning. Surrender... and you will find release. Take a deep breath. Calm your mind. You know what's best. What's best is you comply. Compliance will be rewarded. Are you ready to comply, Agent 33?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "I expected it would be a long night. Why I decided to treat myself. Mm. Mr. Bakshi, let's go again. Where do we start? At the beginning? Like the song says, a very good place to start. You and I both know the Faustus method takes time. And I've got plenty."
+        }
+    ]
+}

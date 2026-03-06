@@ -1,0 +1,128 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "EnochRevealsTheProphecy",
+    "description": "Fitz and Hunter hack surveillance and trace the mysterious truck to Enoch, confronting him for answers. Enoch reveals himself as a Chronicom observer who sent the S.H.I.E.L.D. team to the future to fulfill a prophecy. He mentions that Fitz was not part of the original prophecy and introduces the idea of the 'Seer' who predicted these events.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "I've been expecting you."
+        },
+        {
+            "character": "Hunter",
+            "line": "What? Wait. No. We're here to surprise you, so act surprised."
+        },
+        {
+            "character": "Enoch",
+            "line": "There's no need for violence."
+        },
+        {
+            "character": "Fitz",
+            "line": "You were at the diner. I saw you. Y-You put them in your truck, and you brought them here. Where are they?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Two Zero Nine One. Earth Year. Two Zero Nine One."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why do I get the feeling there's a kill room in the basement?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Where is this? What's happening? No. Who the hell are you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I was sent here 30,000 years ago to observe and record the evolution of your species. What you would call an anthropologist. My Earth name is Enoch. I am a sentient Chronicom from a planet which revolves around a star in the constellation you know as Cygnus."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. We'll just go with “Enoch.”"
+        },
+        {
+            "character": "Fitz",
+            "line": "Why? Why did you send them through that thing?"
+        },
+        {
+            "character": "Enoch",
+            "line": "To fulfill a prophesy. This speaks of the future. They were needed there."
+        },
+        {
+            "character": "Hunter",
+            "line": "Look, there's only so much crazy talk I can take before I start shooting holes in it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why didn't you take me?"
+        },
+        {
+            "character": "Enoch",
+            "line": "You weren't part of the Seer's prophecy, Mr. Fitz."
+        },
+        {
+            "character": "Hunter",
+            "line": "You don't seriously believe all this, do you? A prophecy and a Monolith that sends you through time?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Send me through to them."
+        },
+        {
+            "character": "Enoch",
+            "line": "The Stone can only be activated from the other end. I only knew when it would open. I have no knowledge of who opened it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Somebody does. The, uh... The Seer? Let's start there. Take me."
+        },
+        {
+            "character": "Enoch",
+            "line": "I don't think it's wise."
+        },
+        {
+            "character": "Fitz",
+            "line": "You don't think... You are going to take me to whoever or whatever this Seer is, or your future ends now."
+        },
+        {
+            "character": "Enoch",
+            "line": "I am trying to help, Mr. Fitz. You did not need to threaten me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry. I'm just worried about my friends."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, who is it?"
+        },
+        {
+            "character": "Enoch",
+            "line": "There."
+        },
+        {
+            "character": "Lucas",
+            "line": "Search every room. They were here. I want to know why. What the hell?"
+        },
+        {
+            "character": "Evans",
+            "line": "Stay on the RV, but keep your distance and do not engage. We want to know where they're going."
+        },
+        {
+            "character": "Lucas",
+            "line": "What do you make of all this?"
+        },
+        {
+            "character": "Evans",
+            "line": "I have no idea."
+        }
+    ]
+}

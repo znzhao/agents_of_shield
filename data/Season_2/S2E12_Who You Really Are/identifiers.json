@@ -1,0 +1,33 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Mack",
+        "Hunter",
+        "Bobbi"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Kree",
+        "Inhumans"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "Underground Kree city / temple (beneath San Cristobal Fort, Puerto Rico)"
+    ]
+}

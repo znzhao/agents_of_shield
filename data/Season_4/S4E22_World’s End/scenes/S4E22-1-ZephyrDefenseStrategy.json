@@ -1,0 +1,123 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 1,
+    "scene_name": "ZephyrDefenseStrategy",
+    "description": "On the Zephyr One, Coulson and May discuss the current threat posed by Aida and their lack of viable plans. Simmons and Fitz wrestle with the guilt over their previous actions in the Framework, especially Fitz, who reveals he performed horrific experiments. Daisy and Coulson worry about Mack and Yo-Yo still trapped in the crumbling Framework, while the team realizes the situation is spiraling out of their control. Fitz's struggle with remorse and Simmons' efforts to ground him set the emotional tone.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I've set autopilot to change bearing, altitude, and speed every couple of minutes."
+        },
+        {
+            "character": "Coulson",
+            "line": "I hate playing defense, but if AIDA drops in on us before we figure out how to stop her, it's game over."
+        },
+        {
+            "character": "May",
+            "line": "Any word from Piper since she HALO'd out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet, but she knows what to do if this doesn't go our way."
+        },
+        {
+            "character": "May",
+            "line": "It has to go our way. And then, you're gonna explain why you drank that bottle of haig without me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fair enough, but we're gonna need another bottle to discuss what happened with that bottle."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, is she human or inhuman?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Um... Both. Well... Neither. She was created from the darkhold."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that how she got her inhuman powers?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That was me. I devised a procedure which extracted dormant inhuman DNA from subjects pre-terrigenesis. If you're writing a report, I should probably be more specific. I performed lethal experiments on approximately two dozen people, innocent people, people we've known from this world. Lincoln Campbell, Vijay Nadeer, Gordon from the afterlife..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, I'm not making a report, and that wasn't really you."
+        },
+        {
+            "character": "Fitz",
+            "line": "It was me. I can still hear the screams."
+        },
+        {
+            "character": "Simmons",
+            "line": "But you're also this man, and... we need to find a solution."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, my solutions only make things worse. They end up hurting or killing people."
+        },
+        {
+            "character": "Simmons",
+            "line": "Good. that's exactly the kind of solution we need right now, a way to kill AIDA. We've emptied a dozen bullets in her, and she didn't die. How do we kill her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you want to kill her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Vitals are stable. That's good."
+        },
+        {
+            "character": "Daisy",
+            "line": "Should've forced mack to come back with us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wasn't your decision to make."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, now we might lose both Mack and Yo-Yo."
+        },
+        {
+            "character": "Coulson",
+            "line": "Again, not your call. She went in with no extraction plan, no idea how to find Mack."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think I may have been able to help her with that. No, no, no, no, no, no, no. No!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What? Did you do something?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, this was not me. I didn't..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you guys seeing this? What's happening to the framework?"
+        }
+    ]
+}

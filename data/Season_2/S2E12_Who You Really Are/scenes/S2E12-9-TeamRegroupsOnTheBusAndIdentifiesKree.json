@@ -1,0 +1,262 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "TeamRegroupsOnTheBusAndIdentifiesKree",
+    "description": "Aboard the Bus, the team realizes the attacker is a Kree named Vin-Tak, and Sif explains 'Kava' means 'keys' in Kree, not a name. They use Whitehall’s historical files to track Vin-Tak’s destination—Chaves, Portugal, linking current events to prior Kree and SSR activity.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Simmons is tending to Bobbi. She's gonna be okay."
+        },
+        {
+            "character": "Skye",
+            "line": "The guy was blue, like “he just tested some Willy Wonka gum” blue, and he needed nitrogen for whatever device turned his skin pink. Do you think he's a Kree?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You told me last year the Kree had not visited our realm."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "If a Kree came to your world unannounced now, I would assume he's up to no good."
+        },
+        {
+            "character": "Coulson",
+            "line": "He attacked Bobbi and Skye, so that's a yes."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. The guy throws a mean punch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's assume you were here to stop him. We still don't know his objective."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "No, but knowing he is Kree helps. Kava, for example. I thought it was a name. It is a Kree word."
+        },
+        {
+            "character": "Coulson",
+            "line": "You also learn other species' entire languages as a child?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "“Kava” means “keys.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Keys?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "A device used to unlock..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, I know keys. It's something. Let's look into it."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Skye... thank you for engaging my enemy. You are quite brave."
+        },
+        {
+            "character": "Skye",
+            "line": "The whole room was shaking, Fitz. The gun in my hand exploded."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, god."
+        },
+        {
+            "character": "Skye",
+            "line": "I-I thought that I could handle it. But I can't. It's too much. I-I think we have to tell Coulson what's happening."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hang on. Wait. Just wait until I've or... analyzed..."
+        },
+        {
+            "character": "Skye",
+            "line": "I can't control it when I get upset or nervous."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm running that diagnostic on your blood samples right now. Hopefully, when it's done, we'll have a solution. There's nothing you..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sorry to interrupt... whatever this is. Just wanted to check out the new toys from sci-tech. Okay."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm... gonna... scour the web for “key” references."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. Yeah, you do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "You, Ms. Morse, will live."
+        },
+        {
+            "character": "Morse",
+            "line": "That's a relief."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll get you some antibiotic cream so we can keep you nice and uninfected. Thanks. Stay here."
+        },
+        {
+            "character": "Mack",
+            "line": "Ah. There goes your modeling career."
+        },
+        {
+            "character": "Morse",
+            "line": "You should talk, pretty boy."
+        },
+        {
+            "character": "Mack",
+            "line": "You talk to Hunter?"
+        },
+        {
+            "character": "Morse",
+            "line": "I did. He's thinking about sticking around."
+        },
+        {
+            "character": "Mack",
+            "line": "I heard."
+        },
+        {
+            "character": "Morse",
+            "line": "I think it's good. Things are good. Maybe... we should bring him on board."
+        },
+        {
+            "character": "Mack",
+            "line": "No chance. That ship has sailed. Besides the fact that you two have a pattern that repeats itself, you didn't tell him in the first place because you didn't want him to know that you'd been lying to him."
+        },
+        {
+            "character": "Morse",
+            "line": "Trust has never been our strong suit. And... And we're building something real here."
+        },
+        {
+            "character": "Mack",
+            "line": "I know he thinks so. But how is he gonna feel if you tell him now? Well, you can't risk it. He'll react badly. And it could blow up in our face in a big way. You can't bring him in on this, Bobbi."
+        },
+        {
+            "character": "Morse",
+            "line": "W-what am I supposed to do? I can't bring him..."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't want him here in case he takes their side. He's a friend. I don't want him fighting against us."
+        },
+        {
+            "character": "Morse",
+            "line": "He would never."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh. He loves you, and he probably will always love you. But I still think he might be capable of killing you."
+        },
+        {
+            "character": "Morse",
+            "line": "You're telling me to push him away."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm saying it's the only way you'll ever have a chance to be together, to make it work someday. You remember what it felt like when our friends turned out to be Hydra."
+        },
+        {
+            "character": "Morse",
+            "line": "We're not Hydra."
+        },
+        {
+            "character": "Mack",
+            "line": "You remember how it felt. The best thing would be if he decided to leave... and he wasn't anywhere near here when we pull the trigger on this thing. And then... maybe there's a world where we're all friends in the end."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm saying I can't find any particular keys that would be hugely important, not literal keys, not metaphorical keys, not as in “to the city.” It doesn't mean that I..."
+        },
+        {
+            "character": "May",
+            "line": "Wait. Look at this."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Chaves.” A city known for its sedimentary basins. I don't..."
+        },
+        {
+            "character": "Skye",
+            "line": "Let me guess. “Keys.”"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "That's where the Kree was heading. That's where I was chasing him. That was my mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "But Chaves, Portugal... we've seen that name before."
+        },
+        {
+            "character": "May",
+            "line": "It was in Whitehall's SSR file."
+        },
+        {
+            "character": "Coulson",
+            "line": "The site of his dig back in 1945, where he first found the Obelisk. That's where we have to go."
+        },
+        {
+            "character": "Skye",
+            "line": "Director? I'd like to sit this one out, please."
+        },
+        {
+            "character": "Coulson",
+            "line": "You all right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, just after my run-in with blue man group, I still feel a little banged-up, and I'm just worried I'm not gonna be much help out there, so..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Whenever you're ready."
+        },
+        {
+            "character": "May",
+            "line": "Is it really about being hurt, or is it about your nerves?"
+        },
+        {
+            "character": "Skye",
+            "line": "I promise, it's just about the guy making me see cartoon birdies all around my head. That's it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have Simmons give you one more check while we're gone. Let's make sure there's nothing serious."
+        },
+        {
+            "character": "Skye",
+            "line": "O-okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pull up the SSR file. I want to pinpoint exactly where this Kree guy's going."
+        }
+    ]
+}

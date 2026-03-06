@@ -1,0 +1,36 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 17,
+    "scene_name": "EmotionalReunionOnZephyrOne",
+    "description": "The surviving team members—Coulson, Fitz, Daisy (Skye), and Mack—return to Zephyr One after barely escaping the destruction of the castle and the collapsing portal. They reunite with the rest of the team amid relief, exhaustion, and heartbreak over lost friends and the sacrifices required to survive. Simmons realizes Will didn't make it, and May reflects on the cost of victory, bringing the episode to a melancholic close as everyone processes the aftermath.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter",
+        "jemma_simmons",
+        "joey_gutierrez",
+        "lincoln"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Open the doors! I'm bringing them in!"
+        },
+        {
+            "character": "Man",
+            "line": "Sir, your plane is waiting at the airport. We'll have you there in less than 30 minutes."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, I'll be damned."
+        }
+    ]
+}

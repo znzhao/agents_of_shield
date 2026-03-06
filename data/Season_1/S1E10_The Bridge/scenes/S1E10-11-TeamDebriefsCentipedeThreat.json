@@ -1,0 +1,104 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 11,
+    "scene_name": "TeamDebriefsCentipedeThreat",
+    "description": "Regrouping on the Bus, the team tries to decipher the updated Centipede technology and the identity of 'The Clairvoyant.' With Mike recovering from the mission, there is renewed concern about Centipede’s rapidly advancing technology and secretive leadership. Speculation flies about who is funding them and what their ultimate plan might be. Meanwhile, Raina and Po confer about the mysterious Clairvoyant, underscoring the growing danger.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "michael_peterson",
+        "raina"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "The one on the left is Akela Amador's. Hayward's is on the right. Now, his prosthetic was slightly damaged, but based on digital reconstruction, we can now confirm that the technology is virtually identical. Hayward's prosthetic has the same internal power source, backscatter capabilities, and biomechanics as Amador."
+        },
+        {
+            "character": "Coulson",
+            "line": "So Centipede also designed the eye implant?"
+        },
+        {
+            "character": "Skye",
+            "line": "These guys are serious multitaskers."
+        },
+        {
+            "character": "Mike",
+            "line": "Who's akela Amador?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Former S.H.I.E.L.D. agent, the first person we encountered with this eye technology, a good agent who was forced to do some bad things. We helped her."
+        },
+        {
+            "character": "Mike",
+            "line": "Kind of a pattern with you guys. So then... those soldiers at the warehouse were forced to attack us through that eye thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They were getting orders. When the tide turned in our favor, Centipede flipped Hayward's kill switch, told the other guys to run. Can you track the eye feed like before, find their location?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nope ... they've upgraded since Amador. Their feed's untraceable now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Their technology keeps advancing at a disturbingly rapid pace. They must have endless manpower, resources."
+        },
+        {
+            "character": "Skye",
+            "line": "And someone with a fat wallet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Po's the strategist. Raina's the recruiter. Perhaps this Clairvoyant's the money."
+        },
+        {
+            "character": "Fitz",
+            "line": "That makes sense. If I could see the future, I'd go straight to Las Vegas."
+        },
+        {
+            "character": "Coulson",
+            "line": "Whoever's behind them may or may not be psychic, but they're one step ahead of us every time. I need to update H.Q. This is bigger than we thought."
+        },
+        {
+            "character": "Po",
+            "line": "I spoke with the Clairvoyant."
+        },
+        {
+            "character": "Raina",
+            "line": "And?"
+        },
+        {
+            "character": "Po",
+            "line": "I'll share the information when the time is right."
+        },
+        {
+            "character": "Raina",
+            "line": "I would love to hear much more than just... information. Will you... tell me what he's like?"
+        },
+        {
+            "character": "Po",
+            "line": "Never. The last person who tried to learn these things got a knife for it. I don't want to have to do that again, Raina. You have such pretty eyes."
+        },
+        {
+            "character": "Raina",
+            "line": "I understand. You can't even whisper to me about him."
+        },
+        {
+            "character": "Po",
+            "line": "No, I can't. But I did tell the Clairvoyant about you. Spoke at length about your many virtues."
+        },
+        {
+            "character": "Raina",
+            "line": "How sweet."
+        }
+    ]
+}

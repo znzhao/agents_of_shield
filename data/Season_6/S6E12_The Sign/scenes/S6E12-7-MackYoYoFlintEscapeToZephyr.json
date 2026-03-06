@@ -1,0 +1,109 @@
+{
+    "season": 6,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "MackYoYoFlintEscapeToZephyr",
+    "description": "Mack, Elena, and Flint reach Zephyr One, where they are met by Piper. They update her on the situation; Piper agrees to fly Flint to safety. This heartfelt moment underscores the bonds between the team members, with Mack and Elena expressing their responsibility to Flint and ensuring his well-being, while they prepare to return to help at the temple.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "piper"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Piper",
+            "line": "Hey, where'd you come from?"
+        },
+        {
+            "character": "Flint",
+            "line": "Lady, if I told you, you wouldn't believe me."
+        },
+        {
+            "character": "Piper",
+            "line": "Oh, you'd be surprised. You're lucky you made it here. There's something out in that jungle."
+        },
+        {
+            "character": "Mack",
+            "line": "Shrike zombies. It's like a Romero movie out there."
+        },
+        {
+            "character": "Piper",
+            "line": "Zombies. Why not?"
+        },
+        {
+            "character": "Flint",
+            "line": "Oh, so this is Zephyr One. I never thought I'd see it. Or see a jungle. There are so many plants. But no oranges. And the air is sticky."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, it sounds like you feel better, but you gotta try to relax, okay?"
+        },
+        {
+            "character": "Flint",
+            "line": "Okay."
+        },
+        {
+            "character": "Mack",
+            "line": "Piper?"
+        },
+        {
+            "character": "Piper",
+            "line": "Can you wrap this up? Thanks."
+        },
+        {
+            "character": "Mack",
+            "line": "That's Flint."
+        },
+        {
+            "character": "Piper",
+            "line": "Wait, “Flint” from the future who saved everybody?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that's him. Izel shattered his leg, so when the shock wears off, it's gonna be bad. Can you fly him out of here?"
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, I mean, he helped save the planet. I think we owe him one."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you. Yo-Yo and I are gonna head back to the temple."
+        },
+        {
+            "character": "Piper",
+            "line": "Well, Daisy, May, and Sarge will appreciate the backup."
+        },
+        {
+            "character": "Mack",
+            "line": "Sarge? He's here?"
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, Daisy think he's the only one who can kill Izel."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. This is Piper. She's gonna take you out of here and get you fixed up."
+        },
+        {
+            "character": "Elena",
+            "line": "It's gonna be okay, Flint. This world it's so much better than the one you came from."
+        },
+        {
+            "character": "Flint",
+            "line": "You guys still have tacos, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "All the tacos you want, Pebbles. We'll hit a drive-through when we get back."
+        },
+        {
+            "character": "Flint",
+            "line": "Cool. Wait, what's a drive-through?"
+        }
+    ]
+}

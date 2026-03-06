@@ -1,0 +1,138 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 3,
+    "scene_name": "GonzalesInterrogatesMorseAndFitzSimmons",
+    "description": "Gonzales confers with Morse, Fitz, and Simmons about Coulson’s actions and the mysterious box. The group debates Coulson's trustworthiness and the events involving Skye. Tensions escalate as loyalty and motives are questioned and Gonzales requests their cooperation with the locked box, foreshadowing future conflict within S.H.I.E.L.D.",
+    "roles": [
+        "robert_gonzales",
+        "bobbi_morse",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "Seven agents down, Calderon barely hanging on, and you want to defend that thing?"
+        },
+        {
+            "character": "Morse",
+            "line": "She's a S.H.I.E.L.D. agent, not a thing. What happened wasn't her fault. I was there. Calderon fired at her."
+        },
+        {
+            "character": "Gonzales",
+            "line": "She was armed and hostile."
+        },
+        {
+            "character": "Morse",
+            "line": "She was scared and defending herself."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I don't care if she was chasing butterflies. We can't wear kid gloves around something with powers of that magnitude. She could have killed everyone."
+        },
+        {
+            "character": "Morse",
+            "line": "But she didn't."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Only because that other freak pulled her from the fight. Was he one of Coulson's?"
+        },
+        {
+            "character": "Morse",
+            "line": "We've only recently encountered him. Coulson's as in the dark as we are."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Are you certain about that? If Coulson's collecting powered people, we need to know before they come knocking on our door. No one wants a war, Barbara."
+        },
+        {
+            "character": "Morse",
+            "line": "That's not gonna happen. Coulson's reasonable."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Then we need to get into that box to know for sure."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, then you need Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Pure vibranium shell... no ports, no external power source. How do you get inside to retrieve the data?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I suspect advanced biometric access points."
+        },
+        {
+            "character": "Fitz",
+            "line": "Probably loaded with self-destruct triggers."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Leo Fitz, Jemma Simmons, the ones that got away. I had my eye on you two when you were at the academy. I wanted to recruit you, but Coulson beat me to it. I heard he actually bribed Weaver with cupcakes. Robert Gonzales."
+        },
+        {
+            "character": "Simmons",
+            "line": "We know who you are, and we are quite aware of your commendable reputation. Under different circumstances, we might even be flattered. Which is why this is so hard to comprehend."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Under different circumstances, we would have preferred to be invited guests, but that forced our hand. We had to take it out of play."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's inside that's so important?"
+        },
+        {
+            "character": "Morse",
+            "line": "All we know is that Coulson and Fury both believed it was valuable enough or dangerous enough to protect with extreme measures."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it was their favorite recipes."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Maybe it is. Then, maybe, we can put all this behind us and move on. That's why I'm asking you for your help, Leo."
+        },
+        {
+            "character": "Simmons",
+            "line": "And if he refuses, will you lock him up, like you did Agent May?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "There are no prisoners here. We are all S.H.I.E.L.D. agents. Exit protocols have not changed."
+        },
+        {
+            "character": "Morse",
+            "line": "Once you're cleared and debriefed, you're free to go, if that's what you really want."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. I'll start packing my things."
+        },
+        {
+            "character": "Simmons",
+            "line": "You should have brought cupcakes."
+        },
+        {
+            "character": "Morse",
+            "line": "Well... You have to admire their loyalty."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Loyalty to a man and not to S.H.I.E.L.D. That makes Coulson as dangerous as whatever's in that box."
+        }
+    ]
+}

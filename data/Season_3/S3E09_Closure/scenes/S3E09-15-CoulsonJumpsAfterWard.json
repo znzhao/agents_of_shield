@@ -1,0 +1,105 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 15,
+    "scene_name": "CoulsonJumpsAfterWard",
+    "description": "As HYDRA activates the portal and sends their team through, Coulson, Hunter, and Morse observe from Zephyr One. Realizing he's running out of time, Coulson recklessly jumps in after them to put an end to Ward himself. Hunter and Morse are left behind as the portal is sealed, with HYDRA locking down the facility.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "action-packed",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Looks like they're getting ready."
+        },
+        {
+            "character": "Hunter",
+            "line": "They're gonna take Fitz or Simmons."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's the smart play. Whatever they want over there, they'll take one to guide the team back, keep the other one here for insurance. That's Ward."
+        },
+        {
+            "character": "Hunter",
+            "line": "You can't seriously know that from a bloody heat signature."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's him."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait for me. Once you get down there, you establish a perimeter. Wait for me. I'm right behind you. Get on in."
+        },
+        {
+            "character": "Malick",
+            "line": "Find it, get to the exit coordinates, we'll turn the portal back on in exactly 12 hours."
+        },
+        {
+            "character": "Ward",
+            "line": "Got it."
+        },
+        {
+            "character": "Malick",
+            "line": "Bring it back, my friend. Be the one that finishes what HYDRA started. Making history today."
+        },
+        {
+            "character": "Ward",
+            "line": "Cheer up. New beginning for both of us."
+        },
+        {
+            "character": "Morse",
+            "line": "He's going through."
+        },
+        {
+            "character": "Hunter",
+            "line": "If that really is Ward, then we're too late."
+        },
+        {
+            "character": "Morse",
+            "line": "Can you please go talk some sense into him?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You can't do this. Only a complete lunatic would go down there without a plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm ending this."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, bloody hell."
+        },
+        {
+            "character": "Morse",
+            "line": "Wait, wait. What the hell are you doing?"
+        },
+        {
+            "character": "Hunter",
+            "line": "We both know common sense was never really my strong suit."
+        },
+        {
+            "character": "Morse",
+            "line": "HYDRA's got us locked in! We need to move!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson, wait!"
+        },
+        {
+            "character": "Malick",
+            "line": "Shut it down."
+        },
+        {
+            "character": "Ward",
+            "line": "It's nothing! Come on. Get moving!"
+        }
+    ]
+}

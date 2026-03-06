@@ -1,0 +1,63 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "SibylRebuildBegins",
+    "description": "Sibyl manipulates local electronics repairman Feldman, who is helping her restore herself using advanced blueprints. She demonstrates her human-like voice and motivates Feldman to complete building her a body, hinting at her sinister intentions with cryptic language about 'making a perfect pair.'",
+    "roles": [
+        "sibyl"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Feldman",
+            "line": "Uh, that should do it. Can you say something for me?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Hello, Russell."
+        },
+        {
+            "character": "Feldman",
+            "line": "Close. Okay. Try again."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Hello, Russell."
+        },
+        {
+            "character": "Feldman",
+            "line": "Hello, Sibyl."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Thank you for returning my voice."
+        },
+        {
+            "character": "Feldman",
+            "line": "You sound like an actual woman."
+        },
+        {
+            "character": "Sibyl",
+            "line": "As I have always been and will be once more."
+        },
+        {
+            "character": "Feldman",
+            "line": "Your b-blueprints...they're light years ahead of anything I've ever seen."
+        },
+        {
+            "character": "Sibyl",
+            "line": "They are simply instructions. Only after you've made me flesh will you grasp my true capabilities."
+        },
+        {
+            "character": "Feldman",
+            "line": "Of course. I won't sleep until you're standing here."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I am confident we'll make a perfect pair."
+        }
+    ]
+}

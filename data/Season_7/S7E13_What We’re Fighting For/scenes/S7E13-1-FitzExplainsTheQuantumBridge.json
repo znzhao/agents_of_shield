@@ -1,0 +1,319 @@
+{
+    "season": 7,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "FitzExplainsTheQuantumBridge",
+    "description": "Fitz reunites with the team and reveals that the only way to save their original timeline is to survive in this one and return with Kora. The debate grows heated as Coulson and Mack refuse to abandon the people of this timeline to the Chronicoms, highlighting the moral consequences. Deke devises a plan to use the energy from New York City to send the Chronicom ships along with them, and volunteers to stay behind. The team shares heartfelt goodbyes as Deke prepares to assume command in this world.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I'm just glad to see you all in one piece."
+        },
+        {
+            "character": "Daisy",
+            "line": "One piece?"
+        },
+        {
+            "character": "Deke",
+            "line": "Aren't you worried?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons' mind is in shambles."
+        },
+        {
+            "character": "Fitz",
+            "line": "Give her time. Hopefully no serious damage has been done."
+        },
+        {
+            "character": "May",
+            "line": "What do you mean, “no damage?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "The Chronicom fleet destroyed S.H.I.E.L.D."
+        },
+        {
+            "character": "Fitz",
+            "line": "That won't matter. We can still get back to our original timeline and save it."
+        },
+        {
+            "character": "Mack",
+            "line": "We can go back?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. That's where I just came from. Look, I... I kn... I know that it hasn't been easy. You made sacrifices. Clearly, so did we. But there was no other way."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell is that supposed to mean?"
+        },
+        {
+            "character": "Elena",
+            "line": "Not easy?"
+        },
+        {
+            "character": "Deke",
+            "line": "No other way? Are you kidding?"
+        },
+        {
+            "character": "May",
+            "line": "And where the hell have you been?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Listen! The only way we can save the original timeline was for you to survive through this one."
+        },
+        {
+            "character": "Coulson",
+            "line": "You saw how this would play out?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I saw countless versions of how it could unfold. But we had no choice."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just threw us into the deep end and hope we don't drown?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We hope that you survive this far to give us the key to save our world."
+        },
+        {
+            "character": "May",
+            "line": "Key? W-What key?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Kora. Did Kora survive?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, thank God. Where is she?"
+        },
+        {
+            "character": "Daisy",
+            "line": "She's with the enemy... Nathaniel Malick."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? What happened? She's your sister. Didn't you connect? Jiaying..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Jiaying is dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "But she is pivotal. Okay. All right. Uh... We'll need to find a way to work around that. Here. Um, right now, we need to get this Quantum Bridge onto the Zephyr."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hold on."
+        },
+        {
+            "character": "Fitz",
+            "line": "We need to hook it up so we can all fly home together."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't leave."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, we can."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, look, I'm sorry, I know there's a lot to explain... the multiple dimensions... Okay, look, you went back in time, and then you branched off. But we can travel through something called the Quantum Realm. So, we... we... we... we can go in between timelines."
+        },
+        {
+            "character": "Coulson",
+            "line": "I mean we can't abandon these people. We can't leave this timeline with the Chronicoms about to launch an all-out invasion."
+        },
+        {
+            "character": "Mack",
+            "line": "And if we do, we have to take the enemy back with us."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I understand that. I do. But that decreases the chances of success a fair amount... something like 85%."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't talk to me about percentages."
+        },
+        {
+            "character": "May",
+            "line": "This is not math."
+        },
+        {
+            "character": "Elena",
+            "line": "You sound like a robot."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can everyone please stop yelling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't some abstract or virtual world, like the Framework. These people, they've suffered enough."
+        },
+        {
+            "character": "Deke",
+            "line": "This reduces you? Subatomic? Does it create an energy field to do it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, a bubble, for... for want of a better word."
+        },
+        {
+            "character": "Deke",
+            "line": "No, no. No, “bubble” is a great word. Because you can make it bigger. I-If we use enough energy, we can bring all the Chronicom ships back with us."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know if the Zephyr can generate enough power to..."
+        },
+        {
+            "character": "Deke",
+            "line": "No, but 1983 New York City can, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... y-yeah. I... We'd need something like 10,000 megawatts, but s-someone would have to..."
+        },
+        {
+            "character": "Deke",
+            "line": "Stay behind and set it up and turn it on... yeah. We have to break up the band."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know if that matters. ‘Cause this... this is the last mission together, isn't it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "How could you know that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch told us. Before he died."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, that's true. In fact, no matter what the outcome, this will be the last time we're all in the same room together. Ever."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'll stay. I belong here. I've already been given the privilege of a second chance, of meeting all you... fine people. It's only right. If the Army taught me anything, it's that... it's that you can't..."
+        },
+        {
+            "character": "Deke",
+            "line": "Pbbbbbht! I'll stay."
+        },
+        {
+            "character": "Deke",
+            "line": "First of all, I'm the one with the scientific knowledge to be able to repatch the power. Dannyboy over here is still impressed by a light bulb."
+        },
+        {
+            "character": "Mack",
+            "line": "That's not accurate or nice."
+        },
+        {
+            "character": "Deke",
+            "line": "And second, seems like you and Daisy have a real thing going, and I... I just want you to be happy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke..."
+        },
+        {
+            "character": "Deke",
+            "line": "And third, as long as you reconnect with Nana and then, you know... connect... then maybe you'll see me again someday."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke, that's..."
+        },
+        {
+            "character": "Deke",
+            "line": "And honestly... I'm kind of a rock god here, anyway."
+        },
+        {
+            "character": "Deke",
+            "line": "All right, people! No time to argue. I've already made up my mind. Now let's get to it!"
+        },
+        {
+            "character": "Deke",
+            "line": "Come on, people. Let's go, let's go. Keep it snappy. We're running out of time."
+        },
+        {
+            "character": "May",
+            "line": "Seconds away."
+        },
+        {
+            "character": "Deke",
+            "line": "All set on this end, Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Watch over little Alphie, will you? Hell, watch over all of us."
+        },
+        {
+            "character": "Deke",
+            "line": "You know I will. I don't..."
+        },
+        {
+            "character": "Mack",
+            "line": "You don't give up on friends. I know better than anyone. Thank you for everything, Agent Shaw."
+        },
+        {
+            "character": "May",
+            "line": "Get ready!"
+        },
+        {
+            "character": "Mack",
+            "line": "Here we go. One, two..."
+        },
+        {
+            "character": "Deke",
+            "line": "Wait, wait. Like, on three or, like, “One, two, three, go?”"
+        },
+        {
+            "character": "Mack",
+            "line": "On three, damn it. One, two, three."
+        },
+        {
+            "character": "Gamble",
+            "line": "So... you the new guy in charge now?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yes."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 22
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and vital operative within S.H.I.E.L.D., evolving from an outsider hacker to a fully integrated member of the team. She demonstrates remarkable resilience and emotional strength, confronting betrayals personally while holding fast to her sense of justice and loyalty to her found family. Throughout her experiences involving Hydra and the Centipede project, Skye grows into a strategically valuable field asset who balances toughness and vulnerability. Her remarkable empathy and resolve surface especially in moments of direct confrontation and leadership, underscoring her commitment to protect her team and secure justice for wrongs inflicted upon them and others. Skye's trajectory is marked by her increasing agency and tactical savvy, solidifying her as a formidable and complex character in the shadowy conflicts surrounding S.H.I.E.L.D.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "develop_asset_evaluator_skills",
+        "goal": "To develop skills in evaluating and managing individuals with emerging powers as a valuable S.H.I.E.L.D. asset"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_truth_about_GH325_and_Fury",
+        "goal": "To discover the full truth about the GH-325 drug, its origins, and the reasons behind Fury's secrets"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "confront_garrett_and_hydra_threats",
+        "goal": "To confront and overcome John Garrett and dismantle Hydra's operations to protect her team and the world"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_12",
+      "context": "expressing firm resolve in confronting Ward's betrayal and manipulation",
+      "catch_phrase": "I'm not afraid of you, Ward."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 14,
+    "scene_name": "BusTeamPlansSurvival",
+    "description": "Aboard the Bus, Skye, Fitz, and Simmons lament the dismantling of S.H.I.E.L.D. and the loss of their data, while Coulson gives the order to begin repairs. May asks if she is still welcome; Coulson accepts her as an ally, if not a friend. The battered team regroups, determined to survive and fight another day despite uncertain circumstances.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "It's all gone."
+        },
+        {
+            "character": "Simmons",
+            "line": "In pieces, at least."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, try to restore some of the firmware in the plane's systems. Fitz-Simmons, get a crew together. Help May patch the holes."
+        },
+        {
+            "character": "May",
+            "line": "You still want me on board?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not a friend. But I do believe you're an ally. We need all the allies we can get."
+        },
+        {
+            "character": "May",
+            "line": "What are we planning to do next?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Survive."
+        }
+    ]
+}

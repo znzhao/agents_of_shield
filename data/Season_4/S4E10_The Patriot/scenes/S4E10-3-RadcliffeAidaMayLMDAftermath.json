@@ -1,0 +1,77 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 3,
+    "scene_name": "RadcliffeAidaMayLMDAftermath",
+    "description": "Radcliffe, at his house, discusses the fallout of Aida's actions with Fitz. Fitz advises Radcliffe to stay away from S.H.I.E.L.D. headquarters, mentioning the danger of the Aida project. Radcliffe expresses concern about overseeing the May LMD remotely and the risks if her true identity is revealed. Aida reaffirms her confidence in Radcliffe, who remains wary of the potential for exposure.",
+    "roles": [
+        "leo_fitz",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "dramatic",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "She was designed for this very purpose. AIDA was meant to save lives, prevent assassination attempts."
+        },
+        {
+            "character": "Fitz",
+            "line": "But instead we just had a funeral for Agent Nathanson."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah. A painful loss, we all agree. But look, I can figure out what went wrong. Let me examine her! I'll pinpoint the problem."
+        },
+        {
+            "character": "Fitz",
+            "line": "Radcliffe."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "We can sort it, restart the program."
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't think that's the best idea just now. ♪ Tempers are running high after... the incident. I think you should steer clear of HQ for a few days."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Who's this coming from? The Director? Agent Coulson?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep and yep. Along with everybody else. But it'll blow over. And in the meantime, I'll still pop ‘round for football matches."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, if you think it's best. All right. This is not good. Not good at all. AIDA! Get me two... No, four aspirin."
+        },
+        {
+            "character": "AIDA",
+            "line": "If you have a headache, I could get the acupuncture needles."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, the pills are fine. We have a problem with Agent May."
+        },
+        {
+            "character": "AIDA",
+            "line": "She's in a better place now."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, the... the May LMD. Apparently, I am unwelcome at S.H.I.E.L.D. headquarters, so she's all on her own. This is unprecedented technology at play here. I need to keep an eye on her. The slightest miscalculation could reveal her true nature."
+        },
+        {
+            "character": "AIDA",
+            "line": "I have confidence in you, Doctor."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Of course you do. But if she draws suspicion, this is all for naught."
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 13,
+    "scene_name": "DaisyInfiltratesTransia",
+    "description": "Daisy infiltrates the Transia Corporation facility solo while Fitz relays security feed updates. She navigates towards the locations in her vision, fighting Hydra agents. Fitz, Simmons, Lincoln, and Coulson coordinate support and observe threats, expressing concern as Daisy comes close to the fated rooftop encounter. The presence of Grant Ward (Hive) is confirmed, intensifying Coulson and Lincoln's unease.",
+    "roles": [
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "lincoln",
+        "grant_ward"
+    ],
+    "vibe": "thrilling",
+    "location": "Transia Corporation facility (Michigan / corporate sites)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We're tapped in. It's a pirated wireless signal, so touch and go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can you find the security office?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is that Giyera?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's him. I'd know his face anywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "You hear what Andrew was saying, Lincoln? Even he thinks he's serving some higher purpose."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah. Maybe it's true, then. Maybe Daisy and Charles were brought together for a reason."
+        },
+        {
+            "character": "Coulson",
+            "line": "Could be. Also, could be you all are crazy and this is pointless and nothing we see here will make any sense. What?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Was that Ward?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Unfortunately, I think that's something else."
+        },
+        {
+            "character": "Simmons",
+            "line": "My God. What is she walking into?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Would I change things if I could? You weren't asking about becoming Inhuman."
+        },
+        {
+            "character": "May",
+            "line": "I was talking about us. Every terrible thing that has happened to you could have been avoided if you'd never met me."
+        },
+        {
+            "character": "Andrew",
+            "line": "I wouldn't change a thing."
+        },
+        {
+            "character": "May",
+            "line": "I would."
+        },
+        {
+            "character": "Andrew",
+            "line": "Well, you're still the center of the best moments of my life. Whether this vaccine works or not, right now, with you here, is exactly where I'm supposed to be."
+        },
+        {
+            "character": "Daisy",
+            "line": "One-way mirror."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guess it's a good thing I was here."
+        },
+        {
+            "character": "Daisy",
+            "line": "How did you know that..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been monitoring the security feed. Oh, and by the way, your chances of not going up to the roof just evaporated. HYDRA's already taking Charles there now. Get moving."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Wait. What are you gonna do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Find Grant Ward. Yeah. Day got weirder."
+        },
+        {
+            "character": "Giyera",
+            "line": "They've breached the security office. Mr. Malick is taking the company's helicopter, but I'd rather sneak you out another way if S.H.I.E.L.D. is present. We'll try to scramble their communications. Should I give the order to kill any S.H.I.E.L.D. agents?"
+        },
+        {
+            "character": "Hive",
+            "line": "Only if they're human."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, the security entrance, north side."
+        },
+        {
+            "character": "Lincoln",
+            "line": "All right, let's go!"
+        },
+        {
+            "character": "Simmons",
+            "line": "And we?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't go any closer. We stay here, without a cloud in the sky. Maybe Daisy didn't see the future."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward was here, 20th floor. You two go with Lincoln. Work your way up. We'll take the elevator and work down. Let's go."
+        },
+        {
+            "character": "May",
+            "line": "So, now we wait and see, I guess."
+        },
+        {
+            "character": "Andrew",
+            "line": "I'm sorry to drag you away. Looked like you guys were prepping for a mission."
+        },
+        {
+            "character": "May",
+            "line": "Long story. Though Daisy's so confident in her ability as an Inhuman, she believes she can change the future."
+        },
+        {
+            "character": "Andrew",
+            "line": "That's funny. We're trying to do the same."
+        }
+    ]
+}

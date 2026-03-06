@@ -1,0 +1,63 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 8,
+    "scene_name": "RadcliffeNeedsKreeDNA",
+    "description": "Hive holds Radcliffe accountable for the failed experiment and demands answers. Radcliffe nervously explains that success requires DNA from a living Kree, not from Hive’s own altered blood. Hive’s threat against Radcliffe underscores his impatience and the urgency to find a solution.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "The genetic makeup of Inhumans is incredibly complex. We were bound to run into complications."
+        },
+        {
+            "character": "Hive",
+            "line": "You assured me this would work."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, and it would have i-if I'd been provided with the right ingredients."
+        },
+        {
+            "character": "Hive",
+            "line": "Are you implying the mistake was mine?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. No, no. Well, yes, but it wasn't an intentional mistake. You see, the thing is, I need DNA from a living Kree to complete the genome sequence. The DNA you gave me, your blood... it's from a dead host, a handsome but dead host. It's no good. I mean, it's great for you, but it, for this, it's no good."
+        },
+        {
+            "character": "Hive",
+            "line": "If this were true, why are you just telling me this now?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Ohh, I wasn't sure. I was swept up in the moment! I wanted to change the world! And besides, you're very frightening."
+        },
+        {
+            "character": "Hive",
+            "line": "Well, you are right to be scared. I don't need you. I can just kill you and inhabit your body, take your mind, your memories."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, that's a really bad idea. You should ask my therapist. My childhood was a total mess. The swim team were not nice to me. Plus, I can make this work."
+        },
+        {
+            "character": "Hive",
+            "line": "Why should I believe you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Because I want it to work. This is game-changing stuff, kick-starting mankind into a new gear. Everything I've done leading up to this, it just pales. I promise, you won't regret this. I'm your guy. Yeah, I've been meaning to... been meaning to ask about those. What are they for, exactly?"
+        },
+        {
+            "character": "Hive",
+            "line": "If you were scared before, you should be terrified now."
+        }
+    ]
+}

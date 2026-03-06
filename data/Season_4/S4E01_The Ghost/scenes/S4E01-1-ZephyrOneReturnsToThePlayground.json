@@ -1,0 +1,317 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 1,
+    "scene_name": "ZephyrOneReturnsToThePlayground",
+    "description": "Coulson and Mack relax aboard Zephyr One as they return to S.H.I.E.L.D. headquarters after weeks in the field. They share banter about their travels before being summoned back unexpectedly. Upon arrival, May informs them of a strange murder case in Los Angeles that might involve someone enhanced, possibly Daisy. The group discusses how to proceed while avoiding direct attention from S.H.I.E.L.D.'s new director. Their covert aim is to locate Daisy before the authorities do.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "It's coming! Get ready! Go, man, go!"
+        },
+        {
+            "character": "Man",
+            "line": "Help. He... He got me. He'll kill us all."
+        },
+        {
+            "character": "Daisy",
+            "line": "Get back!"
+        },
+        {
+            "character": "Mack",
+            "line": "You need to sacrifice everything if you want to survive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hmm. That's funny. ‘Cause I thought I would just..."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Yeah, that's one way to go. Want a beer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's 6:00 in the morning. What, are you Hemingway?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, is that real? When did we cross the North Pole?"
+        },
+        {
+            "character": "Coulson",
+            "line": "An hour ago."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, my gosh. It's hard to keep track in this thing. We shouldn't have to stay on clock when we're moving through time zones. I mean, what is that... three continents in two days?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If you count Berlin. We were only there three hours."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we knew that Inhuman call was a hoax as soon as we stepped foot in the apartment, saw that bong."
+        },
+        {
+            "character": "Coulson",
+            "line": "I could smell it from the hallway."
+        },
+        {
+            "character": "Mack",
+            "line": "Jokers. Hungry for attention."
+        },
+        {
+            "character": "Coulson",
+            "line": "And potato chips. If the munchies was a superpower, they'd be signing the Sokovia Accords as we speak."
+        },
+        {
+            "character": "Mack",
+            "line": "You should let me work on Lola."
+        },
+        {
+            "character": "Coulson",
+            "line": "I warned you. Everything in Lola is custom."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, yeah, everything is custom. But it would be something to do. There's only so many times a guy can win cash off you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got to stop calling me that."
+        },
+        {
+            "character": "Davis",
+            "line": "We're being called back to H.Q."
+        },
+        {
+            "character": "Coulson",
+            "line": "They say why?"
+        },
+        {
+            "character": "Mack",
+            "line": "We're not due for a restock for another 10 days."
+        },
+        {
+            "character": "Davis",
+            "line": "No idea. They said it's classified."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, everything is nowadays. All right, we'll need full inventory. Medical, provisions, fuel cells, and make sure you tell the crew they'll need to call ahead if they want off our next deployment."
+        },
+        {
+            "character": "Davis",
+            "line": "Agent Thompson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wonder what that's about."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, I don't know. It'll be good to see Fitz and Simmons."
+        },
+        {
+            "character": "Coulson",
+            "line": "And May."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah... I think you look forward to that more than I do."
+        },
+        {
+            "character": "May",
+            "line": "Hyah!"
+        },
+        {
+            "character": "May",
+            "line": "What was his mistake? You know I'm not gonna talk."
+        },
+        {
+            "character": "Agent",
+            "line": "He didn't anticipate your back kick. Opened himself up."
+        },
+        {
+            "character": "Piper",
+            "line": "His mistake was he tapped out."
+        },
+        {
+            "character": "May",
+            "line": "Piper."
+        },
+        {
+            "character": "Piper",
+            "line": "Okay, people! What, you never seen the biggest plane ever built before?! Next pairing, on the mat!"
+        },
+        {
+            "character": "May",
+            "line": "How long has it been?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Six weeks in the air. Only the Quinjet touched down."
+        },
+        {
+            "character": "May",
+            "line": "Is that a record for Zephyr One?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It is. It was supposed to be even longer. You know who called us in?"
+        },
+        {
+            "character": "May",
+            "line": "I do."
+        },
+        {
+            "character": "Coulson",
+            "line": "You? Okay. Now I know something's up."
+        },
+        {
+            "character": "May",
+            "line": "I got word from contacts in law enforcement, Los Angeles. Two civilians were violently killed."
+        },
+        {
+            "character": "Mack",
+            "line": "Mysterious burns, heads bashed in, spine pulled out of his... Wow."
+        },
+        {
+            "character": "May",
+            "line": "Many conflicting accounts, but all agree, it was odd."
+        },
+        {
+            "character": "Coulson",
+            "line": "Odd? Isn't that our wheelhouse?"
+        },
+        {
+            "character": "Mack",
+            "line": "He's right. Why call us in? We could be headed to the scene right now to confirm the presence of an enhanced person, if there is one."
+        },
+        {
+            "character": "Coulson",
+            "line": "If it checks out, we bag and tag. We handle these on the fly."
+        },
+        {
+            "character": "May",
+            "line": "Didn't exactly want to send this out on the wire."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, you're not sharing again. Now would be a really good time to share."
+        },
+        {
+            "character": "May",
+            "line": "The police also have another victim in custody. Critical condition."
+        },
+        {
+            "character": "May",
+            "line": "Under sedation, he mentioned seeing a girl, saying it was the one from the news. Quake."
+        },
+        {
+            "character": "Mack",
+            "line": "Which you didn't want to send over the wire."
+        },
+        {
+            "character": "Mack",
+            "line": "You were pulled off Daisy's case."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Director thinks she slipped through our fingers too many times."
+        },
+        {
+            "character": "May",
+            "line": "The Director thinks you let her."
+        },
+        {
+            "character": "Mack",
+            "line": "No, we pursued her. She was a ghost."
+        },
+        {
+            "character": "May",
+            "line": "Well, in his infinite wisdom, he says you're now forbidden to."
+        },
+        {
+            "character": "Mack",
+            "line": "But you're telling us this because...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "In case we want to do something about it."
+        },
+        {
+            "character": "May",
+            "line": "Look, I can bury this until the official police report comes through."
+        },
+        {
+            "character": "Coulson",
+            "line": "That'll buy us a few hours lead time. Get to L.A., sniff around."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. We have an active Inhuman asset in Los Angeles that's due for a check-in soon enough."
+        },
+        {
+            "character": "Coulson",
+            "line": "It'll justify our presence there, but as soon as the report's filed, they'll pull us out."
+        },
+        {
+            "character": "Mack",
+            "line": "And the armed forces will be sent in after her."
+        },
+        {
+            "character": "May",
+            "line": "With orders to kill."
+        },
+        {
+            "character": "Coulson",
+            "line": "To kill?"
+        },
+        {
+            "character": "May",
+            "line": "If she's responsible for these bodies."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not Daisy's M.O."
+        },
+        {
+            "character": "May",
+            "line": "The world knows her as Quake, and Quake is an outlaw who takes down banks and bridges."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, come on. We both know she's tracking these fanatics..."
+        },
+        {
+            "character": "Mack",
+            "line": "She's hunting violent radicals."
+        },
+        {
+            "character": "Coulson",
+            "line": "... the Watchdogs, trying to take down their funding, their... their escape routes."
+        },
+        {
+            "character": "May",
+            "line": "Regardless, you should fuel up and get back up in the air ASAP."
+        },
+        {
+            "character": "Mack",
+            "line": "Find her before the military does something bad."
+        },
+        {
+            "character": "May",
+            "line": "Or Daisy does something worse."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 6,
+    "scene_name": "FitzwardTension",
+    "description": "Fitz meets Ward post-polygraph, and their banter reveals tensions over Triplett and Simmons. Ward warns Fitz not to hesitate if he has feelings for Simmons, as everything is uncertain now—and Fitz scoffs at Ward's unusual candor, noting it doesn't fit his usual personality.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "melancholic",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Hey. Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. Got my lanyard."
+        },
+        {
+            "character": "Fitz",
+            "line": "Nice."
+        },
+        {
+            "character": "Ward",
+            "line": "So, are you guys taking off?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I wish you were coming instead of trip. He's insufferable, isn't he?"
+        },
+        {
+            "character": "Ward",
+            "line": "Trip? Yeah. Think the guy's okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. He's terrible. He's a horrible person."
+        },
+        {
+            "character": "Ward",
+            "line": "You sure this is about him? Not about Simmons?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What the hell does that mean?"
+        },
+        {
+            "character": "Ward",
+            "line": "Everything is falling apart around us. We don't know how it'll end. If there's something you want to tell her, don't wait."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe Simmons should check you again for a head injury... ‘cause that's not the Ward that I know."
+        },
+        {
+            "character": "Ward",
+            "line": "You know what? Do what you want. I don't care."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good to have you back."
+        }
+    ]
+}

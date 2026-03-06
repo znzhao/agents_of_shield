@@ -1,0 +1,97 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 7,
+    "scene_name": "CoulsonPreparesAttack",
+    "description": "Back at the Playground, Coulson rallies his core team as they prepare to storm the Iliad, reacting to the expanded S.O.S. and discussing Bobbi's condition. Fitz reveals his invention to trap Gordon, while Simmons tends to Cal. Emotional moments occur between Simmons and Fitz, and Coulson delegates roles for the upcoming assault, opting to include Cal as a last-resort distraction. The team’s camaraderie and worry about the coming conflict are palpable.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "lance_hunter",
+        "bobbi_morse",
+        "calvin_johnson"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sir, good news. I've modified my field generators to act in unison as a quantum-field disrupter."
+        },
+        {
+            "character": "Coulson",
+            "line": "Great, you're saying you found a way to shut down Gordon's teleportation ability?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, now my news sounds less good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "The disrupter should keep him contained to a single space."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll take anything. We have Quinjets flying in from all over the world right now to answer the S.O.S. with us. It will be nice to have something more to offer them than an encouraging thumbs-up."
+        },
+        {
+            "character": "Fitz",
+            "line": "What about Bobbi?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Landing any moment."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cal destroyed the lab. It's unusable right now. This is our best option. We'll make it work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any update from May on Bobbi's condition?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They've slowed the bleeding. She's holding on, but barely. Okay. We'll see."
+        },
+        {
+            "character": "Coulson",
+            "line": "And is Cal stable enough to join the mission on the carrier?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Why would you want Cal on the mission?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That doesn't sound like a very good idea."
+        },
+        {
+            "character": "May",
+            "line": "Gunshot wound to the upper back. Exit wound in the chest. Pulse is 140 and weak. B.P.'s 60 over 30."
+        },
+        {
+            "character": "Hunter",
+            "line": "She stopped breathing just before we landed."
+        },
+        {
+            "character": "May",
+            "line": "I bagged her, got her going again. Hurry."
+        },
+        {
+            "character": "Simmons",
+            "line": "1, 2, 3. Let's get her prepped for surgery. CBC with diff, chem-20. Portable chest x-rays. Cross and type for two units."
+        },
+        {
+            "character": "Woman",
+            "line": "Yes, doctor."
+        }
+    ]
+}

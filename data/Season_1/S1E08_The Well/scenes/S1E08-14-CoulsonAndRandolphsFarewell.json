@@ -1,0 +1,63 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 14,
+    "scene_name": "CoulsonAndRandolphsFarewell",
+    "description": "Coulson contemplates the staff, discussing his own death and resurrection with Randolph. He offers Randolph advice on how to avoid new media attention and ponders similarities between their experiences. The two share a moment of respect and understanding before Coulson suggests a quieter life for Randolph in Portland. Each man finds some peace regarding their unique burdens.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "I know that look. You tempted? Now, what is it you want to see?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You and I have a lot in common. We've both been stabbed in the heart. I was killed. Well, almost. I'm hazy on that. Afterwards... it's kind of a blank. I have no memory of being revived, of being in a hospital. Just... woke up a few months later."
+        },
+        {
+            "character": "Randolph",
+            "line": "And are you haunted by it, Mr. Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Not exactly."
+        },
+        {
+            "character": "Randolph",
+            "line": "Then what's the problem?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I suppose you're right. Can we give you a lift back to the university?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, you know, with Europe's new fascination with all things Asgardian, I'm wondering if it's time to start over somewhere else."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice beach? Life of tropical drinks and massages?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Mm, oh, I'd get bored."
+        },
+        {
+            "character": "Coulson",
+            "line": "You should consider the American Northwest. Maybe Portland. Good food scene. Great philharmonic."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, if you would, come and visit. It's not everyone I get to share my stories with."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sure. And if Thor's in town, I'll introduce you."
+        }
+    ]
+}

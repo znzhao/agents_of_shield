@@ -1,0 +1,83 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "TeamRegroupsToFindAIDA",
+    "description": "Back at the Playground, Coulson, May, Mack, Fitz, and Radcliffe discuss AIDA’s motives and the potential corruption from the Darkhold. Mack accuses Radcliffe of creating the problem, while Fitz and Radcliffe debate AIDA’s emotional state. The agents resolve to determine what AIDA is after and how to stop her.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "holden_radcliffe",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Any luck finding AIDA?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm checking local APBs, pointlessly. But Fitz and Radcliffe should be back any minute. Maybe they'll have some idea where AIDA's headed."
+        },
+        {
+            "character": "Mack",
+            "line": "This isn't some Johnny 5 we're talking about. This is a bloodthirsty murder-bot on the loose. This thing really killed Nathanson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Question is why."
+        },
+        {
+            "character": "Mack",
+            "line": "If we catch her, I'm sure we'll get some crazy-ass Roy Batty explanation."
+        },
+        {
+            "character": "May",
+            "line": "Maybe Nathanson saw something he wasn't supposed to see."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guess we won't know till we find AIDA."
+        },
+        {
+            "character": "Mack",
+            "line": "First, maybe we lock up the guy who created this mess."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Don't... Don't be so quick to judge. AIDA's programming was perfect. This is... is clearly the Darkhold's fault."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're saying reading the Darkhold may have corrupted AIDA's programming? Is that even possible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Technically, no, but we are dealing with a book that can read people's minds and also reveal the hidden secrets of the universe, so..."
+        },
+        {
+            "character": "May",
+            "line": "I never should have let AIDA near that thing."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Don't be so hard on yourself, Agent May. I, for one, am glad that AIDA read that book. Otherwise, both of you would not be standing here alive at this very moment."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, book or no book, you're still a big, dumb idiot for building that thing in the first place."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's save that debate for another time. Right now, we need to find AIDA, and the first step is figuring out what she wants."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, that's simple. She wants to live."
+        }
+    ]
+}

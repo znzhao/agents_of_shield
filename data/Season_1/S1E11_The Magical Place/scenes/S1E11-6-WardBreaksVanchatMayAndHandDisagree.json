@@ -1,0 +1,243 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 6,
+    "scene_name": "WardBreaksVanchatMayAndHandDisagree",
+    "description": "Back on the Bus, Ward takes a direct approach in Vanchat’s interrogation, nearly ejecting him from the plane to secure information. Victoria Hand questions Ward’s methods and, in a tense discussion, raises doubts about why so many resources are being expended for Coulson. Meanwhile, May and Ward discuss their feelings about Skye’s ejection and the team’s direction. Hand shifts the team to a new lead after finding Centipede’s helicopter, and tensions build about the team’s loyalty and strategies.",
+    "roles": [
+        "grant_ward",
+        "melinda_may",
+        "victoria_hand",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "No, that's too much! I know the night-night rounds no longer affect the Centipede soldiers, but all we want to do is disable them, not kill them."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm good with either, frankly."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, you don't mean that. Those soldiers are just men who..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who could smash your skull open with a single punch."
+        },
+        {
+            "character": "Simmons",
+            "line": "But they're being controlled. Centipede is making them fight against their will."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, they took Coulson, and I don't care what we have to do to get him back. We need to bring him home."
+        },
+        {
+            "character": "Ward",
+            "line": "What's this guy doing, lulling Vanchat to sleep? I'm going in."
+        },
+        {
+            "character": "Skye",
+            "line": "Damn it! Okay, Skye, just need a plan “B.”"
+        },
+        {
+            "character": "Computer",
+            "line": "Roadside assistance. We see you've had an accident."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Can you send somebody to tow me back to my house?"
+        },
+        {
+            "character": "Computer",
+            "line": "Of course. I'll dispatch someone right away. Are you okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. I'm good."
+        },
+        {
+            "character": "Ward",
+            "line": "Agent Hand needs you, says it's urgent. Time to talk. The names of all your buyers, alphabetically would help."
+        },
+        {
+            "character": "Vanchat",
+            "line": "I'm not telling you a bloody thing."
+        },
+        {
+            "character": "Ward",
+            "line": "That's how you want to play it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Rochambeau you? Rochambeau!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Scissors! Fitz!"
+        },
+        {
+            "character": "Vanchat",
+            "line": "Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "I've got all day."
+        },
+        {
+            "character": "Vanchat",
+            "line": "All right! All right, I'll talk! I'll talk!"
+        },
+        {
+            "character": "Po",
+            "line": "The town that the bomb forgot. It was built in the ‘40s for nuclear testing, but when the cold war ended, the town was spared."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not exactly prime real estate."
+        },
+        {
+            "character": "Po",
+            "line": "Mm, true. There's nothing but desert for hundreds of miles. But I really like it. It's nice here. The children are always playing... yet never make a sound. Shall we get back to it, then?"
+        },
+        {
+            "character": "Man",
+            "line": "So, you sure you don't want me to take it to the dealer?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, thanks. I got a guy."
+        },
+        {
+            "character": "Man",
+            "line": "All right. Thank you."
+        },
+        {
+            "character": "Skye",
+            "line": "Dollar bills, y'all."
+        },
+        {
+            "character": "Woman",
+            "line": "Lloyd Rathman's office."
+        },
+        {
+            "character": "Skye",
+            "line": "This is the L.A.P.D. I need to speak with Mr. Rathman. We've recovered a stolen vehicle registered in his name."
+        },
+        {
+            "character": "Woman",
+            "line": "Oh. Was it damaged?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, ma'am. We have two officers waiting at his home, ready to take a statement. How long do you think it'll take Mr. Rathman to get there?"
+        },
+        {
+            "character": "Skye",
+            "line": "You're in a lot of trouble, Mr. Rathman."
+        },
+        {
+            "character": "Rathman",
+            "line": "Who the hell are you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Agent Melinda May with S.H.I.E.L.D."
+        },
+        {
+            "character": "Rathman",
+            "line": "Look, clearly there's been a misunderstanding. I'm a legitimate businessman."
+        },
+        {
+            "character": "Skye",
+            "line": "S.H.I.E.L.D. has evidence your company has been siphoning funds into an offshore account for some very bad people."
+        },
+        {
+            "character": "Rathman",
+            "line": "My clients' business is their business."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, my business is catching those guys, and if it turns out you've made a profit from just one of them, S.H.I.E.L.D. is prepared to freeze all of your assets."
+        },
+        {
+            "character": "Rathman",
+            "line": "I'm calling my lawyer."
+        },
+        {
+            "character": "Skye",
+            "line": "Do that and my offer's off the table."
+        },
+        {
+            "character": "Rathman",
+            "line": "What offer is that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Immunity... you walk... free and clear. S.H.I.E.L.D. doesn't touch a single asset. Not even your party boat in Key Largo."
+        },
+        {
+            "character": "Rathman",
+            "line": "And if I say no?"
+        },
+        {
+            "character": "Skye",
+            "line": "You spend the next five years in the fridge."
+        },
+        {
+            "character": "Rathman",
+            "line": "The fridge?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's worse than it sounds."
+        },
+        {
+            "character": "Rathman",
+            "line": "All right, what do you want?"
+        },
+        {
+            "character": "Skye",
+            "line": "Follow me to your office. We've got some work to do."
+        },
+        {
+            "character": "Hand",
+            "line": "Vanchat's intel is paying off. We're pursuing every known buyer of Chitauri metals around the globe. The largest has a warehouse in Sydney. We're heading there now. This is our chance to take down Centipede. I want everyone in full tactical."
+        },
+        {
+            "character": "Ward",
+            "line": "And what about Agent Coulson?"
+        },
+        {
+            "character": "Hand",
+            "line": "If we're lucky, Centipede's holding him in Sydney. Dismissed. Agent Ward, a moment. First, your friend Skye left the plane and never arrived for her debrief, then Vanchat almost flies out of the interrogation room. Do we have a problem?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, Agent Hand. Your man wasn't getting answers, so I stepped in."
+        },
+        {
+            "character": "Hand",
+            "line": "Without my permission. Well, congratulations. Thanks to you and your unique interrogation skills, we now have active strike teams running raids all over the world. The question is, why?"
+        },
+        {
+            "character": "Ward",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Hand",
+            "line": "It's unprecedented, this kind of response for a level 8 operative, the sheer manpower involved. I've been on the phone all day... Director Fury, Commander Hill... everyone wants an update. Frankly, I don't understand it. No single agent is that important."
+        },
+        {
+            "character": "Ward",
+            "line": "Coulson is."
+        }
+    ]
+}

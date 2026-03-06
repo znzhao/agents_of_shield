@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "TalbotAndCoulsonAirportMeeting",
+    "description": "Glenn Talbot deals with personal strife as his wife leaves him due to the demands of his new job. Phil Coulson meets with Talbot at an airport, requesting partnership regarding the ATCU and the upcoming symposium. Tension arises as Talbot asserts his independence and displeasure at being involved in S.H.I.E.L.D. affairs. Their strained rapport highlights upcoming operational difficulties.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Don't leave like this, Carla. It's not my fault. I just couldn't say no to the President."
+        },
+        {
+            "character": "Carla",
+            "line": "Yes, you could have. You just didn't want to. You're always choosing career over family, Glenn."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's not true."
+        },
+        {
+            "character": "Carla",
+            "line": "And now we're finally paying the price."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm gonna fix this, Carla."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everything okay?"
+        },
+        {
+            "character": "Talbot",
+            "line": "What the hell are you doing here? Are you spying on me? You know, my personal life is none of your damn business."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're right. But the ATCU is, which you now run. And since you refuse to talk to me or return my calls, I didn't really have a choice."
+        },
+        {
+            "character": "Talbot",
+            "line": "I've been busy."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know I'm technically your boss now, right? But I'd prefer to be partners."
+        },
+        {
+            "character": "Talbot",
+            "line": "You are not now, nor will you ever be, my boss. And we will never be partners. I didn't ask to get put in front of this sideshow circus. If I find out you had anything to do with it..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was the president's idea, as was the symposium in Taiwan that we're supposed to be getting ready for. We need to be prepared."
+        },
+        {
+            "character": "Talbot",
+            "line": "Somehow, I have a feeling your idea of being prepared and my idea of being prepared are two wildly different things."
+        }
+    ]
+}

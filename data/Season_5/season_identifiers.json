@@ -1,0 +1,47 @@
+{
+    "season": 5,
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "kasius",
+        "deke_shaw",
+        "tess",
+        "flint",
+        "enoch",
+        "glenn_talbot",
+        "carl_creel",
+        "anton_ivanov",
+        "robin_hinton",
+        "hale",
+        "ruby",
+        "michael_peterson"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Kree",
+        "Inhumans",
+        "Hydra",
+        "Chronicoms",
+        "Confederacy",
+        "Remorath",
+        "Life Model Decoys (LMDs)",
+        "Cybertek",
+        "Deathlok Program"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Principia (lost ship carrying gravitonium)",
+        "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+        "St. Louis (site of the Kree beacon)",
+        "Chicago (site where Talbot targets buried gravitonium)",
+        "River's End (small town near the Lighthouse)",
+        "Remorath ship (Confederacy/Remorath mothership)"
+    ]
+}

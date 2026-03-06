@@ -1,0 +1,97 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 2,
+    "scene_name": "HiveWarheadPreparationAndSHIELDBriefing",
+    "description": "In the missile silo, Hive, Giyera, and James prepare for the warhead launch. Hive verifies the loyalty of his followers and checks on their anti-cloaking measures in anticipation of S.H.I.E.L.D.'s intervention. Meanwhile, Daisy discusses the impossibility of hacking the launch codes with Simmons, while at S.H.I.E.L.D. HQ, Coulson, Fitz, and Talbot battle bureaucracy to obtain the kill codes and pass critical information to the field team.",
+    "roles": [
+        "giyera",
+        "james",
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "glenn_talbot"
+    ],
+    "vibe": "tense",
+    "location": "missile silo (Pacific island launch site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "Sir, the warhead is in place, and the missile is armed."
+        },
+        {
+            "character": "Hive",
+            "line": "The man who starts the launch sequence, is he willing to cooperate?"
+        },
+        {
+            "character": "James",
+            "line": "Yep. Turned out to be a real team player."
+        },
+        {
+            "character": "Hive",
+            "line": "What about S.H.I.E.L.D.? I've warned you about cloaking."
+        },
+        {
+            "character": "Giyera",
+            "line": "And we've calibrated for it. If they fly anywhere near this island, we'll see it."
+        },
+        {
+            "character": "Hive",
+            "line": "Very good."
+        },
+        {
+            "character": "Mack",
+            "line": "We're looking for the freight dock on the North side."
+        },
+        {
+            "character": "Daisy",
+            "line": "Even if you infiltrate, you can't shut down the launch, not without government kill codes."
+        },
+        {
+            "character": "Simmons",
+            "line": "We are aware."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hand-delivered by a D.O.D. official. It's not hackable. You won't be..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We are aware."
+        },
+        {
+            "character": "General",
+            "line": "I'm sorry. The answer is no."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm asking you for one missile launch kill code, General."
+        },
+        {
+            "character": "General",
+            "line": "Violating chain of command."
+        },
+        {
+            "character": "Talbot",
+            "line": "Chain of command. Chain of command's gonna take two weeks."
+        },
+        {
+            "character": "General",
+            "line": "You like to cut red tape. I get it. But procedures are in place for a reason. You'd say the same thing. I don't even hold Kill Codes here at the D.O.D., Glenn. They're held at the Defense Logistics Building, and I need an Arms Nullification order before I can request them from Undersecretary Thomas."
+        },
+        {
+            "character": "Talbot",
+            "line": "Okay, fine. Red tape it is."
+        },
+        {
+            "character": "Fitz",
+            "line": "Defense Logistics Building. Did you get that, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that. The team's just got to secure that uplink in time."
+        }
+    ]
+}

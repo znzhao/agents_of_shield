@@ -1,0 +1,184 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "ExploringTheLighthouseAndMeetingNoah",
+    "description": "May, Fitz, and others follow Stoner's recording through the Lighthouse, exploring its advanced (if outdated) features. They discover the white monolith and two others in storage, then are startled by the appearance of Noah, a sentient Chronicom. Noah explains his role as a monitor, mentions Enoch, and shows the group the Lighthouse’s surveillance room, where May notices a disturbing signal of light from the sky, prompting the discussion that will launch their next mission.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Stoner",
+            "line": "I see you've all brought belongings. Let's place the non-essentials in the basement storage facility. There, you will also find the latest state-of-the-art technology that S.H.I.E.L.D. can offer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. We need communications. May, why don't you take the tour?"
+        },
+        {
+            "character": "May",
+            "line": "Got it. Follow me. This way."
+        },
+        {
+            "character": "Stoner",
+            "line": "See? Here I am, over here."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, you're with me."
+        },
+        {
+            "character": "Daisy",
+            "line": "You ICE'd me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, I was kind of hoping you'd forget that part."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sorry to disappoint. It looks the same, but we're... we're home, aren't we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you really think after everything we've been through, you and me, that there was any universe in which I left you behind?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Even with all of the risks that..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't care. I need you here."
+        },
+        {
+            "character": "Stoner",
+            "line": "This S.H.I.E.L.D. technology should make you think the 1980s got here a bit early."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Not really a “dream come true” scenario. There's stuff here we can use with some adjustments."
+        },
+        {
+            "character": "Stoner",
+            "line": "Now, don't stand there gawking. Please follow me into the next room to deposit your valuables in the provided lock boxes. And you in the back, try to keep up."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is it? Oh. That's quite unsettling."
+        },
+        {
+            "character": "May",
+            "line": "Where did they come from? Unknown."
+        },
+        {
+            "character": "Noah",
+            "line": "Ah. Perhaps I should not have startled you. Hello. I'm Noah. I'm a sentient Chronicom from a planet which revolves around a star in the constellation..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Cygnus."
+        },
+        {
+            "character": "May",
+            "line": "Got it."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're a Chronicom?"
+        },
+        {
+            "character": "Noah",
+            "line": "I am."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did you know Enoch?"
+        },
+        {
+            "character": "Noah",
+            "line": "I did. He is the one who alerted me to the presence of this place. I'm glad to see you made your return journey safely, Agent Fitz."
+        },
+        {
+            "character": "May",
+            "line": "Why are you here? Why are they here?"
+        },
+        {
+            "character": "Noah",
+            "line": "This bunker was built with extensive fallout shielding. Ergo, a secure place to store unsafe items."
+        },
+        {
+            "character": "May",
+            "line": "These Monoliths are more than unsafe. No one should get anywhere near them."
+        },
+        {
+            "character": "Noah",
+            "line": "The other deciding factor. Everyone who knows about this bunker is now inside of it. So the world is protected from these Monoliths, and they are protected from the outside world."
+        },
+        {
+            "character": "Fitz",
+            "line": "So the outside world up there is still safe, normal and all that?"
+        },
+        {
+            "character": "Noah",
+            "line": "For now, though we are watching very closely. Follow me upstairs. I'll show you."
+        },
+        {
+            "character": "Noah",
+            "line": "Here, we can monitor any unusual activity anywhere on Earth. We Chronicoms monitor the line between the world and a stranger world."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, you monitor it and do nothing about it."
+        },
+        {
+            "character": "Noah",
+            "line": "Yes, we observe without interfering, unless there is..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we got it."
+        },
+        {
+            "character": "May",
+            "line": "Yes, we know that story."
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you observing now?"
+        },
+        {
+            "character": "Noah",
+            "line": "Various potential threats. You'd be surprised how frequently S.H.I.E.L.D. is mentioned."
+        },
+        {
+            "character": "May",
+            "line": "We have a small but active fan base."
+        },
+        {
+            "character": "Noah",
+            "line": "There are several events of note. A well-known politician attempting to delete his FBI files. An Asgardian spotted in the city."
+        },
+        {
+            "character": "May",
+            "line": "What's this one?"
+        },
+        {
+            "character": "Noah",
+            "line": "Potential alien contact. Why? Does this event mean something to you?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. I think it does."
+        }
+    ]
+}

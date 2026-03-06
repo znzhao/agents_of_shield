@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 10,
+    "scene_name": "MackAndDaisyTalkFaithAndHive",
+    "description": "Daisy and Mack discuss faith, guilt, and the true nature of Hive. Daisy reveals just how deeply Hive controlled her, equating his ability to steal memories with stealing souls. Mack tries to comfort her with wisdom about darkness and choice, but Daisy is spiraling, warning that Hive cannot simply be contained.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You're a man of faith."
+        },
+        {
+            "character": "Mack",
+            "line": "You know I am."
+        },
+        {
+            "character": "Daisy",
+            "line": "So what was it like, coming face-to-face with the devil?"
+        },
+        {
+            "character": "Mack",
+            "line": "Hive? Well, he's evil, scary as all hell, but I don't think he's the devil."
+        },
+        {
+            "character": "Daisy",
+            "line": "You don't get it. When Hive takes over a body, he steals that person's memories. That's as close to stealing a soul as you can get."
+        },
+        {
+            "character": "Mack",
+            "line": "“Memory is the scribe of the soul.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "The Bible?"
+        },
+        {
+            "character": "Mack",
+            "line": "Aristotle. What? I have dimensions. Look, Tremors, I've had my mind controlled."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, this wasn't that. The worst part about Hive is, when he's making you hurt the people you care about, he makes you love him for it. If Hive isn't the devil, he's the closest thing to it you and I will ever see. It's not safe. If he got out, he..."
+        },
+        {
+            "character": "Mack",
+            "line": "He's not getting out."
+        },
+        {
+            "character": "Daisy",
+            "line": "He can't be contained. He has to be destroyed."
+        },
+        {
+            "character": "Mack",
+            "line": "You know another thing the devil is capable of? Filling a person with so much anger and so many dark thoughts that it consumes them. But it's up to that individual to make a choice either let the darkness fester and grow or let the light inside shine through and vanquish the darkness."
+        },
+        {
+            "character": "Daisy",
+            "line": "This isn't about revenge."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. We're safe. Coulson's sealing up the base."
+        }
+    ]
+}

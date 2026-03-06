@@ -1,0 +1,67 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 2,
+    "scene_name": "HiveAndDaisyPlan",
+    "description": "Daisy communicates with Hive and Dr. Radcliffe about the state of their experiments using her blood, stressing the urgency of their work and her technical expertise. Hive and Radcliffe discuss the next phase, drafting Daisy further into their scheme. The scene showcases Daisy’s dual role as captive and collaborator, and Hive’s ominous intentions.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You're getting better, Fitz, but I designed the anti-subversion code, so it's only a matter of time until... I'm in. Huh. Interesting. They still have got you locked up. Was somebody being a bad boy?"
+        },
+        {
+            "character": "Hive",
+            "line": "You like the bad boys."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have a history. I thought we had a future once, but I gave him his chance and he refused, so now I just feel sorry for him. Ah, damn it, Fitz."
+        },
+        {
+            "character": "Hive",
+            "line": "Your friends are very persistent. They keep fighting us, forcing us to move, wasting valuable time. If it happens again, there'll be no absolution."
+        },
+        {
+            "character": "Daisy",
+            "line": "It won't. Fitz is on the losing end of this. We'll get back into the system, and we'll know every move they make."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How's our patient?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm fine except for the bright light shining in my eye."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I think that's enough for one day. Don't want to kill the golden goose. Just take it easy. You just drink this and get some rest. No, that."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think you're the one who needs rest."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, we'll rest when we're dead. Not you. I-I didn't mean... It's just a phrase. No need for any deaths. We're ready for the alpha test."
+        },
+        {
+            "character": "Hive",
+            "line": "You were confident the last time."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "True. But this time, we have all the right ingredients. We just need to find some volunteers."
+        },
+        {
+            "character": "Hive",
+            "line": "I'm recruiting some, special ones. A little gift for Daisy."
+        }
+    ]
+}

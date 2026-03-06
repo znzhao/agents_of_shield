@@ -1,0 +1,143 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "SpeakeasyDiscovery",
+    "description": "Back at the speakeasy, Simmons analyzes the compound in the contact's shoe and realizes it's an ingredient for Erskine's Super Soldier Serum. The revelation that Freddy is delivering the key to Hydra's and Red Skull's rise leads to a heated debate between Daisy, Coulson, Elena, and Simmons over the timeline and whether to let events unfold or intervene. Enoch continues to try (with difficulty) to contact Mack and Deke.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "skye",
+        "enoch"
+    ],
+    "vibe": "suspenseful",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Koenig",
+            "line": "She really knows her onions."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "I'm fine."
+        },
+        {
+            "character": "Daisy",
+            "line": "You could've stopped that bottle from hitting the ground."
+        },
+        {
+            "character": "Elena",
+            "line": "I didn't see it."
+        },
+        {
+            "character": "Daisy",
+            "line": "My mistake. I thought you did. You were staring straight at it."
+        },
+        {
+            "character": "Elena",
+            "line": "I couldn't move. I froze."
+        },
+        {
+            "character": "Daisy",
+            "line": "Any idea why?"
+        },
+        {
+            "character": "Elena",
+            "line": "Maybe that thing inside me... The Shrike... maybe it messed me up."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know what it is. By heating the compound inside an alcohol-based solution, I was able to produce a decomposition reaction, separating and isolating..."
+        },
+        {
+            "character": "Koenig",
+            "line": "Whoa, cut... cut... cut to the chase. I'd like to get this package before Christmas."
+        },
+        {
+            "character": "Simmons",
+            "line": "The compound is part of a formula that first appeared in Germany during World War II."
+        },
+        {
+            "character": "Koenig",
+            "line": "D... During World War II? I think you're half-cocked from the moonshine."
+        },
+        {
+            "character": "Simmons",
+            "line": "It was synthesized by a German scientist named Abraham Erskine."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't like where this is going."
+        },
+        {
+            "character": "Simmons",
+            "line": "And first used by a man named Johann Schmidt."
+        },
+        {
+            "character": "Daisy",
+            "line": "The Red Skull."
+        },
+        {
+            "character": "Simmons",
+            "line": "Freddy Malick is about to deliver the key ingredient used to create the Super Soldier Serum."
+        },
+        {
+            "character": "Koenig",
+            "line": "You give a name like that to your juice, it better have a helluva kick."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have no idea."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's definitely alcohol."
+        },
+        {
+            "character": "Mack",
+            "line": "Easy, Zima. This is the Big Leagues."
+        },
+        {
+            "character": "Deke",
+            "line": "So, what are we looking for, exactly?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know. But I think there's more to this than just some run-of-the-mill bootlegging job. It doesn't add up."
+        },
+        {
+            "character": "Enoch",
+            "line": "Mackenzie... can you... information... Wilfred."
+        },
+        {
+            "character": "Mack",
+            "line": "Enoch, I copy. Do you hear me? Enoch, do you copy? Over."
+        },
+        {
+            "character": "Freddy",
+            "line": "What the hell are you doin'?"
+        },
+        {
+            "character": "Mack",
+            "line": "Enoch, do you copy? Over. Do you copy? Over."
+        },
+        {
+            "character": "Freddy",
+            "line": "Wanna tell me why you're snooping through my goods?"
+        },
+        {
+            "character": "Mack",
+            "line": "I need to know who and what we're dealing with. You may not think there's more to this, but I do."
+        },
+        {
+            "character": "Enoch",
+            "line": "Director Mackenzie, do you copy? Can you hear me?"
+        }
+    ]
+}

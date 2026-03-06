@@ -1,0 +1,150 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 10,
+    "scene_name": "CoulsonAndHillInterveneOnTheBus",
+    "description": "Hill makes radio contact with Ward on the S.H.I.E.L.D. Bus, providing a distraction as Coulson sneaks aboard to rescue Skye. They quickly work together, with Coulson fighting Deathlok and helping Skye escape into Lola under fire, managing a daring exit. The plane's cargo bay doors open, allowing Skye and Coulson to flee and crash-land in Los Angeles, leaving Ward and Deathlok behind. This climactic scene is marked by high action, quick decisions, and the successful rescue of Skye.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "michael_peterson"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hill",
+            "line": "Maria Hill to S.H.I.E.L.D. 6-1-6. You have 30 seconds to stand down and surrender. I repeat, stand down and surrender. You gonna answer me, Ward, or do I have to come over there?"
+        },
+        {
+            "character": "Ward",
+            "line": "Maria Hill. I kind of hoped you went down with the Triskelion."
+        },
+        {
+            "character": "Hill",
+            "line": "And I hoped you weren't the duplicitous lowlife you turned out to be, but... here we are."
+        },
+        {
+            "character": "Ward",
+            "line": "Gonna be honest with you, Hill. I'm having a pretty bad day. So if I were you, I'd get the hell out of my way."
+        },
+        {
+            "character": "Hill",
+            "line": "Mm, give up Skye, and we'll talk about it."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, that's not happening."
+        },
+        {
+            "character": "Hill",
+            "line": "You know, I never liked you, Ward, not since our first sit-down, but I never figured you for John Garrett's lapdog."
+        },
+        {
+            "character": "Ward",
+            "line": "A lot of us lost respect for Fury when he picked you as his second. If he needed eye candy around, he could have at least picked Romanoff."
+        },
+        {
+            "character": "Hill",
+            "line": "That's funny. I'll tell her you said that. Now hand Skye over, or I'll have a squad of F-16s knock you on your ass."
+        },
+        {
+            "character": "Ward",
+            "line": "Even if you had that kind of pull anymore, which you don't, Coulson would never let you do it. He would never sacrifice Skye like that. But you know Garrett would. So don't try and follow us."
+        },
+        {
+            "character": "Hill",
+            "line": "This doesn't have to go down like this, Ward. You don't owe Garrett anything."
+        },
+        {
+            "character": "Ward",
+            "line": "You're wrong."
+        },
+        {
+            "character": "Triplett",
+            "line": "You want me to pursue?"
+        },
+        {
+            "character": "Hill",
+            "line": "No. Their tracking systems are up and running. Just hope we bought enough time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you okay? Did Ward hurt you?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, I'm okay. But the encrypted hard drive... I unlocked it for them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Forget that. We need to move. We got to take the cockpit."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. You came alone?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's okay. I can take Ward."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I know, but how did you get past Deathlok?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Deathlok's here? On the plane?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, you didn't take him out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "New plan. Run!"
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. What about you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Get to the cargo hold now."
+        },
+        {
+            "character": "Mike",
+            "line": "I can't let you leave, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's still my plane. I don't need your permission."
+        },
+        {
+            "character": "Skye",
+            "line": "I've never used a parachute before!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Forget that! Get in the car!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Get down! Get down! Buckle up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I told you to buckle up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "All right! He must have hit the thrusters!"
+        },
+        {
+            "character": "Man",
+            "line": "That'll be 20 bucks."
+        }
+    ]
+}

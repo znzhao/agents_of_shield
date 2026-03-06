@@ -1,0 +1,33 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 16,
+    "scene_name": "LighthouseVictoryAgainstRoaches",
+    "description": "Flint, Mack, and Elena clear the Lighthouse floor of Vrellnexians, saving the remaining residents. Mack rallies the group, urging them to work together and resist Kasius’s machinations. Hope is rekindled with a sense of unity and small victory against overwhelming odds.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "flint"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Flint",
+            "line": "The Roaches are dead! You're safe now!"
+        },
+        {
+            "character": "Gretchen",
+            "line": "Thank you."
+        },
+        {
+            "character": "Mack",
+            "line": "This fight's not over. If we want to survive, we can't let Kasius pit us against each other anymore."
+        },
+        {
+            "character": "Elena",
+            "line": "All right. Who's first?"
+        }
+    ]
+}

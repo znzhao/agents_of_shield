@@ -1,0 +1,180 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "CoordinatedTeamBreakout",
+    "description": "The agents work together from cargo hold and lab, using Fitz's quadcopter to coordinate an escape and activate the artefact. Coulson provides ground control with a misleading report while tethering himself to a beam for safety. Fitz's plan unleashes an explosive decompression, causing chaos but freeing the team as a soldier is sucked out of the plane. Each team member executes part of the escape plan seamlessly, showcasing their newfound unity.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "thrilling",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Okay, we're sure, right? Everyone's sure?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're all on board."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, let's do this fast."
+        },
+        {
+            "character": "Ward",
+            "line": "No turning back. No freezing up."
+        },
+        {
+            "character": "Fitz",
+            "line": "Because if we do, then..."
+        },
+        {
+            "character": "Ward",
+            "line": "All of us die."
+        },
+        {
+            "character": "Simmons",
+            "line": "We know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "All right."
+        },
+        {
+            "character": "May",
+            "line": "You guys talk a lot."
+        },
+        {
+            "character": "Camilla",
+            "line": "No, no, no! (in Spanish) That's exactly what they want."
+        },
+        {
+            "character": "Camilla",
+            "line": "Answer it, or they all learn what a 30,000-foot drop feels like."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, we're all good. It's gonna be blue skies from here on out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons, forget what I said before. This is the moment that we'll regret."
+        },
+        {
+            "character": "Coulson",
+            "line": "Aah! Aaaaah!"
+        },
+        {
+            "character": "Skye",
+            "line": "It worked."
+        },
+        {
+            "character": "Simmons",
+            "line": "The drop in cabin pressure released the doors."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll take care of the soldiers. You guys get to the 0-8-4."
+        },
+        {
+            "character": "Fitz",
+            "line": "And Coulson?"
+        },
+        {
+            "character": "Ward",
+            "line": "Let's hope he can handle himself."
+        },
+        {
+            "character": "Camilla",
+            "line": "Aah! Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "Get back!"
+        },
+        {
+            "character": "Ward",
+            "line": "Go now! Find the 0-8-4!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Help!"
+        },
+        {
+            "character": "Camilla",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Got you! Camilla! Hold on! It's okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aaah! I've got it! Fitz!"
+        },
+        {
+            "character": "Skye",
+            "line": "We got it! Reel us back in!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I've got you!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you doing!? We need your help!"
+        },
+        {
+            "character": "Skye",
+            "line": "Trust me!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't want you to know what a 30,000-foot drop feels like."
+        },
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Aaah! Fitz!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Cut him loose!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry, Ward!"
+        },
+        {
+            "character": "Ward",
+            "line": "Hold on!"
+        },
+        {
+            "character": "Skye",
+            "line": "I read the safety pamphlet."
+        },
+        {
+            "character": "Ward",
+            "line": "I think you might be the first."
+        }
+    ]
+}

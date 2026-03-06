@@ -1,0 +1,51 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 11,
+    "scene_name": "ShockleyInterrogatedByDaisy",
+    "description": "The team captures Shockley and Daisy attempts to interrogate him about Nadeer's bombing, but Shockley refuses to talk to anyone except Director Mace. Daisy persists, offering a deal in exchange for Radcliffe’s location, but Shockley remains uncooperative.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Welcome to S.H.I.E.L.D. custody."
+        },
+        {
+            "character": "Shockley",
+            "line": "Hello, sweetheart."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're lucky you're with us and not the FBI. We have you on tape walking into the Senator's office moments before the blast."
+        },
+        {
+            "character": "Shockley",
+            "line": "What do you care? That woman hated things like you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Were you following the Russians' orders? We know about Anton Ivanov. Why'd he target Nadeer?"
+        },
+        {
+            "character": "Shockley",
+            "line": "Is the Director here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Did Radcliffe make the bomb? You see, I'm trying to help you. If you get us to Radcliffe, I can get you a deal."
+        },
+        {
+            "character": "Shockley",
+            "line": "The only freak I'll speak to is the Director."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Let's try again now, shall we? Where is Radcliffe?"
+        }
+    ]
+}

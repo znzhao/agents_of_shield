@@ -1,0 +1,212 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 6,
+    "scene_name": "PlatformSinksAndAidaTeleportsRescue",
+    "description": "Ivanov launches his plan, triggering a torpedo attack on the drilling platform. May and Coulson struggle to evacuate as the structure collapses, torn between saving themselves and Mack. Meanwhile, Fitz convinces Aida to help rescue the trapped agents, urging her to use empathy over fear. Aida teleports to Ivanov, confronts him, and then ultimately rescues Fitz, Coulson, May, and Mack by teleporting them to safety just as the platform is destroyed.",
+    "roles": [
+        "anton_ivanov",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "aida",
+        "elena_rodriguez"
+    ],
+    "vibe": "intense",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "That's all of it. Detach the submarine and launch the torpedoes. Shame. I will miss that place."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on, stay awake. We need to find a way to the surface. Um, and I haven't been totally honest with you about what happened when you were not around."
+        },
+        {
+            "character": "May",
+            "line": "I knew something was up. What are you not telling me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I drank the bottle of Haig."
+        },
+        {
+            "character": "May",
+            "line": "What?! You piece of..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got to get to the surface!"
+        },
+        {
+            "character": "May",
+            "line": "We can't leave Mack!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You'll drown down here! I'll get you up top, then I'll come back for him! Come on! Come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "They could be fighting for their lives. You need to go back and get them out of there."
+        },
+        {
+            "character": "AIDA",
+            "line": "I-I-I'm... I'm sorry. I'm... I'm... I'm having trouble thinking clearly, an-analyzing the situation."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Hey. Hey, no, no. Don't think, don't think. What do you feel that you should do?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I don't know. I'm scared."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "AIDA",
+            "line": "Agent May had a gun, ready to kill me. I don't want to die. I'm afraid to die."
+        },
+        {
+            "character": "Fitz",
+            "line": "But... But... But you feel compassion, yeah? Because if... If you really believe that you are capable of love..."
+        },
+        {
+            "character": "AIDA",
+            "line": "And being loved."
+        },
+        {
+            "character": "Fitz",
+            "line": "If you really believe that, that... that... That all the hurtful things you did were not your choice, make your own choice now. Do the right thing."
+        },
+        {
+            "character": "AIDA",
+            "line": "Focus on empathy, not fear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. Think. Think about what they're feeling, the people that you put in a life-or-death situation. Ophelia, they don't want to die, either. Please, save them."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Where have you been?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I want you to call off your dogs. Leave the S.H.I.E.L.D. agents alone."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I can't wait to hear this."
+        },
+        {
+            "character": "AIDA",
+            "line": "I'm now realizing the pain that I've caused, and I don't want to hurt anyone else."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Congratulations. You're as close to human as you'll ever get, suffering from the one thing that you kept trying to remove. Regret. Do you understand irony yet? 'Cause this is a good example."
+        },
+        {
+            "character": "AIDA",
+            "line": "Give the order to stop. Now!"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You no longer control me, remember? You are free to do whatever you want, but so am I. You promised me joy. This will bring me joy."
+        },
+        {
+            "character": "AIDA",
+            "line": "Don't you have empathy?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You watched, unaffected, as I took a hammer to the bones of the Director's corpse."
+        },
+        {
+            "character": "AIDA",
+            "line": "I couldn't feel this then!"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Now you are like an infant, unable to process these new emotions or the idea that you don't always get everything that you want. And you have yet to experience the thrill that killing can bring."
+        },
+        {
+            "character": "AIDA",
+            "line": "Maybe I'll experience that now, with you."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Destroy this body, sure. It was designed only for killing. My head, which you severed, is controlling many of these machines now. And you don't know where it is. So do what you want to this body. My plan is in motion. And nothing can stop it now."
+        },
+        {
+            "character": "Fitz",
+            "line": "What happened? What's going on?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Perfect timing. Hi, everybody. She's very weak."
+        },
+        {
+            "character": "Elena",
+            "line": "And Mack?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Down below. We have to keep him attached to the equipment, so before we can wheel him o... You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go! No more elevator."
+        },
+        {
+            "character": "Elena",
+            "line": "Where are the stairs?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They've collapsed, too. You need to get off the rig now. Repeat. The structure is about to crumble! Guys, you need to get in the containment module and in the air!"
+        },
+        {
+            "character": "Daisy",
+            "line": "You got to get in here before this rig down down!"
+        },
+        {
+            "character": "Elena",
+            "line": "No, I won't leave without Mack, not this time!"
+        },
+        {
+            "character": "Simmons",
+            "line": "There's no time!"
+        },
+        {
+            "character": "Elena",
+            "line": "No! We can't leave without Mack!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yo-Yo, no, come on! We got to go!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Get out of there now! You have to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "You did it. You did it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma? I have Mack. Let's go home."
+        }
+    ]
+}

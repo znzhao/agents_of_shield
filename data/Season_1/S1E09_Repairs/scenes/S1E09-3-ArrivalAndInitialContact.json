@@ -1,0 +1,86 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "ArrivalAndInitialContact",
+    "description": "The S.H.I.E.L.D. team arrives in Batesville to find Hannah's home surrounded by a tense crowd and police. As Coulson and May attempt to make contact, Hannah becomes agitated, causing a police car to move unnaturally. May is forced to sedate Hannah when the situation escalates, and the team quickly extracts her.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Hey, guys."
+        },
+        {
+            "character": "May",
+            "line": "You're late."
+        },
+        {
+            "character": "Coulson",
+            "line": "Officer, is there anything you can do to get these people to disperse?"
+        },
+        {
+            "character": "Officer",
+            "line": "Been trying, but it's a free country."
+        },
+        {
+            "character": "Coulson",
+            "line": "Miss Hutchins, I'm Agent Coulson. We specialize in strange occurrences like the ones you've encountered."
+        },
+        {
+            "character": "Hannah",
+            "line": "You've come to lock me up?"
+        },
+        {
+            "character": "Ward",
+            "line": "To talk."
+        },
+        {
+            "character": "Hannah",
+            "line": "Well, what good will that do?"
+        },
+        {
+            "character": "Ward",
+            "line": "Officers, get those people back."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, calm down."
+        },
+        {
+            "character": "Ward",
+            "line": "Easy, officer. Put the gun down."
+        },
+        {
+            "character": "Hannah",
+            "line": "Leave me alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Miss Hutchins, please calm down."
+        },
+        {
+            "character": "Hannah",
+            "line": "It wasn't me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Please calm down. We're not gonna let anyone hurt you."
+        },
+        {
+            "character": "May",
+            "line": "Time to go."
+        },
+        {
+            "character": "Coulson",
+            "line": "So much for the welcome wagon."
+        }
+    ]
+}

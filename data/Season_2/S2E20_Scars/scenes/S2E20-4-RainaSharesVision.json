@@ -1,0 +1,85 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 4,
+    "scene_name": "RainaSharesVision",
+    "description": "At Afterlife, Raina discusses her new comfort with her visions and tells Gordon about seeing a mysterious stone. Gordon realizes it matches stories of a dangerous Kree artifact meant to destroy their kind and confirms the possibility of seeking it out together. Jiaying sends Raina and Gordon to look for the object, recognizing the seriousness of Raina's vision.",
+    "roles": [
+        "raina",
+        "gordon",
+        "jiaying"
+    ],
+    "vibe": "mysterious",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gordon",
+            "line": "You're looking very well."
+        },
+        {
+            "character": "Raina",
+            "line": "You were right. It is a gift, all of it. I just needed to embrace it, embrace my life here, my purpose to help my people."
+        },
+        {
+            "character": "Gordon",
+            "line": "Your vision of the devastation of Sokovia has proved your value to all of us. Have you had any more visions?"
+        },
+        {
+            "character": "Raina",
+            "line": "All the time now. I'm starting to feel at peace, less fraught with fear and pain. Though sometimes, it's hard to tell what's a vision and what's a dream."
+        },
+        {
+            "character": "Gordon",
+            "line": "Well, maybe I can help."
+        },
+        {
+            "character": "Raina",
+            "line": "Last night, I saw something beautifully peculiar. It's hard to describe. It was a giant stone, but not a stone. And then, suddenly it was like an ocean, waves crashing against the shore."
+        },
+        {
+            "character": "Gordon",
+            "line": "Hold on. This stone, were there deep cavities carved into it?"
+        },
+        {
+            "character": "Raina",
+            "line": "How did you know?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "This could mean the end of us. I don't understand."
+        },
+        {
+            "character": "Raina",
+            "line": "Have you come across this before?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Only through stories passed down by our ancestors. It's Kree, dangerous, intended to destroy our people."
+        },
+        {
+            "character": "Raina",
+            "line": "But didn't they make us?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Then they decided we were a mistake. Gordon, do you think you could locate it, confirm it exists?"
+        },
+        {
+            "character": "Gordon",
+            "line": "If it's Kree, I suppose I could find a connection to tether. But it'll only put me in the vicinity."
+        },
+        {
+            "character": "Raina",
+            "line": "Maybe I could help. If I see the place, I'll know it."
+        },
+        {
+            "character": "Gordon",
+            "line": "It will be easier if we're together."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Go. Find it."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 23,
+    "scene_name": "FitzContactedByCoulsonAndHunter",
+    "description": "Fitz, having successfully opened Fury's toolbox, contacts Coulson and Hunter from a bathroom. They praise his resourcefulness, and Fitz nervously confides that he is being followed but asks for help escaping his pursuers, trusting his teammates for the next step. The scene ends with Fitz being reassured, setting up the continuing alliance against the antagonistic S.H.I.E.L.D. faction.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Just a minute! Geez, let a man think in peace. Whoa. Uh..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hunter!"
+        },
+        {
+            "character": "Hunter",
+            "line": "How did you ring Coulson's tablet?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you watching Mexican football? Where are you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh, undisclosed secure location?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz? How did you open Fury's toolbox?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't worry. It's safe. I stole it first."
+        },
+        {
+            "character": "Coulson",
+            "line": "You stole it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, you're amazing. Can we meet up?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... I'm being followed. They won't grab me. I think they're hoping I'll lead them to you first. The thing is, would it still be okay if I came and hung out with you? Maybe you could show me how to shake a tail. Maybe you could start, like, now?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You in a bathroom? With one of those electric hand dryers?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... oh, yes."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're gonna be okay, mate."
+        }
+    ]
+}

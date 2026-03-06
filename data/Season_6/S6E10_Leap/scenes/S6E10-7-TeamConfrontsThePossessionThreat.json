@@ -1,0 +1,317 @@
+{
+    "season": 6,
+    "episode": 10,
+    "num": 7,
+    "scene_name": "TeamConfrontsThePossessionThreat",
+    "description": "Daisy, Elena, Deke, Mack, Davis, and May try to piece together the pattern of lost memories and realize Izel is body-jumping. Mack locks down the Lighthouse and gathers everyone in the control room, implementing a system where each person must reveal or confirm a personal secret to prove they’re not possessed, capitalizing on Izel’s lack of access to her hosts’ memories.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "davis",
+        "deke_shaw",
+        "piper",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Mack. May didn't shoot Sarge."
+        },
+        {
+            "character": "Daisy",
+            "line": "It was Izel."
+        },
+        {
+            "character": "Mack",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Deke",
+            "line": "Open door."
+        },
+        {
+            "character": "Julian",
+            "line": "Mr. Shaw. You need something?"
+        },
+        {
+            "character": "Mack",
+            "line": "What do you mean, “could be anyone?”"
+        },
+        {
+            "character": "Elena",
+            "line": "She's taking people over, possessing them."
+        },
+        {
+            "character": "Mack",
+            "line": "So she wasn't on that ship."
+        },
+        {
+            "character": "Daisy",
+            "line": "She was in Davis and then she jumped into May and now who knows."
+        },
+        {
+            "character": "Davis",
+            "line": "It would explain why people are losing time. I did."
+        },
+        {
+            "character": "Deke",
+            "line": "There seems to be a malfunction with the door. It won't open."
+        },
+        {
+            "character": "Julian",
+            "line": "Not a malfunction. You don't have clearance here. It's top-level only. Keeps out people who have a... history of stealing S.H.I.E.I.D. tech for profit. Sir."
+        },
+        {
+            "character": "Deke",
+            "line": "Top-level, such as yourself?"
+        },
+        {
+            "character": "Julian",
+            "line": "Do I look like the Director to you?"
+        },
+        {
+            "character": "Deke",
+            "line": "You don't. But I've seen a few people who do."
+        },
+        {
+            "character": "Elena",
+            "line": "Look, Mack, I know it sounds crazy, but if you just..."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm locking down the Lighthouse. I'm locking her in."
+        },
+        {
+            "character": "May",
+            "line": "Thanks for springing me."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't thank me yet. We still have a body-snatching alien on the loose."
+        },
+        {
+            "character": "May",
+            "line": "Of course we do."
+        },
+        {
+            "character": "Davis",
+            "line": "Lighthouse perimeter secured. All entry points locked down. Floor access limited. Snug as a bug, sir."
+        },
+        {
+            "character": "Daisy",
+            "line": "I got a 20 on all our agents in River's End and sent encrypted messages to shelter-in-place."
+        },
+        {
+            "character": "Elena",
+            "line": "Working on a head count inside the Lighthouse."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, good. Now, how do we find her?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Do we know what she wants?"
+        },
+        {
+            "character": "Davis",
+            "line": "She shot Sarge. Maybe she just wanted him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but she could've slipped out after, and no one's been in or out since, so what kept her here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe we should ask who she is now. We isolate the agents, begin interrogations one by one."
+        },
+        {
+            "character": "May",
+            "line": "Mm. No good if she's the person asking questions."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe I should take a more technological approach."
+        },
+        {
+            "character": "May",
+            "line": "She could be anyone in this place. She could be one of us... In this room."
+        },
+        {
+            "character": "Davis",
+            "line": "No one saying anything makes it scarier. Just... pointing it out."
+        },
+        {
+            "character": "Mack",
+            "line": "May's right. Izel could be here right now, watching us. Learning."
+        },
+        {
+            "character": "Elena",
+            "line": "We don't know the rules... How she moves from person to person, how long she can stay there."
+        },
+        {
+            "character": "Daisy",
+            "line": "We do know one thing. When Izel was in May, it was clear that she didn't know about May's life. She had to bluff."
+        },
+        {
+            "character": "Mack",
+            "line": "So, you're saying she doesn't have access to her host's memories."
+        },
+        {
+            "character": "Elena",
+            "line": ": Great. So everybody just needs to share a secret that she wouldn't know. The more private, the better."
+        },
+        {
+            "character": "May",
+            "line": "Oh, great."
+        },
+        {
+            "character": "Daisy",
+            "line": "Right, but it has to be something that one other person can confirm."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. We'll clear everyone here first, then everyone else in the base. It's the best plan so far."
+        },
+        {
+            "character": "Deke",
+            "line": "Is it the best plan? I talk a lot. I don't have any secrets."
+        },
+        {
+            "character": "Mack",
+            "line": "You have any other ideas?"
+        },
+        {
+            "character": "Elena",
+            "line": "Okay. I'll go first. Um... I, uh, tell people that the only time I miss Pitosí is during Christmas, but that's not exactly true."
+        },
+        {
+            "character": "Mack",
+            "line": "It's not?"
+        },
+        {
+            "character": "May",
+            "line": "No, it's not. She told me."
+        },
+        {
+            "character": "Elena",
+            "line": "There's one day every year where I miss him more."
+        },
+        {
+            "character": "May",
+            "line": "Your mother's birthday."
+        },
+        {
+            "character": "Elena",
+            "line": "That's May."
+        },
+        {
+            "character": "May",
+            "line": "She's good, too."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, um... Daisy anonymously sends part of her S.H.I.E.I.D. salary to someone every month."
+        },
+        {
+            "character": "Daisy",
+            "line": "Amanda Campbell, Lincoln's sister. Mack's clear."
+        },
+        {
+            "character": "Mack",
+            "line": "So are you. Will you and Yo-Yo come with me for a moment?"
+        },
+        {
+            "character": "Elena",
+            "line": "Mack!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack."
+        },
+        {
+            "character": "Elena",
+            "line": "What's this?"
+        },
+        {
+            "character": "Mack",
+            "line": "Hear me out. These are new security measures. They're locked in."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can still break through this glass."
+        },
+        {
+            "character": "Mack",
+            "line": "But Izel can't... I hope."
+        },
+        {
+            "character": "Davis",
+            "line": "You just locked up our two strongest assets against her."
+        },
+        {
+            "character": "May",
+            "line": "No. He locked the two strongest weapons she could use against us. Imagine if she got in one of them. If Izel got your powers, we're all dead."
+        },
+        {
+            "character": "Mack",
+            "line": "You two stay in there until we catch her, no matter what. You understand?"
+        },
+        {
+            "character": "Deke",
+            "line": "Maybe this is a trick. Maybe she's in you."
+        },
+        {
+            "character": "Elena",
+            "line": "He knew what to ask Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "Easy there, hotshot. You're next."
+        },
+        {
+            "character": "Davis",
+            "line": "I don't have any secrets anyone here would..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, you do. When we were on Krylor, you took something."
+        },
+        {
+            "character": "Davis",
+            "line": "You knew about that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I was running that mission. I knew everything. Also, you're not smooth... Like, at all."
+        },
+        {
+            "character": "Davis",
+            "line": "I stole a pen."
+        },
+        {
+            "character": "May",
+            "line": "A pen?"
+        },
+        {
+            "character": "Davis",
+            "line": "A space pen. I thought it was cool. Aliens write things down. I did not know that."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's clear. And also ridiculous."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, you know, I-I don't feel comfortable with this anymore. I think there's got to be another way of..."
+        }
+    ]
+}

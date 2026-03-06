@@ -1,0 +1,70 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "SimmonsLincolnAndFitzAnalyzeEvidence",
+    "description": "Back at the lab, Simmons, Fitz, and Lincoln discuss the nature of Inhuman powers and possible evolutionary factors. Simmons and Fitz work on new containment tech, while Lincoln shares insights about Inhuman abilities being purpose-driven rather than random. Their discussion is interrupted when Coulson arrives to redirect the scientific efforts toward extracting information from Werner von Strucker.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Metal scraping on an urban street. A million and one possibilities. Fitz? I hate to bother you, but is there something I'm not seeing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. You're right. It's, um, inconclusive."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy that."
+        },
+        {
+            "character": "Morse",
+            "line": "So, as far as the police on the scene believe, whoever attacked them was invisible."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we've seen weirder."
+        },
+        {
+            "character": "Hunter",
+            "line": "Invisibility. Imagine the possibilities."
+        },
+        {
+            "character": "Morse",
+            "line": "What are you imagining?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Nothing fun."
+        },
+        {
+            "character": "Morse",
+            "line": "Get used to it. We can't put the Terrigen genie back in the bottle. Powers are the new normal."
+        },
+        {
+            "character": "Mack",
+            "line": "I think you're just jealous."
+        },
+        {
+            "character": "Hunter",
+            "line": "Damn right I am. Tell me you didn't try one of those little fish-oil pills. I had my fingers crossed for x-ray vision. I was just curious. I wasn't the only one."
+        },
+        {
+            "character": "Morse",
+            "line": "I mean, I-I thought about it. I didn't actually do it. Rehab was a bitch."
+        },
+        {
+            "character": "Mack",
+            "line": "Man, you two deserve each other. Let's fan out, cover more ground."
+        }
+    ]
+}

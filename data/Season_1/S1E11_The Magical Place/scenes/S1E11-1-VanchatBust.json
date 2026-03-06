@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "VanchatBust",
+    "description": "Vanchat is attempting to sell Chitauri metal to a black market buyer, but S.H.I.E.L.D. agents Melinda May and Grant Ward crash the meeting using a flashbang and guns. Skye remotely helps coordinate, and Victoria Hand then leads a team of agents to apprehend Vanchat on the rooftop, aiming to use him to find Coulson. Meanwhile, Fitz and Simmons provide technical and medical assistance as needed. This scene sets the episode's stakes and introduces Vanchat's role as a lead to Coulson.",
+    "roles": [
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "victoria_hand"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Vanchat",
+            "line": "100% premium-grade Chitauri metal, as rare as it gets."
+        },
+        {
+            "character": "Deville",
+            "line": "How'd you get your hands on this, Vanchat?"
+        },
+        {
+            "character": "Vanchat",
+            "line": "It's what I do ... Find alien scrap that no one else can, then offer it to people who fully appreciate my efforts."
+        },
+        {
+            "character": "Deville",
+            "line": "Mm, I appreciate the hell out of them. You can name your price. Is that a roomba? Aah!"
+        },
+        {
+            "character": "May",
+            "line": "Fitz-Simmons, he's heading your way."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've never done anything like this before. Are you sure?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's time, Simmons. Embrace the change."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, you're up."
+        },
+        {
+            "character": "Skye",
+            "line": "Here. Let me get that for you."
+        },
+        {
+            "character": "Hand",
+            "line": "Mr. Vanchat. We were hoping you could help us find a friend."
+        }
+    ]
+}

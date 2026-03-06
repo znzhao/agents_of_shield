@@ -1,0 +1,72 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 8,
+    "scene_name": "MayAndCoulsonRescueStoner",
+    "description": "May and Coulson escape from their holding room and reach General Stoner just as he’s about to become a Chronicom victim. They explain the situation, destroy the mind-copying device, and convince Stoner of the threat. Stoner fully believes them now and resolves to help evacuate the base. The trio splits up, with Coulson seeking out the source of the Chronicoms underground.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ford",
+            "line": "Bring in another Hunter for the next conversion."
+        },
+        {
+            "character": "May",
+            "line": "Never keep your back to a door."
+        },
+        {
+            "character": "Stoner",
+            "line": "I believe you!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry you had to learn about it this way, General."
+        },
+        {
+            "character": "Stoner",
+            "line": "Agent Ford attacked me."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is a Chronicom replacement room. The table copies your mind to him."
+        },
+        {
+            "character": "May",
+            "line": "Then they take your face."
+        },
+        {
+            "character": "Stoner",
+            "line": "Those were friends. It's... them? They're dead? I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "This device is out of commission. They won't take anyone else."
+        },
+        {
+            "character": "Stoner",
+            "line": "They've still got my agents trapped down in this base. We need to get people out, regroup topside."
+        },
+        {
+            "character": "May",
+            "line": "What about Mack? You know he came in for his parents. He'll be finding his way out with them."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's good. Link up with him."
+        },
+        {
+            "character": "Stoner",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This is the very bottom of the Lighthouse, right? They mentioned bringing more Chronicoms up. I'm gonna see where they're coming from."
+        }
+    ]
+}

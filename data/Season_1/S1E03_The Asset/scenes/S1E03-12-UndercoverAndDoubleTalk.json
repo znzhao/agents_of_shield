@@ -1,0 +1,79 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 12,
+    "scene_name": "UndercoverAndDoubleTalk",
+    "description": "Skye plays both sides as Quinn privately confronts her, suspecting she’s working for S.H.I.E.L.D. She spins a convincing story about infiltrating S.H.I.E.L.D. and hints she could leak valuable information. Meanwhile, May and the team monitor their dwindling connection to Skye, growing anxious as her signal goes dark. Skye and Quinn delve into philosophical differences about freedom and loyalty.",
+    "roles": [
+        "skye",
+        "ian_quinn",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Got the dispatch leaking Hall's location. User's an alias."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, can you trace the DHCP server..."
+        },
+        {
+            "character": "May",
+            "line": "Trace is running, but it'll take time. Our girl?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I thought she was done for, but she's just sweet-talked her way into Quinn's office."
+        },
+        {
+            "character": "May",
+            "line": "How'd she manage that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Pbht! She probably just used her, um... uh...uh... her, uh... ah, boobs."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ugh. That's the only explana... Oh my gosh. The signal's dead. Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "What... I didn't. She must've... Oh, lord."
+        },
+        {
+            "character": "Skye",
+            "line": "Much better. Haven't felt that “someone's watching my every move” feeling since I failed my driver's test."
+        },
+        {
+            "character": "Quinn",
+            "line": "You want to tell me what the hell's going on? S.H.I.E.L.D. got to you?"
+        },
+        {
+            "character": "Skye",
+            "line": "They picked me up in L.A., I helped them in a crisis, and now they want to recruit me."
+        },
+        {
+            "character": "Quinn",
+            "line": "Of course they did."
+        },
+        {
+            "character": "Skye",
+            "line": "So I played along. Talk about inside info... I have a bunk on their plane. I've been gathering intel, biding my time until I could become useful. I thought this qualified."
+        },
+        {
+            "character": "Quinn",
+            "line": "Why would they trust you with a covert operation like this?"
+        },
+        {
+            "character": "Skye",
+            "line": "Something about S.H.I.E.L.D. not breaking international laws. They had no other options, whereas I like to keep mine open."
+        }
+    ]
+}

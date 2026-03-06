@@ -1,0 +1,68 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "MackAndMayDiscussDirectorRole",
+    "description": "Mack reflects on the challenges of leadership while watching and remembering Coulson's advice videos. May reassures him, providing encouragement about his role as S.H.I.E.L.D. Director. They discuss plans to commemorate the lost Coulson and mention the need to appoint a new Department Head as part of S.H.I.E.L.D.'s rebuilding efforts.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Take it one step at a time. It's not your job to solve every problem. Your job is to put together a team you trust and then to tell them to take it one step at a time. That's all you can do. If you think about everything you're up against all at once, you'll crack. Fury always said, a man can accomplish anything once he realizes he's a part of something bigger."
+        },
+        {
+            "character": "May",
+            "line": "Still watching those?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm hesitant to stop."
+        },
+        {
+            "character": "May",
+            "line": "He'd be proud. The job suits you. The Agents out there know it."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, I'll never be the Director Coulson was."
+        },
+        {
+            "character": "May",
+            "line": "No, you're a different Director. That's not a bad thing."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't have to remind you what the date is tomorrow."
+        },
+        {
+            "character": "May",
+            "line": "I'm well aware."
+        },
+        {
+            "character": "Mack",
+            "line": "I'd like to commemorate the day by putting your proposal into motion. But we still have to settle on a Department Head."
+        },
+        {
+            "character": "May",
+            "line": "I'm still working on it."
+        },
+        {
+            "character": "Mack",
+            "line": "And that's all I wanted to hear. Hard to believe it's been a year. I'm glad you got a little time together."
+        },
+        {
+            "character": "May",
+            "line": "We got more than we thought we would. I should have something for you by the end of today."
+        },
+        {
+            "character": "Mack",
+            "line": "Good. You're doing a great job with the recruitment. We've got plenty of muscle. We need brains."
+        }
+    ]
+}

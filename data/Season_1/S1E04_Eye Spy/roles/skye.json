@@ -1,0 +1,79 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 4
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult hacker and former Rising Tide member who has evolved into a trusted S.H.I.E.L.D. consultant and aspiring field agent. Her rebellious hacker roots remain, but she increasingly embraces responsibility, teamwork, and loyalty within S.H.I.E.L.D. She shows growing maturity and confidence in the field, coupled with a deep desire for connection and to be valued, which she finds in her bond with Coulson and her new team. Skye's skills in hacking and infiltration continue to sharpen, and she contributes innovative problem-solving and social media intelligence to field operations. She is emotionally nuanced, openly angry and cautious yet hopeful, learning to balance her idealism with the pragmatic demands of covert missions. Her arc exemplifies her transformation from a lone outsider to a committed, trusted member of S.H.I.E.L.D., often bridging gaps and advocating for second chances amidst complex loyalties and past betrayals.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "help_hooded_hero",
+        "goal": "To support and help the hooded hero (Michael Peterson) embrace his powers and potential"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "support_second_chances",
+        "goal": "To support second chances and rehabilitation for former agents who have gone rogue, recognizing the complexity of their situations"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_6",
+      "context": "leveraging social media for investigation",
+      "catch_phrase": "Yep, I'm getting full bars, which means if I was down here and 55 guys were in scary red masks, you know what I would do? Instagram."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_5",
+      "context": "infiltrating a hostile party to gain intel",
+      "catch_phrase": "Well, they wanted me to do whatever it takes to get in here."
+    }
+  ]
+}

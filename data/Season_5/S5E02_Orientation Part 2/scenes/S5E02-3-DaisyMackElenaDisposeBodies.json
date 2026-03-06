@@ -1,0 +1,78 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 3,
+    "scene_name": "DaisyMackElenaDisposeBodies",
+    "description": "Daisy, Mack, and Elena deal with the aftermath of killing Kree guards in self-defense, debating how to cover up their actions to avoid retaliation. Deke joins them, admonishing their recklessness and helping devise a plan. The tension grows as they realize how delicate their situation is in the Lighthouse’s power structure.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I just... I can't believe this."
+        },
+        {
+            "character": "Elena",
+            "line": "Me neither."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, no, no, no! He's all right. He's all right."
+        },
+        {
+            "character": "Deke",
+            "line": "How did you get that Kreeper's axe? Please tell me he was sweet on you. You killed a Kree?"
+        },
+        {
+            "character": "Elena",
+            "line": "It was us or them."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, you made the wrong choice."
+        },
+        {
+            "character": "Mack",
+            "line": "Is that gonna be a problem?"
+        },
+        {
+            "character": "Deke",
+            "line": "Two? You killed two? It's only a problem for the herd of people they will kill in retaliation. We got to cover this up."
+        },
+        {
+            "character": "Elena",
+            "line": "What do you think we're doing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We could just make it look like an accident."
+        },
+        {
+            "character": "Deke",
+            "line": "Shut up! Just let me think."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait a minute. What if we leave them upstairs with the other bodies? Use the elevator?"
+        },
+        {
+            "character": "Deke",
+            "line": "We can't exactly be seen in the lift with a pair of dead guards."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, maybe we don't put them in the elevator."
+        },
+        {
+            "character": "Deke",
+            "line": "All right, well, I hope you saved some of your energy there, Tiny."
+        }
+    ]
+}

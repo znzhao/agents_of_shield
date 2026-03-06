@@ -1,0 +1,83 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 13,
+    "scene_name": "QuinnTakenAndGarrettCoulsonDebrief",
+    "description": "With Skye stabilized and the mission complete, Garrett and Triplett prepare to take Quinn away, taunting him about the failure of his plan and the Clairvoyant's betrayal. Coulson and Garrett share a somber conversation reflecting on the lengths they went to save Skye and whether Coulson would have taken vengeance on Quinn had she died. May notices Coulson is disturbed rather than relieved, and questions him over his insistence not to use the drug on Skye.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "ian_quinn",
+        "john_garrett",
+        "antoine_triplett"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "I have good news and bad news. Which would you like to hear first? Bad news, then... there's a fair amount. Your Clairvoyant, the one who said he'd have your back... he's a no-show. The site we were supposed to lead him to with our minds... blown to pieces, buried under 100 feet of rock. It seems the only psychic power your buddy has shown is the ability to predict if you tell a rich, entitled dirtbag he's gonna get away with murder, he'll believe it. Trip. Girl's gonna live... live to testify how a billionaire shot her point-blank in the stomach. Oh, we got a great little home movie of you admitting that, genius. This Clairvoyant played you and left you to rot."
+        },
+        {
+            "character": "Quinn",
+            "line": "You said there was good news."
+        },
+        {
+            "character": "Garrett",
+            "line": "I did? Oh, yeah. You still have your tongue."
+        },
+        {
+            "character": "Triplett",
+            "line": "Let's go."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want to thank you, Garrett, for letting us keep Quinn on the plane."
+        },
+        {
+            "character": "Garrett",
+            "line": "Don't mention it. There's still time for me to make the rest of his life a long, living hell."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm counting on it."
+        },
+        {
+            "character": "Garrett",
+            "line": "Something I need to ask you, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course."
+        },
+        {
+            "character": "Garrett",
+            "line": "We've known each other a long time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, we have."
+        },
+        {
+            "character": "Garrett",
+            "line": "Been in our share of tight spots together. If it had gone the other way... if Skye hadn't survived, were you really prepared to throw Quinn off this plane?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You were the one who made that threat. I just asked to keep him on the plane for awhile."
+        },
+        {
+            "character": "Garrett",
+            "line": "You're right. It was me. My mistake."
+        },
+        {
+            "character": "Coulson",
+            "line": "Till next time."
+        },
+        {
+            "character": "Garrett",
+            "line": "Might be sooner than you think. My man Trip's got eyes for that biotech gal of yours."
+        }
+    ]
+}

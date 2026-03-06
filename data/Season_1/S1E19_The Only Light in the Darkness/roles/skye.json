@@ -1,0 +1,103 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker who has become a crucial member of S.H.I.E.L.D., balancing her technical expertise with growing emotional complexity and team loyalty. Despite her initial outsider status with a mysterious past and no familial ties, she has evolved into a key operative who adapts quickly to rapidly shifting circumstances within the fractured organization. Her experiences have made her cautious yet resolute, and she navigates deepening romantic entanglements with complexity, while retaining a fierce commitment to her team's survival and mission. She demonstrates both vulnerability and resilience, displaying increasing maturity as she balances trust and suspicion, especially amid Hydra's infiltration.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "happiness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_remaining_S.H.I.E.L.D._bases_and_team",
+        "goal": "To safeguard the remaining uncompromised S.H.I.E.L.D. bases and protect her team against Hydra threats"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_cover_and_monitor_infiltration",
+        "goal": "To maintain the team's undercover status by erasing all personal and operational records and monitor Hydra's infiltration closely"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "decrypt_hard_drive_and_support_team_research",
+        "goal": "To decrypt the encrypted hard drive with crucial research data and advance the team’s mission using technical expertise"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_Hydra_double_agents_and_preserve_team_cohesion",
+        "goal": "To identify Hydra infiltrators within the team and maintain group cohesion and survival amidst pervasive distrust"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "navigate_dual_loyalty_and_romantic_conflict_with_Ward",
+        "goal": "To manage complex feelings and suspicions surrounding Ward, balancing emotions with the necessity of discerning truth from betrayal"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_5",
+      "context": "expressing empathy and hope about forgiveness and belief",
+      "catch_phrase": "God is love... the thing that holds us together."
+    }
+  ]
+}

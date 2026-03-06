@@ -1,0 +1,55 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "grant_ward",
+        "elena_rodriguez",
+        "robbie_reyes",
+        "holden_radcliffe",
+        "aida",
+        "anton_ivanov",
+        "glenn_talbot",
+        "agnes_kitsworth",
+        "jeffrey_mace",
+        "skye"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Simmons",
+        "Fitz",
+        "Mack",
+        "Yo-Yo",
+        "Daisy",
+        "Robbie",
+        "Radcliffe",
+        "Aida",
+        "Ivanov",
+        "Talbot",
+        "Agnes",
+        "Mace"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Life Model Decoys (LMDs)",
+        "Inhumans",
+        "Russian SVR / Anton Ivanov's faction (The Superior)",
+        "Watchdogs (anti-Inhuman terrorist group)",
+        "Momentum Energy (Momentum Labs)",
+        "Inhuman Resistance"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Triskelion (S.H.I.E.L.D. headquarters)",
+        "Momentum Energy Lab (Pasadena / Momentum Labs)",
+        "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+        "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+        "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+        "Steel mill cover (site built over Radcliffe's backdoor)"
+    ]
+}

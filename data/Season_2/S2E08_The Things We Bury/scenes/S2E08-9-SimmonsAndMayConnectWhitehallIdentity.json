@@ -1,0 +1,98 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 9,
+    "scene_name": "SimmonsAndMayConnectWhitehallIdentity",
+    "description": "At The Playground, Simmons, May, Hunter, and Mack cross-reference SSR files and connect Daniel Whitehall’s true identity as Werner Reinhardt, discovering a photo of him as both a young and old man. They realize something allowed Whitehall to revert his age after decades, theorizing on alien technology or other means. This revelation elevates the threat posed by Whitehall and ties past and present storylines together.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Sorting paperwork... the life none of us chose. Anything from the interrogation?"
+        },
+        {
+            "character": "May",
+            "line": "Pretty good idea why the Reinhardt files were locked up."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, there's some nasty stuff in here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank god none of this stuff made it on the S.H.I.E.L.D. servers to be stolen away by HYDRA."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hang on. Hang on. I've got it. I've got the Reinhardt file. Complete SSR bio, psych eval, and a lovely picture of the nazi bastard."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait. No."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, name's right beneath it."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. That's Daniel Whitehall."
+        },
+        {
+            "character": "Mack",
+            "line": "What, you mean it looks like him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I mean it's the same man. I've stared Whitehall in the face."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're joking."
+        },
+        {
+            "character": "Mack",
+            "line": "Can't be. He'd be old as hell now."
+        },
+        {
+            "character": "Simmons",
+            "line": "I would've agreed with you before “alien” became a word we used daily. May, I know I'm right. Bobbi was dead-on. He did have a personal connection to Red Skull."
+        },
+        {
+            "character": "Hunter",
+            "line": "What is this guy, Asgardian?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's like he stopped the clock."
+        },
+        {
+            "character": "May",
+            "line": "Or turned it back."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where's that photo from?"
+        },
+        {
+            "character": "May",
+            "line": "An old S.H.I.E.L.D. prison called the Rat."
+        },
+        {
+            "character": "Mack",
+            "line": "How long was he kept there?"
+        },
+        {
+            "character": "May",
+            "line": "For life."
+        }
+    ]
+}

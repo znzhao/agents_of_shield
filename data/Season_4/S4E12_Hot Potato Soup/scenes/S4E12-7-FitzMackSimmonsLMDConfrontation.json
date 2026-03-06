@@ -1,0 +1,106 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "FitzMackSimmonsLMDConfrontation",
+    "description": "Back at The Playground, Mack, Simmons, and Fitz grapple with the emotional fallout of Radcliffe LMD’s taunts about Fitz’s father. The LMD manipulates Fitz, targeting his insecurities and sowing doubt, causing Fitz to storm away. Simmons later comforts Fitz, giving him an epiphany about the LMD’s programming, connecting the emotional wounds to the unusual code in the robot's brain.",
+    "roles": [
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "leo_fitz",
+        "holden_radcliffe"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "How's Fitz doing? That Rad-Bot was really getting under his skin."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, he'll be fine. He just needs some space at the moment."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. What was all that about, uh... his father? Fitz never mentioned him before."
+        },
+        {
+            "character": "Simmons",
+            "line": "He was not a good man. Always telling Fitz he was stupid and worthless. I think that's why Fitz became so clever."
+        },
+        {
+            "character": "Mack",
+            "line": "I'd like to have a few words with that man."
+        },
+        {
+            "character": "Simmons",
+            "line": "You and me both. But he walked out on them when Fitz was 10. He hasn't seen or heard from him since."
+        },
+        {
+            "character": "Mack",
+            "line": "So you're telling me with all the tools and tech that S.H.I.E.L.D. has at its disposal, we can't find him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We could. But Fitz doesn't want to."
+        },
+        {
+            "character": "May",
+            "line": "You guys got anything? This is L.T. Koenig's last known location."
+        },
+        {
+            "character": "Daisy",
+            "line": "Negative. Just a lot of man-buns. And one crazy-ass handy-bun mustache."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got your green tea."
+        },
+        {
+            "character": "May",
+            "line": "Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any news?"
+        },
+        {
+            "character": "May",
+            "line": "Nothing yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "I hope we're not too late. Those Koenigs are tough, but they've been through enough already."
+        },
+        {
+            "character": "May",
+            "line": "We all have. That's the game."
+        },
+        {
+            "character": "Coulson",
+            "line": "I guess we should be grateful. After all the years, all the missions, all the close calls..."
+        },
+        {
+            "character": "May",
+            "line": "Mm. Both our deaths."
+        },
+        {
+            "character": "Coulson",
+            "line": "Right. After all that, we're still standing, the two of us. Maybe we should toast to that."
+        },
+        {
+            "character": "May",
+            "line": "We've been, uh, making a lot of toasts lately. Maybe we should try something else."
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys, I think you need to get in here."
+        },
+        {
+            "character": "Coulson",
+            "line": "On our way."
+        }
+    ]
+}

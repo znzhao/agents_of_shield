@@ -1,0 +1,57 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 15,
+    "scene_name": "AftermathAndEvilPlans",
+    "description": "As the dust settles, Hive, Malick, and Giyera regroup and set their sights on future objectives tied to Transia's technology. There are hints of dissent and fear within the Hydra ranks, foreshadowing further conflict. Daisy, shaken by her visions and Charles' death, is left to grapple with the coming threats and the limits of her powers to change fate.",
+    "roles": [
+        "gideon_malick",
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "Transia Corporation facility (Michigan / corporate sites)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "I want you to go there."
+        },
+        {
+            "character": "Giyera",
+            "line": "Is that where they manufacture the Exo-Skeleton hardware?"
+        },
+        {
+            "character": "Hive",
+            "line": "That's not the technology we are interested in."
+        },
+        {
+            "character": "Giyera",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Malick",
+            "line": "I shouldn't have to remind you that you work for me. You're the head of my security, and you should be by my side at all times, protecting me."
+        },
+        {
+            "character": "Giyera",
+            "line": "No, sir. I'm right where I'm supposed to be."
+        },
+        {
+            "character": "Hive",
+            "line": "Is he all right?"
+        },
+        {
+            "character": "Giyera",
+            "line": "He's fine, though he sounded a little strange."
+        },
+        {
+            "character": "Hive",
+            "line": "Strange how?"
+        },
+        {
+            "character": "Giyera",
+            "line": "He sounded afraid."
+        }
+    ]
+}

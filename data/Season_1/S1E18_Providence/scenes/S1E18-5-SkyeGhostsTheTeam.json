@@ -1,0 +1,138 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 5,
+    "scene_name": "SkyeGhostsTheTeam",
+    "description": "Skye works urgently to erase all records of the team from the internet, reluctantly embracing ghost protocol at Coulson's insistence. She checks in with Ward over the phone, who lies about his whereabouts and mission status. Ward banters with Skye, playing his ‘good agent’ cover while Garrett listens approvingly. This exchange highlights Ward's double life and increased emotional stakes between him, Skye, and Garrett.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "We have Internet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yay. And, boy, have I lowered my expectations."
+        },
+        {
+            "character": "Skye",
+            "line": "But all H.Q. support systems are gone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, then, the Internet it is. Find everything you can on our team... all personal records, photos, anything that proves we exist... then erase it."
+        },
+        {
+            "character": "Skye",
+            "line": "Uh, that's kind of the nuclear option."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's our only option. Every government agency in the world will be on our ass. We need to vanish."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. But... once that's done, that can't be undone. We'll be ghosts. Not agents of S.H.I.E.L.D., just agents of... nothing. What about Ward? Have you heard from him? He and Agent Hand should have dropped Garrett off at the Fridge by now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet. Here. Give him a call. Hearing how Garrett settled into his tiny, windowless, permanent home might actually cheer me up. When you're finished, collect everyone's badges. It's no longer something we want to flash around."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any sign of Talbot's forces?"
+        },
+        {
+            "character": "May",
+            "line": "Not yet, but we've only got eight hours of flight time before we have to land."
+        },
+        {
+            "character": "Coulson",
+            "line": "No more than four. Fuel line's leaking."
+        },
+        {
+            "character": "May",
+            "line": "Want to tell me where we're going?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Ward",
+            "line": "It's Coulson."
+        },
+        {
+            "character": "Garrett",
+            "line": "By all means."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir. Is everything all right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, it's me. I just wanted to let you know that Grant Ward no longer exists."
+        },
+        {
+            "character": "Ward",
+            "line": "You want to explain that, Skye?"
+        },
+        {
+            "character": "Skye",
+            "line": "Some trigger-happy colonel threatened to pay the Hub a visit. Coulson had us evacuate before he could lock us all up. Now I'm scrubbing our I.D.S while Coulson figures out our next move."
+        },
+        {
+            "character": "Ward",
+            "line": "Makes sense. Agent Hand picked up some Navy jets in the vicinity. She has us taking the long route to the Fridge just to be safe."
+        },
+        {
+            "character": "Skye",
+            "line": "Wow. You took that surprisingly well. Did you hear the part about you no longer existing?"
+        },
+        {
+            "character": "Ward",
+            "line": "Well, it's not the first time my identity's been compromised. Have any idea where Coulson has us headed?"
+        },
+        {
+            "character": "Skye",
+            "line": "No idea. I'll keep you posted."
+        },
+        {
+            "character": "Ward",
+            "line": "Good. I'll catch up with you when I can."
+        },
+        {
+            "character": "Skye",
+            "line": "And when I see you next, who you gonna be? You got a clean slate. You can be anyone you want."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't know. Maybe... Tom Brady. I always wanted to play quarterback."
+        },
+        {
+            "character": "Skye",
+            "line": "And date supermodels. You are so predictable."
+        },
+        {
+            "character": "Ward",
+            "line": "No, I mean the guy seems to have things pretty worked out."
+        },
+        {
+            "character": "Skye",
+            "line": "Be careful."
+        },
+        {
+            "character": "Ward",
+            "line": "You too."
+        }
+    ]
+}

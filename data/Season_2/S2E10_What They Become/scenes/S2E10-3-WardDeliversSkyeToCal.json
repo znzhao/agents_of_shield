@@ -1,0 +1,93 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 3,
+    "scene_name": "WardDeliversSkyeToCal",
+    "description": "Ward escorts a captive Skye into Hydra’s Puerto Rico base. He insists he’s not loyal to Hydra and has brought Skye to keep a promise. Ward delivers Skye to her father Cal, giving them a charged reunion. Cal emotionally confesses his deep regret over her lost childhood, tries to justify his actions, and hints at Skye's special destiny and her late mother's tragic fate.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "calvin_johnson"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Checking exits, numbers of men, weapons inventory. I'm impressed. How's your marksmanship?"
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know. Hand me your side arm. Let's find out."
+        },
+        {
+            "character": "Ward",
+            "line": "Cool under pressure. I see May's teaching you control."
+        },
+        {
+            "character": "Skye",
+            "line": "That's one of our differences. In S.H.I.E.L.D., they train you to control yourself. Hydra wants to control everyone else."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not loyal to Hydra. My orders were to collect Raina. Bringing you along was my idea."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe you don't remember, but we've played this game of “let's kidnap Skye” before, and it didn't end well for you."
+        },
+        {
+            "character": "Ward",
+            "line": "That's not my concern."
+        },
+        {
+            "character": "Skye",
+            "line": "Really? Then what is?"
+        },
+        {
+            "character": "Ward",
+            "line": "Keeping my promise."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sure you two have a lot of catching up to do."
+        },
+        {
+            "character": "Cal",
+            "line": "Look at that. The way you tilt your head. It's just like... Is it nature or nurture? I promised myself... I wouldn't get emotional. Just... I've waited so long for this moment. Let's try again. Hi. I'm Cal. I'm your father. Would you like to sit down? Right. Me neither. Thank you for meeting with me."
+        },
+        {
+            "character": "Skye",
+            "line": "“Thank you for...” Are you serious? I was kidnapped off a plane at gunpoint. That's all you have to say?"
+        },
+        {
+            "character": "Cal",
+            "line": "You're right. Oh, I'm sorry. Let's not lose our heads. I-I-I'm just a little nervous. I hope it's okay to admit that to you. This is a big moment. Father, daughter, family reunion. I wanted it to be perfect. I-I had plans. Those little almond cookies, you know? Flowers, maybe. Not like this. Not here. My God. You are beautiful. Well, I don't know what you know about me."
+        },
+        {
+            "character": "Skye",
+            "line": "You're a monster, a murderer, a trail of death wherever you go."
+        },
+        {
+            "character": "Cal",
+            "line": "Those are all true. But you need to understand. My little girl was... You were taken from me, and my world fell apart. It was the worst day of my life, losing you, but I didn't lose you. I wasn't careless. I didn't forget you were stolen from me! I wasn't always like this. I wasn't always a... Oh. You were born in China. Your mother was Chinese. When you were first born, we were so happy. I worked in a clinic. People liked me. I liked myself."
+        },
+        {
+            "character": "Skye",
+            "line": "So what happened? Hey!"
+        },
+        {
+            "character": "Cal",
+            "line": "This is the thing I want to say. I'm sorry I couldn't be there for you, that I couldn't protect you. That I couldn't teach you about the stars... or sing you to sleep. I know I'm a terrible disappointment, but I'm here now. And everything that's about to happen is supposed to happen. I'm gonna take care of you."
+        },
+        {
+            "character": "Skye",
+            "line": "Then get me out of here."
+        },
+        {
+            "character": "Cal",
+            "line": "What? Oh. Maybe I haven't been clear. You're exactly where you're supposed to be. This is your destiny."
+        }
+    ]
+}

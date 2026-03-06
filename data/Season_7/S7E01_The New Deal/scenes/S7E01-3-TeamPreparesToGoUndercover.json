@@ -1,0 +1,259 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 3,
+    "scene_name": "TeamPreparesToGoUndercover",
+    "description": "The team develops a plan to investigate the Chronicom attack and blend into 1931 society. Mack puts Elena (Yo-Yo) under quarantine due to lingering effects from her past ordeal, while Simmons promises May is stable but still unconscious. Deke supplies era-appropriate clothing, and Daisy attempts to calm team tensions. The group discusses the limits and dangers of time travel, including concerns about altering the past, while preparing to venture out into the city on their first mission.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "So, wait, the Zephyr's a time machine now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In a sense."
+        },
+        {
+            "character": "Deke",
+            "line": "And we can jump to any time we want?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not quite. It's complicated. Even I barely understand it."
+        },
+        {
+            "character": "Mack",
+            "line": "Alright, well, give us the basics."
+        },
+        {
+            "character": "Simmons",
+            "line": "There are critical launch windows, leading to specific points in time and space. Fitz called them “Tides”. The Chronicoms took one, and we followed them here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, but why 1931? I mean, S.H.I.E.L.D. won't even exist until the ‘50s."
+        },
+        {
+            "character": "Simmons",
+            "line": "Truthfully? We never expected to go back this far. I have no idea what the Chronicoms are up to or how to find them."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's not great."
+        },
+        {
+            "character": "Elena",
+            "line": "So we're not prepared for any of this? We're flying blind?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're flying on auto-pilot. And we prepared the best we could."
+        },
+        {
+            "character": "Elena",
+            "line": "Now we're talking."
+        },
+        {
+            "character": "Enoch",
+            "line": "Welcome, friends, new and old! I am scanning existing frequencies for anything unusual..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch."
+        },
+        {
+            "character": "Enoch",
+            "line": "Apologies for the high volume."
+        },
+        {
+            "character": "Simmons",
+            "line": "That is Enoch. I know some of you have never officially met him. That's my workstation, and, Deke, that... that one's yours."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you built all of this and solved time travel. How long did this take?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Building it was simple enough, but it took much longer for Fitz to design."
+        },
+        {
+            "character": "Deke",
+            "line": "Bobo's really not here?"
+        },
+        {
+            "character": "Mack",
+            "line": "And you don't know where he is."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Chronicoms scanned our brains once before. It's too dangerous for any of us to know where he is. Please, sir. Whatever they're planning, we're already behind."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we need boots on the ground, and our comms run off satellites."
+        },
+        {
+            "character": "Simmons",
+            "line": "We brought radios."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, we need to blend in. Deke, can you get us clothes?"
+        },
+        {
+            "character": "Deke",
+            "line": "Navigating the past happens to be my specialty."
+        },
+        {
+            "character": "Elena",
+            "line": "Last time, you got stupid drunk and ended up in jail."
+        },
+        {
+            "character": "Deke",
+            "line": "That's not true. I was pleasantly drunk. It was hilarious."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke... he'll... he'll be fine. It's Prohibition, so alcohol's illegal anyway."
+        },
+        {
+            "character": "Deke",
+            "line": "It's what? Who would think that's a good idea? Even the Kree let us make our own boot juice."
+        },
+        {
+            "character": "Simmons",
+            "line": "This should be enough."
+        },
+        {
+            "character": "Mack",
+            "line": "Keep a low profile."
+        },
+        {
+            "character": "Deke",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo, you're quarantined. Do not leave this plane."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, I'm fine."
+        },
+        {
+            "character": "Mack",
+            "line": "And I'm glad, but until Simmons gives the all-clear, I can't risk introducing an alien contagion into the past. Or purple hair."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, I like it. I do, but it's gotta go."
+        },
+        {
+            "character": "Daisy",
+            "line": "How is May?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Stable. Her core temperature is nearly there. Then we'll proceed."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons. How long have we been apart?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Too long. It is good to see you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I shouldn't be here."
+        },
+        {
+            "character": "Mack",
+            "line": "Are you steady now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "2 years in 10 seconds. It's like the worst episode of “This Is Your Life” ever. Was that even my life?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It was Coulson's. And he was against this. He didn't... I didn't want to be brought back."
+        },
+        {
+            "character": "Mack",
+            "line": "Which I respected."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. ‘Cause you hate robots."
+        },
+        {
+            "character": "Mack",
+            "line": "The Chronicoms want to destroy us. They've scanned Fitz and Simmons' minds. And... they have Fury's Black Box. Simmons believes if we're going to get ahead of them, we'll need you, that there could be a, uh... a clue only you would recognize."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you think?"
+        },
+        {
+            "character": "Mack",
+            "line": "You taught me that a Director has to trust his team. And I trust her as much as anyone, but I'd like you to speak for yourself. Can I count on you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll do anything for you guys. But if we get through this and get back, I'm gonna reevaluate."
+        },
+        {
+            "character": "Mack",
+            "line": "So am I."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what's next, boss?"
+        },
+        {
+            "character": "Mack",
+            "line": "We need to find the Chronicoms before they change something."
+        },
+        {
+            "character": "Simmons",
+            "line": "They already have."
+        },
+        {
+            "character": "Enoch",
+            "line": "A report on NYPD radio of three bodies, found without faces. I believe it to be an erasure... a particularly invasive Hunter procedure to procure identities."
+        },
+        {
+            "character": "Mack",
+            "line": "Is Deke back?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's time to suit up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cool."
+        }
+    ]
+}

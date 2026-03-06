@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 16,
+    "scene_name": "CoulsonSharesWithSkye",
+    "description": "That night, Coulson meets with Skye in private and reveals to her what he learned from the un-redacted file: a female S.H.I.E.L.D. agent delivered Skye to the orphanage. Skye is grateful for the information, though it offers limited answers, deepening her sense of mystery about her origins.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I just wanted to let you know that I didn't forget about what you asked me. Back at the Hub."
+        },
+        {
+            "character": "Skye",
+            "line": "Uh, what do you mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The un-redacted file about your past. I found it."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. Uh, w-what did it say?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The document wasn't about you directly. It was about the person who dropped you off at the orphanage. Turns out, it was a S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Skye",
+            "line": "A S.H.I.E.L.D. agent? Why? I mean, who? What does that mean? I..."
+        },
+        {
+            "character": "Coulson",
+            "line": "The agent was unidentified. We don't know if she was your mother or if she just found you on a doorstep."
+        },
+        {
+            "character": "Skye",
+            "line": "Mother? It was a woman?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I put in a request to dig further into the files for any related materials, but right now, that's all I have. I'm sorry."
+        },
+        {
+            "character": "Skye",
+            "line": "Sorry? Thank you. Thank you so much."
+        },
+        {
+            "character": "Coulson",
+            "line": "You finish reading it yet?"
+        }
+    ]
+}

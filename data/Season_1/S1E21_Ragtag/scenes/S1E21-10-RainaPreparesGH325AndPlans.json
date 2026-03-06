@@ -1,0 +1,61 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 10,
+    "scene_name": "RainaPreparesGH325AndPlans",
+    "description": "Back on the Bus, Garrett and Ward discuss loyalty, trust, and Hydra, deepening their personal and ideological connections. Raina brings Garrett a near-complete vial of the GH-325 compound and discusses its restorative properties, placing greater urgency on Garrett’s quest for survival. This scene builds momentum toward the climactic confrontations.",
+    "roles": [
+        "john_garrett",
+        "grant_ward",
+        "raina"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "Something about that woman unnerves me."
+        },
+        {
+            "character": "Ward",
+            "line": "It's those eyes."
+        },
+        {
+            "character": "Garrett",
+            "line": "No, it's what's behind those eyes. What did she text you about earlier?"
+        },
+        {
+            "character": "Ward",
+            "line": "She had questions about your decision to pack up the lab and move it to the States."
+        },
+        {
+            "character": "Garrett",
+            "line": "I planned to expand operations anyway. The fact that the Deathlok files were stolen from Cybertek just speeds up my decision."
+        },
+        {
+            "character": "Raina",
+            "line": "I heard you wanted to hang on to this during the flight."
+        },
+        {
+            "character": "Garrett",
+            "line": "You heard right."
+        },
+        {
+            "character": "Ward",
+            "line": "You've re-created GH-325."
+        },
+        {
+            "character": "Raina",
+            "line": "Almost. We've distilled the genetic components of all the previous samples down to one single vial."
+        },
+        {
+            "character": "Garrett",
+            "line": "And it'll do what we talked about?"
+        },
+        {
+            "character": "Raina",
+            "line": "It should regenerate and heal cells, just like it did in Skye and Coulson. So take good care of it. That's the only one in the world."
+        }
+    ]
+}

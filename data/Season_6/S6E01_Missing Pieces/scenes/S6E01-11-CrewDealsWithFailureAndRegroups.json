@@ -1,0 +1,58 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 11,
+    "scene_name": "CrewDealsWithFailureAndRegroups",
+    "description": "On Zephyr One, Daisy and Piper discuss how Simmons is struggling after their failed lead on Fitz. Simmons, meanwhile, continues unearthing clues in the pod and discovers references to the planet Naro-Atzia, believing it's Fitz's destination. Tension arises within the group regarding what to do next as they weigh family against tactical sense. The debate intensifies when Simmons pushes to follow Fitz’s suspected trail, while others insist it's time to return to Earth and regroup.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I feel... Gut punched."
+        },
+        {
+            "character": "Piper",
+            "line": "I'm sorry. I'm worried about Simmons."
+        },
+        {
+            "character": "Daisy",
+            "line": "She's never let doubt creep in, not even for a second. I think it's... I think it's partially because..."
+        },
+        {
+            "character": "Piper",
+            "line": "'Cause she'd totally lose it if she does."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        },
+        {
+            "character": "Piper",
+            "line": "We found a launch mechanism. Maybe there was an escape pod or something."
+        },
+        {
+            "character": "Daisy",
+            "line": "I appreciate the bright side. I mean, I hope so. But either way... Either way, it's time to head home. Yeah, head home and regroup."
+        },
+        {
+            "character": "Piper",
+            "line": "Thank God. I mean, one more week with Davis and we will find a dead body... his."
+        },
+        {
+            "character": "Davis",
+            "line": "Yes, because one more week with you and I will definitely kill myself."
+        },
+        {
+            "character": "Daisy",
+            "line": "You guys never wavered. You stayed on when the rest of the crew got off. Thank you. I know this is a lot more than what you guys bargained for. And I think we will all benefit from getting back to, uh, familiar territory. To loved ones. We need them. And they may need us."
+        }
+    ]
+}

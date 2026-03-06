@@ -1,0 +1,68 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 3,
+    "scene_name": "MayVsMorseStealsToolbox",
+    "description": "May finds Bobbi in Coulson's office and pulls a gun on her, suspecting betrayal. Bobbi insists she's working for S.H.I.E.L.D. but describes Coulson's version as not the 'real S.H.I.E.L.D.' Bobbi manages to escape from May, activating an EMP and seizing Fury's toolbox.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I told Coulson there was no way. I hate being wrong."
+        },
+        {
+            "character": "Morse",
+            "line": "Please, okay? There's no need for the gun. I can explain."
+        },
+        {
+            "character": "May",
+            "line": "Can't wait."
+        },
+        {
+            "character": "Morse",
+            "line": "I work for S.H.I.E.L.D. I do. I swear. But you don't."
+        },
+        {
+            "character": "May",
+            "line": "Try again."
+        },
+        {
+            "character": "Morse",
+            "line": "What Coulson's doing here, this isn't S.H.I.E.L.D... not the real S.H.I.E.L.D., anyway."
+        },
+        {
+            "character": "May",
+            "line": "The last person who betrayed me... I broke his larynx. Hand that over."
+        },
+        {
+            "character": "Morse",
+            "line": "May, it doesn't have to be like this."
+        },
+        {
+            "character": "Morse",
+            "line": "I didn't want this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it. You three, find him. The rest of you, follow me."
+        },
+        {
+            "character": "May",
+            "line": "It's us. Found Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talk to me."
+        },
+        {
+            "character": "May",
+            "line": "It's Bobbi. She set off some kind of E.M.P. She's gone."
+        }
+    ]
+}

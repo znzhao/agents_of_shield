@@ -1,0 +1,81 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 11
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and integral S.H.I.E.L.D. operative who combines technical expertise with field ingenuity. She is deeply motivated by her personal quest to uncover her origins and demonstrates increasing resourcefulness and courage in high-stakes situations. Though often underestimated, Skye gains trust and respect through her unorthodox but effective methods, contributing crucially to the team's success. Emotionally complex, she balances vulnerability and determination, showing a growing sense of independence and resilience while maintaining her commitment to the team and mission.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_independent_investigation",
+        "goal": "To independently investigate and locate Coulson despite official setbacks and orders"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "track_centipede_finances",
+        "goal": "To follow and decode Centipede's financial transactions to find critical intelligence"
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_7",
+      "context": "determined response to being kicked off the plane but insisting her worth",
+      "catch_phrase": "I know I'm not some badass field agent like May or Ward, but this is what I do. You can't just kick me off this mission."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_6",
+      "context": "expressing frustration and resolve upon being told to focus on the mission and not personal investigations into her past",
+      "catch_phrase": "I didn't ask for help, okay?"
+    }
+  ]
+}

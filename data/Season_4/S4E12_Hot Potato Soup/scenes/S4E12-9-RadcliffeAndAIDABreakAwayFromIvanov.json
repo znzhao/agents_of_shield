@@ -1,0 +1,66 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "RadcliffeAndAIDABreakAwayFromIvanov",
+    "description": "Radcliffe successfully maps Billy's memories and gives secret numeric coordinates to AIDA as Ivanov presses for old-fashioned torture. AIDA demonstrates her superhuman abilities, shocking Ivanov, who initially suspects her to be Inhuman, and Radcliffe corrects him. Ivanov is unsettled by this revelation and tensions rise between machine and man on the submarine.",
+    "roles": [
+        "aida",
+        "holden_radcliffe",
+        "anton_ivanov",
+        "billy_koenig"
+    ],
+    "vibe": "tense",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "Now we're getting somewhere. AIDA, remember these numbers. 74638. 812. 94573. 10168. 99438. Got it. Now turn this boat around."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I give the orders on this ship."
+        },
+        {
+            "character": "AIDA",
+            "line": "Your tone sounds threatening."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Now, let's not lose our heads. What seems to be the problem here?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You put too much faith in machines. I'm going to go get the information out of him my way. If it's the same, then we go."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Absolutely not. I won't allow it."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Get them out of here."
+        },
+        {
+            "character": "Man",
+            "line": "Aah!"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You brought an Inhuman on my ship?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "She's a machine. AIDA, release him."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You made her?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "With my own hands. Simple, built to last. Now turn this boat around. Please?"
+        }
+    ]
+}

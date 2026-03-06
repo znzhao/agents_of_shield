@@ -1,0 +1,129 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "SHIELDReturnsToLighthouse",
+    "description": "The S.H.I.E.L.D. team regroups at the Lighthouse after their journey through time. Fitz, Coulson, Elena, Mack, May, and Simmons assess the situation, confirming they have returned to the present. They discuss the bunker’s origins and limitations and encounter a video recording of General Rick Stoner, revealing some of the Lighthouse's background. Plans are made to treat injuries and to explore the facility.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Ah. Well, that was a hell of a thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm so glad you guys made it."
+        },
+        {
+            "character": "Elena",
+            "line": "Why are we still in the Lighthouse?"
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe Flint's Monolith didn't work."
+        },
+        {
+            "character": "May",
+            "line": "So we find them, try again."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, it worked. It takes you through time, but to the same place. I've been here before with Enoch. We made it."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're home?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, we're home."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm gonna try and find some light."
+        },
+        {
+            "character": "May",
+            "line": "It's hard to believe we're back."
+        },
+        {
+            "character": "Mack",
+            "line": "Find me a double cheeseburger, I'll believe it."
+        },
+        {
+            "character": "Stoner",
+            "line": "Welcome to the Lighthouse, the world's last bastion against the encroaching darkness. If you're here, you understand the gravity of the situation. The world as we know it has come to an end. My name is General Rick Stoner."
+        },
+        {
+            "character": "Coulson",
+            "line": "Rick Stoner? I've heard of him."
+        },
+        {
+            "character": "Stoner",
+            "line": "As you know, certain world events, should they occur, trigger what we in S.H.I.E.L.D. call Project Reclamation. This protocol was created as a black-ops action made only known to the highest-ranking S.H.I.E.L.D. operatives. Once initiated, Project Reclamation is conducted through secure communications we call electronic mail. Our Agents were instructed to gather you, the selected elite, from a host of nations and bring you here..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Must have never been initiated. The 1972 Hydrogen Wave Crisis was averted."
+        },
+        {
+            "character": "Fitz",
+            "line": "And, what, people just forgot about this place?"
+        },
+        {
+            "character": "Coulson",
+            "line": "There's nothing in Fury's toolbox about it. Mack, those injuries need to be treated."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm fine."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll decide that."
+        },
+        {
+            "character": "Elena",
+            "line": "So will I. Well, I'll be there while she decides."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's find a medical station."
+        },
+        {
+            "character": "Elena",
+            "line": "Maybe have Simmons look at you, too, Coulson. That's a bad cut."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can worry about it later."
+        },
+        {
+            "character": "Simmons",
+            "line": "Actually, I wouldn't mind checking everyone out. We did just experience an unexplored phenomenon."
+        },
+        {
+            "character": "Coulson",
+            "line": "Worry about it later. You look after Mack. I'll stay here with Daisy. When she wakes up, she'll have questions."
+        },
+        {
+            "character": "May",
+            "line": "When she wakes up, she's gonna want to kill you."
+        }
+    ]
+}

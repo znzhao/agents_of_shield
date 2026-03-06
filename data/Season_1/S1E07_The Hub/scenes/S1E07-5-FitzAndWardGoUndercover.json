@@ -1,0 +1,48 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "FitzAndWardGoUndercover",
+    "description": "Ward and Fitz set off on their mission, traveling through the mountains toward the separatist border. In a suspicious bar, they attempt to contact Uri but are met with hostility from locals. Ward learns his contact is dead, escalating the tension.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "So Simmons, by this point, does not have a bloody clue. You know, we're in the back, trying to contain our laughter. So Simmons goes into the vacuum chamber wearing... wearing a-a bunny suit. Um, we just call it that because it... it covers your whole body. Um, so she's in the vacuum chamber, but when she takes her mask off to speak to me... she sneezes all over the Faraday cup... which is funny."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you have the beacon?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. But it's funny because vacuum chambers are so dry... and this instrument was actually supposed to go into space. It had sensitive chemical components. Simmons actually tells it a lot better than I do."
+        },
+        {
+            "character": "Ward",
+            "line": "Listen. My contact's Uri Dubrovsky. We'll pay him to get us across the border. We go back, but he doesn't like new people, so keep your mouth shut and your head down."
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, can you ask what beers that they have on tap?"
+        },
+        {
+            "character": "Vladimir",
+            "line": "Uri's your friend?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah."
+        },
+        {
+            "character": "Vladimir",
+            "line": "Uri's dead. You have no friends here."
+        }
+    ]
+}

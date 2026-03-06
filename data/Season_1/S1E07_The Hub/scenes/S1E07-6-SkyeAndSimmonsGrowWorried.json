@@ -1,0 +1,42 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "SkyeAndSimmonsGrowWorried",
+    "description": "Back at the Hub, Simmons and Skye worry over Ward and Fitz’s safety, trying to glean information from May and expressing discomfort with being sidelined. Skye hatches a plan to uncover more details, seeking Coulson’s help, but he deflects, emphasizing secrecy and urging trust in the system.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Oh! No, no, no, no, no, no. Please be careful. Can you imagine what Fitz would do if the night-night gun was broken when he came back? Surely he'll be okay out there, right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Well, Agent May is level 7. Maybe she can give us an update on their mission. Does that mean that you do know something and you can't tell us, or that you don't know anything? Which non-expression is this?"
+        },
+        {
+            "character": "May",
+            "line": "We know what we're supposed to. When we have more information, we'll react. All right, clear out. I need to run some diagnostics, then reboot. That means you two. Off."
+        },
+        {
+            "character": "Skye",
+            "line": "You guys may be okay with being in the dark, but I'm not into it. I need answers. And I know just the person who has them."
+        },
+        {
+            "character": "Simmons",
+            "line": "Who?"
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson. I'm obviously talking about Coulson."
+        }
+    ]
+}

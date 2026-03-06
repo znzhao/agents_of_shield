@@ -1,0 +1,85 @@
+{
+    "season": 7,
+    "episode": 8,
+    "num": 10,
+    "scene_name": "RetreatAndGoodbyesAtAfterlife",
+    "description": "May and Elena, along with Jiaying and Gordon, regroup after the attack. Jiaying chooses to remain behind to help her people and possibly save Kora. May provides Jiaying with a watch for a future rendezvous and offers reassurances. The agents race to get back to the Zephyr in time, aware that further time jumps are imminent.",
+    "roles": [
+        "melinda_may",
+        "elena_rodriguez",
+        "jiaying"
+    ],
+    "vibe": "emotional",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Come on, hurry up."
+        },
+        {
+            "character": "May",
+            "line": "You can come with us. But I can't guarantee that it'll be any safer."
+        },
+        {
+            "character": "Jiaying",
+            "line": "I can't leave my people behind to die. My daughter is still out there."
+        },
+        {
+            "character": "Elena",
+            "line": "She made her choice, but that man with her... Nathaniel... he's our enemy, too. We won't let you fight this battle alone."
+        },
+        {
+            "character": "May",
+            "line": "We'll send coordinates to that watch when we're ready to meet."
+        },
+        {
+            "character": "Elena",
+            "line": "You should find someplace to hide until then."
+        },
+        {
+            "character": "Gordan",
+            "line": "There are a few places we could try."
+        },
+        {
+            "character": "Jiaying",
+            "line": "I'm sorry you didn't find what you were looking for here."
+        },
+        {
+            "character": "May",
+            "line": "Come on. It's gonna be close."
+        },
+        {
+            "character": "Coulson",
+            "line": "Still no sign of the Quinjet."
+        },
+        {
+            "character": "Mack",
+            "line": "Come on, Yo-Yo."
+        },
+        {
+            "character": "Daisy",
+            "line": "What if she shows up and she... she didn't get her power back?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Then we lose the Zephyr. And with only 46 seconds in the next window, there may not even be time to dock and evacuate."
+        },
+        {
+            "character": "Enoch",
+            "line": "The intervals will only get shorter after that. We are mere moments away from catastrophic failure."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's very comforting. Thank you, Enoch."
+        },
+        {
+            "character": "Sousa",
+            "line": "Parachutes are ready to go."
+        },
+        {
+            "character": "Mack",
+            "line": "Abandon ship."
+        }
+    ]
+}

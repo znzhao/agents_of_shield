@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 5,
+    "scene_name": "TeamDebatesNextMove",
+    "description": "Mack, Daisy, and Fitz debate what to do with the information Daisy has gathered tracking Watchdogs online. Mack objects to Daisy's plan to find and shake down suspected Watchdog sympathizers, raising concerns about civil liberties. The team ultimately splits up—Mack leaves to be with Ruben while Daisy and Fitz resolve to pursue leads on their own.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "What makes them go from anonymous trash-talking online to..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Domestic terrorism? Maybe someone stepped in and radicalized them. Maybe Blake."
+        },
+        {
+            "character": "Fitz",
+            "line": "I understand feeling lost. You want to hate something. Hate gives you direction. That could be dangerous."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, I used to hate all this alien crap. Uh, used to. But my brother thinks that way. I mean, he's a good guy, but even he's cheering on the Watchdogs."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're not... they're not that anonymous. I've been tracking them, the ones that are spewing hate online. You know, IP addresses, residences, license-plate numbers, some of them are local. They could've been involved in the ATCU attack. We should go pick one up and see what he knows."
+        },
+        {
+            "character": "Mack",
+            "line": "And what? Shake him down? Without even knowing if the guy we picked was actually involved?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, either way, he'll know something."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but it's kind of Gestapo, don't you think? Is that who we are?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We're S.H.I.E.L.D. I'm trying to save lives. I'll use whatever advantage I have to do it."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, the advantage of superpowers, which is something I don't have. But I'm not so sure you should be using yours to sidestep civil liberties."
+        },
+        {
+            "character": "Daisy",
+            "line": "They gave up their right to civil liberties when they started imploding buildings."
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe, but it's not about how they act. It's about how we respond. All right, look, I'm not going along with this. Besides, I made a promise to my brother."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, Fitz, you're with me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, am I?"
+        }
+    ]
+}

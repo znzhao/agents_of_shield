@@ -1,0 +1,49 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 18,
+    "scene_name": "AftermathOnTheBusSkyeInjured",
+    "description": "As the situation resolves, Skye awakens in the medical bay to discover her arms covered in bruises. Simmons and Andrew explain Skye was focusing her powers inwards, hurting herself in the process. Garner recommends that Skye be removed not just from field duty but from S.H.I.E.L.D. entirely, believing she needs time and distance to recover and learn control.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You're awake. You're probably feeling a little drowsy. We gave you something to help you sleep."
+        },
+        {
+            "character": "Skye",
+            "line": "Why do I have these bruises?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I ran some tests. The bruising was caused by capillary ruptures in your arms. X-rays showed more than 75 hairline fractures from your clavicle to your fingers."
+        },
+        {
+            "character": "Skye",
+            "line": "I... I don't understand."
+        },
+        {
+            "character": "Andrew",
+            "line": "You weren't stopping your powers, Skye. You were... directing them inward."
+        },
+        {
+            "character": "Skye",
+            "line": "What am I supposed to do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I made the casts from compression microfibers to help contain the shaking, minimize the damage."
+        },
+        {
+            "character": "May",
+            "line": "That's not what she means, Simmons. We'll figure this out, Skye."
+        }
+    ]
+}

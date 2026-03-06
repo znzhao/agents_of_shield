@@ -1,0 +1,45 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 13,
+    "scene_name": "CoulsonAndMayAwaken",
+    "description": "Coulson wakes up in the Superior’s submarine with May, realizing they have successfully escaped the Framework. The effects of long-term physical disuse set in as May disorients and Coulson helps her. They spot Aida in a pod, her real body vulnerable at last. Coulson grabs a scalpel, preparing to neutralize Aida’s threat once and for all.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "aida"
+    ],
+    "vibe": "dramatic",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I'm amazed you went through. I was a little squirrelly on the other side."
+        },
+        {
+            "character": "May",
+            "line": "It was kind of cute."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, I'm so sorry. I tried to find you."
+        },
+        {
+            "character": "May",
+            "line": "AIDA."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stinking robots. At least you had a shotgun axe."
+        },
+        {
+            "character": "Mack",
+            "line": "This is unbelievable. You were right. None of this is real."
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons, you're up!"
+        }
+    ]
+}

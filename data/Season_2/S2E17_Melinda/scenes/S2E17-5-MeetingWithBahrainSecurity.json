@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 5,
+    "scene_name": "MeetingWithBahrainSecurity",
+    "description": "Coulson, May, and Hart meet Bahraini security officer Faisal Ahmed and discuss Eva's potential threat. The team observes Eva in a market setting, planning to approach her carefully before the local military can intervene. The tension rises as they prepare to contact Eva.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hart",
+            "line": "Faisal Ahmed, may I introduce agents Coulson and May. Faisal is with Bahrain National Security."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pleasure, sir. Your people have been tracking her?"
+        },
+        {
+            "character": "Ahmed",
+            "line": "Yes, we followed Miss Belyakov to a café in this market. This is a very dangerous area. Black-market importers, thieves, not a place for tourists."
+        },
+        {
+            "character": "Coulson",
+            "line": "So she didn't come for falafel. She could be meeting with anyone."
+        },
+        {
+            "character": "Ahmed",
+            "line": "Whatever she wants, it's not good. Unless she leave with you, our military will take her."
+        },
+        {
+            "character": "Hart",
+            "line": "This is our window. Fury will have our asses if an index candidate ends up in government hands."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. We'll make this work."
+        }
+    ]
+}

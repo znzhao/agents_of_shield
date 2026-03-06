@@ -1,0 +1,86 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 6,
+    "scene_name": "TruthAboutCoulsonRecovery",
+    "description": "As the team digests the new information, Simmons and May inform Coulson that none of the doctors or the facility listed in his file actually exist within S.H.I.E.L.D. The team suspects that these assets are hidden at a deeper level. Simmons and May debate the ethics of subjecting Skye to what Coulson suffered as they study the file's mysterious drugs and procedures, while Coulson insists on doing anything possible to save Skye, even if it plays into the Clairvoyant's plans.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Quinn shot Skye for nothing. The place we were going, the doctors who treated you... they don't exist."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or maybe they exist somewhere else. This is S.H.I.E.L.D. There are always secrets."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's my fear, sir. Your file is filled with secrets... experimental drugs, unknown surgical procedures we've never even heard of. Frankly, Fitz and I only understand about 70% of what's in here."
+        },
+        {
+            "character": "May",
+            "line": "Even if we do find where they treated you and we were able to replicate the procedure, there's the other obvious question."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Whether we should. What you experienced, sir, if this file is even partially accurate..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one's suggesting that we submit Skye to everything that I went through, but if there's something in here... a drug, a treatment that can save her, we need to find it. Figure it out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "You disagree."
+        },
+        {
+            "character": "May",
+            "line": "No. I think we need to do everything humanly possible to save Skye. But we need to acknowledge that doing so might give the Clairvoyant exactly what he wants."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a risk we have to take."
+        },
+        {
+            "character": "Fitz",
+            "line": "How is she?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Deteriorating, and I don't know how to stop it. The only thing I've found remotely interesting is something called “GH-325.”"
+        },
+        {
+            "character": "Fitz",
+            "line": "Some kind of drug?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Coulson was injected with that, and literally minutes later, his wounds showed signs of cellular regeneration."
+        },
+        {
+            "character": "Fitz",
+            "line": "Regeneration? Is that even possible?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Even if this miracle drug does exist, we don't know where to find it. We have no coordinates, no logs of anyone's departure or arrival."
+        }
+    ]
+}

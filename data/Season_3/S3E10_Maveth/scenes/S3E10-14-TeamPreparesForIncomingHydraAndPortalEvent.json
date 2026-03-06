@@ -1,0 +1,174 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 14,
+    "scene_name": "TeamPreparesForIncomingHydraAndPortalEvent",
+    "description": "In the portal chamber, the S.H.I.E.L.D. agents debate what to do if the ancient creature comes through instead of their teammates. Simmons recounts the planet’s desolation, speculating about the alien's destructive role. Lincoln suggests destroying Hydra's portal-control machinery, but Simmons objects, worried about stranding Fitz and Coulson. May returns with grim news: all the imprisoned Inhumans have been killed by Lash or Andrew. Mack gives his final orders, reaffirming May as acting director if he and Daisy do not survive, solidifying the stakes and leadership chain as time runs out.",
+    "roles": [
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "lance_hunter",
+        "melinda_may",
+        "skye",
+        "joey_gutierrez",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "suspenseful",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Malick sent Ward to bring back some ancient HYDRA god?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He didn't use those exact words, but that's the general idea, yes. It's why he had the ATCU collect Inhumans, why he shipped them here to the castle, as some kind of army for this powerful alien."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Look, we all want Fitz and Coulson back. What if that thing comes back, too? Your mother was terrified of the Monolith for a reason."
+        },
+        {
+            "character": "Daisy",
+            "line": "You think the HYDRA thing is what she was afraid of?"
+        },
+        {
+            "character": "Morse",
+            "line": ": When S.H.I.E.L.D. fell, Fury sent us onto the Iliad to keep HYDRA from getting their hands on that Monolith. What if he knew that they wanted to bring this creature back through it?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, come on. What, an ancient alien god? Are you people hearing the words coming out of your mouths?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "The world's changing. Deal with it."
+        },
+        {
+            "character": "Morse",
+            "line": "You were there. Did you see it? What's it like?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I did see it. But I can't really describe what it looked like. It's more how it felt, which is old and pained, as if it once had great power but lost it. And the entire planet is a wasteland. How that came to be, I can't really say, not in any scientific terms, but my sense and certainly Will's heartfelt belief was that the creature is the one responsible. That it caused the desolation."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We have to destroy all this."
+        },
+        {
+            "character": "Morse",
+            "line": "You mean once Fitz and Coulson find Will and come back through."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I mean, what if they're not the ones who come back through? We can't risk that!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Whatever we decide to do isn't the end of the mission. There are a dozen Inhumans in this compound that we can't leave behind."
+        },
+        {
+            "character": "May",
+            "line": "Yes, you can. They're dead. Lash or Andrew, honestly, I'm not sure there's a difference anymore. He killed them all."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, S.H.I.E.L.D. has infiltrated the castle, barricaded themselves inside the portal chamber. We need to get you off the premises."
+        },
+        {
+            "character": "Malick",
+            "line": "You have less than 15 minutes to breach their barricades and regain control of that chamber."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, I really..."
+        },
+        {
+            "character": "Malick",
+            "line": "That's an order, soldier."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hold up. How long before that portal opens?"
+        },
+        {
+            "character": "Ward",
+            "line": "There's a timer on my watch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. We need to move faster."
+        },
+        {
+            "character": "Ward",
+            "line": "I could move faster if you hadn't shot me. Twice."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's that?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'm gonna go out on a limb and guess HYDRA."
+        },
+        {
+            "character": "Joey",
+            "line": "We reinforced the barricades, but it won't take them long to break through."
+        },
+        {
+            "character": "Morse",
+            "line": "No way they're taking this again."
+        },
+        {
+            "character": "Simmons",
+            "line": "We can't destroy it before Fitz and Coulson return, not when we're this close."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What if the creature comes through instead?"
+        },
+        {
+            "character": "Hunter",
+            "line": "We'll be waiting for them with these."
+        },
+        {
+            "character": "Lincoln",
+            "line": "And what if we can't kill it?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Can't speak for everyone, but I'll probably run."
+        },
+        {
+            "character": "Mack",
+            "line": "Get everyone through the tunnel and back up to Zephyr One. I'm going to stay here until the last possible second for Coulson, Fitz, and Will. Now, if HYDRA or that alien thing gets inside here, you light this castle and compound up with every missile on that plane."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? No, I'm not..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Or Bobbi and I can cover a couple of the barricaded entrances, buy us enough time for the portal to open."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I'm down with that plan. if HYDRA tries to get through the barricades, I can..."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey! What part of “that's an order” do you not understand?! Coulson put me in charge to make the hard call, and that's what I'm doing. We can't afford to lose our best agents in one fell swoop, not here, not tonight! Now, if I don't get out. May's the new director. That's what Coulson would want."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. But one thing, I'm staying with you, because, “a,” I can keep the portal open if something goes wrong, and, “b,” I'm your partner. Technically, that's two things."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy stays. Everyone else, get the hell out of here!"
+        }
+    ]
+}

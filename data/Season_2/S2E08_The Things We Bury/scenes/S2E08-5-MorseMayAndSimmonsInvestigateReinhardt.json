@@ -1,0 +1,207 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 5,
+    "scene_name": "MorseMayAndSimmonsInvestigateReinhardt",
+    "description": "Morse, May, Simmons, Mack, and Hunter discuss Bakshi’s slip referencing Whitehall as a disciple of Red Skull. They dig deeper into the old SSR files, hunting for connections between HYDRA leadership and the Obelisk. Their investigative teamwork leads to the realization that Werner Reinhardt and Daniel Whitehall are the same man, cementing the historical through-line between S.H.I.E.L.D., HYDRA, and WWII.",
+    "roles": [
+        "bobbi_morse",
+        "melinda_may",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "So, you think Bakshi was brainwashed?"
+        },
+        {
+            "character": "Morse",
+            "line": "No, but let the idea drive him nuts for awhile. Any HYDRA member could've been, wouldn't know it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, that's true. Oh."
+        },
+        {
+            "character": "Morse",
+            "line": "Something Bakshi said... the language didn't feel right. Called Whitehall “a disciple of Red Skull.” Weird choice. He didn't say “studied.” And “shared his vision?” That phrase is past tense. The wording feels..."
+        },
+        {
+            "character": "May",
+            "line": "Firsthand."
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. I think Bakshi slipped. Maybe Whitehall and Red Skull have some sort of connection."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sounds logical, other than the fact that Red Skull's been dead for over 70 years."
+        },
+        {
+            "character": "Mack",
+            "line": "Which is right around the time the SSR recovered the Obelisk."
+        },
+        {
+            "character": "Simmons",
+            "line": "Clearly, whatever Red Skull did to get the Obelisk influenced Whitehall. This used to be an SSR base before Fury restored it. It's full of SSR files."
+        },
+        {
+            "character": "May",
+            "line": "Get on it. Like Coulson's been saying, know your enemies."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "I'm sorry, hon. I'll try to make it home this weekend, but with the strategy meetings, it's just... Okay. Love you."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "It's me. Yep. Wide open. My family's summer place. Did you get my present yet? Of course it's see-through. That's the point."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey, big brother. Heard you were looking for me."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are we gonna do, storm Oahu?"
+        },
+        {
+            "character": "Skye",
+            "line": "We don't know yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ditch the guns. Take this."
+        },
+        {
+            "character": "Skye",
+            "line": "What is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a watch. Deliver it to Cam, the owner of the Kahananui repair shop. Here. It'll need the following inscription... “Dearest Darren, I count the seconds we're apart. Love, your island flower.” You got that?"
+        },
+        {
+            "character": "Skye",
+            "line": "“Island flower.” Got it. Anything else?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If it starts to leak any fluids, drop it, run."
+        },
+        {
+            "character": "Skye",
+            "line": "This does not sound like a watch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take this to the Ka Pua dry-cleaner on Makaimoimo street."
+        },
+        {
+            "character": "Triplett",
+            "line": "Maka-what, now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not the one on Hookelewaa."
+        },
+        {
+            "character": "Triplett",
+            "line": "Am I good with this in my pocket?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That depends. You ever want kids? And bring back the blue tie."
+        },
+        {
+            "character": "Triplett",
+            "line": "You got it, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get back here asap. This bus has to be wheels-up in 40 minutes."
+        },
+        {
+            "character": "Triplett",
+            "line": "You got it."
+        },
+        {
+            "character": "Skye",
+            "line": "Copy that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Any orders for me, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You wanted to get back in the field? Here's your chance."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a... transceiver, or at least parts for one."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm gonna need you to install this in the field, under pressure, in less than six minutes."
+        },
+        {
+            "character": "Fitz",
+            "line": "You are aware that I only have one hand that works good."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why you'll practice it over and over until you've got it down cold. Muscle memory. Don't think about the action. Let the action help you think."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Piece of cake."
+        },
+        {
+            "character": "Hunter",
+            "line": "What's wrong? You're twirling. Having trouble figuring out Bakshi?"
+        },
+        {
+            "character": "Morse",
+            "line": "Actually, no, I-I have him pegged. Grew up on the street... probably Southall... worked hard to refine his accent, still struggles with the “t\"s, parents weren't around, got into petty crime, military straightened him out till they sensed something off and washed him out. Ended up a private intelligence contractor."
+        },
+        {
+            "character": "Hunter",
+            "line": "And you got all that from the eight words he said to you."
+        },
+        {
+            "character": "Morse",
+            "line": "No. That last part I checked on. I think that he crossed Whitehall as an enemy, and Whitehall gave Bakshi a second chance. His borderline personality disorder makes him overvalue certain relationships... thank mom and dad for that... and one glimmer of belief in an authority figure like Whitehall, well... Hail HYDRA. The puzzle I'm working is Whitehall. Bakshi sees something in him that we don't."
+        },
+        {
+            "character": "Simmons",
+            "line": "I've found decades of research, and it's incomplete. But I did find the original 0-8-4 report signed by Agent Carter herself."
+        },
+        {
+            "character": "May",
+            "line": "Anything on Red Skull?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Did you hear what I said? Peggy Carter, founder, happens to be British, held this in her hand. No. Anyway, um... no Red Skull, but a lot of references to one of his commanders, Werner Reinhardt."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, it says the Howling Commandos grabbed him and the Obelisk in ‘45."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, and cites intake interviews, but all the important documents on him are missing. I question Coulson's filing skills, to be honest."
+        },
+        {
+            "character": "May",
+            "line": "Vault D? Not the only vault. Agent Carter buried a lot of things here."
+        }
+    ]
+}

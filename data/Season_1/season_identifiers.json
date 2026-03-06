@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "michael_peterson",
+        "raina",
+        "john_garrett",
+        "victoria_hand",
+        "antoine_triplett",
+        "eric_koenig",
+        "nick_fury",
+        "ian_quinn",
+        "marcus_daniels",
+        "glenn_talbot"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Project Centipede",
+        "Rising Tide (hacktivist group)",
+        "Cybertek",
+        "Deathlok Program",
+        "Asgardians",
+        "The Avengers",
+        "Dogs of Hell Motorcycle Club"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "Providence (S.H.I.E.L.D. base)",
+        "The Hub (S.H.I.E.L.D. operations facility)",
+        "The Fridge (S.H.I.E.L.D. high-security prison)",
+        "Cybertek Headquarters (Palo Alto)",
+        "Guest House / T.A.H.I.T.I. facility (Bethesda)",
+        "Triskelion (S.H.I.E.L.D. headquarters)",
+        "Slingshot launch facility (desert)",
+        "Llactapata ruins (Peru)",
+        "S.H.I.E.L.D. Trauma Center (Zurich)"
+    ]
+}

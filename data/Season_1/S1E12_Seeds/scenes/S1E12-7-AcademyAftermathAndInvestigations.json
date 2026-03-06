@@ -1,0 +1,250 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "AcademyAftermathAndInvestigations",
+    "description": "The team discusses possible motives and backgrounds with Donnie and Agent Weaver. Fitz is encouraged by Ward and Simmons to reach out to the isolated Donnie, in hopes of building trust and learning more. Meanwhile, Simmons and Skye gather intel in the social scene to further their investigation.",
+    "roles": [
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "And you can't think of anyone here who'd want to hurt you?"
+        },
+        {
+            "character": "Donnie",
+            "line": "I don't know anyone."
+        },
+        {
+            "character": "Donnie",
+            "line": "Sorry I ruined your lecture. I was really looking forward to it."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not your fault, Donnie."
+        },
+        {
+            "character": "Fitz",
+            "line": "No genetic materials or prints found on the device. The components are rare and expensive."
+        },
+        {
+            "character": "Simmons",
+            "line": "Freshman pranks are tradition, but these are something else."
+        },
+        {
+            "character": "Ward",
+            "line": "So, Donnie was the intended target all along? He have anything in common with the Cadets at the pool?"
+        },
+        {
+            "character": "Weaver",
+            "line": "These kids were popular. Donnie was..."
+        },
+        {
+            "character": "Skye",
+            "line": "Not."
+        },
+        {
+            "character": "Weaver",
+            "line": "Donnie hadn't made any enemies here, but he hadn't made any friends, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "He had a hard time adjusting? How old is he?"
+        },
+        {
+            "character": "Weaver",
+            "line": "18, youngest since you guys. 190 I.Q. and failing out of high school when we met him."
+        },
+        {
+            "character": "Fitz",
+            "line": "Probably bored out of his mind."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mhm."
+        },
+        {
+            "character": "Weaver",
+            "line": "If things went well, we were considering graduating him early and assigning him to the Sandbox."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wow. Well, he would love it there."
+        },
+        {
+            "character": "Weaver",
+            "line": "But he doesn't like it here, so I'm afraid he'll wash out."
+        },
+        {
+            "character": "Ward",
+            "line": "Maybe that was the idea. Agent Weaver, keep working with investigations... interviewing Cadets, instructors."
+        },
+        {
+            "character": "Weaver",
+            "line": "Of course."
+        },
+        {
+            "character": "Skye",
+            "line": "And us?"
+        },
+        {
+            "character": "Ward",
+            "line": "Their interviews won't bear fruit. We teach Cadets to keep secrets. Where did you guys hang out when you wanted to get away from the faculty?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can we tell someone from operations?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yes, because we need to conduct our own investigation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dario Marquez's dress shop. Marquez doesn't do the best papers in town, but he also doesn't use a computer."
+        },
+        {
+            "character": "May",
+            "line": "So, if Lumley's gonna make a run for it, your guess is he might pass through that door."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's worth a shot, so we wait."
+        },
+        {
+            "character": "Simmons",
+            "line": "And when we get there?"
+        },
+        {
+            "character": "Ward",
+            "line": "We mingle, low key. You and Skye get comfortable with the students, see if you can get them gossiping. Skye looks young enough to blend in."
+        },
+        {
+            "character": "Skye",
+            "line": "You're not exactly old man river, and Fitz looks younger than us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Time will come when you won't make fun of me for that. You'll be jealous. You'll be jealous, wrinkly old hags."
+        },
+        {
+            "character": "Ward",
+            "line": "I want Fitz to go talk to Donnie."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry?"
+        },
+        {
+            "character": "Ward",
+            "line": "Donnie's withdrawn, might know more than he's letting on. You're a hero here, Fitz. He looks up to you. Go hang out with him. Even if he has no clue who might be after him, he could use a friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "That is a wonderful idea."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ward has them from time to time. I'll meet you later."
+        },
+        {
+            "character": "Ward",
+            "line": "What? It's strategic."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's adorable."
+        },
+        {
+            "character": "Skye",
+            "line": "The Tin Man has a heart after all."
+        },
+        {
+            "character": "Ward",
+            "line": "So, where are we going?"
+        },
+        {
+            "character": "Simmons",
+            "line": "S.H.I.E.L.D. keeps careful watch of everything within their walls, so in the late ‘60s, to escape the cameras and the prying eyes of the faculty, a few Cadets started sneaking down to the boiler room to play cards, you know, exchange ideas."
+        },
+        {
+            "character": "Skye",
+            "line": "My kind of people."
+        },
+        {
+            "character": "Simmons",
+            "line": "Some amazing breakthroughs have come out of here. So the tradition lives on."
+        },
+        {
+            "character": "Skye",
+            "line": "Of cramming into the boiler room?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, over the years, we made a few improvements. Do you have one of these at operations?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Did not think so."
+        },
+        {
+            "character": "Skye",
+            "line": "Drinks are on me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Donnie."
+        },
+        {
+            "character": "Donnie",
+            "line": "Agent Fitz, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, please. Call me “Fitz.” Mind if I come in?"
+        },
+        {
+            "character": "Donnie",
+            "line": "Yeah... no. I mean, no, I don't."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, my room was just like this, except, um, um, there was a lot more laundry on the floor. You feeling better? You know, you shouldn't be afraid to tell me if you think someone could be targeting you."
+        },
+        {
+            "character": "Donnie",
+            "line": "I'm not. It was... it was probably just a prank. Freshmen get pranked."
+        },
+        {
+            "character": "Fitz",
+            "line": "I remember vividly, but that doesn't mean that every freshman needs to be thawed. Is that a design for organic light-emitting diodes?"
+        },
+        {
+            "character": "Donnie",
+            "line": "For active camouflage, I'm thinking."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hmm. An ionized air cannon? It's so small."
+        },
+        {
+            "character": "Donnie",
+            "line": "Well, I was able to double the pressurization by making..."
+        },
+        {
+            "character": "Fitz",
+            "line": "By making it compact. Clever. I must say... these ideas are way beyond what I was toying with in my first few months. You shouldn't keep these big ideas to yourself. You should run them by your instructors."
+        },
+        {
+            "character": "Donnie",
+            "line": "These aren't my big ideas."
+        }
+    ]
+}

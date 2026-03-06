@@ -1,0 +1,85 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 7,
+    "scene_name": "RobinTheSeer",
+    "description": "Guided by Enoch, Fitz and Hunter meet Robin Hinton and her mother. Robin, the Seer, communicates through mysterious drawings depicting possible futures while Fitz tries to make sense of her abilities and the prophecy surrounding S.H.I.E.L.D. The military remains in pursuit, steadily closing in on their new location.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Polly",
+            "line": "Hi, Enoch."
+        },
+        {
+            "character": "Enoch",
+            "line": "Hello, Polly."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know you. You're Polly Hinton."
+        },
+        {
+            "character": "Polly",
+            "line": "Do I know you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm with S.H.I.E.L.D. Can I...?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You must be Robin. I'm Fitz. I'm friends with Daisy."
+        },
+        {
+            "character": "Lucas",
+            "line": "What are we dealing with here?"
+        },
+        {
+            "character": "Evans",
+            "line": "Is there a kid's room in this house?"
+        },
+        {
+            "character": "Lucas",
+            "line": "No. Single male, lives alone."
+        },
+        {
+            "character": "Evans",
+            "line": "That magic crystal ball we were theorizing about? It's real, but it's not S.H.I.E.L.D. tech. It's a child."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, she's the Seer? You are a very good artist. Can I have a look? This is prophecy?"
+        },
+        {
+            "character": "Polly",
+            "line": "She's been very active lately."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is that? What are these... What are these symbols?"
+        },
+        {
+            "character": "Enoch",
+            "line": "An ancient language from another galaxy. Never known to anyone on Earth. Until her."
+        },
+        {
+            "character": "Hunter",
+            "line": "The quiet type, eh? Wish you could teach Bobbi that. Get a drink in her, and she's like a wind-up doll. You can't..."
+        },
+        {
+            "character": "Robin",
+            "line": "They're here for us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let's go. Come on."
+        }
+    ]
+}

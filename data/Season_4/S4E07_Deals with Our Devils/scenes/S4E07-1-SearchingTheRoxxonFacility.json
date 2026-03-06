@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 1,
+    "scene_name": "SearchingTheRoxxonFacility",
+    "description": "Agents May and Mack explore the aftermath of Eli Morrow's experiment at the abandoned Roxxon power station. They note the lack of explosion and the strange, sudden disappearance of Coulson, Fitz, and Robbie. Eli displays his new matter-generating powers and ruthlessly eliminates a team of S.H.I.E.L.D. agents who approach him. The others are left unsettled and trying to make sense of the bizarre situation.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "eli_morrow"
+    ],
+    "vibe": "tense",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "What happened? I expected a crater."
+        },
+        {
+            "character": "Mack",
+            "line": "So, no explosion. The room seems stable. Was it some kind of energy weapon? This all feels wrong."
+        },
+        {
+            "character": "May",
+            "line": "No Fitz, either. I don't get it. There should be some sign of them. It's like they vanished. Coulson, Fitz, report in."
+        },
+        {
+            "character": "Man",
+            "line": "Alpha Team, do you read? We've got movement. Eli Morrow is in the South Corridor."
+        },
+        {
+            "character": "Mack",
+            "line": "Eli. Let's see what he knows."
+        },
+        {
+            "character": "Agent",
+            "line": "Mr. Morrow, we're here to escort you out of here. He's armed!"
+        },
+        {
+            "character": "Eli",
+            "line": "Beautiful, no? Pure carbon."
+        },
+        {
+            "character": "Agent",
+            "line": "Sir, you have to put down the weapon."
+        },
+        {
+            "character": "Mack",
+            "line": "We're into nightmare territory here. This is evil. This is..."
+        },
+        {
+            "character": "May",
+            "line": "It's Eli."
+        }
+    ]
+}

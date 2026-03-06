@@ -1,0 +1,99 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 16,
+    "scene_name": "AftermathAtThePlaygroundAndNewDoubts",
+    "description": "Back at the Playground, Daisy apologizes to Lincoln for their earlier confrontation about the vaccine. Lincoln confesses his insecurities over mastering his powers, wishing he had Daisy's control. Their conversation turns intimate as they reconcile. Meanwhile, Coulson is debriefed by May about recent events, and he voices his suspicion that Malick might be serving an even greater sinister power, sowing seeds of further mystery.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "skye",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I'm sorry. Sorry I got a little militant about the vaccine. I-I don't know what's going on with me right now."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You know, I'm envious of you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why is that?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "You have this natural Zen thing with your powers. Maybe you got it from your mom or hanging around May. Whatever it is, I wish I had it."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you talking about? You were like... you were like the Zen master when we were at afterlife."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It was easy there. No stress, no fear. Here, not so much."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, maybe I can help you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I don't know if it can be helped. For you, controlling your power is like finding peace. For me, it's a... a war inside my head. I just don't want to lose control."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sometimes, it's good to lose control."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's gonna be okay. He just needs some rest. He won't remember any of it. Carla would be very happy to know you made it right."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, I had a little help."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what partners are for, you know?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Call me Glenn. Occasionally."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll leave you alone now. I informed our agents down under about Ellen King's inhuman. They managed to get him out. He's still sedated, but getting treatment."
+        },
+        {
+            "character": "May",
+            "line": "Any word from Bobbi or Hunter?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet, but I'll keep trying. There's one more thing."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick is supposed to be the last head of HYDRA, but I can't shake this feeling that he's reporting to someone else."
+        },
+        {
+            "character": "May",
+            "line": "Someone more powerful than Malick?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Someone or something."
+        }
+    ]
+}

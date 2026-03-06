@@ -1,0 +1,185 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 5,
+    "scene_name": "GarrettAndCoulsonInterrogateQuinn",
+    "description": "Garrett and Coulson confront Ian Quinn in the cage, interrogating him about Cybertek and the Deathlok program. Quinn is defiant and evasive, only becoming cooperative under threat. He reveals that he shot Skye under orders from the Clairvoyant, hinting at the larger conspiracy and explaining that Skye was targeted because the Clairvoyant wants to know how Coulson was revived. The interrogation is intense, and the revelation raises the stakes for the entire team.",
+    "roles": [
+        "phil_coulson",
+        "john_garrett",
+        "ian_quinn"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "And here I thought I was gonna get to play bad cop."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ian Quinn, this is Agent Garrett. He's here to ask you some questions."
+        },
+        {
+            "character": "Quinn",
+            "line": "Oh, no, thank you. I... my head's still ringing from the last visitor."
+        },
+        {
+            "character": "Garrett",
+            "line": "At least the last visitor left you with a head. I'm not always that considerate. I'm interested in one of your newer projects."
+        },
+        {
+            "character": "Quinn",
+            "line": "Hmm? Oh, but there are so many to choose from."
+        },
+        {
+            "character": "Garrett",
+            "line": "Let me be clear... you have no rights. You have no lawyer. The only thing keeping Agent Coulson here from throwing you out of this plane is the very weak heartbeat of a young agent downstairs, and the only incentive I have for not tearing your tongue out is that you use it to answer my questions. Is that clear?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Garrett",
+            "line": "You understand that?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Aah. Ohh."
+        },
+        {
+            "character": "Garrett",
+            "line": "Tell us about Cybertek and the Deathlok program."
+        },
+        {
+            "character": "Coulson",
+            "line": "Deathlok?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Catchy, right? Sounds like some wrestler from the ‘80s. What is it really?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Those are dangerous waters, and the last agent that waded into them wound up with two in the stomach. So... she's still alive?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Yeah. And you better hope she stays that way."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is that why you shot Skye, because she saw what Cybertek delivered?"
+        },
+        {
+            "character": "Quinn",
+            "line": "No. I shot Skye because that's what the Clairvoyant told me to do."
+        },
+        {
+            "character": "May",
+            "line": "You wanted to see me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just got off the phone with the trauma center in Bethesda. Dr. Streiten's gone off the grid."
+        },
+        {
+            "character": "May",
+            "line": "So we'll find a different doctor there who operated on Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's the thing. Actually..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson was never treated there."
+        },
+        {
+            "character": "May",
+            "line": "You're not making sense."
+        },
+        {
+            "character": "Simmons",
+            "line": "None of this makes sense. The doctors listed, the operating-room number... none of them exist. None of them are part of S.H.I.E.L.D."
+        },
+        {
+            "character": "Garrett",
+            "line": "What I find surprising is how a big-shot billionaire could fall for this psychic mumbo jumbo."
+        },
+        {
+            "character": "Quinn",
+            "line": "Oh, I doubted it at the beginning, but then I realized it would be mutually beneficial."
+        },
+        {
+            "character": "Coulson",
+            "line": "He must have something pretty terrible on you. Shooting an unarmed girl?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Let's just say I learned the hard way that obeying was in my best interest."
+        },
+        {
+            "character": "Garrett",
+            "line": "Yet... here you are."
+        },
+        {
+            "character": "Quinn",
+            "line": "Let me assure you it wasn't luck that led me to your partner's black sedan in Berlin or that he'd open the door for a redhead or those two agents in Morocco. Do you think it was just a roll of the dice that my people found them in that Riad? No, it was the Clairvoyant."
+        },
+        {
+            "character": "Garrett",
+            "line": "Your Clairvoyant say anything about me knocking your teeth in?"
+        },
+        {
+            "character": "Quinn",
+            "line": "The Clairvoyant sees everything... except what happened to him."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is still about me."
+        },
+        {
+            "character": "Garrett",
+            "line": "Wait. You're gonna need to rewind the tape, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "You heard about my near-death before the battle of New York? There's more to it than that. I thought I was gone for seconds... turns out it was days."
+        },
+        {
+            "character": "Garrett",
+            "line": "That's impossible."
+        },
+        {
+            "character": "Quinn",
+            "line": "Which is why the Clairvoyant will do anything to know how it happened."
+        },
+        {
+            "character": "Coulson",
+            "line": "Even order you to shoot Skye."
+        },
+        {
+            "character": "Garrett",
+            "line": "Wait. You don't know what S.H.I.E.L.D. did to save you."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why we're flying to where I was treated."
+        },
+        {
+            "character": "Garrett",
+            "line": "So shooting the girl forces you to figure it all out."
+        },
+        {
+            "character": "Quinn",
+            "line": "So the Clairvoyant can finally see."
+        },
+        {
+            "character": "Garrett",
+            "line": "Or you let the girl die."
+        }
+    ]
+}

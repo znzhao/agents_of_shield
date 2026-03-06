@@ -1,0 +1,104 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 4,
+    "scene_name": "CrashSiteInvestigation",
+    "description": "At the crash site, Coulson and May interrogate Mack about the attackers, learning there must have been an insider leak. Fitz and Simmons examine the scene, activating a device that triggers a gravity distortion, stunning the team with its power. Skye offers to help analyze vehicle treads digitally. The team assembles a suspect list and plans their next steps, with Skye and Ward continuing their banter about the truth serum.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "It was pretty damn scary, and I don't spook easily, boss."
+        },
+        {
+            "character": "May",
+            "line": "Nothing in the air from above?"
+        },
+        {
+            "character": "Mack",
+            "line": "Nothing over our shoulder, but what's scary is they knew our route. They were waiting for us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you saying they were working with somebody inside S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Mack",
+            "line": "Sorry to say... it had to be."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, what am I seeing here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I'm not wearing the full-spectrum goggles I designed, so... no clue. Let me have a look. Come on."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, whoa, whoa, whoa! Wait! Don't move. Wait a second."
+        },
+        {
+            "character": "Skye",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I think the electro-static field scanner activated some...thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, can we deactivate it? Now?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You have to increase the density!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I tried, Fitz, but ..."
+        },
+        {
+            "character": "May",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa."
+        },
+        {
+            "character": "Simmons",
+            "line": "That did all this."
+        },
+        {
+            "character": "Skye",
+            "line": "What is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Something big."
+        },
+        {
+            "character": "Coulson",
+            "line": "Either someone cracked our comm system, or Dr. Hall's movements leaked from inside S.H.I.E.L.D."
+        },
+        {
+            "character": "May",
+            "line": "You really think we have a mole?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think you should go through the communication logs, rule it out. We'll work the tractor tread that we found on the scene."
+        }
+    ]
+}

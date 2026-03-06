@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 7,
+    "scene_name": "SkyeInterrogatesWard",
+    "description": "Skye interviews Grant Ward, still a prisoner at the Playground, about Hydra’s methods of recruiting and dealing with 'gifted' individuals. The conversation is cold and probing, as Skye tries to extract protocol information while keeping her guard up, and Ward attempts to explain his own history and motivations. The dynamic reveals their mutual mistrust and unresolved trauma.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Well, they're not exactly what you'd call welcoming. They don't give you a"
+        },
+        {
+            "character": "Skye",
+            "line": "So, what do they give you? Money? Threats? Torture? Combo platter?"
+        },
+        {
+            "character": "Ward",
+            "line": "They're good at convincing people."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, well, they suckered you in."
+        },
+        {
+            "character": "Ward",
+            "line": "No. I was never loyal to Hydra. I was loyal to Garrett."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. Garrett is the reason you're a cold-blooded killer."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't blame him for the choices I've made."
+        },
+        {
+            "character": "Skye",
+            "line": "Right. I seem to remember you blaming your brother. Or was it your parents? Man, I can't keep up."
+        },
+        {
+            "character": "Ward",
+            "line": "My family tore me down. Garrett built me back up... the way he wanted."
+        },
+        {
+            "character": "Skye",
+            "line": "We're all aware of who your family is, Ward. Not only are they respected. They're pretty much loved."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, every family has its secrets. Yours does, too. You ever wonder why..."
+        },
+        {
+            "character": "Skye",
+            "line": "You know what? My bad. I slipped. Talked to you like a normal person. Let's stay on task."
+        },
+        {
+            "character": "Ward",
+            "line": "You make the rules. Hydra's protocol on gifteds is pretty straightforward. An acquisition team is sent out to convince or capture the gifted. If those two options aren't possible, then they'll take them out."
+        },
+        {
+            "character": "Skye",
+            "line": "Even if the gifted doesn't pose a threat?"
+        },
+        {
+            "character": "Ward",
+            "line": "A gifted that refuses Hydra is a threat. And threats are taken care of quickly."
+        },
+        {
+            "character": "Skye",
+            "line": "That's the difference between S.H.I.E.L.D. and Hydra."
+        },
+        {
+            "character": "Ward",
+            "line": "And that's why Hydra will win. Because while a S.H.I.E.L.D. agent is considering right and wrong, Hydra's already taken the shot."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 6,
+    "scene_name": "PostStaffLabTestsAndConflict",
+    "description": "Back on the jet, Simmons performs tests on a now-unbalanced Ward, with support from Fitz and Skye. Simmons tries to analyze the effects of the staff and rule out a panic attack, while Ward grows increasingly irritable and aggressive. The team debates the staff’s psychological impact and struggles to help Ward manage his rage. Tensions flare among the team members, showing how the staff has started to divide them psychologically.",
+    "roles": [
+        "jemma_simmons",
+        "grant_ward",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "This is ridiculous."
+        },
+        {
+            "character": "Skye",
+            "line": "It's anything but. Ward, you passed out. And you were acting not right."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson ordered me to give you a full work-up, and that's exactly what I'm doing. Um, before you lost consciousness, were you feeling claustrophobic?"
+        },
+        {
+            "character": "Ward",
+            "line": "Why?"
+        },
+        {
+            "character": "Fitz",
+            "line": "She's ruling out a panic attack."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't panic. Ever."
+        },
+        {
+            "character": "Simmons",
+            "line": "There we go. Ruled out."
+        },
+        {
+            "character": "Skye",
+            "line": "Touching the staff caused it, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Any residual effects? Are you exhibiting any extra s-strength?"
+        },
+        {
+            "character": "Ward",
+            "line": "Why don't I find out on that guy?"
+        },
+        {
+            "character": "Skye",
+            "line": "Why don't we not do that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What's the last thing you remember before you lost consciousness?"
+        },
+        {
+            "character": "Ward",
+            "line": "This is a waste of time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, uh..."
+        },
+        {
+            "character": "Ward",
+            "line": "We need to find the staff."
+        },
+        {
+            "character": "Fitz",
+            "line": "What exactly did you remember?"
+        },
+        {
+            "character": "Ward",
+            "line": "Something I hadn't thought about in a long time."
+        },
+        {
+            "character": "Skye",
+            "line": "Why don't we leave it alone?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I mean, he just pulled his arm out of this..."
+        },
+        {
+            "character": "Ward",
+            "line": "Quiet! I want to hear this."
+        }
+    ]
+}

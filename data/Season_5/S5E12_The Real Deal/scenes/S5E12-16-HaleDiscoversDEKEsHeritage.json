@@ -1,0 +1,43 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 16,
+    "scene_name": "HaleDiscoversDEKEsHeritage",
+    "description": "General Hale receives a report regarding Deke's background; her subordinate reveals suspicious genetic findings, increasing the intrigue around his origins. This brief scene foreshadows future complications and mystery related to Deke’s true identity.",
+    "roles": [
+        "hale"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "You got something?"
+        },
+        {
+            "character": "Lee",
+            "line": "I don't know. Thinking Deke Shaw could possibly be an LMD, I ran a genetic profile to see if he was biologically linked to anyone."
+        },
+        {
+            "character": "Hale",
+            "line": "And it came up with a match?"
+        },
+        {
+            "character": "Lee",
+            "line": "No. It came up with two."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now, by the powers vested in me by, well, by the two of you, I am so happy to pronounce you husband and wife. You may kiss the bride."
+        },
+        {
+            "character": "Mike",
+            "line": "So, what about you, bride or groom?"
+        },
+        {
+            "character": "Deke",
+            "line": "Uh, I mean, to be honest, I don't really know either one of them."
+        }
+    ]
+}

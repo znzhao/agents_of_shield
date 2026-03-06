@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "CoulsonVisitsVirgilsRoom",
+    "description": "Tess takes Coulson to Virgil's quarters, where they search for hints about his plans. Coulson finds a hidden notebook among Virgil's artifact collection, and Tess reflects on her late friend's character. Their conversation offers insight into Virgil’s optimism and deepens the team’s resolve to uncover the truth of their situation.",
+    "roles": [
+        "tess",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Tess",
+            "line": "Virgil loved his artifacts."
+        },
+        {
+            "character": "Coulson",
+            "line": "You should've seen my office. Don't suppose you ever saw “Singin' in the Rain.” What about just plain old rain?"
+        },
+        {
+            "character": "Tess",
+            "line": "Only drips from reclamation pipes."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you fear sharknados. We need to fix everything. What about the surface of the planet? Will it ever be livable again?"
+        },
+        {
+            "character": "Tess",
+            "line": "For humans? No. Land of the roaches now. Virgil always kept this in the trawler. Said the world might look this way again someday. Crazy, right? But he was right about you guys, so..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You two were close?"
+        },
+        {
+            "character": "Tess",
+            "line": "Yeah. Not as close as he would've liked, but... He was crazy Virgil, you know? Could never take him too seriously."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sure he knew you cared."
+        },
+        {
+            "character": "Tess",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know anything about this?"
+        },
+        {
+            "character": "Tess",
+            "line": "Maybe a flight log? Think it's important?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Important enough to hide. Virgil's the only one who had answers. I just wish we'd spent more time with him."
+        },
+        {
+            "character": "Tess",
+            "line": "Me, too."
+        }
+    ]
+}

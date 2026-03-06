@@ -1,0 +1,151 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 13,
+    "scene_name": "DekeSacrificesForTheTeam",
+    "description": "At the Zephyr, Deke and Enoch work frantically to restore and power the machine. Enoch offers to use his own energy core as a power source, explaining that it will destroy him and anyone nearby in an explosion. Deke accepts his fate, telling Coulson to get everyone ready as they can only try this once. Deke solemnly prepares to activate the Monolith, risking his own life for the team's chance to return home.",
+    "roles": [
+        "enoch",
+        "deke_shaw",
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Ow! Stop it! I'm trying to fix you! It does one thing, it opens a door. You'd think they'd make it simple."
+        },
+        {
+            "character": "Enoch",
+            "line": "I think this vessel is too damaged to power the Monolith."
+        },
+        {
+            "character": "Deke",
+            "line": "Then what can?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Me. My battery has sustained me for more than 32,000 Earth years. Modifying the cell stack could create a thermal feedback capable of delivering more than enough power."
+        },
+        {
+            "character": "Deke",
+            "line": "Thermal feedback? What happens to you in that scenario?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I will expire knowing I returned my friends home. And then my battery chemistry will consume my body in an exothermal reaction violent enough to decimate several levels of the Lighthouse."
+        },
+        {
+            "character": "Deke",
+            "line": "So it's not great for the guy that's standing next to you flipping the switch."
+        },
+        {
+            "character": "Enoch",
+            "line": "That person would be completely atomized."
+        },
+        {
+            "character": "Coulson",
+            "line": "Deke, come in."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm liking this plan less. Yeah, we're here."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got the Monolith built. I think it might work. How's the machine coming?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, all right. That's great. We found a fix for the machine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. You were right about taking the Zephyr."
+        },
+        {
+            "character": "Deke",
+            "line": "Just make sure everyone's in place the second we get it powered on, all right? We're only gonna get one shot at this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Right. You know, your parents would be proud of you."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll find out soon enough. Well, we're about to give them a hell of a show."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks. We'll have everyone in place. That machine's going to explode. It's not safe down here."
+        },
+        {
+            "character": "Flint",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're welcome to come back with us, but if not, you got to leave now. Meet Tess at the trawler."
+        },
+        {
+            "character": "Ava",
+            "line": "Where? Which one?"
+        },
+        {
+            "character": "Flint",
+            "line": "But Mack, Yo-Yo, they're not back yet. I... Tell them I had more work to do. Come on. I know the way."
+        },
+        {
+            "character": "Ava",
+            "line": "Thank you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson, what's happening?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Where are they?"
+        },
+        {
+            "character": "Mack",
+            "line": "There's nothing you can do to me."
+        },
+        {
+            "character": "Kasius",
+            "line": "I want to watch the light die in your eyes. My father will see me. He will have his world! Not just the sliver Quake left behind."
+        },
+        {
+            "character": "Simmons",
+            "line": "Silence."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo... she..."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "How? You were killed. Cant't be."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh. I'm so sorry you had to see that. It wasn't me."
+        },
+        {
+            "character": "Mack",
+            "line": "But you were dead."
+        },
+        {
+            "character": "Elena",
+            "line": "No. I'm here. And it's time to go home."
+        }
+    ]
+}

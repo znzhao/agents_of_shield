@@ -1,0 +1,92 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 4,
+    "scene_name": "RadcliffeAndFitzStrain",
+    "description": "At an unknown HYDRA facility, Radcliffe is interrogated about Skye's intentions and whereabouts. Fitz, acting as HYDRA's Doctor, tries to persuade Radcliffe to reveal the escape route in exchange for the promise of a new life in the real world. He reveals that they have constructed a machine allowing for human consciousness transfer, tantalizing Radcliffe with possibilities from the Darkhold's technology.",
+    "roles": [
+        "holden_radcliffe",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I'm not talking to you."
+        },
+        {
+            "character": "Doctor",
+            "line": "Not your decision. Tell me what you and Skye were discussing yesterday."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Uh, we spoke of many things. Our favorite breads, hers brioche, mine a home-baked pumpernickel."
+        },
+        {
+            "character": "Doctor",
+            "line": "Where is she headed?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You're afraid. You may not be the Fitz who was my good friend a man I'd step in front of a train for but you wear your fear the same way. Aah! They're fighting back, huh? Soon, Daisy and the rest of them will escape this wretched reality."
+        },
+        {
+            "character": "Doctor",
+            "line": "But if that's true, they'll destroy this world, killing you along with it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Better dead than alive in this miserable place."
+        },
+        {
+            "character": "Doctor",
+            "line": "And the other place? Your world."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's far too late for that. I'm already dead over there, thanks to your psychotic girlfriend murdering me in cold blood."
+        },
+        {
+            "character": "Doctor",
+            "line": "What if I told you there was a way to be reborn?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Take your pamphlet, go knock on someone else's door."
+        },
+        {
+            "character": "Doctor",
+            "line": "This isn't about faith. It's about science. We've built a machine in the other world which can transfer human consciousness into an organic body."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How is that even possible?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Oh, come on. I think you know."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The Darkhold. AIDA's ingenuity in circumventing her protocols is extraordinary. She'd have been quite the terrible teenage daughter."
+        },
+        {
+            "character": "Doctor",
+            "line": "I think you're missing the bigger picture. This machine can build you a body in the other world. You can have a second life or a third or however many you want. That's up to you."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Immortality."
+        },
+        {
+            "character": "Doctor",
+            "line": "If that sort of thing appeals to you, yeah."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Daisy's looking for a way out."
+        }
+    ]
+}

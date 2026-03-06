@@ -1,0 +1,126 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 8,
+    "scene_name": "FitzSimmonsDebateLMDAndPlot",
+    "description": "At Radcliffe's lab, Fitz and Simmons process their personal fallout over the Aida project. Fitz wishes to further investigate Aida's head, but Simmons is focused on their missing team and the ongoing threat. Meanwhile, at Radcliffe's house, May struggles within the simulation and tries to escape, prompting Aida and Radcliffe to intervene and sedate her, ultimately deciding to revise her subconscious scenario to be more combative.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "emotional",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Keep me updated, Agent Crawford."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We don't know. Daisy and May are looking while I try to restore communication."
+        },
+        {
+            "character": "Fitz",
+            "line": "And General Talbot's here. “Helping?”"
+        },
+        {
+            "character": "Simmons",
+            "line": "In his own way."
+        },
+        {
+            "character": "Fitz",
+            "line": "Soothing as sandpaper, that guy."
+        },
+        {
+            "character": "Simmons",
+            "line": "You collected your stuff from Radcliffe's place?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I did. And, uh, hopefully, he takes my advice and lays low for a while."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's for the best."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, absolutely, even though the program did show promise."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, promising or not, it was a mistake."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're right, you're right, but... I mean, just to be clear, the mistake wasn't the program, it was keeping the program from you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, let's not."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know, but you were the brain we needed on this. So maybe we could just reboot the head in a controlled environment. And then we could diagnose the problem together."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please! Drop it. Can we just let it go? Our friends are missing, maybe dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, as always. I just want you to understand that I only wanted..."
+        },
+        {
+            "character": "Simmons",
+            "line": "To prevent this very thing. I know. You're trying to protect..."
+        },
+        {
+            "character": "Fitz",
+            "line": "To protect you. We'll find them. Daisy's back on the team. And, uh... May's too stubborn to give up."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, no!"
+        },
+        {
+            "character": "May",
+            "line": "I knew it wasn't real."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, don't kill her! Aah! Unh! The syringe, AIDA. We have to sedate her."
+        },
+        {
+            "character": "May",
+            "line": "You bastard."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What was that? She was supposed to be in a relaxing simulation."
+        },
+        {
+            "character": "AIDA",
+            "line": "She was in a day spa, getting a hot-stone massage."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How hot did you make the stones?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I did exactly as you asked."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, at least you didn't snap her neck, so that's an improvement. Fetch some restraints. We may have misjudged what it takes to keep Agent May comfortable."
+        }
+    ]
+}

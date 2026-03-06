@@ -1,0 +1,103 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "CoulsonRevealsEnochIsTheSaboteur",
+    "description": "Coulson deduces that Enoch, programmed by Simmons and Fitz, is acting as the killer—albeit unknowingly—whenever the implant is threatened. Enoch admits his programming forces him to protect the implant at any cost, even killing Simmons herself. The team realizes the only way to proceed is to circumvent or distract Enoch, not simply confront him.",
+    "roles": [
+        "phil_coulson",
+        "enoch",
+        "jemma_simmons",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I will watch all of you die, one by one. Everyone I love. Because someone decided I should. I'm a machine now. I have programming, programming which won't even let me..."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's Enoch."
+        },
+        {
+            "character": "Enoch",
+            "line": "I beg your pardon?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons and Fitz wanted to protect their secret, and they had you on their side. You could have had the power of suggestion programmed into you without your knowledge."
+        },
+        {
+            "character": "Simmons",
+            "line": "We would never pro..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And because your memory's blocked, you wouldn't remember it, either. You could both genuinely believe you're innocent, but I don't think you actually are."
+        },
+        {
+            "character": "Deke",
+            "line": "Enoch wouldn't do that. It... It doesn't make any sense."
+        },
+        {
+            "character": "Enoch",
+            "line": "Everyone on this plane is my friend. I would never harm any of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not willingly. But Simmons and Fitz are protecting something big... maybe fate-of-all-humanity big. It's possible you were programmed with the idea that nothing, not even your friendship with us, should get in the way of protecting humanity."
+        },
+        {
+            "character": "Simmons",
+            "line": "How do we know for sure? We test it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now, Enoch, if I'm wrong, you won't have any problem with this."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Deke",
+            "line": "Whoa! Whoa! Whoa!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch, stop!"
+        },
+        {
+            "character": "Enoch",
+            "line": "I... cannot... stop."
+        },
+        {
+            "character": "Daisy",
+            "line": "Enoch."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch, I don't want this! Explain!"
+        },
+        {
+            "character": "Enoch",
+            "line": "You programmed me to protect the implant at all costs, even if I had to kill. Even if I had to kill you."
+        },
+        {
+            "character": "Enoch",
+            "line": "Oh, dear."
+        }
+    ]
+}

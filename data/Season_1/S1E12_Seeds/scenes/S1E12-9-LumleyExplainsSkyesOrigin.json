@@ -1,0 +1,20 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "LumleyExplainsSkyesOrigin",
+    "description": "On the Bus, Coulson and May question Lumley about Skye. Lumley reveals Skye’s status as an 0-8-4, relating the harrowing events in China, the death of agents, and the extreme lengths taken to hide Skye’s identity for her safety. The gravity of her origin story is revealed, shaking the team.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I'm Agent Coulson, with S.H.I.E.L.D."
+        }
+    ]
+}

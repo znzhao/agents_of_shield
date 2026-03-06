@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 6,
+    "scene_name": "HaleKillsInstructorToSaveRuby",
+    "description": "Back at the Hydra facility, Ruby refuses to kill her dog as part of a brutal graduation ritual. In a powerful moment, Hale intervenes and kills the instructor herself, leaving just her and Ruby as the only Hydra members left standing. This marks the real passing of the torch to Ruby and a turning point in Hale's role as both a leader and mother.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ruby",
+            "line": "I don't understand what my dog has to do with me graduating."
+        },
+        {
+            "character": "Ruby",
+            "line": "I'm the only one left! You're seriously gonna stop me from serving, because of some barbaric ritual?"
+        },
+        {
+            "character": "Steger",
+            "line": "Do not question the Hydra way. You trust in the system."
+        },
+        {
+            "character": "Ruby",
+            "line": "Why not? Look where it's gotten us. We're this close to being wiped out."
+        },
+        {
+            "character": "Steger",
+            "line": "All the more reason to devote yourself now. Eliminate your weakness."
+        },
+        {
+            "character": "Ruby",
+            "line": "Wake up! Me obeying you, that is weakness! You with your blind faith, with this stupid tradition, that's weakness!"
+        },
+        {
+            "character": "Steger",
+            "line": "No! It is a rite of passage! To a life built on control and survival! That's why when you cut off the head, two more spring up..."
+        },
+        {
+            "character": "Hale",
+            "line": "And now, we're the last two."
+        }
+    ]
+}

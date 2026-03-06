@@ -1,0 +1,36 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 8,
+    "scene_name": "HiveMakesDemandsOfMalick",
+    "description": "Malick and Hive discuss the deteriorating condition of Ward's body. Malick suggests Giyera as a new host for Hive, but Hive explains he cannot possess other Inhumans. Hive then asks Giyera for five healthy, living humans, stressing that their sacrifices would be for the greater good, and orders Lucio and Giyera to leave. This scene underscores Hive's menacing needs and the threat his presence represents.",
+    "roles": [
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Don't leave his side until I return. I'm concerned about the way he looks. You call me if anything changes."
+        },
+        {
+            "character": "Giyera",
+            "line": "Yes, sir. Hail Hydra."
+        },
+        {
+            "character": "Hive",
+            "line": "Despite what he just said, I'm gonna need you both to leave my side."
+        },
+        {
+            "character": "Giyera",
+            "line": "What do you need?"
+        },
+        {
+            "character": "Hive",
+            "line": "Humans, five of them. Alive."
+        }
+    ]
+}

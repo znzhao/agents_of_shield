@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "TracingTheHacker",
+    "description": "Aboard the Bus, Skye successfully traces the data breach that led to Chan’s location being exposed back to Austin, Texas. The team discovers the suspect is hacker Miles Lydon, and Coulson orders the plane to head for Austin. The agents discuss Miles’ skills and past exploits, readying themselves for the upcoming confrontation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How close are we?"
+        },
+        {
+            "character": "Skye",
+            "line": "Almost there."
+        },
+        {
+            "character": "Fitz",
+            "line": "She's identified the remote-access Trojan and the infected endpoint..."
+        },
+        {
+            "character": "Simmons",
+            "line": "And is searching for a TCP to correlate the hypertext with signature information and then..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bob's your uncle."
+        },
+        {
+            "character": "Simmons",
+            "line": "Voilá!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You get any of that?"
+        },
+        {
+            "character": "Ward",
+            "line": "Only the uncle part."
+        },
+        {
+            "character": "Skye",
+            "line": "We got our origin. Austin, Texas."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got a name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just the café our hacker worked out of, but I'm in the system. I'm gonna check to see if any credit card charges from that day match up with any known hackers. We got a hit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Miles Lydon, not Skye... that's to all of our relief."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know him?"
+        },
+        {
+            "character": "Skye",
+            "line": "Every hacker in the world knows him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not just the hacker world. He infiltrated the Kremlin."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, the picture of, uh, Putin shirtless on horseback... that was his hack."
+        },
+        {
+            "character": "Ward",
+            "line": "It was also his hack that got Chan kidnapped."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, set a course for Austin."
+        },
+        {
+            "character": "May",
+            "line": "Just did."
+        },
+        {
+            "character": "Skye",
+            "line": "What about Chan?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Kwan's got a S.H.I.E.L.D. team on the ground. Our best bet is to chase this thing from the other end. Find Mr. Lydon, bring him in. See what he knows."
+        },
+        {
+            "character": "Skye",
+            "line": "Just left the café where Miles logged in. Cashier says she hasn't seen him in over a week."
+        },
+        {
+            "character": "Ward",
+            "line": "I may have eyes on him."
+        },
+        {
+            "character": "Ward",
+            "line": "I've been made. Heading East on 5th street. Target is now in a silver Jetta."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got him."
+        },
+        {
+            "character": "Miles",
+            "line": "All right, suit. You asked for it. Gridlock protocol."
+        },
+        {
+            "character": "Coulson",
+            "line": "I lost him."
+        }
+    ]
+}

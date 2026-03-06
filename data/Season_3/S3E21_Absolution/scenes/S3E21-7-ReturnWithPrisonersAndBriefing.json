@@ -1,0 +1,150 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 7,
+    "scene_name": "ReturnWithPrisonersAndBriefing",
+    "description": "Back at the Playground, S.H.I.E.L.D. secures Hive and Dr. Radcliffe as prisoners. Talbot demands Radcliffe find a cure for the 'Primitives,' threatening him if he fails. Coulson updates May, Simmons, and Mack on the status of Hive and the warhead. Meanwhile, Lincoln expresses doubts about his future with S.H.I.E.L.D., and Mack seeks to let Daisy know about their capture of Hive, despite concerns about her fragility.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lincoln",
+        "jemma_simmons",
+        "leo_fitz",
+        "glenn_talbot",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "The hostages are free. We got Hive. Finally, some success. I have to admit, your sending Inhumans in after him I thought that was a stupid gamble. Seriously stupid. Like “betting on WrestleMania” stupid. But you were right. You knew what you were doing. Congratulations, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "The mission isn't a success yet. The warhead's still in play, laced with a pathogen that could alter humanity as we know it."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm well aware of what it's capable of doing. I've got a crew running clean-up at the facility right now. I think they've rounded up a few of those freaks already."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think you mean “victims.”"
+        },
+        {
+            "character": "Talbot",
+            "line": "Look, I don't want one more soul on this planet to end up looking like that. We need to reverse what that monster's done, and you got to find somebody to help us figure out how."
+        },
+        {
+            "character": "May",
+            "line": "Start with him. He's the one that turned those people into Inhu..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Primitives. Primitives. I call them Primitives. Radcliffe. Dr. Holden Radcliffe. And I really can't apologize enough for what's happened to those people."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. You really can't."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "But I'm also a victim here. I was forced to develop that formula."
+        },
+        {
+            "character": "Talbot",
+            "line": "You better do right by those people."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I can tell by your mustache that you're a man of importance and not to be trifled with, so I will be absolutely honest with you. The process is irreversible."
+        },
+        {
+            "character": "Talbot",
+            "line": "And I can tell by your beady little eyes that you're a worm. So let me be absolutely honest with you. If you don't find a solution to this problem, you're gonna end up looking like one of those mouth-breathers you made. You understand?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How could I not? Almost as scary as Hive, that one."
+        },
+        {
+            "character": "Simmons",
+            "line": "Remember us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz and Simmons are working with Dr. Radcliffe on a way to counter the effects of Hive's formula, but that's a long shot. The threat has to be neutralized before it comes close to detonating. We need to find Hive's base of operations and get the jump on his people."
+        },
+        {
+            "character": "Mack",
+            "line": "They might make our search easier for us. As long as we have Hive, they're gonna come for him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll be ready. I want everyone on high alert and the base sealed off. That includes the hangar door."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, parts for its hydraulics finally came in. Already got a team on it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What can I do, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You've done enough. Mack filled me in on your performance. Well done."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I just want this to be over."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember, I told you I decide if you get to be a part of S.H.I.E.L.D.? I think you'd make a great agent."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You also said that I had to want it. I don't think that I do. You got a lot of good people on this team. Real heroes. That's not me. Once we're done with Hive, I'm done with all of it, I think."
+        },
+        {
+            "character": "Mack",
+            "line": "Just like that? Wha... I mean, what are you gonna do?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I don't know, Mack. Trying to figure that out. See the world."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think that's a mistake, Lincoln. You have a future here at S.H.I.E.L.D. What about Daisy?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "There's nothing I have to offer Daisy that she wants or needs. I know that now."
+        },
+        {
+            "character": "Mack",
+            "line": "Is anyone gonna talk to her, at least let her know we have Hive?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not a great idea right now. We need to stick to the security protocols."
+        },
+        {
+            "character": "Mack",
+            "line": "You got to be kidding me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Should we stop him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think we can."
+        }
+    ]
+}

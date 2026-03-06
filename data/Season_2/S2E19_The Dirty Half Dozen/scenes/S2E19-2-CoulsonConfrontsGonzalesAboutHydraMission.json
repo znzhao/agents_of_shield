@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 2,
+    "scene_name": "CoulsonConfrontsGonzalesAboutHydraMission",
+    "description": "At the Playground, Coulson turns himself in to Robert Gonzales, seeking his help to mount a rescue of the enhanced prisoners being experimented on by Hydra in their Arctic facility. Gonzales is skeptical and mistrustful, questioning Coulson’s motives and the involvement of Deathlok. Coulson pleads for cooperation, even offering to open Fury’s toolbox if Gonzales agrees to help.",
+    "roles": [
+        "phil_coulson",
+        "robert_gonzales"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Robert. It's good to see you."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. It's good to see my bus, but, hey, you look well, too."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Why turn yourself in now, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Strucker and List have been running experiments on enhanced people. They've set up a base in the Arctic. I have a man on the inside who fed us their location."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I can't trust you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then trust the mission. Robert, don't let this be about you and me. The one thing we still have, both of us, is stopping HYDRA. Don't we?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "What's your proof?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Firsthand. List took Mr. Peterson."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Deathlok, the thing HYDRA created."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mike Peterson, an ally. He's been working for me."
+        },
+        {
+            "character": "Gonzales",
+            "line": "This is not helping your case."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have a chance to hit HYDRA, hard. They're operating on powered people. We can shut that down and save lives."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Perhaps, but I'm gonna ask again. Why should I trust you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because we all have our secrets. You have one sitting in the cargo hold of your ship, but I'm still willing to work with you."
+        },
+        {
+            "character": "Gonzales",
+            "line": "How do you know that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because it's in this box, which I will open for you if you trust me."
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 2,
+    "scene_name": "DaisyDiscoversTheTimeLoop",
+    "description": "The events suddenly repeat for Daisy, who realizes that she is reliving the same moments. Only she seems to remember previous loops as the Zephyr moves incrementally closer to destruction. She starts confessing her strange experience to Simmons, Sousa, and Enoch, struggling to comprehend the time anomaly and its implications for the team. Confusion and urgency mount as Daisy tries to convince others of the loop.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "sousa",
+        "enoch"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "Hey. What are you doing up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Wait. How... How long have you..."
+        },
+        {
+            "character": "Sousa",
+            "line": "Well, when did you go to sleep? Since then. Making sure you keep... resting."
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get a read on our location."
+        },
+        {
+            "character": "Sousa",
+            "line": "What's happening?"
+        },
+        {
+            "character": "May",
+            "line": "Time Drive overloaded."
+        },
+        {
+            "character": "Sousa",
+            "line": "Any chance that's 21st-century slang for “worked normally?”"
+        },
+        {
+            "character": "Mack",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No way."
+        },
+        {
+            "character": "Sousa",
+            "line": "I was so much happier asleep."
+        },
+        {
+            "character": "Elena",
+            "line": "Looks like something just fried the Quinjet's flight system."
+        },
+        {
+            "character": "Mack",
+            "line": "We can't afford to lose that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Mack",
+            "line": "You anywhere nearby?"
+        },
+        {
+            "character": "Elena",
+            "line": "Hey, it's me. Everywhere's nearby. I'm already here. I'll check it out."
+        },
+        {
+            "character": "May",
+            "line": "Simmons?"
+        },
+        {
+            "character": "Daisy",
+            "line": "There is a major brain fart happening."
+        },
+        {
+            "character": "May",
+            "line": "Are you seeing this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You guys, something is happening to me."
+        },
+        {
+            "character": "Simmons",
+            "line": "We need to get out of this."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't want to alarm anyone, but..."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're trapped in a time storm."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, you took the words right out of my mouth."
+        },
+        {
+            "character": "Daisy",
+            "line": "Being pulled into a vortex, circling the drain."
+        },
+        {
+            "character": "Deke",
+            "line": "W... Yeah, we're 91 kilometers away. How did you..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Crap."
+        },
+        {
+            "character": "Elena",
+            "line": "Hey, any idea what just hit us?"
+        },
+        {
+            "character": "Daisy",
+            "line": "She's trapped on the Quinjet. That flare just shorted the doors."
+        },
+        {
+            "character": "Elena",
+            "line": "She's right."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll help her get out."
+        },
+        {
+            "character": "Mack",
+            "line": "What's going on with you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know. But I do know that Simmons is working on the Time Drive schematics right now, and that's obviously connected."
+        },
+        {
+            "character": "Mack",
+            "line": "Alright, good. Go talk to her. We'll do what we can from here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You guys okay?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I think I'm time-looping. I-I've done this already. I've done this already."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, well, that's fun."
+        },
+        {
+            "character": "Sousa",
+            "line": "It's actually creepy."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll check you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is that Deke's gross ‘80s cologne? Cue Enoch."
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent Simmons, would you like some help examining the Time Drive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Definitely. If you..."
+        },
+        {
+            "character": "Mack",
+            "line": "The flares keep coming."
+        },
+        {
+            "character": "Daisy",
+            "line": "There's a fire on the starboard side. I got it."
+        },
+        {
+            "character": "Sousa",
+            "line": "Okay... See?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack, the fire's out again, but I think I need my head checked, ‘cause..."
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get a read on..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Shut the cockpit door. Watch the control panel."
+        },
+        {
+            "character": "May",
+            "line": "... our location."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. Listen, okay, I need your help. You won't believe this, but I keep..."
+        }
+    ]
+}

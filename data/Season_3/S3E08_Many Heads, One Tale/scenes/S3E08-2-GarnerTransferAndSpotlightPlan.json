@@ -1,0 +1,211 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "GarnerTransferAndSpotlightPlan",
+    "description": "The S.H.I.E.L.D. team debriefs at the Playground, reflecting on Andrew's containment and their relationship with the ATCU. Coulson discusses the ongoing search for answers regarding the ram's head symbol, while Mack voices concerns about Coulson's closeness to Rosalind Price. Coulson reveals the directive for Operation Spotlight, assigning agents to infiltrate and spy on the ATCU while he prepares to host Rosalind at the base.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "lincoln"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "That's the compound we used to tranquilize Andrew. Those tanks should be enough to keep him sedated if need be. Tell me we're doing the right thing."
+        },
+        {
+            "character": "Price",
+            "line": "We are. He'll be put in stasis, held in human form, before that thing can completely take him over."
+        },
+        {
+            "character": "Coulson",
+            "line": "And the cure you're working on?"
+        },
+        {
+            "character": "Price",
+            "line": "We're throwing everything we can at it."
+        },
+        {
+            "character": "Coulson",
+            "line": "He was one of the good ones, is."
+        },
+        {
+            "character": "Price",
+            "line": "I know he was a friend. You're doing all you can. We'll keep you up to speed on everything we do."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe you should come to the base in the next day or so, talk me through it."
+        },
+        {
+            "character": "Mack",
+            "line": "Anyone gonna talk to her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She'll talk when she's ready."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, stop. Stop. Stop. Okay, just go before you drop another priceless manuscript. Why don't you go deface a Picasso or something?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, what are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "They're all idiots."
+        },
+        {
+            "character": "Simmons",
+            "line": "Be nice."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry. Well-meaning idiots. It's been a rough day."
+        },
+        {
+            "character": "Simmons",
+            "line": "You brought in all these books?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Every volume on symbolic anthropology and iconography I could find. Hopefully it matches, um... this. It's the ram's head symbol. I think Will's distant star Pathfinder program hid it in the logo."
+        },
+        {
+            "character": "Simmons",
+            "line": "About 200 years after the group studying the Monolith chiseled it into the floor of the castle."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. No coincidence there. If we get lucky, tracing its origin could give us some sort of insight into how to save..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry. Just feel so bad for May. I don't know how you get over that."
+        },
+        {
+            "character": "Lincoln",
+            "line": "She's been giving me the hate stare since I got here. I had to sleep with one eye open last night."
+        },
+        {
+            "character": "Daisy",
+            "line": "But you slept."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah, for the first time in a long time. I've been running long enough to appreciate it, secret underground base no one knows about, even if you all live on top of each other like keebler elves."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's one roof, but it's big. Lots of space. Not that you need to keep your space."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know. Uh... I'm sorry I moved in. I hope it's not weird."
+        },
+        {
+            "character": "Daisy",
+            "line": "Weird?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "We kissed. That happened. Do we need to talk about it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Nope. We do not need to. Why don't we just see what happens?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Will that happen again?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Planning takes the fun out of it. Plus, you know, you'll have tougher decisions to face, right? You can't just stay here. Coulson only lets people in the base who have a role in his game plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "I feel like you're gonna tell me I didn't make little league all-stars."
+        },
+        {
+            "character": "Mack",
+            "line": "It's Rosalind, sir. I know you two have grown closer, and I'm concerned that maybe you might, uh... um, maybe you two..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can say it."
+        },
+        {
+            "character": "Mack",
+            "line": "Are you sleeping together?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's none of your business."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry to press, sir, but I need to know. Do you have feelings for her, or are you playing an angle?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Again, not your business. But you really think I'm that guy?"
+        },
+        {
+            "character": "Mack",
+            "line": "If not, then it is my business, because now you're bringing her, the head of the ATCU, into our hidden base."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easy, Mack. I like Roz. Whether she can be trusted, yet to be determined."
+        },
+        {
+            "character": "Mack",
+            "line": "How is that not a deal breaker?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because the only spies without trust issues are either young or dead. I hope I can trust Roz. I want to. That's why I'm bringing her here face-to-face, so I can look her in the eye and find out. Meanwhile, the rest of you will have to go behind her back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Today, we're launching Operation Spotlight. The objective? To peer into every shadowy corner of the ATCU. The last few days have been hard. What happened with Dr. Garner is tragic, but it has also created a rare moment of opportunity for us. The ATCU brought Dr. Garner's containment module into their research facility. S.H.I.E.L.D. is going to use that as a way to gain access. Going in on the ground will be Bobbi and Hunter. Quarterbacking from Zephyr One will be Daisy and Mack. Handling extraction, May and..."
+        },
+        {
+            "character": "May",
+            "line": "Him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. I guess the new guy will gain a firsthand look of our operations with Agent May. Let me be clear. I want to know everything, what's inside the facility, how close they are to this cure they've been working on, which Inhumans they're holding and where they came from, and finally, what it is the ATCU actually wants with them. Questions?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Why now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because I think the head of the ATCU finally trusts me. I'd like that feeling to be mutual. Let's get to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "That answer your concerns?"
+        },
+        {
+            "character": "Mack",
+            "line": "Just raises all new ones."
+        }
+    ]
+}

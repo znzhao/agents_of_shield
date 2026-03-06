@@ -1,0 +1,36 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "LincolnOnTheRun",
+    "description": "The episode opens with Lincoln pursued by authorities as ATCU agents escalate a city-wide manhunt for him. Banks gives orders to use lethal force if necessary, and Lincoln narrowly escapes a team closing in on him. The intensity is high as Lincoln realizes just how widespread the hunt for him has become.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Banks",
+            "line": "He's moving north! Use lethal force if necessary!"
+        },
+        {
+            "character": "Man",
+            "line": "Hurry up! Let's go! Down this trail! Move it! Move it!"
+        },
+        {
+            "character": "Banks",
+            "line": "There."
+        },
+        {
+            "character": "Man",
+            "line": "We'll lose him!"
+        },
+        {
+            "character": "Banks",
+            "line": "Stop! Fall back! Unit two can try and head him off. But get her on the phone. Tell her we lost him. It's time to bring everyone else in on this."
+        }
+    ]
+}

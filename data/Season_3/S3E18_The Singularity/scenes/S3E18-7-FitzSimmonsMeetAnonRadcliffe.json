@@ -1,0 +1,297 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 7,
+    "scene_name": "FitzSimmonsMeetAnonRadcliffe",
+    "description": "Fitz and Simmons interact with Anon at the Bucharest club, trying to secure a meeting with Dr. Radcliffe by offering their cybernetic tech. Anon leads them to the club's backroom for a mysterious procedure, while Mack keeps in touch through their comms and offers support for the risky operation.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Bucharest transhumanist club (black-market for cybernetics / Radcliffe contact)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Well, that's a rather ominous thing to say."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's true. These guys keep staring at us. Or maybe they're staring at the case."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, they could work for Dr. Radcliffe, presuming he's even here. We've looked everywhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's only one way to find out. Excuse me. Looking for Dr. Holden Radcliffe. We're scientists."
+        },
+        {
+            "character": "Anon",
+            "line": "Hello. My name is Anon. Do you have an appointment with the doctor?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Not exactly. We're fellow geneticists. Like Dr. Radcliffe, we dabble in human enhancements."
+        },
+        {
+            "character": "Mack",
+            "line": "Guys, this woman has been heavily modified, in ways you wouldn't anticipate. Mm, man, I need to get out more."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you a patient of Dr. Radcliffe? We have quite innovative eye technology. Perhaps it will serve you, as well."
+        },
+        {
+            "character": "Anon",
+            "line": "I can take it to the doctor."
+        },
+        {
+            "character": "Fitz",
+            "line": "Respectfully, it's for Dr. Radcliffe. Or no one at all."
+        },
+        {
+            "character": "Anon",
+            "line": "Wait in the bar area. If the doctor expresses interest, I will find you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Doesn't make any sense. Alisha never would've killed herself. She feels all of it. Every death. It's Hive. That thing forced her. We've got to stop it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm taking you out of the field until Fitz-Simmons find a cure."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What? No. Look, I... I know I went overboard today, and I'm sorry. Without Daisy, I... I'll do better. Please."
+        },
+        {
+            "character": "Coulson",
+            "line": "She'd want me to keep you safe."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You can't do this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I just did."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're sitting in here for the view?"
+        },
+        {
+            "character": "May",
+            "line": "You haven't given me a destination."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's 'cause I don't have one. How you holding up?"
+        },
+        {
+            "character": "May",
+            "line": "Just another day at the office."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry about earlier. I was out of line. I'm frustrated with the... We all are."
+        },
+        {
+            "character": "May",
+            "line": "You're not the only one who cares."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. And you're right. The things I expect of you. On some level, I'm no better than Hive."
+        },
+        {
+            "character": "May",
+            "line": "No one forces me to do anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "I took advantage. When it comes to Daisy, she's young. I forget that sometimes. And from what Fitz-Simmons have said, Hive's infections only heightens feelings she already has. Daisy's always longed for a family, for connection. I thought I could give it to her with S.H.I.E.L.D."
+        },
+        {
+            "character": "May",
+            "line": "Phil. You're not her father."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. But she's the closest thing I have to a daughter."
+        },
+        {
+            "character": "Anderson",
+            "line": "Sir? You told me to monitor any unusual seismic activity. We found..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where?"
+        },
+        {
+            "character": "Anderson",
+            "line": "South Dakota."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're after the potential Inhuman."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack, are you getting feedback on comms? Simmons, you hear that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, yeah, it's terribly loud. Probably best if we go offline to reboot."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks fine on my end."
+        },
+        {
+            "character": "Simmons",
+            "line": "Back in a jiff."
+        },
+        {
+            "character": "Fitz",
+            "line": "Got a long history of unfinished conversations, so I thought it was about time that..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We finish one."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, um... I've been thinking about it, about us, and, um,it clicked. The crux of our relationship is like the singularity in transhumanism."
+        },
+        {
+            "character": "Simmons",
+            "line": "It is?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, think about it. Singularity is the defining moment."
+        },
+        {
+            "character": "Simmons",
+            "line": "The point at which a measurable variable becomes infinite."
+        },
+        {
+            "character": "Fitz",
+            "line": "Right. So, our friendship is linear. It's simple, comfortable."
+        },
+        {
+            "character": "Simmons",
+            "line": "Effortless, really."
+        },
+        {
+            "character": "Fitz",
+            "line": "As soon as we deviate from that path..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Change becomes exponential."
+        },
+        {
+            "character": "Fitz",
+            "line": "The point of no return."
+        },
+        {
+            "character": "Simmons",
+            "line": "Just to be clear, um, are you comparing us sleeping together to crossing the event horizon?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's quite lovely when you think about it like that. And also terrifying."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, exactly. So... we should stop thinking altogether..."
+        },
+        {
+            "character": "Simmons",
+            "line": "And just do. Yeah. Of course."
+        },
+        {
+            "character": "Anon",
+            "line": "Hello. Please follow me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Back online and on the move."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy that."
+        },
+        {
+            "character": "Mack",
+            "line": "This wasn't in the schematics."
+        },
+        {
+            "character": "Anon",
+            "line": "You first."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are we meeting Dr. Radcliffe?"
+        },
+        {
+            "character": "Anon",
+            "line": "After you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not sure we understand."
+        },
+        {
+            "character": "Anon",
+            "line": "You are looking to sell the doctor eye technology, are you not?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, but..."
+        },
+        {
+            "character": "Anon",
+            "line": "The doctor will meet you once I've seen the surgery is complete and your cybernetic eye is in place."
+        },
+        {
+            "character": "Simmons",
+            "line": "Surgery. You want us to remove..."
+        },
+        {
+            "character": "Fitz",
+            "line": "And replace it with..."
+        },
+        {
+            "character": "Anon",
+            "line": "Dr. Radcliffe needs assurance that your technology meets his standards. The only way to do this is to test it on a live human specimen. Whenever you're ready."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, can you give us a minute to prep?"
+        },
+        {
+            "character": "Simmons",
+            "line": "This seems extremely unethical."
+        },
+        {
+            "character": "Fitz",
+            "line": "We've done far more questionable things for our employer. A third opinion would be welcome."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, if Radcliffe's our only way to cure Tremors, you know where I stand."
+        }
+    ]
+}

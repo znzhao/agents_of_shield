@@ -1,0 +1,132 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "TeamExitsViaRiversEnd",
+    "description": "The core team leaves the Lighthouse using Noah's secret tunnels, surfacing in River's End. They steal a VW Bus in order to travel covertly to the Zephyr's location. The tone is lighthearted as they reminisce about their bizarre past missions and encounter a friendly local police officer who nearly blows their cover, but the interaction passes without incident.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "lighthearted",
+    "location": "River's End (small town near the Lighthouse)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "These things look roomier from the outside."
+        },
+        {
+            "character": "Mack",
+            "line": "It'll get us where we need to go."
+        },
+        {
+            "character": "May",
+            "line": "Hey, could be worse."
+        },
+        {
+            "character": "Simmons",
+            "line": "True. We could be enslaved by an alien sociopath in a dystopian future."
+        },
+        {
+            "character": "Mack",
+            "line": "Or we could be trapped inside a virtual-reality fascist state."
+        },
+        {
+            "character": "Fitz",
+            "line": "Or stuck at the bottom of the ocean."
+        },
+        {
+            "character": "Elena",
+            "line": "Or stopping a crazy robot lady."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or falling out of a plane."
+        },
+        {
+            "character": "Mack",
+            "line": "Fighting Daisy's mom."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or fighting Daisy's dad."
+        },
+        {
+            "character": "May",
+            "line": "Or dancing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wait. We're not just wanted. We're most wanted. Top of the lists. All the lists."
+        },
+        {
+            "character": "Noah",
+            "line": "Yes. It seems you are the object of much interest right now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Every local P.D. has our picture, which means to anyone with a badge, we're famous."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone just stay calm."
+        },
+        {
+            "character": "Mack",
+            "line": "Hi, officer. Is there a problem?"
+        },
+        {
+            "character": "Officer",
+            "line": "Hey, you tell me."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, this right here. Um, I was sparring."
+        },
+        {
+            "character": "Officer",
+            "line": "No, I mean the van. This is John Nickel's van."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, yeah."
+        },
+        {
+            "character": "Officer",
+            "line": "I mean, is it a clunker or what? ‘Cause he's been trying to sell it for months. Hey, be honest how badly did he fleece you on this?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh. Are you kidding me? You know how long I've been looking for a 1975 T2 1600 engine with shag carpeting? John's price was more than fair. It was a steal."
+        },
+        {
+            "character": "Officer",
+            "line": "First time for everything, I guess."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah."
+        },
+        {
+            "character": "Officer",
+            "line": "You guys have a great day."
+        },
+        {
+            "character": "Coulson",
+            "line": "You too."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you. That's closer than I would've liked."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're lucky this is a quiet, simple town. If we don't make any noise, we can keep it that way."
+        }
+    ]
+}

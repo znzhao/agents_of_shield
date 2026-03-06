@@ -1,0 +1,77 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 15,
+    "scene_name": "TeamReflectsAndWardAndMayConnect",
+    "description": "That evening, the team relaxes at their accommodations after a harrowing mission. Skye and Ward share a quiet conversation about trauma and recovery, and Ward apologizes for his actions. Skye offers him understanding and emotional support. Ward retreats for the night, accepting an invitation from May for a drink, suggesting they may be forming a deeper connection.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hey. I could get used to turndown service and little mints on my pillow."
+        },
+        {
+            "character": "Ward",
+            "line": "Overnights aren't standard."
+        },
+        {
+            "character": "Skye",
+            "line": "We deserve a nice night. You especially. How you feeling?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not great. I'm sorry. For before. I'm... I'm not that guy."
+        },
+        {
+            "character": "Skye",
+            "line": "When you're a guy who saves lives, I can overlook a little Hulk rage. No harm, no foul."
+        },
+        {
+            "character": "Ward",
+            "line": "Does everything just roll off your back?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. If it helped, I'd rage all the time, but it doesn't."
+        },
+        {
+            "character": "Ward",
+            "line": "What I saw... it was about my brother."
+        },
+        {
+            "character": "Skye",
+            "line": "I figured. I know you're not one to talk, but, like I said, I'm here. My shoulder's free."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm beat. Another time, maybe."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, you know where I live."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did I fall asleep?"
+        },
+        {
+            "character": "Karine",
+            "line": "For a little while. But, uh, that's good. It means you are relaxed."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's precisely how I'm feeling, relaxed. Honestly, Tahiti's too good to be true."
+        },
+        {
+            "character": "Karine",
+            "line": "I know. It's a magical place."
+        }
+    ]
+}

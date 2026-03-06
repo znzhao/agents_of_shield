@@ -1,0 +1,52 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 11,
+    "scene_name": "FinalBattleOnTheBus",
+    "description": "In the aftermath of the breach, the team acts with precision—May regains control of the cockpit after subduing the enemy pilot, while Ward and Coulson fight off the last of Reyes' soldiers in the lounge. Fitz and Simmons work together to secure the artefact as Skye improvises by deploying an inflatable raft to seal the hole and save Ward. Coulson secures Reyes as she tries to regain control, culminating in the team's complete victory.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "No other way in, huh? Was just starting to warm up to this place."
+        },
+        {
+            "character": "Fitz",
+            "line": "The 0-8-4 is cooling and stable. But we should call H.Q. and get it to the Slingshot as soon as possible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Told you they were good."
+        },
+        {
+            "character": "Skye",
+            "line": "Not a scratch. But your plane's totaled. I hope S.H.I.E.L.D. insurance covers hijackings."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sure. Under “incidentals.”"
+        },
+        {
+            "character": "Skye",
+            "line": "What exactly am I signing up for?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Like I said, front-row seat to the craziest show on earth."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, but I didn't expect the show to get this crazy this fast all for an object you're just gonna destroy."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 6,
+    "scene_name": "HunterAndMayPrepareForFightClub",
+    "description": "May and Hunter discuss trust, their mission, and their personal baggage, including May's past with Andrew and Hunter's history with Bobbi. Their banter displays camaraderie and establishes the personal stakes behind their undercover operation as Hunter prepares to fight in the Hydra-run club.",
+    "roles": [
+        "melinda_may",
+        "lance_hunter"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "And how is she now?"
+        },
+        {
+            "character": "Morse",
+            "line": "As weirded out as you'd be after being stranded for months in another solar system."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, I must say, H.Q. sounds a lot more fun than what we're up to."
+        },
+        {
+            "character": "Morse",
+            "line": "Why don't I believe you? And why do you sound hung over?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Because I am hung over. There's nothing to do here but drink. Planes, trains, and automobiles, chasing down leads, still no sign of Ward."
+        },
+        {
+            "character": "Morse",
+            "line": "So, you're not doing anything stupid?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Mm, not yet. But one of those trains is about to leave the station, and I need to get on it."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, good luck. Don't die."
+        },
+        {
+            "character": "Hunter",
+            "line": "Only thing I'll die of is boredom."
+        },
+        {
+            "character": "May",
+            "line": "You lied to her."
+        },
+        {
+            "character": "Hunter",
+            "line": "Barely. Besides, she knows I'm lying, so it's not even really a lie. Works for us, for now. You know how complicated these things can be, affairs of the heart, especially in our line of work. Me and Bob. You and Andrew."
+        },
+        {
+            "character": "May",
+            "line": "So, you trust Spud?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Trust's a strong word for a psychopath. He's a murderous thief who I once saw bite a man's nose clean off. But he'll get us through the door. You'll find this funny. Back at H.Q., we've got a little wager going on what happened between you and the good doctor. My guess is you walked away not in a huff or anything, just couldn't stand the constant talking, sharing."
+        },
+        {
+            "character": "May",
+            "line": "It's true. I don't like a lot of talking. This fight, it's our way to Ward, so if you're gonna do this, you need to win."
+        },
+        {
+            "character": "Hunter",
+            "line": "Are you suggesting I can't win?"
+        },
+        {
+            "character": "May",
+            "line": "I'm not saying you can't, but I know I can."
+        },
+        {
+            "character": "Hunter",
+            "line": "Spud runs with a type. If that type see a small Asian woman destroy some wannabe Hydra thug in a bare-knuckle brawl, that type will talk, and word might spread up the ranks."
+        },
+        {
+            "character": "May",
+            "line": "I see your point."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're just anxious to bash some heads after being out of the game. Look. I've rarely lost a fight when I'm sober, which I plan on being. And I can take a punch, so worst case, I'll do that till the other guy tires out."
+        },
+        {
+            "character": "May",
+            "line": "So, how much do you have riding on this bet that I left Andrew?"
+        },
+        {
+            "character": "Hunter",
+            "line": "A significant sum."
+        },
+        {
+            "character": "May",
+            "line": "Well, you lost it."
+        }
+    ]
+}

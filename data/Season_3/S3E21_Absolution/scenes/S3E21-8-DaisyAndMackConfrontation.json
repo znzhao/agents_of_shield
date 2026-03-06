@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 8,
+    "scene_name": "DaisyAndMackConfrontation",
+    "description": "Mack breaks security protocol to visit Daisy in her containment, telling her they've captured Hive. Daisy, wracked with guilt and feeling undeserving of forgiveness, rebuffs Mack's compassion and asks him to leave. Their emotional confrontation reveals Daisy's profound anguish over her past actions while under Hive's control.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "We got him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hive."
+        },
+        {
+            "character": "Mack",
+            "line": "Mhm. Safe, sound, and catatonic in a Gel-Matrix chamber. I thought you'd want to know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks. But you should be in the module. The protocols are for your own safety."
+        },
+        {
+            "character": "Mack",
+            "line": "You think I give a damn about security protocols? You're my partner."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're not partners anymore. So just leave. You remember what happened last time."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. And I forgive you."
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't ask for that."
+        },
+        {
+            "character": "Mack",
+            "line": "That's too bad. I forgive you."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, don't be stupid. Get away, okay? No, just get... get..."
+        },
+        {
+            "character": "Mack",
+            "line": "It's okay, Daisy. It's okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Get away. Get... Get... Get away!"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy, it's okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "No! Mnh! I don't deserve this."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "FitzArrivesAtRadcliffeLabAIDATuringTest",
+    "description": "Fitz arrives at Dr. Radcliffe's lab and is unsettled to see AIDA fully mobile and interacting with May. Radcliffe insists this is the ultimate Turing Test, placing AIDA under the scrutiny of a discerning S.H.I.E.L.D. agent. Fitz is anxious about the secrecy, but Radcliffe is confident. May tests AIDA with Mandarin, which Fitz awkwardly tries to cover for, further blurring the line between human and machine.",
+    "roles": [
+        "leo_fitz",
+        "holden_radcliffe",
+        "aida",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "There must be a way to synthesize the necessary neurotransmitters to regulate thalamocortical activity."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Or block reception altogether. You know, a way to trick the brain out of fear and the resultant physical strain on the body."
+        },
+        {
+            "character": "Fitz",
+            "line": "What I wouldn't have given for that in primary school. I used to get so nervous, my eyes would all bug out, and I'd lose my breath. AIDA, sh-she's out. Why... Why... Why would she be out?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, you're right. Your eyes do bug out when you get nervous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why are you not nervous?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Because I let her out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you mad?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, I'm just a scientist."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is... This is a huge risk. You can't... You can't just parade her about. No one's supposed to know about her."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I know it's a risk, but it's a risk we have to take. You have improved her social cues dramatically. We are on the cusp. This is the ultimate Turing Test. I mean, who better to put AIDA through her paces than the most discerning, formidable agent that S.H.I.E.L.D. has to offer? Fitz, art and science have their meeting in method."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, do... do not go quoting bloody Bulwer-Lytton at me."
+        },
+        {
+            "character": "May",
+            "line": "Fitz."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello, Fitz. Always nice to see you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hello. Um, how... what is... what is... how is everything going in here?"
+        },
+        {
+            "character": "May",
+            "line": "Still waiting for them to finish the test so I can get the hell out of here."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Just assessing any last glitches before we send May on her way."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "We'll leave the women to it, shall we?"
+        }
+    ]
+}

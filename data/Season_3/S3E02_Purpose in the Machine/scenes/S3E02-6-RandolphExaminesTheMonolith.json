@@ -1,0 +1,205 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 6,
+    "scene_name": "RandolphExaminesTheMonolith",
+    "description": "Coulson, Fitz, Bobbi, and Randolph examine the monolith as it momentarily liquefies and reforms. Randolph challenges Fitz’s notion that the monolith’s behavior is random, suggesting a synchronized trigger linked possibly to another planet. When presented with the scroll Fitz found, Randolph recognizes the markings from an English castle he visited over a century ago. The team decides to travel to England to investigate further, pushing closer to the origin of the monolith and a possible way to rescue Simmons.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "Well, I hate to disappoint, but it looks like your regular, old... Oh. How often does it do that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's random."
+        },
+        {
+            "character": "Randolph",
+            "line": "No. No, no, no, no. It may seem random. But this... something is clearly triggering it."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've checked it against tides, relation to the sun, rotation..."
+        },
+        {
+            "character": "Randolph",
+            "line": "On this planet. So you have no idea how to control it. Why come to me? I'm no interstellar-travel expert. I've never even studied gravitational lensing or zero-point energy fields or quantum-harmonic oscillation theory."
+        },
+        {
+            "character": "Morse",
+            "line": "Yet you know all those words you just said."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you're scared of portals. You're scared of being dragged back home through a portal. So I think in your drunken stumble through history, you've probably investigated every story involving one."
+        },
+        {
+            "character": "Morse",
+            "line": "And I've seen you eyeing all of your exits, my knee brace, wondering if you can get away with it. The only reason you came with us was to confirm its existence."
+        },
+        {
+            "character": "Randolph",
+            "line": "And destroy it."
+        },
+        {
+            "character": "Fitz",
+            "line": "You'll have to go through me."
+        },
+        {
+            "character": "Randolph",
+            "line": "And I could. Literally. But, then, I don't know what Amazon woman and Robot hand are capable of these days, so I will help you get her back. I'm not entirely heartless. But if I do, I want your word that we will demolish this portal and no one passes through it again."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll sleep better at night."
+        },
+        {
+            "character": "Randolph",
+            "line": "Good. Well, I've investigated a lot of these wormhole rumors, but that's all they were, rumors. None have panned out. So we know nothing of its origin."
+        },
+        {
+            "character": "Coulson",
+            "line": "Kree maybe."
+        },
+        {
+            "character": "Morse",
+            "line": "And this parchment was found with it."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, hello. I've seen this."
+        },
+        {
+            "character": "Morse",
+            "line": "It's a common Hebrew word."
+        },
+        {
+            "character": "Randolph",
+            "line": "Yes. What else do we know, Mr. Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, well, the Monolith changed hands a lot. Germanic tribes, spent the hundred years' war in France. But before the Napoleon era, it was moved again. I lost track of it somewhere in..."
+        },
+        {
+            "character": "Randolph",
+            "line": "England."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. How did you know that?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Because I have seen this word carved into the walls of a castle in Gloucestershire, England, in 1853. To the plane! Wh... Am I allowed to say that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's all go to the plane, I guess."
+        },
+        {
+            "character": "Ward",
+            "line": "What's the point of a boat if you never take it out of the dock? It's like camping in a living room. There."
+        },
+        {
+            "character": "Kebo",
+            "line": "There are easier ways of getting money than kidnapping."
+        },
+        {
+            "character": "Ward",
+            "line": "Mr. Braun needs to see the world for what it really is. He can open many doors for us."
+        },
+        {
+            "character": "Strucker",
+            "line": "Sorry, girls. Not allowed to post, but happy to take some of you. That's great. Great. Get closer together? Perfect."
+        },
+        {
+            "character": "Strucker",
+            "line": "What's going on down there?"
+        },
+        {
+            "character": "Man",
+            "line": "Private party."
+        },
+        {
+            "character": "Ward",
+            "line": "It's okay. I'm on the list."
+        },
+        {
+            "character": "Man",
+            "line": "Down below!"
+        },
+        {
+            "character": "Ward",
+            "line": "Good thing I dropped by."
+        },
+        {
+            "character": "Strucker",
+            "line": "Why's that?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm an exterminator."
+        },
+        {
+            "character": "Randolph",
+            "line": "Yes. Yes, yes. I came here for a costume ball. That was the pretext, of course. I'd heard rumors of travel to the stars. Found it all to be nonsense. But it was a fun party."
+        },
+        {
+            "character": "Coulson",
+            "line": "The carvings?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, right, right. Of course. So I was here admiring the stone work, and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "The same as the scroll. “Death.”"
+        },
+        {
+            "character": "Randolph",
+            "line": "“Maveth.” Yeah, one of its translations is actually “death by punishment.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Could mean “no trespassing.”"
+        },
+        {
+            "character": "Randolph",
+            "line": "A Hebrew warning carved in an English castle struck me as odd. Out of place. Seems ancient."
+        },
+        {
+            "character": "Morse",
+            "line": "But you stopped looking into it?"
+        },
+        {
+            "character": "Randolph",
+            "line": "A man dressed as an owl, of all things. I got him drunk enough to admit that no travel to other worlds was even occurring. Just ritualistic killings. Eh, the whole thing stunk of half-baked satanism. Just some fabrications to entice new members. And, well, there were fire dancers. I got distracted."
+        },
+        {
+            "character": "Coulson",
+            "line": "Here's another one. This is why I got rid of all the S.H.I.E.L.D. logos on our vehicles. It's like screaming for attention."
+        },
+        {
+            "character": "Morse",
+            "line": "You know, there's a ginormous eagle symbol on top of our jet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, sometimes I can't help myself with the cool."
+        },
+        {
+            "character": "Randolph",
+            "line": "You certain about this? It does say “death by punishment.” After you."
+        }
+    ]
+}

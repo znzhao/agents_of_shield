@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 9,
+    "scene_name": "RobbieStrikesDealWithCoulsonAndMack",
+    "description": "Robbie is released from containment by Coulson, who proposes an alliance to uncover the truth about Momentum Labs and Lucy Bauer. Robbie agrees to speak to his uncle Eli in exchange for more answers, with Mack and Coulson listening in. This scene solidifies Robbie’s role as a crucial intermediary between S.H.I.E.L.D. and the supernatural threats they face.",
+    "roles": [
+        "robbie_reyes",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Robbie",
+            "line": "Damn, you two must be straight loco letting me out of my cage like that."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I was just thinking the same thing."
+        },
+        {
+            "character": "Robbie",
+            "line": "I light up, I can bring this whole plane crashing down."
+        },
+        {
+            "character": "Coulson",
+            "line": "With you in it? I don't think you'll do that. Flying isn't one of your special talents. I'm opening a door for you, Mr. Reyes, both literally and figuratively."
+        },
+        {
+            "character": "Robbie",
+            "line": "And in return you want...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Same thing you do. Answers. And your Uncle Eli has them. That's why you were going to see him. See, I think we're on the same side, but I need you to prove it to me. Prove you're not the demon the stories say you are."
+        },
+        {
+            "character": "Mack",
+            "line": "You saved a friend of mine from a guy my bullets went straight through. You're the only one we know that can hurt those things."
+        },
+        {
+            "character": "Coulson",
+            "line": "So let's help each other. Eli won't talk to us, but he'll talk to you. All we ask is that you let us listen in on the conversation."
+        },
+        {
+            "character": "Robbie",
+            "line": "And if I say no?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well... then we open another door for you, but we won't land first."
+        }
+    ]
+}

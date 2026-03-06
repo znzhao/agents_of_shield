@@ -1,0 +1,200 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 10,
+    "scene_name": "WillFitzWardCrossNoFlyZone",
+    "description": "On Maveth, Will leads Fitz and Ward through the deadly no-fly zone, discussing the ancient civilization and dangers of the wasteland. Fitz attempts to gather information and keep Will going despite his injuries, as Ward remains fixated on his mission and tries to maintain control. The stark landscape and mention of sacrifices reinforce the mysterious, ominous tone as they move toward the portal.",
+    "roles": [
+        "leo_fitz",
+        "grant_ward"
+    ],
+    "vibe": "mysterious",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This is our containment module."
+        },
+        {
+            "character": "Andrew",
+            "line": "Jemma! Help me, please. Let me out. Did Coulson sent you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No! I... I... I'm a prisoner. HYDRA's looking for me."
+        },
+        {
+            "character": "Andrew",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Simmons",
+            "line": "England. HYDRA's got Fitz. They've re-opened the portal."
+        },
+        {
+            "character": "Andrew",
+            "line": "Let me out. I can help."
+        },
+        {
+            "character": "Simmons",
+            "line": "I've seen your help, autopsied the bodies."
+        },
+        {
+            "character": "Andrew",
+            "line": "Is that why you handed me over to HYDRA?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We didn't know they controlled the ATCU. May and Coulson were trying to save you."
+        },
+        {
+            "character": "Andrew",
+            "line": "Save? Maybe you didn't hear, but Melinda shot me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, can't say I blame her after how you've misbehaved."
+        },
+        {
+            "character": "Andrew",
+            "line": "Jemma, we may disagree about the Inhumans, but we both hate HYDRA. Open this door, and I'll protect you. I would never, ever hurt you. But HYDRA will kill you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe you wouldn't, but what about that thing you've be..."
+        },
+        {
+            "character": "Man",
+            "line": "Check this one."
+        },
+        {
+            "character": "Andrew",
+            "line": "You got to let me out, Jemma. I'm the only one who can protect you. Circle behind."
+        },
+        {
+            "character": "Man",
+            "line": "Get your hands up. Back up."
+        },
+        {
+            "character": "Andrew",
+            "line": "It's okay. It's all right. Just don't shoot. Just don't shoot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang in there, Fitz."
+        },
+        {
+            "character": "Ward",
+            "line": "I saw something today. Looked like a giant statue. Ancient. Looked like a shrine."
+        },
+        {
+            "character": "Will",
+            "line": "It used to live there."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, but who built it? Were there people here? Like a civilization?"
+        },
+        {
+            "character": "Will",
+            "line": "All I've ever seen here is death."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, pretty impressive you've survived all these years. Couldn't have been easy."
+        },
+        {
+            "character": "Will",
+            "line": "I learned to adapt."
+        },
+        {
+            "character": "Ward",
+            "line": "Change or die. That's worked for me, as well. The Earth's going through a big change right now, some kind of alien contagion. Call themselves Inhumans. I'm not thrilled about it, but the wind's blowing that way, so..."
+        },
+        {
+            "character": "Will",
+            "line": "It's gonna be a bad one!"
+        },
+        {
+            "character": "Will",
+            "line": "I'm used to it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons told me about an area called the no-fly zone. You're leading us there, aren't you?"
+        },
+        {
+            "character": "Will",
+            "line": "We're already in it. Stay close."
+        },
+        {
+            "character": "Morse",
+            "line": "We're in."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Mack",
+            "line": "Pretty sure that's us."
+        },
+        {
+            "character": "Hunter",
+            "line": "Brilliant. Just confirming it's really us. It is. You're welcome."
+        },
+        {
+            "character": "Mack",
+            "line": "If we're here and we want to go there, we need to get past about a dozen HYDRA soldiers, and we need to do it as covertly as possible."
+        },
+        {
+            "character": "Morse",
+            "line": "Copy that."
+        },
+        {
+            "character": "Mack",
+            "line": "Are we supposed to wait here or..."
+        },
+        {
+            "character": "Man",
+            "line": "We need to stay hunkered down, sir!"
+        },
+        {
+            "character": "Ward",
+            "line": "We don't have time for this!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey! I think we took a wrong turn! This is our loca..."
+        },
+        {
+            "character": "Will",
+            "line": "You said they were gonna kill us. You have a better idea?"
+        },
+        {
+            "character": "Man",
+            "line": "What are they doing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's not them. It's me. Okay. Let's see what we've got."
+        },
+        {
+            "character": "Joey",
+            "line": "Daisy, watch out!"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Lincoln, don't! There's no way they didn't hear that. Come on. We've got to go."
+        },
+        {
+            "character": "Joey",
+            "line": "Did you see that?! I'm bulletproof!"
+        },
+        {
+            "character": "Man",
+            "line": "Investigating gunfire now. Stop!"
+        }
+    ]
+}

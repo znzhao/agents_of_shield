@@ -1,0 +1,43 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 17,
+    "scene_name": "QuinnPitchesSuperSoldierArmy",
+    "description": "Ian Quinn pitches the concept of a super-soldier army to prospective clients, selling the new Cybertek facility as Hydra’s latest endeavor and boasting about Deathlok’s capabilities. His speech signals the global threat Hydra now poses and hints at the next phase of escalation for S.H.I.E.L.D.'s enemies.",
+    "roles": [
+        "ian_quinn"
+    ],
+    "vibe": "dramatic",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "Bogota was a freebie, a calling card, a demonstration of what we can do."
+        },
+        {
+            "character": "Jacobs",
+            "line": "It was a circus."
+        },
+        {
+            "character": "Quinn",
+            "line": "It was a single man with no support team and no extraction plan. I mean, come on. Tell me... how much did you spend to get Bin Laden? Between the ships and the choppers and the support troops, what was it? $30 million? $50 million?"
+        },
+        {
+            "character": "Jolnes",
+            "line": "Whatever the price, it was worth it."
+        },
+        {
+            "character": "Quinn",
+            "line": "Maybe. My super soldier could have done it for a fraction of the price."
+        },
+        {
+            "character": "Jacobs",
+            "line": "Is that why you're here? Are you proposing to sell us this super soldier of yours?"
+        },
+        {
+            "character": "Quinn",
+            "line": "God, no. I'm proposing to sell you a thousand of them. Better, stronger, faster. Gentlemen, with the continued exposure of corrupt institutions like S.H.I.E.L.D., with the terrifying rise of Hydra, the need for reliable security is at an all-time high. Which is why we are expanding our super-soldier operations into a brand-new, state-of-the-art Cybertek facility. So, would you and your friends like a tour?"
+        }
+    ]
+}

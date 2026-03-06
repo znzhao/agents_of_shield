@@ -1,0 +1,240 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "SHIELDAndHydraArriveAtMaribelDelMar",
+    "description": "The S.H.I.E.L.D. Bus carries Coulson, May, Skye, and Hunter to Morocco as they prepare to apprehend Donnie Gill aboard the Maribel del Mar. In parallel, Simmons is set up by Hydra to approach Donnie under Bakshi’s guidance. The tension as both sides converge on the ship is heightened as Simmons makes contact with Donnie and attempts to calm him, with Bakshi feeding her lines through an earpiece. The team is split up, working from different fronts to secure or neutralize the threat.",
+    "roles": [
+        "jemma_simmons",
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "lance_hunter",
+        "sunil_bakshi"
+    ],
+    "vibe": "thrilling",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "I'll be listening to everything. You run into any trouble, I'll be in your ear, talking you through it."
+        },
+        {
+            "character": "Simmons",
+            "line": "And what if he doesn't respond well?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Then I suppose there'll be a job opening at our laboratory."
+        },
+        {
+            "character": "Hunter",
+            "line": "Your first jump?"
+        },
+        {
+            "character": "Skye",
+            "line": "Second. First was with Coulson and Lola. It's a car. It flies... Yeah, this is my first."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's okay to be scared."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not scared."
+        },
+        {
+            "character": "Hunter",
+            "line": "Maybe you should be. I packed your chute. And according to my ex, my folding skills are abysmal."
+        },
+        {
+            "character": "Skye",
+            "line": "Hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "Nice thing is this is as scary as it gets. Once you jump, physics takes over."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, I'm good. Thanks."
+        },
+        {
+            "character": "May",
+            "line": "Trip says two minutes out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember, Donnie Gill's a gifted. He could be a formidable weapon for either side. Let's make sure it's ours."
+        },
+        {
+            "character": "Ward",
+            "line": "I didn't want to hurt you. I tried to avoid it."
+        },
+        {
+            "character": "Fitz",
+            "line": "You tried to kill us."
+        },
+        {
+            "character": "Ward",
+            "line": "No. I wanted to save you. Garrett ordered me to kill you and Simmons. He expected me to put a bullet in your head. But I couldn't. I gave you a fighting chance to find a way out, like you always do. Like you did."
+        },
+        {
+            "character": "Fitz",
+            "line": "Save me? Do... do you... do you... do you know what the, um... what you... Okay. I... you know, I have trouble with words, so, um... it's probably best that I show you."
+        },
+        {
+            "character": "Ward",
+            "line": "Show me what?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hypoxia. Found that one. That's what you did to me."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz? What are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm showing you... what it's like when you're deprived... of, uh... The oxygen... b... the brain cells, they... they re... they react first. They die. Three minutes, damage is permanent."
+        },
+        {
+            "character": "Ward",
+            "line": "Where's Skye?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Gone. They're all gone after Donnie. And I should be there with them. But I can't be because of you, because of what you did to me! I'm damaged!"
+        },
+        {
+            "character": "Ward",
+            "line": "Donnie... Donnie... Donnie Gill. That's... that's why Skye was..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No! I'm not... I-I don't ... I don't, uh... I don't answer, uh..."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz. Listen to me. Listen. You... they don't know what they're walking into."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hello? Donnie? Oh. I'm looking for... I'm looking for Donnie Gill. Hello? You may not remember me."
+        },
+        {
+            "character": "Donnie",
+            "line": "Agent Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Donnie. It's nice to see you again."
+        },
+        {
+            "character": "Donnie",
+            "line": "Who... who sent you? S.H.I.E.L.D.? H-Hydra? What... what side did you end up on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'd like to think I'm on your side."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Get close to him. Convince him you want to help."
+        },
+        {
+            "character": "Simmons",
+            "line": "I saved your life once. I heard you were in trouble. Please, I... I need you to hear me out."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, we're not alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not what I hoped, but not unexpected. Proceed. Let me know when you have eyes on Gill."
+        },
+        {
+            "character": "May",
+            "line": "Copy that."
+        },
+        {
+            "character": "Hunter",
+            "line": "Skye, you cover the door."
+        },
+        {
+            "character": "Skye",
+            "line": "You don't give the orders, Trainspotting."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm not Scottish."
+        },
+        {
+            "character": "May",
+            "line": "Skye, protect the exit route."
+        },
+        {
+            "character": "Skye",
+            "line": "Roger that."
+        },
+        {
+            "character": "Mack",
+            "line": "Not this time. Come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack! Aah!"
+        },
+        {
+            "character": "Mack",
+            "line": "Come on! Hey. Hey, hey! What the hell, man?! I just took out the boomers!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, the bus! The bus! We need to talk to the bus!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz would talk about you. He described the blueprints he saw in your room. He was quite impressed. And Fitz is very hard to impress."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Get him to trust you."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're a lot like him. Like both of us, really. We're scientists... wired to solve problems."
+        },
+        {
+            "character": "Donnie",
+            "line": "Maybe before. It's different now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I don't believe you. You must miss it. Minds like ours... they need to be used."
+        },
+        {
+            "character": "Donnie",
+            "line": "I'm tired of being used."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Don't let him get angry. Repeat what I say. Take a deep breath."
+        },
+        {
+            "character": "Simmons",
+            "line": "Take a deep breath. And clear your mind. Surrender and you will find meaning. Surrender and you will find release."
+        },
+        {
+            "character": "Donnie",
+            "line": "Agent Simmons..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Take a deep breath."
+        }
+    ]
+}

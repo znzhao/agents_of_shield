@@ -1,0 +1,137 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 8,
+    "scene_name": "TeamPreparesToInfiltrateGuestHouse",
+    "description": "Arriving at the Guest House, Coulson, Ward, Fitz, and Garrett discuss entry plans, finding the facility sealed and communications jammed. May manages comms from the Bus, preparing to move Skye at a moment's notice while Triplett assists Simmons medically. Inside, the infiltration team exchanges countersigns with guards and prepares for a hostile reception, recognizing that the facility and its contents are shrouded in secrecy.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "john_garrett",
+        "melinda_may",
+        "antoine_triplett",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "Guest House / T.A.H.I.T.I. facility (Bethesda)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "The Guest House is not a S.H.I.E.L.D. facility. We don't know who or what's in there. Be prepared for potential resistance."
+        },
+        {
+            "character": "Garrett",
+            "line": "No contact from inside?"
+        },
+        {
+            "character": "May",
+            "line": "I've tried every known channel... no response."
+        },
+        {
+            "character": "Ward",
+            "line": "Place could be abandoned."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's hope not. We need the people inside to work on Skye."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons is prepping Skye to move at a moment's notice, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Trip can help. He's had med-tech training."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. We do our jobs right, this will all go peacefully."
+        },
+        {
+            "character": "Ward",
+            "line": "What if they don't want to help us?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'll say “pretty please.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "We need the doctors alive and the place intact. If it does go sideways, Fitz, I need you down there to determine what Simmons can use to help Skye. And then we take it. Let's move."
+        },
+        {
+            "character": "Alpha",
+            "line": "Company?"
+        },
+        {
+            "character": "Beta",
+            "line": "Nothing's scheduled for a couple weeks. Try the protocol."
+        },
+        {
+            "character": "Alpha",
+            "line": "How was the drive from Istanbul?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Countersign?"
+        },
+        {
+            "character": "Garrett",
+            "line": "No clue."
+        },
+        {
+            "character": "Ward",
+            "line": "Never heard it."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't find it in any of S.H.I.E.L.D.'s protocol directives."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is Agent Coulson with S.H.I.E.L.D. We don't know the counter, but we have a team member in dire need of medical assistance. We know she can be treated here. Open the doors. Maybe we can work something out. Do you copy?"
+        },
+        {
+            "character": "Alpha",
+            "line": "How was the drive from Istanbul?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're looking for medical assistance. A person's life is at stake. Will you help us?"
+        },
+        {
+            "character": "Alpha",
+            "line": "How was the drive from Istanbul?"
+        },
+        {
+            "character": "Garrett",
+            "line": "“Pretty please” it is."
+        },
+        {
+            "character": "Beta",
+            "line": "These guys are good... hacked their way in."
+        },
+        {
+            "character": "Alpha",
+            "line": "How the hell did they find this place?"
+        },
+        {
+            "character": "Beta",
+            "line": "Doesn't matter. Didn't know the countersign. You want left or right?"
+        },
+        {
+            "character": "Alpha",
+            "line": "Left's good."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's an antechamber and a set of glass doors. Can't see much beyond that. Lights are all out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, they know we're coming. Let's go say “hello.”"
+        }
+    ]
+}

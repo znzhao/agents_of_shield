@@ -1,0 +1,93 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 3,
+    "scene_name": "IvanovRadcliffeAIDAConflict",
+    "description": "Ivanov confronts Aida and Radcliffe at their base. Ivanov expresses his disdain for Aida and growing frustration with Radcliffe's obsession with the Framework. Radcliffe delegates Aida as his proxy, while Ivanov demands results and threatens consequences if things do not go according to plan.",
+    "roles": [
+        "anton_ivanov",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "Doctor. Radcliffe."
+        },
+        {
+            "character": "AIDA",
+            "line": "Unless your intention is to shred the most advanced human mind of this or any century, I suggest you think twice before forcefully removing him from the Framework."
+        },
+        {
+            "character": "Ivanov",
+            "line": "And unless you would like to lose your arm, I suggest you let me go. I need to speak with him."
+        },
+        {
+            "character": "AIDA",
+            "line": "Dr. Radcliffe has allowed me to communicate on his behalf."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I need to speak with him. Now."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, what have I told you about pulling me out of... Yeah. You interrupted a rousing discourse on pre-“Weekend” Godard versus..."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You spend too much time as of late in your fantasyland, Doctor. I need you here. Present."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, the marvelous benefit of an autonomous system is that things get done without the need for constant managing and meddling."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I do not meddle. I perfect."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You're a results man. I appreciate that. But I've done my part here. The hardware is in place. AIDA is on hand to ensure the transition goes smoothly."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I did not make an alliance with that."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA is my proxy. View her as an extension of myself. Now, you will get what you want most. Please, leave me to what I want most."
+        },
+        {
+            "character": "AIDA",
+            "line": "I can assure you, everything will go according to plan."
+        },
+        {
+            "character": "Ivanov",
+            "line": "For your sake, it had better."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is why I don't have Facebook. Not subtle. This is a message. He wants me to find something here. But it's just a bad episode of “This is Your life.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "Your life and his."
+        },
+        {
+            "character": "Coulson",
+            "line": "Huh?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You see the mining facility in this picture? He owns it. Purchased by Anton Ivanov this year. It's the only thing here that ties back to him. Does it tie back to you, too?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        }
+    ]
+}

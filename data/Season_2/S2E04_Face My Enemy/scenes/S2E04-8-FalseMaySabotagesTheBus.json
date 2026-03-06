@@ -1,0 +1,122 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "FalseMaySabotagesTheBus",
+    "description": "The false May boards the Bus and surreptitiously plants a virus device on a terminal. The virus begins to infect the plane’s systems, putting everyone in immediate danger. The real May, meanwhile, is being interrogated by Bakshi, resisting his tactics and taunts. Back on the Bus, the team starts to notice malfunctions as systems shut down, but aren’t aware of the true cause yet.",
+    "roles": [
+        "melinda_may",
+        "sunil_bakshi",
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Welcome back, Agent May. I have a few questions for you. For example, why your sudden interest in religious artwork?"
+        },
+        {
+            "character": "May",
+            "line": "Everybody has a hobby."
+        },
+        {
+            "character": "Bakshi",
+            "line": "You and your small band of S.H.I.E.L.D. compatriots... there can't be many of you left. Who's running your operation? Where are you based?"
+        },
+        {
+            "character": "May",
+            "line": "Currently? About five feet from kicking your ass."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I don't much believe in empty threats, Agent May. I prefer promises, such as this... you will tell me what I want to know."
+        },
+        {
+            "character": "May",
+            "line": "You have no idea what you're starting."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Perhaps. But I serve a man who has an effective way of getting the information he wants. You will meet him soon, and you will comply. Until then... I'll improvise."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, the plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, not that plan... the other plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, I don't like having to wait until we're trapped in a car to talk about this, but you haven't left me much choice."
+        },
+        {
+            "character": "Coulson",
+            "line": "I just need to know that if things get bad with me, you can do what has to be done. Can you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not just taking me out, May. The hard part is what happens after. S.H.I.E.L.D. will need leadership, a new director. I trust you... just you to do this. Do you understand?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Go. Join them. Fitz... you won't even talk to me now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Because it's embarrassing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Fitz. Well, that's an odd sound. The bus is shutting down. You know what that means. We're in trouble."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're in trouble."
+        },
+        {
+            "character": "Mack",
+            "line": "The cargo-holding ramp just went up. The emergency exits are locking all over the plane. It's the equalization stabilizers... they're fried. The bus thinks we made a water landing. We're sealed in. There's no way out."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, who's doing this?"
+        },
+        {
+            "character": "Skye",
+            "line": "We're the only ones on the bus. This is all happening automatically."
+        },
+        {
+            "character": "Hunter",
+            "line": "How?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, I think I know. S-somebody... we... we've been..."
+        },
+        {
+            "character": "Mack",
+            "line": "Sabotaged."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. This is based on S.H.I.E.L.D.'s equ... tech. It means that the plane is... the plane will ... that."
+        },
+        {
+            "character": "Skye",
+            "line": "The plane will explode?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Soon."
+        }
+    ]
+}

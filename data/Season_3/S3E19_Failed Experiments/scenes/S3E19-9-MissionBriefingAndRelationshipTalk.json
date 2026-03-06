@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 9,
+    "scene_name": "MissionBriefingAndRelationshipTalk",
+    "description": "Coulson leads a tactical briefing for the S.H.I.E.L.D. strike team, outlining objectives and the danger of Hive and his Inhuman followers. Meanwhile, Fitz and Simmons reconcile after a work-related dispute, reinforcing the strength of their bond even under stress. Lincoln, frustrated, expresses his fatigue with the ongoing arguments, setting up his later reckless move.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Anderson",
+            "line": "Our intelligence suggests there's at least 40 enemy combatants on the ground."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what about Hive?"
+        },
+        {
+            "character": "Anderson",
+            "line": "We've still yet to verify his location, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. The plan's simple. Go in, kill Hive, get out."
+        },
+        {
+            "character": "May",
+            "line": "What's protocol when it comes to the other Inhumans in town?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Do not engage unless absolutely necessary. These people are under Hive's control. We don't want to hurt them. I can't be with you on the ground, but I will be watching your helmet feeds. Be careful and be smart. This may be our only chance to catch Hive by surprise."
+        },
+        {
+            "character": "Mack",
+            "line": "And worst-case scenario, if Hive can't be killed?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I suggest running, very fast, away."
+        }
+    ]
+}

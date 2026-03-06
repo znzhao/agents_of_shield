@@ -1,0 +1,35 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 10,
+    "scene_name": "SimmonsCalmsTheInhuman",
+    "description": "Simmons uses her intuition and kindness to calm the Inhuman undergoing Terrigenesis by dismissing the scientists and introducing herself. Her supportive approach appears to ease the subject's transformation, providing a rare, intimate moment inside the cocoon process and demonstrating Simmons's empathy and resourcefulness.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Listen to that. The heartbeat, and it's fast, 130 BPM. He's nervous. Lower the lights. Clear the room."
+        },
+        {
+            "character": "Doctor",
+            "line": "What? We can't do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "You will do that, because, despite the lack of respect I've been shown today, I assume I was brought here because your bosses value my expertise. So impress them by keeping me happy. Everyone out... now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hi. I'm Jemma Simmons. I'm from S.H.I.E.L.D. And I'm here to help you. I know this is all frightening, but I have friends who have also gone through this. But it's okay. I'm here, and we'll get through this together."
+        },
+        {
+            "character": "Mack",
+            "line": "I'd like a word."
+        }
+    ]
+}

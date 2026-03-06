@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 4,
+    "scene_name": "TriplettNegotiatesToJoinBus",
+    "description": "Agent Triplett appeals to Coulson for a spot aboard the Bus, asserting his loyalty despite guilt by association with Garrett. Simmons and Triplett argue for his inclusion, and Coulson finally relents, giving Triplett a chance to prove himself. The team continues prepping for flight, dealing with fuel shortages and the reality of S.H.I.E.L.D.'s collapse.",
+    "roles": [
+        "antoine_triplett",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "So, you guys are all set to go?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Appreciate your help."
+        },
+        {
+            "character": "Triplett",
+            "line": "Enough to give me a bunk? seeing as you guys are down a specialist, I was hoping I could hitch a ride."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not gonna happen. But feel free to commandeer one of Hand's vehicles."
+        },
+        {
+            "character": "Triplett",
+            "line": "I'm sorry. Is there a problem?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No problem. Just not letting you on my plane."
+        },
+        {
+            "character": "Triplett",
+            "line": "Garrett had me fooled, same as everyone else."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone else wasn't at his side day in, day out."
+        },
+        {
+            "character": "Triplett",
+            "line": "Friends of mine are dead because of him... good friends."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think he should come with us, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Duly noted, Agent Simmons. But this isn't a democracy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Isn't it? Under the circumstances, I think we should all have a say in this, and I witnessed Agent Triplett willing to die in defense of S.H.I.E.L.D. Respectfully, sir, I think he should come along with us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. But Agent Triplett is your responsibility."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to disappear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa. Only S.H.I.E.L.D. helicarriers have cloaking technology."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then how do we avoid detection?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't. Best we can do is stay out of other aircraft's radar and remain in flight for as long as possible. Minute we land, harder it is to hide."
+        },
+        {
+            "character": "Coulson",
+            "line": "Great. How are we doing on supplies?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're all stocked up on medical, but I'm afraid our food rations will only last a couple of days, at best."
+        },
+        {
+            "character": "Coulson",
+            "line": "Perfect."
+        },
+        {
+            "character": "Triplett",
+            "line": "Bad news."
+        },
+        {
+            "character": "Coulson",
+            "line": "No kidding."
+        },
+        {
+            "character": "Triplett",
+            "line": "Fuel line's busted. We're leaking."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can we fix it?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Sure. Soon as we touch down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Awesome. Skye, please, tell me something good."
+        }
+    ]
+}

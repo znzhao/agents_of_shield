@@ -1,0 +1,43 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 17,
+    "scene_name": "NadeerBlackmailsMace",
+    "description": "Senator Nadeer confronts Mace with evidence of S.H.I.E.L.D. working with Quake and Robbie, threatening to expose Ghost Rider's actions in the prison to the media. She makes it clear she intends to use this to damage Mace and S.H.I.E.L.D.'s reputation, ending the episode on a suspenseful note.",
+    "roles": [
+        "jeffrey_mace"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Don't see why this couldn't have been a phone call."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Never underestimate the power of human connection. Or should I say “Inhuman”?"
+        },
+        {
+            "character": "Mace",
+            "line": "Hmm."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Either way, congratulations on those poll numbers."
+        },
+        {
+            "character": "Mace",
+            "line": "I have you to thank. You gave me no option but to tell the truth."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Speaking of the truth, I went looking for some, and guess what I found? This is S.H.I.E.L.D. working with a former Agent, now known as Quake, a walking weapon of mass destruction. This one was new to me. New to you, too, I see. We're not sure what the hell he is, but we do know he's a cold-blooded killer. Santino Noguera... a model prisoner looking at early release. That is, until he ran into whatever that... thing is. We know he came in with S.H.I.E.L.D., and he left with S.H.I.E.L.D. So tell me, are your people aware they're harboring a murderer, or do they just not care? In two hours, these will go to ABC News, just in time for this evening's broadcast. How do you think those poll numbers will hold up?"
+        },
+        {
+            "character": "Mace",
+            "line": "What do you want?"
+        }
+    ]
+}

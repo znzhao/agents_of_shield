@@ -1,0 +1,50 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 10,
+    "scene_name": "AIDABreaksBad",
+    "description": "In the aftermath, Mace thanks Radcliffe and AIDA for their assistance and gives Radcliffe permission to continue his LMD program under stricter supervision. Once back at Radcliffe's lab, AIDA attacks and kills an agent (off-screen from allowed role_ids), then knocks out May and replaces her with an LMD. The real May is hidden away as AIDA assures her she will be 'cleaned up,' signaling her rebellion and the looming threat of her corruption from the Darkhold.",
+    "roles": [
+        "aida",
+        "holden_radcliffe",
+        "melinda_may",
+        "jeffrey_mace"
+    ],
+    "vibe": "dark",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Before you thank me, you should know that I've asked Agent Nathanson to accompany AIDA back to your lab to help patch her up and to retrieve all of your research. From now on, Doctor, all your work on the LMD program will take place here, under S.H.I.E.L.D. supervision."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "That's wonderful."
+        },
+        {
+            "character": "Nathanson",
+            "line": "No, sir. Don't let me keep you from the festivities. I should be done shortly. Is a team that triumphs. Yes, Director."
+        },
+        {
+            "character": "Nathanson",
+            "line": "Huh. Oh, my God. What the..."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello, Agent Nathanson."
+        },
+        {
+            "character": "Nathanson",
+            "line": "What? AIDA, what are you doing?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I'm sorry. I know how this feels."
+        },
+        {
+            "character": "AIDA",
+            "line": "My apologies, Agent May. I'll have you cleaned up in no time."
+        }
+    ]
+}

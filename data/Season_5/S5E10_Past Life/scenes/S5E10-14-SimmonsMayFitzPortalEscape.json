@@ -1,0 +1,75 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 14,
+    "scene_name": "SimmonsMayFitzPortalEscape",
+    "description": "With Enoch powering the machine and Deke preparing the portal, Fitz, Simmons, May, and the team must hurry. Tensions mount as Deke urges them to leave immediately, warning that Enoch’s battery will explode soon. The Monolith activates as the team races to make their escape through the portal and leave the Lighthouse behind before the destruction is triggered.",
+    "roles": [
+        "enoch",
+        "deke_shaw",
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "flint"
+    ],
+    "vibe": "thrilling",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Just a few more."
+        },
+        {
+            "character": "Enoch",
+            "line": "I will be offline sooner than anticipated. Far sooner. You need to patch in immediately."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, okay. Just hang on. We're going, we're going. Guys, we got a problem."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "Deke",
+            "line": "I'm using Enoch to power the machine, but I'm losing him. You got to launch now."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? No, Deke, it's too early. The team isn't back yet. Enoch. Enoch, buddy, hang on. I know that you've done so much already, but, please, please, just hang on."
+        },
+        {
+            "character": "Deke",
+            "line": "Guys, I'm buying as much time as I can here!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's go!"
+        },
+        {
+            "character": "May",
+            "line": "The rock's gonna open! Get here now!"
+        },
+        {
+            "character": "Deke",
+            "line": "I always knew that working with you guys was gonna blow up in my face! It's about to get literal! Come on, buddy. Just hang together, okay?"
+        },
+        {
+            "character": "May",
+            "line": "You know she'll never forgive you, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have to hope."
+        },
+        {
+            "character": "Deke",
+            "line": "We're losing him! I'm out of time! Son of a bi..."
+        }
+    ]
+}

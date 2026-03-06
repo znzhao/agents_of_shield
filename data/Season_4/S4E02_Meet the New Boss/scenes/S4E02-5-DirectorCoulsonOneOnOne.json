@@ -1,0 +1,28 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "DirectorCoulsonOneOnOne",
+    "description": "Mace keeps Coulson back for a private conversation, tasking him with helping secure government funding for S.H.I.E.L.D. while recognizing Coulson’s expertise and loyalty. Mace alludes to the delicate balance of trust and the agency’s future. Coulson reluctantly agrees to assist.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "There's an issue I'd like to discuss with Agent Coulson alone. Could you give us a minute? And, Agent May... I can tell you're the one to keep an eye on. Melinda May. Now, there's a riddle I'd like to solve."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good luck with that."
+        },
+        {
+            "character": "Mace",
+            "line": "Phil... I got a special assignment for you."
+        }
+    ]
+}

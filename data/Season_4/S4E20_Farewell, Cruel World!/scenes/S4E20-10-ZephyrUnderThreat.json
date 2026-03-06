@@ -1,0 +1,160 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 10,
+    "scene_name": "ZephyrUnderThreat",
+    "description": "Back on Zephyr One, Elena and the crew monitor the status of those inside the Framework. Their anxiety spikes when they detect incoming Russian fighter jets belonging to Ivanov. With anti-aircraft guns offline to save power, the crew realize their only hope lies in Daisy and Simmons escaping the Framework soon.",
+    "roles": [
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Any changes? Oh, my God."
+        },
+        {
+            "character": "Piper",
+            "line": "He's still alive. You have to believe that."
+        },
+        {
+            "character": "Elena",
+            "line": "I know. I just feel so useless. Mack needs my help, and I'm here doing nothing."
+        },
+        {
+            "character": "Piper",
+            "line": "You're on a fugitive aircraft whose power's being drained by a machine plugged into an alternate reality. So I-I'm pretty sure you get a pass."
+        },
+        {
+            "character": "Prince",
+            "line": "Guys, we got company."
+        },
+        {
+            "character": "Davis",
+            "line": "Radar's detecting a Russian Su-27 headed our way."
+        },
+        {
+            "character": "Piper",
+            "line": "Ivanov. We should've stayed cloaked."
+        },
+        {
+            "character": "Davis",
+            "line": "You think?"
+        },
+        {
+            "character": "Elena",
+            "line": "We need to defend ourselves. How do we do that?"
+        },
+        {
+            "character": "Prince",
+            "line": "We got antiaircraft guns, but without power, we can't control them."
+        },
+        {
+            "character": "Davis",
+            "line": "Damn it, man. Those girls better get the hell out of that dream world, or we're all going down with them."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey. We all good?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Ready when you are."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. We just can't leave without her."
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons. You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I was trying to save Fitz."
+        },
+        {
+            "character": "Skye",
+            "line": "Please tell me that's not his blood."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it's f-from his father. I I killed him."
+        },
+        {
+            "character": "Skye",
+            "line": "That's... That's okay. Fitz's dad is just an avatar. You didn't kill anyone. You just made some ones and zeroes disappear."
+        },
+        {
+            "character": "Simmons",
+            "line": "But Fitz won't come with us now. We've lost him."
+        },
+        {
+            "character": "Skye",
+            "line": "No, we haven't. We will figure something out, but first, we have to get back to the real world before AIDA makes us disappear. Okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Where's Leopold?"
+        },
+        {
+            "character": "Woman",
+            "line": "Well, there's been a situation. The Doctor's father he's been murdered."
+        },
+        {
+            "character": "Ophelia",
+            "line": "What?"
+        },
+        {
+            "character": "Woman",
+            "line": "The details are still coming in, but it appears to have been the work of a S.H.I.E.L.D. terrorist."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Simmons."
+        },
+        {
+            "character": "Woman",
+            "line": "I'm so sorry, Madame. I know how much Dr. Fitz's father meant to you."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Where is Leopold now?"
+        },
+        {
+            "character": "Woman",
+            "line": "Uh, he's taken a team to hunt down his father's killer."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Send word that I want them to terminate their mission and return to the Triskelion immediately."
+        },
+        {
+            "character": "Man",
+            "line": "We've just received orders from Madame Hydra to abort the mission."
+        },
+        {
+            "character": "Doctor",
+            "line": "Message received."
+        },
+        {
+            "character": "Man",
+            "line": "Instruct Jennings to re-route this plane."
+        },
+        {
+            "character": "Doctor",
+            "line": "Do no such thing. We will return only after my father's murderer has been found. Is that understood?"
+        },
+        {
+            "character": "Man",
+            "line": "Yes, sir. My apologies."
+        }
+    ]
+}

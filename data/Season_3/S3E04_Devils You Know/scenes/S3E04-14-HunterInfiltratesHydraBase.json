@@ -1,0 +1,61 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 14,
+    "scene_name": "HunterInfiltratesHydraBase",
+    "description": "Hunter is picked up and processed by Kebo on his way to Hydra’s base, forced into the trunk of the car en route. Upon arrival, Hunter interacts with Ward, exchanges taunts, and prepares to execute his plan. The tension builds as May makes her entrance, escalating the stakes for the coming confrontation with Ward and his men.",
+    "roles": [
+        "lance_hunter",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Clearly, punctuality ain't one of HYDRA's core values."
+        },
+        {
+            "character": "Kebo",
+            "line": "Funny. Hands on the car."
+        },
+        {
+            "character": "Hunter",
+            "line": "I thought we were past all that."
+        },
+        {
+            "character": "Kebo",
+            "line": "Got to make sure you're clean, director's orders."
+        },
+        {
+            "character": "Hunter",
+            "line": "Director?"
+        },
+        {
+            "character": "Kebo",
+            "line": "It's a thing with the bos, some kind of S.H.I.E.L.D. nonsense. In you go, Richy."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, I ain't getting in the bloody boot. It stinks of rotten bananas in there."
+        },
+        {
+            "character": "Kebo",
+            "line": "It does, doesn't it?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Always in the bloody boot."
+        },
+        {
+            "character": "Kebo",
+            "line": "Get comfy, now. It's gonna be a long ride."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, when you say long, how ..."
+        }
+    ]
+}

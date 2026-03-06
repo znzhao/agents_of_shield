@@ -1,0 +1,155 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 15,
+    "scene_name": "CoulsonTalbotEscapeWithCreel",
+    "description": "In the basement of the symposium facility, Coulson and Talbot are placed in holding after Malick's betrayal. Talbot reveals Malick took his son to guarantee his cooperation. Creel bursts in, dispatches Hydra guards, and frees Coulson and Talbot. Armed with severed handprints, they resolve to save Talbot's son and bring down Malick, reuniting with Hunter and Bobbi in the halls as chaos erupts in the facility.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "carl_creel",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "action-packed",
+    "location": "Symposium on the Alien Contagion (Taiwan)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You gentlemen interested in changing jobs? Good guys are hiring. You don't get to kill people in cold blood, but we got a really good retirement plan. Where's your boss? Didn't have the guts to do this himself?"
+        },
+        {
+            "character": "Malick",
+            "line": "Yes. But I also have money to pay people to do my menial jobs."
+        },
+        {
+            "character": "Talbot",
+            "line": "All right, I kept my end of the bargain. I delivered Coulson. All the delegates are on your side. Now give me back my son."
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick, you son of a bitch."
+        },
+        {
+            "character": "Malick",
+            "line": "I'm sorry. I can't do that."
+        },
+        {
+            "character": "Talbot",
+            "line": "No. We had a deal!"
+        },
+        {
+            "character": "Malick",
+            "line": "Yes, but, unfortunately, you must all be sacrificed to the greater good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why go to all this trouble?"
+        },
+        {
+            "character": "Malick",
+            "line": "I'm building an army."
+        },
+        {
+            "character": "Coulson",
+            "line": "And another army will stand to fight them. You won't be able to convert them all."
+        },
+        {
+            "character": "Malick",
+            "line": "I won't have to. Kill them."
+        },
+        {
+            "character": "Talbot",
+            "line": "Do me a favor and shoot him first. I'd like one moment of peace before I go."
+        },
+        {
+            "character": "Coulson",
+            "line": "You didn't know he was gonna double-cross you? He is HYDRA, just sayin'."
+        },
+        {
+            "character": "Talbot",
+            "line": "I knew he's... do you think I don't know? Do you think I'm stupid?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Then what are you doing in here? Doesn't seem like a very smart plan."
+        },
+        {
+            "character": "Talbot",
+            "line": "I have an inside man. Like I said, I trust him with my life. Where's my son?"
+        },
+        {
+            "character": "Creel",
+            "line": "He's still with HYDRA. Hunter found him, but he almost blew my cover. I had to hurt him. A little."
+        },
+        {
+            "character": "Talbot",
+            "line": "Come on. Open this thing up. Bust these cuffs off us."
+        },
+        {
+            "character": "Creel",
+            "line": "Go on! Get out of here!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Give me a hand!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Got it! Let's go!"
+        },
+        {
+            "character": "Talbot",
+            "line": "What do you want to do with this hand? It's kind of freaking me out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop, stop. Give me that. Why didn't you tell me Malick had George?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I couldn't. He took him as soon as I was appointed to the ATCU. Told me he'd kill him with the push of a button if I told anybody. He's the kind of guy who would do exactly that."
+        },
+        {
+            "character": "Coulson",
+            "line": "And Carla?"
+        },
+        {
+            "character": "Talbot",
+            "line": "She knows. She blames me. I sent her someplace safe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. We're gonna fix this. We're gonna fix everything."
+        },
+        {
+            "character": "Hunter",
+            "line": "Were we the only ones that got the “no weapons” memo?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'm bored of this. Cover me."
+        },
+        {
+            "character": "Hunter",
+            "line": "We're in the conference room. No sign of Coulson or Tal... That doesn't make us even."
+        },
+        {
+            "character": "Talbot",
+            "line": "Creel! Where's my son? Where's my son?!"
+        },
+        {
+            "character": "Man",
+            "line": "I don't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to find Malick. There's only one road between here and the airfield, so there's a chance he hasn't left. If you find him, stay with him. I want to know where he's going. The rest of us will focus on trying to find Talbot's son."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, Coulson, about that."
+        }
+    ]
+}

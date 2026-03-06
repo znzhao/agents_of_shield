@@ -1,0 +1,124 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 8,
+    "scene_name": "SimmonsAccostedByHydra",
+    "description": "Jemma Simmons tries to foster camaraderie among her fellow Hydra scientists but is abruptly summoned for questioning by Sunil Bakshi. She faces an accusatory interrogation about her relationship to Donnie Gill and her past with S.H.I.E.L.D. Bakshi pressures her to demonstrate loyalty to Hydra as Simmons tries to maintain her cover, anxious but determined.",
+    "roles": [
+        "jemma_simmons",
+        "sunil_bakshi"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Make friends. Mr. Turgeon, hello! I was thinking of going over to salties. Happy hour and karaoke could be a load of..."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Uh, Ms. Simmons..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Call me Jemma."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Jemma, you are wanted upstairs for questioning."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is this regarding my analysis..."
+        },
+        {
+            "character": "Turgeon",
+            "line": "It's a security matter. Uh, yes. These men will escort you. What did you do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Nothing. I haven't done anything."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Well, then I'm sure you have nothing to worry about."
+        },
+        {
+            "character": "Man",
+            "line": "Madam, come with us."
+        },
+        {
+            "character": "Computer",
+            "line": "Floor number 25."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Ms. Simmons. Have a seat. Leave us. Stay close... in case there are consequences. You've been lying to us, Ms. Simmons. Not long ago, you were a level 5 S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, before S.H.I.E.L.D.'s fall. I was candid about my work history."
+        },
+        {
+            "character": "Bakshi",
+            "line": "You left things out."
+        },
+        {
+            "character": "Simmons",
+            "line": "If I did, it wasn't intentional."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Stop... lying. You've been doing cellular analysis for project Blizzard, yet didn't inform your supervisor that you knew the subject."
+        },
+        {
+            "character": "Simmons",
+            "line": "I didn't realize it was Gill until yesterday, when I saw a photo in Kenneth's file. I-I would have said something..."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Yet you didn't. What else... are you hiding?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I didn't want to corrupt my analysis... analysis which I'd done before I knew who it was. I-I barely knew him."
+        },
+        {
+            "character": "Bakshi",
+            "line": "You saved his life."
+        },
+        {
+            "character": "Simmons",
+            "line": "Only because I happened to be at the academy giving a le... a lecture."
+        },
+        {
+            "character": "Bakshi",
+            "line": "You seem nervous."
+        },
+        {
+            "character": "Simmons",
+            "line": "Because I am. I was escorted here by armed guards. I'm well aware of who I work for."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Hmm. Let's discuss your previous employer. Why did you join S.H.I.E.L.D. in the first place?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I was a 17-year-old girl with two Phds and a million questions. S.H.I.E.L.D. had the resources to help me answer them. Now they don't, and Hydra does."
+        },
+        {
+            "character": "Bakshi",
+            "line": "So your loyalties are with us?"
+        },
+        {
+            "character": "Simmons",
+            "line": "My loyalties are with science. So long as Hydra allows me to do the work I want to be doing, then, yes, my loyalties are with Hydra."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Well, loyalties can be tested."
+        }
+    ]
+}

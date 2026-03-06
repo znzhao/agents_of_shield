@@ -1,0 +1,87 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 11,
+    "scene_name": "GarrettBetrayedBombsImminent",
+    "description": "The situation grows dire as Garrett realizes Malick has left him for dead and won't disable the bombs, despite Garrett pleading for more time. Coulson, May, and Elena work together to protect themselves, but the explosion traps them under debris. Coulson chooses to help save his enemy, signifying the motifs of trust and betrayal.",
+    "roles": [
+        "john_garrett",
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez",
+        "nathaniel_malick"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "Thought you'd be back by now. Those bombs are gonna blow in a minute or two."
+        },
+        {
+            "character": "Garrett",
+            "line": "Funny story. That's what I'm calling about. I'm gonna need you to deactivate those bad boys."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Wow. You know, I'd love to, but that's not what the plan is. The plan is for you to demolish the Lighthouse."
+        },
+        {
+            "character": "Garrett",
+            "line": "100%. Totally on board with that. I just need a little more time... 10 minutes tops. Otherwise, if this baby blows, I'm gonna blow."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Then I'm gonna take this opportunity, in case I don't see you again, to thank you for your service."
+        },
+        {
+            "character": "Garrett",
+            "line": "Son of a bitch."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no time to get to the surface."
+        },
+        {
+            "character": "Elena",
+            "line": "May?! Coulson?! Hello?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need a hand... over here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Help me with May. Can you stand?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks."
+        },
+        {
+            "character": "Elena",
+            "line": "I moved all the bombs to one place, hoping the whole structure wouldn't collapse."
+        },
+        {
+            "character": "May",
+            "line": "What about Garrett?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to stop the bleeding."
+        },
+        {
+            "character": "May",
+            "line": "Do we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's our best chance to help our friends in space."
+        }
+    ]
+}

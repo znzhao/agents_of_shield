@@ -1,0 +1,96 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 4,
+    "scene_name": "CoulsonSeeksFuryInfo",
+    "description": "Coulson attempts to get information on Director Fury's whereabouts but is stonewalled, highlighting his increasing frustration and isolated position. May delivers new S.H.I.E.L.D. orders involving Asgardian-related phenomena at the Nevada-California border, setting the team’s next mission in motion. The mood is stressed and urgent as unknown dangers loom.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "No! Don't give it to her!"
+        },
+        {
+            "character": "Sitwell",
+            "line": "You know, usually, when a friend wants a favor, they do something nice... takes me to a nice restaurant, buys me a bottle of wine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Want to go to a movie, hold hands? Okay. But I need to ask you a question first."
+        },
+        {
+            "character": "Sitwell",
+            "line": "I don't know where Director Fury is. Don't be so shocked. For a quiet guy, you make a lot of noise. How many favors have you called in?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Clearly, not enough."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Something I can help you with? Fine. But Fury is a high-level agent who's off-grid. You don't find him unless he wants to find you. You did something like that once, too. Remember? I never asked you. How was Tahiti?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It sucked."
+        },
+        {
+            "character": "May",
+            "line": "New orders. S.H.I.E.L.D.'s detecting massive energy readings in the skies above the California/Nevada border."
+        },
+        {
+            "character": "Ward",
+            "line": "Where's Agent Coulson?"
+        },
+        {
+            "character": "May",
+            "line": "Taking personal time."
+        },
+        {
+            "character": "Ward",
+            "line": "That's a couple days straight."
+        },
+        {
+            "character": "Simmons",
+            "line": "These are the same readings Dr. Selvig and Dr. Foster picked up in New Mexico and in London. They herald the arrival of an Asgardian."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thor."
+        },
+        {
+            "character": "May",
+            "line": "Not sure. Either way, S.H.I.E.L.D. wants us to be the welcome wagon."
+        },
+        {
+            "character": "Fitz",
+            "line": "O-okay. Fine. No cause for concern, right? Asgardians are allies."
+        },
+        {
+            "character": "Ward",
+            "line": "Loki wasn't."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we're definitely getting close, but it's a bit of a crap shoot. This is still science we don't completely understand."
+        },
+        {
+            "character": "Ward",
+            "line": "Seems to be a lot of that going around lately. So, Coulson hasn't talked to you about why he changed his mind on giving Skye that injection?"
+        },
+        {
+            "character": "May",
+            "line": "No. He's keeping it to himself."
+        }
+    ]
+}

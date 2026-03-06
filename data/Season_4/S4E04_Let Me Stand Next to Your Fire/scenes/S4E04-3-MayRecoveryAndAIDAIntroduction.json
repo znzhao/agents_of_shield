@@ -1,0 +1,293 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 3,
+    "scene_name": "MayRecoveryAndAIDAIntroduction",
+    "description": "May recovers at Dr. Radcliffe’s house under the attentive care of AIDA, who is introduced to May as Radcliffe's assistant. Radcliffe discusses her recovery and the risky procedure recently performed to cure her, revealing he had to stop her heart. May is frustrated at her confinement but is told it’s necessary for follow-up testing. The scene further establishes AIDA's presence and Radcliffe's unconventional approaches.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "suspenseful",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "Let me get that for you, Agent May. Apologies. That must have been annoying."
+        },
+        {
+            "character": "May",
+            "line": "Incredibly. Oh, speaking of which..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You seem to be feeling better, Agent May. No doubt in part to the care AIDA has given to you. AIDA's my assistant. She's been tending to you since... since the procedure."
+        },
+        {
+            "character": "May",
+            "line": "Procedure?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Dr. Radcliffe stopped your heart for seven minutes in order to reboot your central nervous system."
+        },
+        {
+            "character": "May",
+            "line": "You did what?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, in order to quell the hyperactivity in your reticular activating system, we had to... very carefully, gently... kill you. Just a little bit."
+        },
+        {
+            "character": "May",
+            "line": "I died."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, and came back."
+        },
+        {
+            "character": "May",
+            "line": "Killed by Radcliffe."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "All in a good cause. And hopefully, we've learned a great deal that will help us cure others who have been similarly affected."
+        },
+        {
+            "character": "May",
+            "line": "By killing them?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, no. Well, hopefully not. Agent Fitz and I are working on a chemical solve for this... ghost virus. But to do so, we need to run a few more tests."
+        },
+        {
+            "character": "May",
+            "line": "You're saying I can't leave."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Soon. We're close. But Aida will be on hand to help with further testing and to take care of your needs."
+        },
+        {
+            "character": "AIDA",
+            "line": "You can trust me with your life, Agent May."
+        },
+        {
+            "character": "Simmons",
+            "line": "Whoever took this bullet out did an awful job."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't get an “A” for effort?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You haven't been to a proper doctor?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You're hard to get an appointment with."
+        },
+        {
+            "character": "Simmons",
+            "line": "I knew this place was too good to be true. You've been tracking my search history."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, you were always a sucker for a breakfast nook. But don't worry... The place is yours. And it's rent-controlled now, so..."
+        },
+        {
+            "character": "Simmons",
+            "line": "You really should not have..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, yeah. You also searched for double-vanity sinks. Things with Fitz must be going well."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Though moving in together will put it to the test, I'm sure."
+        },
+        {
+            "character": "Daisy",
+            "line": "It'll be great. I'm really happy for you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you now? Oh, self-medicating. Those bone-restoration pills you've been stealing don't relieve pain. Are you using your arm gauntlets? They don't work perfectly, but we specifically designed them so that they..."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're not exactly incognito. Stop mothering me, please."
+        },
+        {
+            "character": "Simmons",
+            "line": "There. Now you can get back to Lone Rangering or whatever it is you've been doing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not yet. I didn't come to you just for the Band-Aids. I thought I'd kill two birds with one stone."
+        },
+        {
+            "character": "Simmons",
+            "line": "Am I the bird or the stone? These are..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Inhuman asset numbers and GPS coordinates."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why do you have these?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Snagged them from a group of Watchdogs on my way here. Got a bullet for my trouble. They're hacking into S.H.I.E.L.D. servers. That's how they find their victims."
+        },
+        {
+            "character": "Simmons",
+            "line": "Impossible. S.H.I.E.L.D. servers are more secure now than they've ever been. They're held offline in protected government facilities to..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Keep out people like me? Yeah, well, they're getting in somehow. And... I need you to do the same for me."
+        },
+        {
+            "character": "Simmons",
+            "line": "You want me to help you hack my own organization?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons, they're targeting Inhumans. They are murdering us."
+        },
+        {
+            "character": "Simmons",
+            "line": "There are protocols, Daisy. I take mandatory lie-detection tests. I can't just voluntarily aid a wanted vigilante."
+        },
+        {
+            "character": "Daisy",
+            "line": "What if it wasn't voluntary?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I've missed you, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's hard to lose people you care about. Believe me, I know. Somewhere along the way, something went wrong, and colleagues of yours, friends of yours, died."
+        },
+        {
+            "character": "Morrow",
+            "line": "I'd like to keep the past where it is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, unfortunately, your past has come back to haunt you. Because your colleagues... Turns out they didn't die that day."
+        },
+        {
+            "character": "Morrow",
+            "line": "What the hell are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're alive, and they've gained abilities. Abilities they're using to hurt people."
+        },
+        {
+            "character": "Morrow",
+            "line": "That doesn't make any sense. Well, that's usually when I enter the picture. I'm hoping you can help me understand."
+        },
+        {
+            "character": "Morrow",
+            "line": "Look, this is, uh... I don't want to get involved. I have to move on with my life."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any detail, even if it seems small, could lead us to something. I can't talk to the only other person related to this case because you put them in a coma. You're all I've got. Just point me in a direction."
+        },
+        {
+            "character": "Morrow",
+            "line": "There's a direction for you."
+        },
+        {
+            "character": "Mack",
+            "line": "Stonewalled?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Is it all over my face? It was a first attempt. I didn't think he'd be the trusting type. Besides, it's not easy to find out your colleagues are back from the dead."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I can imagine. No way."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's him, the matchstick guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "From Momentum Lab?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, get in the car. I'm driving."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, hell no."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you weigh, 210, 220?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's not the extra weight. It's your driving. You should've let me take the wheel!"
+        },
+        {
+            "character": "Coulson",
+            "line": "My car. I drive. You wouldn't fit behind the wheel anyway."
+        },
+        {
+            "character": "Coulson",
+            "line": "Duck!"
+        },
+        {
+            "character": "Mack",
+            "line": "No, no, no, no, no!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, you're gonna have to do better than that."
+        },
+        {
+            "character": "Mack",
+            "line": "Can't be a standard Magnum under the hood. That's got to be at least a 426 Hemi."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe admire his car after we catch him. What do you think?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we'll never catch him. I told you, you should've let me fix the flight functionality in this thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't worry. It's not gonna be a problem this time."
+        },
+        {
+            "character": "Coulson",
+            "line": "I get his car now, right? Isn't that how this works?"
+        }
+    ]
+}

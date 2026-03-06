@@ -1,0 +1,53 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "StruckerSeeksHelpFromMalick",
+    "description": "Werner von Strucker, on the run and wounded, seeks refuge and guidance from Gideon Malick, lamenting his failed mission for Ward. Malick criticizes Ward's risky use of unprepared assets, offers reassurance to Strucker, and hints that he will \"handle everything.\" This builds the episode's political intrigue and sets up Malick's role in manipulating events.",
+    "roles": [],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Strucker",
+            "line": "He's a monster."
+        },
+        {
+            "character": "Malick",
+            "line": "You were right to ask me to come."
+        },
+        {
+            "character": "Strucker",
+            "line": "I didn't know where else to turn. I figured you and my father must've dealt with guys like Ward all the time. Ward is... I didn't finish the mission. He won't care why."
+        },
+        {
+            "character": "Malick",
+            "line": "If you put an untested youth in play without proper training, it's foolish. Boggles the mind, really. Your father understood protecting assets was more important than flaunting them."
+        },
+        {
+            "character": "Strucker",
+            "line": "He never let me in on that stuff. You were nicer to me than he was."
+        },
+        {
+            "character": "Malick",
+            "line": "Your father was a great man. Trust me. We would've never put up with such things."
+        },
+        {
+            "character": "Strucker",
+            "line": "You don't know this guy Ward. He's scary."
+        },
+        {
+            "character": "Malick",
+            "line": "I'm aware of Grant Ward. He was once an untested youth, too. Everyone has a history."
+        },
+        {
+            "character": "Strucker",
+            "line": "So does that mean you'll help me?"
+        },
+        {
+            "character": "Malick",
+            "line": "I'll handle everything."
+        }
+    ]
+}

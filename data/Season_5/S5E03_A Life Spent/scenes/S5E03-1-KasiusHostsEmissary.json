@@ -1,0 +1,56 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "KasiusHostsEmissary",
+    "description": "Kasius receives a visiting emissary on behalf of Lady Basha, learning she will not join him for dinner but will attend the ceremony. Despite being snubbed, Kasius resolves to impress her and tasks Simmons with preparing Abby, a young Inhuman, for the event. The tension around the expectations for the ceremony is palpable.",
+    "roles": [
+        "kasius",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "The print is considered quite fashionable in the capitol. Sinara. Ah. I knew our esteemed guest couldn't bear to wait any longer."
+        },
+        {
+            "character": "Emissary",
+            "line": "Kasius, how kind of you to arrange such a warm welcome."
+        },
+        {
+            "character": "Kasius",
+            "line": "Just an everyday affair. Would you like a drink? The Terrans call it martini. Fermented sugars and the like."
+        },
+        {
+            "character": "Emissary",
+            "line": "I'm here on behalf of the Lady Basha. She sends her regrets."
+        },
+        {
+            "character": "Kasius",
+            "line": "Mm. Well, perhaps if she knew how we prepared the best of Earth's cuisine..."
+        },
+        {
+            "character": "Emissary",
+            "line": "She prefers dining on her own ship. She means no disrespect."
+        },
+        {
+            "character": "Kasius",
+            "line": "No. Surely, none taken."
+        },
+        {
+            "character": "Emissary",
+            "line": "Of course, Lady Basha very much looks forward to the ceremony. She has high expectations."
+        },
+        {
+            "character": "Kasius",
+            "line": "To be exceeded. Tye, you now have the opportunity to give me good news about our ceremony."
+        },
+        {
+            "character": "Kasius",
+            "line": "Jemma, we have a problem. And for your sake, I pray you can fix it."
+        }
+    ]
+}

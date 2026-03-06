@@ -1,0 +1,84 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 7,
+    "scene_name": "DekeArguesWithDaisyOnMissionEthics",
+    "description": "Deke and Daisy debate the tough ethical choices of their mission, with Deke struggling over his near-decision to kill Freddy Malick and Daisy emphasizing the stakes of preventing Hydra's rise. Their conversation highlights the moral complexity of their mission in the past. Daisy recognizes that Sousa's arrival at Area 51 adds a new variable to their situation.",
+    "roles": [
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Things got messy with you and Mack."
+        },
+        {
+            "character": "Daisy",
+            "line": "This is all messy."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, maybe next time you feel you have to make a “tough call”, don't put it on me to commit a murder."
+        },
+        {
+            "character": "Daisy",
+            "line": "An agent has to take orders, and it isn't always fun."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, from my commander. Not from you."
+        },
+        {
+            "character": "Daisy",
+            "line": "I outrank you, and if you want to get technical..."
+        },
+        {
+            "character": "Deke",
+            "line": "Daisy, he was a kid."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't expect you to understand, but Wilfred Malick isn't some innocent kid. He's... He's, like... He... He's like the grand wizard of Hydra."
+        },
+        {
+            "character": "Deke",
+            "line": "Grand wizard sounds cool."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's not. It's bad. Hydra is very bad. And right now, in this time, every government and corporate entity in the country is being infiltrated by them, and it all ends in horror. One death, one death could have saved countless lives..."
+        },
+        {
+            "character": "Deke",
+            "line": "A death that I'd be responsible for."
+        },
+        {
+            "character": "Daisy",
+            "line": "And now we're responsible for more. You didn't used to shy away from this."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't... That's not fair. I'm not... Look, I'm not the guy that you met in the Lighthouse. Not anymore. And I don't want to be."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Daniel Sousa."
+        },
+        {
+            "character": "Deke",
+            "line": "Who's that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He's Peggy Carter's old partner."
+        }
+    ]
+}

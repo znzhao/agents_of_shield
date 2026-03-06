@@ -1,0 +1,116 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 5,
+    "scene_name": "CoulsonAndLincolnDiscussDestiny",
+    "description": "Coulson and Lincoln seek more information on Charles Hinton and his family, reflecting on the nature of Inhuman abilities and destiny. They discover Charles' last known address and evidence that he tried to distance himself from family to protect them from his visions. They dispatch a team to learn more, deepening the emotional stakes of the mission.",
+    "roles": [
+        "phil_coulson",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Got to admit, this time stuff's always been a little over my head. Like in “Terminator,” if John Connor's alive and able to send his friend back in time to save his mom to make sure he's born, doesn't that mean he doesn't have to?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I, uh, I never saw the original “Terminator.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're off the team."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What's... What's tripping me out is that we only knew to try to save the guy because he heard Daisy's name when we went to try to save the guy. I know, right? But that's what makes me think it happened for a reason. It's design."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sure. We're all part of some grand plan. Only problem is, we never know what the plan is."
+        },
+        {
+            "character": "Lincoln",
+            "line": "No, I-I mean, Inhumans were designed. And our powers were designed not to be random, but to fill a need, a gap that's missing. So Raina..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everything she said came true."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yes, but because of that, Daisy was able to stop Jiaying. Daisy will be able to help this guy Charles, whoever he is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Change the outcome? I hope so. Your face was covered in blood. That's him. Charles Hinton. Last known address. Sadly, it looks like Charles did not live alone. Send a team."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I wouldn't worry about me, sir. You should worry about yourself."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because Daisy saw me shoot her?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Because I'd kill you if you did."
+        },
+        {
+            "character": "Charles",
+            "line": "I was hoping you could help."
+        },
+        {
+            "character": "Daisy",
+            "line": "There... There's a red metal staircase nearby. It's a rooftop, 20 stories, at least. And the light was weird, maybe a... a... a flashing billboard behind me? I wish I could remember more clearly. They're probably taking him there now. And whatever bad thing happens, I feel like it happens tonight."
+        },
+        {
+            "character": "May",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm trying to find the building. I've retasked the S.H.I.E.L.D. servers to search for keywords we're feeding in."
+        },
+        {
+            "character": "May",
+            "line": "Not all the servers."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, all of them."
+        },
+        {
+            "character": "May",
+            "line": "Daisy..."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, if I'm not allowed to go on the mission myself, then I'm sure as hell gonna do everything I can from here."
+        },
+        {
+            "character": "May",
+            "line": "Not all of them! Got it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "She and I have built a similar algorithm to find Dr. Garner, and a number of the servers are running it. We're both understandably desperate to find him."
+        },
+        {
+            "character": "Fitz",
+            "line": "No worries. I'll leave those servers alone."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you think we can do it? Change the future? Every move we make changes the future. The real feat would be changing the past."
+        }
+    ]
+}

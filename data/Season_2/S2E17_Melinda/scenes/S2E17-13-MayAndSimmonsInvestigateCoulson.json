@@ -1,0 +1,54 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 13,
+    "scene_name": "MayAndSimmonsInvestigateCoulson",
+    "description": "May returns to the Playground and approaches Simmons about Coulson’s activities, including whether she knows about Theta Protocol or has been working on Deathlok tech. Together, they dig into Coulson’s recent actions and travel, uncovering numerous shell companies, mysterious spending, and secret meetings with Dr. Garner. Mack provides his theory that Coulson is building a base for powered individuals, prompting May to order Simmons to open Fury’s toolbox.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah, May! Mm. Thank God you're back. Everybody keeps leaving. They weren't too harsh on that awful ship?"
+        },
+        {
+            "character": "May",
+            "line": "No, they were very fair. In fact, they gave me command of the base."
+        },
+        {
+            "character": "Simmons",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "May",
+            "line": "It means that if our team makes contact, I answer the call. And it means we've got work to do. Were you aware that you've been working on deathlok technology?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no, you're mistaken. That's the design for a hybrid capacitor."
+        },
+        {
+            "character": "May",
+            "line": "No. It's deathlok's supercharged battery pack, and it may not be the only thing he kept from us. Did Coulson ever talk to you about a project named Theta Protocol?"
+        },
+        {
+            "character": "Simmons",
+            "line": "May, I have no idea what that is. Is that why they took Coulson down? Then what can I do?"
+        },
+        {
+            "character": "May",
+            "line": "We need to find out if they're telling the truth. I've been through a lot with Coulson. He doesn't go off the reservation without a good reason."
+        }
+    ]
+}

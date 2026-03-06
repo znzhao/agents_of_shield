@@ -1,0 +1,44 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 15,
+    "scene_name": "FlintAndTessHopefulFuture",
+    "description": "After the light from Enoch's explosion fades, Flint and Tess reflect on the team’s sacrifice and the hope they’ve rekindled for humanity. Though they mourn Deke, they note that S.H.I.E.L.D. gave them a clean slate and a second chance. They look forward to rebuilding Earth's future together, determined to fix what remains.",
+    "roles": [
+        "flint",
+        "tess"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Tess",
+            "line": "You sure Deke didn't make it out?"
+        },
+        {
+            "character": "Flint",
+            "line": "He would have been standing right in the middle of that explosion."
+        },
+        {
+            "character": "Tess",
+            "line": "Maybe he at least got the rock open. Some of them had to make it home."
+        },
+        {
+            "character": "Flint",
+            "line": "They made it back. I just know it."
+        },
+        {
+            "character": "Tess",
+            "line": "Well, in any case, we got a second chance. Our friends from S.H.I.E.L.D. gave us that, yeah? Clean slate. Future's up to us now."
+        },
+        {
+            "character": "Flint",
+            "line": "There's a lot that needs fixing."
+        },
+        {
+            "character": "Tess",
+            "line": "You're right. Here's your blueprint."
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 4,
+    "scene_name": "QovasMakesContactAndTensionsGrow",
+    "description": "Coulson and May receive a transmission from Qovas, demanding the gravitonium. Coulson bluffs about the Lighthouse’s defenses, but the team is clearly in a precarious situation. Mack and Elena have a heated conversation about mistakes, morality, and the chilling effect of the ‘future’ they’ve learned about—straining their relationship further. May and Elena share a moment about the weight of one's choices, and Elena reveals the burden of information she carries from her future self, including the dire warning that Coulson must be allowed to die.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Oh, hey. I know this guy."
+        },
+        {
+            "character": "Qovas",
+            "line": "Phil Coulson. Humanity's shield."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, I remember you, too. The lighting wasn't great, but the whole vision thing was hard to forget. Did General Hale send you?"
+        },
+        {
+            "character": "Qovas",
+            "line": "You will be dealing with me now. I'm here for what was promised. The gravitonium."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, that's gonna be a hard pass. Maybe you haven't realised it yet, but this bunker, it's apocalypse-proof. It can withstand a nuclear blast. We have years of food, water, and air."
+        },
+        {
+            "character": "Kim",
+            "line": "Is that true?"
+        },
+        {
+            "character": "May",
+            "line": "Not good food."
+        },
+        {
+            "character": "Coulson",
+            "line": "And pretty soon, the world's gonna realise there's this giant ship in its atmosphere, and I'm thinking in the current political climate, won't be long before you're blown out of the sky. Too much?"
+        },
+        {
+            "character": "Mack",
+            "line": "If you're here for the update, tell Coulson the communication relay doesn't work, either. We don't have time for this."
+        },
+        {
+            "character": "Elena",
+            "line": "We might be stuck in here for 15 years. You think you can avoid me for that long? I want to explain."
+        },
+        {
+            "character": "Mack",
+            "line": "Which part?"
+        },
+        {
+            "character": "Elena",
+            "line": "I was trying to save you."
+        },
+        {
+            "character": "Mack",
+            "line": "Not this again."
+        },
+        {
+            "character": "Elena",
+            "line": "You need to listen. You saw her. Me in the future. I spoke to her. She warned me of all of this."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't wanna hear it and I don't wanna know."
+        },
+        {
+            "character": "Elena",
+            "line": "She was trying to help us, Mack. To prevent this, to keep me from losing you. She said things..."
+        },
+        {
+            "character": "Mack",
+            "line": "And it's making you crazy. This whole future thing has got you all acting crazy. I don't want to know. I'm just trying to fix the problems right in front of me, not get my mind twisted trying to figure out what comes next."
+        },
+        {
+            "character": "Elena",
+            "line": "We already saw what comes next!"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, so you're willing to do anything, no matter who it hurts! We've been through too much. It messed you up."
+        },
+        {
+            "character": "Elena",
+            "line": "Thanks for the reminder, Mack. You don't even look at me the same."
+        },
+        {
+            "character": "Mack",
+            "line": "You know that's not what I meant."
+        },
+        {
+            "character": "Elena",
+            "line": "No wonder you're pulling away."
+        },
+        {
+            "character": "Mack",
+            "line": "You're pushing me away. You think I don't care about what happened to your arms?"
+        },
+        {
+            "character": "Elena",
+            "line": "You don't care enough. How can you not want that girl to suffer for what she did?"
+        },
+        {
+            "character": "Mack",
+            "line": "I wanted to beat her senseless, but that's not what we do! That's not us! We turn the other cheek."
+        },
+        {
+            "character": "Elena",
+            "line": "Would you say that to May? Huh? That she could've saved that little girl in Bahrain? No. Because she made the tough choice to save lives. In the Framework, you saw the alternative."
+        },
+        {
+            "character": "Mack",
+            "line": "In the future, we swore... we swore we wouldn't lose ourselves."
+        },
+        {
+            "character": "Elena",
+            "line": "I know."
+        },
+        {
+            "character": "Mack",
+            "line": "Or lose each other."
+        },
+        {
+            "character": "Elena",
+            "line": "I know. I love you. I'm doing this for you, but you need to believe me. You need to trust that I know what I'm doing. Please, Mack. You know me. You know I may run away but I always come back to where I started."
+        },
+        {
+            "character": "Mack",
+            "line": "I know. I just don't know if I'll be here when you do."
+        },
+        {
+            "character": "May",
+            "line": "Mack?"
+        },
+        {
+            "character": "Elena",
+            "line": "Um... Says the relay's done."
+        },
+        {
+            "character": "May",
+            "line": "That's all he said?"
+        },
+        {
+            "character": "May",
+            "line": "Look, I can't tell you if what you did was right or wrong. That's up to you to decide. But it doesn't just change you. It changes how people see you. And the only thing you can do is make peace with it."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm trying."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy should be back by now."
+        },
+        {
+            "character": "Elena",
+            "line": "I can't get a line out."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you should be able to get a signal in, right? What if she never made it out of our airspace at all?"
+        },
+        {
+            "character": "Elena",
+            "line": "We would know. Can't we try..."
+        },
+        {
+            "character": "Coulson",
+            "line": "What if that ship fired on them?"
+        },
+        {
+            "character": "May",
+            "line": "Daisy's fine. She's gone dark. Daisy's mission wasn't just about Robin, Polly, and Creel. She's following a lead."
+        },
+        {
+            "character": "Coulson",
+            "line": "A lead on what?"
+        },
+        {
+            "character": "May",
+            "line": "A way to keep you alive."
+        },
+        {
+            "character": "Elena",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't want that. My orders are very clear about that."
+        },
+        {
+            "character": "May",
+            "line": "If there's a chance we can save you, don't you think I'd take it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Right now, we all need saving from our new overlords out there, and our most powerful team member's gone."
+        },
+        {
+            "character": "Elena",
+            "line": "No, no, no, no, no. I killed Ruby for nothing. It didn't matter. It's all happening right now. Everything she told me."
+        },
+        {
+            "character": "Coulson",
+            "line": "“She” who?"
+        },
+        {
+            "character": "Elena",
+            "line": "This right here, this is how we lose."
+        },
+        {
+            "character": "Elena",
+            "line": "I could've warned myself about a lot of things. Ruby, Hale, these aliens, but instead she told me. Instead, she told me, “Coulson is dying, and we need to let him.” I'm sorry, sir. I hated keeping this. I owe you so much. You're my family."
+        },
+        {
+            "character": "May",
+            "line": "No, you're wrong. Robin said Coulson puts the pieces back together. And you're saying that we should've just left him to freeze to death in the middle of nowhere."
+        },
+        {
+            "character": "Elena",
+            "line": "I have to listen, May."
+        },
+        {
+            "character": "Coulson",
+            "line": "In the middle of nowhere."
+        },
+        {
+            "character": "Elena",
+            "line": "She was me. She's lived through this, through the loop, who knows how many times."
+        },
+        {
+            "character": "May",
+            "line": "Exactly, you don't know. We haven't lost yet, and as far as we know, they can't get in here..."
+        },
+        {
+            "character": "Coulson",
+            "line": "They can go wherever they want."
+        },
+        {
+            "character": "May",
+            "line": "You better believe we're gonna do everything possible to keep him alive."
+        },
+        {
+            "character": "Coulson",
+            "line": "They can go wherever they want."
+        }
+    ]
+}

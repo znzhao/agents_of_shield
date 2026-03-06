@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 13,
+    "scene_name": "FitzAndSimmonsHeritageRevelation",
+    "description": "In the Lighthouse lab, Fitz and Simmons have a heart-to-heart. Jemma reveals that Deke is their grandson, connecting their fates and providing hope that they will survive. This emotional revelation gives them renewed resolve, while the possibility of changing or fulfilling the future weighs heavily.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Again, I can't do anything while I'm locked away in this dungeon, like a hideous freckled stepchild."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please, you're not in the least bit hideous. Take it you and Daisy had a productive chat?"
+        },
+        {
+            "character": "Fitz",
+            "line": "She quaked me against the wall and then, stormed out. So, yeah, it was quite productive. You've got that look."
+        },
+        {
+            "character": "Simmons",
+            "line": "I've been thinking about you and me, about us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Relax. I know we get through this. Do you recognise this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. It's mine. After my injury, I got the number engraved because I couldn't remember the name."
+        },
+        {
+            "character": "Simmons",
+            "line": "See, that's the thing. This one's yours. That other tool belongs to Deke. Who got it from his grandfather."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's my... our grandson?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "But he's the worst."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think he's perfect. Plus, his very existence proves that you and I make it to the Lighthouse. And live long enough to raise a daughter. Do you see what this means?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I do. It means that our daughter's obviously gonna marry some belligerent space goon, if she's gonna give birth to a Deke."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, Fitz, it means you and I are invincible."
+        }
+    ]
+}

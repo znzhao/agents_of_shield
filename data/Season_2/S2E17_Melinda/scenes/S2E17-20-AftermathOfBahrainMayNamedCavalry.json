@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 20,
+    "scene_name": "AftermathOfBahrainMayNamedCavalry",
+    "description": "In the emotional aftermath, Coulson finds a shattered May holding Katya’s body, recognizing the terrible weight May carries. Hart and O’Brien recall the chaos, and May’s nickname “The Cavalry” is established for her actions. Later with Andrew, May is devastated by what happened, marking the beginning of her emotional withdrawal and hinting at her future struggles.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "O'Brien",
+            "line": "Did you see that room? How did she take out that many people? I must have been knocked out. I-I can't remember anything."
+        },
+        {
+            "character": "Hart",
+            "line": "The cavalry went in after all."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, every agent who walked out of that building is alive because of you."
+        },
+        {
+            "character": "May",
+            "line": "The girl. I-I couldn't save her. I... She didn't understand. I tried."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's all right. You have to let the girl go, Melinda. You did good. Let the girl go. Okay. Okay."
+        },
+        {
+            "character": "Andrew",
+            "line": "We'll get through this."
+        }
+    ]
+}

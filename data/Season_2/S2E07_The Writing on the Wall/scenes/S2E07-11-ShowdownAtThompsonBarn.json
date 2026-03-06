@@ -1,0 +1,98 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "ShowdownAtThompsonBarn",
+    "description": "In a climactic confrontation at the barn, Derik and Coulson fight as Mack, Skye, and Simmons arrive. Coulson urges Derik to see the carvings as blueprints, not a map. With guns drawn and tensions high, Derik finally sees the truth in Coulson’s discovery, breaking the compulsion. The threat of violence ends as the mystery of the carvings is finally revealed: they lead to a hidden city.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You want pain? Come and get some."
+        },
+        {
+            "character": "Derik",
+            "line": "You can't hide, Coulson. We're connected by the blood."
+        },
+        {
+            "character": "Coulson",
+            "line": "The answer's right here, Derik. All you have to do is look!"
+        },
+        {
+            "character": "Mack",
+            "line": "Let him go, Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's okay! I'm okay now."
+        },
+        {
+            "character": "Skye",
+            "line": "That's what you said before you threw me in a cell."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fair enough, but I'm not trying to kill him! I'm trying to save him."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm giving you to the count of three, and my gun's real."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's here, Skye... everything we've been looking for."
+        },
+        {
+            "character": "Mack",
+            "line": "One!"
+        },
+        {
+            "character": "Skye",
+            "line": "He's not kidding! Let him go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Open your eyes, Derik."
+        },
+        {
+            "character": "Mack",
+            "line": "Two!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's just below the surface, like you said. All you have to do is look."
+        },
+        {
+            "character": "Mack",
+            "line": "Three!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You can put the guns away. He won't hurt anyone now."
+        },
+        {
+            "character": "Skye",
+            "line": "How do you know that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He found what he's been looking for... what we've all been looking for. The final piece."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't believe it."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not so much a map as a blueprint. It's a city."
+        }
+    ]
+}

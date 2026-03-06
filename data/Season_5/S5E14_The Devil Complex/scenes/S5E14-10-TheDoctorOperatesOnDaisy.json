@@ -1,0 +1,253 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 10,
+    "scene_name": "TheDoctorOperatesOnDaisy",
+    "description": "Daisy is captured and drugged by The Doctor, who explains his intent to restore her powers in order to use them to seal the rift with Gravitonium. The scene is harrowing as Daisy realizes she is being operated on by Fitz's dark persona. Fitz arrives and pleads with The Doctor to stop, but finds himself unable to intervene meaningfully.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Fitz."
+        },
+        {
+            "character": "Doctor",
+            "line": "Oh, come on. Agent Johnson. That's not how you address a HYDRA superior."
+        },
+        {
+            "character": "Daisy",
+            "line": "What... What... What's going on?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Escape is unlikely. Between the restraints and the carisoprodol, your energy would be better spent making yourself as comfortable as possible. I'm afraid I didn't have too many painkillers."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're not Fitz. You are another anomaly. Where is Fitz? Where's the real Fitz?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Oh, believe me, you're looking at him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, so, what is this? Uh, is it payback, huh, for the Framework? I know you like your Inhumans alive when you turn them inside out."
+        },
+        {
+            "character": "Doctor",
+            "line": "My Inhuman work not only took threats off the streets, it deepened their understanding of their powers."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's a Nobel Prize speech."
+        },
+        {
+            "character": "Doctor",
+            "line": "My work helps people which is precisely what I'm doing now by restoring your powers."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? No. No. No! No, no."
+        },
+        {
+            "character": "Doctor",
+            "line": "Ah, ah, shh. I've told you. I've told you. Try and make yourself as comfortable as possible."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. No, you can't... No, no, no!"
+        },
+        {
+            "character": "Ivonv",
+            "line": "Put it on. I'll need to scan your hand, too, for weapons."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, somehow, this is only the second-worst party invitation I've ever received."
+        },
+        {
+            "character": "Creel",
+            "line": "Just put the damn hood on, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know me, Carl. Whatever lies Hale is selling you..."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Look at how he scrambles to save face."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. You're still here. Hey, speaking of faces, how come your robo-warriors don't have any?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "They are merely soldiers. Tools for battle."
+        },
+        {
+            "character": "Coulson",
+            "line": "Interesting. 'Cause, see, I think, when you lost your partner AIDA, you lost the ability to make convincing LMDs. That's why Hale isn't one. And you know what else I think? You're not the one calling the shots here. What happened, bro? Hale must have your balls in a vise."
+        },
+        {
+            "character": "Hale",
+            "line": "Actually, it's his head in a jar."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please, don't do this. You know what restoring my powers could do. You... No."
+        },
+        {
+            "character": "Doctor",
+            "line": "Conversely, this rift could be what destroys the world. Your powers could be what save it."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. This is the path to destruction."
+        },
+        {
+            "character": "Doctor",
+            "line": "You are what's needed to compress the Gravitonium and insert it into the device to shut the rift for good. My hypothesis has science to back it up. What does yours have?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Stop!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you doing to her?"
+        },
+        {
+            "character": "Doctor",
+            "line": "How many times do I have to say it? What needs to be done."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, you need to sit down. Take the weight off that leg."
+        },
+        {
+            "character": "Mack",
+            "line": "Not a chance. Not when more of those things could be coming after you."
+        },
+        {
+            "character": "Elena",
+            "line": "Nothing's going to happen to me."
+        },
+        {
+            "character": "Mack",
+            "line": "You're damn right nothing's gonna happen to you. Not on my watch."
+        },
+        {
+            "character": "Elena",
+            "line": "No, Mack. Nothing can happen to me."
+        },
+        {
+            "character": "Mack",
+            "line": "What's that supposed to mean?"
+        },
+        {
+            "character": "Elena",
+            "line": "Well, think about it. You saw me in the Lighthouse. You know I make it to that point in the future. Nothing can happen to me until then."
+        },
+        {
+            "character": "Mack",
+            "line": "You just lost both your arms. That's not nothing."
+        },
+        {
+            "character": "Elena",
+            "line": "But I didn't die."
+        },
+        {
+            "character": "Mack",
+            "line": "The future we saw isn't guaranteed. We're actively working to make sure it doesn't come true. That means you could still die. I could still lose you. What then?"
+        },
+        {
+            "character": "Elena",
+            "line": "Well, then, we would have broken the loop."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack. You need to stay off that leg."
+        },
+        {
+            "character": "Elena",
+            "line": "I tried to tell him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you just don't want to re-aggravate that injury. Have Fitz or Daisy checked in yet?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, he's still out there, looking for her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Stay with her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ev... Everything... Everything's gonna be fine, Daisy, okay?"
+        },
+        {
+            "character": "Doctor",
+            "line": "It will be if you let me finish."
+        },
+        {
+            "character": "Fitz",
+            "line": "You are a monster. You programmed those robots to attack Yo-Yo, and now you've got Daisy lying on an operating table."
+        },
+        {
+            "character": "Doctor",
+            "line": "If the robot attacked, it must be because it was provoked. I simply programmed it to keep Mack and the others at bay while I set to work removing Daisy's inhibitor."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Well, her powers are the missing key to manipulating the Gravitonium."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "There... There... Wait. Stop. Just stop, stop, stop, stop."
+        },
+        {
+            "character": "Doctor",
+            "line": "You know that I'm right."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No. Because... Because... Because... Because I'll..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Who are you talking to?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No."
+        },
+        {
+            "character": "Doctor",
+            "line": "Finish what we started."
+        }
+    ]
+}

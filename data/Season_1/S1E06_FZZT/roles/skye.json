@@ -1,0 +1,36 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 6
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a skilled young hacker whose transition from rebellious Rising Tide member to loyal S.H.I.E.L.D. operative continues to deepen. Throughout her journey, she grapples with the tensions between her past affiliations and the responsibilities of her new role, striving to prove her value on the team. Her technical expertise remains critical during missions, but emotional challenges persist, particularly with team trust and rejection. Skye shows growing empathy and camaraderie within the unit, demonstrated by her supportive gestures, while also confronting feelings of helplessness in situations beyond her control. She remains motivated by personal quests shaped by secrecy and betrayal, embodying a complex balance of idealism, determination, and vulnerability within the evolving S.H.I.E.L.D. team.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

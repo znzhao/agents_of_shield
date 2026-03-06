@@ -1,0 +1,52 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 12,
+    "scene_name": "ShieldRealizesMissingPiece",
+    "description": "May, Keller, and Elena monitor the vault situation, noticing the anomaly of five heat signatures instead of four. They puzzle over the crew's repeated disappearances, struggling to predict their next move. May deduces that the team's escape route may be hidden in plain sight, possibly involving somewhere they've already searched.",
+    "roles": [
+        "melinda_may",
+        "elena_rodriguez"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Wait, wait, wait. That wall is two feet thick, steel and concrete."
+        },
+        {
+            "character": "May",
+            "line": "They have a way out."
+        },
+        {
+            "character": "Keller",
+            "line": "How? Some kind of tech?"
+        },
+        {
+            "character": "May",
+            "line": "Must be."
+        },
+        {
+            "character": "Elena",
+            "line": "It seems like every time we get close, they vanish. The museum, the shipping yard, the store."
+        },
+        {
+            "character": "May",
+            "line": "We're missing something."
+        },
+        {
+            "character": "Elena",
+            "line": "We're missing everything. There's no way to know where they're going."
+        },
+        {
+            "character": "May",
+            "line": "Or maybe it's somewhere they've already been."
+        },
+        {
+            "character": "Elena",
+            "line": "May!"
+        }
+    ]
+}

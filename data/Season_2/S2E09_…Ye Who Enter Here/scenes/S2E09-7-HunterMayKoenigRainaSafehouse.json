@@ -1,0 +1,218 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "HunterMayKoenigRainaSafehouse",
+    "description": "Back in Canada, Hunter and May coordinate with the Koenig brothers at their safehouse. Skye and Raina have a tense initial conversation about HYDRA's motives and the Obelisk. There is confusion and comic relief about the Koenig brothers’ identities. Skye and May report their success to Coulson, revealing Raina's claim that she can handle the Obelisk.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may",
+        "skye",
+        "raina"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Corner, two men wearing classic HYDRA black, trying desperately hard not to look conspicuous."
+        },
+        {
+            "character": "Skye",
+            "line": "And failing. Where's May?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Good question. I'll go check."
+        },
+        {
+            "character": "Raina",
+            "line": "S.H.I.E.L.D. must be quite happy. Your plan of dangling me like bait seemed to work."
+        },
+        {
+            "character": "Skye",
+            "line": "I thought Whitehall wanted to kill you, not kidnap you. Something must've changed his mind. Maybe he thinks you know something about the Obelisk. How it works."
+        },
+        {
+            "character": "Raina",
+            "line": "Are you saying Whitehall has the Diviner?"
+        },
+        {
+            "character": "Skye",
+            "line": "Someone give that girl a new flower dress."
+        },
+        {
+            "character": "Raina",
+            "line": "Well, that changes things."
+        },
+        {
+            "character": "Skye",
+            "line": "How so?"
+        },
+        {
+            "character": "Raina",
+            "line": "They don't want to kill me. They need me."
+        },
+        {
+            "character": "Skye",
+            "line": "Need you for what?"
+        },
+        {
+            "character": "Raina",
+            "line": "I can hold the Diviner."
+        },
+        {
+            "character": "Skye",
+            "line": "You mean the thing that turns people to stone... you can touch it?"
+        },
+        {
+            "character": "Raina",
+            "line": "You don't believe me."
+        },
+        {
+            "character": "Skye",
+            "line": "Honestly, everything that we've been through, I don't know what to believe anymore."
+        },
+        {
+            "character": "Raina",
+            "line": "When you hold it, these symbols appear. There's a pull to them, like a sense of where the Diviner belongs."
+        },
+        {
+            "character": "Skye",
+            "line": "Sounds a little “Harry Potter” to me."
+        },
+        {
+            "character": "Raian",
+            "line": "It's alien technology. The Diviner reads your DNA to determine if you're worthy of its power. You'll understand when you touch it."
+        },
+        {
+            "character": "Skye",
+            "line": "No, thanks. I'd rather not die just yet."
+        },
+        {
+            "character": "Raina",
+            "line": "You wouldn't, not according to your father. He believes you're worthy, too."
+        },
+        {
+            "character": "Skye",
+            "line": "Listen, if you think you're gonna trick me into touching that thing, you're as crazy as he is."
+        },
+        {
+            "character": "Raina",
+            "line": "It's not crazy. It's our destiny. I'm over here! I'm over here!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Found May."
+        },
+        {
+            "character": "May",
+            "line": "Get in!"
+        },
+        {
+            "character": "Whitehall",
+            "line": "How fortunate. I'll get my best man on it right away."
+        },
+        {
+            "character": "Triplett",
+            "line": "So, what happened to Agent 33? You guys just left her there?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "We had to. HYDRA was closing in. We almost didn't make it out. I wonder if that's weird for May."
+        },
+        {
+            "character": "Triplett",
+            "line": "How do you mean?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Someone else having your face like that. It's just creepy."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Hey, Trip, how's the shoulder?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Uh... it's getting better. Thanks."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "We were talking about Agent 33."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Ooh, with the freaky fried May face."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Yeah, and the scary robot voice."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Oh. Crush, kill, destroy!"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "“Lost in space?” Tv show? You... Is there something in my teeth?"
+        },
+        {
+            "character": "Triplett",
+            "line": "What? No. No. No, I was, um... I was just wondering, how many of you are there, anyway? Brothers, I mean."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Look at him. He fell for it."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "That gets people every time."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah. Yeah, yeah, you... you got me. You got me good."
+        },
+        {
+            "character": "May",
+            "line": "Yes, the extraction was a success. Skye's with Raina now."
+        },
+        {
+            "character": "Coulson",
+            "line": "How big was the HYDRA contingent?"
+        },
+        {
+            "character": "May",
+            "line": "Not big enough. But they sent Agent 33 to take point. You know she still has my face?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I heard. Lucky her. Any theories why they came so hard at Raina?"
+        },
+        {
+            "character": "May",
+            "line": "Skye has one... Raina claims that she can touch the Obelisk without being harmed. Said that it would lead them to the temple."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you believe her?"
+        },
+        {
+            "character": "May",
+            "line": "Skye does. You were right about Raina opening up to her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have her stay at it. You can't leave right now. See if Skye can get me any recon on that temple."
+        },
+        {
+            "character": "May",
+            "line": "Copy that."
+        }
+    ]
+}

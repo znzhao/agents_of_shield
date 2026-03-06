@@ -1,0 +1,225 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 11,
+    "scene_name": "PrisonBreakAndShowdowns",
+    "description": "Within the prison, Daisy leads a team to extract Coulson and May, while Mack and Robbie go to retrieve Eli Morrow. Tensions run high as Mack and Robbie confront the ghosts and Mack is infected by psychosis but uses the antidote in time. Fitz helps the team remotely, while Daisy heroically locks herself in with the Watchdog inmates to buy time. Coulson and May, with Fitz's guidance, find another way to help Daisy.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "robbie_reyes",
+        "eli_morrow"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Let's go, go, go, go! Come on, come on, come on!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson, the exit is on the north side. I'm gonna try and get you to a secure cellblock."
+        },
+        {
+            "character": "Coulson",
+            "line": "There! Let's go! We're gonna make it!"
+        },
+        {
+            "character": "May",
+            "line": "Come on! Come on! Come on!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's go! May! Go through!"
+        },
+        {
+            "character": "Daisy",
+            "line": "You're gonna make it."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, no! Open the door!"
+        },
+        {
+            "character": "Daisy",
+            "line": "This is my fight, not yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't do this!"
+        },
+        {
+            "character": "May",
+            "line": "Damn it!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Here, boy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, change of plans. Find us another way into the cafeteria. I don't care how."
+        },
+        {
+            "character": "Man",
+            "line": "Get them!"
+        },
+        {
+            "character": "Man",
+            "line": "Aah!"
+        },
+        {
+            "character": "Man",
+            "line": "Hey! Where are the guards?! Where are the guards?!"
+        },
+        {
+            "character": "Robbie",
+            "line": "Tío."
+        },
+        {
+            "character": "Morrow",
+            "line": "Robbie, what are you doing here?"
+        },
+        {
+            "character": "Robbie",
+            "line": "We're getting you out of here."
+        },
+        {
+            "character": "Morrow",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "Step back, please."
+        },
+        {
+            "character": "Morrow",
+            "line": "No, no, don't. This is S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Robbie",
+            "line": "You're in danger. Lucy Bauer is here, and she's coming for you."
+        },
+        {
+            "character": "Morrow",
+            "line": "Robbie, I told you to stay away from this."
+        },
+        {
+            "character": "Mack",
+            "line": "Mr. Morrow, Dr. Bauer can walk through walls, so we got to go."
+        },
+        {
+            "character": "Morrow",
+            "line": "Walk through walls? Yeah, S.H.I.E.L.D. said she had abilities."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, and now we think she has that book. So who knows what else she's capable of."
+        },
+        {
+            "character": "Morrow",
+            "line": "The book? Yeah. Let's go."
+        },
+        {
+            "character": "Nadeer",
+            "line": "People are scared that Inhumans don't share our core values. And who could blame them? How many of our citizens have died under S.H.I.E.L.D.'s watch?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fatalities have decreased since the signing of the Sokovia Accords."
+        },
+        {
+            "character": "Mace",
+            "line": "We're proud to say that fatalities have actually decreased sharply since the signing of the Sokovia Accords. It's a legacy I hope to build on."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Treaties mean nothing to the Inhumans. We're dealing with something different here."
+        },
+        {
+            "character": "George",
+            "line": "Senator, when you say “different,” that sounds like a dog whistle aimed at hate groups."
+        },
+        {
+            "character": "Nadeer",
+            "line": "There's no dog whistle needed, George. Just the word “Inhuman” is frightening enough, and yet they choose to define themselves that way."
+        },
+        {
+            "character": "Mace",
+            "line": "See, that kind of comment, uh, illustrates the problem. If we can't talk about Inhumans with respect..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "You can't talk about them with honesty. How can people trust you? Director Mace, you take a damn good photo, I'll give you that, but that doesn't make you the man for this job."
+        },
+        {
+            "character": "Simmons",
+            "line": "Stick to the facts. Since S.H.I.E.L.D. has been re..."
+        },
+        {
+            "character": "Mace",
+            "line": "Hmm. So, you don't think I'm the man for the job. Well, I became the Director of S.H.I.E.L.D. because I believe in their mission. Protecting and integrating Inhumans is part of that. Senator, I promise you that I am the man for the job, because I'm not just a man. I'm an Inhuman."
+        },
+        {
+            "character": "George",
+            "line": "Director Mace, just to be sure I'm hearing you correctly, you're saying you are literally Inhuman?"
+        },
+        {
+            "character": "Mace",
+            "line": "Yes. I'm an Inhuman. You know, my life didn't just change when that bomb went off in Vienna or when I shielded that woman from harm. It also changed when I went through Terrigenesis. So, yeah, this is personal. And people like me that are different should not be hunted down."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm sorry, but it's the fastest way in. Yeah, and, um, you're looking for the chute in the northwest corner."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got it. Whoa. Guess it really is Taco Tuesday."
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, you never did tell me what you saw when you died."
+        },
+        {
+            "character": "May",
+            "line": "Really? Now? Is it because it smells like death in here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You saw something."
+        },
+        {
+            "character": "May",
+            "line": "You want to know what I saw, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "May",
+            "line": "I saw you. Don't let it go to your head."
+        },
+        {
+            "character": "Coulson",
+            "line": "You didn't think of that before I jumped in the trash?"
+        },
+        {
+            "character": "May",
+            "line": "What's the fun in that?"
+        }
+    ]
+}

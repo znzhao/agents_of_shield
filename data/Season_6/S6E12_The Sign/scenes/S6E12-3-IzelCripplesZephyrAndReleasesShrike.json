@@ -1,0 +1,263 @@
+{
+    "season": 6,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "IzelCripplesZephyrAndReleasesShrike",
+    "description": "The Zephyr team lands near the temple and finds the Zephyr apparently sabotaged. Piper investigates the damage, suspecting Izel used Mack's knowledge against them. Daisy tries to lighten the mood as they plan next steps. Meanwhile, at the temple, Izel completes the creation of the Monoliths and orders the release of a Shrike swarm to find hosts for her people.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "piper",
+        "sarge_pachakutiq",
+        "izel",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Izel",
+            "line": "Bring me an army!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Clear!"
+        },
+        {
+            "character": "Sarge",
+            "line": "She's not here."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah. And the Quinjet's empty."
+        },
+        {
+            "character": "May",
+            "line": "Clear."
+        },
+        {
+            "character": "Piper",
+            "line": "Izel knew exactly the right way to cripple the Zephyr."
+        },
+        {
+            "character": "Daisy",
+            "line": "More like Mack knew and didn't have a choice."
+        },
+        {
+            "character": "Piper",
+            "line": "He didn't have to try so hard."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, this is bad, but it can't be worse than that one time on that one planet."
+        },
+        {
+            "character": "Piper",
+            "line": "Mm, the smelly one?"
+        },
+        {
+            "character": "Daisy",
+            "line": "The shiny one."
+        },
+        {
+            "character": "Piper",
+            "line": "Nothing is that bad."
+        },
+        {
+            "character": "May",
+            "line": "How quickly can we get Z1 flying again?"
+        },
+        {
+            "character": "Piper",
+            "line": "Faster if we had Mack. Lighthouse, come in. We have Z1."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excellent news. What do things look like on the ground?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We're a few klicks away from the temple, but our vantage point is not ideal."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have satellites on the move. When we get a visual, we'll guide you in."
+        },
+        {
+            "character": "Sarge",
+            "line": "I'd rethink that. Izel and her Shrike operate on a subset of sonic frequencies. We always suspected she could hear our communications."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's not wrong. We probably shouldn't even be on the radio now."
+        },
+        {
+            "character": "Daisy",
+            "line": "We are off to a great start."
+        },
+        {
+            "character": "May",
+            "line": "All right, we'll go in dark. Piper, we'll need Z1 ready for extract."
+        },
+        {
+            "character": "Piper",
+            "line": "I'll get to work on it."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're signing off. We'll see you on the other side."
+        },
+        {
+            "character": "Piper",
+            "line": "Hey, Sarge. Do me a solid? Make sure you end her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Even going in dark, how are they going to get the cuffs to Mack and Yo-Yo without confronting Izel?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We need to figure something out. Some Some kind of distraction. Something to lure her out of there."
+        },
+        {
+            "character": "Simmons",
+            "line": "How do we know she'd be lured out as herself?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we don't."
+        },
+        {
+            "character": "Deke",
+            "line": "What if we could... you know... get past her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Have you got something in mind?"
+        },
+        {
+            "character": "Deke",
+            "line": "It's just something I was working on at my startup. It's tech. I-It... It might not work. I mean, it probably won't. But... it could."
+        },
+        {
+            "character": "Fitz",
+            "line": "If you know of a way to get past Izel, then... you really are a wizard."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, but you promise you won't be mad?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Why would we be mad?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, ‘cause it's kinda already here."
+        },
+        {
+            "character": "Flint",
+            "line": "I made those, didn't I?"
+        },
+        {
+            "character": "Elena",
+            "line": "No, it was Izel, not you."
+        },
+        {
+            "character": "Flint",
+            "line": "What's she gonna do with them? Something terrible, I'm guessing."
+        },
+        {
+            "character": "Mack",
+            "line": "She ain't gonna use it to feed the poor or heal the sick."
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah, when I get my energy back, I'll tear ‘em apart."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't worry about that just yet. You got anything left to help us out?"
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah. Is Izel the Destroyer of Worlds?"
+        },
+        {
+            "character": "Elena",
+            "line": "No, she's something else."
+        },
+        {
+            "character": "Flint",
+            "line": "So, it worked. You saved Earth."
+        },
+        {
+            "character": "Elena",
+            "line": "And you saved the Lighthouse."
+        },
+        {
+            "character": "Flint",
+            "line": "Sweet."
+        },
+        {
+            "character": "Flint",
+            "line": "Did those bring me here? Through space and time?"
+        },
+        {
+            "character": "Elena",
+            "line": "No, we, uh we sorta made you with our minds."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I know. I know. It sounds crazy, but that's what the third monolith does."
+        },
+        {
+            "character": "Flint",
+            "line": "You made me? What does that mean? Am I even real?"
+        },
+        {
+            "character": "Mack",
+            "line": "You look real to me."
+        },
+        {
+            "character": "Elena",
+            "line": "We'll take it from here."
+        },
+        {
+            "character": "Flint",
+            "line": "When did you get those? What happened? I feel like I missed a lot."
+        },
+        {
+            "character": "Elena",
+            "line": "A lot did happen, but we're together now, and we gotta get outta here. Are you strong enough to run?"
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's go."
+        },
+        {
+            "character": "Izel",
+            "line": "Oh It's sad how predictable humans are. You just had to see the face of an old friend, and you risk it all. You must need a reminder of what I'm capable of."
+        },
+        {
+            "character": "Mack",
+            "line": "No! Yo-Yo! No!"
+        },
+        {
+            "character": "Izel",
+            "line": "See? Predictable."
+        },
+        {
+            "character": "Mack",
+            "line": "It's okay, buddy. It'll be alright."
+        }
+    ]
+}

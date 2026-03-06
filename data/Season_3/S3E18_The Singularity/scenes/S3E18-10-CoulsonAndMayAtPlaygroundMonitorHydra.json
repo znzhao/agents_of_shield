@@ -1,0 +1,21 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 10,
+    "scene_name": "CoulsonAndMayAtPlaygroundMonitorHydra",
+    "description": "Back at The Playground, Coulson and May discuss the aftermath of the Hive encounter and the use of Malick’s intel to dismantle what's left of Hydra. Talbot’s operation is on standby as the S.H.I.E.L.D. team cooperates to oversee the takedown, reflecting on the cost of their decisions and the broader consequences for the organization.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "H.Q. is fortified. Nothing's getting in here."
+        }
+    ]
+}

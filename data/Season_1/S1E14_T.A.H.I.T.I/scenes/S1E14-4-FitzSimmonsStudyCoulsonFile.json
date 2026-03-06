@@ -1,0 +1,36 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 4,
+    "scene_name": "FitzSimmonsStudyCoulsonFile",
+    "description": "Inside the Bus lab, Fitz and Simmons dig through the classified file on Coulson, investigating the experimental drugs and the process behind his resurrection. Simmons expresses horror at some of the procedures, while Fitz argues they must try anything to save Skye. Simmons attempts to reach Dr. Streiten for clarification, only to find that he's gone off the grid. This search for answers underscores the team's desperation and the lengths to which they're prepared to go for Skye.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I've never heard of half the drugs they gave Coulson... GH-325? And what about this robotic-assisted- neural-micro-surgery they used to implant the Tahiti memories? It all sounds so diabolical."
+        },
+        {
+            "character": "Fitz",
+            "line": "I agree. We can't argue with the results. He's walking around."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah but at what cost? You read the transcripts. He begged the doctors to let him die."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is different. Skye's still alive. We have to keep her that way."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. I've asked Dr. Streiten to advise us. Hello. Yes. Are you sure? That can't be."
+        }
+    ]
+}

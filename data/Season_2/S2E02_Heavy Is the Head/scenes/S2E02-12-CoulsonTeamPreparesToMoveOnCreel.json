@@ -1,0 +1,228 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 12,
+    "scene_name": "CoulsonTeamPreparesToMoveOnCreel",
+    "description": "Back at the Playground, Coulson and his team detect renewed encrypted Hydra activity and receive a message from Raina, who calls to tip them off about Creel's location and his connection with Hydra. With time running out, Coulson orders the team to mobilize and prepare to intercept Creel and the Obelisk, including a plan in case Creel becomes an immediate threat. Hunter requests to be part of the mission and is reluctantly included by Coulson and May.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "antoine_triplett",
+        "lance_hunter",
+        "raina"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "He couldn't have gone far. Local authorities have his description. Roadblocks are up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot's people are still out there."
+        },
+        {
+            "character": "Triplett",
+            "line": "Why was Creel at the bar?"
+        },
+        {
+            "character": "May",
+            "line": "He was waiting for someone. We just don't know if that person ever showed."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need a solve for Creel's powers. And we need it yesterday. How's the lab coming?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Nothing yet."
+        },
+        {
+            "character": "Skye",
+            "line": "You remember that encrypted Hydra frequency we shut down? Well, it's back up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Someone sent a message."
+        },
+        {
+            "character": "Skye",
+            "line": "A message for us with a phone number to call."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, could be Creel."
+        },
+        {
+            "character": "Triplett",
+            "line": "Creel? A phone number? What, is he lonely?"
+        },
+        {
+            "character": "Skye",
+            "line": "I doubt it. The guy is jacked. And he can turn any body part into any material."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Thank you for that."
+        },
+        {
+            "character": "Skye",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Call the number."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay."
+        },
+        {
+            "character": "Raina",
+            "line": "Hello?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Who is this?"
+        },
+        {
+            "character": "Raina",
+            "line": "Agent Coulson, I'm glad you got my message."
+        },
+        {
+            "character": "Coulson",
+            "line": "Raina, as I live and breathe."
+        },
+        {
+            "character": "Raina",
+            "line": "It's been a while since we've spoken."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm kind of in the middle of a manhunt. Can we make this quick?"
+        },
+        {
+            "character": "Raina",
+            "line": "Why? You need time to trace this call, don't you? I take it, then, you haven't tracked down Mr. Creel or the item he stole."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you know about that?"
+        },
+        {
+            "character": "Raina",
+            "line": "I know Hydra's about to get their hands on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, congratulations."
+        },
+        {
+            "character": "Raina",
+            "line": "Let me be clear. Mr. Creel is working for Hydra. I am not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why the breakup? Bad dental plan?"
+        },
+        {
+            "character": "Raina",
+            "line": "Hydra only has one thing on their minds... world domination... which is so 1945."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you want, Raina?"
+        },
+        {
+            "character": "Raina",
+            "line": "It's what I don't want, which is the Obelisk falling into the hands of people who don't understand it. I'm thinking you might."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I'm thinking you're gonna tell me why."
+        },
+        {
+            "character": "Raina",
+            "line": "John Garrett understood it. The moment he was injected with the same drug that saved you, he had visions. He started carving those visions on the walls."
+        },
+        {
+            "character": "Coulson",
+            "line": "Garrett was a madman."
+        },
+        {
+            "character": "Raina",
+            "line": "Garrett was enlightened. He witnessed our fate... what we'd become. Have you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not calling to talk about fate. You want us to catch Creel."
+        },
+        {
+            "character": "Raina",
+            "line": "You read my mind, Agent Coulson. Truth is Mr. Creel stole something from me. Fortunately for the both of us, it has an embedded tracker. But you'd better hurry. He's growing less stable by the second."
+        },
+        {
+            "character": "Coulson",
+            "line": "The moment that frequency comes through, I want everyone on the move. If Creel's handing off the item to Hydra, we need to see where that leads."
+        },
+        {
+            "character": "Skye",
+            "line": "What if Creel melts down again? The lab hasn't figured out how to shut down his powers yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "If he's an immediate threat to civilians, Trip's got the backup plan."
+        },
+        {
+            "character": "Skye",
+            "line": "What kind of backup plan?"
+        },
+        {
+            "character": "Triplett",
+            "line": "The heavy-duty kind with armor-piercing rounds."
+        },
+        {
+            "character": "Skye",
+            "line": "Will that work?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Get close enough to him, catch him off guard..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hopefully, we won't have to find out."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where do you want me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That depends. Can you follow an order?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Absolutely, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because part of me wants you here running back-end. The other part knows we need boots on the ground, and I've only got a few good pairs."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'll be good. Scout's honor. Please, sir. I owe Hartley one."
+        },
+        {
+            "character": "May",
+            "line": "We could use him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Suit up."
+        }
+    ]
+}

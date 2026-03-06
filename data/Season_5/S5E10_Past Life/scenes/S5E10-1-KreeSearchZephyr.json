@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "KreeSearchZephyr",
+    "description": "The Kree search the Zephyr One for survivors and only discover Sinara's corpse. Meanwhile, Enoch communicates with the S.H.I.E.L.D. team, assuring them that he can activate the machine once Flint reassembles the Monolith. The team discusses the plan and the importance of Flint’s role. Deke tries to understand the science behind the portal, while Fitz and Simmons explain the mechanism.",
+    "roles": [
+        "enoch",
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hek-Sel",
+            "line": "Tear the ship apart. Find them!"
+        },
+        {
+            "character": "Daisy",
+            "line": "All clear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hopefully, we can say the same for Enoch."
+        },
+        {
+            "character": "Hek-Sel",
+            "line": "No lifeforms detected."
+        },
+        {
+            "character": "Enoch",
+            "line": "The diversion seems to have worked. They're still searching the ship."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. You're secure?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Yes. The machine will be online by the time Flint builds the Monolith."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easier said than done."
+        },
+        {
+            "character": "Deke",
+            "line": "So, one more time, the machine uses the little piece to trigger the bigger piece through space?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, or time."
+        },
+        {
+            "character": "Simmons",
+            "line": "It mirrors the harmonic resonant frequency of photons, which can exist out of spacetime."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, I... I hear you saying words, but what... what do they..."
+        },
+        {
+            "character": "Daisy",
+            "line": "If Flint can't construct the Monolith, none of this matters."
+        },
+        {
+            "character": "May",
+            "line": "Robin said he can, so I believe it."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll talk him through it once we meet up with them."
+        }
+    ]
+}

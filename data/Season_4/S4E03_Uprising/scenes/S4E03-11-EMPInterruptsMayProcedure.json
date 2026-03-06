@@ -1,0 +1,134 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "EMPInterruptsMayProcedure",
+    "description": "As Simmons and Radcliffe proceed with May’s risky brain-restart procedure, a new EMP blackout hits, cutting their power mid-operation and plunging the lab into crisis. Without electricity, the team is forced to improvise using Radcliffe's prototype clean-energy device to revive May. Simmons fights to bring May back, dramatically succeeding just in time.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "thrilling",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "We have less than two minutes."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Okay. We're approaching minimum brain activity threshold. Get ready. One, two..."
+        },
+        {
+            "character": "Simmons",
+            "line": "What the hell happened?!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I don't know. We've lost power."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Not now."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I don't understand. The backup generator should've kicked in. Oh, God. Oh, God."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come on, May. Come on."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh God."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come on, May. Come on!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I don't understand. What happened to the bloody power?"
+        },
+        {
+            "character": "Burrows",
+            "line": "We just lost part of D.C."
+        },
+        {
+            "character": "Mace",
+            "line": "Yes, Mr. President? Uh, watching now, sir."
+        },
+        {
+            "character": "Man",
+            "line": "We now control seven cities. If you do not end the Registration of Inhumans in 24 hours, we will black out seven more."
+        },
+        {
+            "character": "Mace",
+            "line": "Yes, Mr. President. I understand the gravity of the situation. Just give me one more hour. Agent Coulson and his team are on the case. Thank you, sir. The President wants to send troops into the blackout zones, take out the Inhumans by any means necessary. Come on, Coulson. Bring me that win."
+        },
+        {
+            "character": "Coulson",
+            "line": "30 degrees east."
+        },
+        {
+            "character": "Mack",
+            "line": "10 degrees west."
+        },
+        {
+            "character": "Elena",
+            "line": "10 degrees east."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, got it. There. “X” marks the spot."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, let's go."
+        },
+        {
+            "character": "Simmons",
+            "line": "You have to come back! I'm not losing you. I promised. Do you hear me, Agent May?! You have to come back! That's an order! We need ice. We need to keep her cold."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "That's really not... I mean, at this point... If we could only jump-start a battery or..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry. What is it?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's a self-sustaining, magnetically shielded clean-energy device. It's a prototype of something I've been working on in my spare time. Might just do the trick. Go."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come on, May! Fight it!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wake up! Come on, May. Fight! Wake up! Wake up. Wake up."
+        },
+        {
+            "character": "May",
+            "line": "Wha...? Oh, where am I? Get this crap off of me!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Welcome back, Agent May."
+        },
+        {
+            "character": "May",
+            "line": "Did I miss something?"
+        }
+    ]
+}

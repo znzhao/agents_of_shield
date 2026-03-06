@@ -1,0 +1,185 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 3,
+    "scene_name": "NegotiationsWithQovasAndHale",
+    "description": "Coulson and Talbot, now prisoners on the Remorath ship, are brought before Qovas again. They push for a renegotiation on Earth's behalf. Talbot is impatient, escalating the situation and demanding to meet the Confederacy. Coulson arranges for Hale to be brought to them, leading to an emotionally fraught discussion about responsibility, failure, and the implications of the Confederacy's interest in gravitonium.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "hale"
+    ],
+    "vibe": "dramatic",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Well, Not bad for a day's work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Gotta admit, I'm impressed. Though the kneeling may have been a little over the top."
+        },
+        {
+            "character": "Talbot",
+            "line": "Do not contradict me, Phil. This is war. First, we establish dominance, then we dictate terms, yeah?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just wanna make sure we're on the same page. Maybe now's the time to talk big picture."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm gonna save the world."
+        },
+        {
+            "character": "Qovas",
+            "line": "From whom? The Confederacy decides what you will and will not do. It will not stand idly by while you..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Stand? Yeah, I don't see any Confederacy members standing. You see anybody standing, Phil?"
+        },
+        {
+            "character": "Qovas",
+            "line": "HYDRA was never this foolish."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah, but where's HYDRA now?"
+        },
+        {
+            "character": "Qovas",
+            "line": "Your ignorance astounds."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's how they found us."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hale."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take me to her."
+        },
+        {
+            "character": "Hale",
+            "line": "You here as a prisoner? I sold out your team."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, it was the only option I had. Confederacy was done waiting for gravitonium, and without Ruby..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry for your loss."
+        },
+        {
+            "character": "Hale",
+            "line": "I've been angry for so long. You know, every time I got passed over, ignored, talked down to, I just swallowed it. I'd tell myself I'd make it better for Ruby, but that anger, just... It was just always there, the hatred. In the end, all I did was carry out HYDRA's agenda. I never even took a breath to stop to think about the... the gift that life had given me. I failed her. Ruby died for nothing. And it was all my fault."
+        },
+        {
+            "character": "Coulson",
+            "line": "We could use your help."
+        },
+        {
+            "character": "Hale",
+            "line": "No, I got nothing left to give."
+        },
+        {
+            "character": "Coulson",
+            "line": "You'd be surprised. Seems there's been a development with your Destroyer of Worlds project. Turns out, it's a go."
+        },
+        {
+            "character": "Hale",
+            "line": "Daisy Johnson went into the machine?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, it was someone a little more out of the box."
+        },
+        {
+            "character": "Talbot",
+            "line": "I think it's time you tell me about the rest of your compadres."
+        },
+        {
+            "character": "Qovas",
+            "line": "I would rather die than betray the Confederacy."
+        },
+        {
+            "character": "Hale",
+            "line": "There are six seats. Kallusians, Rajaks, Astrans all count themselves members. Obviously the Remoraths. And there are two other warrior clans."
+        },
+        {
+            "character": "Talbot",
+            "line": "You? You dragged me away from my family, kept me in a hole for six months. Messed with my head. Why should I believe a single word coming out of your mouth?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You have every right to be upset, but the Confederacy is still out there. She's the only one who knows how they operate."
+        },
+        {
+            "character": "Hale",
+            "line": "Look, what I did to you was wrong. But it was all to bring us to this moment. Humankind is in terrible danger and you... you're the weapon that I was trying to build. You're the only one that can save us all."
+        },
+        {
+            "character": "Coulson",
+            "line": "What was HYDRA's arrangement with the Confederacy?"
+        },
+        {
+            "character": "Hale",
+            "line": "To protect the Earth from being attacked."
+        },
+        {
+            "character": "Talbot",
+            "line": "In exchange for what?"
+        },
+        {
+            "character": "Hale",
+            "line": "Resources, Inhumans, and gravitonium above all."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why gravitonium?"
+        },
+        {
+            "character": "Qovas",
+            "line": "Because its power is unlimited. It can bend space, build empires and destroy them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Couldn't you just find a fun game on your phone instead?"
+        },
+        {
+            "character": "Hale",
+            "line": "Look, we need to renegotiate our deal with the Confederacy."
+        },
+        {
+            "character": "Talbot",
+            "line": "I think maybe it's time we started shaking some hands."
+        },
+        {
+            "character": "Qovas",
+            "line": "Impossible. A Confederacy gathering is sacred. A ceremony dating back over five of your centuries."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, as a military man, I'd hate to buck tradition. So why don't you bring me up to speed on protocol?"
+        },
+        {
+            "character": "Qovas",
+            "line": "Even if the Confederacy were to grant you an audience, you have nothing to offer."
+        },
+        {
+            "character": "Coulson",
+            "line": "But if it's gravitonium your friends want, there he is."
+        }
+    ]
+}

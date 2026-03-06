@@ -1,0 +1,37 @@
+{
+  "timestamp": {
+    "season": 3,
+    "episode": 2
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and steadfast S.H.I.E.L.D. leader, marked by resilience and strategic insight. His leadership is driven by a deep commitment to his team and mission, balancing empathy with a hardened resolve forged by personal loss and organizational upheaval. His experience spans covert operations, interspecies alliances, and interdimensional mysteries, including the protection and support of Inhumans. Throughout his journey, Coulson has evolved from a traditional agent into a resourceful, adaptable commander who embraces unconventional allies and methods while safeguarding those he values. His courage and tactical acumen solidify him as a central figure navigating the complexities of a fractured S.H.I.E.L.D. and a world teetering on the brink of superhuman upheaval.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_32",
+      "context": "confronting Rosalind and reflecting on secrets and the shadows both walk in",
+      "catch_phrase": "I haven't spent any time in Tahiti, though I hear it's a magical place."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_33",
+      "context": "motivating the team that realism would have stopped them long ago to confront impossible challenges",
+      "catch_phrase": "If we were realistic, we never would have gotten this far."
+    }
+  ]
+}

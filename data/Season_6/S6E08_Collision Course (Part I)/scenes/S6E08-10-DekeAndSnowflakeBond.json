@@ -1,0 +1,85 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 10,
+    "scene_name": "DekeAndSnowflakeBond",
+    "description": "Deke awkwardly bonds with Snowflake after a brief intimate encounter, trying to avoid the gravity of their mission. Sarge interrupts and grows frustrated with Deke when the Shrike repellent fails, threatening him to make fixes urgently. Daisy and May intervene in the escalating conflict.",
+    "roles": [
+        "deke_shaw",
+        "sarge_pachakutiq",
+        "melinda_may"
+    ],
+    "vibe": "comedic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Deke? You okay?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Ugh!"
+        },
+        {
+            "character": "Deke",
+            "line": "Doesn't anybody knock?! Geez! It's... It's... It's not what it looks like."
+        },
+        {
+            "character": "May",
+            "line": "You have a hickey."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, it's a little what it looks like."
+        },
+        {
+            "character": "Daisy",
+            "line": "I need bleach for my eyes."
+        },
+        {
+            "character": "Deke",
+            "line": "Sequoia left me, okay?! I've been heartbroken! And Snowbunny..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Snowbunny."
+        },
+        {
+            "character": "Deke",
+            "line": "... she gets me. She said that my soul was like a butterfly that was just dying to escape. And you know what? That's exactly how I feel."
+        },
+        {
+            "character": "Sarge",
+            "line": "Seriously, Snow? I like it better when you kill them. You said it was fixed."
+        },
+        {
+            "character": "Deke",
+            "line": "It was."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey, hey!"
+        },
+        {
+            "character": "Sarge",
+            "line": "Then why isn't it working?"
+        },
+        {
+            "character": "Deke",
+            "line": "Help!"
+        },
+        {
+            "character": "May",
+            "line": "Let him go!"
+        },
+        {
+            "character": "Deke",
+            "line": "It was working. It was held together by wires and sticky stuff. What did you expect?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I expect it to work. If we face her without it, we'll all end up as hosts. Fix it! Morning. Anyone hungry?"
+        }
+    ]
+}

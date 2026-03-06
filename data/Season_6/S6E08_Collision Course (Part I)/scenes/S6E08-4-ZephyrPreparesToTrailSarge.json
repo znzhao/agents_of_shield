@@ -1,0 +1,78 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 4,
+    "scene_name": "ZephyrPreparesToTrailSarge",
+    "description": "Mack and Davis prepare the Zephyr to follow Sarge's truck from the air, designating the plane as their 'mobile headquarters.' Elena agrees to join Mack as support. Meanwhile, Pax and Jaco grumble over being kept as prisoners in the Zephyr's cargo bay, heightening the group's sense of uncertainty and anxiety.",
+    "roles": [
+        "alphonso_mackenzie",
+        "davis",
+        "elena_rodriguez",
+        "jaco"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Davis, get the Zephyr ready."
+        },
+        {
+            "character": "Davis",
+            "line": "Space ready?"
+        },
+        {
+            "character": "Mack",
+            "line": "Negative. The Fitz-Simmons mission will have to wait. We could be facing another extinction-level event."
+        },
+        {
+            "character": "Davis",
+            "line": "Copy that. She'll be good to go."
+        },
+        {
+            "character": "Elena",
+            "line": "You're following his truck."
+        },
+        {
+            "character": "Mack",
+            "line": "I told him we wouldn't leave the base. I just didn't tell him the Zephyr was our base in the sky. Look, I'm... I'm gonna need you by my side on this one. ‘Cause if there is some kind of beast coming..."
+        },
+        {
+            "character": "Elena",
+            "line": "It's never what we expect. I hope we recognize it when we see it."
+        },
+        {
+            "character": "Pax",
+            "line": "How come he gets a comfy room and I'm chained up like some animal? I'm talking to you."
+        },
+        {
+            "character": "Agent",
+            "line": "Have a seat. The men are secure, sir."
+        },
+        {
+            "character": "Pax",
+            "line": "I don't feel secure. We're supposed to be at your headquarters. That was the agreement."
+        },
+        {
+            "character": "Mack",
+            "line": "This plane is our mobile headquarters. You got a problem flying?"
+        },
+        {
+            "character": "Pax",
+            "line": "Well, depends where we're flying."
+        },
+        {
+            "character": "Mack",
+            "line": "We're going wherever Sarge is going."
+        },
+        {
+            "character": "Pax",
+            "line": "That is a stupid idea."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Why's that? Okay. Enjoy the ride."
+        }
+    ]
+}

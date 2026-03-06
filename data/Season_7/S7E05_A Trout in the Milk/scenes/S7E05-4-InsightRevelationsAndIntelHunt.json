@@ -1,0 +1,194 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "InsightRevelationsAndIntelHunt",
+    "description": "May, undercover as Agent McBride, questions General Stoner about Project Insight. Daisy and Sousa encounter Gideon Malick and identify Nathaniel Malick, realizing more Malicks have survived due to timeline changes. Daisy and Sousa fake being engaged to evade suspicion. Coulson updates Simmons and Deke about Malick still being alive and the looming threat of Insight, heightening the team's urgency.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "skye",
+        "sousa",
+        "jemma_simmons",
+        "deke_shaw",
+        "gideon_malick",
+        "nathaniel_malick"
+    ],
+    "vibe": "suspenseful",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Want to buy a girl a drink?"
+        },
+        {
+            "character": "Stoner",
+            "line": "Well, pardon me, miss, but as a commanding officer, purchasing you an alcoholic beverage would be a violation of HR guidelines. However, uh, if you need assistance, I would be happy to use my privilege to flag down a server."
+        },
+        {
+            "character": "May",
+            "line": "Agent Chastity McBride. Deputy HR Liaison. And I find your professional decorum refreshing."
+        },
+        {
+            "character": "Stoner",
+            "line": "Oh, thank you, Agent McBride. I've... attended a number of seminars."
+        },
+        {
+            "character": "May",
+            "line": "You're a good man. I can tell. That's why I was thinking about transferring to your division."
+        },
+        {
+            "character": "Stoner",
+            "line": "Oh, you should. I would very much enjoy working with you. From a professional standpoint."
+        },
+        {
+            "character": "May",
+            "line": "Professional. Of course. Tell me... how close is Insight to completion?"
+        },
+        {
+            "character": "Stoner",
+            "line": "Well, not close enough. I wish we could launch today."
+        },
+        {
+            "character": "May",
+            "line": "I bet."
+        },
+        {
+            "character": "Stoner",
+            "line": "Uh, we're still three years away, but rest assured, 1976 won't just be the bicentennial. It will also be a new birth for freedom."
+        },
+        {
+            "character": "May",
+            "line": "Hmm."
+        },
+        {
+            "character": "Gideon",
+            "line": "My brother's so miserable at these things. If Nathaniel had his way, he'd be at home listening to The Carpenters on his hi-fi."
+        },
+        {
+            "character": "Daisy",
+            "line": "Nathaniel. So that must make you Gideon Malick."
+        },
+        {
+            "character": "Gideon",
+            "line": "Guilty as charged. You've heard of me. That can't be a bad thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh, yeah, well, everyone knows you're in line to be the next big thing."
+        },
+        {
+            "character": "Gideon",
+            "line": "Well, to be clear, it's not nepotism. Definitely earned my spot."
+        },
+        {
+            "character": "Daisy",
+            "line": "Definitely. Yeah. Self-made. But you must hear all the secrets about S.H.I.E.L.D. - from your dad."
+        },
+        {
+            "character": "Gideon",
+            "line": "Mm, some. Lately, he's been locked up in his windowless office all day, but, uh, I'm in the loop. But enough about my dad. Let's talk about us. Maybe you start by telling me your name."
+        },
+        {
+            "character": "Daisy",
+            "line": "I actually have to get going, so..."
+        },
+        {
+            "character": "Gideon",
+            "line": "How about you stick around? Maybe we could share some secrets of our own."
+        },
+        {
+            "character": "Sousa",
+            "line": "Hi, sweetheart. Who's your new friend?"
+        },
+        {
+            "character": "Daisy",
+            "line": "This is Gideon Malick. Gideon, this is..."
+        },
+        {
+            "character": "Sousa",
+            "line": "Her fiancé. Honey, I think we need to go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh. Excuse us."
+        },
+        {
+            "character": "Gideon",
+            "line": "You're welcome for the drink."
+        },
+        {
+            "character": "Daisy",
+            "line": "Don't worry. I'll pay you back later."
+        },
+        {
+            "character": "Sousa",
+            "line": "What was that about?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Long story, but apparently, Freddy's son Nathaniel is still alive, and he was also supposed to die in 1970."
+        },
+        {
+            "character": "Sousa",
+            "line": "Another change in the timeline. Get any intel?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. But I did get a clue on where we could find some"
+        },
+        {
+            "character": "Simmons",
+            "line": "Project Insight? And Freddy Malick is responsible?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We suspect the Chronicoms kept him alive, but we can't be sure ‘til we get ahold of Enoch."
+        },
+        {
+            "character": "Simmons",
+            "line": "And you still haven't found him yet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're looking. I'm sure he'll turn up, and he knows how to contact us."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know, if you have his last whereabouts, I can take point on the search."
+        },
+        {
+            "character": "Coulson",
+            "line": "I appreciate your concern for a 30,000-year-old robot, but Project Insight is our priority."
+        },
+        {
+            "character": "Simmons",
+            "line": "Copy that. I'll see what I can pull from radio chatter. Good luck."
+        },
+        {
+            "character": "Coulson",
+            "line": "You, too."
+        },
+        {
+            "character": "Deke",
+            "line": "Malick's still alive? So Daisy was right. I should've taken him out."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not your fault. You made the right call to preserve the timeline."
+        },
+        {
+            "character": "Deke",
+            "line": "No, to hell with the status quo. Thousands of lives are at risk."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's still time. Insight hasn't even launched yet."
+        },
+        {
+            "character": "Deke",
+            "line": "But Insight is just the part that we know about. The guy's had three extra years. Who knows what else he's gotten into."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 12,
+    "scene_name": "MackApologizesAndTeamConsidersRainasFate",
+    "description": "Back at the Playground, Mack apologizes to Coulson and May for his earlier outburst, expressing regret and a desire to make amends. Simmons brings up the possibility that Raina is a contagion and suggests lethal force may be necessary to prevent further catastrophe. May and Coulson weigh these moral and practical dilemmas amid ongoing uncertainty.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Thanks for the schematics, sir. Ventilation system's all good. And, sir... I want to apologize for my outburst in there. It was uncalled for. I have a little trouble dealing with my anger sometimes."
+        },
+        {
+            "character": "May",
+            "line": "Join the club."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, something I'm working on, but this alien stuff messed with my head, and, uh... and losing Trip brought back a lot of hard memories."
+        },
+        {
+            "character": "Coulson",
+            "line": "For all of us."
+        },
+        {
+            "character": "Mack",
+            "line": "I hope I-I didn't blow my chance to work on Lola one day."
+        },
+        {
+            "character": "Coulson",
+            "line": "After that little R.C. version you built for me, I'm genuinely considering it, although I couldn't figure out how to make it fly."
+        },
+        {
+            "character": "Mack",
+            "line": "It doesn't."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, I do think Mack brought up a matter we should consider."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm all ears."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm aware the team hunting Raina has orders to capture, not kill."
+        },
+        {
+            "character": "May",
+            "line": "As always."
+        },
+        {
+            "character": "Simmons",
+            "line": "But this might be some sort of contagion or even a plague inadvertently set loose. Plagues must be understood, yes... but eventually eradicated."
+        },
+        {
+            "character": "May",
+            "line": "Are you saying that you want to put Raina down, Agent Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, of course not, uh... I'm just saying that if they have to, it may not be the worst thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        }
+    ]
+}

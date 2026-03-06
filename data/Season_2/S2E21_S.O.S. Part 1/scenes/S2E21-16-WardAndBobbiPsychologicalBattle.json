@@ -1,0 +1,48 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 16,
+    "scene_name": "WardAndBobbiPsychologicalBattle",
+    "description": "Ward continues to play psychological games with Bobbi while Kara supports him. The conversation delves into trauma, manipulation, and the reasons they are acting out their vengeance against Morse. Bobbi tries to warn Kara of Ward’s manipulation, but Kara remains steadfastly devoted to Ward.",
+    "roles": [
+        "bobbi_morse",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kara",
+            "line": "It's happening. She feels it."
+        },
+        {
+            "character": "Ward",
+            "line": "Once she understands your pain, we can all move past this unpleasantness."
+        },
+        {
+            "character": "Morse",
+            "line": "Don't you see what's happening? He's molding you, the way that Bakshi molded you. The circle never ends."
+        },
+        {
+            "character": "Ward",
+            "line": "You left her for dead. I'm helping her heal from wounds you inflicted."
+        },
+        {
+            "character": "Morse",
+            "line": "Then take her to Hawaii. Do you think it'll end with me? There's always someone else to blame."
+        },
+        {
+            "character": "Kara",
+            "line": "You're wrong."
+        },
+        {
+            "character": "Morse",
+            "line": "I bet he started you off easy, symbolic target, maybe the doctor who made your mask. Ward probably started off easy, too."
+        },
+        {
+            "character": "Kara",
+            "line": "You're right. It was his dog. Garrett made him kill his dog. I know what you're doing, Agent Morse, and it's not going to work. Grant's already told me everything. Everything. About his abusive family, about John Garrett, about having to kill Victoria Hand. But in the end, he overcame his family and the pain Garrett put him through. He remade himself. It's why I love him, and why no matter what he does, I will always stand with Ward."
+        }
+    ]
+}

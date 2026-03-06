@@ -1,0 +1,92 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 6,
+    "scene_name": "DaisyAndSimmonsDiscoverJamesInDanger",
+    "description": "With the access Daisy wanted, she and Simmons analyze the compromised Inhuman data and recognize that James is a target. A debate on Daisy's self-destructive tendencies and her distancing herself from her team highlights the emotional strain of Daisy's vigilante path. Simmons refuses to let Daisy go alone, emphasizing solidarity even in dangerous circumstances.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Every Inhuman has a wristwatch, an Asset Communication Device that tracks location, vital signs, et cetera. I mean, it's for their own safety."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, how's that working out so far?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Elizabeth Albee came through. Looks like an encrypted third party's hijacking the stream of information..."
+        },
+        {
+            "character": "Simmons",
+            "line": "As the devices send and receive signals."
+        },
+        {
+            "character": "Daisy",
+            "line": "So much for new security measures."
+        },
+        {
+            "character": "Simmons",
+            "line": "If they can tap into the data directly, then they have..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Information on a lot of Inhumans. I warned everyone on this list, but..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's just see how many compromised names you weren't able to... Wait. I recognize that number. Who is it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "James. I haven't seen him since... Hive."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right. Well, withdrawal from Hive's sway hit him even harder than you."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can imagine."
+        },
+        {
+            "character": "Simmons",
+            "line": "We did everything we could for him, but like yourself, it seemed he couldn't get away from us fast enough. Only shows his face at mandatory check-ins."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thank you for your help. It was good to see you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where are you going?"
+        },
+        {
+            "character": "Daisy",
+            "line": "James is next on their to-do list. I have to get to him before they do."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have to get to him. In case you don't remember, that's my job."
+        },
+        {
+            "character": "Daisy",
+            "line": "I appreciate the help, Simmons, but I can take it from here, on my own."
+        },
+        {
+            "character": "Simmons",
+            "line": "You can't have it both ways, Daisy. You can't push us away and then come crawling back, half-dead, only when you feel like it. It isn't fair. You've already put a gun to my head. We're in this together now. So suck it up."
+        }
+    ]
+}

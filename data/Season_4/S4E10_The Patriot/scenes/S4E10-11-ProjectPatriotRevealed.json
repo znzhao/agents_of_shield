@@ -1,0 +1,321 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 11,
+    "scene_name": "ProjectPatriotRevealed",
+    "description": "At the Playground, Talbot’s rough interrogation of Zaikin continues until Simmons uncovers classified information about \"Project Patriot.\" Talbot reveals to Fitz and Simmons that Mace's superpowers are artificial, created from a formula derived from Daisy's father's work, and without regular doses he's just an ordinary man. The team reels from the ethical implications and the realization that their director is vulnerable and stranded.",
+    "roles": [
+        "glenn_talbot",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "You need a new strategy, son. This silent treatment isn't working for you. I'm gonna ask you one more time. How did you know the Director was going to get on the Quinjet?"
+        },
+        {
+            "character": "Zaikin",
+            "line": "Probability. We considered every scenario, and all eventualities lead to our target's death."
+        },
+        {
+            "character": "Talbot",
+            "line": "This little mathlete stunt what kept you alive when I wiped out Hydra? That's right. I personally had the pleasure of putting your outfit down. And believe me when I tell you... I can make Siberia feel like a luau if you don't start giving me some answers."
+        },
+        {
+            "character": "Zaikin",
+            "line": "The hammer shatters glass but hardens steel. You are glass."
+        },
+        {
+            "character": "Talbot",
+            "line": "Okay, Pushkin. I'll go get a hammer."
+        },
+        {
+            "character": "Talbot",
+            "line": "I miss the Cold War. A man could do his job without one hand tied behind his back. What, you've never been tempted to use every tool in the box? A spud wrench? Hay hook? Plugging chisel?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you speaking English?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Never mind. How's, uh, the location on Mace?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Tracking the Quinjet's proving near impossible. The saboteurs have projected a false transponder signal while simultaneously jamming the real one."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have no way to contact the Director or the Quinjet while this jamming equipment is still active."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is clearly more than some pissed-off former squidheads. Someone with means is backing them."
+        },
+        {
+            "character": "Simmons",
+            "line": "And someone with motive. Could be Watchdogs, Senator Nadeer. Again, why I should perform a thorough analysis of Mace's file."
+        },
+        {
+            "character": "Talbot",
+            "line": "Leave the who and the why to me. Just keep working."
+        },
+        {
+            "character": "Simmons",
+            "line": "Every minute we waste places our friends in greater danger."
+        },
+        {
+            "character": "Talbot",
+            "line": "I told you, I've got this."
+        },
+        {
+            "character": "Simmons",
+            "line": "You may mean well, General, but you are impeding my ability to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "This section of Mace's file, Project Patriot. The only people who have access are Director Mace, General Talbot, Agent Burrows, and now me. You mentioned Burrows earlier. Any chance it's because of this project?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Not relevant."
+        },
+        {
+            "character": "Fitz",
+            "line": "Burrows is always following the Director about with that briefcase. It's not very subtle."
+        },
+        {
+            "character": "Simmons",
+            "line": "What aren't you telling us, General?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You two do not want to get into this right now with me."
+        },
+        {
+            "character": "Simmons",
+            "line": "You knew I had access. You wrote the protocols, right? And have been intentionally steering me away. You want to tell us why? Or should I just read the file myself? Aloud."
+        },
+        {
+            "character": "Talbot",
+            "line": "Clear the room."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, everybody out."
+        },
+        {
+            "character": "Talbot",
+            "line": "There's a very good reason Director Mace is never too far away from that briefcase."
+        },
+        {
+            "character": "Man",
+            "line": "Man down!"
+        },
+        {
+            "character": "Mack",
+            "line": "Nice shot."
+        },
+        {
+            "character": "Man",
+            "line": "Hey!"
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell is he doing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Mace",
+            "line": "No, no, no, no. Aah!"
+        },
+        {
+            "character": "Mack",
+            "line": "What happened? It was just one guy. You could've crushed him."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, he couldn't. He doesn't have Inhuman powers. He doesn't have powers at all."
+        },
+        {
+            "character": "Mace",
+            "line": "Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is what gave you your super-strength? What is it?"
+        },
+        {
+            "character": "Mace",
+            "line": "Some sort of drug cocktail."
+        },
+        {
+            "character": "Mack",
+            "line": "So steroids on steroids?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. You probably should've asked for more specifics."
+        },
+        {
+            "character": "Mace",
+            "line": "I know it was uniquely calibrated for my DNA. They told me it would make me strong, and it did. I never questioned the science behind it."
+        },
+        {
+            "character": "Mack",
+            "line": "And who exactly is “they?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot."
+        },
+        {
+            "character": "Talbot",
+            "line": "Look, it's not like we gave him cancer. He's a superhero now."
+        },
+        {
+            "character": "Simmons",
+            "line": "But you lied to all of us."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's a choice I stand by still, 100%. You didn't need to know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why did you fake his abilities?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, the decision was made that the new Director had to be enhanced. No candidate fit that criteria. So we made one."
+        },
+        {
+            "character": "Simmons",
+            "line": "You restarted the Erskine program."
+        },
+        {
+            "character": "Talbot",
+            "line": "There's no program. Just took a very well-vetted candidate and turned him into the hero and leader that we needed."
+        },
+        {
+            "character": "Fitz",
+            "line": "So how'd you do it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Targeted gene therapy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Biomechanical implants?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Actually, we used a modified version of that formula you confiscated from Agent Johnson's father."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's horrible!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you mad?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Think of the formula's side effects, aggression..."
+        },
+        {
+            "character": "Fitz",
+            "line": "You never fought a juiced-up Cal."
+        },
+        {
+            "character": "Simmons",
+            "line": "... mood swings."
+        },
+        {
+            "character": "Fitz",
+            "line": "The guy nearly killed us."
+        },
+        {
+            "character": "Talbot",
+            "line": "We're not idiots. We took the bad stuff out. Most of it, anyway."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, oh, okay. So you're just... You're just mostly idiots."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mostly."
+        },
+        {
+            "character": "Talbot",
+            "line": "We only gave it to him when he needed to put on a show for a congressman. Say, lift a car, something like that. He was coming off the final dose when Zaikin took a shot at him. We don't know if he got the next one."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which is what Burrows had in that briefcase."
+        },
+        {
+            "character": "Talbot",
+            "line": "Without it, Mace is about as strong as a paper bag in a rainstorm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Explains why you were so eager to find Burrows."
+        },
+        {
+            "character": "Mace",
+            "line": "God, I shouldn't have dragged him into this. And you two, I hate that you're out here without protection."
+        },
+        {
+            "character": "Mack",
+            "line": "What, you think we need you to protect us?"
+        },
+        {
+            "character": "Mace",
+            "line": "No, I... No. And I only lied ‘cause those were my orders. When your country calls, you answer."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, you won't be answering anything if we don't get that bullet wound patched up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe there's a first-aid kit in that ranger station."
+        },
+        {
+            "character": "Mack",
+            "line": "Not a great time for round two."
+        },
+        {
+            "character": "Simmons",
+            "line": "So even if they survived the crash, they could be stranded in the wilderness, on the run from a band of ex-Hydra thugs, unaware that their enhanced asset is a charlatan."
+        },
+        {
+            "character": "Talbot",
+            "line": "No need to be melodramatic, Poppins, but yeah, that's it. Fitz, is there any other way to fix the transponder signal?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Scrambled. If I had a day, maybe I could find a workaround, but in an hour, not so much."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then we need to break Zaikin. There's no time for anything else."
+        }
+    ]
+}

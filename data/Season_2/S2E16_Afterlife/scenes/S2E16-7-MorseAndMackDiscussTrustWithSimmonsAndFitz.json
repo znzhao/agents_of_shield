@@ -1,0 +1,54 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 7,
+    "scene_name": "MorseAndMackDiscussTrustWithSimmonsAndFitz",
+    "description": "Morse discusses S.H.I.E.L.D.'s fractured state with Simmons, probing her about helping open the mysterious box. Meanwhile, Fitz resolves to leave and shares a heartfelt moment with Mack over their friendship. The team’s internal trust issues and differing views on how to handle secrets are brought to the forefront.",
+    "roles": [
+        "bobbi_morse",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Are you really going to let Fitz just walk out of here?"
+        },
+        {
+            "character": "Morse",
+            "line": "He's already cleared and free to go. What about you? Are you staying?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I keep hoping this will all be resolved and things can get back to normal."
+        },
+        {
+            "character": "Morse",
+            "line": "The fastest way to make that happen is to help us open that box. Aren't you curious what's inside?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course I am, but not enough to betray Coulson."
+        },
+        {
+            "character": "Morse",
+            "line": "If he isn't hiding something, then opening it will prove that. If he is, don't you think we should know?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Once it's opened, you'll all leave?"
+        },
+        {
+            "character": "Morse",
+            "line": "Once we know we're all on the same side. But we need Fitz to get it open."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not really. You've been looking at it all wrong. It's not a tech solution, it's a lab solution."
+        }
+    ]
+}

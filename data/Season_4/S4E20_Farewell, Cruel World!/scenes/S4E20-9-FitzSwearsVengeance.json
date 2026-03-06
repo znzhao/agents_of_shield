@@ -1,0 +1,36 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 9,
+    "scene_name": "FitzSwearsVengeance",
+    "description": "Devastated by discovering his father’s corpse, Fitz—now fully embodying the Doctor—blames Simmons for his death. Radcliffe, pressured by Fitz's rage and the presence of HYDRA agents, is forced to lead them toward the backdoor exit. Fitz vows deadly retribution on Simmons, deepening the stakes and the sense of danger for the resistance.",
+    "roles": [
+        "holden_radcliffe",
+        "leo_fitz"
+    ],
+    "vibe": "dark",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "You say this woman loves me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, well clearly, this was an accident. Heartbreaking accident, but I don't believe her intent was..."
+        },
+        {
+            "character": "Doctor",
+            "line": "Look at him."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Fitz..."
+        },
+        {
+            "character": "Doctor",
+            "line": "Look at him! That's my father lying there, murdered in the home that I bought for him. You're gonna lead me to Jemma Simmons, where it is my intent to put a bullet through her skull."
+        }
+    ]
+}

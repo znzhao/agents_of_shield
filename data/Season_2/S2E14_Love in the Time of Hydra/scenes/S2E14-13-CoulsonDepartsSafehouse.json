@@ -1,0 +1,80 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 13,
+    "scene_name": "CoulsonDepartsSafehouse",
+    "description": "Coulson says goodbye to Skye at the safe house, wanting to reassure her that her isolation is only temporary. The mutual trust and affection are evident as Skye tries to accept her predicament. Coulson promises to return soon, and the separation feels bittersweet.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Thanks for the update, Mack."
+        },
+        {
+            "character": "Skye",
+            "line": "Is everything okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm afraid I have to get back."
+        },
+        {
+            "character": "Skye",
+            "line": "I get it. Didn't expect you to stay and roast marshmallows."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is temporary, Skye. I'll be back in a couple days. If you need anything..."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll let you know."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll figure this out. I promise."
+        },
+        {
+            "character": "Talbot",
+            "line": "Captain Andersen. I believe your daughter goes to school with my boy."
+        },
+        {
+            "character": "Anderson",
+            "line": "I don't have a daughter, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, you do not."
+        },
+        {
+            "character": "Talbot",
+            "line": "Lieutenant, when was the last time I got your name right?"
+        },
+        {
+            "character": "Lieutenant",
+            "line": "Never. Sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "You are correct."
+        },
+        {
+            "character": "Talbot",
+            "line": "I think we have a winner, folks. This is not your face."
+        },
+        {
+            "character": "Major",
+            "line": "General, please."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sorry about that, Meredith. Damn it! Where is she?!"
+        }
+    ]
+}

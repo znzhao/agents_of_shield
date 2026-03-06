@@ -1,0 +1,121 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 6,
+    "scene_name": "MadameHydraInterrogatesDaisy",
+    "description": "Madame Hydra takes over Skye's interrogation, explaining the true purpose of the Framework and offering Daisy a life with Lincoln in exchange for information. Daisy refuses, recognizing the danger of having her deepest desires easily fulfilled. Radcliffe, in a nearby cell, yells at Aida, revealing cracks in her control.",
+    "roles": [
+        "aida",
+        "skye",
+        "holden_radcliffe"
+    ],
+    "vibe": "mysterious",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ophelia",
+            "line": "Let's see if she'll open up to me."
+        },
+        {
+            "character": "Doctor",
+            "line": "You? Why?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "You and I have different methods. It's why we work so well together."
+        },
+        {
+            "character": "Doctor",
+            "line": "I'll stay, then."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Actually, I heard there was an issue with Project Looking Glass. I'd like you to check in with Security, see what happened."
+        },
+        {
+            "character": "Doctor",
+            "line": "Of course."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Hello, Daisy."
+        },
+        {
+            "character": "Skye",
+            "line": "You know, I asked for a mani-pedi. Got tortured instead. B.T.-dubs, your psycho-prison sucks."
+        },
+        {
+            "character": "Ophelia",
+            "line": "This isn't a prison. All I did was fix one thing in everyone's life a regret. The subsequent world is simply a consequence of your actions, algorithms running their natural course, as Dr. Radcliffe always intended."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This isn't what I meant, you sadistic witch!"
+        },
+        {
+            "character": "Ophelia",
+            "line": "Guard! Dr. Radcliffe is clearly still suffering the consequences of the errors he made."
+        },
+        {
+            "character": "Skye",
+            "line": "If I had my powers."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I can't give you those, but I can give you something else Something that will make all the pain go away."
+        },
+        {
+            "character": "Skye",
+            "line": "You have no idea what that even..."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Lincoln Campbell. Think of it. You can live a peaceful life, have kids, grow old together with no memory of what's happened here or there, no regrets, just each other."
+        },
+        {
+            "character": "Skye",
+            "line": "In exchange for?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "Just tell me where you are in the other world, and I'll bring Lincoln back."
+        },
+        {
+            "character": "Skye",
+            "line": "You can do that? ‘Cause you're the puppet master, aren't you, pulling all the strings."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I'm just giving people what they want. Why is that wrong?"
+        },
+        {
+            "character": "Skye",
+            "line": "Because sometimes what people want isn't right for them."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I can fix that."
+        },
+        {
+            "character": "Skye",
+            "line": "And what do you get out of all of this?"
+        },
+        {
+            "character": "Opelia",
+            "line": "What everyone else has. A choice."
+        },
+        {
+            "character": "Mace",
+            "line": "Have we I.D.'d everyone yet?"
+        },
+        {
+            "character": "Burrows",
+            "line": "About half. I can start notifying families as soon as..."
+        },
+        {
+            "character": "Mace",
+            "line": "No, I want to do that myself when we get back. Leaving in 10."
+        }
+    ]
+}

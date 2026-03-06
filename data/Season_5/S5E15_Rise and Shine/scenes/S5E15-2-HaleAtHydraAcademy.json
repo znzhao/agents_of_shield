@@ -1,0 +1,79 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 2,
+    "scene_name": "HaleAtHydraAcademy",
+    "description": "Twenty-eight years ago, young Hale attends lectures at the Hydra academy, engaging in banter with Sitwell. Daniel Whitehall presents the Particle Infusion Chamber, hoping to create a super soldier. Hale impresses Whitehall by suggesting they pursue materials from outer space instead of relying on their past, foreshadowing Hydra's future ambitions.",
+    "roles": [
+        "hale"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Good morning. Rise and seize the future."
+        },
+        {
+            "character": "Hale",
+            "line": "One more day. Are you excited?"
+        },
+        {
+            "character": "Sitwell",
+            "line": "Excited to be done with these lectures. I can't stand another one of these old dudes droning on about placement."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, at least today's guest speaker is cool. You know, I heard that he once used alien DNA to actually reverse the body's aging process... Oh, shut up, Sitwell. You're just jealous."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Of you being a teacher's pet? They've got you better trained than any of our mutts."
+        },
+        {
+            "character": "Hale",
+            "line": "You're jealous because I am going places while you will be stuck in middle management."
+        },
+        {
+            "character": "Steger",
+            "line": "Calm down, take a seat. I know everyone is excited about graduation tomorrow. As a reminder, there will be a final examination tonight. And now, here to speak to you about another post-grad opportunity, please welcome, Daniel Whitehall."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Good morning. It's an honour to speak with you, the future of our organisation. Tomorrow, you will leave these halls and venture out into society. And though you may be behind the scenes, there are many ways that you can help HYDRA dismantle the oppressive state. Since World War II, and the success of Steve Rogers, there have been many failed attempts to create a super soldier. But after some ungainly setbacks, we're close. Close to creating the most powerful man on Earth. Now, this is the Particle Infusion Chamber, an apparatus that can force human cells to take on the properties of a raw material. Imagine, a man with the density of lead, with the volatility of cesium and the possibilities are endless. Can someone name another substance suitable for infusion? Yes, Mr Von Strucker."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Why not use Red Skull's Tesseract? It's greatest power source we've ever had."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Intriguing. Looking to our past for inspiration..."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, that's a waste of time. There's no way that we could take it from S.H.I.E.L.D. unnoticed, we would blow our cover."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Well, I suppose you have a better substance in mind?"
+        },
+        {
+            "character": "Hale",
+            "line": "We're not gonna find it by digging up our history. Instead, we should look to where the Tesseract came from, to find new materials."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Meaning?"
+        },
+        {
+            "character": "Hale",
+            "line": "Outer space."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Finally! Some forward thinking."
+        }
+    ]
+}

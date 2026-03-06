@@ -1,0 +1,120 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 14,
+    "scene_name": "StandoffWithTalbot",
+    "description": "As S.H.I.E.L.D. attempts their rescue, Talbot's paranoia surges and he takes Coulson hostage, threatening the team and casting himself as Earth's savior. May and Daisy attempt to negotiate, while Hale tries to defuse Talbot's rage. The confrontation ends with Talbot declaring S.H.I.E.L.D. as his enemies and ordering them to be taken prisoner, while Kasius looks on, foreshadowing further threats to Earth.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "hale",
+        "melinda_may",
+        "skye",
+        "kasius"
+    ],
+    "vibe": "thrilling",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "That's a start."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. is not your enemy."
+        },
+        {
+            "character": "Talbot",
+            "line": "All these years, double-crossing me. I should have known better. You quake and Coulson dies!"
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Talbot",
+            "line": "S.H.I.E.L.D. isn't welcome here. This is my ship!"
+        },
+        {
+            "character": "May",
+            "line": "This is an alien ship. We're here to rescue you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Rescue me? I'm the one that's gonna save us!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Then put Coulson down and we can talk about that."
+        },
+        {
+            "character": "Talbot",
+            "line": "Agent Johnson, always in the centre of the storm. Maybe that's because you're the problem."
+        },
+        {
+            "character": "Daisy",
+            "line": "If I'm the one you want, fine. I won't resist. But first you have to put Coulson down."
+        },
+        {
+            "character": "Talbot",
+            "line": "You and I both know you can't be trusted."
+        },
+        {
+            "character": "Hale",
+            "line": "I trust her."
+        },
+        {
+            "character": "Talbot",
+            "line": "Why would you trust Quake?"
+        },
+        {
+            "character": "Hale",
+            "line": "Because she kept her word. When Ruby was infected with gravitonium, she tried to help."
+        },
+        {
+            "character": "Talbot",
+            "line": "Infected? Ruby was weak. The gravitonium wasn't intended for some itty-bitty little girl. It was meant for a hero, strong enough to handle it!"
+        },
+        {
+            "character": "Hale",
+            "line": "You need to take a deep breath and calm your mind, Glenn. You know what's best. It's best if you comply."
+        },
+        {
+            "character": "Talbot",
+            "line": "Compliance will be rewarded."
+        },
+        {
+            "character": "Hale",
+            "line": "That's right."
+        },
+        {
+            "character": "Talbot",
+            "line": "And so will your betrayal."
+        },
+        {
+            "character": "Talbot",
+            "line": "Go ahead, fire that weapon, Agent May, and Coulson dies, just like Hale. Do you surrender, Agent May?"
+        },
+        {
+            "character": "Qovas",
+            "line": "What should we do with them?"
+        },
+        {
+            "character": "Talbot",
+            "line": "They're prisoners of war. Treat them accordingly."
+        },
+        {
+            "character": "Coulson",
+            "line": "It didn't have to be like this."
+        },
+        {
+            "character": "Talbot",
+            "line": "You were always the enemy, Phil. Only now I have the clarity of mind to see it."
+        },
+        {
+            "character": "Taryan",
+            "line": "The Earth is no longer a hidden blue gem. It belongs to another now. And yet it still has gifts to give. I look forward to taking mine home."
+        }
+    ]
+}

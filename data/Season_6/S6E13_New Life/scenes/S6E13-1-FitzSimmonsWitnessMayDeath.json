@@ -1,0 +1,100 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "FitzSimmonsWitnessMayDeath",
+    "description": "Fitz and Simmons, via Deke's camera, helplessly watch Sarge kill May inside the temple. Shocked, they inform Daisy, Mack, and Elena of May's fate. The group struggles to process this devastating loss when suddenly the base comes under attack from Chronicom Hunters, leading to chaos and urgency. The S.H.I.E.L.D. team realizes that the Lighthouse's systems have been compromised, and communications are cut as the assault escalates.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "May."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not like this. Not by him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz-Simmons, do you read? We are pinned down. They've breached Zephyr One. Any word back from the temple? Control, do you read?"
+        },
+        {
+            "character": "Fitz",
+            "line": "May's down."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sarge, he he stabbed May. She's gone, Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not possible. That..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We saw it with our own eyes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Comms are offline. And somehow I've been locked out of the system."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's weird. Let me. So have I."
+        },
+        {
+            "character": "Fitz",
+            "line": "All satellites are off-line."
+        },
+        {
+            "character": "Simmons",
+            "line": "This can't be an accident."
+        },
+        {
+            "character": "Simmons",
+            "line": "Get down!"
+        },
+        {
+            "character": "Malachi",
+            "line": "Leave no prisoners."
+        },
+        {
+            "character": "Agent",
+            "line": "Stop!"
+        },
+        {
+            "character": "Daisy",
+            "line": "You were right. I should've never trusted him. I should've..."
+        },
+        {
+            "character": "Mack",
+            "line": "No. It wasn't right for me to judge..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, don't don't don't do that. Don't you walk it back. I did this. May. This is on me."
+        },
+        {
+            "character": "Elena",
+            "line": "Then make it mean something."
+        }
+    ]
+}

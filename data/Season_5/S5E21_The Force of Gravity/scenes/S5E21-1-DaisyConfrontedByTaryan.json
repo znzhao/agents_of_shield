@@ -1,0 +1,101 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 1,
+    "scene_name": "DaisyConfrontedByTaryan",
+    "description": "Daisy awakens to find herself in a disorienting mental encounter with Taryan, who tries to manipulate her into becoming his disciple by appealing to her status as an Inhuman. Meanwhile, Coulson and May are revealed to be prisoners on the Remorath ship, with Qovas threatening their lives and the safety of the Lighthouse. The tension rises as the agents try to grasp their situation and options.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Taryan",
+            "line": "Quake. I rescued humanity. Did you know that? I want to believe you, Daisy. May I call you “Daisy”? So, this is Quake, Destroyer of Worlds."
+        },
+        {
+            "character": "Taryan",
+            "line": "Give yourself a moment to adjust. Your mind will clear shortly."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where am I?"
+        },
+        {
+            "character": "Taryan",
+            "line": "A neutral location perched near the edge of the galaxy, safe. I assure you. Allow me to introduce myself. I am the firstborn Taryan, master of the house Kasius."
+        },
+        {
+            "character": "Daisy",
+            "line": "Kasius?"
+        },
+        {
+            "character": "Taryan",
+            "line": "Please, just hear me out. You are Inhuman. I always knew the tales of the experiments were true."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, for the record, we don't love to be called experiments, just “moving forward.”"
+        },
+        {
+            "character": "Taryan",
+            "line": "No, I imagine your people treated you unkindly."
+        },
+        {
+            "character": "Daisy",
+            "line": "I've worked through it."
+        },
+        {
+            "character": "Taryan",
+            "line": "You deserve better. All Inhumans do, something better, elsewhere."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where are my friends? May? Coulson?"
+        },
+        {
+            "character": "Taryan",
+            "line": "You mustn't worry about them. They are your past. I am your future."
+        },
+        {
+            "character": "Qovas",
+            "line": "You are now prisoners of war. I suggest you use your time to consider the disrespect you've shown me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Suggest all you want. You're just the villain of the month, and you're going down, just like all the rest."
+        },
+        {
+            "character": "Qovas",
+            "line": "And how do you plan to stop me? With Earth weapons? The tools of cowards. We Remorath earn our kills. That is how we earn our rank. With humans, it's not about earned power. It's about the gun. It allows the weak to pretend to be strong."
+        },
+        {
+            "character": "May",
+            "line": "I don't need a gun to stop you."
+        },
+        {
+            "character": "Qovas",
+            "line": "I have several ioniser missiles aimed at your Lighthouse right now. If you or your people do anything, I will release them. Since you like weapons so much."
+        },
+        {
+            "character": "Qovas",
+            "line": "Will they be held indefinitely or scrapped?"
+        },
+        {
+            "character": "Talbot",
+            "line": "That depends on whether or not they push you to it. Don't worry. I know what I'm doing. We are both about to get everything we need."
+        },
+        {
+            "character": "Qovas",
+            "line": "All I need is gravitonium."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, I know someone who may be able to help us out."
+        }
+    ]
+}

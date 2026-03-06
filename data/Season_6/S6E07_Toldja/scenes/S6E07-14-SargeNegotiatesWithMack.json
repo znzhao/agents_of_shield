@@ -1,0 +1,60 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 14,
+    "scene_name": "SargeNegotiatesWithMack",
+    "description": "Sarge, stuck in his cell, remains unmoved by Mack's progress and hints that S.H.I.E.L.D. hasn't truly won yet. Mack updates Sarge on their capture of two Shrike, but Sarge remains cryptic, making it clear that something worse is about to happen.",
+    "roles": [
+        "alphonso_mackenzie",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "You're persistent, I'll give you that. Must be starved for company."
+        },
+        {
+            "character": "Mack",
+            "line": "You shared a little with Agent May. Why not continue that conversation with me?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I was trying to recruit her. You want to take a ride?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, I'm good."
+        },
+        {
+            "character": "Sarge",
+            "line": "Doesn't matter. Like I said, I won't be in here much longer."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, that's right. That's right. Uh, and how do you think you'll get out?"
+        },
+        {
+            "character": "Sarge",
+            "line": "We'll see. Anything could happen."
+        },
+        {
+            "character": "Mack",
+            "line": "You mean, like, uh, that door could burn down? Yeah. We put out Jaco's fire. He's sleeping it off. But you might want to get used to this cell 'cause you're gonna be in here for a while, my friend."
+        },
+        {
+            "character": "Sarge",
+            "line": "I don't think I'll be calling this home or calling you friend."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, that's disappointing. I was hoping maybe we could plan a fishing trip together. Oh, well. Oh, we, uh... We got your tracker up and running. We nabbed two Shrike that were headed for each other. My team has them inbound, so... it looks like we're gonna save those lives after all."
+        },
+        {
+            "character": "Sarge",
+            "line": "Wow. Two at once? Seems like you've outsmarted me."
+        }
+    ]
+}

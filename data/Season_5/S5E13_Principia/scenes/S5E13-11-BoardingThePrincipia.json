@@ -1,0 +1,171 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 11,
+    "scene_name": "BoardingThePrincipia",
+    "description": "Coulson, Daisy, Mack, and Caine locate the Principia floating in the clouds and board the derelict, gravity-defying vessel. The team splits up to search for the Gravitonium, encountering the empty ship, eerie remains of the crew, and evidence others have been there before. The tension mounts as they realize they are not alone on the floating ship.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Principia (lost ship carrying gravitonium)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Anything?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. More clouds."
+        },
+        {
+            "character": "Davis",
+            "line": "We're looking for a needle in a haystack."
+        },
+        {
+            "character": "Daisy",
+            "line": "Or a flying boat."
+        },
+        {
+            "character": "Caine",
+            "line": "You got to be kidding me. Holy moly! You guys see stuff like this all the time?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Mm-hmm. Pretty much."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Davis",
+            "line": "Yep."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "No! No, get aw... get away!"
+        },
+        {
+            "character": "Ruby",
+            "line": "I heard screaming."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I don't just remember words and facts. I remember pain, every beating I've ever taken, like it's new. Over and over."
+        },
+        {
+            "character": "Ruby",
+            "line": "Well, that has got to suck. I never knew my father. But my mother, she's a tyrant. Keeps me locked up here and makes me do things that I don't want to do. She's using me to get to you. Everything I did, ignoring you, letting you touch me, taking me hostage, that was all planned, the grand seduction of Werner von Strucker. Gain his trust by any means necessary. You made the right decision. She doesn't care about you or me, she only wants what's in your head. But whatever she's planning, it's not gonna be any different than HYDRA or S.H.I.E.L.D, unless..."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Unless what?"
+        },
+        {
+            "character": "Ruby",
+            "line": "It doesn't have to be her team. It could be our team, only she wouldn't know until it was too late."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I don't want to be part of any team. I just want to go somewhere far away."
+        },
+        {
+            "character": "Ruby",
+            "line": "With all of those bad memories? Maybe the key is to bury them under newer, happier memories. If you're not here tomorrow, I'll understand. But if you are..."
+        },
+        {
+            "character": "May",
+            "line": "Davis has us in hover mode. You sure you don't need me down there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need someone on the thing that's actually supposed to be in the air in case the bottom drops out on us. I trust you way more than Davis to fly that crazy rescue."
+        },
+        {
+            "character": "Davis",
+            "line": "I hear you and don't disagree."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, Coulson, don't forget the plan for your oxygen. Five minutes without it, you'll get really loopy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, cameras on."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, Fitz, you reading this?"
+        },
+        {
+            "character": "May",
+            "line": "Copy that. Crystal clear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep, copy that. Looking good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got to admit, it's kind of cool walking around on a ship 25,000 feet up in the sky."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz, how is this even possible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "When the Gravitonium was supercharged, most likely by a lightning strike, created an applied gravity field on the ship."
+        },
+        {
+            "character": "Deke",
+            "line": "Same way the Gravity Puck works. That means there's got to be Gravitonium there somewhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, deck one is clear."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think we found the crew."
+        },
+        {
+            "character": "Simmons",
+            "line": "That looks like severe hypoxia."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's keep moving."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're in the engine room. Looks like someone's been here before us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Where's the Gravitonium?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Whoever they were, they didn't go home empty-handed."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's keeping the ship in the air if there's no Gravitonium?"
+        },
+        {
+            "character": "Deke",
+            "line": "It's not possible."
+        }
+    ]
+}

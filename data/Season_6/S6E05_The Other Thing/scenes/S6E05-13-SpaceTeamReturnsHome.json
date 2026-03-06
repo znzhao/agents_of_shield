@@ -1,0 +1,54 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 13,
+    "scene_name": "SpaceTeamReturnsHome",
+    "description": "Daisy, Piper, and Davis return to the Lighthouse, happily reuniting with Elena and Mack after their difficult escape. They are welcomed back, but questions about Simmons and Fitz’s whereabouts cast a shadow over the reunion.",
+    "roles": [
+        "piper",
+        "davis",
+        "elena_rodriguez",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "lighthearted",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Lighthouse Control, this is Zephyr One. Requesting permission to land."
+        },
+        {
+            "character": "Elena",
+            "line": "Welcome back."
+        },
+        {
+            "character": "Davis",
+            "line": "I never thought I'd be so happy to see this dirty, old place."
+        },
+        {
+            "character": "Piper",
+            "line": "Amen, brother."
+        },
+        {
+            "character": "Mack",
+            "line": "Tremors."
+        },
+        {
+            "character": "Daisy",
+            "line": "Director. Hi."
+        },
+        {
+            "character": "Mack",
+            "line": "Where's Fitz and Simmons?"
+        },
+        {
+            "character": "Trevor",
+            "line": "Sir, Agent May just called. She's on her way back. She caught him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Caught who?"
+        }
+    ]
+}

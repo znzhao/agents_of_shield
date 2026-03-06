@@ -1,0 +1,109 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 7,
+    "scene_name": "MalickPressuresTransiaBoard",
+    "description": "At the Transia Corporation facility, Malick and Hive pressure CEO Hamilton and the board into selling the company, demonstrating the threat posed by Hive, Giyera, and Charles' visions. When the board resists, Hive triggers a vision via Charles to instill fear, and Malick takes command of Transia's advanced prosthetic exoskeleton hardware. They force Malick to don the exoskeleton to feel the power Hive promised, culminating in violence.",
+    "roles": [
+        "gideon_malick",
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "Transia Corporation facility (Michigan / corporate sites)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hamilton",
+            "line": "What's so pressing that couldn't wait a few days, Gideon?"
+        },
+        {
+            "character": "Malick",
+            "line": "Well, you know me. I seize opportunity. This state-of-the-art prosthetic contains some hardware manufactured by you here at Transia. The nerve-wire interface, to be precise."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Okay."
+        },
+        {
+            "character": "Malick",
+            "line": "And I'm aware your company's been working on an exoskeletal limb-assist prototype for the Defense Department using this same technology. So, I'd like to buy it."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Buy one of our leading patents."
+        },
+        {
+            "character": "Malick",
+            "line": "No, no. The company."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Can you repeat yourself? I must be losing it, but I thought I just heard you..."
+        },
+        {
+            "character": "Malick",
+            "line": "I'd like you to sign your company over to me,"
+        },
+        {
+            "character": "Hamilton",
+            "line": "for a fair price, of course. Yeah. Uh, look, there's no love lost between us. And though I respect the brass it took to make that pitch, I'm really not into people wasting my time. I hate it."
+        },
+        {
+            "character": "Hive",
+            "line": "This would be in your best interest."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Who the hell is this?"
+        },
+        {
+            "character": "Malick",
+            "line": "This man has my full authority to negotiate this deal."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Negotiate? Gideon, there is not a chance in hell that I am gonna sell you a single share of this company, let alone controlling interest."
+        },
+        {
+            "character": "Hive",
+            "line": "Let me show you what will happen."
+        },
+        {
+            "character": "Charles",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Hamilton",
+            "line": "Oh, God! Okay! I'll give you what you want. Please. There, okay? Just leave! Leave us alone, okay?! Please!"
+        },
+        {
+            "character": "Hive",
+            "line": "You're confused. I said I would show you what will happen."
+        },
+        {
+            "character": "Charles",
+            "line": "I can't believe this."
+        },
+        {
+            "character": "Giyera",
+            "line": "Our men are taking control of the building as we speak."
+        },
+        {
+            "character": "Malick",
+            "line": "This is what we went to all this trouble for? What do you want with this?"
+        },
+        {
+            "character": "Hive",
+            "line": "I want you to put it on."
+        },
+        {
+            "character": "Malick",
+            "line": "Come on."
+        },
+        {
+            "character": "Hive",
+            "line": "Whether you'll admit it or not, Gideon, the one thing you crave and have never felt is true power. The kind that I, Giyera, even Charles there possesses. Put that on, and you will."
+        }
+    ]
+}

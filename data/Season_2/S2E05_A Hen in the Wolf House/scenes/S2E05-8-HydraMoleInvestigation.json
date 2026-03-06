@@ -1,0 +1,73 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 8,
+    "scene_name": "HydraMoleInvestigation",
+    "description": "At Hydra's headquarters, Bakshi and Bobbi Morse lead a tense investigation to root out a S.H.I.E.L.D. mole. Morse interrogates Simmons in the bathroom, pressing her for information and threatening to search her hard drive, while Simmons tries to remain calm and maintain her cover.",
+    "roles": [
+        "jemma_simmons",
+        "sunil_bakshi",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Everyone, listen up. I need each of you to step away from your desk and place your hands behind your back."
+        },
+        {
+            "character": "Morse",
+            "line": "Keep everyone off their phones and tablets. We have a mole, ladies and gentlemen, right here in our very facility. Someone has been sending S.H.I.E.L.D. messages right under our noses. I specialize in finding them. Bakshi here... well, he makes them suffer. Until that happens... no one leaves."
+        },
+        {
+            "character": "Bakshi",
+            "line": "HYDRA does not tolerate traitors. Anyone caught in possession of contraband will be punished accordingly."
+        },
+        {
+            "character": "Morse",
+            "line": "Dr. Jemma Simmons. This is quite an impressive résumé... S.H.I.E.L.D. academy, top of your class, two PHDs in very advanced fields. It even says here you spent time in the field as a S.H.I.E.L.D. agent. Is that correct?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Only a short time."
+        },
+        {
+            "character": "Morse",
+            "line": "No. You've only been in HYDRA a short time. But it seems that you've been affiliated with S.H.I.E.L.D. in one capacity or another for most of your life."
+        },
+        {
+            "character": "Simmons",
+            "line": "To be fair, aren't most HYDRA agents ex-S.H.I.E.L.D. operatives?"
+        },
+        {
+            "character": "Morse",
+            "line": "Who were working from within S.H.I.E.L.D. long before it fell. But there's no evidence you supported HYDRA while S.H.I.E.L.D. still existed. In fact, it seems you were an exemplary S.H.I.E.L.D. agent... perhaps even still are."
+        },
+        {
+            "character": "Simmons",
+            "line": "My loyalties are with HYDRA."
+        },
+        {
+            "character": "Morse",
+            "line": "I'll be the judge of that."
+        },
+        {
+            "character": "Agnet",
+            "line": "Madam... there's something you have to see."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Wait. Wait. That's... That's not mine. I-I-I've never seen that before in my life! I don't even know what that is! What... I..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Still nothing."
+        },
+        {
+            "character": "May",
+            "line": "Copy that."
+        }
+    ]
+}

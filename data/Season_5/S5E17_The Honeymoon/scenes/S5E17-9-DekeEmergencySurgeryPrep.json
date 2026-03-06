@@ -1,0 +1,67 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 9,
+    "scene_name": "DekeEmergencySurgeryPrep",
+    "description": "Back at the Lighthouse, May, Piper, Mack, Daisy, and Coulson try to stabilize Deke's condition. Simmons is missing, so Piper, with Mack assisting, prepares for emergency surgery. The scene emphasizes teamwork and urgency, with everyone stepping up under stress.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "skye",
+        "phil_coulson",
+        "deke_shaw"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Mack, where have you been? Get Simmons. We need her."
+        },
+        {
+            "character": "Mack",
+            "line": "She's not here. She and Yo-Yo locked me in Fitz's cell and ran off to who knows where."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz's cell? Must be the long story you mentioned."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I left you in charge. What the hell happened?"
+        },
+        {
+            "character": "Mack",
+            "line": "They think they can't be killed. You try arguing with someone who's totally irrational."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll decide who's rational later. What are we gonna do for Deke?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He's coughing up blood. If Simmons is AWOL, we have to get him to a hospital."
+        },
+        {
+            "character": "May",
+            "line": "We don't have time for that. Piper, you were in training to be a field medic for the strike team. What are we looking at?"
+        },
+        {
+            "character": "Piper",
+            "line": "Uh, he's in shock. If he doesn't get a blood transfusion soon..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No choice. Treat him here."
+        },
+        {
+            "character": "Piper",
+            "line": "I have zero field experience. There's no way. I'm not a surgeon."
+        },
+        {
+            "character": "Mack",
+            "line": "Just talk me through it. I'm not afraid of blood, and I got a steady hand."
+        }
+    ]
+}

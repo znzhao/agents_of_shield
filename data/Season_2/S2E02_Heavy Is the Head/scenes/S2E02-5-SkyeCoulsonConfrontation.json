@@ -1,0 +1,56 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "SkyeCoulsonConfrontation",
+    "description": "Skye goes to Coulson, requesting to be sent back into the field to hunt Creel. Coulson refuses, insisting May is handling it and assigning Skye the difficult task of packing Hartley's belongings. Skye warns Coulson about bottling up his emotions, emphasizing self-care. Their conversation exposes the leadership burden Coulson carries as the new director.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hmm. Keep an eye out for this."
+        },
+        {
+            "character": "Skye",
+            "line": "I just wanted to report that Mack and Trip are working on cloaking, so... I'm free if you want me back in the field."
+        },
+        {
+            "character": "Coulson",
+            "line": "That won't be necessary. May's still out there."
+        },
+        {
+            "character": "Skye",
+            "line": "What about Hartley and Idaho? They're not out there, are they? It was that thing, wasn't it? The object."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was Creel."
+        },
+        {
+            "character": "Skye",
+            "line": "Sir, I need to get back out there and help May take him down."
+        },
+        {
+            "character": "Skye",
+            "line": "She's my S.O. I'm a field agent now, and I can handle myself. That's not what this is about. Then what is it about? The object? The symbols? Because I can't help if I don't know what's going on."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you'd like to help, go down to the bunks, pack up Hartley's things."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. I know you're the boss and you have to compartmentalize everything, but it's not healthy. You need to loosen up. Try... yoga or something."
+        },
+        {
+            "character": "Coulson",
+            "line": "I tried it, but I'm... really not flexible. But thanks."
+        }
+    ]
+}

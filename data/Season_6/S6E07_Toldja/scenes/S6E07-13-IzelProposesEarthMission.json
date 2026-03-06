@@ -1,0 +1,102 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 13,
+    "scene_name": "IzelProposesEarthMission",
+    "description": "At a bar on Kitson, Izel reveals her true intentions to FitzSimmons and Enoch. She wants their help recovering valuable artifacts stolen from her and reveals she intends to travel to Earth. Fitz and Simmons, motivated by the promise of returning home, agree to help, also hinting at a possible ship for the journey.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "enoch",
+        "izel"
+    ],
+    "vibe": "mysterious",
+    "location": "Kitson (alien casino planet / House of Games)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "To your generosity. For purchasing my release, as well. And your name?"
+        },
+        {
+            "character": "Izel",
+            "line": "Izel. Truthfully, I can take or leave synthetics, but my new crew wanted you and you're cheap. No offense."
+        },
+        {
+            "character": "Enoch",
+            "line": "Only a little taken. In any case, a cold Baracoolada goes well with the taste of freedom."
+        },
+        {
+            "character": "Fitz",
+            "line": "New crew? You mean us."
+        },
+        {
+            "character": "Izel",
+            "line": "Wish I could say that I saved you out of the kindness of my heart, but I didn't come to Kitson for noble gestures. I came to recruit those with nothing to lose."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I'm not sure that quite describes Fitz and myself."
+        },
+        {
+            "character": "Izel",
+            "line": "You're both wanted."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, not for crimes that make any sense."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz and I are just scientists."
+        },
+        {
+            "character": "Izel",
+            "line": "Even better. I don't need fighters. I can handle that. Your knowledge might be perfect for what I'm searching for."
+        },
+        {
+            "character": "Simmons",
+            "line": "And what is that?"
+        },
+        {
+            "character": "Izel",
+            "line": "Valuable artifacts stolen from me. And I know what planet they're on."
+        },
+        {
+            "character": "Simmons",
+            "line": "Whatever planet you're going to, it will probably be foreign to Fitz and I."
+        },
+        {
+            "character": "Fitz",
+            "line": "Our knowledge is mostly Earth-based."
+        },
+        {
+            "character": "Izel",
+            "line": "Did you think it was luck that I saved the lives of two Terrans?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You mean..."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're going to Earth?"
+        },
+        {
+            "character": "Izel",
+            "line": "We're going to Earth."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excellent. Yeah. You could've lead with that."
+        },
+        {
+            "character": "Izel",
+            "line": "Oh, one problem. I don't have a ship. It was destroyed with my last crew on board. I only salvaged the jump drive."
+        },
+        {
+            "character": "Fitz",
+            "line": "We may know of a ship."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "CoulsonLMDActivatedOnZephyr",
+    "description": "Aboard Zephyr One, Simmons introduces the newly activated LMD of Phil Coulson to the team, explaining the technology and the reasons behind his revival. Coulson is overwhelmed by rapidly downloaded memories, struggling with his identity and the trauma of being brought back against his wishes. The team responds with concern, debating Simmons' choices and realizing the urgency of the Chronicom threat. Mack asserts his authority as Director, demanding Simmons reveal all she knows about their current predicament.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez",
+        "enoch"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "He has Chronicom hardware, which makes him our most advanced LMD. So... what do you think?"
+        },
+        {
+            "character": "Mack",
+            "line": "He would want us to consider the ramifications..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, guys. Why is no one talking? Oh, hey. I'm digging the hair."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, you've missed quite a lot."
+        },
+        {
+            "character": "Coulson",
+            "line": "How did we get here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The last scan of your brain was from the Framework. I've done my best to update it with all that you've missed. But you may feel some disorientation as your mind catches up to the present."
+        },
+        {
+            "character": "Coulson",
+            "line": "My arm feels different. It's fixed. Doesn't feel the same."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson, take it easy. Let Simmons explain."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't feel the same. Why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We had to make a tough decision..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Because you're an LMD."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. No. No!"
+        },
+        {
+            "character": "Mack",
+            "line": "Was that necessary?"
+        },
+        {
+            "character": "Daisy",
+            "line": "There's no easy way to say it."
+        },
+        {
+            "character": "Simmons",
+            "line": "A state-of-the-art life model, enhanced with advanced..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Chronicom hardware. How do I know that word? Why am I... Oh. I died. I died and I came back. Not me. I died and we said goodbye and I came back. I died again and came back..."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do we do?"
+        },
+        {
+            "character": "Mack",
+            "line": "Fix this."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know how. There's a lot of data flooding his mind."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson, I'm here. Okay, so, j-just take a breath."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do I breathe?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You are okay. You are okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I'm not okay. I'm not him. I look like him. Pachakutiq. May, don't! May."
+        },
+        {
+            "character": "Daisy",
+            "line": "That... That was not your fault."
+        },
+        {
+            "character": "Coulson",
+            "line": "It really is magical, Talbot, Tahiti, who's like us, goodbye... Fitz, oh, God!"
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons, do something."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's two years of information all at once."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dying, lying, lying, Lighthouse... Dearly beloved, we're gathered here today... from processing..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "A symbol that must carry on... Ghost Rider, take the deal. Take the deal. I'm dead anyway. I'm dead anyway! I'm dead anyway!"
+        },
+        {
+            "character": "Daisy",
+            "line": "What the hell?! You can't do that! You can't just shut Coulson down."
+        },
+        {
+            "character": "Simmons",
+            "line": "It may be unpleasant, but he needs to go through this. You can't just..."
+        },
+        {
+            "character": "Mack",
+            "line": "Both of you, shut up. That's an order. Coulson or not, anything LMD-related is a Director-level decision. That's not up for debate. Are we clear? Agent Simmons. You're gonna tell us everything you know. Right now."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm saying we can't waste time. The Chronicoms want to take Earth and fear only S.H.I.E.L.D. can stop them."
+        },
+        {
+            "character": "Mack",
+            "line": "So they plan to eliminate S.H.I.E.L.D. from history. And if we hadn't jumped when we did..."
+        },
+        {
+            "character": "Daisy",
+            "line": "The fight would've ended before it ever began."
+        }
+    ]
+}

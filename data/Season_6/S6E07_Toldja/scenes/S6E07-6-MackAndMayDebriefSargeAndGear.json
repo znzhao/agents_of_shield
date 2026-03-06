@@ -1,0 +1,121 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "MackAndMayDebriefSargeAndGear",
+    "description": "May and Mack discuss Sarge's lack of cooperation, the mysterious tracker, and the rift between Mack and Deke. Deke confronts Mack about being left out of the Fitz rescue mission, expressing anger and hurt. Mack offers Deke a chance for redemption by contributing his technical expertise to decipher Sarge's tracker.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "This is the gear from Sarge's truck."
+        },
+        {
+            "character": "Mack",
+            "line": "You know, we got to start calling him something else."
+        },
+        {
+            "character": "May",
+            "line": "Didn't tell you a name, either, huh?"
+        },
+        {
+            "character": "Mack",
+            "line": "No. We're in the dark on all this, as well. You know, except for the blades and this tracker. If we can get past the encryption on this, then we can find the Shrike and save the hosts."
+        },
+        {
+            "character": "May",
+            "line": "Has Sarge given you anything that might help with that?"
+        },
+        {
+            "character": "Mack",
+            "line": "No. Just evasion and mind games."
+        },
+        {
+            "character": "May",
+            "line": "Maybe play some of your own."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm open to ideas."
+        },
+        {
+            "character": "May",
+            "line": "He was curious about Coulson. I don't think he knows any more than we do about why they look alike. Maybe there's something you can use there."
+        },
+        {
+            "character": "Deke",
+            "line": "Why didn't you tell me?"
+        },
+        {
+            "character": "Mack",
+            "line": "Might want to give us a minute."
+        },
+        {
+            "character": "May",
+            "line": "Gladly."
+        },
+        {
+            "character": "Deke",
+            "line": "Fitz died. He died, and no one was gonna bother to, I don't know, send me a text?"
+        },
+        {
+            "character": "Mack",
+            "line": "It was complicated."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, no kidding. Besides the fact that this completely proves my entire multi-verse theory, 'cause I'm still here, there's a second Fitz! And... And you sent a team out to find him, and you didn't tell me that, either?! That's not complicated. That just sucks!"
+        },
+        {
+            "character": "Mack",
+            "line": "It was the call made at the time."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, maybe you shouldn't be making the calls because that was a bad one."
+        },
+        {
+            "character": "Mack",
+            "line": "It looked like you had other priorities - besides being a part of this team."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, this team? You mean the team that I helped bring back from the dystopian future?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, you did that. Then you left."
+        },
+        {
+            "character": "Deke",
+            "line": "I would've gone on the mission to help you find him."
+        },
+        {
+            "character": "Mack",
+            "line": "I believe you. And if we can get things settled here on the home front, you'll get your chance. 'Cause I'm gonna pour every resource we have into getting back out there and bringing them home. But... until then, I need someone smart enough to fill their shoes. Maybe you can put that Google-sized brain of yours to work and help crack this tech."
+        },
+        {
+            "character": "Deke",
+            "line": "What, are you trying to flatter me?"
+        },
+        {
+            "character": "Mack",
+            "line": "Absolutely."
+        },
+        {
+            "character": "Deke",
+            "line": "Well... totally worked."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Poor Jaco. It burns, but it's worth it."
+        }
+    ]
+}

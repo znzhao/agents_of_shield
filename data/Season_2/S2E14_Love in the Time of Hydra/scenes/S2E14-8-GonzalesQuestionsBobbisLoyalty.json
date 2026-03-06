@@ -1,0 +1,77 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 8,
+    "scene_name": "GonzalesQuestionsBobbisLoyalty",
+    "description": "In the 'real' S.H.I.E.L.D.'s headquarters, Gonzales presses Bobbi Morse about her loyalty now that Hunter is a potential liability. They discuss Hunter's unpredictable nature and Bobbi reaffirms her allegiance to their cause despite her personal history with Hunter. The political and emotional stakes within the organization are heightened.",
+    "roles": [
+        "robert_gonzales",
+        "alphonso_mackenzie",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "Mack. How's your cover with Coulson?"
+        },
+        {
+            "character": "Mack",
+            "line": "We're giving him updates once a day, painting in broad strokes. Heartbroken ex-husband, finding comfort in a bottle, that kind of thing."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's time for you to get back, then."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Play it as ships passing in the night."
+        },
+        {
+            "character": "Mack",
+            "line": "Roger that."
+        },
+        {
+            "character": "Gonzales",
+            "line": "What's your take on Hunter?"
+        },
+        {
+            "character": "Morse",
+            "line": "It's hard to say. He's not really the type to show his cards, especially in front of an audience."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Would you tell me if he was?"
+        },
+        {
+            "character": "Morse",
+            "line": "What are you implying, Robert?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "I know that you and Hunter have been reconnecting lately. Maybe that's taken your focus off the big picture."
+        },
+        {
+            "character": "Morse",
+            "line": "You really want to play that angle, after the hell you and I have been through here together?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "I need to make sure that you're all-in, Barbara."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm all-in."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Good. Then you'll understand why we're keeping Hunter on the base till the Coulson situation has been resolved."
+        }
+    ]
+}

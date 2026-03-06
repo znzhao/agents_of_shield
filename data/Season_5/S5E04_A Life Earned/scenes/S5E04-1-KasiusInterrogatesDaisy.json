@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "KasiusInterrogatesDaisy",
+    "description": "Kasius confronts Daisy about how she and Simmons arrived at the Lighthouse, putting pressure on her regarding the prophecy and hinting at his plans involving the human population. Daisy tries to hold her ground, refusing to reveal the presence of any other agents, but Kasius implies Simmons' fate depends on Daisy's cooperation. This sets the tension for the episode's stakes.",
+    "roles": [
+        "kasius",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "I rescued humanity. Did you know that? What you may not know is how much I've sacrificed to do it. Before I arrived, this place was nothing but a wreckage, the rotted shell of a dead organism. But I saw it for what it could be. I had vision. And now, thanks to you, that vision has finally come to fruition."
+        },
+        {
+            "character": "Daisy",
+            "line": "You've taken my blood. What more do you need from me?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Despite all I did for these humans, I found them clinging to their gods, their fairy tales, one of which was Quake. The Old Ones, rest their souls, they used to tell the story of how S.H.I.E.L.D. would return one day from the past to save them. Now here you are."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not my choice."
+        },
+        {
+            "character": "Kasius",
+            "line": "Yet you show up at the exact same time as another human, with no marks on her wrist and a skill set beyond her station. Jemma."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know you're trying to say something, but I'm just not sure what."
+        },
+        {
+            "character": "Kasius",
+            "line": "Perhaps you are more than a fairy tale. How many of you are here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No one else."
+        },
+        {
+            "character": "Kasius",
+            "line": "I want to believe you, Daisy. May I call you “Daisy?” It's a lot less formal than “Destroyer of Worlds.” You see, I have my own interpretation of the fairy tale. I think you're here to help me."
+        },
+        {
+            "character": "Daisy",
+            "line": "That seems unlikely."
+        },
+        {
+            "character": "Kasius",
+            "line": "Does it? Word of your presence has piqued much interest. In fact, bidders are on their way. And with the price I'll fetch for you, I'll finally have the means to leave this horrendous place once and for all."
+        },
+        {
+            "character": "Daisy",
+            "line": "What makes you think I'd go along with that?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Because, of course, your friend's face is so beautiful. Don't you want to make sure it stays that way?"
+        }
+    ]
+}

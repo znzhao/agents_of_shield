@@ -1,0 +1,34 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "nick_fury"
+    ],
+    "aliases": [
+        "Coulson",
+        "Agent Coulson",
+        "May",
+        "Agent May",
+        "Ward",
+        "Agent Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Fitz-Simmons",
+        "Nick Fury",
+        "Fury"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Rising Tide (hacktivist group)",
+        "Hydra"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "Slingshot launch facility (desert)"
+    ]
+}

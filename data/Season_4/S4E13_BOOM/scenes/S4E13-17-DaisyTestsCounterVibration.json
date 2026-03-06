@@ -1,0 +1,46 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 17,
+    "scene_name": "DaisyTestsCounterVibration",
+    "description": "On Zephyr One, Daisy struggles to master the counter-vibration technique necessary to contain Shockley. Simmons supports her, promising they’ll perfect it together. Meanwhile, the team prepares for the next confrontation as news arrives that Shockley has destroyed a motel.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "jeffrey_mace",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Frak."
+        },
+        {
+            "character": "Simmons",
+            "line": "Perhaps you're not finding the right counter-vibration."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm trying."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. And we'll keep trying until you can defuse Mr. Shockley. Again?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you kidding me?"
+        },
+        {
+            "character": "Mace",
+            "line": "Scrimmage is over. It's game time. Shockley just blew up a motel. We have to assume he's only getting started."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bomb squad's meeting us on the ground. You ready?"
+        }
+    ]
+}

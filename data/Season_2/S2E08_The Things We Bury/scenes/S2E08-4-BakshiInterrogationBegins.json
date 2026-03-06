@@ -1,0 +1,128 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 4,
+    "scene_name": "BakshiInterrogationBegins",
+    "description": "Bobbi Morse interrogates Bakshi, using sarcasm and psychological tactics to try to break him. Meanwhile, Mack, Hunter, and Simmons observe and speculate about Bakshi’s motivations and Whitehall’s influence. Jemma Simmons finds it difficult to even sit across from Bakshi, hinting at the agents’ personal trauma from HYDRA’s actions. The scene demonstrates S.H.I.E.L.D.'s attempt to outmaneuver and outwit their enemies using both hard and soft interrogative methods.",
+    "roles": [
+        "bobbi_morse",
+        "sunil_bakshi",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "We grow stronger every day while S.H.I.E.L.D. clings desperately to a world it no longer understands. We will rip it from your hands."
+        },
+        {
+            "character": "Morse",
+            "line": "I've read the HYDRA pamphlet. Didn't your mother ever teach you, if you're gonna talk, say something."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I could go back to being silent."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, might as well if you have no thoughts of your own. I don't understand how you can work for someone so..."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Call him evil all you want."
+        },
+        {
+            "character": "Morse",
+            "line": "Nope. I was gonna say... boring."
+        },
+        {
+            "character": "Mack",
+            "line": "She's chipping away at him."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's nice to watch someone else suffer for a change."
+        },
+        {
+            "character": "Mack",
+            "line": "You talk to anybody about what happened last week?"
+        },
+        {
+            "character": "Hunter",
+            "line": "A lot happens every week, mate."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, with the director. You didn't see what I saw. The guy was violent."
+        },
+        {
+            "character": "Hunter",
+            "line": "Seems all right to me."
+        },
+        {
+            "character": "Mack",
+            "line": "No, no, he was out of his mind, man. And they're saying it's ‘cause Fury messed with his head or something. I don't..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Come to join the festivities?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mr. Bakshi almost killed me a few times."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, pull up a seat."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm surprised she's so... civil."
+        },
+        {
+            "character": "Mack",
+            "line": "Want to see his head bashed in?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That would be wrong, wouldn't it? But I could never sit across from him like that, smiling."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi can pretend to like anything."
+        },
+        {
+            "character": "Morse",
+            "line": "How can you follow Whitehall? He's sort of a milquetoasty middle-management type. Now you... you got that whole classic bond-villain thing going on. Why not lead?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "My time will come. Like Whitehall, I worry about the long view."
+        },
+        {
+            "character": "Morse",
+            "line": "And I worry that you've been brainwashed. Did Whitehall pull an MK-ultra on you?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "I'm not one of those fanatics that HYDRA controls. Dr. Whitehall is a disciple of Red Skull, HYDRA's founder, shared his vision. I'm part of a grand history. Cut off one head and two..."
+        },
+        {
+            "character": "Morse",
+            "line": "Two grow back. Yes, yes, yes. Hell, I'll hand you the sword if Whitehall's head will get you the gig."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Whitehall will see your friends turn to stone... those that haven't already."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm."
+        }
+    ]
+}

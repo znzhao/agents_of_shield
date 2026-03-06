@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "BobbiAndFitzAnalyzeSamples",
+    "description": "Bobbi and Fitz process evidence found at the crime scene, analyzing Inhuman DNA and discussing Simmons' recent behavior. Simmons interrupts, upset by their prying into her research notes, highlighting her trauma and alienation since her return. The situation further complicates the lab's already-tense atmosphere.",
+    "roles": [
+        "bobbi_morse",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "The hairs are deteriorating."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's odd. Did you place it in the right receptacle?"
+        },
+        {
+            "character": "Morse",
+            "line": "And double-checked the seal."
+        },
+        {
+            "character": "Fitz",
+            "line": "And the stain?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz, we're dealing with Inhuman DNA. Anything's possible. I'll check it again."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's all this? Data on the Monolith? Schematics? There's notes all over this in Simmons' handwriting. Seismic mounts."
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you doing?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Cry... Jemma, I'm just trying to..."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, don't. Look, those are mine, and now they're all out of order. And you what did you tell him?"
+        },
+        {
+            "character": "Morse",
+            "line": "Jemma, relax. We're... We're just analyzing the Inhuman's DNA."
+        },
+        {
+            "character": "Fitz",
+            "line": "All this data, what's it for?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Just stay away from my things."
+        },
+        {
+            "character": "Fitz",
+            "line": "What just happened? Wha... Did she say something to you?"
+        },
+        {
+            "character": "Morse",
+            "line": "It should come from her."
+        }
+    ]
+}

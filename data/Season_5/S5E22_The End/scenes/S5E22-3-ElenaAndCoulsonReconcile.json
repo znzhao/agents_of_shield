@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 3,
+    "scene_name": "ElenaAndCoulsonReconcile",
+    "description": "Back at the Lighthouse, Elena visits the ailing Coulson. She apologizes for appearing heartless in the team's argument, explaining her intent was never to hope for his death. Coulson reassures her that he understands and would have sided with her, finding comfort and closure in their shared honesty.",
+    "roles": [
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "You're going to die."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, everyone dies. And on that day, we'll have to answer up there for what we've done down here."
+        },
+        {
+            "character": "Elena",
+            "line": "It's not God I'm afraid of."
+        },
+        {
+            "character": "Elena",
+            "line": "I heard you were up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Up would imply the ability to stand. I'm not there yet."
+        },
+        {
+            "character": "Elena",
+            "line": "You will be. Um, I just want you to know no matter what they say, I was never arguing for you to die. I just... I was just arguing to not bet everything on you."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I would have taken your side."
+        },
+        {
+            "character": "Elena",
+            "line": "I know."
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 8,
+    "scene_name": "SousaConfrontsSimmonsAndCoulson",
+    "description": "In Area 51, Simmons and Coulson try to maintain their cover as Sousa interrogates them, expressing his suspicions. The tension escalates as Simmons' accent slips and Sousa doubles down on his view that Carter would not be present, breaking their charade and having them detained. Coulson attempts to defuse the situation with humor but it backfires.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "sousa"
+    ],
+    "vibe": "tense",
+    "location": "Area 51 (S.H.I.E.L.D. base / 1955)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "[German] The uncertainty principle!"
+        },
+        {
+            "character": "Sousa",
+            "line": "Agent Carter?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In the flesh."
+        },
+        {
+            "character": "Sousa",
+            "line": "Well. Glad to finally put a face to the name."
+        },
+        {
+            "character": "Sousa",
+            "line": "I gotta say, I've waited a long time to meet the famous Agent Carter."
+        },
+        {
+            "character": "Sousa",
+            "line": "But I'm surprised to find you here, running a security op in our little patch of desert."
+        },
+        {
+            "character": "Simmons",
+            "line": "I apologize for the short notice, but we had to act quickly. I believe this base may have been infiltrated."
+        },
+        {
+            "character": "Sousa",
+            "line": "No. Imagine that. An infiltrator, right under our noses."
+        },
+        {
+            "character": "Simmons",
+            "line": "And you arrived just this morning, Agent...?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Call me Daniel."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daniel. And where exactly did you materialize from?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I just flew in from L.A."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, you work at the old SSR office."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm in charge of it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daniel, your surname wouldn't happen to be Sousa?"
+        },
+        {
+            "character": "Sousa",
+            "line": "It would."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which would make you the former colleague of Agent Peggy Carter."
+        },
+        {
+            "character": "Sousa",
+            "line": "It would."
+        },
+        {
+            "character": "Simmons",
+            "line": "I suppose you'll be arresting me now."
+        },
+        {
+            "character": "Sousa",
+            "line": "You got it all figured out, don't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, you say you like Ike. We all like him. But do you love him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. You, think fast. Jimmy Stewart or Gary Cooper?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Seriously? You can go. Okay, Miss, just go with me on this. I've always wanted to try it. You're walking in the desert, and you see a turtle. You pick it up and flip it over on its back. And now that sucker's roasting in the sun, that poor, innocent turtle. Just trying to turn itself over. But it can't, not without your help. But you're not helping. Why?"
+        },
+        {
+            "character": "Old lady",
+            "line": "Why would you even think I would do such a thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Oh, no... I didn't mean..."
+        },
+        {
+            "character": "Old lady",
+            "line": "What kind of a sick, sick man are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no, no, no. It's okay. You passed."
+        },
+        {
+            "character": "Sousa",
+            "line": "Arrest that man, whoever he is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Arrest? Agent Sousa. Wow. Big fan."
+        },
+        {
+            "character": "Mack",
+            "line": "What are the chances?"
+        },
+        {
+            "character": "Deke",
+            "line": "At least backup's on the way. I'm running facial recognition to match these people with their archival ID photos. It's slow going, but..."
+        },
+        {
+            "character": "Mack",
+            "line": "Who are they?"
+        },
+        {
+            "character": "Deke",
+            "line": "Mostly S.H.I.E.L.D., high-ranking, couple guys from the Air Force, a Congressman, and a guy from something called the Pentagon."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I know these names. These were some of S.H.I.E.L.D.'s earliest power players. How'd it go?"
+        },
+        {
+            "character": "May",
+            "line": "He called me “an Oriental”."
+        },
+        {
+            "character": "Elena",
+            "line": "I had to pull her away."
+        },
+        {
+            "character": "Mack",
+            "line": "So we got nothing?"
+        },
+        {
+            "character": "Elena",
+            "line": "Sorry."
+        },
+        {
+            "character": "May",
+            "line": "I could take another run at him. Just saying."
+        },
+        {
+            "character": "Mack",
+            "line": "No, no, no. Violence is not an option."
+        },
+        {
+            "character": "May",
+            "line": "If you say so."
+        },
+        {
+            "character": "Elena",
+            "line": "So, now what?"
+        },
+        {
+            "character": "Deke",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "You could go talk to him."
+        },
+        {
+            "character": "Elena",
+            "line": "Couldn't hurt."
+        },
+        {
+            "character": "May",
+            "line": "Might even work."
+        },
+        {
+            "character": "Deke",
+            "line": "Look, I-I know I got a way with words. Some might even call it the gift of gab."
+        },
+        {
+            "character": "May",
+            "line": "Nobody ever said that."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, no."
+        },
+        {
+            "character": "Deke",
+            "line": "That's just... Why me? I have zero S.H.I.E.L.D. training. What makes you think he's gonna give me the time of day?"
+        },
+        {
+            "character": "Mack",
+            "line": "Don't make us say it."
+        },
+        {
+            "character": "Deke",
+            "line": "Wait. It's not because of... this? Okay. Okay. Stupid white privilege."
+        },
+        {
+            "character": "Sousa",
+            "line": "Keep those two in holding, and get me everything...visitor logs, timecards, anyone on patrol."
+        },
+        {
+            "character": "Sousa",
+            "line": "Lieutenant, I want to know how these jokers got onto the most secure S.H.I.E.L.D. base in the western United States. Who the hell are you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Who I am is on a need to know basis."
+        },
+        {
+            "character": "Sousa",
+            "line": "I need to know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Ah, no, you don't. Because I don't exist and we never met. Now, can you shut the door, please?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Not to be rude, but it's been one of those days, so produce some credentials or I'm gonna put you in handcuffs."
+        },
+        {
+            "character": "Daisy",
+            "line": "Here. I should inform you that's not my real name. My initials are “C”, “I”, and “A”. Catch my drift?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Subtle, but yeah, I get it. I'm also gonna call your bosses in Foggy Bottom and confirm it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, please do. I'm sure they would love to learn how two moles walked into this base on your watch. Let me guess. They rolled in with flawless ID cards, made a beeline for the scientists... for some routine questioning?"
+        },
+        {
+            "character": "Sousa",
+            "line": "How'd you know that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "CIA. We know all. Even about you, Mr. Sousa. How you were a scout for the 28th infantry till you took shrapnel at Bastogne, worked at Isodyne Energy, took down Hugh Jones and the Council of Nine. And those are just the investigations that I am cleared to talk about."
+        },
+        {
+            "character": "Sousa",
+            "line": "Why are you really here? Is this about the report I sent you guys?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I can neither confirm nor deny that."
+        },
+        {
+            "character": "Sousa",
+            "line": "Well, I hope so. Because if S.H.I.E.L.D. has been infiltrated with sleepers post-World War II, we need to root it out right now, before it takes hold."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look, all I can say is that you are not crazy. And the people that you have locked up might be the key to proving it."
+        },
+        {
+            "character": "Sousa",
+            "line": "Then come with me."
+        }
+    ]
+}

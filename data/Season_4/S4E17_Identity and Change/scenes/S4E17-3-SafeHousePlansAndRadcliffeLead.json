@@ -1,0 +1,129 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 3,
+    "scene_name": "SafeHousePlansAndRadcliffeLead",
+    "description": "At Daisy's apartment in the Framework, Daisy, Simmons and Coulson regroup and discuss their next moves, debating whether to trust Ward and whether Simmons should try to reach out to Fitz. Coulson produces a newspaper clipping about Holden Radcliffe, hinting that he may be the key to escaping the Framework. The team decides to seek out Radcliffe, leveraging Ward's resistance contact for help, and Daisy volunteers to infiltrate the Triskelion for more information. This scene sets the direction for both the rescue and escape plans.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Oh, hi. It's me again, Phil Coulson. I called Hydra on you. My bad."
+        },
+        {
+            "character": "Simmons",
+            "line": "Water under the proverbial bridge. I'm so glad to see you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Apparently, in the real world, I have a robot hand. Pretty cool, right?"
+        },
+        {
+            "character": "Skye",
+            "line": "And here, he makes his own soap."
+        },
+        {
+            "character": "Simmons",
+            "line": "How about that."
+        },
+        {
+            "character": "Coulson",
+            "line": "I do. You should, too."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. We need to move. Hydra came back for Coulson. Ward warned us away, but we barely made it out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, thank goodness for Grant Ward."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't love it, either, but this is the second time he's helped us. And so I hate to say this, but I think we can trust him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Until we can't. Betraying those closest to him is his signature move."
+        },
+        {
+            "character": "Skye",
+            "line": "For now, we just need to get somewhere safe. Ward set up a time and place for us to meet the Resistance. It's a whole password-exchange thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Bona fides? I always wanted to do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or, I've been thinking. What if I reached out to Fitz?"
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons, we've b... we've been over this."
+        },
+        {
+            "character": "Simmons",
+            "line": "If you were able to get through to Coulson, then surely I could get Fitz to remember me."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz is not the same. He's different here."
+        },
+        {
+            "character": "Simmons",
+            "line": "This reality may be upside down, but Fitz is still Fitz. He's still a good person."
+        },
+        {
+            "character": "Skye",
+            "line": "Who happens to be second in command at Hydra."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, which means he has resources, not to mention Framework expertise, which we'll need to get out of Radcliffe's Hydra snow globe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Holden Radcliffe, the scientist? I... I-I saw something a while back, and I cut it out. I... Here it is. “Famed Hydra scientist working on Inhuman cure.” Something felt off about him. Do you know him? Do we know him?"
+        },
+        {
+            "character": "Skye",
+            "line": "Why would Radcliffe be in here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. But think about it. - He built the Framework, which means..."
+        },
+        {
+            "character": "Skye",
+            "line": "He can help us get out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, one catch. Nobody's seen him since this photo was taken."
+        },
+        {
+            "character": "Skye",
+            "line": "You guys meet up with Ward's contact. I'll go back to the Triskelion and get a location on Radcliffe."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy, it's too dangerous."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll be fine. I'll be in and out. No one will even know I'm there."
+        },
+        {
+            "character": "Agent",
+            "line": "It's only a matter of time before we find her. We've detained several Inhuman sympath..."
+        }
+    ]
+}

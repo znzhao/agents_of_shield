@@ -1,0 +1,85 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 12,
+    "scene_name": "NegotiatingWithTheATCU",
+    "description": "Coulson negotiates with Rosalind Price to allow Mack and Daisy to accompany Frye in the ATCU transport, leveraging their cooperation for transparency. Daisy insists on accompanying Frye herself, worried for his safety, while Mack warns her about the risks. The tension between the organizations softens slightly as both sides agree to continued partnership, but trust remains fragile.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Andrew could help him. There's no way the ATCU has anyone on their staff with his experience."
+        },
+        {
+            "character": "Mack",
+            "line": "And where are they taking him? Do we even know?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't just give them free rein like this. We can't just look away."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, you accompany them. Check out the containment facility. Gather whatever intel you can. Report back to me."
+        },
+        {
+            "character": "Daisy",
+            "line": "I should be on that truck, too, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got a major HYDRA operation unfolding. I may need you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not as much as Frye needs me."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, I don't like it, D. You were in their cross hairs just the other day."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, and look how that worked out."
+        },
+        {
+            "character": "Price",
+            "line": "We're ready to roll."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not quite yet. How heavily sedated is Frye?"
+        },
+        {
+            "character": "Price",
+            "line": "On a scale of 1 to 10, about a 6. No one likes a drooler. Why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to squeeze two more onto that truck."
+        },
+        {
+            "character": "Price",
+            "line": "That's not what we agreed on."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sharing is a two-way street. We invited you to the party. Now we need to know what you're doing with the guests. Come on, Rosalind. Fair is fair."
+        },
+        {
+            "character": "Price",
+            "line": "Just give me a minute. All right. Hop on board. Do you really have a laser finger?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. It's classified."
+        }
+    ]
+}

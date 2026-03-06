@@ -1,0 +1,90 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 11
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership combines tactical acumen with empathetic understanding. He navigates the complexities of alien phenomena and team dynamics with steady resolve, balancing the burden of his own resurrection with the responsibility of protecting his team and humanity. Open to unconventional allies and methods, Coulson approaches even supernatural threats with a scientific mindset, while fostering trust within his team during moments of personal struggle. He increasingly acts as a mentor, encouraging newer agents like Skye and engaging emotionally with his team's challenges. The painful revelations about his resurrection deepen his inner conflict, confronting him with the traumatic cost of his survival and driving a more urgent quest to uncover hidden truths behind S.H.I.E.L.D.'s secretive actions, strengthening his resolve to protect his team and expose deception.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_truths",
+        "goal": "Investigate and expose hidden threats like Project Centipede and Rising Tide"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "rescue_and_protect_team",
+        "goal": "Rescue and protect team members from enemy threats and betrayals to preserve team integrity and survival"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_resurrection_truth",
+        "goal": "Discover the full truth behind his own resurrection and S.H.I.E.L.D.'s secret experiments"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_9",
+      "context": "acknowledging the importance of trust during team struggles",
+      "catch_phrase": "Come on in."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_10",
+      "context": "offering reassurance and inclusion",
+      "catch_phrase": "Oh, come on in."
+    }
+  ]
+}

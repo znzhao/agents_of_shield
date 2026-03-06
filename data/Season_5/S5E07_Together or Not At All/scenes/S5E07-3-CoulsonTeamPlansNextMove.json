@@ -1,0 +1,30 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "CoulsonTeamPlansNextMove",
+    "description": "Coulson, Mack, Elena, and Flint discuss the growing threat from the Kree and debate their next steps. Tensions run high as they weigh saving Daisy and Simmons versus hiding. The reality of Tess's death becomes clear to Flint, evoking emotional responses from Mack and Elena.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "flint"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This is bigger than a renewal. It's a direct threat."
+        },
+        {
+            "character": "Mack",
+            "line": "These people will give us up in a heartbeat if it'll save their own lives."
+        },
+        {
+            "character": "Coulson",
+            "line": "These Kree may be cruel, but they're not stupid. It's only a matter of time till this trail of bodies leads them right to us. It's time for us to make a move."
+        }
+    ]
+}

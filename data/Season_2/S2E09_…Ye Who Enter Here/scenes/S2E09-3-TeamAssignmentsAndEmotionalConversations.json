@@ -1,0 +1,210 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "TeamAssignmentsAndEmotionalConversations",
+    "description": "Coulson divides the team: May, Skye, Hunter, and Trip are assigned to extract Raina in Canada, while Coulson, Morse, Mack, and FitzSimmons prepare to head for Puerto Rico. Morse and Simmons have an emotional talk about Simmons and Fitz's relationship. Some personal dynamics emerge between Morse and Mack. The teams make final preparations and depart for their missions.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "bobbi_morse",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "And you're leading it. I'll head on to the city in the quinjet with Bobbi, Mack, and Fitz-Simmons. We need to locate that temple."
+        },
+        {
+            "character": "Skye",
+            "line": "So, you want me to go with them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're all anxious to see the city, but I'd like you to run point on Raina's interrogation. I think she'll respond to you."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, sir. I'll spread the word."
+        },
+        {
+            "character": "May",
+            "line": "You don't want Skye anywhere near that city, do you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not the city I'm afraid of. It's her lunatic father. Keep an eye on her, okay?"
+        },
+        {
+            "character": "May",
+            "line": "Of course. I'm her S.O."
+        },
+        {
+            "character": "Morse",
+            "line": "Quinjet's prepped. You almost ready?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, I was looking for the dwarf case."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, ask Fitz. I'm sure he'll know."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah. No. That's all right. I'm sure it's around here somewhere."
+        },
+        {
+            "character": "Morse",
+            "line": "So... how long were you two a thing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "A thing? Fitz and I? No. I mean, we never... I-I never dreamed..."
+        },
+        {
+            "character": "Morse",
+            "line": "Okay. I'm just gonna stop you right there. If this were an interrogation, you'd have given me about nine visual cues to put you away. Maybe 10. Look, I... I know the story... of what Ward did to you two... how Fitz's brain was damaged. That's not your issue, is it?"
+        },
+        {
+            "character": "Morse",
+            "line": "So, what happened?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We were in the bottom of the ocean in a storage pod, left for dead, and Fitz... he said something that caught me completely off guard."
+        },
+        {
+            "character": "Morse",
+            "line": "Ah, those three little words."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. Well, no. I mean, not exactly. I barely had a moment to process what he was saying or how I felt about it. Next thing I know, he's giving me the oxygen, water's rushing in, and... he's... he's laying there, in the hospital bed. He was so pale."
+        },
+        {
+            "character": "Morse",
+            "line": "How long was Fitz in the coma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Nine of the longest days of my life. And when it finally broke, he... he couldn't speak, he... he just stared at me, confused. All I wanted to do was help him. All I wanted was my best friend back."
+        },
+        {
+            "character": "Morse",
+            "line": "Your best friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "I never thought of him as anything else. That said, I can't imagine my life without him. It's all very confusing."
+        },
+        {
+            "character": "Morse",
+            "line": "You've never told him any of this, have you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, lord, no."
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah, it's tough. I wish I could give you some advice, but I've never been friends with a guy first. It's always been a roller coaster. Fast out of the gate, hit the drop, the turn, the loop, the screeching halt, then... back in line to do it all over again."
+        },
+        {
+            "character": "Simmons",
+            "line": "But is the ride worth it?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'll let you know when it's over. You know... at the very least, you should be honest with him. If you don't have trust..."
+        },
+        {
+            "character": "Morse",
+            "line": "Don't die out there, okay?"
+        },
+        {
+            "character": "Hunter",
+            "line": "It's Canada."
+        },
+        {
+            "character": "Coulson",
+            "line": "You two okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, absolutely."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ready when you are, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Head on up."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. Time to go. I'll see you in San Juan."
+        },
+        {
+            "character": "Skye",
+            "line": "See you there... sir."
+        },
+        {
+            "character": "Mack",
+            "line": "So... you and Hunter... again."
+        },
+        {
+            "character": "Morse",
+            "line": "I know."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Been through it enough times."
+        },
+        {
+            "character": "Morse",
+            "line": "I know."
+        },
+        {
+            "character": "Mack",
+            "line": "Gluttons for punishment, I'd say."
+        },
+        {
+            "character": "Morse",
+            "line": "Let's not go down this road, okay? You're a big brother, but you're not my big brother."
+        },
+        {
+            "character": "Mack",
+            "line": "Your personal life, that's your business. I'm just wondering if it means you're bringing Hunter in on the other thing."
+        },
+        {
+            "character": "Morse",
+            "line": "That? No."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I figured after we lost Hartley, you'd try to..."
+        },
+        {
+            "character": "Morse",
+            "line": "No, he has no idea. And I'd like it to stay that way."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy that."
+        }
+    ]
+}

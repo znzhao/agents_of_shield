@@ -1,0 +1,94 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "PlanningEliMorrowExtraction",
+    "description": "On Zephyr One, Coulson, May, Mack, and Robbie discuss their next steps, deciding to extract Eli Morrow from prison before Lucy gets to him. Robbie is upset about being kept on the plane, leading to friction. Coulson asserts authority as the team makes preparations.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "robbie_reyes"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "If this thing is that dangerous, then why not tell him? He's the Director of S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't know if we can trust him."
+        },
+        {
+            "character": "May",
+            "line": "So why the hell is he here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Without him, we wouldn't know the Darkhold had resurfaced. But the fewer people who know about it, the better. Fury had no problem opening up Pandora's Box from time to time, but even he was afraid of this thing. It's powerful, it's deadly, and now probably in the hands of a pissed-off mad-scientist ghost. So, thoughts, feelings? This is a safe space."
+        },
+        {
+            "character": "Mack",
+            "line": "We need another crack at Eli Morrow. He's the one that knows this book. He'll know what Lucy Bauer wants with it and where she's going next."
+        },
+        {
+            "character": "Robbie",
+            "line": "My uncle is not gonna talk to you."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, then this time, we won't give him a choice."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's inform S.H.I.E.L.D. we're taking an asset into protective custody as part of a routine investigation. May, want to go to prison? Could be Taco Tuesday."
+        },
+        {
+            "character": "May",
+            "line": "I'll call the warden and find out."
+        },
+        {
+            "character": "Mack",
+            "line": "Lucy leaves a lot of crazy in her wake. If we're gonna track her down, we're gonna need that antidote. Fitz said that they were close."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't want it close. I want it here."
+        },
+        {
+            "character": "Robbie",
+            "line": "Wait. If we're going to get my uncle, I'm going with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, you're not."
+        },
+        {
+            "character": "Mack",
+            "line": "If your uncle can lead us to Lucy, then maybe we'll let you out to bust some ghosts, but until then, your ass stays on the plane."
+        },
+        {
+            "character": "Robbie",
+            "line": "I don't take orders."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then this will be a new experience."
+        },
+        {
+            "character": "Robbie",
+            "line": "You can't keep me here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe not. But you take this plane down, you'll be burning up the only people in the world trying to help you."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's growing on me. You?"
+        }
+    ]
+}

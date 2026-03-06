@@ -1,0 +1,56 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a sharp and curious hacker turned S.H.I.E.L.D. operative who is fascinated by the intersection of mythology and alien technology, often bridging scientific inquiry with open-mindedness to the unknown. Her technical skills and intelligence aid the team in uncovering alien artifacts, while her empathy and willingness to support teammates emotionally help manage internal tensions. Despite past struggles with authority and secrecy, Skye shows growing maturity and resilience, valuing trust and camaraderie within the team. Her character arc balances youthful enthusiasm and humor with a developing sense of responsibility and care for those around her, making her an essential link between S.H.I.E.L.D. science and the alien mysteries they encounter.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "expose_hidden_truth",
+        "goal": "To expose hidden truths and secrets kept by organizations like S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_4",
+      "context": "expressing excitement and curiosity about Asgardians as alien beings",
+      "catch_phrase": "So we could go inside, take a peek under the hood, maybe take it for a spin. Come on, you're telling me piloting an alien ship isn't on your bucket list?"
+    }
+  ]
+}

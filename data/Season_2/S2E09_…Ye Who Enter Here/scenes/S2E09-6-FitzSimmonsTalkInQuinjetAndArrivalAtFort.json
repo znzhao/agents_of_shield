@@ -1,0 +1,131 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "FitzSimmonsTalkInQuinjetAndArrivalAtFort",
+    "description": "Fitz and Simmons have a tense yet heartfelt conversation about their relationship and Fitz's decision to let Simmons run the lab. The team arrives at San Cristobal Fort and begins investigating the possible entrance to the underground city, using satellite data and Diego's maps. Talk of local legends and Morse's leadership sets the stage for the descent.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Okay. I'm gonna go check on the landing gear."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? No, no, no. Wait, wait, wait. No, no. Wait, wait, wait, wait, wait, wait. Why... why?"
+        },
+        {
+            "character": "Mack",
+            "line": "Because the awkward silence in here is killing me."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'd like to say something."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've been thinking..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please let me go first."
+        },
+        {
+            "character": "Fitz",
+            "line": "No... I don't..."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's something I need to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know I've got..."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I... I know things have been difficult between us since I got back from being undercover, but I need you to understand that I didn't leave because of what happened to you."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no, no, Jem... Jemma. Jemma, please, because I've got a whole... It's... it's hard enough to get the words out. I've been thinking, and I'm going to leave the lab so you can be the one who runs the science division."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're quitting?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. I'm... I'm... I'm going to the garage, on the bus with Mack."
+        },
+        {
+            "character": "Simmons",
+            "line": "But why?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You know why. You're clearly far more ca... cap... capable than I am. At this point, anyway."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's not true. You just need more time to heal and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've had time, and I'm... and I'm not better, So you should run the lab... And I can work for you. I just can't work with you. And... I think that's what's best."
+        },
+        {
+            "character": "Morse",
+            "line": "The fort of San Cristobal... held off the Dutch, the English, the Americans."
+        },
+        {
+            "character": "Coulson",
+            "line": "But apparently, not the aliens. Looks like your buddy Diego drew those plans."
+        },
+        {
+            "character": "Morse",
+            "line": "He got them from the city archives. They're older than San Juan itself."
+        },
+        {
+            "character": "Coulson",
+            "line": "According to Skye's satellite spectrometry, there's a vertical shaft under this fort."
+        },
+        {
+            "character": "Morse",
+            "line": "Looks like it's right at the water's edge. Think we'll get a better vantage point from up there."
+        },
+        {
+            "character": "Morse",
+            "line": "According to the map, the garrison is located underneath that sentry tower. That's the deepest part of the fort."
+        },
+        {
+            "character": "Coulson",
+            "line": "And inaccessible to the public."
+        },
+        {
+            "character": "Morse",
+            "line": "All the better for us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Won't be easy to get equipment down there. Get ahold of Diego... see if he can help us out. We need to stay ahead of HYDRA."
+        },
+        {
+            "character": "Morse",
+            "line": "Even if HYDRA locates the city, how do you think they plan on unlocking the Obelisk? I mean, nobody can even touch the damn thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "That we know of."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "AtarahDemandsTimeTravel",
+    "description": "Atarah confronts the S.H.I.E.L.D. team, insisting they help her find a way to travel through time to save the Chronicoms. She threatens Fitz’s life, as seen through a hologram, in order to extract information. Enoch intervenes and suggests Fitz could build the device if Simmons is held hostage for his motivation.",
+    "roles": [
+        "enoch",
+        "jemma_simmons",
+        "piper",
+        "davis"
+    ],
+    "vibe": "dark",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Hello, Atarah."
+        },
+        {
+            "character": "Atarah",
+            "line": "Enoch. It has been a long time. You look the same."
+        },
+        {
+            "character": "Enoch",
+            "line": "As do you."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know this woman?"
+        },
+        {
+            "character": "Atarah",
+            "line": "I have no gender. I am a Chronicom."
+        },
+        {
+            "character": "Enoch",
+            "line": "A particularly lethal one and no fan of mine. Before I came to Earth, Atarah was my superior and..."
+        },
+        {
+            "character": "Atarah",
+            "line": "We have pursued you for some time. Enoch, you are to be judged for tampering with the universe."
+        },
+        {
+            "character": "Enoch",
+            "line": "Then I will face my punishment."
+        },
+        {
+            "character": "Piper",
+            "line": "Come on, man. Not cool."
+        },
+        {
+            "character": "Davis",
+            "line": "Don't lock us in here. We hardly even know that Enoch."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, and my buddy here is nursing a wicked hangover. I mean, can we at least get some water or something? He gets cranky!"
+        },
+        {
+            "character": "Davis",
+            "line": "Cranky?"
+        },
+        {
+            "character": "Piper",
+            "line": "I was being nice. You're a whiny bitch."
+        },
+        {
+            "character": "Daisy",
+            "line": "I-I don't understand. We thought this was a Confederacy ship."
+        },
+        {
+            "character": "Atarah",
+            "line": "It was, and now it's not."
+        },
+        {
+            "character": "Enoch",
+            "line": "Atarah. Even for you, this is highly aggressive. Why have you taken such action?"
+        },
+        {
+            "character": "Atarah",
+            "line": "In order to survive."
+        },
+        {
+            "character": "Enoch",
+            "line": "You're being purposefully ominous. You're hiding something."
+        },
+        {
+            "character": "Atarah",
+            "line": "Our home world has been destroyed. All that remains of the Chronicom race are aboard this fleet."
+        },
+        {
+            "character": "Enoch",
+            "line": "Chronyca-2 is gone? That cannot be."
+        },
+        {
+            "character": "Simmons",
+            "line": "My God."
+        },
+        {
+            "character": "Daisy",
+            "line": "Tell us what happened."
+        },
+        {
+            "character": "Atarah",
+            "line": "In recent years, there were whispers of strange phenomena on distant planets, entire worlds mysteriously destroyed. We never imagined it would happen to ours. It began slowly... minor distortions in the fabric of space that released a plague. There was a great debate, but we failed to act. And then it was too late. The effects spread rapidly, consuming our planet."
+        },
+        {
+            "character": "Simmons",
+            "line": "These distortions... what caused them?"
+        },
+        {
+            "character": "Atarah",
+            "line": "Unknown."
+        },
+        {
+            "character": "Daisy",
+            "line": "And you were able to seize these ships?"
+        },
+        {
+            "character": "Atarah",
+            "line": "The Confederacy came to us, eager to pick our planet's bones clean. They were not expecting resistance. We fought back."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, you defeated the Confederacy, but you weren't able to save your planet."
+        },
+        {
+            "character": "Atarah",
+            "line": "We observe and guide events, occasionally with violence. We do not engage in conflict. We took their warships because we had none of our own, and this threat was something else entirely."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry. This is a tragedy, but what does it have to do with us?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I presume Atarah wants to know how you were able to travel through time so that we may go back and save our world."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not that simple."
+        },
+        {
+            "character": "Atarah",
+            "line": "You deny that you meddled with the course of events?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, but we don't make a point of helping people play with time that have been trying to kill us."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's complicated. We don't actually know how we did it."
+        },
+        {
+            "character": "Atarah",
+            "line": "Lies. A favorite human pastime."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're telling you the truth."
+        },
+        {
+            "character": "Atarah",
+            "line": "Hard to say. But I was prepared."
+        },
+        {
+            "character": "Enoch",
+            "line": "Bestie."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is this?"
+        },
+        {
+            "character": "Malachi",
+            "line": "Silence."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma. Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Stop this!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hurt Fitz one more time, and I will tear this ship apart."
+        },
+        {
+            "character": "Atarah",
+            "line": "I've heard reports of what Quake can do, which is why Leopold Fitz is being held on another ship. If any harm comes to me, those ships will scatter across the galaxy. Behave... or you will never find him."
+        }
+    ]
+}

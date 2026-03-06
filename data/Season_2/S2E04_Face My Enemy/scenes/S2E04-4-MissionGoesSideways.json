@@ -1,0 +1,265 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 4,
+    "scene_name": "MissionGoesSideways",
+    "description": "May distracts the host to get access, while Coulson attempts to bypass security to reach the painting. They discover that the painting has already been taken by the government—Talbot's doing—and must abort their plan. The team on the Bus analyzes the new information and struggles to understand Talbot’s motives.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "alphonso_mackenzie",
+        "antoine_triplett",
+        "lance_hunter",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Well, I just think it's so admirable what you're doing for that poor church that burned down."
+        },
+        {
+            "character": "Man",
+            "line": "I should be thanking you for your generous patronage. You know, Santa Maria de las Flores was my second home."
+        },
+        {
+            "character": "Man",
+            "line": "Though I'm really surprised that you and I have never met before. I would have remembered you."
+        },
+        {
+            "character": "May",
+            "line": "Well, I bet letting people see the miracle painting in person is bringing out all kinds of donors that you haven't met before. But just remember, I'm here for the cause... well, the cause and the company."
+        },
+        {
+            "character": "Man",
+            "line": "I like to hear that."
+        },
+        {
+            "character": "Skye",
+            "line": "She just said more words than I've heard her say in a year."
+        },
+        {
+            "character": "May",
+            "line": "I just have to say, philanthropy is my passion."
+        },
+        {
+            "character": "Triplett",
+            "line": "All right, Agent May."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's very alarming."
+        },
+        {
+            "character": "May",
+            "line": "I'm all about giving."
+        },
+        {
+            "character": "May",
+            "line": "I must get a picture of us together. Charles, come here. Honey, can you take a picture of me and Mr. Soto? It'll be such a nice memento of the evening."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, yes, that would be nice."
+        },
+        {
+            "character": "Man",
+            "line": "He's your husband?"
+        },
+        {
+            "character": "May",
+            "line": "We're modern. Charles, please?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang on, Heidi. Just trying to find the flash."
+        },
+        {
+            "character": "May",
+            "line": "Honestly, this happens every time. How hard could it be? They sell these phones to children."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "Man",
+            "line": "Excuse me. I should go see about my other guests."
+        },
+        {
+            "character": "May",
+            "line": "Oh, no, no, no, please. Uno momento."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, yes, yes. One moment, and... There we go."
+        },
+        {
+            "character": "May",
+            "line": "Well, it was just..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wasn't it just?"
+        },
+        {
+            "character": "May",
+            "line": "Hmm?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Soto, thank you so much. Lovely party. Goodbye. Come on, dear. We're blown."
+        },
+        {
+            "character": "May",
+            "line": "Why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No idea. I think Talbot's still pissed ‘cause we kidnapped him that time."
+        },
+        {
+            "character": "May",
+            "line": "We need to do this now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, yeah."
+        },
+        {
+            "character": "May",
+            "line": "I could have handled him."
+        },
+        {
+            "character": "Coulson",
+            "line": "I did."
+        },
+        {
+            "character": "May",
+            "line": "They're gonna be onto us soon."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. Almost there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I really like that dress."
+        },
+        {
+            "character": "Skye",
+            "line": "Sublevel storage room straight ahead... painting's there. Great."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't the op we anticipated. Everything's gonna be a little more fast and dirty than we planned."
+        },
+        {
+            "character": "Skye",
+            "line": "Only makes it more interesting."
+        },
+        {
+            "character": "Coulson",
+            "line": "See? The exuberance of youth."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys, wait. You're about to hit..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Laser grids. Why is it always laser grids?"
+        },
+        {
+            "character": "May",
+            "line": "Guy's not kidding around."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mnh. Alright. I got this."
+        },
+        {
+            "character": "May",
+            "line": "They already know we're here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no painting here."
+        },
+        {
+            "character": "May",
+            "line": "Could be a mistake. Another room, maybe?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, it's not a mistake. A record of appropriation just popped up on the church's books."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't tell me... the U.S. Government."
+        },
+        {
+            "character": "Skye",
+            "line": "Talbot took possession of the painting from the church this morning... “related to an ongoing government investigation,” It says."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why is he even on this? How does he know about that painting? We need to..."
+        },
+        {
+            "character": "May",
+            "line": "We need to go!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Yes, I've got it. There was one problem, though... S.H.I.E.L.D.'s here. Look. Recognize them?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "Fascinating."
+        },
+        {
+            "character": "Talbot",
+            "line": "They weren't any trouble. You want me to come in?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "No. I have a new plan."
+        },
+        {
+            "character": "May",
+            "line": "I assume this all makes you happy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why would this make me happy?"
+        },
+        {
+            "character": "May",
+            "line": "We failed in our mission. We're outnumbered, trapped, hoping not to get killed. Feels like the old days to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. I guess Talbot took this round."
+        },
+        {
+            "character": "May",
+            "line": "I'm not giving up yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. You always have my back. Speaking of, when we get out of this, we're having a real conversation about a contingency plan. You can't avoid it anymore."
+        },
+        {
+            "character": "May",
+            "line": "We're clear."
+        }
+    ]
+}

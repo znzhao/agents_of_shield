@@ -1,0 +1,50 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "AnomalyThreatensElena",
+    "description": "Simmons attempts to comfort Elena, who is anxious about her condition and its ramifications. But suddenly, a rift-induced manifestation attacks, putting Elena in grave danger. Mack rushes in, and Fitz recognizes that the rift’s effects are intensifying, prompting the team to accelerate their response.",
+    "roles": [
+        "jemma_simmons",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Bad dreams? The hydromorphone makes you drowsy, but the sleep can be restless."
+        },
+        {
+            "character": "Elena",
+            "line": "Please don't dope me up more. I need to stay clear-headed, to warn Mack."
+        },
+        {
+            "character": "Simmons",
+            "line": "That the pain is just beginning? He knows. And you should spare him. He's suffered enough. We've all suffered enough."
+        },
+        {
+            "character": "Elena",
+            "line": "No! No! No! No!"
+        },
+        {
+            "character": "Mack",
+            "line": "No! What the hell?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "The rift is expanding."
+        },
+        {
+            "character": "Mack",
+            "line": "You okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't wait any longer. We have to try and seal it now. It's getting way too dangerous in here."
+        }
+    ]
+}

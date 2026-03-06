@@ -1,0 +1,85 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 7,
+    "scene_name": "RegroupingOnTheBus",
+    "description": "May and Coulson decompress after the ordeal, discussing how the train incident was a result of a potent toxin that temporarily paralyzed them. The team receives news that the train has been found stopped in the countryside. Ward prepares the Bus for rerouting. The team’s concern for each other is palpable. May thanks Coulson for aiding her wounds, showcasing a softer dynamic before everyone readies to follow up on the new lead.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "The train didn't disappear. Russo sold us out. Get the plane ready. I need a shower."
+        },
+        {
+            "character": "Ward",
+            "line": "You're hurt. Let me stitch you up."
+        },
+        {
+            "character": "May",
+            "line": "I said get the plane ready!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me help. You know... we have this stuff for a reason. S.H.I.E.L.D. found the train. Turns out it switched tracks shortly after we got off. That grenade must have released some kind of toxin. Made us believe no time had passed."
+        },
+        {
+            "character": "May",
+            "line": "I saw you guys frozen on the field. You looked ridiculous."
+        },
+        {
+            "character": "Coulson",
+            "line": "It wasn't supposed to be a combat op."
+        },
+        {
+            "character": "May",
+            "line": "They'll be fine. They can handle themselves."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got it. Gently. Okay."
+        },
+        {
+            "character": "May",
+            "line": "Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did he get you anywhere else?"
+        },
+        {
+            "character": "Ward",
+            "line": "We need to reroute the plane. We just got word from S.H.I.E.L.D. that the train stopped suddenly in the Italian countryside."
+        },
+        {
+            "character": "Coulson",
+            "line": "What? Why?"
+        },
+        {
+            "character": "Ward",
+            "line": "We'll find out soon. I'll set the coordinates. Touchdown in 10."
+        },
+        {
+            "character": "May",
+            "line": "I'll come help."
+        },
+        {
+            "character": "Ward",
+            "line": "I got it."
+        },
+        {
+            "character": "Ward",
+            "line": "All right, grazie. Parked here 15 minutes ago. Agents on the ground have no idea why."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any sign of Fitz-Simmons and Skye?"
+        }
+    ]
+}

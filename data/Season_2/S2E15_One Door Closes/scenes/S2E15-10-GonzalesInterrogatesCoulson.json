@@ -1,0 +1,208 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 10,
+    "scene_name": "GonzalesInterrogatesCoulson",
+    "description": "Back in Coulson's office at the Playground, Gonzales holds Coulson prisoner. Their conversation reveals different philosophies about S.H.I.E.L.D., the failures of secrecy, the threat of powered individuals like Skye, and the legacy of Nick Fury. Gonzales demands Coulson give up the secrets of Fury's toolbox, but Coulson refuses and points the blame at Hydra—not secrets—as the true cause of S.H.I.E.L.D.’s fall.",
+    "roles": [
+        "robert_gonzales",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "Wait outside. Nice office. Lots of light."
+        },
+        {
+            "character": "Coulson",
+            "line": "You haven't even delved into the record collection."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I have no plans of moving in. You may not know who I am, but I..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no. I actually know quite a bit about you, Robert. You started in S.H.I.E.L.D. young, like me, dropped out for awhile when your wife passed, but then came back with a vengeance, rose to command the Iliad three years later and, by all accounts, became one of the best commanders S.H.I.E.L.D. ever had. I know this because I spent months searching for you when S.H.I.E.L.D. fell, because I'd heard you were a good man, ‘cause I wanted you on my team."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I wish I could say the same. I wish you were the man you were even two years ago. But by all accounts, you're not."
+        },
+        {
+            "character": "Coulson",
+            "line": "You didn't know me then, and you don't know me now."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I know that Fury brought you back from the dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "Right. I didn't ask for that. But I've come to appreciate the gesture."
+        },
+        {
+            "character": "Gonzales",
+            "line": "And that he filled your veins with alien blood. God knows what that did. Weaver thinks it made you into some kind of a messenger for an alien race. Can you say with certainty that that's not true? And we haven't even begun to talk about your protégé, Skye. You two have a lot in common. At least, you once did. What happened in the alien city, Phil? You say that you're the director? So did she drag you down there kicking and screaming, or were you curious?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I went to Puerto Rico to destroy the alien city and stop Dr. Whitehall, and that's what we did."
+        },
+        {
+            "character": "Gonzales",
+            "line": "In part, that's true. And that's why I want to give you a chance to be the good man I know you once were. We believe that Fury kept a lot of what he did from the world council, that he had objects and people of terrifying power hidden across the globe. We want to find them, and we want to make sure that they don't destroy the very world that we fight so hard to keep safe. Show me how to open it."
+        },
+        {
+            "character": "Skye",
+            "line": "Hello?"
+        },
+        {
+            "character": "May",
+            "line": "Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "May, what's happening? I couldn't connect to you guys."
+        },
+        {
+            "character": "May",
+            "line": "You need to get out of there... now."
+        },
+        {
+            "character": "Skye",
+            "line": "What? Why? What are you talking about?"
+        },
+        {
+            "character": "May",
+            "line": "There's a panel on the southwest corner of the compound. It'll let you bring down the laser-grid fence."
+        },
+        {
+            "character": "Skye",
+            "line": "May, stop."
+        },
+        {
+            "character": "May",
+            "line": "You can do this, Skye. I believe in you. But you need to run... now. They're coming for you."
+        },
+        {
+            "character": "Skye",
+            "line": "Who... who's coming for me? Who..."
+        },
+        {
+            "character": "May",
+            "line": "S.H.I.E.L.D."
+        },
+        {
+            "character": "Skye",
+            "line": "May? May? Oh, my God."
+        },
+        {
+            "character": "Calderon",
+            "line": "Do not approach the target alone! If you see her, you send up a flare!"
+        },
+        {
+            "character": "Morse",
+            "line": "Remember, Skye's a S.H.I.E.L.D. agent like one of us ICERs only."
+        },
+        {
+            "character": "Morse",
+            "line": "Come on! Move! Mack! Where's the server core?"
+        },
+        {
+            "character": "Mack",
+            "line": "Behind here."
+        },
+        {
+            "character": "Morse",
+            "line": "Take that exit. Same deal as before... get everyone you can off the boat. I'll wait to blow the ship as long as possible."
+        },
+        {
+            "character": "Mack",
+            "line": "What about the agents we don't find? They're out there fighting, dying right now to take back the ship. You're just gonna blow them to kingdom come?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fury's orders are..."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, Fury's dead! He's not seeing what we're seeing."
+        },
+        {
+            "character": "Hartley",
+            "line": "He's right, Bobbi. We already took the top deck."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Director Fury left orders, and we're gonna follow them. Hydra will not get this ship and its cargo."
+        },
+        {
+            "character": "Mack",
+            "line": "They won't."
+        },
+        {
+            "character": "Hartley",
+            "line": "We'll kill every last one of them."
+        },
+        {
+            "character": "Mack",
+            "line": "You know we can do this. Since when do you not fight for what you believe in?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "You have your orders, Agent Morse. This is not a democracy."
+        },
+        {
+            "character": "Morse",
+            "line": "Maybe it should be. We can't keep pretending that everything's the same as it was yesterday. I mean, look around. Half of our friends are either dead or have turned. This isn't a time to go down with the ship. We need to do something. We need to stop this. We're taking back this damn ship whether you like it or not."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Let's just hope we don't live to regret this, Agent Morse."
+        },
+        {
+            "character": "Hartley",
+            "line": "Let's just hope we live."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I was wrong that day. Had we followed Fury's orders, hundreds of men and women who had devoted their lives to this organization would be dead. If I had been the man in charge, they'd all be lost."
+        },
+        {
+            "character": "Coulson",
+            "line": "So now you all operate as what? Five friendly faces who agree on everything? I don't see the other four here talking to me... just you."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I have no desire to be the director."
+        },
+        {
+            "character": "Coulson",
+            "line": "You think I did? Fury chose me."
+        },
+        {
+            "character": "Gonzales",
+            "line": "He made you. You're literally his creation. He thought of himself as some kind of king and made damn sure that he had an heir to the throne. Try and remember Project Insight was Fury's idea. Secrets are what brought S.H.I.E.L.D. down the first time, and we won't let that happen again."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you wanted to talk to me, Agent Gonzales, you should have talked to me. You put spies on my team, invaded my base, hurt my people. Fury's secrets didn't bring down S.H.I.E.L.D. Hydra did."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I wonder If you really believe that. Guard, give this to Weaver and Fitz-Simmons. It may take some time, but they'll figure out how to open it."
+        },
+        {
+            "character": "Coulson",
+            "line": "You really think they're gonna help you?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Everyone on your team is a S.H.I.E.L.D. agent. We'll let them make their own decisions."
+        }
+    ]
+}

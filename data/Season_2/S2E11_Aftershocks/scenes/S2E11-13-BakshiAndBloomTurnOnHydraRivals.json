@@ -1,0 +1,56 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 13,
+    "scene_name": "BakshiAndBloomTurnOnHydraRivals",
+    "description": "Bakshi and Bloom conspire over the phone with other HYDRA leaders, plotting to eliminate their rivals and consolidate power. The scene bristles with treachery as Bakshi claims a man outside is begging to die, foreshadowing upcoming betrayals and bloodshed in HYDRA’s ranks.",
+    "roles": [
+        "octavian_bloom",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "They want to kill us... a power play. The rest are moving against us, Dr. List... gave the order to wipe us out."
+        },
+        {
+            "character": "List",
+            "line": "But von Strucker and I are not involved, I can assure you."
+        },
+        {
+            "character": "Bloom",
+            "line": "We're calling because you may be a target."
+        },
+        {
+            "character": "List",
+            "line": "Do you think it's the baroness?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "And the banker and the Sheikh."
+        },
+        {
+            "character": "List",
+            "line": "We can't have infighting at a time of transition."
+        },
+        {
+            "character": "Bloom",
+            "line": "We agree, and we promise to smooth this over as best as we can."
+        },
+        {
+            "character": "List",
+            "line": "We count on it."
+        },
+        {
+            "character": "Bloom",
+            "line": "I'll send word."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Oh. There is one other thing. There's a man outside who's begging to die."
+        }
+    ]
+}

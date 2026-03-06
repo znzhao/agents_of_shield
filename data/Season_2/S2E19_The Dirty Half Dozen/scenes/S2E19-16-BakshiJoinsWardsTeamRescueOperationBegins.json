@@ -1,0 +1,77 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 16,
+    "scene_name": "BakshiJoinsWardsTeamRescueOperationBegins",
+    "description": "Having landed near the Hydra facility, the S.H.I.E.L.D. team breaks in. Bakshi, confirming List and the prisoners’ locations, requests to stay with Ward’s team. Coulson divides them into two teams: Skye, Ward, Simmons, and Bakshi will handle rescue; Coulson, May, and Fitz move to disable the base’s defense grid. With the schedule tight, the operation kicks off.",
+    "roles": [
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "phil_coulson",
+        "sunil_bakshi",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Hydra Arctic Research Facility (Arctic Circle)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Clear."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I was being followed."
+        },
+        {
+            "character": "Ward",
+            "line": "Calm your mind, Bakshi. Your compliance will be rewarded."
+        },
+        {
+            "character": "Bakshi",
+            "line": "It's good to see you again, Sir. Where's Kara?"
+        },
+        {
+            "character": "Ward",
+            "line": "Exactly where she needs to be. Is List still here?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Yes, sir. In the lab, along with the other prisoners."
+        },
+        {
+            "character": "Ward",
+            "line": "And the mainframe room?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Down the hall, to the left."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone clear on their team's objective?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "If it's agreeable, I'd prefer to join Agent Ward's team."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is that gonna be a problem?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hardly."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember, just 15 minutes till Gonzales' jets arrive. Move."
+        },
+        {
+            "character": "Fitz",
+            "line": "Be careful, Jemma."
+        }
+    ]
+}

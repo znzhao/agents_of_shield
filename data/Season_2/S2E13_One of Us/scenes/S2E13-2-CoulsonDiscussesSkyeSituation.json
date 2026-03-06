@@ -1,0 +1,104 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "CoulsonDiscussesSkyeSituation",
+    "description": "At the Playground, Coulson and May discuss Skye's situation and their obligation to put her on the Gifted Index. Coulson decides Skye requires an evaluation by someone trustworthy and suggests Dr. Andrew Garner, May’s ex-husband. May agrees to reach out to him.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Mmm. I got to say, Director, no doubt, the best grilled cheese I've ever had."
+        },
+        {
+            "character": "Coulson",
+            "line": "Secret ingredient. Don't ask. I will not disclose. How you doing with all the monitoring?"
+        },
+        {
+            "character": "Skye",
+            "line": "I barely notice it."
+        },
+        {
+            "character": "Coulson",
+            "line": "We wouldn't subject you to it if it wasn't absolutely necessary."
+        },
+        {
+            "character": "Skye",
+            "line": "I assume you're putting me on the gifted index."
+        },
+        {
+            "character": "Coulson",
+            "line": "We are."
+        },
+        {
+            "character": "Skye",
+            "line": "I've been doing some monitoring of my own. Check this out. My entire life, I've been searching for my parents, and my search ended with answers that are so much worse than I could have imagined. Sad, twitchy, not-all-there dad, a dead mom, alien mist that turned me into a walking natural disaster, a friend dead..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. Trip was not your fault."
+        },
+        {
+            "character": "Skye",
+            "line": "My point is, I'm steady. Nothing is shaking. I'm stopping them before they start."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's good."
+        },
+        {
+            "character": "Skye",
+            "line": "If I keep working on this, I can be back in the field in no time."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's acting like everything will go back to normal."
+        },
+        {
+            "character": "May",
+            "line": "That's what she does. Does she know we're putting her on the index?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. She does seem to be getting control of the powers."
+        },
+        {
+            "character": "May",
+            "line": "That's good, but we barely understand them... other than they're strong."
+        },
+        {
+            "character": "Coulson",
+            "line": "Catastrophically so."
+        },
+        {
+            "character": "May",
+            "line": "Protocol is anyone on the index undergoes a full psych eval and threat assessment."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'd need to bring in someone from outside."
+        },
+        {
+            "character": "May",
+            "line": "Someone we can trust."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know who I'd call... if it weren't a thing."
+        },
+        {
+            "character": "May",
+            "line": "Andrew? It's not a thing. He might say no."
+        },
+        {
+            "character": "Coulson",
+            "line": "Reach out. See what he says."
+        }
+    ]
+}

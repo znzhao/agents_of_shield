@@ -1,0 +1,40 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 11,
+    "scene_name": "WardAndDeathlokDebrief",
+    "description": "Ward and Deathlok confront each other after Skye and Coulson’s escape. Ward is furious with Deathlok for placing his life in jeopardy and threatens him if he ever does it again, while Deathlok coolly responds that he was only following orders from Garrett. Their alliance shows cracks as distrust and resentment boil beneath the surface. Meanwhile, their mission appears complete as they have the decrypted data and head to regroup with Garrett.",
+    "roles": [
+        "grant_ward",
+        "michael_peterson"
+    ],
+    "vibe": "dark",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I'm putting the plane down. We need to go after them."
+        },
+        {
+            "character": "Mike",
+            "line": "No, we don't. We stay with the plan."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't answer to you."
+        },
+        {
+            "character": "Mike",
+            "line": "Coulson and Skye don't matter anymore. We have the data and Garrett wants us back right now."
+        },
+        {
+            "character": "Ward",
+            "line": "Listen, I'm not just gonna forget what you did to me back there. You try anything like that again, I will kill you."
+        },
+        {
+            "character": "Mike",
+            "line": "Wasn't personal. I was just following orders."
+        }
+    ]
+}

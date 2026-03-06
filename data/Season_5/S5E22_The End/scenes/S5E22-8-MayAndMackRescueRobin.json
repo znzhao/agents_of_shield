@@ -1,0 +1,37 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 8,
+    "scene_name": "MayAndMackRescueRobin",
+    "description": "On the Remorath ship, May finds Robin and comforts her, learning her mother Polly was taken away. Mack and May strategize; May stays with Robin while Mack goes deeper into the ship to rescue Polly, highlighting their split-second choices and the urgency of the falling city.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "robin_hinton"
+    ],
+    "vibe": "intense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Robin",
+            "line": "Mum?"
+        },
+        {
+            "character": "May",
+            "line": "Robin? It's okay, it's okay, Robin. You're okay. Mum, they took her away from me. They took her away."
+        },
+        {
+            "character": "Mack",
+            "line": "The hull of the ship is busted. She must have climbed out. Your mother, Polly, is she in there?"
+        },
+        {
+            "character": "May",
+            "line": "Check the detention level. Bottom deck."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, you stay with her."
+        }
+    ]
+}

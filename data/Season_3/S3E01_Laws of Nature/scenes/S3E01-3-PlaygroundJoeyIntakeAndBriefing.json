@@ -1,0 +1,136 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 3,
+    "scene_name": "PlaygroundJoeyIntakeAndBriefing",
+    "description": "At the Playground, Joey is processed and greeted by Bobbi, who tries to make him feel comfortable and secure. Daisy and Mack explain to Joey that he cannot return to his old life until he gains control of his new abilities. Meanwhile, Coulson, Hunter, and Mack discuss the identity and background of the black ops group’s leader, strategizing on their next moves.",
+    "roles": [
+        "joey_gutierrez",
+        "bobbi_morse",
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Joey",
+            "line": "Hey. Who the hell are you?"
+        },
+        {
+            "character": "Morse",
+            "line": "My name's Bobbi. As in the name usually short for “Robert,” but in my case, “Barbara,” which, to me, is worse. This room is all yours, so feel free to make yourself at home. When you change, just put your clothing and any personal belongings in the drawer over here for analysis. The screen will then ask you to perform a series of medical scans. I know that you're not a huge fan of check-ups, but this will be painless."
+        },
+        {
+            "character": "Joey",
+            "line": "No offense, but I don't know you, so don't act like you know a damn thing about me."
+        },
+        {
+            "character": "Morse",
+            "line": "I know you put off your yearly physicals at least once every year. I know that your ex-boyfriend was a health nut and was on you to take better care of yourself. But it wasn't until you two broke up that you finally got your gym membership."
+        },
+        {
+            "character": "Joey",
+            "line": "You've been spying on me?"
+        },
+        {
+            "character": "Morse",
+            "line": "Looked at your Facebook page. I did see enough to know that you're generally more concerned for others than you are for yourself."
+        },
+        {
+            "character": "Joey",
+            "line": "Did I hurt anyone?"
+        },
+        {
+            "character": "Morse",
+            "line": "Probably. But there have been no reported fatalities. Not yet, anyway, so it's a good thing. Daisy will be in soon to give you the rundown. But know that you're not a danger to anyone in here. And you're safe from those people out there who were trying to hurt you. Whoever they are."
+        },
+        {
+            "character": "Hunter",
+            "line": "They're not HYDRA. You know, I've been digging, and my street sources tell me HYDRA's gone silent, eerily silent, yes, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, the HYDRA finances we track are static. No money's changing hands."
+        },
+        {
+            "character": "Hunter",
+            "line": "And by the looks of the hardware these gung-ho nutters are using, they're well-funded."
+        },
+        {
+            "character": "Coulson",
+            "line": "So if this woman's not HYDRA, what is she?"
+        },
+        {
+            "character": "Mack",
+            "line": "Everything else. I mean, look at this... two years CIA..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, under which time, she was consulting with the CDC, apparently."
+        },
+        {
+            "character": "Coulson",
+            "line": "All under different aliases."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, I like her."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but how are we supposed to track down someone like this? We can't look everywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "If we can trace that hardware, that could give us a place to start. Take that down to Bobbi in the lab. Have the team analyze it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, no, no, no, no, no. No, no, I'm... I'm... not going anywhere near Bobbi."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fine. I'll take it to her myself. Wouldn't want you to do anything that makes you feel uncomfortable."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, I know that's sarcasm, and I'm choosing to accept your thoughtfulness at face value."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, you should head downstairs, assist Skye with intake."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy. Damn it. Hard for us to get used to, huh?"
+        },
+        {
+            "character": "Mack",
+            "line": "Mm... no. No, just you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. So, what do we know about this José Gutierrez?"
+        },
+        {
+            "character": "Mack",
+            "line": "He goes by Joey. Construction foreman, motorcycle enthusiast."
+        },
+        {
+            "character": "Coulson",
+            "line": "Appears to be able to liquefy certain metals spontaneously at a distance of up to 3 meters."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. And understandably, that development has scared the living crap out of him."
+        }
+    ]
+}

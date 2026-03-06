@@ -1,0 +1,249 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 4,
+    "scene_name": "HunterMayMorseInOkinawa",
+    "description": "May and Hunter coordinate as Bobbi Morse enters Toshiro Mori's operation in Okinawa undercover, aiming to extract intel about Hydra's next move. Hunter and May monitor from afar, managing surveillance and bantering about Morse's skills and Hunter's jealousy. Bobbi flirts and persuades Toshiro, learning about Hydra's next target (Beckers) and alluding to the Obelisk—the 'Diviner'. Hunter must intervene when Bobbi is in danger, then bickers with her about whether she needed saving, revealing tensions and personal history between them. May organizes the team to go to Belgium to intercept Hydra's next target.",
+    "roles": [
+        "melinda_may",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Toshiro has the weapons from the U.N. attack, so we have two options. One, firefight. Surprise them, take down as many as we can before they bring out heavy artillery."
+        },
+        {
+            "character": "Hunter",
+            "line": "And option two? Just to hear it."
+        },
+        {
+            "character": "Morse",
+            "line": "I use my HYDRA cover, a cover that could be blown."
+        },
+        {
+            "character": "May",
+            "line": "That's why I like option one."
+        },
+        {
+            "character": "Morse",
+            "line": "On the other hand, I know Toshiro. The best way to get him to leak intel is to get him bragging. I think it's worth the risk."
+        },
+        {
+            "character": "Hunter",
+            "line": "She can handle it. Deception's her forte. Uh, I-I mean that sincerely, not passive-aggressively. As in, it's a good attribute for a spy to... Bloody hell."
+        },
+        {
+            "character": "May",
+            "line": "You can go in, but if anything's off, we're coming after you."
+        },
+        {
+            "character": "Hunter",
+            "line": "They'll search you for weapons. Don't die out there, all right?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Data intercept's up and running. We have audio and visual from the security cameras and access to any incoming cellular communications."
+        },
+        {
+            "character": "Morse",
+            "line": "Toshiro-san. (in Japanese) It's good to see you again."
+        },
+        {
+            "character": "May",
+            "line": "She speaks Japanese?"
+        },
+        {
+            "character": "Hunter",
+            "line": "She has this annoying knack for picking things up very quickly."
+        },
+        {
+            "character": "May",
+            "line": "Still like option two?"
+        },
+        {
+            "character": "Morse",
+            "line": "Do you still have that pan-fired green tea? It's from the Shizuoka prefecture, right?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "You always remember every little detail."
+        },
+        {
+            "character": "Hunter",
+            "line": "Try being married to somebody who remembers every little detail. It's not that charming. You think I'm being petty, don't you? Well, I'm not. I don't have a problem with Bob kissing that guy."
+        },
+        {
+            "character": "May",
+            "line": "Good. Because you had a hickey on your neck for a week after our mission in Miami."
+        },
+        {
+            "character": "Hunter",
+            "line": "Excuse me for doing my job thoroughly... and with style."
+        },
+        {
+            "character": "Toshiro",
+            "line": "The tea needs to steep for at least seven minutes."
+        },
+        {
+            "character": "Morse",
+            "line": "Mm. Perfect time for us to talk business, then."
+        },
+        {
+            "character": "Toshiro",
+            "line": "Forgive me, but I'd like to clear something up first. You see, there's a nasty rumor going around that you are actually working for S.H.I.E.L.D."
+        },
+        {
+            "character": "Morse",
+            "line": "Toshi, please. Aren't we all working for S.H.I.E.L.D.? Didn't you see the papers this morning? Scarlotti and his team were on the front page with that silly eagle on their chests. But those weapons they had... your work, I presume?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "How could you tell?"
+        },
+        {
+            "character": "Hunter",
+            "line": "This poor sap's buying every word she says."
+        },
+        {
+            "character": "May",
+            "line": "That's what we want."
+        },
+        {
+            "character": "Hunter",
+            "line": "I just feel sorry for the guy. Making targets feel special... that's her thing. You know, when I gave her my nan's pearl earrings, she was like..."
+        },
+        {
+            "character": "May",
+            "line": "You know I don't like you, right?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "I call them splinter bombs. Has a nice ring to it, doesn't it?"
+        },
+        {
+            "character": "Morse",
+            "line": "Is there any way for me to get my hands on a splinter bomb? Those really are a thing of beauty."
+        },
+        {
+            "character": "Toshiro",
+            "line": "Unfortunately, I shipped them all out yesterday. Plus, I can't take all the credit. Original specs came from HYDRA technology way back when."
+        },
+        {
+            "character": "Morse",
+            "line": "Whitehall gave them to you?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "Yes. A leap of faith. I just hope I've earned a chance to work on the Diviner."
+        },
+        {
+            "character": "Morse",
+            "line": "The Diviner?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "That's what the lunatic who brought it to him calls it, anyway. I heard it's alien."
+        },
+        {
+            "character": "Hunter",
+            "line": "You don't think he means..."
+        },
+        {
+            "character": "May",
+            "line": "The Obelisk."
+        },
+        {
+            "character": "Hunter",
+            "line": "Toshiro's people have an incoming message. Oh, no."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Toshiro",
+            "line": "All I know is that I have a better case to make once Scarlotti's team gets to Beckers. Then S.H.I.E.L.D. will be dead in the water."
+        },
+        {
+            "character": "Morse",
+            "line": "They're en route to Beckers now?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You can thank me later."
+        },
+        {
+            "character": "Morse",
+            "line": "Thank you? What the hell were you thinking?"
+        },
+        {
+            "character": "Hunter",
+            "line": "What was I thinking? I just saved your life."
+        },
+        {
+            "character": "Morse",
+            "line": "You don't think I knew that guy was behind me? This... this is just you peacocking."
+        },
+        {
+            "character": "Hunter",
+            "line": "He made you, and he was gonna kill you! And, sweetheart, nobody uses the word “peacocking.”"
+        },
+        {
+            "character": "Morse",
+            "line": "Are you even listening to yourself right now? Oh, wait. Of course you are. You love the sound of your own voice."
+        },
+        {
+            "character": "Hunter",
+            "line": "Because it's reasonable. One of us has to be."
+        },
+        {
+            "character": "Morse",
+            "line": "This is what makes you so aggravating to be with."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hence, not with me anymore. Lucky us."
+        },
+        {
+            "character": "Morse",
+            "line": "Yes."
+        },
+        {
+            "character": "May",
+            "line": "Really?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I just saved her life twice, and this is the thanks I get."
+        },
+        {
+            "character": "May",
+            "line": "Toshiro said that they were going after Beckers. Recognize the name?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah, Julien Beckers, Belgian foreign affairs minister."
+        },
+        {
+            "character": "Hunter",
+            "line": "The guy who's been keeping the peace?"
+        },
+        {
+            "character": "Morse",
+            "line": "If Scarlotti's team takes out Beckers, even the neutral U.N. countries are gonna fall in line with Senator Ward's proposal."
+        },
+        {
+            "character": "May",
+            "line": "Call Coulson. We're heading to Belgium."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bad day to be S.H.I.E.L.D., eh?"
+        }
+    ]
+}

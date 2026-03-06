@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 8,
+    "scene_name": "WardMentorsSkye",
+    "description": "Ward tries to teach Skye vital self-defense skills in preparation for infiltration. Their dynamic grows more serious as Ward shares his own 'defining moment' from a violent childhood. Skye apologizes for pushing, showing that her cleverness can get her a weapon, but Ward stresses the gravity of using one. The scene establishes their growing trust and the gravity of Skye's involvement.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Now, again, slowly, what's first?"
+        },
+        {
+            "character": "Skye",
+            "line": "Then things are moving too quickly. I'm a proper southern girl. You'll make me untidy."
+        },
+        {
+            "character": "Ward",
+            "line": "Twist the thumb, palm the barrel."
+        },
+        {
+            "character": "Ward",
+            "line": "You're gonna die and leave us hanging out to dry, you know that? You're going in with no self-defense skills..."
+        },
+        {
+            "character": "Skye",
+            "line": "I have a few tricks up my sleeve."
+        },
+        {
+            "character": "Ward",
+            "line": "You need muscle memory, fundamentals, the tools to turn yourself..."
+        },
+        {
+            "character": "Skye",
+            "line": "Into a whole bag of tools?"
+        },
+        {
+            "character": "Ward",
+            "line": "How did you learn computer science without committing yourself to it?"
+        },
+        {
+            "character": "Skye",
+            "line": "C.S. comes naturally to me. I'm sorry I'm not naturally whatever you are."
+        },
+        {
+            "character": "Ward",
+            "line": "You think this came naturally? I had a brother who beat the crap out of me... me and my little brother... for nothing, for eating a piece of his birthday cake. I had to learn to protect us the way I am trying to protect you. That was my moment. You asked."
+        },
+        {
+            "character": "Skye",
+            "line": "Sorry. I didn't mean to push. But I did manage to take this."
+        },
+        {
+            "character": "Ward",
+            "line": "Getting the gun is one thing. Pulling the trigger... that is another. Now, again, slowly, what's first?"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "RadcliffeAidaAndIvanovAtBase",
+    "description": "Radcliffe and AIDA examine the expanded Framework simulation while Ivanov expresses discomfort with AIDA's presence. Ivanov reveals he has read the Darkhold and that the solution to his Inhuman problem is Radcliffe himself. Radcliffe presents pure Terrigen crystals, explaining his recent advancements. Shockley and Ivanov discuss their partnership and plans for the future.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "My God. AIDA, it's astonishing."
+        },
+        {
+            "character": "AIDA",
+            "line": "Agent May kept finding the edges of our simulations. That's no longer a concern, given the Earth has no edges. It's round."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I understood that conceptually, we were building a world, but I-I didn't expect you would build our entire world."
+        },
+        {
+            "character": "AIDA",
+            "line": "With slight improvements."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "And Agent May, she's happy?"
+        },
+        {
+            "character": "AIDA",
+            "line": "The clinical definition of happy is difficult to quantify. But she meets much of the criteria."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, then, that's a yes. Whatever price we needed to pay for the Darkhold, it was worth it. Welcome, welcome. Morning checkup?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "It's midnight. Does that thing have to be in here?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Of course not. Well, this place is perfect. All the power we need. And undetectable?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "I believe so.I 've lived here for many years."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Great! But that... that book... you really shouldn't touch that. It's... It's dangerous, powerful."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I'm aware. I read it while you were sleeping."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You did what?! I specifically said it was mine to examine, decipher..."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You said it would help me find a solution to eliminate the Inhuman problem."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I said don't touch it! Could warp the senses, corrupt the mind."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Relax.I glanced at it, and it gave me a simple answer. You."
+        },
+        {
+            "character": "Shockley",
+            "line": "Why do you think you're still alive?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "As we discussed when you first arrived, we have plans for a future together."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes. I've already worked out the first step."
+        },
+        {
+            "character": "Shockley",
+            "line": "You found an Inhuman to dangle in front of S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, no. Because as you're aware, they are not easy to come by. Until now. Pure Terrigen crystals. I picked up some samples last year when I was working for a previous benefactor. His goals were... well, the complete opposite of yours, so I've been working to refine the compound, grow it..."
+        },
+        {
+            "character": "Shockley",
+            "line": "Superior..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The... The chemical in this pure form is harmless to humans. If you're a potential Inhuman, however it will turn you."
+        },
+        {
+            "character": "Ivanov",
+            "line": "We're counting on it."
+        }
+    ]
+}

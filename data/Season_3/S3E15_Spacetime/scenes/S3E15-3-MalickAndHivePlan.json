@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 3,
+    "scene_name": "MalickAndHivePlan",
+    "description": "Gideon Malick shares a meal with the being inside Grant Ward's body and discusses power, the sacrifices made to bring Hive back, and their plan for Malick to experience 'true power.' This scene introduces the alliance between Malick, Hive, and Giyera, and sets up their plan to leverage their new Inhuman asset and corporate resources.",
+    "roles": [
+        "gideon_malick",
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "He is risen! What an improvement. Last time I saw you, you looked like an extra from “Dawn of the Dead.” And now... now you're a man who can inspire. To what do we owe this miraculous turnaround?"
+        },
+        {
+            "character": "Hive",
+            "line": "To your patience. A thank-you is overdue. For bringing me back."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, I didn't exactly move Heaven and Earth, uh, but I did move a lot of earth, money, manpower, anything to make it happen."
+        },
+        {
+            "character": "Hive",
+            "line": "I'd like to know why."
+        },
+        {
+            "character": "Malick",
+            "line": "Why?"
+        },
+        {
+            "character": "Hive",
+            "line": "Meaning, to what end?"
+        },
+        {
+            "character": "Malick",
+            "line": "Why? I, uh... My family, my ancestors were taught to believe that if we managed to return you from that godforsaken place that we would be rewarded."
+        },
+        {
+            "character": "Hive",
+            "line": "With what?"
+        },
+        {
+            "character": "Malick",
+            "line": "Together, we are supposed to take over the world."
+        },
+        {
+            "character": "Hive",
+            "line": "And what does that look like to you? You have $9.2 billion. The influence that comes with any object of your desire can be yours. That's not enough? What can I give you that you couldn't have before?"
+        },
+        {
+            "character": "Malick",
+            "line": "Look, I've dedicated my life, surrendered my life to a higher power."
+        },
+        {
+            "character": "Hive",
+            "line": "That's the word, power. And that's what you seek. Not wealth or control or clout. No, true power. How does that sound?"
+        },
+        {
+            "character": "Malick",
+            "line": "Intriguing."
+        },
+        {
+            "character": "Hive",
+            "line": "It's time to go above ground and finally show you what true power really feels like."
+        }
+    ]
+}

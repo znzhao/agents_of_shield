@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 14,
+    "scene_name": "CoulsonMayReflection",
+    "description": "Coulson and May discuss his deep-seated sense of change since his resurrection. Coulson admits he ordered the medical tests himself, revealing his vulnerability. May encourages him to accept and move forward, reinforcing their mutual understanding born from trauma.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "How was Simmons?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Amazingly resilient. You'd never know she almost died."
+        },
+        {
+            "character": "May",
+            "line": "Experience like that... it takes a while to sink in. That her medical report?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mine, actually. Blood work finally came back. I'm perfectly normal. Little heavy on the iron, but don't worry. You don't have to start calling me “Iron Man.”"
+        },
+        {
+            "character": "May",
+            "line": "Wasn't planning on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "My doctors never requested any tests. I ordered them for myself, but you knew that. This piece of paper is telling me that everything's fine, but... I don't feel fine. I feel different."
+        },
+        {
+            "character": "May",
+            "line": "Take off your shirt."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "May",
+            "line": "Your shirt... unbutton it. Whether it was 8 seconds or 40, you died. There's no way you can go through a trauma like that and not come out of it changed. You know how long it's taken me to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know."
+        },
+        {
+            "character": "May",
+            "line": "The point of these things is to remind us that... there is no going back. There's only moving forward. You feel different... because you are different."
+        }
+    ]
+}

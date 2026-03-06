@@ -1,0 +1,59 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "MayAndFatherDiscussHerAbsence",
+    "description": "May spends time with her father, Charlie, in a relaxed setting, working on his rehabilitation after his accident. Their conversation is filled with familial warmth and subtle probing, as Charlie expresses suspicions about why May has suddenly returned. The underlying tension reveals May’s unease, her struggle to reconcile family obligations with her S.H.I.E.L.D. past, and alludes to unresolved issues regarding Andrew.",
+    "roles": [
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Charlie",
+            "line": "No, no, no. You don't watch where the ball goes."
+        },
+        {
+            "character": "May",
+            "line": "Then how would I find it?"
+        },
+        {
+            "character": "Charlie",
+            "line": "You're usually very good at things like this, a natural."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, well, there's nothing natural about this game, but your comments after every swing make it super fun."
+        },
+        {
+            "character": "Charlie",
+            "line": "You'll get hooked. You'll see."
+        },
+        {
+            "character": "May",
+            "line": "All right, fair's fair. 10 shots for me, 5 reps for you. That's why we're here. Work that hip."
+        },
+        {
+            "character": "Charlie",
+            "line": "You don't have to worry about my rehab, and that's not why you're here. I may not be a spy, but 20 years with your mother has taught me to pick up on things. You're not here because you care about me."
+        },
+        {
+            "character": "May",
+            "line": "Oh, now I don't care about you."
+        },
+        {
+            "character": "Charlie",
+            "line": "I didn't say that. I said that's not why you're here. Come on, Mellie. You... You take a trip to Honolulu with Andrew."
+        },
+        {
+            "character": "May",
+            "line": "It was Maui."
+        },
+        {
+            "character": "Charlie",
+            "line": "And you come back the daughter of the year. Something is not right. All right, I'll figure it out for myself."
+        }
+    ]
+}

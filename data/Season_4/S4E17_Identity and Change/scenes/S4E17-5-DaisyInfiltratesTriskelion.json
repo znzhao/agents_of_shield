@@ -1,0 +1,61 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 5,
+    "scene_name": "DaisyInfiltratesTriskelion",
+    "description": "Daisy covertly accesses Madame Hydra's restricted files to locate Radcliffe within the Triskelion. Ward urges her to hurry as their cover is wearing thin. Before Daisy and Ward can escape, they are confronted by May and other Hydra guards. Daisy manages to pass Radcliffe's location to Ward so Simmons can act on it, choosing to go with May to avoid compromising the mission. The tension escalates as Daisy sacrifices her own safety for her team.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "What the hell are you doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "I got a lead on someone who could take down this whole place."
+        },
+        {
+            "character": "Ward",
+            "line": "It's not safe here. I think they're on to me."
+        },
+        {
+            "character": "Skye",
+            "line": "This will go a lot faster if you would quit mouth-breathing on me."
+        },
+        {
+            "character": "Ward",
+            "line": "Madame Hydra's restricted files? You have lost your mind."
+        },
+        {
+            "character": "Skye",
+            "line": "The soap made me do it. Let's go."
+        },
+        {
+            "character": "May",
+            "line": "Hold it! Skye, you need to come with us."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll take May, you take the others. When we get to the door..."
+        },
+        {
+            "character": "Skye",
+            "line": "Get this to Simmons. She'll know what to do."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye..."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll be fine. Go."
+        }
+    ]
+}

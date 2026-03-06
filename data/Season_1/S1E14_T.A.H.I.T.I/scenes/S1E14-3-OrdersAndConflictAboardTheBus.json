@@ -1,0 +1,224 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 3,
+    "scene_name": "OrdersAndConflictAboardTheBus",
+    "description": "Aboard the S.H.I.E.L.D. Bus, May and Ward discuss their loyalty to Coulson and what makes him different as a leader. The team receives orders from S.H.I.E.L.D. HQ to turn over Quinn to the Fridge, but Coulson refuses. Soon, Agent John Garrett and Antoine Triplett arrive aboard a S.H.I.E.L.D. boarding transport, officially sent to retrieve Quinn. Coulson and Garrett debate custody of Quinn, with Garrett expressing frustration over lost efforts and giving the team little time to comply. Tensions are high as Triplett and Ward size each other up and exchange verbal jabs.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "melinda_may",
+        "john_garrett",
+        "antoine_triplett",
+        "ian_quinn"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Coulson told me how long he was dead. But you already knew that, didn't you? I saw Skye... in the pod, machines filtering her blood, breathing for her. I'm not sure I'd make this play... fly halfway around the world hoping for a second miracle."
+        },
+        {
+            "character": "May",
+            "line": "If Coulson thinks there's a chance in a million to save Skye, to save any of us, he'd take it. People like us... we need people like him. So, yeah, it makes sense ... a lot more sense than the alternative."
+        },
+        {
+            "character": "Ward",
+            "line": "You mean giving up?"
+        },
+        {
+            "character": "May",
+            "line": "Or killing the man responsible."
+        },
+        {
+            "character": "Ward",
+            "line": "I did like seeing you go after Quinn. You don't open the blinds like that very often."
+        },
+        {
+            "character": "Woman",
+            "line": "S.H.I.E.L.D. 616, this is tower Michael Tango. You are in violation of S.H.I.E.L.D. directive 1297. Respond immediately."
+        },
+        {
+            "character": "Ward",
+            "line": "Disobeying a direct order. We didn't hand Quinn over for interrogation."
+        },
+        {
+            "character": "May",
+            "line": "Great."
+        },
+        {
+            "character": "May",
+            "line": "This is S.H.I.E.L.D. 616. How do we proceed?"
+        },
+        {
+            "character": "Woman",
+            "line": "Prepare to be boarded and relinquish command."
+        },
+        {
+            "character": "Coulson",
+            "line": "Really? All the war and chaos in the world, and S.H.I.E.L.D. sends a plane after us?"
+        },
+        {
+            "character": "Ward",
+            "line": "Three planes... a small transport to dock and a pair of F-35s to make sure we hand over Quinn."
+        },
+        {
+            "character": "Coulson",
+            "line": "If they scratched my paint, I'm gonna be pissed."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll await your orders, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Garrett? What the hell are you doing here?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, as opposed to the level 8 jackass I'm staring at, I still follow orders."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're the worst at following orders."
+        },
+        {
+            "character": "Garrett",
+            "line": "Maybe... but I like this one. You are to immediately turn Ian Quinn over for transport to the fridge. Agent Antoine Triplett, Agent Phillip Coulson. You wouldn't know it to look at him, but Phil's one of our finest."
+        },
+        {
+            "character": "Triplett",
+            "line": "An honor, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Trip joined me as my specialist after Ward came to your circus. Go secure the prisoner."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Phil, come on. Just because Fury gave you this pretty plane doesn't mean they won't shoot it out of the sky."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why are you really here, Garrett? S.H.I.E.L.D. could have sent any security team to collect Quinn. Why you? You've been chasing him, too!"
+        },
+        {
+            "character": "Garrett",
+            "line": "Since Malta. Then yesterday, your little Italian job cost my team weeks of work."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can't have him, not yet."
+        },
+        {
+            "character": "Garrett",
+            "line": "This isn't a request."
+        },
+        {
+            "character": "Coulson",
+            "line": "Quinn shot one of my agents. She's on life support in a med pod downstairs. We are taking her to the trauma center in Bethesda."
+        },
+        {
+            "character": "Garrett",
+            "line": "Quinn actually pulled the trigger?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye infiltrated his compound in Malta. When he saw her yesterday, seems he took it personally."
+        },
+        {
+            "character": "Garrett",
+            "line": "I never took him for a triggerman. He pays others for that. I've lost three of my own chasing him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then you understand why I can't give him to you until we save my agent."
+        },
+        {
+            "character": "Garrett",
+            "line": "Because if she doesn't make it..."
+        },
+        {
+            "character": "Triplett",
+            "line": "Agent Grant Ward."
+        },
+        {
+            "character": "Garrett",
+            "line": "Trip. Is Garrett upstairs?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah. You know, he still talks about that thousand-yard shot you took in Bandung."
+        },
+        {
+            "character": "Ward",
+            "line": "It was 2,000. So, what are you doing here?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Man, this is like the Playboy jet."
+        },
+        {
+            "character": "Triplett",
+            "line": "I mean, a guy could get soft bunking in a space like this. How did Coulson swing such a sweet ride?"
+        },
+        {
+            "character": "Ward",
+            "line": "He died."
+        },
+        {
+            "character": "Triplett",
+            "line": "That's tight. You want to point me to the box you're keeping Quinn? H.Q. ordered Garrett to haul his ass to the fridge for questioning. Is that a full bar?"
+        },
+        {
+            "character": "Ward",
+            "line": "You're welcome to it. But, uh, Quinn stays put till Coulson says otherwise."
+        },
+        {
+            "character": "Triplett",
+            "line": "Come on, man. Garrett was your S.O., too, so you know how this works."
+        },
+        {
+            "character": "Ward",
+            "line": "Why don't you remind me?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Garrett wants Quinn. It's my job to make sure Garrett gets what he wants. Now where is he?"
+        },
+        {
+            "character": "Ward",
+            "line": "Can't help you with that."
+        },
+        {
+            "character": "Triplett",
+            "line": "No worries. I'll find Quinn myself. I'm sure he's tucked between the jacuzzi and the squash court."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Ward, stand down. Agent Garrett and I have come to an agreement. He convinced H.Q. he could interrogate Quinn here on our plane as we continue to Bethesda."
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, I'm a bit of a sweet talker when I need to be. You wouldn't believe what I could talk this son of a gun into. Good seeing you, son."
+        },
+        {
+            "character": "Ward",
+            "line": "You, too, sir. And thank you."
+        },
+        {
+            "character": "Garrett",
+            "line": "Saving the girl's top priority, and she might know something."
+        }
+    ]
+}

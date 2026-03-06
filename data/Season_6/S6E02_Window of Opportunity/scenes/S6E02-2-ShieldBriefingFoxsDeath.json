@@ -1,0 +1,61 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "ShieldBriefingFoxsDeath",
+    "description": "At S.H.I.E.L.D., Mack leads a briefing on the team's next actions in the wake of Agent Fox's murder by Sarge's group. He organizes the team's response as May questions the lack of mention about the Coulson lookalike. Mack keeps details close, indicating a need for more information before revealing the truth. Elena and Keller are assigned to review footage and assist the investigation.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Fox told me he wanted to join S.H.I.E.L.D. because we protect people from their worst nightmares. Or at least we try. We can't bring him back, but we can save other lives, fix something else, and that's what we're gonna do. Jaross. Runko. Keep scanning for any more of these disturbances. Keller, comb through security footage from the museum again and see if we missed anything. Yo-Yo, help him out."
+        },
+        {
+            "character": "Elena",
+            "line": "On it."
+        },
+        {
+            "character": "Mack",
+            "line": "I want you supervising the search for that truck. Anyone gets a lead, sound the alarm. Go."
+        },
+        {
+            "character": "May",
+            "line": "So, no mention of the man driving that truck?"
+        },
+        {
+            "character": "Mack",
+            "line": "One thing at a time."
+        },
+        {
+            "character": "May",
+            "line": "Do you not believe me?"
+        },
+        {
+            "character": "Mack",
+            "line": "Look, if you say you saw Coulson, you saw him. But this doesn't go wide until we know what the hell he is."
+        },
+        {
+            "character": "Pax",
+            "line": "Jaco, come on! Does he really have to do that right now?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Yes."
+        },
+        {
+            "character": "Pax",
+            "line": "We just filled our stomachs for the first time in days."
+        },
+        {
+            "character": "Sarge",
+            "line": "And he hasn't had his home atmosphere in nine years, so find a way to cope."
+        }
+    ]
+}

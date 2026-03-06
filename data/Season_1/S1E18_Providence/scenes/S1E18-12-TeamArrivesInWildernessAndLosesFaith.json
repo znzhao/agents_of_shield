@@ -1,0 +1,35 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 12,
+    "scene_name": "TeamArrivesInWildernessAndLosesFaith",
+    "description": "Coulson, May, Skye, Fitz, Simmons, and Triplett arrive near their coordinate destination—a snowy wilderness—with doubts and tension about whether they are following phantom orders. Fitz and Simmons talk about loyalty and change, while Skye and May debate whether Coulson is chasing ghosts. As hope and provisions dwindle, the team is demoralized and uncertain whether Fury is even alive.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Coordinates are about a 7-mile hike from here. Terrain's pretty rough, even if it wasn't covered with snow."
+        },
+        {
+            "character": "Triplett",
+            "line": "Agent May and I could lead a scouting party first, make sure this isn't a trap."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no time. In less than eight hours, a NATO satellite will pass directly over us. If the bus is still here, they'll know. I've been doing this long enough to know that something's up there. But this mission has to be your choice. A lot's changed in the last few days. I know you all have your doubts about what we've been doing, about me. But I don't, which is why I'm going to find whatever Fury has waiting for us... with you or without you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you heard the man. We don't have much time."
+        }
+    ]
+}

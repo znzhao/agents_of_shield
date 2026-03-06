@@ -1,0 +1,132 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "BakshiTakenByHunter",
+    "description": "Lance Hunter, undercover as a driver, takes Bakshi into his custody. Playing the part of a mercenary, Hunter sells Bakshi on the idea that his employers want him dead, using this as a ploy to extract information. Bakshi desperately bargains, promising Hunter wealth and standing with HYDRA, while agreeing to lead him to Octavian Bloom.",
+    "roles": [
+        "sunil_bakshi",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "The S.U.V.'s still running, so get in!"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Whitehall is truly dead?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Then did Mr. Bloom set up the rescue?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm just the driver."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Who do you take orders from?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I guess I take orders from you now, sir."
+        },
+        {
+            "character": "Man",
+            "line": "Clear!"
+        },
+        {
+            "character": "May",
+            "line": "“You'll never take us alive!?” Really? A little over the top, don't you think?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I only had a day to come up with this whole thing. Besides, if I let you write the script, no one would say anything. Well, Bakshi has a flair for the dramatic. Let's just hope he bought ours."
+        },
+        {
+            "character": "Mack",
+            "line": "Word is, Coulson's mad plan worked. Bakshi took the bait. How's the watchmaker project coming along? Looks like it took precise work. Your hands are getting better."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, my head's getting worse. I'm totally confused by what I'm seeing. Turns out the electronics weren't crushed like I thought... Well, they were, but from the inside out or something."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, can you fix it? Get a look at Skye's biological data?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, yeah, yeah. No, I, um... yeah, I can. I think so. I won't know what half of it means until Simmons gets back, anyway."
+        },
+        {
+            "character": "Mack",
+            "line": "They're landing now."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is every radioshack a HYDRA outpost? I always suspected."
+        },
+        {
+            "character": "Bloom",
+            "line": "This is lighthouse."
+        },
+        {
+            "character": "Bakshi",
+            "line": "This is warship. I'm free."
+        },
+        {
+            "character": "Bloom",
+            "line": "Ah, Mr. Bakshi, very good news."
+        },
+        {
+            "character": "Bakshi",
+            "line": "But we have a situation."
+        },
+        {
+            "character": "Bloom",
+            "line": "Well, perhaps you'd better come in."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I'm a few hours out. See you then."
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't take that gun from your belt. This will be painless."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Whoa! Whoa, whoa! What the hell?!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Sorry. I like you, but once you made contact, my orders were to take you out. Why? My employers don't want you, Whitehall, or your phone-a-friend to get in their way. Sorry about this."
+        },
+        {
+            "character": "Bakshi",
+            "line": "W-W-Wait, p-please. I'll triple whatever you're being paid."
+        },
+        {
+            "character": "Hunter",
+            "line": "Mm, I'm getting paid by a bunch of people. That'll start to add up. They're moving against us. They want you out of the picture. If it's not me, it'll be someone else."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Please. Money is not a question. If you can protect me and see me safely to Bloom, not only will you be financially set for life, but you will also solidify your standing with the true heads of HYDRA. The money will be there! I swear it! I-If not, I'll pull the trigger myself."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay. Get in."
+        }
+    ]
+}

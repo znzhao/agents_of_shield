@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "skye",
+        "joey_gutierrez",
+        "lincoln",
+        "gideon_malick",
+        "giyera"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Simmons",
+        "Fitz",
+        "Bobbi",
+        "Hunter",
+        "Mack",
+        "Daisy",
+        "Joey",
+        "Lincoln",
+        "Giyera",
+        "Malick"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Advanced Threat Containment Unit (ATCU)",
+        "Hydra",
+        "Inhumans"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)"
+    ]
+}

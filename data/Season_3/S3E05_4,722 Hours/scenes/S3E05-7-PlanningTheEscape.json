@@ -1,0 +1,163 @@
+{
+    "season": 3,
+    "episode": 5,
+    "num": 7,
+    "scene_name": "PlanningTheEscape",
+    "description": "Using her scientific knowledge, Simmons theorizes that the Monolith’s portal position can be predicted by tracking the planet’s rotation and the moons’ alignment. With Will’s help and the last of her phone's battery, she calculates a window for the next portal opening. Despite the daunting prospect of the portal appearing across an uncrossable canyon deep in the no-fly zone, the pair commit to making an attempt, reigniting hope between them.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This is where you came in. This is where I came in."
+        },
+        {
+            "character": "Will",
+            "line": "All right, professor, I'm listening."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Monolith creates a wormhole, a direct line from its location on Earth to a fixed location here."
+        },
+        {
+            "character": "Will",
+            "line": "You said the portal is moving."
+        },
+        {
+            "character": "Simmons",
+            "line": "It appears to be moving, but it's the planet that's moving, rotating on its axis. The portal is fixed. Since we know the date, time, and place we both arrived, We know how long it took to move from X to Y. If we track the stars long enough, we can determine the rate of the planet's rotation and predict when and where the portal will appear."
+        },
+        {
+            "character": "Will",
+            "line": "With that thing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not with this. With that."
+        },
+        {
+            "character": "Will",
+            "line": "Assuming we could even fix that heap of junk, there's no way to power it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, there is. I have enough battery left to get the data we need."
+        },
+        {
+            "character": "Will",
+            "line": "If we use up your battery and this doesn't work. That's the end of Fitz and all your friends."
+        },
+        {
+            "character": "All",
+            "line": "Happy birthday, Jemma!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Happy birthday, Jemma. It's not the same without you here. Say hi to your parents for me, and I'll see you soon."
+        },
+        {
+            "character": "Simmons",
+            "line": "Goodbye, Fitz. I'll see you soon."
+        },
+        {
+            "character": "Will",
+            "line": "What happened?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It died, but it's in a better place now."
+        },
+        {
+            "character": "Will",
+            "line": "You get anything?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We got one, there, 18 days from now."
+        },
+        {
+            "character": "Will",
+            "line": "Why did it have to be there? That's the no-fly zone. It's a 40-hour hike, at least. There's a canyon 30 meters wide waiting for us. It's impossible to cross, Jemma. We'll never make it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Didn't you say you can't resist doing something when the odds are impossible?"
+        },
+        {
+            "character": "Will",
+            "line": "I knew that snake would come back to bite me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Got two weeks, fly boy. Figure it out."
+        },
+        {
+            "character": "Will",
+            "line": "So, question, professor, why science? How'd you figure all this out? The planets, the math..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Scoliosis."
+        },
+        {
+            "character": "Will",
+            "line": "Okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "I had scoliosis as a kid. I had a small surgery to correct it. I was flat on my back for a few weeks, so to help combat the boredom, every night, my father would wheel my bed out and talk about the stars."
+        },
+        {
+            "character": "Will",
+            "line": "Nice job, dad. So, this portal, how do we know it's not just a door that swings one way?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I think it acts more like a valve. On Earth, it seemed to open randomly, but it only appeared random from our point of view."
+        },
+        {
+            "character": "Will",
+            "line": "What opens it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The moons. Their degree of alignment affects the portal the way our moon affects the tides, ‘causing it to ebb and flow, pulling things in and out."
+        },
+        {
+            "character": "Will",
+            "line": "So, the portal opens, we just jump right through, go with the flow?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It doesn't stay open very long, so in case there's no time for that, we send a message in a bottle, everything Fitz needs to know to open it, keep it open, and come and get us."
+        },
+        {
+            "character": "Will",
+            "line": "I'm glad that thing sent you over here and not the janitor."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thanks. How exactly is this supposed to get us across the canyon? We only have one shot, and we have to leave tomorrow."
+        },
+        {
+            "character": "Will",
+            "line": "Well... I'm gonna shoot this into the wall across the canyon. We're gonna slide across on the rope. What, did you think I was gonna build a helicopter?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Kinda. You think it's gonna work?"
+        },
+        {
+            "character": "Will",
+            "line": "It'll work. You still want to do this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We don't have a choice."
+        }
+    ]
+}

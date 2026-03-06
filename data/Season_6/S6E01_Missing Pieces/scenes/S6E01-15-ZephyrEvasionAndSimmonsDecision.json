@@ -1,0 +1,78 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 15,
+    "scene_name": "ZephyrEvasionAndSimmonsDecision",
+    "description": "The Zephyr crew scrambles to avoid detection by a Confederacy destroyer. As tension mounts, Simmons has secretly programmed the ship to make a dangerous jump toward Fitz’s last known coordinates instead of returning to Earth. The decision creates division and anxiety within the crew as they are forced to accept her choice to prioritize family over safety.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "We're dead meat. The Confederate ship is turning. Get ready. Looks like we've been spotted."
+        },
+        {
+            "character": "Piper",
+            "line": "No. I don't think so."
+        },
+        {
+            "character": "Davis",
+            "line": "Well, you've always been dumb as a bag of bricks."
+        },
+        {
+            "character": "Piper",
+            "line": "I'll put money on it."
+        },
+        {
+            "character": "Davis",
+            "line": "Of course you will, because if I win, we'll be dead and you won't have to pay me."
+        },
+        {
+            "character": "Piper",
+            "line": "Look at you finally catching on."
+        },
+        {
+            "character": "Daisy",
+            "line": "Davis wins."
+        },
+        {
+            "character": "Davis",
+            "line": "Hold on!"
+        },
+        {
+            "character": "Davis",
+            "line": "Front shielding is down!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Piper, we need to jump."
+        },
+        {
+            "character": "Piper",
+            "line": "We're primed!"
+        },
+        {
+            "character": "Davis",
+            "line": "Hurry!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Enter the coordinates for Earth. Let's get out of here."
+        },
+        {
+            "character": "Simmons",
+            "line": "The coordinates are already locked in."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons. I'm sorry."
+        }
+    ]
+}

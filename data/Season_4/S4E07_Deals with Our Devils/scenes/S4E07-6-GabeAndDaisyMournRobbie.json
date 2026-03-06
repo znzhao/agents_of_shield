@@ -1,0 +1,60 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "GabeAndDaisyMournRobbie",
+    "description": "On Zephyr One, Daisy has a heartfelt talk with Gabe Reyes, sharing memories of Robbie. Daisy assures Gabe that his brother isn't gone and comforts him, stressing the strong bond the brothers shared. Gabe wonders if Robbie will try to confront their uncle Eli if given the chance, highlighting both fear and hope in the face of loss.",
+    "roles": [
+        "skye",
+        "gabe_reyes"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gabe",
+            "line": "They were my closest family, and I didn't know them at all. They both. I knew Robbie was disturbed, but... but I was afraid that was ‘cause of me... ‘cause I was holding him back."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, you... you were what he held onto. You grounded him."
+        },
+        {
+            "character": "Gabe",
+            "line": "But I wanted him to leave. You know, figure himself out. I didn't know that was what he was up against."
+        },
+        {
+            "character": "Daisy",
+            "line": "Your brother loves you more than anything."
+        },
+        {
+            "character": "Gabe",
+            "line": "I just wish we had talked. You really think he's not gone?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I know the feeling when someone's gone, and I don't feel that now. Plus, your brother's pretty damn stubborn."
+        },
+        {
+            "character": "Gabe",
+            "line": "You have no idea. If he is out there, he's gonna go straight for Uncle Eli."
+        },
+        {
+            "character": "Mack",
+            "line": "And he'd be doing the right thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack, what are you doing?"
+        },
+        {
+            "character": "Davis",
+            "line": "Sir, you got to stop. Director's orders. We're about to take off any minute."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack! What's gotten into you?! Mack!"
+        }
+    ]
+}

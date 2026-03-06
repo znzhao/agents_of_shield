@@ -1,0 +1,93 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 6,
+    "scene_name": "SimmonsCoulsonStaffTesting",
+    "description": "Inside Area 51, Simmons and Coulson review the scientific staff one by one, using oddball questions to elicit emotional responses and distinguish humans from Chronicoms. The task proves challenging given the narrow demographic of the staff, and Simmons notes the difficulties stemming from the era's lack of diversity. Their interviews are progressing when Daniel Sousa arrives unexpectedly, quickly identifying something is amiss and having Simmons and Coulson arrested.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Area 51 (S.H.I.E.L.D. base / 1955)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Getting to the bottom of this may be difficult. If the Chronicoms have infiltrated, they would all look and act exactly like this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, but now you're just trafficking in stereotypes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I mean, perhaps. But until a more diverse population goes into STEM fields, I'm afraid... any one of them could easily be mistaken for a Chronicom."
+        },
+        {
+            "character": "Coulson",
+            "line": "True, but we don't have to test if they're Chronicoms. We just have to test if they're human. All we have to do is trigger an emotional response."
+        },
+        {
+            "character": "Simmons",
+            "line": "How many fingers am I holding up? Nope, you're wrong..."
+        },
+        {
+            "character": "Simmons",
+            "line": "It was two fingers. Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "John Wayne. Bit overrated, don't you think? I mean, you're rugged, you're on a horse... who cares?"
+        },
+        {
+            "character": "Simmons",
+            "line": "She couldn't stay with Rick. She had to go with Victor. Haven't you ever made a sacrifice for someone you love?"
+        },
+        {
+            "character": "Coulson",
+            "line": "How does it make you feel when I say the word “moist”? Moist."
+        },
+        {
+            "character": "Coulson",
+            "line": "Moist."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, you're good."
+        },
+        {
+            "character": "Simmons",
+            "line": "The bus?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, of course. I'll go clear the new arrivals, who could be anybody from anywhere."
+        },
+        {
+            "character": "Simmons",
+            "line": "Next."
+        },
+        {
+            "character": "Sousa",
+            "line": "The science team arrive?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I may need a moment with a contact."
+        },
+        {
+            "character": "Sousa",
+            "line": "He is?"
+        },
+        {
+            "character": "Sousa",
+            "line": "You catch her name?"
+        },
+        {
+            "character": "Sousa",
+            "line": "You could say that."
+        }
+    ]
+}

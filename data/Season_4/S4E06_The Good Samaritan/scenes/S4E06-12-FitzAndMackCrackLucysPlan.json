@@ -1,0 +1,84 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 12,
+    "scene_name": "FitzAndMackCrackLucysPlan",
+    "description": "Fitz and Mack put their expertise together and discover the connection between Isodyne, Roxxon, and Momentum Labs. They deduce Lucy's plan to use an abandoned Roxxon power station to power her new experiment. Mack orders the team to change course, sending coordinates to May's Quinjet and decisively moving S.H.I.E.L.D. to intercept.",
+    "roles": [
+        "alphonso_mackenzie",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "You find anything?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but I tell you, though, whoever created this tapestry of security nonsense is a total wanker. Honestly, even with Coulson's signature, do you know how hard it was for me to find someone with a ROY-G-BIV clearance just so I could unredact these files?"
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, do I have to pretend to be outraged, or can we get to it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Frustrated that nobody seems to know where Simmons is. Anyway, it looks like Agent May was right about Isodyne. Peggy Carter and her team encountered them back in the '40s. They were conducting experiments on something called “Zero Matter,” or “Dark Force.”"
+        },
+        {
+            "character": "Mack",
+            "line": "Who names these? Are there focus groups for evil things?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Isodyne doesn't exist anymore. Its assets were acquired by Roxxon Corporation in the '50s. And guess who holds all the land deeds to Momentum Lab facilities. Are you gonna guess?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, seems like kind of a no-brainer, but is it... Roxxon?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's like you're psychic. This Roxxon power plant closed down years ago because of safety violations. But if Lucy Bauer can get it operational, it's got more than enough power for her experiment."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's reroute the Zephyr and send the coordinates to May's Quinjet. We can rendezvous there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Shouldn't we wait until Coulson convinces the Director to go along with the plan?"
+        },
+        {
+            "character": "Mack",
+            "line": "No. Mace is a reasonable guy."
+        },
+        {
+            "character": "Mace",
+            "line": "We do not negotiate with terrorists."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think it's fair to paint Mr. Reyes as a terrorist."
+        },
+        {
+            "character": "Mace",
+            "line": "He's a murderer who attacked us and threatened to take down this entire plane if we didn't cede to his demands. How is that not a terrorist?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It sounds a little Fox News to me, but you're not wrong. It doesn't change the fact that we have no way to contain Mr. Reyes. He's also the only person we know who can take out Lucy Bauer. We need him."
+        },
+        {
+            "character": "Mace",
+            "line": "He'll have to pay for what he did."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree. But today's not that day."
+        }
+    ]
+}

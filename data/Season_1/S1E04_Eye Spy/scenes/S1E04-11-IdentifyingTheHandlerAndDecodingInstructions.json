@@ -1,0 +1,152 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 11,
+    "scene_name": "IdentifyingTheHandlerAndDecodingInstructions",
+    "description": "While Ward navigates the building, Amador helps Coulson deduce her English handler’s characteristics based on subtle clues in his messages. Fitz and Simmons prepare for risky ocular surgery, while Coulson decides to seek out the handler personally as Ward pushes forward with his instructions.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "thrilling",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Come on, Akela. You've never spoken to or met anyone in person?"
+        },
+        {
+            "character": "Amador",
+            "line": "No. Only contacts are the messages I receive from the Englishman."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Englishman... your handler? How do you know he's English?"
+        },
+        {
+            "character": "Amador",
+            "line": "The way he refers to certain things. He uses “lift” instead of “elevator,” “boot” instead of “trunk.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Think about the messages. What else do you know about him?"
+        },
+        {
+            "character": "Amador",
+            "line": "He's late 30s, early 40s. Uses dated references. “Disk drive” instead of “flash drive,” “Burma” instead of “Myanmar.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "How's his typing?"
+        },
+        {
+            "character": "Amador",
+            "line": "Clumsy. Makes a lot of mistakes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thick fingers, maybe heavyset."
+        },
+        {
+            "character": "Amador",
+            "line": "I forgot how good you are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, we're ready down here."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz and Simmons are prepped for surgery. It should be any minute now. Hey! Remember, you have man hands, so don't look when you scan the card."
+        },
+        {
+            "character": "Ward",
+            "line": "I know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward's on-site, so we don't have much time."
+        },
+        {
+            "character": "Fitz",
+            "line": "To remove her eyeball."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, ocular surgery is not really my field of expertise."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've got no other choice. There's a kill switch inside Akela. Could be a poison, could be an explosive. Either way, if Ward's caught, they'll kill her instantly."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where are you going, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "To find out whose finger's on the trigger."
+        },
+        {
+            "character": "Ward",
+            "line": "Approaching Delta 3."
+        },
+        {
+            "character": "Skye",
+            "line": "Careful! Mirror."
+        },
+        {
+            "character": "Ward",
+            "line": "Don't need your help."
+        },
+        {
+            "character": "May",
+            "line": "Handler's definitely local."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any idea where he's transmitting from?"
+        },
+        {
+            "character": "May",
+            "line": "Somewhere here. Every time he sends a message, we get closer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Keep me updated on comm 3. I'm headed out now."
+        },
+        {
+            "character": "May",
+            "line": "I'll track him down if you want to stay here and oversee the op."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you. This one's mine. And about earlier..."
+        },
+        {
+            "character": "May",
+            "line": "Go. Find the guy."
+        },
+        {
+            "character": "Simmons",
+            "line": "I may need your feedback during the operation, which means I have to inject a local anesthetic into your eye rather than putting you under."
+        },
+        {
+            "character": "Amador",
+            "line": "Whatever's necessary."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right. Let's begin, then."
+        },
+        {
+            "character": "Amador",
+            "line": "Let me."
+        }
+    ]
+}

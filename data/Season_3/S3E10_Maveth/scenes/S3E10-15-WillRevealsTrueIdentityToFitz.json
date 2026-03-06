@@ -1,0 +1,71 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 15,
+    "scene_name": "WillRevealsTrueIdentityToFitz",
+    "description": "Will, limping along with Fitz toward the portal, reveals deep knowledge about the planet's lost civilization, arousing Fitz’s suspicion. Fitz realizes Will is not who he seems but the monster HYDRA seeks to bring through the portal, with Will admitting the real Will died saving Simmons. The revelation is harrowing as Fitz is suddenly faced with deadly betrayal on the alien world.",
+    "roles": [
+        "leo_fitz"
+    ],
+    "vibe": "dark",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Is your leg gonna be okay?"
+        },
+        {
+            "character": "Will",
+            "line": "I don't really feel it. The portal's just over this rise."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's gonna be close, but I think we're gonna make it. Jemma's gonna be really happy to see you."
+        },
+        {
+            "character": "Will",
+            "line": "This must be very difficult for you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Getting you off this godforsaken planet is all that matters. Jemma never told me there was an ancient civilization here."
+        },
+        {
+            "character": "Will",
+            "line": "She never saw it. We're still in the no-fly zone."
+        },
+        {
+            "character": "Fitz",
+            "line": "What else do you know about the ancient city? What happened to it? Whoa! Whoa, whoa, whoa. Hey, hey. Hang on, hang on. Let me fix that."
+        },
+        {
+            "character": "Will",
+            "line": "There used to be nine cities on this planet. The beings who lived there were fairly advanced. But they feared change. They were easily divided. They warred among themselves, destroyed their entire race."
+        },
+        {
+            "character": "Fitz",
+            "line": "You seem to know a lot about them."
+        },
+        {
+            "character": "Will",
+            "line": "They had a chance to become something great, something beautiful, but in the end..."
+        },
+        {
+            "character": "Fitz",
+            "line": "How do you know so much about..."
+        },
+        {
+            "character": "Will",
+            "line": "Because I was there."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're not Will."
+        },
+        {
+            "character": "Will",
+            "line": "No. Will died saving Jemma... from me."
+        }
+    ]
+}

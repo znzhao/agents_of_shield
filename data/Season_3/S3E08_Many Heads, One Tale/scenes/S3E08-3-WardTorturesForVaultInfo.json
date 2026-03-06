@@ -1,0 +1,27 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 3,
+    "scene_name": "WardTorturesForVaultInfo",
+    "description": "Ward interrogates and tortures Malick's men to get information about the Strucker vault. Eventually, one of them gives up the location: Zepkow, Germany. Ward, satisfied with the lead, moves forward with his plan.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "You've kept quiet. I admire that. These babies burn up to 2,600 degrees. I was a bit of a pyro when I was a kid. Got me into some real trouble. But damn if I don't love the sound of that gas igniting. You have to incorporate what you love into your work. You see, the trick is, you want them to know it's gonna hurt. Build anticipation. But you have to let them imagine a better world. You could walk into Strucker's vault with me. You just have to show me how. We can go in there together, share what we find."
+        },
+        {
+            "character": "Man",
+            "line": "You can torch us all you want! There's nothing to tell! He uses different people when he travels to Zepkow. And even they don't know where the vault's buried."
+        },
+        {
+            "character": "Ward",
+            "line": "Zepkow. Germany. I lied. Strucker has many vaults. I know them all. Just didn't know Zepkow was the one I needed. Be proud. You stayed quiet. You would have fit in good with my men."
+        }
+    ]
+}

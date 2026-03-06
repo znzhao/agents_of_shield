@@ -1,0 +1,154 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 9,
+    "scene_name": "GuestHouseShootoutAndCountdown",
+    "description": "Coulson, Ward, Garrett, and Fitz force their way into the Guest House, engaging in a shootout with hostile agents. After subduing the defenders, they discover the facility is rigged with explosives set to self-destruct on a countdown. As time rapidly runs out, the team splits up: Garrett tries to stop the detonation, while Coulson, Fitz, and Ward search for the GH-325 drug that may be the key to saving Skye.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "action-packed",
+    "location": "Guest House / T.A.H.I.T.I. facility (Bethesda)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Clear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, Simmons, we're going in now. Simmons? Damn it. Comms are down. There's too much mountain on top of us."
+        },
+        {
+            "character": "Garrett",
+            "line": "Trust me... it's better. You don't want them hearing the horrible death we're walking into. Humor, son. You Brits are too serious. Besides, if the job was easy..."
+        },
+        {
+            "character": "Ward",
+            "line": "It wouldn't be any fun."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not afraid... not yet. I suspect the real danger won't happen until we breach that bulletproof glass. Probably a stairwell back to the surface."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you think, Fitz? Can you get us inside?"
+        },
+        {
+            "character": "Fitz",
+            "line": "To certain, horrible death? Absolutely. Okay, sir, just say the word."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once we get inside, everybody find cover. All right, gentlemen, here we go."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've come for medical assistance. But you continue firing on us, we will defend oursel..."
+        },
+        {
+            "character": "Ward",
+            "line": "I count two hostiles."
+        },
+        {
+            "character": "Garrett",
+            "line": "Copy that. Ready?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You got one of those little flash things?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward!"
+        },
+        {
+            "character": "Garrett",
+            "line": "Clear!"
+        },
+        {
+            "character": "Coulson",
+            "line": "See if you can get some lights on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Garrett",
+            "line": "No hard feelings, Bob."
+        },
+        {
+            "character": "Ward",
+            "line": "Clear. We're not done. This one's hit. Shouldn't be too hard to find."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go. We're gonna get you medical help. Is anyone else down here? Where are the doctors?"
+        },
+        {
+            "character": "Alpha",
+            "line": "Med staff doesn't stay here."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're looking for a drug... GH-325. It might help you, too."
+        },
+        {
+            "character": "Alpha",
+            "line": "Do I... k-know you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. I-I might have spent some time here awhile back."
+        },
+        {
+            "character": "Alpha",
+            "line": "Then you know about... the timer."
+        },
+        {
+            "character": "Garrett",
+            "line": "We got a problem!"
+        },
+        {
+            "character": "Garrett",
+            "line": "Semtex. The whole place is rigged to blow."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's enough explosive to bring down the whole mountain on top of us."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir. Less than 10 minutes. It's probably a failsafe. If the guards had eliminated us, they'd stop the timer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Since they didn't..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's some kind of emergency override. Skye could probably get past it, but I can't hack the panel, which means we're trapped in here."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're the guy who taught Ward how to disarm nuclear bombs. Figure out a way to get us out of here. Let's go find the drug."
+        },
+        {
+            "character": "Fitz",
+            "line": "So this is some sort of medical facility."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, but if nobody's here, I'm not sure it's gonna do us any good."
+        }
+    ]
+}

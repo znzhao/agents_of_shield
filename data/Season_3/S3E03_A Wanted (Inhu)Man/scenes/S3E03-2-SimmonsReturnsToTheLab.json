@@ -1,0 +1,177 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "SimmonsReturnsToTheLab",
+    "description": "At The Playground, Coulson, Mack, Morse, Fitz, and Simmons discuss Simmons's return from the alien planet and her physical and mental health. Daisy arrives with news about Lincoln's dire situation, as the team debates the ethics of tracking and intervening. The personal tensions between Daisy, Coulson, and Mack over the use of a tracker are evident.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Simmons didn't have to go through quarantine, which is good, all things considered."
+        },
+        {
+            "character": "Mack",
+            "line": "What exactly are these things that we're considering?"
+        },
+        {
+            "character": "Morse",
+            "line": "Everything that comes with being on another planet for months."
+        },
+        {
+            "character": "Fitz",
+            "line": "Different atmosphere, different levels of oxygenation, different microgravity. Every system in her body's out of whack. Cardiovascular, inner ear, respiratory all got used to being not here."
+        },
+        {
+            "character": "Morse",
+            "line": "Labs indicate oxidative stress, vitamin D deficiency, upper-respiratory irritation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any mention of life, intelligent or otherwise?"
+        },
+        {
+            "character": "Morse",
+            "line": "Some flora, no fauna."
+        },
+        {
+            "character": "Fitz",
+            "line": "She said she was being hunted."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait. What? What does that mean? Hunted by what?"
+        },
+        {
+            "character": "Fitz",
+            "line": "She didn't say. I don't know if she even knows."
+        },
+        {
+            "character": "Coulson",
+            "line": "My god. Imagine her having to go through all that alone for that long."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, thanks to this guy, not anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "Monitor her physical health. I've got a call in to Dr. Garner. Her mental health is just as important. But don't push her. She'll open up when she's ready."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln's in trouble. The ATCU issued a nationwide BOLO. FBI, homeland security, local police, all notified. Sent ‘em Lincoln's résumé and head shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sounds like the ATCU's getting desperate."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are they gonna do when they find him? I'm guessing it won't be awesome. He needs help."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, we went to Lincoln more than once. He didn't want our help."
+        },
+        {
+            "character": "Daisy",
+            "line": "It doesn't mean he deserves to be hunted like a fugitive, not to mention there's a giant with a grudge looking to kill him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is why we need to bring him in, now."
+        },
+        {
+            "character": "Daisy",
+            "line": "That would be the plan if we knew where to find him, but he's not messaging me back, and I... What?"
+        },
+        {
+            "character": "Mack",
+            "line": "You want to tell her?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Great. Tell me what? What do neither of you want to tell me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We know how to find him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln, it's me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy? How the hell did you get this number?"
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not important. What's important right now is that you get somewhere safe."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I just bought this phone."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, I know. 35 minutes ago at a liquor store at 71st and Binford."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You know where I am?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, and I convinced them to let me talk to you before..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I can't believe you would do this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just... Lincoln, just hear me out, okay? The ATCU has released your picture to law enforcement. It's everywhere, calling for your arrest. We're gonna come get you. Lincoln?"
+        },
+        {
+            "character": "Mack",
+            "line": "You're not walking out of here till my partner has said her piece."
+        },
+        {
+            "character": "Coulson",
+            "line": "He must have blown his tracker."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, because he's creeped out that you put a tracker in him."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, and if she didn't give him a heads-up, we could have used it to bring him in."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's already scared, paranoid. Ambushing him out of nowhere would have made things way worse."
+        },
+        {
+            "character": "Mack",
+            "line": "And he would have been able to express those feelings to us here, secure in our location."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, all right. Everybody, just relax. We'll figure this out."
+        }
+    ]
+}

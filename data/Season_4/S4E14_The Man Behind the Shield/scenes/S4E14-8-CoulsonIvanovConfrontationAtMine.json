@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 8,
+    "scene_name": "CoulsonIvanovConfrontationAtMine",
+    "description": "In the present, the team enters the Russian mine, discovering the remains of the SVR agents and evidence of Ivanov's twisted message. Coulson answers a ringing phone and is taunted by Ivanov, who blames Coulson for his comrades' deaths. The psychological manipulation sets the tone for the episode's escalating conflict.",
+    "roles": [
+        "phil_coulson",
+        "anton_ivanov"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "What the hell is this?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Agent Coulson, I presume. Do you know who I am?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The sick son of a bitch who kidnapped my people and seems to have more than a few skeletons in his closet?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Do you not recognize these men?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Should I?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Yes, you should. Because you had them killed."
+        }
+    ]
+}

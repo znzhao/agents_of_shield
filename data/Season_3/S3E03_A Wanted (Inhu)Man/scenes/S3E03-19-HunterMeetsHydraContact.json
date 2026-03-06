@@ -1,0 +1,27 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 19,
+    "scene_name": "HunterMeetsHydraContact",
+    "description": "Hunter negotiates with Kebo, a Hydra operative, after proving himself in the underground fight. Kebo assures Hunter he will soon meet his boss, moving the Hydra infiltration storyline forward.",
+    "roles": [
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "You certainly don't make it easy to get a meeting."
+        },
+        {
+            "character": "Kebo",
+            "line": "The boss doesn't want it to be easy. But he's always interested in meeting people who can prove themselves."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sounds like an interesting bloke. I look forward to meeting him someday."
+        }
+    ]
+}

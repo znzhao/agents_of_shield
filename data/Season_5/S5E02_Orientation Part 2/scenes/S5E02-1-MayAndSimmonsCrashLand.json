@@ -1,0 +1,227 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "MayAndSimmonsCrashLand",
+    "description": "May and Simmons are inside the outpost, realizing they are actually in Earth's orbit and that the planet has been destroyed. Coulson, Deke, and the rest of the stranded Agents regroup and begin piecing together what has happened to Earth. Deke offers to help them blend in by implanting metrics, emphasizing how dangerous it is to be without them. Tess appears and learns about Virgil's fate, setting up connections among the characters and their immediate need to survive in this hostile environment.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "phil_coulson",
+        "deke_shaw",
+        "tess"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's gone. Ev-Every"
+        },
+        {
+            "character": "May",
+            "line": "One."
+        },
+        {
+            "character": "Simmons",
+            "line": "What was that?"
+        },
+        {
+            "character": "May",
+            "line": "Let's hope this ship is designed to take a few hits. Hold on! Thrusters are misfiring! Talk to me, what do we do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You're the pilot! It knocked something out of alignment. Nothing's working properly."
+        },
+        {
+            "character": "May",
+            "line": "Simmons, we don't want to hit that. Are you trying to kill us?"
+        },
+        {
+            "character": "Simmons",
+            "line": "First rule of I.T., turn it off and turn it back on again. Oh! No, this should be working."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come on!"
+        },
+        {
+            "character": "May",
+            "line": "Hang on."
+        },
+        {
+            "character": "May",
+            "line": "This is Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're in the future!"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's all destroyed. Coulson, please, tell me it's impossible."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think we can all agree at this point that anything is possible. Glad you're all right. Your guy, Virgil, he didn't tell you anything else about his plan to bring us back from the past?"
+        },
+        {
+            "character": "Deke",
+            "line": "I'm just still trying to fit all these ideas inside my skull."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you haven't heard anything about a gateway? A rock that transports people?"
+        },
+        {
+            "character": "Deke",
+            "line": "If I had, do you think I'd still be here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "There was no second monolith when I landed on Maveth."
+        },
+        {
+            "character": "May",
+            "line": "So we'll have to find our own way back."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I'm a biologist, but sure, I can invent time travel. Just give me a minute."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, without some miracle, then we're stuck here, and we need to stay alive."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, and you... you... you all want me to help you with that, yeah. Well, that's a big surprise. Well, all I can offer you is these. Who's first?"
+        },
+        {
+            "character": "May",
+            "line": "You think I'm gonna let you do that to anyone else?!"
+        },
+        {
+            "character": "Deke",
+            "line": "You are lucky that I am even offering. The only way to not die is to blend in and work hard, and you can't do either of those things without these. Come on. Keep moving."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do they do? Track us? I don't think we want that."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't think you have a choice."
+        },
+        {
+            "character": "Tess",
+            "line": "Deke?!"
+        },
+        {
+            "character": "Deke",
+            "line": "Tess, yeah, sure, join the fray."
+        },
+        {
+            "character": "Tess",
+            "line": "You took out the damn trawler? Where's Virgil? If you lifted off in that thing without... What? What's wrong with your face?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. Virgil's gone."
+        },
+        {
+            "character": "Tess",
+            "line": "Deke, this true?"
+        },
+        {
+            "character": "Deke",
+            "line": "Roaches got him on three."
+        },
+        {
+            "character": "Tess",
+            "line": "What was he doing on three, Deke? That's a sealed-off level."
+        },
+        {
+            "character": "Deke",
+            "line": "This wasn't my..."
+        },
+        {
+            "character": "Tess",
+            "line": "What did you get him into?!"
+        },
+        {
+            "character": "Deke",
+            "line": "I... He hired me."
+        },
+        {
+            "character": "Tess",
+            "line": "What..."
+        },
+        {
+            "character": "Deke",
+            "line": "Listen! He hired me to hide these people."
+        },
+        {
+            "character": "Tess",
+            "line": "From where?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's the thing. Remember all that deranged garbage that Virgil was always spouting about people arriving from the past? I think you're looking at them."
+        },
+        {
+            "character": "Tess",
+            "line": "That's insane."
+        },
+        {
+            "character": "May",
+            "line": "Doesn't mean it's not true."
+        },
+        {
+            "character": "Simmons",
+            "line": "We came through a gateway, some sort of temporal shift."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't want to believe it, either, but look at their clothes. They got matching buttons. Not exactly locals."
+        },
+        {
+            "character": "Coulson",
+            "line": "How can we prove it to you? Here. It's from last year. Still shiny."
+        },
+        {
+            "character": "Tess",
+            "line": "You don't have a Metric. Never did. That's too weird. Virgil said you'd be Agents of..."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. Pleased to meet you."
+        },
+        {
+            "character": "Tess",
+            "line": "Then there should be more of you."
+        },
+        {
+            "character": "Deke",
+            "line": "There's one girl that went to go pry the others away from the Kree guards."
+        },
+        {
+            "character": "Tess",
+            "line": "You let them go face the Blues?"
+        },
+        {
+            "character": "Deke",
+            "line": "I didn't let them d... They do whatever they want! It's like herding rats."
+        },
+        {
+            "character": "Tess",
+            "line": "Just go get them."
+        },
+        {
+            "character": "Deke",
+            "line": "Me? No! No. Think again. They are radioactive. Virgil already got himself wasted. I intend to learn something from his vacancy."
+        }
+    ]
+}

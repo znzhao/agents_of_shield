@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 2,
+    "scene_name": "CoulsonPhysicalOnBus",
+    "description": "On the S.H.I.E.L.D. Bus, Simmons conducts a physical on Coulson, checking his vitals. Their banter touches on his recovery and health after his traumatic experience. The light but probing exchange hints at Coulson's ongoing uncertainties about himself.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Working up a good sweat there, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't sweat. I glisten."
+        },
+        {
+            "character": "Simmons",
+            "line": "Blood pressure, heart rate, biochems... all normal. All that's left is the blood sample."
+        },
+        {
+            "character": "Coulson",
+            "line": "You should know... I'm not a fan of getting poked."
+        },
+        {
+            "character": "Simmons",
+            "line": "Tell me, sir, have you been feeling under the weather lately?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just noticed from your chart that you're not due for a general physical for another three months."
+        },
+        {
+            "character": "Coulson",
+            "line": "I made a mistake. Took a call from my physical therapist. Asked how I was feeling. I said, “a little rusty.” Next thing you know, I'm wired to this hamster wheel."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you can officially tell your physical therapist that you're fit as the proverbial fiddle, especially for a man of your age."
+        },
+        {
+            "character": "Coulson",
+            "line": "A man of my age? That's something you say to an old person."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is it? Well, let's get you some electrolytes, shall we?"
+        }
+    ]
+}

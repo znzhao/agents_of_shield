@@ -1,0 +1,71 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "CreelAttackAndReveal",
+    "description": "As Creel is spotted tailing Coulson and Talbot, May, Lincoln, and Coulson confront him, leading to a short, intense fight. Lincoln nearly goes overboard with his powers before being called off. Talbot clarifies that Creel is his bodyguard and not an assassin. The misunderstanding resolved, the team brings Creel back to the Playground for further questioning. This scene establishes the new dynamic with Creel and sets up future mistrust.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "lincoln",
+        "carl_creel"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Coulson, 12 o'clock. Get out of there now!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Creel. Get in."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey! Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "May, they got Carl Creel. I need backup."
+        },
+        {
+            "character": "May",
+            "line": "Lincoln, forget what I said. Rush in and use your powers."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm on it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Hey, michelin man. Let's finish this."
+        },
+        {
+            "character": "May",
+            "line": "Lincoln!"
+        },
+        {
+            "character": "May",
+            "line": "Lincoln, enough!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Stand down. That's an order!"
+        },
+        {
+            "character": "Talbot",
+            "line": "What the hell do you think you're doing?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's Creel. He was trying to assassinate you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Assassinate me? He's here to protect me."
+        }
+    ]
+}

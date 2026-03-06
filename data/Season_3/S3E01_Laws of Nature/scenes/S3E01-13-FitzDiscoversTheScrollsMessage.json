@@ -1,0 +1,76 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 13,
+    "scene_name": "FitzDiscoversTheScrollsMessage",
+    "description": "Coulson joins Fitz in his lab, encouraging him to accept Simmons’ loss. Fitz opens the scroll and finds the word 'Death' written in Hebrew. Despite the grim realization, Coulson urges him to move on, but after Coulson leaves, Fitz desperately screams at the Monolith, refusing to give up hope.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz"
+    ],
+    "vibe": "tragic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I've been waiting for a while."
+        },
+        {
+            "character": "Fitz",
+            "line": "Had to be done. It's my last shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's supposed to be in there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The answer."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've thought you've had the answers before. I think you've considered every possible answer, except the obvious one. You thought Simmons was trapped inside the monolith, but every instrument scan showed the stone was solid all the way through. After hearing about the Pym technologies disaster, you even thought she'd been reduced to a microscopic level. But no evidence supported that. And now..."
+        },
+        {
+            "character": "Fitz",
+            "line": "And now I think... I know it's a black hole. It's dark matter made solid. It can warp space-time. It... look, regardless... okay? This is gonna tell us exactly what that monolith is. So..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Should we scan it? See if the computer can decipher what the..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's Hebrew. It's just one word."
+        },
+        {
+            "character": "Coulson",
+            "line": "What does it mean?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Death."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, I'm gonna make the trip to Sheffield. Jemma's family deserves to know that she's MIA."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ohh."
+        },
+        {
+            "character": "Coulson",
+            "line": "They need to be able to move on. And so do we. You have shown so much heart, never giving up on Simmons, and I will always, always respect you for it. But look around. We need you. We need that big brain of yours and that heart here. Okay? I miss her, too. I'm having a hard time accepting it, all of it. I-I'm on my third hand, but nothing feels normal because nothing will feel normal. May took off on vacation and never came back, so I lost my right hand, too. We have got to accept it, to say goodbye. We need to say goodbye. Jemma would want us to do that. Okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Oh..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Do something. Do something! Do something! Do someth-i-i-i-ing!"
+        }
+    ]
+}

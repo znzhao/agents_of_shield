@@ -1,0 +1,133 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "ZephyrArrivesIn1955",
+    "description": "The team lands the Zephyr One in 1955 near Area 51, quickly realizing they are in the past. While discussing their mission, they analyze the clues, listen to a period-appropriate radio, and review the risks of being detected in this era. Coulson provides background on Area 51 as a S.H.I.E.L.D. base, and Simmons explains how the time jumps work. The team debates their next move and the potential impact of their presence in the past.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Barb",
+            "line": "I'm cold."
+        },
+        {
+            "character": "Biff",
+            "line": "Here."
+        },
+        {
+            "character": "Barb",
+            "line": "Isn't this a little boring?"
+        },
+        {
+            "character": "Biff",
+            "line": "I told you, this is where I saw it."
+        },
+        {
+            "character": "Barb",
+            "line": "A flying saucer?"
+        },
+        {
+            "character": "Biff",
+            "line": "Yeah."
+        },
+        {
+            "character": "Barb",
+            "line": "I thought that was just a line to get me up here."
+        },
+        {
+            "character": "Biff",
+            "line": "You did?"
+        },
+        {
+            "character": "Barb",
+            "line": "Yes. And I'm here, aren't I?"
+        },
+        {
+            "character": "Mack",
+            "line": "Autopilot pulled us out of the dive."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should probably be flying when we jump. Live and learn."
+        },
+        {
+            "character": "Daisy",
+            "line": "Cloaking engaged."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll run a systems check."
+        },
+        {
+            "character": "Mack",
+            "line": "Everyone okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not everyone made the flight."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch... we left him."
+        },
+        {
+            "character": "Coulson",
+            "line": "At least he has time to spare."
+        },
+        {
+            "character": "Elena",
+            "line": "Where did we jump to?"
+        },
+        {
+            "character": "Mack",
+            "line": "The desert?"
+        },
+        {
+            "character": "Elena",
+            "line": "Which desert? Where are we?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Why aren't we home?"
+        },
+        {
+            "character": "Deke",
+            "line": "GPS isn't working. I'm gonna try and find a topographical match."
+        },
+        {
+            "character": "Radio",
+            "line": "There it is. And we hear you want more Perry Como. We've got him up next."
+        },
+        {
+            "character": "Elena",
+            "line": "Please tell me that's an oldies station."
+        },
+        {
+            "character": "Radio",
+            "line": "But first, a word from our sponsors at Conway Auto. They've got the brand new ‘55 Thunderbird. Stop by and take the road by storm..."
+        },
+        {
+            "character": "Daisy",
+            "line": "‘55? As in our giant spaceship just appeared in the sky in 1955?"
+        },
+        {
+            "character": "Mack",
+            "line": "Let's hope we didn't attract too much attention."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, about that... I may actually have some good news. We're just north of Groom Lake, Nevada. Home of Area 51. Probably happens all the time."
+        }
+    ]
+}

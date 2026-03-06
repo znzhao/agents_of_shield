@@ -1,0 +1,185 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 11,
+    "scene_name": "CoulsonMemoryBreakthrough",
+    "description": "Coulson undergoes the memory machine, leading to harrowing flashbacks of his resurrection. He sees memories of Tahiti break down into traumatic images of his brain surgery, with Doctor Streiten and others trying to keep him alive against his wishes. Meanwhile, Skye and the team assault the facility to save Coulson, and Raina tries to keep Coulson under her control. The flashbacks reveal the agony Coulson endured and culminate in him begging for death, with Skye and May fighting to reach him in time.",
+    "roles": [
+        "phil_coulson",
+        "raina",
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What makes you so sure this machine will even work?"
+        },
+        {
+            "character": "Raina",
+            "line": "It worked on me."
+        },
+        {
+            "character": "Coulson",
+            "line": "One thing before we start... what is it with the flowers?"
+        },
+        {
+            "character": "Raina",
+            "line": "Who doesn't like flowers? I'm glad you noticed. Close your eyes and relax. I want you to think back to your first memory after you died. What do you see?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sandy beach, blue waves... just as I remember it."
+        },
+        {
+            "character": "Raina",
+            "line": "Focus on the details."
+        },
+        {
+            "character": "Karine",
+            "line": "Can you feel that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't stop."
+        },
+        {
+            "character": "Streiten",
+            "line": "Listen to him! Who ordered this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "W-what?"
+        },
+        {
+            "character": "Karine",
+            "line": "Director Fury himself."
+        },
+        {
+            "character": "Skye",
+            "line": "Got creepy?"
+        },
+        {
+            "character": "Centipede soldier",
+            "line": "You shouldn't be here. There's nowhere to run!"
+        },
+        {
+            "character": "Raina",
+            "line": "Agent Coulson, something's happening, isn't it?"
+        },
+        {
+            "character": "Streiten",
+            "line": "Listen to him."
+        },
+        {
+            "character": "Raina",
+            "line": "I need you to look at your surroundings. Try and describe what you see. Are you still in Tahiti? Tell me."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's dark. There's nothing. Everything is dark."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson's gotta be here somewhere. We need to split up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or run."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll take care of him."
+        },
+        {
+            "character": "May",
+            "line": "Are you sure?"
+        },
+        {
+            "character": "Ward",
+            "line": "I got this."
+        },
+        {
+            "character": "May",
+            "line": "Come on, let's move!"
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Ward",
+            "line": "Now, Coulson, where the hell are you?"
+        },
+        {
+            "character": "Goodman",
+            "line": "He's drifting. He's drifting."
+        },
+        {
+            "character": "Streiten",
+            "line": "This is wrong."
+        },
+        {
+            "character": "Goodman",
+            "line": "Can you feel that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't."
+        },
+        {
+            "character": "Streiten",
+            "line": "Listen to him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop."
+        },
+        {
+            "character": "Streiten",
+            "line": "Who ordered this?"
+        },
+        {
+            "character": "Goodman",
+            "line": "Director Fury himself."
+        },
+        {
+            "character": "Streiten",
+            "line": "This is wrong! Listen to him!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me die, please. Please, please. Please, I'm begging you, let me die. Please. Please let me die. Let me die, please! Please! Let me die! Please! Let me die!"
+        },
+        {
+            "character": "Raina",
+            "line": "Stop fighting it, Agent Coulson. Stop fighting it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Please let me die."
+        },
+        {
+            "character": "Raina",
+            "line": "It's for his own good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Please, let me die! Please, let me die! Please, let me die! Let me die. Let me die."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson, Coulson. Come back, come back, come back, come back... Come back, come back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye. Skye. Skye."
+        }
+    ]
+}

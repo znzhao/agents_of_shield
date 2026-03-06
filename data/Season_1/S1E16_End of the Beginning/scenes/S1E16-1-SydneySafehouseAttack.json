@@ -1,0 +1,61 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 1,
+    "scene_name": "SydneySafehouseAttack",
+    "description": "Agents John Garrett and Antoine Triplett are stationed at a S.H.I.E.L.D. safehouse, discussing the Clairvoyant and possible suspects from S.H.I.E.L.D.'s rejected gifted index. Their conversation is interrupted when Deathlok (Mike Peterson) violently breaches the safehouse, overpowering their defenses. Despite their efforts to stun him, Deathlok escapes, leaving Garrett and Triplett shaken.",
+    "roles": [
+        "john_garrett",
+        "antoine_triplett",
+        "michael_peterson"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Computer",
+            "line": "Agent John Garrett, confirmed. Agent Antoine Triplett, confirmed."
+        },
+        {
+            "character": "Triplett",
+            "line": "Well, it's no Four Seasons."
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, as safe houses go, it's not bad. Phuket didn't even have mattresses."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah, but Cairo had thousand-thread-count sheets, with that sateen finish."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hey, be careful what you get used to. Dig out that sat phone and get Coulson on the line. I want to run down through the list of potential candidates with him."
+        },
+        {
+            "character": "Triplett",
+            "line": "You really think the Clairvoyant was on the index?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Rejected off the index. Possibly. Just hope it's not the amazing Kreskin. [chuckles] I used to love that guy."
+        },
+        {
+            "character": "Triplett",
+            "line": "Who?"
+        },
+        {
+            "character": "Computer",
+            "line": "Area 3, breach."
+        },
+        {
+            "character": "Mike",
+            "line": "Aah!"
+        },
+        {
+            "character": "Garrett",
+            "line": "Hit him with an icer!"
+        }
+    ]
+}

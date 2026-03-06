@@ -1,0 +1,90 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "DekeQuinjetPredicament",
+    "description": "Deke is trapped in the Quinjet, surrounded by Shrike-zombies, and radios for help. Mack, Daisy, and Elena try to assess whether they can reach Deke but realize it's impossible; instead, Mack gives Deke instructions to pilot the Quinjet to them. Deke nervously follows Mack’s directions to prep the quinjet for takeoff, while Daisy and Elena prepare defenses against intruders. The escalating zombie threat and the tension over Deke’s inexperience as a pilot set a frantic pace.",
+    "roles": [
+        "deke_shaw",
+        "alphonso_mackenzie",
+        "skye",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Bobo? Bobo, come in. Talk to me. Are you there, Bobo?"
+        },
+        {
+            "character": "Mack",
+            "line": "Deke, it's good to hear your voice."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, I wish I could say the same to you. I'm kinda stuck in the Quinjet right now under siege by a zombie army. I could really use some rescuing!"
+        },
+        {
+            "character": "Mack",
+            "line": "We landed the Quinjet about 200 yards away. Any chance we can reach him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "There's no way I can take out that many."
+        },
+        {
+            "character": "Elena",
+            "line": "We're moments away from having to save ourselves."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, Deke, listen to me. You're gonna have to fly over to us."
+        },
+        {
+            "character": "Deke",
+            "line": "Hold up, Star Commander. I've got like zero real-world piloting experience."
+        },
+        {
+            "character": "Daisy",
+            "line": "Taking off is one thing, but do you really think he can land a Quinjet?"
+        },
+        {
+            "character": "Deke",
+            "line": "Do you guys really think this is a good idea?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Piloting is mostly automated."
+        },
+        {
+            "character": "Elena",
+            "line": "I feel very confident that you won't die."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, get to the cockpit, and I'll walk you through the lift-off procedure."
+        },
+        {
+            "character": "Deke",
+            "line": "This is what I get for always letting stupid Trevor pilot in “Remorath Rumble.”"
+        },
+        {
+            "character": "Mack",
+            "line": "All right, look to your right. You should see two red switches. Pull the one on the left back."
+        },
+        {
+            "character": "Deke",
+            "line": "10-4, good buddy."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, now pull back on the throttle. You should hear the engine ramp up."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh! Come on!"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 22,
+    "scene_name": "GordonTakesCalToUnknownLocation",
+    "description": "In a mysterious location, Gordon confronts Cal, who is furious that Gordon didn't take his daughter Daisy (Skye) with him. Gordon dismisses Cal's pleas, telling him he is not truly \"one of us,\" highlighting the continued isolation and frustration Cal feels even among the powered.",
+    "roles": [
+        "calvin_johnson",
+        "gordon"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gordon",
+            "line": "You done yet?"
+        },
+        {
+            "character": "Cal",
+            "line": "Why didn't you take Daisy? Why?! She needs you. She needs to be away from those animals that have her."
+        },
+        {
+            "character": "Gordon",
+            "line": "What we do is none of your concern."
+        },
+        {
+            "character": "Cal",
+            "line": "Then why am I here?"
+        },
+        {
+            "character": "Gordon",
+            "line": "Because you're making too much noise."
+        },
+        {
+            "character": "Cal",
+            "line": "Noise? I'm sounding a battle cry! I'm protecting us from S.H.I.E.L.D."
+        },
+        {
+            "character": "Gordon",
+            "line": "There is no “us.” You're not one of us. You're a science experiment."
+        },
+        {
+            "character": "Cal",
+            "line": "So what happens to me, then?"
+        },
+        {
+            "character": "Gordon",
+            "line": "That's not for me to decide."
+        }
+    ]
+}

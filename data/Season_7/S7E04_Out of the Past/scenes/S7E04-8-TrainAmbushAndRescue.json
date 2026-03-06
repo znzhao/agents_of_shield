@@ -1,0 +1,86 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "TrainAmbushAndRescue",
+    "description": "Sousa is targeted by assassins on the train, lured by a femme fatale. Daisy and Mack intervene just in time to rescue him, revealing themselves as allies, with Coulson joining as well. Despite Sousa’s continued suspicions and demand for the package, the agents get him out of harm's way, extracting him to Zephyr One as they evade further threats.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "sousa"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "A lovely lady like you would light up the silver screen, no doubt."
+        },
+        {
+            "character": "Woman",
+            "line": "You think so?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I do. Just one little piece of advice."
+        },
+        {
+            "character": "Woman",
+            "line": "Okay."
+        },
+        {
+            "character": "Sousa",
+            "line": "You need to work on your acting. You thought you'd be fetching enough that I wouldn't notice your friends clearing this car out."
+        },
+        {
+            "character": "Woman",
+            "line": "Here I was, convinced my charms were working on you. This doesn't have to be a big production. Just come along quiet."
+        },
+        {
+            "character": "Daisy",
+            "line": "May I cut in?"
+        },
+        {
+            "character": "Sousa",
+            "line": "You again."
+        },
+        {
+            "character": "Daisy",
+            "line": "Told you we were the good guys."
+        },
+        {
+            "character": "Coulson",
+            "line": "Too late for that drink?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Stark's eyes only, huh? Who the hell are you people?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm Mack, this is Johnson, and that's Coulson. We're Friendlies."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have the package."
+        },
+        {
+            "character": "Sousa",
+            "line": "Alright, then. Let's have it."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, first, we need to take a little walk outside."
+        },
+        {
+            "character": "Coulson",
+            "line": "Seeing my team was a relief... ... but one of them was still MIA."
+        },
+        {
+            "character": "Man",
+            "line": "Rise and shine, big brain."
+        }
+    ]
+}

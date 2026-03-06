@@ -1,0 +1,96 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 3,
+    "scene_name": "MayAndCoulsonDiscussReality",
+    "description": "May and Coulson interact at the Playground, talking about the impending chaos from HYDRA and the strange feeling of unreality. Coulson tries to gently tell May the truth about their world being a simulation, but she is skeptical and refuses to believe such a fantastic claim, only willing to be convinced by proof. Their mutual trust is tested as May challenges Coulson to show her evidence.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "That should hold for now."
+        },
+        {
+            "character": "Woman",
+            "line": "Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "See you found a way to pitch in."
+        },
+        {
+            "character": "May",
+            "line": "People have resisted HYDRA before. I've seen it firsthand. Never ends well."
+        },
+        {
+            "character": "Coulson",
+            "line": "This time, it's different. People are finally starting to learn the truth."
+        },
+        {
+            "character": "May",
+            "line": "It's a lot to process, that it's not real. Fake news, HYDRA's alternative history..."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's just the tip of the iceberg."
+        },
+        {
+            "character": "May",
+            "line": "What's that supposed to mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What if I told you this whole world isn't real, that it's just a simulation meant to keep us imprisoned?"
+        },
+        {
+            "character": "May",
+            "line": "I'd say you need to be medicated."
+        },
+        {
+            "character": "Coulson",
+            "line": "And up until a week ago, I would have agreed with you. Crafted a lot of soap trying to stay sane. Then Daisy Johnson showed up. She made me believe again."
+        },
+        {
+            "character": "May",
+            "line": "Did you say “crafted soap?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Forget that. You have to admit, after everything you've been through, something about this world doesn't feel right."
+        },
+        {
+            "character": "May",
+            "line": "I'll chalk it up to oppressive government, but not this mind prison."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who's to say they're not the same thing?"
+        },
+        {
+            "character": "May",
+            "line": "Certainly not you. Or Agent Skye, e-even though she can quake through walls."
+        },
+        {
+            "character": "Coulson",
+            "line": "But..."
+        },
+        {
+            "character": "May",
+            "line": "No. My days of following blindly are over. If there's any truth to what you're saying, you'll have to show, not tell."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can work with that."
+        },
+        {
+            "character": "Man",
+            "line": "Attention, all tactical enforcement teams. Martial law is now in effect. We have three subversives detained. Maximum force protocols authorized for all sectors. Hail HYDRA."
+        }
+    ]
+}

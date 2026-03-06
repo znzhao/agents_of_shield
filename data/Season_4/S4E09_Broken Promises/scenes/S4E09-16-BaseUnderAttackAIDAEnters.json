@@ -1,0 +1,122 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 16,
+    "scene_name": "BaseUnderAttackAIDAEnters",
+    "description": "As the Playground’s systems are compromised and the attack escalates, Mack and Elena fight back against AIDA’s remote assault on the base. Inside, Coulson and May remain locked in a room, reflecting on their past-captivity experiences and discussing their next move once the system’s control is regained.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Someone needs to make Radcliffe watch all the “Terminator” movies."
+        },
+        {
+            "character": "Mack",
+            "line": "Even “Salvation?”"
+        },
+        {
+            "character": "Elena",
+            "line": "He brought this onto himself."
+        },
+        {
+            "character": "Elena",
+            "line": "Are you hearing this?"
+        },
+        {
+            "character": "Mack",
+            "line": "She did not just go all “Maximum Overdrive” on us."
+        },
+        {
+            "character": "Elena",
+            "line": "Everyone, take cover!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Now it's just the two of us."
+        },
+        {
+            "character": "May",
+            "line": "How many times have we been locked up together?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Huh. Hard to say. First time by a robot, though."
+        },
+        {
+            "character": "May",
+            "line": "You ever feel like you're living someone else's life?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Every day."
+        },
+        {
+            "character": "May",
+            "line": "Funny. You never show it."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's 'cause I have an excellent poker face."
+        },
+        {
+            "character": "May",
+            "line": "You're terrible at poker."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's true. I'm too cautious, don't take enough chances."
+        },
+        {
+            "character": "May",
+            "line": "Maybe you should start."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll keep that in mind if we ever get out of here."
+        },
+        {
+            "character": "May",
+            "line": "Won't be long till Fitz retakes control of the system. Where are we headed once he does?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Back to where we came from."
+        },
+        {
+            "character": "May",
+            "line": "Mace's office? Why there? Because that's where you hid the Darkhold. But there's no safe in that room."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is why we cloaked the book. It was actually Mace's idea."
+        },
+        {
+            "character": "Mack",
+            "line": "I always worried that robots would try and kill me one day."
+        },
+        {
+            "character": "Elena",
+            "line": "Really? We grew up different."
+        },
+        {
+            "character": "Mack",
+            "line": "Even got a special provision in my life insurance for death by robot."
+        },
+        {
+            "character": "Elena",
+            "line": "Are you serious?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yep. If this goes sideways, my brother's gonna be one rich dude."
+        }
+    ]
+}

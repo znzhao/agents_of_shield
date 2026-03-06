@@ -1,0 +1,48 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 17,
+    "scene_name": "MikeSaysGoodbyeAndSeeksRedemption",
+    "description": "Mike, now free but full of remorse, watches his son Ace from afar after being saved. Skye assures Mike that Ace will still love him, but Mike chooses to leave and try to make up for the damage he's caused, embarking on the path of redemption as Deathlok.",
+    "roles": [
+        "skye",
+        "michael_peterson"
+    ],
+    "vibe": "melancholic",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Why don't you go to him?"
+        },
+        {
+            "character": "Mike",
+            "line": "I don't want him to see what I've become."
+        },
+        {
+            "character": "Skye",
+            "line": "He won't care about your burns."
+        },
+        {
+            "character": "Mike",
+            "line": "That's not what I mean."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson said to bring you in."
+        },
+        {
+            "character": "Mike",
+            "line": "You can access my hardware and watch my every move. Go ahead. I'll only be making amends for my actions."
+        },
+        {
+            "character": "Skye",
+            "line": "Whatever you did, you did it for Ace."
+        },
+        {
+            "character": "Mike",
+            "line": "And what I do now? That'll be for him, too."
+        }
+    ]
+}

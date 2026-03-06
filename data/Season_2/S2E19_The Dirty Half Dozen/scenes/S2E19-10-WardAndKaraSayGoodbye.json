@@ -1,0 +1,55 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 10,
+    "scene_name": "WardAndKaraSayGoodbye",
+    "description": "Ward explains to Kara (Agent 33) why she must stay behind for her own safety while he joins the mission. He encourages her to exploit the opportunity to reconnect with her past as a S.H.I.E.L.D. agent. Despite her misgivings, Kara agrees to trust Ward’s plan.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Kara",
+            "line": "You're taking this too far."
+        },
+        {
+            "character": "Ward",
+            "line": "It's the only way we can move forward. I'll go help my team while you stay here and reconnect with your past."
+        },
+        {
+            "character": "Kara",
+            "line": "That made sense when it was just calling my mom. This is something else entirely."
+        },
+        {
+            "character": "Ward",
+            "line": "Listen, you're a S.H.I.E.L.D. agent, Kara."
+        },
+        {
+            "character": "Kara",
+            "line": "I was a S.H.I.E.L.D. agent, a long time ago, before HYDRA took me, before I met you."
+        },
+        {
+            "character": "Ward",
+            "line": "Being a S.H.I.E.L.D. agent was taken from you. This is your chance to get that part of yourself back. And I'll keep saying it until you believe me. All you have to do is stay strong."
+        },
+        {
+            "character": "Morse",
+            "line": "If you didn't want me to go, then why did you vote to allow it?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Because Coulson's only using his own people. Figured it was worth the risk."
+        },
+        {
+            "character": "Morse",
+            "line": "Those are SHIELD agents going on that mission, Robert."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I'm aware of that, Agent Morse. We're fighting a war with an enemy that is without honor. Sometimes, we make sacrifices for the greater good."
+        }
+    ]
+}

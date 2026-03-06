@@ -1,0 +1,47 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 18,
+    "scene_name": "HiveAndGiyeraPlotNextMove",
+    "description": "In the aftermath, Giyera and Hive discuss Malick's death and the next phase of their plan, including the acquisition of Malick’s estate and pursuing Daisy's next movements. The stage is set for new schemes as Hive asserts control over Hydra’s resources.",
+    "roles": [
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "Preparations have been made to leave. We need somewhere safe. With what we did to his daughter, I worry Malick will turn on Hydra."
+        },
+        {
+            "character": "Hive",
+            "line": "That won't be a problem. Gideon is dead. HYDRA's evolved."
+        },
+        {
+            "character": "Giyera",
+            "line": "In that case, there is the issue of his estate."
+        },
+        {
+            "character": "Hive",
+            "line": "I'm aware of his wealth and not concerned. We find Skye next. I believe I know where she's headed."
+        },
+        {
+            "character": "Giyera",
+            "line": "Of course. But there is a considerable portion available to move now."
+        },
+        {
+            "character": "Hive",
+            "line": "How much?"
+        },
+        {
+            "character": "Giyera",
+            "line": "Roughly $960 million."
+        },
+        {
+            "character": "Hive",
+            "line": "Hmm. Malick built something very impressive with his life. Let's spend it."
+        }
+    ]
+}

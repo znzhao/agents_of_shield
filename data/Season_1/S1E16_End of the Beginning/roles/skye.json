@@ -1,0 +1,53 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 16
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and vital member of S.H.I.E.L.D., known for her resilience, determination, and loyalty to her team who she considers her true family. Her background as an 0-8-4, someone with mysterious origins, deeply influences her quest for identity and purpose, often driving her to take risks to protect others and uncover hidden truths. She balances vulnerability with tenacity, continuing to evolve as she navigates the complex moral and ethical challenges posed by S.H.I.E.L.D.'s secretive projects and alien encounters, embodying hope, courage, and pragmatism in a world of shadows and advanced technology. Over time, she has transitioned from a clandestine hacker outsider to a fully commissioned S.H.I.E.L.D. agent, gaining new responsibilities and access, which have deepened her involvement in agency operations and her personal stakes in the safety of her team and the uncovering of internal threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "track_centipede_finances",
+        "goal": "To follow and decode Centipede's financial transactions to find critical intelligence"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_real_clairvoyant_and_internal_threats",
+        "goal": "To uncover the true identity of the Clairvoyant, who may be a S.H.I.E.L.D. insider, and to expose internal threats within the organization"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "support_team_trust_and_integrity",
+        "goal": "To restore trust within the team and uphold integrity amid revelations of deception and internal conflict"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_7",
+      "context": "determined response to being kicked off the plane but insisting her worth",
+      "catch_phrase": "I know I'm not some badass field agent like May or Ward, but this is what I do. You can't just kick me off this mission."
+    }
+  ]
+}

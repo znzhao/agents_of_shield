@@ -1,0 +1,69 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 15,
+    "scene_name": "FitzSimmonsAIDAChase",
+    "description": "Fitz and Simmons split up at the facility to investigate for traces of the Framework and to track Aida, after receiving a report of her presence. Simmons and Davis search for Aida but realize she has escaped via submarine. Simmons reports their failure to the rest of the team, while Fitz gathers information from the communications room.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "thrilling",
+    "location": "Krasnoyarsk Krai detention facility / former Soviet submarine bay",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "This can't be Radcliffe's Framework setup. It's too low-tech."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe we can still find something useful anyway."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'll copy any data I find in the system. We should take some of this equipment back to the base for further examination, as well. Anything could be the key we're searching for."
+        },
+        {
+            "character": "Agent",
+            "line": "We have an AIDA sighting on the lower levels of the base."
+        },
+        {
+            "character": "Fitz",
+            "line": "AIDA's here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You do this. I'll find AIDA."
+        },
+        {
+            "character": "Fitz",
+            "line": "What, you're gonna go take on a killer android?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll take Davis."
+        },
+        {
+            "character": "Fitz",
+            "line": "Concern only slightly lessened."
+        },
+        {
+            "character": "Davis",
+            "line": "Thanks."
+        },
+        {
+            "character": "Simmons",
+            "line": "We can't let her escape. She could be the lead we're looking for."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right. Just be careful."
+        },
+        {
+            "character": "Simmons",
+            "line": "Davis, with me."
+        }
+    ]
+}

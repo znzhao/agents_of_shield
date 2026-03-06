@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 14,
+    "scene_name": "CentipedeSerumDilemma",
+    "description": "Once the Zephyr arrives at the Lighthouse, Simmons and the team face a crisis of conscience. They realize the only remaining dose of Centipede Serum could either save Coulson or be used in a plan to stop Talbot, but not both. The agents must now choose between saving their leader or the world, leaving the episode on a powerful, unresolved note.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "He is not going to die. Not yet, at least. But his condition is worsening and accelerating."
+        },
+        {
+            "character": "Daisy",
+            "line": "What about the treatment we talked about?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We have something we think will work. It will just take some time to combine it with the Centipede Serum."
+        },
+        {
+            "character": "Daisy",
+            "line": "Time we don't have."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're doing everything we can."
+        },
+        {
+            "character": "Mack",
+            "line": "What about Talbot? You find a way to stop him? He's worse, too."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we think so. Unfortunately, it's not a cure. It's more... It's more terminal. If we can combine the odium with another dose of the Centipede Serum, it should be able to penetrate his cells."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not possible."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, yeah, it's entirely possible. We ran a simulation..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, it's not possible. There is no more Centipede Serum. What I brought back, that's the last of it."
+        },
+        {
+            "character": "May",
+            "line": "So, we either save Coulson..."
+        },
+        {
+            "character": "Elena",
+            "line": "Or we save the world."
+        }
+    ]
+}

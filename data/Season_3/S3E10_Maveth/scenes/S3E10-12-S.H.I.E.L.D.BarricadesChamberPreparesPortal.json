@@ -1,0 +1,58 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "S.H.I.E.L.D.BarricadesChamberPreparesPortal",
+    "description": "The main S.H.I.E.L.D. team barricades themselves in the portal chamber, discussing strategy and attempting to reinforce doors against Hydra assault. Joey volunteers to use his powers, and Mack discusses the plan: everyone except him and Daisy should retreat to Zephyr One while he stays to await Fitz and Coulson. Daisy refuses to leave Mack, determined to support him if the situation escalates, and May is prepared to destroy the castle if the alien entity returns instead of their friends.",
+    "roles": [
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "lance_hunter",
+        "skye",
+        "joey_gutierrez",
+        "jemma_simmons",
+        "lincoln",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Ward took him through the portal."
+        },
+        {
+            "character": "May",
+            "line": "Come on. We're gonna get him back."
+        },
+        {
+            "character": "Simmons",
+            "line": "Andrew's here."
+        },
+        {
+            "character": "May",
+            "line": "You saw him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He saved my life."
+        },
+        {
+            "character": "May",
+            "line": "Andrew or Lash?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Technically, I think it was both. We could find him, maybe..."
+        },
+        {
+            "character": "May",
+            "line": "No. That's not the mission. Daisy, I've got Simmons. Heading your way now."
+        }
+    ]
+}

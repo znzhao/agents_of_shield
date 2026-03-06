@@ -1,0 +1,61 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 12,
+    "scene_name": "SimmonsAndFitzInMemoriesWhileMalickWatches",
+    "description": "Within the memory machine, Nathaniel attempts to find Fitz's location by reliving Simmons' and Fitz's hidden moments with Enoch. Emotional foundations and the couple's longing for peace are glimpsed, but the deeper Malick searches, the more he realizes the implant is obscuring vital truths. Simmons and Fitz argue within the memory, emphasizing the painful cost of the memory block. Malick emerges unsatisfied, but Simmons is left devastated, unable to remember Fitz at all.",
+    "roles": [
+        "nathaniel_malick",
+        "jemma_simmons",
+        "enoch"
+    ],
+    "vibe": "tragic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "But why won't this work?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm the only one who can use the device. There's a zero percent probability you'll be able to extract the implant with it."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Fitz isn't coming to save you this time."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know that for sure?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Sorry about that. Just used to getting the things I want, I guess. I'll climb in your mind with you. Find that little wizard myself."
+        },
+        {
+            "character": "Simmons",
+            "line": "The more you dig, the deeper Fitz will go until he's disappeared completely."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Then the race is on. If he moves, kill him."
+        },
+        {
+            "character": "Enoch",
+            "line": "We must act now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, of course."
+        },
+        {
+            "character": "Enoch",
+            "line": "This will be the hardest thing you have ever done."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Hello, there he is. Now, let's go deeper. What happened next?"
+        }
+    ]
+}

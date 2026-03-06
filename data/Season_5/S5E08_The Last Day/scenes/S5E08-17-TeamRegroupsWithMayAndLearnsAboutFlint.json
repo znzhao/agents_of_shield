@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 17,
+    "scene_name": "TeamRegroupsWithMayAndLearnsAboutFlint",
+    "description": "The survivors regroup, mourning Robin, and Deke and Daisy share a moment about lost parents. FitzSimmons reflect mournfully on seeing Robin’s life’s span. Coulson encourages the team not to give up, but May breaks the news that Robin told her how to get home—prompting the pivotal question of who Flint is, setting up the next phase of their quest.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I thought you'd be dead."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, I guess Voss didn't want any more of my family's blood on his hands."
+        },
+        {
+            "character": "Daisy",
+            "line": "Your dad... Deke, I'm s... I'm so sorry."
+        },
+        {
+            "character": "Deke",
+            "line": "I just hope Robin can help you find your answers."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think we're on our own."
+        },
+        {
+            "character": "Fitz",
+            "line": "To me, Robin was a little girl only days ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're not meant to see a life like this, at its beginning and end. It's too much."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe it makes us appreciate how short life really is."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, what now?"
+        },
+        {
+            "character": "Deke",
+            "line": "We live on this crashed airplane until the Kree or... or the roaches or the gravity storms finish us off."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think we can do better than that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but at least that way, I don't go back in time and quake the world apart."
+        },
+        {
+            "character": "May",
+            "line": "We do go back. Robin told me how. We can save everyone. Just one question, though. Who's Flint?"
+        }
+    ]
+}

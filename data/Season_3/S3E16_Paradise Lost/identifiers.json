@@ -1,0 +1,35 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "lincoln",
+        "giyera",
+        "james"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Simmons",
+        "Fitz",
+        "Daisy",
+        "Mack",
+        "Lincoln",
+        "Giyera",
+        "James"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Transia Corporation",
+        "Inhumans",
+        "Secret Warriors"
+    ],
+    "locations": [
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Transia Corporation facility (Michigan / corporate sites)"
+    ]
+}

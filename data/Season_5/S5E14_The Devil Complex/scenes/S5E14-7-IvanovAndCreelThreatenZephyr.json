@@ -1,0 +1,99 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 7,
+    "scene_name": "IvanovAndCreelThreatenZephyr",
+    "description": "May confronts Carl Creel in Hale's car, learning he is working with Hale. The Zephyr crew soon find themselves trapped in a standoff as Ivanov threatens to destroy the plane unless Hale is brought to him. Tensions heighten as role reversals and shifting alliances come to the fore, with Coulson and May debating their next move in private.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "hale",
+        "carl_creel",
+        "anton_ivanov"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "That robo-assassin burst in and shot Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but I won, though."
+        },
+        {
+            "character": "Simmons",
+            "line": "Gunshot wound to the leg. No major arteries hit."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm fine."
+        },
+        {
+            "character": "Elena",
+            "line": "I thought you deactivated those things before bringing them back."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not an anomaly?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it would have disappeared. That thing is real."
+        },
+        {
+            "character": "Mack",
+            "line": "How the hell could that have happened? How did he get put back together?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It was him."
+        },
+        {
+            "character": "Elena",
+            "line": "Him who?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The other... The... The Doc... The Doctor from... from the Framework. Leopold. He's here."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You didn't really think you'd seen the last of me, did you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I should have known there was more of you out in the wind. You squash one cockroach, there's bound to be others nearby."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Although I think you will find I do not squash so easily these days."
+        },
+        {
+            "character": "Coulson",
+            "line": "So much for the superior humanity schtick."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I have simply redefined what that means. Parts of me will always be human. But I have gained so much more with this new form. Strength. Immortality. How's that for a cool origin story, bro?"
+        },
+        {
+            "character": "May",
+            "line": "So, what? You turned over a new leaf? Or just another Russian infiltrating our democracy?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Humanity still stands threatened. I will ensure this planet's survival for generations. But Hale is an important part of that."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you're the one holding her leash?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You will bring her to me. Or Mr. Creel will blow this lovely plane out of the sky. He and I will survive, of course, but I am less confident about your chances."
+        }
+    ]
+}

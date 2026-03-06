@@ -1,0 +1,145 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "SHEILDDebriefingAtPlayground",
+    "description": "At the Playground, Coulson, May, Skye, Triplett, and Hunter discuss the recent attack, speculating that Hydra possesses the Obelisk. Skye inquires about the mysterious alien writing, which she notices Coulson has been etching into his desk. Coulson is secretive about his source, leading to tension between him and Skye. As the others leave, May warns Coulson that keeping Skye in the dark is dangerous.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "grant_ward",
+        "antoine_triplett",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Eight dead, six of them navy."
+        },
+        {
+            "character": "May",
+            "line": "All part of an Anti-HYDRA unit."
+        },
+        {
+            "character": "Hunter",
+            "line": "Any idea what was used to carry out the attack?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nope, but the effects appear similar to those from the Obelisk."
+        },
+        {
+            "character": "May",
+            "line": "Which we must assume is in HYDRA's possession."
+        },
+        {
+            "character": "May",
+            "line": "Heard back from your navy contact?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Radio silence."
+        },
+        {
+            "character": "Skye",
+            "line": "Any chance we could find a way in, maybe poke around a bit?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Entire fleet's closing ranks. These were their men. No one other than the CDC and navy's top brass are setting foot in that room."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay, then. That's a dead end."
+        },
+        {
+            "character": "Triplett",
+            "line": "What about Agent Simmons? She's inside HYDRA. Any chance she has some intel?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Still waiting for her to make contact."
+        },
+        {
+            "character": "Skye",
+            "line": "Sir, what is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, just sketches. If the Obelisk is back in play, we need to know what this writing means. Any progress on your end?"
+        },
+        {
+            "character": "Skye",
+            "line": "I put some feelers out to my Rising Tide contacts about the painting we recovered in Miami, and no one has seen anything like it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Keep looking. Something will turn up."
+        },
+        {
+            "character": "Skye",
+            "line": "What about the writings you've been giving me? Why don't you tell me your source, and I'll follow up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm afraid that's classified."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, you're the boss man. Maybe you could de-classify it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I could. I won't."
+        },
+        {
+            "character": "Skye",
+            "line": "Why not?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I already answered the question, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "No, you didn't. You skirted it. There's a difference."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then it's a difference I'm comfortable with, but if you continue questioning my authority, then you and I are gonna have a very different conversation... one you will not be comfortable with. Is that clear?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "May",
+            "line": "You know... keeping her in the dark won't end well."
+        },
+        {
+            "character": "Cal",
+            "line": "If this bullet had struck even half an inch lower, we wouldn't be having this conversation."
+        },
+        {
+            "character": "Man",
+            "line": "Guess today's my lucky day."
+        },
+        {
+            "character": "Deacon",
+            "line": "And big Rick's last."
+        },
+        {
+            "character": "Cal",
+            "line": "Please, gentlemen, not in here."
+        },
+        {
+            "character": "Deacon",
+            "line": "Only 'cause you asked nicely."
+        }
+    ]
+}

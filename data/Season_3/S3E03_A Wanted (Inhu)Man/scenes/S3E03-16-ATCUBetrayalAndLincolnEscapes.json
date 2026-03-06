@@ -1,0 +1,102 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 16,
+    "scene_name": "ATCUBetrayalAndLincolnEscapes",
+    "description": "Mack, under Coulson's orders, turns Lincoln over to the ATCU, but when Daisy's own safety is threatened, Lincoln uses his powers to stun the agents and escapes. The tension and stakes dramatically escalate as ATCU decides to take Daisy in, only for Coulson to intervene remotely and broker a deal for her release by offering his expertise, cementing a new uneasy alliance.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Change of plans. Coulson's orders. We're turning him over to the ATCU."
+        },
+        {
+            "character": "Daisy",
+            "line": "Get Coulson on the phone."
+        },
+        {
+            "character": "Mack",
+            "line": "He said he'd explain back at headquarters."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy, what's happening?"
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson told me to let you know that you're gonna be safe. He's arranged for us to observe and make sure..."
+        },
+        {
+            "character": "Banks",
+            "line": "Can we get on with this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "This is crazy!"
+        },
+        {
+            "character": "Mack",
+            "line": "He said he didn't have a choice."
+        },
+        {
+            "character": "Banks",
+            "line": "Take him into custody."
+        },
+        {
+            "character": "Banks",
+            "line": "No. Bird in the hand. We take her."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell do you think you're doing?"
+        },
+        {
+            "character": "Banks",
+            "line": "Following orders."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you really think you can stop me? Do you have any idea what I can do?"
+        },
+        {
+            "character": "Banks",
+            "line": "Yeah. That's why I have three snipers outside, ready to engage. What's the range on these powers of yours? How good are they?"
+        },
+        {
+            "character": "Mack",
+            "line": "Actually, pretty damn good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell your men to stand down."
+        },
+        {
+            "character": "Price",
+            "line": "I can't do that. He got away, and I've made assurances."
+        },
+        {
+            "character": "Coulson",
+            "line": "I assure you that if you insist on taking my agent in, you will start a war. I will devote all the resources and manpower of S.H.I.E.L.D. to crushing your agency."
+        },
+        {
+            "character": "Price",
+            "line": "It's not personal. It's work. And right now I need to show results."
+        },
+        {
+            "character": "Coulson",
+            "line": "What if I offer something better?"
+        },
+        {
+            "character": "Banks",
+            "line": "Copy that. I guess it's your lucky day. We're done. Let's go."
+        }
+    ]
+}

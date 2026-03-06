@@ -1,0 +1,43 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "SkyeRathmanPlot",
+    "description": "Skye tracks Centipede’s finances to Lloyd Rathman and creates a plan to get close to him by posing as a valet and taking his car. She engineers a crash to have the car towed to Rathman’s house, then impersonates a police officer to lure him home. Using a combination of intimidation and bluffing as Agent May, Skye gains access to Rathman’s financial records, pushing him to help her dig into Centipede’s transactions and find a connection to Raina.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Just need an exploit... some way in."
+        },
+        {
+            "character": "Man",
+            "line": "Oh, what? Come on! Something with wireless, maybe."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, Lloyd. You might be my way in."
+        },
+        {
+            "character": "Rathman",
+            "line": "That's what I said."
+        },
+        {
+            "character": "Valet",
+            "line": "Yeah. One second."
+        },
+        {
+            "character": "Rathman",
+            "line": "Of course, I love truffles, but not on that. What an idiot."
+        },
+        {
+            "character": "Skye",
+            "line": "No, sweetie, listen to me. It was a private jet. Of course there was wi-fi. He should've at least texted you back."
+        }
+    ]
+}

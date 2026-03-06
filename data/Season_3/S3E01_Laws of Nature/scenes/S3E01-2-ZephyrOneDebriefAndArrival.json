@@ -1,0 +1,219 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "ZephyrOneDebriefAndArrival",
+    "description": "Onboard Zephyr One, Daisy, Mack, and Hunter try to calm Joey and explain his situation, but he is overwhelmed and fearful. Meanwhile, Coulson discusses the increased rate of emerging Inhumans and the usefulness of their new aircraft. The team expresses concern about the mysterious black ops group targeting Inhumans.",
+    "roles": [
+        "skye",
+        "joey_gutierrez",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "How are you holding up in there, buddy?"
+        },
+        {
+            "character": "Joey",
+            "line": "Fine. I guess. I hope this is going somewhere other than higher."
+        },
+        {
+            "character": "Mack",
+            "line": "Rest easy. We're almost there."
+        },
+        {
+            "character": "Banks",
+            "line": "We had him pinned down, but the target has escaped."
+        },
+        {
+            "character": "Price",
+            "line": "He didn't escape. He was extracted."
+        },
+        {
+            "character": "Banks",
+            "line": "We'll secure the area, clean up, contain the situation."
+        },
+        {
+            "character": "Price",
+            "line": "Manage it without making any more noise. There were helicopters this time, for God's sake. It is getting harder for this to go unnoticed."
+        },
+        {
+            "character": "Mack",
+            "line": "We'll leave you to it."
+        },
+        {
+            "character": "Joey",
+            "line": "Who are you? W-what is this? What is S.H.I.E.L.D.? Did you do this to me?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We try to protect people like you from the world or from yourself, unless we have to defend the world against you."
+        },
+        {
+            "character": "Joey",
+            "line": "People like me? What is happening to me?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You've experienced what's called a bio-morphic event. Short version... your DNA changed."
+        },
+        {
+            "character": "Joey",
+            "line": "And the long version?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Is... long, but right now, you need to understand that you will survive this."
+        },
+        {
+            "character": "Joey",
+            "line": "Okay. Okay, s-so you guys can cure me."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sorry. We just learn to live with it. It may feel like your life has ended, but it's just got more interesting."
+        },
+        {
+            "character": "Joey",
+            "line": "More interesting? I'm not a freaking TED talk. Did you see the power line hit that tanker truck? I'm literally a catastrophic meltdown. Everything was... Wait, wait, wait. Why... why isn't this box liquefying or this plane or whatever the hell this is?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's poly-tectic adaptive materials. Each module can be customized. So, you're safe in there, and we're safe from you."
+        },
+        {
+            "character": "Joey",
+            "line": "I don't feel safe. I feel like my skin's crawling and my organs are shifting and..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Joey, just take a breath. First thing you need is rest, medically speaking. We'll be in the air for a couple more hours, and you will be in this box, so why don't you lie down? You'll feel better after some sleep."
+        },
+        {
+            "character": "Joey",
+            "line": "Well, thanks, whatever your name is."
+        },
+        {
+            "character": "Daisy",
+            "line": "Daisy."
+        },
+        {
+            "character": "Joey",
+            "line": "Well, thank you, Daisy, for not letting them shoot me in the head."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh, oh, one last thing. Do you take vitamins every day, Joey? Fish oil?"
+        },
+        {
+            "character": "Joey",
+            "line": "Not every day."
+        },
+        {
+            "character": "Daisy",
+            "line": "All right. Get some rest."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's he doing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. For now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Third incident already this month, but at least we were able to get our hands on this one."
+        },
+        {
+            "character": "Daisy",
+            "line": "The rate of new cases is increasing."
+        },
+        {
+            "character": "Coulson",
+            "line": "We knew it would after the initial reports."
+        },
+        {
+            "character": "Daisy",
+            "line": "A new Inhuman could emerge anywhere without having any idea what's happened."
+        },
+        {
+            "character": "Coulson",
+            "line": "Only in the continental U.S. so far. Plus, this new aircraft can stay in the air much longer than the old plane. Days, really, so rapid response anywhere is..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You love your new toy, don't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I very much love my new toy, but even with the mind-boggling range on this puppy..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Inhumans are still disappearing."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is the first one in a while we've been able to secure."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, it's no mystery who's taking them. That black-ops group was there before us."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Again. Whoever they are. How many do you think they've taken?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We know of at least five sightings, five individuals who vanished before we could get to them. But the real mystery is, who's running that group?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Not if you did your part."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hmm."
+        },
+        {
+            "character": "Daisy",
+            "line": "How did it feel to join the paparazzi, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think I might have missed my calling. I have every body, every piece of software tasked with identifying that woman so we can figure out where she's taking Inhumans and what exactly she plans to do with them."
+        },
+        {
+            "character": "Price",
+            "line": "Make it top priority."
+        },
+        {
+            "character": "Banks",
+            "line": "We'll find them."
+        },
+        {
+            "character": "Price",
+            "line": "Just find out who's running them. I'll handle the rest."
+        },
+        {
+            "character": "Banks",
+            "line": "Anyone in particular I should be looking at?"
+        },
+        {
+            "character": "Price",
+            "line": "I have a few names. Meanwhile, tighten your belt so they don't catch you with your pants down again. This metamorphosis is becoming less rare. And I don't like that one of them got away."
+        }
+    ]
+}

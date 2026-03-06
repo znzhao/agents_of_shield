@@ -1,0 +1,118 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 6,
+    "scene_name": "TeamInterrogatesSamOverDarkhold",
+    "description": "Daisy, Coulson, 'May' (LMD), and Sam try to deduce the whereabouts of the Darkhold, learning Sam acted as the next link in the chain after Billy had passed off the book. This realization leads to the introduction of L.T. Koenig, Sam’s sister, as the next person who might know the book's location. Additional tension is introduced when they learn only the Koenigs know how to find the Labyrinth.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "sam_koenig"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You can't underestimate Radcliffe."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to assume he's gonna get the information out of Billy."
+        },
+        {
+            "character": "Sam",
+            "line": "Impossible."
+        },
+        {
+            "character": "Coulson",
+            "line": "How can you be so sure?"
+        },
+        {
+            "character": "Sam",
+            "line": "He doesn't know where it is. He gave it to me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This isn't right. I'm in his head, but I'm also seeing him. Doesn't make sense, unless... He doesn't have it."
+        },
+        {
+            "character": "Shockley",
+            "line": "You sent us after the wrong man? No, he had it, but he gave it to someone who looks just like him... a brother or... or a replica."
+        },
+        {
+            "character": "May",
+            "line": "Where is it?"
+        },
+        {
+            "character": "Sam",
+            "line": "I don't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "You just said Billy gave it to you."
+        },
+        {
+            "character": "Sam",
+            "line": "He did."
+        },
+        {
+            "character": "May",
+            "line": "You forgot where you hid it?"
+        },
+        {
+            "character": "Sam",
+            "line": "No, I didn't hide it."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you still have it?"
+        },
+        {
+            "character": "May",
+            "line": "Then what did you do with it?"
+        },
+        {
+            "character": "Sam",
+            "line": "I gave it to Agent Koenig."
+        },
+        {
+            "character": "Daisy",
+            "line": "You gave it back to Billy?"
+        },
+        {
+            "character": "Sam",
+            "line": "Negative."
+        },
+        {
+            "character": "May",
+            "line": "Then who?"
+        },
+        {
+            "character": "Sam",
+            "line": "L.T."
+        },
+        {
+            "character": "Daisy",
+            "line": "Who's L.T.?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Special Agent L.T. Koenig."
+        },
+        {
+            "character": "Daisy",
+            "line": "There's another one?"
+        },
+        {
+            "character": "Sam",
+            "line": "No, not just another one. The first one. L.T. got us all into S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to pick up L.T. I don't think any Koenig is safe right now."
+        }
+    ]
+}

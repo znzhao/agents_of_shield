@@ -1,0 +1,162 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 5,
+    "scene_name": "ATCUHackSetupAndInfiltration",
+    "description": "As Daisy and Mack initiate a stealth hack into the ATCU's system, Bobbi Morse and Lance Hunter pose as FBI agents at the ATCU headquarters. Hunter distracts the I.T. chief, Wilson, while Bobbi searches for Andrew. Tensions rise as ATCU staff become suspicious of the agents’ motives and presence. Daisy orchestrates technical manipulations from Zephyr One, and the groundwork for accessing ATCU secrets is laid.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "ATCU headquarters / Advanced Threat Containment Unit facilities",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Incoming data upload from Rosalind's phone."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Let's wake up the ATCU I.T. A.S.A.P."
+        },
+        {
+            "character": "Wilson",
+            "line": "Oh, yeah. That's my favorite episode. I mean, Darlene was set up perfectly... every word she said. Whoa. Whoa, whoa, whoa. Did you see that? What was that?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Did you just hack the ATCU?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, but the containment module broadcasts some pretty intense encrypted homing signals. You put it inside a corporate office, and it'll wig the I.T. department out real good."
+        },
+        {
+            "character": "Mack",
+            "line": "FBI cyber investigative task force. How may I help you, Mr., uh, Wilson? What exactly is going on over there? Well, multiple agency servers have been attacked in the last few minutes, and the traffic traces back to your IPs. We've already, uh, dispatched a rapid-response unit to your location. Please, just cooperate fully. Should be fine. I can assure you, they're our absolute best."
+        },
+        {
+            "character": "Wilson",
+            "line": "Listen, Agent Phillips, our systems check out perfectly, okay? We're showing no signs of a breach. I don't think you'll be necessary here. I think that it was a glitch."
+        },
+        {
+            "character": "Hunter",
+            "line": "A glitch, yeah. Of course it looks like a glitch. That's the point. You congratulate yourself, crisis averted, then go home, never noticing the polymorphic root kit buried deep inside your system..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Until hackers activate it to..."
+        },
+        {
+            "character": "Hunter",
+            "line": "... bypass that sweet, stateless multi..."
+        },
+        {
+            "character": "Daisy",
+            "line": "... factor authentication..."
+        },
+        {
+            "character": "Hunter",
+            "line": "... code you are so bloody proud of."
+        },
+        {
+            "character": "Wilson",
+            "line": "Red Sox fan?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Red coats, actually."
+        },
+        {
+            "character": "Wilson",
+            "line": "This guy does not look like FBI."
+        },
+        {
+            "character": "Morse",
+            "line": "He wasn't. Dane here crashed the Pentagon servers, Mossad's, Ashley Madison. He's the best consultant we have. Otherwise, he'd be in jail or I'd have shot him by now. If he says that you have a problem, listen."
+        },
+        {
+            "character": "Wilson",
+            "line": "Our system's airtight."
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. If your system's so secure, how'd your staff's credentials leak out?"
+        },
+        {
+            "character": "Wilson",
+            "line": "What? No, no, no, no, no, no, no. There's no way someone got past our software."
+        },
+        {
+            "character": "Hunter",
+            "line": "Who said anything about software? We think hardware was smuggled in. You called, detecting some sort of broadcast?"
+        },
+        {
+            "character": "Wilson",
+            "line": "The ATCU security is way too strong."
+        },
+        {
+            "character": "Morse",
+            "line": "Was nothing brought into this facility in the last 24 hours?"
+        },
+        {
+            "character": "Wilson",
+            "line": "No. Our employee's keys don't make it past security. We haven't brought in anything, except the, uh... Oh, no. I need to make a phone call."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've had some major breakthroughs here. Advances in alien biology, robotics, prosthetics."
+        },
+        {
+            "character": "Price",
+            "line": "Well, it cuts a hell of a silhouette."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, they mostly got it right."
+        },
+        {
+            "character": "Price",
+            "line": "So you did reactivate it. Hello, I.T. department that calls me only when there's a problem. What's the problem?"
+        },
+        {
+            "character": "Wilson",
+            "line": "There's an FBI task force here. An energy pulse was detected inside our facility right before, um... an apparent security leak."
+        },
+        {
+            "character": "Price",
+            "line": "Have you found the cause?"
+        },
+        {
+            "character": "Wilson",
+            "line": "Well, ma'am, I think it could be the S.H.I.E.L.D. containment module we brought in."
+        },
+        {
+            "character": "Price",
+            "line": "Dearest, is it possible that your containment module tried to access the ATCU's system?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Absolutely. It scans any local network it finds. All our hardware does."
+        },
+        {
+            "character": "Price",
+            "line": "Well, we noticed, and we're gonna have to go ahead and shut that down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can't blame a guy for trying."
+        },
+        {
+            "character": "Price",
+            "line": "Hey, Steve, you're supposed to protect the ATCU from things like this. So play nice with the FBI's task force, and fix it. You're lucky you're cute."
+        },
+        {
+            "character": "Coulson",
+            "line": "We really have to figure out other ways to flirt."
+        }
+    ]
+}

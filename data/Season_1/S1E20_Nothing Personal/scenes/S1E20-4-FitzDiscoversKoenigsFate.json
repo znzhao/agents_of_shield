@@ -1,0 +1,82 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 4,
+    "scene_name": "FitzDiscoversKoenigsFate",
+    "description": "Fitz stumbles upon an ominous message and, with Simmons and Triplett, discovers the body of Eric Koenig. The team reels from the realization that Koenig was murdered and that Ward must be the killer. Deeply shaken, Fitz struggles to accept Ward's betrayal, while Coulson urgently redirects their energy towards tracking Skye before Ward uncovers her knowledge. The emotional intensity peaks as the team's trust shatters.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "intense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Impossible. It can't be. No. No. I-I don't believe it."
+        },
+        {
+            "character": "Triplett",
+            "line": "Take a breath, Agent Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't tell me to take a breath. Who the hell are you? I mean, really. Come on. I don't even know who you are."
+        },
+        {
+            "character": "Triplett",
+            "line": "I just went through this, remember?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't touch me."
+        },
+        {
+            "character": "Triplett",
+            "line": "My S.O. turned out to be a lying son of a..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, not Ward. Okay? Not Ward. Do you know why? Because he's our friend. And Simmons will find something. Go ahead. Tell him, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let me work, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but tell him that Ward isn't..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let me work."
+        },
+        {
+            "character": "Fitz",
+            "line": "Something else is at play here, sir. Think about it. They're just trying to mess with our heads. They wrote that on the wall to scare us."
+        },
+        {
+            "character": "Coulson",
+            "line": "One step at a time."
+        },
+        {
+            "character": "Fitz",
+            "line": "We need to get out of here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons will give her report. That's the next step."
+        },
+        {
+            "character": "Simmons",
+            "line": "He died approximately 10 hours ago of asphyxiation... after May left the premises. A thin wire was used to strangle him. His trachea is crushed, partially sliced through, so it was done in a hurry. Based on the angle of the lacerations, the killer was at least 6'2\" and strong enough to... lift him into... Ward did this. Fitz! No no no no..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay! Okay! We need to hold it together. Listen... all that anger, all that pain, you need to hold it in and focus it on Skye. She's alive. And she just walked out of here hand in hand with someone she knows is a murderer because she's playing him... just like he played us. Fitz, Fitz... we have to fix the communications. We have to track that plane. Can you do that? Good. If I know Skye, she's got a plan. And we're gonna find her before Ward figures out what that is. Come on, Skye. What's your play?"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "BackgroundCheckInterrogation",
+    "description": "Back on the Bus, Skye and Ward discuss the background of Adam Cross, with Skye presenting her findings. Coulson subtly points out Ward's harsh attitude toward Skye. Meanwhile, May reports on her brief interrogation, and the lab team debates the forensic details of the victim's unusual wounds.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You found something on Cross?"
+        },
+        {
+            "character": "Skye",
+            "line": "Many things, actually, but you already knew that, thanks to my fancy S.H.I.E.L.D. house-arrest gizmo tracking my every key swipe, my online activity, my cholesterol. Just wish it came in another color... or came off."
+        },
+        {
+            "character": "Ward",
+            "line": "The victim?"
+        },
+        {
+            "character": "Skye",
+            "line": "Adam Cross, single, no kids, originally from Wrigley, Pennsylvania, not far from here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Been there. They have a nice little strawberry festival in the spring. Occupation?"
+        },
+        {
+            "character": "Skye",
+            "line": "Phys-ed teacher at the local high school and Varsity baseball coach and troop leader and volunteer firefighter. This guy makes Captain America look like “the dude.”"
+        },
+        {
+            "character": "Skye",
+            "line": "“The Big Lebowski.” Seriously?"
+        },
+        {
+            "character": "Ward",
+            "line": "What about a criminal record, restraining order, something that might give us a suspect?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nada. Not even a parking ticket. I skimmed all his posts, anyone linked to his pages, hoping for a crazy ex or a superpowered stalker, and he's clean."
+        },
+        {
+            "character": "Ward",
+            "line": "Everybody looks clean on their first go-round."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward's right. We're missing something. Dig deeper."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've been pretty tough on her."
+        },
+        {
+            "character": "Ward",
+            "line": "She lied to us. Contacted the Rising Tide while we were on mission. If she wants our trust back, she's got to earn it."
+        },
+        {
+            "character": "Coulson",
+            "line": "The background she ran on Cross is a good start. Put it up on the server. I want May to have a look when she's done with her interrogation."
+        },
+        {
+            "character": "May",
+            "line": "Have a cookie."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excellent timing, sir. I've been analyzing sagittal and coronal images of the victim's brain."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's Fitz doing out there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He detected a strange energy coming off the body."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's afraid of it, isn't he?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's the smell!"
+        },
+        {
+            "character": "Simmons",
+            "line": "There's no shame in it, Fitz. It's perfectly natural to be afraid."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, the only thing I'm afraid of is putrid, decaying flesh corrupting my pristine workspace. Do you remember the last time you brought a dead thing into the lab?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, not the stupid cat again."
+        },
+        {
+            "character": "Fitz",
+            "line": "The cat..."
+        },
+        {
+            "character": "Simmons",
+            "line": "And it's our lab, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "... tell him about the cat!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not your lab."
+        },
+        {
+            "character": "Fitz",
+            "line": "You left his liver next to my lunch!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Guys! Can we please..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir. Um, as I was saying, this is the victim's brain."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looks like a burnt baked potato."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's what happens when it's hit with close to 2,000 megajoules of electrostatic energy. That's almost double the power of a lightning bolt."
+        },
+        {
+            "character": "May",
+            "line": "Kid's clean. You figure out why the body was floating?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not yet. The molecular density of the victim was temporarily altered by an unknown energy source. I'm hoping to shed some light on its effects once I extract a brain-tissue sample."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's happening again!"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's science, Fitz! I have to dissect something."
+        }
+    ]
+}

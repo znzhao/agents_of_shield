@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "FacilityInvestigationAndPlaneSabotage",
+    "description": "Fitz and Simmons examine parts from the particle accelerator and discuss strange findings just as a menacing figure appears, frightening Simmons. Suddenly, the Bus loses power and begins to descend. The team scrambles to prepare for a rough landing, and suspicion grows that the entity haunting Hannah is onboard. The group plans to protect Hannah as best they can.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Oh. This must be the coupling from the reports. Oh, dear. The technicians were right. Were you even listening?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You weren't even a wee bit scared?"
+        },
+        {
+            "character": "Simmons",
+            "line": "More disappointed, really."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's fine. It's fine. I'm just workshopping here, and, yes, I was listening. I was about to go fetch our own magnetic couplings to run simulations."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, well, while you're in there, grab some more diazepam for Hannah. She may need to be more heavily sedated. And the prank needs more work, as well."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. I'm trying different things. It's the timing that matters, Simmons. Skye can't suspect a thing."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, come look at this."
+        },
+        {
+            "character": "Ward",
+            "line": "Tobias Ford. Oh, isn't he one of the technicians who died at the plant?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, and he filed three safety complaints in the past month, each one in Hannah's department."
+        },
+        {
+            "character": "Ward",
+            "line": "She thought he was a friend. But he had it out for her."
+        },
+        {
+            "character": "Skye",
+            "line": "Sad part is... he was right."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Couplings. Couplings, couplings. Yes. Actually... Oh. Now, this I could use. All I need now is a little bit of twine and an unsuspecting victim. Oh, that's fantastic, that is."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that's odd. My god. Fitz, look at this. What are we seeing here? It's as if the explosion tore open some sort of window to..."
+        },
+        {
+            "character": "Tobias",
+            "line": "To hell."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons! Are you okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, Hannah's telling the truth. She's not telekinetic. There's someone else on this plane."
+        },
+        {
+            "character": "Simmons",
+            "line": "What was that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Plane's lost power. We're going down."
+        },
+        {
+            "character": "May",
+            "line": "Ward, you certified?"
+        },
+        {
+            "character": "Ward",
+            "line": "What about engine-driven generators?"
+        },
+        {
+            "character": "May",
+            "line": "Those are dead, too. Switch batteries to maintain flight controls. The rest will be needed to keep the cage shielded. Flaps... 10.  Lower landing gear."
+        },
+        {
+            "character": "Skye",
+            "line": "What can I do?"
+        },
+        {
+            "character": "May",
+            "line": "Buckle up. There's a decent-sized field up ahead, but it's gonna be rough. Vertical landing's out."
+        },
+        {
+            "character": "Ward",
+            "line": "Coming in a little hot."
+        },
+        {
+            "character": "May",
+            "line": "I got it."
+        }
+    ]
+}

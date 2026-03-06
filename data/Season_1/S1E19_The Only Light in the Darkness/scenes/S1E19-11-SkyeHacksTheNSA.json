@@ -1,0 +1,125 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 11,
+    "scene_name": "SkyeHacksTheNSA",
+    "description": "At Providence, Skye hatches a plan to hack NSA satellites for visual evidence on the Fridge breakout. Though Koenig is initially reluctant, she convinces him and, with technical support from Ward, successfully starts the hack, impressing Koenig.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "eric_koenig"
+    ],
+    "vibe": "suspenseful",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathan",
+            "line": "I thought he was locked up."
+        },
+        {
+            "character": "Simmons",
+            "line": "He escaped from prison."
+        },
+        {
+            "character": "Triplett",
+            "line": "You don't have to worry. That's why we're here. We're gonna keep you safe."
+        },
+        {
+            "character": "Nathan",
+            "line": "“We?” Meaning the CIA?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. That's what I said, isn't it? We're the CIA, the Central Intelligence Agency... people."
+        },
+        {
+            "character": "Nathan",
+            "line": "You're not. You're S.H.I.E.L.D., aren't you?"
+        },
+        {
+            "character": "Triplett",
+            "line": "We're just trying to help. We're not the bad guys."
+        },
+        {
+            "character": "Nathan",
+            "line": "I know. I don't believe what they're saying about S.H.I.E.L.D. The agency saved my life once before. A few years ago, I saw Daniels at one of my concerts, front row. Then I started seeing him at all of them. At first, I was flattered. Cellists don't get many groupies. But then one night, I saw him outside of my house. I was terrified. I begged him to leave me alone. He just stood there, saying I was his light. I didn't understand what he meant until he started blacking out my entire block. I ran and called the police. They didn't believe me. But then a S.H.I.E.L.D. agent came to my door. I don't know why, but I trusted him right away. Something about his face... the handsome part, maybe. He just swooped in. It was like... out of a movie."
+        },
+        {
+            "character": "Simmons",
+            "line": "You two were... close?"
+        },
+        {
+            "character": "Nathan",
+            "line": "Very. He promised me he would stop Daniels. And that's exactly what he did. That's why I know I can trust S.H.I.E.L.D. Phil never lied to me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Phil?"
+        },
+        {
+            "character": "Nathan",
+            "line": "Agent Phillip Coulson?"
+        },
+        {
+            "character": "Triplett",
+            "line": "I've heard the name."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is that... Audrey was... you two were..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "What happened to him?"
+        },
+        {
+            "character": "Nathan",
+            "line": "He died in the line of duty. I don't know the details. We were planning a trip up the coast, and then I got the call."
+        },
+        {
+            "character": "Simmons",
+            "line": "You must miss him."
+        },
+        {
+            "character": "Nathan",
+            "line": "For so long after he died, everything reminded me of him. I still dream about him sometimes, just us together, laughing. I wake up feeling like he's watching over me. It's nice."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe you should go in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, she's healing. She's getting on with her life. We should help her do that."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think I know a way, how to stop Daniels for good. But we would have to use her to draw him either."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Do you understand? That's not acceptable."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, it's not ideal, but there's no other choice."
+        },
+        {
+            "character": "Coulson",
+            "line": "I won't put her in danger again. That's not fair to her."
+        },
+        {
+            "character": "Fitz",
+            "line": "But, sir, I'm sorry, but she's already in danger. And you said it yourself... Daniels is single-minded. He's dangerous. He won't stop until he gets what he wants."
+        }
+    ]
+}

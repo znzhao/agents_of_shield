@@ -1,0 +1,97 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "RecruitmentGoneWrong",
+    "description": "Alisha attempts to recruit two Inhumans, Lori and Shane, only for a deadly attack by the Inhuman killer to claim their lives. Coulson is monitoring the situation remotely and orders Daisy and Mack to intervene after Alisha's duplicate is killed and she goes into shock. The S.H.I.E.L.D. team scrambles to respond while chaos and confusion erupt in the apartment.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lori",
+            "line": "I can't tell. I can't tell just by looking at it. Can you?"
+        },
+        {
+            "character": "Shane",
+            "line": "Nobody can. It's chicken."
+        },
+        {
+            "character": "Lori",
+            "line": "I think I'm gonna have to cut into it. There's nothing worse than dry chicken."
+        },
+        {
+            "character": "Shane",
+            "line": "Yep. I got you. Here."
+        },
+        {
+            "character": "Lori",
+            "line": "Are you expecting someone?"
+        },
+        {
+            "character": "Shane",
+            "line": "No. No way. Alisha, what are you doing here? Hey."
+        },
+        {
+            "character": "Alisha",
+            "line": "Sorry to drop by like this, but it's important. The Terrigen got out."
+        },
+        {
+            "character": "Shane",
+            "line": "When we saw Lincoln in the news and all that stuff about a government task force."
+        },
+        {
+            "character": "Lori",
+            "line": "We knew it was bad. We just didn't know how bad."
+        },
+        {
+            "character": "Alisha",
+            "line": "The world sees us as a threat. We need to stick together, those of us who've been here since before the Outbreak."
+        },
+        {
+            "character": "Lori",
+            "line": "Wait, are you the one who sent us that weird e-mail the other day?"
+        },
+        {
+            "character": "Alisha",
+            "line": "What e-mail?"
+        },
+        {
+            "character": "Shane",
+            "line": "The one about finding the rest of our people, bringing them back together."
+        },
+        {
+            "character": "Alisha",
+            "line": "No. Can you show it to me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Alisha, talk to me. What's happening?"
+        },
+        {
+            "character": "Alisha",
+            "line": "She's dead. He killed her. It's here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, Mack, move in now! Something's attacking! Alisha's down!"
+        },
+        {
+            "character": "Mack",
+            "line": "Sir, we've got three dead. We're gonna need backup. Looks like the killer's on the... Daisy, wait! Daisy! Damn it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Alisha! Alisha, can you hear me?!"
+        },
+        {
+            "character": "Alisha",
+            "line": "He's here. He's here to kill us. And you can't stop him."
+        }
+    ]
+}

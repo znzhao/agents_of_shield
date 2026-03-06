@@ -1,0 +1,63 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 11,
+    "scene_name": "MackPreparesSHIELDResponse",
+    "description": "Back at the Playground, Mack confides in May about his doubts as acting director. He reviews Andrew's file about Lincoln and watches a live feed from the castle, weighing whether to launch a rescue mission. May advises him to take charge, while Mack rallies Daisy, Lincoln, and Joey for an assault despite overwhelming odds, delivering a stirring speech about stepping up when lives are at stake.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "skye",
+        "lincoln",
+        "joey_gutierrez"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Daisy said you needed a word."
+        },
+        {
+            "character": "Mack",
+            "line": "More like your opinion. I've been reading Andrew's file on Lincoln. “A dangerous temperament that's only been inflamed by recent events. It's my professional opinion he should not be allowed in the proposed initiative.” What do you think?"
+        },
+        {
+            "character": "May",
+            "line": "I'm not even sure if that's Andrew's evaluation. Maybe it's Lash. How are we supposed to know the difference?"
+        },
+        {
+            "character": "Mack",
+            "line": "That's a live sat feed from the castle where Ward and Malick are holding Fitz-Simmons."
+        },
+        {
+            "character": "May",
+            "line": "Looks like HYDRA has a couple of dozen troops."
+        },
+        {
+            "character": "Mack",
+            "line": "The bigger problem is the heavy artillery, the surface-to-air missiles. And that's not even the worst of it. Coulson told him he was coming."
+        },
+        {
+            "character": "May",
+            "line": "Cloaking won't help if Hydra knows what to look for."
+        },
+        {
+            "character": "Mack",
+            "line": "I asked him if he needed backup, but Coulson refused to make the call."
+        },
+        {
+            "character": "May",
+            "line": "You're the man in charge. Make it for him."
+        },
+        {
+            "character": "Mack",
+            "line": "We're outmanned, outgunned, with no time to mount an assault with even a snowball's chance against a fortified HYDRA. What the hell am I supposed to do?"
+        },
+        {
+            "character": "May",
+            "line": "I think you already know."
+        }
+    ]
+}

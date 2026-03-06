@@ -1,0 +1,102 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 5,
+    "scene_name": "ChurchConfrontationAndWardAffected",
+    "description": "At the Spanish church, Ward investigates and is confronted by Professor Randolph attempting to secure the staff fragment. Upon touching the staff, Ward is overwhelmed by violent memories and collapses. Skye is alarmed and attempts to help Ward as Randolph escapes. Coulson arrives at the scene, and the team realizes the gravity of Ward's condition as well as the loss of the staff fragment to outsiders.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Siesta isn't mandatory. Just very pleasant. How you doing, Agent Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "Wishing I was shorter. Nothing yet. All my readings are normal."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about you, Skye? Any luck?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm lucky my S.O. volunteered to take the super-creepy hallway instead of the slightly less-creepy dungeon-room place. I got nothing. Sorry, nada."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ward, your spectrograph is reading something near you."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't see anything."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, it's right in front of you. Oh, wait. No. Uh, okay, hold on. It's moving. Northwest."
+        },
+        {
+            "character": "Ward",
+            "line": "Visual contact."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay Ward, turn left."
+        },
+        {
+            "character": "Randolph",
+            "line": "I have a wonderful explanation."
+        },
+        {
+            "character": "Ward",
+            "line": "Ran into some unexpected com..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward, what's happening?"
+        },
+        {
+            "character": "Fitz",
+            "line": "His device just went down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, can you get..."
+        },
+        {
+            "character": "Skye",
+            "line": "Already on it. Ward. Are you all right? Hey, hey, hey. Whoa, whoa, whoa. Grant, calm down. Calm down, please. Calm down."
+        },
+        {
+            "character": "Ward",
+            "line": "The staff... he has it."
+        },
+        {
+            "character": "Skye",
+            "line": "Something's wrong with Ward. The staff's gone. Someone took it."
+        },
+        {
+            "character": "Nystrom",
+            "line": "I have one, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "He can't just disappear. He'll have to turn up some... where. There we go. A block south of the church."
+        },
+        {
+            "character": "Coulson",
+            "line": "Professor."
+        },
+        {
+            "character": "Randolph",
+            "line": "I screwed up."
+        }
+    ]
+}

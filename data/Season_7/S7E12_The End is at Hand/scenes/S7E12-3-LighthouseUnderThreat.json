@@ -1,0 +1,49 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "LighthouseUnderThreat",
+    "description": "Coulson, May, and Elena assess the devastation as they discover nearly all S.H.I.E.L.D. bases have been destroyed, except the Lighthouse. They realize that Sibyl must have an alternative method to attack and prepare for an imminent threat inside their base, enacting lockdown measures.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It looks like every S.H.I.E.L.D. base is gone. Even the Triskelion."
+        },
+        {
+            "character": "Elena",
+            "line": "Are you okay?"
+        },
+        {
+            "character": "May",
+            "line": "I will be. It's just... a lot."
+        },
+        {
+            "character": "Elena",
+            "line": "You can feel all those lives lost? Why weren't we attacked? Sibyl knows where we are."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's smart. She knows the Lighthouse would survive a conventional assault. She must have other plans."
+        },
+        {
+            "character": "Elena",
+            "line": "Where's that coming from?"
+        },
+        {
+            "character": "May",
+            "line": "What are the Chronicoms doing now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't stop it. Why don't you two implement lockdown protocols while I figure this out."
+        }
+    ]
+}

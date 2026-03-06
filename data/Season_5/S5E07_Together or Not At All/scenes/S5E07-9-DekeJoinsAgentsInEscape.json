@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "DekeJoinsAgentsInEscape",
+    "description": "Daisy, Fitz, and Simmons encounter Deke, whose allegiance remains questionable. He insists he's there to help them escape and proposes a route via the service shafts. Their tense exchange reflects concerns over trust and the urgency to flee the Kree.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Flint",
+            "line": "You didn't know Tess."
+        },
+        {
+            "character": "Mack",
+            "line": "You're right."
+        },
+        {
+            "character": "Flint",
+            "line": "You don't know nothing about me, either."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you're not the first person to tell me that. I'm not here to tell you anything you don't already know. I'm just... Well, I'm just here. If you need me."
+        },
+        {
+            "character": "Flint",
+            "line": "It's not fair."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Well, it never is. I lost people, too, it doesn't ever get easier."
+        },
+        {
+            "character": "Flint",
+            "line": "Thought you weren't gonna tell me something I didn't already know. Maybe I should just turn myself in, stop more people from dying."
+        },
+        {
+            "character": "Mack",
+            "line": "No. You have a gift now. You can help people, protect them."
+        },
+        {
+            "character": "Flint",
+            "line": "“Protect them.” I couldn't protect Tess. Couldn't protect my parents. What happens if I can't protect you, either?"
+        },
+        {
+            "character": "Mack",
+            "line": "Stay put. I got you."
+        }
+    ]
+}

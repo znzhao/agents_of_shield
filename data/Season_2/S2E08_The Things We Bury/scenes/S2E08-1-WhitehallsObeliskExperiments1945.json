@@ -1,0 +1,43 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "WhitehallsObeliskExperiments1945",
+    "description": "In 1945, Dr. Whitehall experiments on prisoners using the Diviner. After witnessing diverse results—including a young woman who survives contact with the object—Whitehall is informed of the Red Skull’s death. He decides to put the mysterious woman in a cage for further study, piqued by her unique reaction. The scientific curiosity and ominous setting frame Whitehall's ruthless ambition early on.",
+    "roles": [
+        "daniel_whitehall"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "Beautiful, is it not? Your group was digging in the ground at night. How you found it is a mystery. Do tell us."
+        },
+        {
+            "character": "Man",
+            "line": "We've heard the same stories as you."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Well, we've both searched so long for a thing we barely understand. You can hold it, if you like. Please."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Works quickly on this one. So, gender's not a factor, nor race... no pattern emerges. Fascinating. Put him with the others, then bring the next subject. Please, have a seat. Do not be afraid. Feel free to pick it up, examine it. Please."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Discovery requires experimentation. Remarkable. What makes you so special? I think it wise we prepare her for surgery. We must examine exactly what makes her tick."
+        },
+        {
+            "character": "Soldier",
+            "line": "Herr Dr. Reinhardt, Red Skull has fallen. He's dead. The allies approach."
+        },
+        {
+            "character": "Whitehall",
+            "line": "The world has lost a great mind. Put her in a cage. We'll unravel this mystery later, yes? Discovery requires experimentation, and this experiment will take time."
+        }
+    ]
+}

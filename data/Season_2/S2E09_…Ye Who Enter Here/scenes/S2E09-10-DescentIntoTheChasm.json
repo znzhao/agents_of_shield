@@ -1,0 +1,31 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 10,
+    "scene_name": "DescentIntoTheChasm",
+    "description": "At the fort, Mack is lowered into the chasm while FitzSimmons and Morse monitor. Suddenly, Mack is struck by agonizing pain upon activating something in the ground below. Coulson orders Mack brought up, but when he emerges, he is acting violently and attacks the team—demonstrating signs of possession or mind control, making the situation dire and frantic.",
+    "roles": [
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Three pulls on the cable means “help,” got it?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yes, sir. Let me down easy, turbo."
+        },
+        {
+            "character": "Fitz",
+            "line": "Please be careful."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "TeamBondsWithFlintAndGrillThreatens",
+    "description": "Elena encourages Flint about his new Inhuman powers, sharing her own Terrigenesis story. The lightness is interrupted when Grill discovers the group and threatens to turn them over to Kasius, increasing the pressure on the team to keep their secret.",
+    "roles": [
+        "flint",
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Flint",
+            "line": "Well, how come I don't have my powers yet?"
+        },
+        {
+            "character": "Elena",
+            "line": "You have your power. It just hasn't revealed itself."
+        },
+        {
+            "character": "Flint",
+            "line": "How long did yours take?"
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, it was a total disaster. I crusted over three weeks earlier, after eating fish soup and tacos."
+        },
+        {
+            "character": "Flint",
+            "line": "What are tacos?"
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell kind of future is this?"
+        },
+        {
+            "character": "Elena",
+            "line": "Tacos are a food. Anyways, I had told myself this was just a dream. And then my cousin Francisco calls with bad news about his mom. I was upset, so I went to get a beer, and whoosh! I'm back on my couch, beer in one hand. I realize I need a bottle opener, and whoosh again, I'm back on my couch, bottle opener in the other hand."
+        },
+        {
+            "character": "Flint",
+            "line": "What did you think was happening?"
+        },
+        {
+            "character": "Elena",
+            "line": "My heart was beating so fast, I thought someone had put cocaine in my beer."
+        },
+        {
+            "character": "Mack",
+            "line": "Whoa. Dial it back, Escobar."
+        },
+        {
+            "character": "Elena",
+            "line": "I got so worried, I told my cousin Francisco to come over. He spent countless hours talking me out of an exorcism."
+        },
+        {
+            "character": "Grill",
+            "line": "That is a great story. Pretty sure Kasius is gonna want to hear that for himself."
+        }
+    ]
+}

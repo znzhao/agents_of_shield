@@ -1,0 +1,40 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "FitzDekeBanterAndAnomalyWarning",
+    "description": "Fitz grows increasingly agitated with Deke's presence and advice. Deke innocently tries to help Fitz relax, but the tension escalates until Fitz detects another anomaly flare from the rift and warns that any out-of-place manifestation should be considered unreal and terminated. Fitz's stress highlights the ongoing threat inside the Lighthouse.",
+    "roles": [
+        "leo_fitz",
+        "deke_shaw"
+    ],
+    "vibe": "comedic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Look what I found in storage. Baseball, right? Did everybody have really big hands? ‘Cause this is crazy. There's another one if you want to play."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm monitoring a highly volatile situation."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, yeah, I'm trying to help. You don't have to be such a cranky, old man about it. If you're stuck on a problem, you should take a break. My mom used to tell me about this guy named Albert Einstein. He says that play is the highest form of research."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not gonna play catch with you. I've got stuff to... Okay?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, why don't I stay here and stare at the numbers for a little while? You can go visit Mrs. Fitz. You guys just got married. All the grown-ups are gone. I bet she's just dying for a little post-wedding yee-haw."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, do you know what, Einstein? You're right. I need a break, so let's play ball. Let's play ball. Come on. Okay. Toss me the ball, and we'll play fetch. Ready? Damn. It's happening again. We are experiencing another anomaly flare. If you see something that doesn't belong here, it's not real. Kill it by any means necessary."
+        }
+    ]
+}

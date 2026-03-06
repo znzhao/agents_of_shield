@@ -1,0 +1,228 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "UndercoverOnTheTrain",
+    "description": "The team executes their cover stories on the train: May and Ward settle in and discuss how Coulson and Skye seem personally invested; Skye and Fitz play a couple while stealing keys from the conductor to set up tech gear; and Simmons and Coulson pose as an awkward father-daughter duo, with Simmons theatrically staging a fake emotional outburst to sell their disguise. As May prepares to locate the package using infrared, the atmosphere is a blend of tension and comedic moments.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "comedic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "That looks cozy."
+        },
+        {
+            "character": "May",
+            "line": "Once I've located the package, I'll let you know where to place the tracker."
+        },
+        {
+            "character": "Ward",
+            "line": "Seem like things are getting personal? I'm talking about our operations. Look, I know Coulson was put through hell, but... he hasn't been the same since. I don't know what he said to Skye, but she's different."
+        },
+        {
+            "character": "May",
+            "line": "How so?"
+        },
+        {
+            "character": "Ward",
+            "line": "Driven, focused. And she was holed up for days trying to track down Quinn. It feels like Coulson's got her on a warpath. Seems personal."
+        },
+        {
+            "character": "May",
+            "line": "It is personal. The Clairvoyant had him tortured. Quinn's the only person we know who's connected to all this."
+        },
+        {
+            "character": "Ward",
+            "line": "We both know personal urges can adversely affect tactical decisions."
+        },
+        {
+            "character": "May",
+            "line": "Hmm. That's why I don't have any. You should do the same."
+        },
+        {
+            "character": "Ward",
+            "line": "Really? You think Coulson will take that excuse if he finds out about us?"
+        },
+        {
+            "character": "May",
+            "line": "Took it okay when I told him."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait. You told him?"
+        },
+        {
+            "character": "May",
+            "line": "Yep."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you nervous?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just ready for this all to be over. I'm ready to get Quinn."
+        },
+        {
+            "character": "Fitz",
+            "line": "Me, too. So, are we British or American?"
+        },
+        {
+            "character": "Skye",
+            "line": "Does that matter?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we're traveling together. We should at least be from the same country. How's your Scottish accent?"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. That was really good."
+        },
+        {
+            "character": "Fitz",
+            "line": "I used to watch a lot of American TV growing up. Some of it's quite good. Lots of nice teeth."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. Here we go. Follow my lead. Excuse me! Do you speak English?"
+        },
+        {
+            "character": "Train Conductor",
+            "line": "Of course. How may I be of service?"
+        },
+        {
+            "character": "Skye",
+            "line": "Can you recommend a restaurant in downtown Zagreb?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Someplace affordable, with big portions."
+        },
+        {
+            "character": "Train Conductor",
+            "line": "You are looking for something romantic?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes. Please. We are celebrating our six-month anniversary with a whirlwind trip all over Europe."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, technically, we met six months ago, but he didn't ask me out till last month, so our official one-month anniversary isn't until next Saturday."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sunday... Saturday."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. I think he found me intimidating."
+        },
+        {
+            "character": "Train Conductor",
+            "line": "Young love. So... confusing. Is it?"
+        },
+        {
+            "character": "Skye",
+            "line": "You, uh, got a little flustered back there."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? When you kissed me on the cheek like my grandmother? Good going. Really selling our relationship there. I have a device that could have done those things... broken the lock and all that."
+        },
+        {
+            "character": "Skye",
+            "line": "What? Why wouldn't you tell me that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm always the gadget guy. Maybe sometimes I want to do things with my bare hands."
+        },
+        {
+            "character": "Skye",
+            "line": "You make the gadgets with your bare hands."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just allow me these rare moments of self-pity, okay? You're the least supportive pretend girlfriend I've ever had."
+        },
+        {
+            "character": "Skye",
+            "line": "Comms are live. Coulson, Simmons, you in position?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. Just waiting on May's signal. So remember, our target is Carlo..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mancini, the head of security. I know. I memorized his face. I memorized everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. I'm getting into character. My undercover persona harbors residual resentment to her absent American father... Blames him for not being there when her mom died. So I apologize in advance if I come off a little cold."
+        },
+        {
+            "character": "Coulson",
+            "line": "You think all that back story's necessary?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Past events, like that unfortunate incident at the Hub, have shown me that I'm not good at improvisation. However, I excel at preparation."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's headed your way."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're on."
+        },
+        {
+            "character": "Simmons",
+            "line": "All mom ever wanted was your love, to be with you, at our two-story Victorian home in the Cotswolds! But could you even give her a moment, what with your banking job requiring you to travel to the states from Tuesday to Saturday every other week?! No!"
+        },
+        {
+            "character": "Stan Lee",
+            "line": "I'm terribly sorry about your loss, dear. As for you, now is your chance to do better. Why don't you see that you take it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you, sir."
+        },
+        {
+            "character": "Stan Lee",
+            "line": "Let's go."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's right. You never had any time for her, but you made time for your work! And your prostitutes! Oh!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh! Oh, god!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh! Oh, no! Mom!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Terribly sorry. Prostitutes? Plural? May, coming your way."
+        }
+    ]
+}

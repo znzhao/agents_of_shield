@@ -1,0 +1,41 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 13,
+    "scene_name": "SimmonsAndDekeReconcileWithEnoch",
+    "description": "On Zephyr One, Deke apologizes to Enoch for his earlier suspicion. Simmons reinforces the need for secrecy for Fitz’s safety, and the trio must move forward with repairs in the uncertainty of not knowing crucial information. The team atmosphere is tense yet hopeful as they confront their situation as a family.",
+    "roles": [
+        "jemma_simmons",
+        "deke_shaw",
+        "enoch"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Um, yeah, E-Enoch, I'm sorry... about before. I-I didn't realize that things were so dire."
+        },
+        {
+            "character": "Simmons",
+            "line": "And...?"
+        },
+        {
+            "character": "Deke",
+            "line": "And... you are a valued member of our family."
+        },
+        {
+            "character": "Enoch",
+            "line": "That is the greatest compliment one could be paid. Apology accepted."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, so, what do you remember? Do you know where Fitz is?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. No one can know. And no one can know about me. I mean it, Deke. Even you knowing puts you at great risk. Can you carry this secret?"
+        }
+    ]
+}

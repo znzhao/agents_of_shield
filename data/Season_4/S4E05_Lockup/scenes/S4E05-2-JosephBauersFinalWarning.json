@@ -1,0 +1,77 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "JosephBauersFinalWarning",
+    "description": "In the present, Coulson and Mack question Joseph Bauer in his hospital bed about the Darkhold. Joseph, terrified and delusional from his ghost encounter, reveals its location before dying, warning that Lucy already knows where it is. Coulson and Mack grasp the urgency of the threat.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "joseph_bauer"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Dr. Bauer, stay with us!"
+        },
+        {
+            "character": "Joseph",
+            "line": "Get away! Get away from me! Get away! I see what you are."
+        },
+        {
+            "character": "Coulson",
+            "line": "Focus, Dr. Bauer. We need your help."
+        },
+        {
+            "character": "Joseph",
+            "line": "You... You're demons. You're demons. You've come to take me away. You've come to take me away."
+        },
+        {
+            "character": "Coulson",
+            "line": "She was here, your wife, Lucy."
+        },
+        {
+            "character": "Mack",
+            "line": "Dr. Bauer, please. We don't want anyone else getting hurt."
+        },
+        {
+            "character": "Joseph",
+            "line": "It was a mistake. We never should have taken it. We should've left it buried."
+        },
+        {
+            "character": "Coulson",
+            "line": "The book? We need to know where it is."
+        },
+        {
+            "character": "Joseph",
+            "line": "You can't have it. Get away from me. Get away!"
+        },
+        {
+            "character": "Nurse",
+            "line": "Patient is coding! Stand back please!"
+        },
+        {
+            "character": "Joseph",
+            "line": "Get away! Get away!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Dr. Bauer, please, where is the book?"
+        },
+        {
+            "character": "Nurse",
+            "line": "Sir please, I need you to stay back."
+        },
+        {
+            "character": "Joseph",
+            "line": "I buried it back where I found it!"
+        },
+        {
+            "character": "Joseph",
+            "line": "You're too late. She knows."
+        }
+    ]
+}

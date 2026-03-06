@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 1,
+    "scene_name": "AIDAOperatesOnIvanov",
+    "description": "On the Superior's submarine, Aida operates on Anton Ivanov, who fears becoming a machine like her. Aida calmly justifies her actions, citing her directive to protect the Framework and claiming Ivanov will be 'many things.' The scene establishes Ivanov's fate and Aida's clinical resolve.",
+    "roles": [
+        "aida",
+        "anton_ivanov"
+    ],
+    "vibe": "dark",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "Studies show music increases dopamine levels by 9%. So I picked a recording that seemed to be one of your favorites."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I always imagined this would be good music to be born to, not the other thing."
+        },
+        {
+            "character": "AIDA",
+            "line": "I didn't bring you here to die. I'm going to save you."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I'm not afraid to go."
+        },
+        {
+            "character": "AIDA",
+            "line": "One of my prime directives is to protect the Framework. And I need you alive to do that."
+        },
+        {
+            "character": "Ivanov",
+            "line": "No! I don't want to live as a festering cripple. And you better not be talking about messing with my brain. I don't want to be a thing like you."
+        },
+        {
+            "character": "AIDA",
+            "line": "Don't worry. You'll be many things."
+        }
+    ]
+}

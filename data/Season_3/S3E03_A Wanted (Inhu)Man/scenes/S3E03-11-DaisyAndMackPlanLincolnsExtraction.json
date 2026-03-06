@@ -1,0 +1,93 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "DaisyAndMackPlanLincolnsExtraction",
+    "description": "At The Playground, Daisy, Mack, and Coulson coordinate their plan to extract Lincoln after a distraught call from him. Daisy insists on handling the extraction herself for Lincoln's trust, despite Mack's concerns. Coulson prepares to meet Price, leaving Daisy and Mack to lead the critical field mission.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You're really okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I think so. I'm... Well, it's just that... There's some of it that's hard to talk about, and, um..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I am so sorry."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Take it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln, I am so sorry. I... I had no idea about the tracker, and if I did, I..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Don't worry about that now."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I need help."
+        },
+        {
+            "character": "Man",
+            "line": "He's not here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln's hiding. He's waiting for us."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to bring him in, preferably without the ATCU knowing."
+        },
+        {
+            "character": "Mack",
+            "line": "Even though he just killed a guy."
+        },
+        {
+            "character": "Daisy",
+            "line": "I told you it was an accident."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll figure it out once we get him in here. It'd be safer if Mack handled the extraction."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know, but then he won't come. It's got to be me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your call."
+        },
+        {
+            "character": "Mack",
+            "line": "And where are you going?"
+        },
+        {
+            "character": "Coulson",
+            "line": "To the beach."
+        }
+    ]
+}

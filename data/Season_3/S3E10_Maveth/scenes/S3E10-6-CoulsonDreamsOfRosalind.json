@@ -1,0 +1,67 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 6,
+    "scene_name": "CoulsonDreamsOfRosalind",
+    "description": "Coulson experiences a dream or vision where he converses with Rosalind Price, who urges him to get up and take responsibility for his team. The scene's emotional tone centers on Coulson’s guilt and need for resolve as he wakes up on Maveth, determined to find Ward and his people.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "Good morning."
+        },
+        {
+            "character": "Coulson",
+            "line": "I thought I'd lost you."
+        },
+        {
+            "character": "Price",
+            "line": "Nope. I'm still right here."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't remember..."
+        },
+        {
+            "character": "Price",
+            "line": "We overslept, which is nice. But now you need to get up."
+        },
+        {
+            "character": "Coulson",
+            "line": "How about we stay here for a while instead?"
+        },
+        {
+            "character": "Price",
+            "line": "Mm. Nothing would make me happier. But it's time. They need you, Phil, more than ever."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just one more minute."
+        },
+        {
+            "character": "Price",
+            "line": "No. Now. Get up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll be damned. Tatooine."
+        },
+        {
+            "character": "Fitz",
+            "line": "You can't do this! Ward, listen to me! You can't kill him!"
+        },
+        {
+            "character": "Ward",
+            "line": "It's your fault, Fitz! You didn't follow my instructions!"
+        },
+        {
+            "character": "Fitz",
+            "line": "But I did! I did! That's why we're here! We're all dead without him. You told me to identify the exit point, which I can do, but only that man there, the one you want to kill, can get us there in time!"
+        }
+    ]
+}

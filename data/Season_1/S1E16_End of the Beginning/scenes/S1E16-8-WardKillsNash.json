@@ -1,0 +1,84 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 8,
+    "scene_name": "WardKillsNash",
+    "description": "As Nash continues to provoke and threaten the agents—specifically warning about Skye—Ward, overcome by emotion and believing Nash to be the Clairvoyant, shoots and kills him. The rest of the team reacts in shock, understanding the consequences of Ward’s actions. Garrett and Coulson discuss Ward's motivations and his future, while Coulson decides to confront Ward personally before any official review.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Wait. What just happened?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Did Ward just..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, my lord. I can't believe it."
+        },
+        {
+            "character": "Hand",
+            "line": "Bet the Clairvoyant didn't see that coming."
+        },
+        {
+            "character": "Garrett",
+            "line": "He's dead. It's over."
+        },
+        {
+            "character": "Garrett",
+            "line": "He's a specialist. Cold blood's a basic requirement."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. Still, I didn't think Ward would just do something like that."
+        },
+        {
+            "character": "Garrett",
+            "line": "Whole reason I sent him to you was to knock off the rough edges. Maybe you did your job too well. He let his emotions get the best of him. You want me to escort him to the Hub for debrief?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I want to talk to him before he goes in front of the review board."
+        },
+        {
+            "character": "Garrett",
+            "line": "Understood. I got my orders, then. Got to stay on the hunt for Deathlok."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that. Keep me in the loop?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Will do. Take care. And, Phil, go easy on the kid."
+        },
+        {
+            "character": "May",
+            "line": "Just got a message from H.Q. Director Fury's back. He's waiting for you at the Triskelion."
+        },
+        {
+            "character": "Coulson",
+            "line": "About damn time."
+        },
+        {
+            "character": "May",
+            "line": "You can talk to him about what's been bothering you."
+        },
+        {
+            "character": "Coulson",
+            "line": "A lot's bothering me."
+        }
+    ]
+}

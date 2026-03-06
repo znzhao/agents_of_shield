@@ -1,0 +1,43 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 12,
+    "scene_name": "LincolnHiveFinalMoments",
+    "description": "Lincoln and Hive share their final moments as the Quinjet floats in space. They reflect on connection, acceptance of fate, and the cost of sacrifice. Lincoln quietly accepts what’s happening, while Hive is awed and defeated. The Quinjet explodes above Earth, witnessed in anguish by the rest of the team on Zephyr One.",
+    "roles": [
+        "lincoln"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "Well, I got to see the world."
+        },
+        {
+            "character": "Hive",
+            "line": "It's beautiful. Smaller than you imagine."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hive",
+            "line": "I only wanted to make it better."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know."
+        },
+        {
+            "character": "Hive",
+            "line": "To feel a connection. But you must feel that already. To sacrifice for them. With all their flaws."
+        },
+        {
+            "character": "Lincoln",
+            "line": "They're only human."
+        }
+    ]
+}

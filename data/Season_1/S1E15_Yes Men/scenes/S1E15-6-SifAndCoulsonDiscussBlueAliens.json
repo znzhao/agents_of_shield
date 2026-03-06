@@ -1,0 +1,67 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 6,
+    "scene_name": "SifAndCoulsonDiscussBlueAliens",
+    "description": "While sifting through reports of Lorelei’s activity, Coulson probes Lady Sif for insight about blue aliens, showing his ongoing anxiety regarding the GH.325 serum. Sif confirms the existence of multiple blue extraterrestrial species, and together she and Coulson discover a pattern—Lorelei’s been recruiting men and seizing valuables to build an army.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "These are files of every police report within 100 miles of where you arrived, everything from the last 48 hours. When you want to sift through the information, you just..."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I'm familiar."
+        },
+        {
+            "character": "Coulson",
+            "line": "... touch the... oh."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "It's an antiquated system we and other realms had ages ago."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've... visited other realms, seen different species, aliens. Have you ever encountered any that were... blue?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Yes, of course."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which ones?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Uh, Interdites, Levians, Pheragots, Kree, Sarks, Centaurians. The Frost giants tried to conquer your Earth a millennia ago, but Asgard drove them away."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Well, thanks for that. And the others... have any of them been here recently?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Rest easy, Phillip, Son of Coul. None of the others have ever visited Earth. There... a robbery of jewels."
+        },
+        {
+            "character": "Coulson",
+            "line": "And there... a gun-store robbery by guys on Harleys."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "It's happening faster than I feared. She's amassing men, gold, weaponry. Loreles building an army."
+        },
+        {
+            "character": "Ward",
+            "line": "Traced the men to a biker bar called Rosie's desert oasis. Probably where Lorelei's hiding out. Meeting a S.H.I.E.L.D. convoy there in 10."
+        }
+    ]
+}

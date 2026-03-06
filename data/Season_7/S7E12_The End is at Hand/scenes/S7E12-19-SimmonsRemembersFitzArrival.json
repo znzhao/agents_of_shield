@@ -1,0 +1,122 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 19,
+    "scene_name": "SimmonsRemembersFitzArrival",
+    "description": "Through a combination of 0-8-4s and Simmons' fractured memories, the team pieces together the importance of marriage and 'the key.' At an emotional climax, Fitz finally appears, confirming their plan worked and setting up the final confrontation with the Chronicoms.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "skye",
+        "jemma_simmons",
+        "deke_shaw",
+        "sousa"
+    ],
+    "vibe": "emotional",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How do you know how to do this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just know they need to be married. Two becomes one. Then three becomes one. Why do I know this? We're missing something."
+        },
+        {
+            "character": "Man",
+            "line": "Sorry I'm late! Damn bus broke down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where did you get this?"
+        },
+        {
+            "character": "Man",
+            "line": "I don't remember exactly. Maybe from my friend Enoch or, uh, one of the Koenigs."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson, what's happening?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's possible Enoch deposited these over the decades."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, but why?"
+        },
+        {
+            "character": "May",
+            "line": "It might be a weapon to fight the Chronicoms."
+        },
+        {
+            "character": "Simmons",
+            "line": "A singing key."
+        },
+        {
+            "character": "Deke",
+            "line": "So... what's in there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The end or the beginning. I can't remember."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know if it's supposed to explode or save us, but I have to admit... kinda disappointed."
+        },
+        {
+            "character": "Daisy",
+            "line": "There's got to be something else. Jemma, I know that somewhere inside that you understand this. Just think, okay? You... You knew how to put the pieces together. You knew about the singing key. You kept... You kept saying that you were married."
+        },
+        {
+            "character": "Simmons",
+            "line": "“I now pronounce you...” You said those words."
+        },
+        {
+            "character": "Coulson",
+            "line": "I did."
+        },
+        {
+            "character": "Simmons",
+            "line": "You were all there."
+        },
+        {
+            "character": "May",
+            "line": "We were."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was married. I am married. I have proof. Why can't I remember whom I married?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "You did it. Hey! It worked!"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, stop... stop that."
+        },
+        {
+            "character": "Fitz",
+            "line": "She doesn't remember me, does she? Damn."
+        }
+    ]
+}

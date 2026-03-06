@@ -1,0 +1,23 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 6,
+    "scene_name": "QuinnIntervenesRemotely",
+    "description": "Ian Quinn is introduced via a phone call, expressing displeasure with a failed plan and demonstrating his involvement as a shadowy backer of the technological attacks. This scene establishes Quinn’s manipulation and expectations for those under his influence.",
+    "roles": [
+        "ian_quinn"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "I don't want to hear excuses why it didn't work. I have people who do that for me. I just want you to take care of it before I arrive. Just keep in mind how much this will benefit us both, yeah?"
+        },
+        {
+            "character": "Man",
+            "line": "Mr. Quinn, plane's waiting for you, sir."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 11,
+    "scene_name": "HartTeamGoesSilent",
+    "description": "Hart leads his team into the warehouse. Outside, Coulson and May lose contact with the agents inside as all activity suddenly goes quiet. The gravity of the situation becomes clear as they realize multiple agents and a child hostage may be in grave danger. They're left alone to resolve the crisis.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hart",
+            "line": "In position."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thermal's showing minimal activity."
+        },
+        {
+            "character": "Hart",
+            "line": "All agents, disengage. Disengage."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hart, come in. Bravo, come in. All operators, check in."
+        },
+        {
+            "character": "May",
+            "line": "What was that? Were they taken out? Did they take themselves out? What about the little girl?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, but I have to call it in. That building just swallowed 12 agents in a minute."
+        },
+        {
+            "character": "May",
+            "line": "We're alone on this."
+        }
+    ]
+}

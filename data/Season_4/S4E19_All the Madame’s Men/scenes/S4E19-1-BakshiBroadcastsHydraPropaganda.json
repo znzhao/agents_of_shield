@@ -1,0 +1,56 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 1,
+    "scene_name": "BakshiBroadcastsHydraPropaganda",
+    "description": "Sunil Bakshi delivers a propagandist news broadcast, painting the Patriot as a terrorist and warning about the ongoing threat from Inhumans. Meanwhile, Skye and Melinda May regroup after their escape, preparing to move through the Triskelion. The tension between May and Skye is palpable as they discuss their motivation and the next steps to evade Hydra forces closing in on them.",
+    "roles": [
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Good morning! I'm Sunil Bakshi, and today, we are talking about justice. Yesterday, we witnessed a harrowing and unprovoked attack on HYDRA's Enlightenment Cultivation Center. The perpetrator the Inhuman terrorist and Resistance leader who called himself “The Patriot” again acted with flagrant disregard for human life. But we are pleased to report the Patriot has been killed. That man will no longer stand as a symbol of evil and villainy. And while this is a cause for celebration, it is also a reminder to remain ever vigilant. One must never forget that danger can lurk around any corner."
+        },
+        {
+            "character": "May",
+            "line": "You're looking better."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Thanks for that."
+        },
+        {
+            "character": "May",
+            "line": "Try to keep up while you recover."
+        },
+        {
+            "character": "Skye",
+            "line": "Where to next?"
+        },
+        {
+            "character": "May",
+            "line": "Elevator to the garage. Cover me."
+        },
+        {
+            "character": "May",
+            "line": "Come on."
+        },
+        {
+            "character": "Man",
+            "line": "Drop your weapons! Now!"
+        },
+        {
+            "character": "Ophelia",
+            "line": "Agent May, interesting. No matter the circumstance, none of you can escape your true nature. You, the warrior. Mack, the protector. And Fitz, well he's a romantic."
+        },
+        {
+            "character": "Skye",
+            "line": "And me, what I don't make the list? Let's move."
+        }
+    ]
+}

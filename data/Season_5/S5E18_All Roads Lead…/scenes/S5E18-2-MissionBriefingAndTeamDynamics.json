@@ -1,0 +1,142 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 2,
+    "scene_name": "MissionBriefingAndTeamDynamics",
+    "description": "Back at the Lighthouse, Daisy leads the team in developing a plan to attack Hale's bunker. May insists Coulson stays behind, leading to friction and banter. Deke tries to find his role, leading to teasing about his feelings for Daisy. The team preps for their assault, bonding over lighthearted and comedic exchanges despite the looming threat.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "melinda_may",
+        "glenn_talbot",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "lighthearted",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You're late."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hold up. Please. We didn't have a chance to finish our conversation."
+        },
+        {
+            "character": "May",
+            "line": "I said what I had to say."
+        },
+        {
+            "character": "Coulson",
+            "line": "Melinda..."
+        },
+        {
+            "character": "May",
+            "line": "We have a mission, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good talk, Phil. Good talk."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. The mechs went into a system reset and sent a distress signal out. We traced it to a location in the Appalachian Mountains, and after some satellite imaging, we can confirm that this is Hale's base."
+        },
+        {
+            "character": "May",
+            "line": "It's a decommissioned military bunker, which means it's highly secure and way off the grid."
+        },
+        {
+            "character": "Daisy",
+            "line": "We need to hit them hard and fast, knock out their defenses before they even know we're there."
+        },
+        {
+            "character": "Deke",
+            "line": "Lighthouse rules. Club ‘em from behind, you don't stop swingin' till they stay down. What?"
+        },
+        {
+            "character": "Mack",
+            "line": "You wearing body spray?"
+        },
+        {
+            "character": "Daisy",
+            "line": "May and I go in, we get the Gravitonium, get the queen off the board."
+        },
+        {
+            "character": "Coulson",
+            "line": "Checkmate. When do we leave?"
+        },
+        {
+            "character": "May",
+            "line": "You're not coming."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We just got you back, and I need you to stay here and quarterback. Mack, find Fitz's schematics and start building the artificial-gravity system for Zephyr One."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, please don't tell me we're going back to space."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not until we have to."
+        },
+        {
+            "character": "Deke",
+            "line": "And me... ah, uh... you need me to, uh, back you up, or...?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You literally just got shot. Why are you out of bed?"
+        },
+        {
+            "character": "Deke",
+            "line": "I've handled worse."
+        },
+        {
+            "character": "Daisy",
+            "line": "Um, no. You stay here, help Mack."
+        },
+        {
+            "character": "Deke",
+            "line": "All right, yeah, if that's how you want to play it."
+        },
+        {
+            "character": "Mack",
+            "line": "Awesome."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Z-One's wheels-up in five. Let's go."
+        },
+        {
+            "character": "Deke",
+            "line": "All right, people, you heard her. Let's get to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Getting good at this. You are."
+        },
+        {
+            "character": "Daisy",
+            "line": "I have a feeling Professor Coulson was easy on his students. I should at least lose points for the mutiny on day one."
+        },
+        {
+            "character": "Coulson",
+            "line": "For sure. But I'm throwing you some extra credit for a well-timed rescue. Give ‘em hell."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, sir."
+        }
+    ]
+}

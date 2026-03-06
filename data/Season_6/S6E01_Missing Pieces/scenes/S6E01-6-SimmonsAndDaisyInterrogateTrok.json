@@ -1,0 +1,84 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 6,
+    "scene_name": "SimmonsAndDaisyInterrogateTrok",
+    "description": "Simmons and Daisy increase pressure on Trok to extract information about the fate of Fitz's ship. Their intense tactics force Trok to confess he bought the wreckage for parts, revealing that the other half of the ship is planet-side. The team prepares to investigate further, sensing they’re close to answers but unaware of the mounting complications.",
+    "roles": [
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Your planet has 68% of the gravity we generate on this aircraft. While that makes it easier to lift ore out of the ground, it makes your cells gelatinous, your bones porous. Now, I'm no expert in D'Rillian anatomy... when I cut into your corpse, I will be... but I assume enough time under this pressure and either your brain will hemorrhage or the weight of your organs will collapse your lungs."
+        },
+        {
+            "character": "Trok",
+            "line": "I don't know anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm curious which will come first."
+        },
+        {
+            "character": "Trok",
+            "line": "All right. All right, what do you want?!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Our friend's ship was cut in half."
+        },
+        {
+            "character": "Trok",
+            "line": "I don't know anything about it."
+        },
+        {
+            "character": "Simmons",
+            "line": "The ship should have been off radar, undetectable. The half we did find had a manifest."
+        },
+        {
+            "character": "Daisy",
+            "line": "We've met with every supplier on that manifest."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've been to the O-2 oceans of Trinawa, rusted moons of Pyree, knowing someone must have tracked the ship and given that information to whomever attacked it."
+        },
+        {
+            "character": "Daisy",
+            "line": "And you, sir, have a reputation for selling traceable fuel."
+        },
+        {
+            "character": "Trok",
+            "line": "No, no, I didn't..."
+        },
+        {
+            "character": "Simmons",
+            "line": "So we want to know if you filled his ship with your fuel and then sold the tracking data and to whom."
+        },
+        {
+            "character": "Trok",
+            "line": "I didn't sell traceable fuel. At least not to that ship. It was basically unmanned. I swear! I swear! I'll show you the fuel lines! I saw some fuel left behind in there."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do you mean “you saw them”? What fuel lines?"
+        },
+        {
+            "character": "Trok",
+            "line": "I bought the broken half of that vessel for parts, fair and square. I didn't know anything about any attack."
+        },
+        {
+            "character": "Simmons",
+            "line": "The other half."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's here."
+        }
+    ]
+}

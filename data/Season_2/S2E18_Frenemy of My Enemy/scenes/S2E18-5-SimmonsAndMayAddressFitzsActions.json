@@ -1,0 +1,78 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 5,
+    "scene_name": "SimmonsAndMayAddressFitzsActions",
+    "description": "Simmons is confronted by May, Morse, and Mack about her complicity in Fitz's escape with Fury's real box. The discussion emphasizes the uncertainty and instability within S.H.I.E.L.D. as control over vital resources—like the box—slips away. Simmons staunchly defends her actions, highlighting that her main concern is protecting Skye.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "No, no, no, no. No! I'd just hoped the highly modified hydrofluoric acid might cr..."
+        },
+        {
+            "character": "May",
+            "line": "Stop. I told her the truth."
+        },
+        {
+            "character": "Simmons",
+            "line": "Truth about what, exactly?"
+        },
+        {
+            "character": "May",
+            "line": "Fitz replaced Fury's toolbox with a fake, ran off with the real one, and you've been covering for him since."
+        },
+        {
+            "character": "Morse",
+            "line": "Nobody's happy about it. I understand you're confused, who to trust, where to put your loyalties."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, I am."
+        },
+        {
+            "character": "Morse",
+            "line": "But we've lost Coulson, the box, and Fitz. Eventually, I'm gonna have to tell Gonzales and the rest of the board what happened."
+        },
+        {
+            "character": "May",
+            "line": "Unless we can find Coulson another way. You know Mike Peterson's hardware."
+        },
+        {
+            "character": "Simmons",
+            "line": "You want me to try to tap into his feed?"
+        },
+        {
+            "character": "May",
+            "line": "Will that be a problem?"
+        },
+        {
+            "character": "Simmons",
+            "line": "An opportunity to exonerate Coulson and Fitz? No, it's not a problem. I'll keep you updated."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is crazy. We want to find Skye, yes, okay? But we are making a deal with..."
+        },
+        {
+            "character": "Hunter",
+            "line": "The devil. I'm afraid it's in the job description, mate. Expedient alliances with despicable characters."
+        },
+        {
+            "character": "Fitz",
+            "line": "You'd work with Bobbi?"
+        },
+        {
+            "character": "Hunter",
+            "line": "No, not a chance. And point made. Look, mate, we're infiltrating HYDRA. Our options are limited. Ward is a psychopath, but for now, he's our psychopath, so we use him to stay one step ahead."
+        }
+    ]
+}

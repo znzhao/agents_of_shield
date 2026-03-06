@@ -1,0 +1,41 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 19,
+    "scene_name": "WardManipulatesSkye",
+    "description": "Ward and Skye, now together on the Bus, discuss the need to decrypt the hard drive tied to the team's research—which only Skye can do at certain coordinates. Ward steers the conversation, maintaining his cover while planning to deliver Skye to Garrett, while she plays along, aware of his betrayal.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "It's so beautiful. So, are we off to Portland?"
+        },
+        {
+            "character": "Ward",
+            "line": "Actually, Fitz thinks the 0-8-4 plasma ray we found in Peru might help."
+        },
+        {
+            "character": "Skye",
+            "line": "Didn't we jettison that to the sun?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, but Fitz has the specs on it."
+        },
+        {
+            "character": "Skye",
+            "line": "On the hard drive. Mhm. You need me to decrypt the hard drive."
+        },
+        {
+            "character": "Ward",
+            "line": "The team does. And since it's coupled to specific coordinates, Agent Skye... you're in charge. Where to next?"
+        }
+    ]
+}

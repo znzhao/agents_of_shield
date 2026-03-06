@@ -1,0 +1,43 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "SimmonsExaminesCocoon",
+    "description": "Dr. Simmons, having been secretly loaned out to an unknown government group, is introduced to a rare Terrigenesis cocoon and asked to investigate its occupant. Despite discomfort with the secrecy and lack of information, Simmons is intrigued by the unique case and tries to ascertain the subject's identity and condition, displaying her compassion and skill as she prepares to assist them through transformation.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "Dr. Simmons, we need your help."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that a Terrigenesis cocoon?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Simmons",
+            "line": "In progress? Oh. It's incredibly rare to see the actual metamorphosis. It only lasts a few fleeting moments."
+        },
+        {
+            "character": "Doctor",
+            "line": "Not this one. The subject's been gestating for seven months."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come again? How has he survived? Who is he?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Classified. Agent Simmons, we're not worried about who he was. We want to know what he'll become."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "FitzSimmonsAndIzelPrepareJump",
+    "description": "Inside Izel's ship, Fitz and Simmons debate the risks of attempting a hyper-jump back to Earth. Izel decides to proceed with the jump, despite concerns from the crew. Their longing for home and uncertainty about their chances are clear, while Izel remains focused on her mysterious mission.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "izel"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Boyle",
+            "line": "It's not gonna work. I'm telling you, this bucket of bolts will never survive a hyper-jump."
+        },
+        {
+            "character": "Toad",
+            "line": "Y-You'll... You'll turn us all... all into space dust."
+        },
+        {
+            "character": "Izel",
+            "line": "Fitz, is that true? You served time on this ship."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep. There are risks. He's right. But... this ship is solid. Survived two Karbona solar storms. So, if I had to bet, I'd say the odds are even."
+        },
+        {
+            "character": "Izel",
+            "line": "Good enough. Prepare to jump."
+        },
+        {
+            "character": "Boyle",
+            "line": "What?! Those are terrible odds! You're making a big mistake!"
+        },
+        {
+            "character": "Izel",
+            "line": "Remove yourself from my bridge."
+        },
+        {
+            "character": "Simmons",
+            "line": "The odds aren't very good."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well... they never are, are they? So... we can either roll the dice and hope for the best or... we can spend the rest of our lives on the run, light-years away from home."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well... I'd be happy with you anywhere. But I am sick of space. Get us the hell out of here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Home."
+        }
+    ]
+}

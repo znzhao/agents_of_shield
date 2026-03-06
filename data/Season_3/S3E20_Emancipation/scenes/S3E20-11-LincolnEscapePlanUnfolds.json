@@ -1,0 +1,264 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 11,
+    "scene_name": "LincolnEscapePlanUnfolds",
+    "description": "Daisy instructs Lincoln on the specifics of his breakout using clever improvisation with available materials. As Lincoln follows her guidance, Fitz, Simmons, Mack, and Talbot realize Daisy has infiltrated the system, intensifying their internal countermeasures. Mack heads to intercept Lincoln, but the plot increasingly shifts out of S.H.I.E.L.D.’s control.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "glenn_talbot"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "It's time. Are you ready?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Let's do it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. I'm limited in what I can do, so this is gonna be a team effort. First, we have to get you out of there, but Fitz closed the loopholes after I escaped, so I can't open the door, but we can still MacGyver you out."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I can handle this."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, no, no, no. Stop. I said MacGyver, not “Firestarter.” Zapping it will trigger the alarms. We have to open it while tricking it into thinking it's closed at the same time. Okay, let's see what we have to work with. Okay, you're gonna need, uh, that tape dispenser, a pencil, your food tray, and a piece of that mirror."
+        },
+        {
+            "character": "Talbot",
+            "line": "Do you have any idea how to stop him? I mean, you make him sound invincible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Calm down, General. You'll pull something."
+        },
+        {
+            "character": "Talbot",
+            "line": "“Calm down?” This is an ?end-of-the-world type deal. Don't you tell me to calm down. I'm the one that tells you to calm down. How are you so calm, anyway?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm getting used to this sort of thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, here's what you need to do. You see that laser circuit in the back? You need to interrupt it with the mirror. Don't touch anything else. Okay, hold it there. Now plug in the spool from the tape dispenser. Perfect. Now remove the pencil and grab the food tray. I'll be monitoring you through the surveillance camera. When the door opens, you'll have three minutes to get to the exit point. Get ready."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What's the tray for?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Him. Now grab his comms."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're exploring some options."
+        },
+        {
+            "character": "Talbot",
+            "line": "Options? That's what you've got? You told me this thing could take out an entire planet. I got an option for ya. A preemptive strike. This isn't a job for S.H.I.E.L.D. This is a job for the United States military."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to make that call? Go ahead. But you'll probably lose them at “devil.”"
+        },
+        {
+            "character": "Talbot",
+            "line": "Do you think I'm an idiot? I wouldn't tell them the truth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Even if they could be convinced, by the time we dealt with all their second-guessing and red tape, whatever Hive's planning would already be done."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Am I clear?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln, hold. May's coming."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Where? I don't see her."
+        },
+        {
+            "character": "Daisy",
+            "line": "She's approaching the intersection. Hang tight. I'll distract her. Now, Lincoln. Go now. Okay, you're in the clear. Proceed to the exit point."
+        },
+        {
+            "character": "Fitz",
+            "line": "We shouldn't act without knowing the last piece of the puzzle. Hive and his hole-in-the-wall gang recently stole something from an ATCU facility in Indiana. Till we find out what that is..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Acting without all the information could make things worse. It could be what Hive wants. He was the only thing to survive on that planet, and he survived for a reason."
+        },
+        {
+            "character": "Talbot",
+            "line": "So what do you want me to do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Trust us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, Daisy's back in the system. She circumnavigated the anti-subversion code and gained access to Lincoln."
+        },
+        {
+            "character": "Talbot",
+            "line": "That boy sure sleeps a lot."
+        },
+        {
+            "character": "Fitz",
+            "line": "Unless..."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a pre-recorded loop."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. You're all right. You're all right. Help is on its way."
+        },
+        {
+            "character": "Talbot",
+            "line": "Trust you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, my God. What have I done?"
+        },
+        {
+            "character": "James",
+            "line": "I think you overcooked them, doc."
+        },
+        {
+            "character": "Talbot",
+            "line": "How can I trust you when you can't even keep track of your own Inhumans? That's two of them you've lost."
+        },
+        {
+            "character": "Coulson",
+            "line": "I should've left you in the bar."
+        },
+        {
+            "character": "May",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Hothead is loose, and he's getting help from Swazy Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's not going anywhere. The base is sealed, and Fitz is freezing her out of the lock-down protocol."
+        },
+        {
+            "character": "May",
+            "line": "There's still another way, the way you two came in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nobody knows about that except you, me, and now General Talbot."
+        },
+        {
+            "character": "May",
+            "line": "Are you sure?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go check it out. Make sure it's secure."
+        },
+        {
+            "character": "May",
+            "line": "Come with me."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm sorry, Phil, but I got to loop in the president."
+        },
+        {
+            "character": "Coulson",
+            "line": "Give us some time. We'll find him."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Another dead end. What's going on?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz, he's... he's taken full control of the lock-down."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm trapped in here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Relax. I'll get you out."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah. Hopefully not in a body bag."
+        },
+        {
+            "character": "Fitz",
+            "line": "I need the blue disc in port seven and gold disc in port four."
+        },
+        {
+            "character": "Mack",
+            "line": "Could you use an extra hand?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, well, actually, I could use about seven, but one will do. I need you to put these in bay eight."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry."
+        },
+        {
+            "character": "Mack",
+            "line": "Are we giving her the runaround, or is she giving it to us?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I think it's a bit of both. All right, rebooting in three, two, one. Okay. There's no way he's getting off this base unless he learns to fly."
+        },
+        {
+            "character": "Mack",
+            "line": "Actually, Daisy could fly him out."
+        },
+        {
+            "character": "Simmons",
+            "line": "She's nowhere near here."
+        },
+        {
+            "character": "Mack",
+            "line": "If she hacked into the Quinjet systems and reprogrammed them for autopilot, she could fly him out from anywhere in the world."
+        },
+        {
+            "character": "Fitz",
+            "line": "Spent so much time trying to secure the base, I didn't even think of the Quinjet. She's locked us out."
+        }
+    ]
+}

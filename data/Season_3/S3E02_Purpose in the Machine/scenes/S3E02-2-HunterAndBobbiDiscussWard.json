@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "HunterAndBobbiDiscussWard",
+    "description": "Hunter and Bobbi discuss Hunter’s imminent solo mission to track down Ward. Bobbi, still recovering from injuries, wishes she could join him, but Hunter insists she stay behind for her safety. Coulson and Bobbi then prepare to locate Professor Randolph, an Asgardian expert, believing he might hold answers about the monolith. The conversation blends camaraderie with hints of unresolved feelings and the growing threat of Ward’s reactivated HYDRA presence.",
+    "roles": [
+        "lance_hunter",
+        "bobbi_morse",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "And you know where you're going."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson would be pissed if he knew what you had planned."
+        },
+        {
+            "character": "Hunter",
+            "line": "Part of our agreement. He won't sweat the details, and I won't share them."
+        },
+        {
+            "character": "Morse",
+            "line": "You really think Ward's back with HYDRA? Damn, I wanna go after him with you."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're still on the mend. Plus, you've been undercover with HYDRA, and that face makes an impression. The rest of you makes a bloody statement."
+        },
+        {
+            "character": "Morse",
+            "line": "You like me stuck here in the lab."
+        },
+        {
+            "character": "Hunter",
+            "line": "Too bloody right. You're missing half a lung because you took a bullet Ward intended for me. Nearly bled out in my arms. If you being in the lab means I never have to see something like that again, I'm all for it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Bobbi, you want to fly?"
+        },
+        {
+            "character": "Morse",
+            "line": "Desperately."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Here's our destination."
+        },
+        {
+            "character": "Morse",
+            "line": "Who's Professor Randolph?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This Monolith has been studied for centuries. Well, Randolph's actually been on the planet for those centuries, and he's traveled through space in a portal and he's also an alien. So he's got a lot going for him."
+        },
+        {
+            "character": "Morse",
+            "line": "Don't die out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "And, Hunter, make sure he does."
+        }
+    ]
+}

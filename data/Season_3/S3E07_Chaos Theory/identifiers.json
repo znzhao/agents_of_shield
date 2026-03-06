@@ -1,0 +1,44 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "lincoln",
+        "andrew_garner",
+        "grant_ward",
+        "gideon_malick",
+        "joey_gutierrez"
+    ],
+    "aliases": [
+        "Phil Coulson",
+        "Daisy",
+        "Melinda May",
+        "Jemma Simmons",
+        "Fitz",
+        "Bobbi",
+        "Mack",
+        "Hunter",
+        "Lincoln",
+        "Dr. Garner",
+        "Ward",
+        "Malick",
+        "Joey"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Advanced Threat Containment Unit (ATCU)",
+        "Hydra",
+        "Inhumans"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "The Cocoon (S.H.I.E.L.D. Inhuman training/containment facility)",
+        "English castle (site of the monolith / Distant Star Pathfinder facility)"
+    ]
+}

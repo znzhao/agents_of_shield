@@ -1,0 +1,136 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 2,
+    "scene_name": "BriefingOnTheBus",
+    "description": "On the S.H.I.E.L.D. Bus, Coulson briefs the team about their new mission to evaluate Hannah Hutchins, suspected of developing telekinesis after the explosion. He emphasizes the importance of a sensitive approach, assigning Skye to observe the \"welcome wagon\" process. Fitz and Simmons discuss collecting data at the lab while the team prepares for encounter.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "We have a mission."
+        },
+        {
+            "character": "Ward",
+            "line": "Any specifics?"
+        },
+        {
+            "character": "Ward",
+            "line": "Well, we should follow the same plan as before... take separate routes back, stagger our timing so no one suspects..."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait, a telekinetic? I thought they didn't exist."
+        },
+        {
+            "character": "Coulson",
+            "line": "We never verified one. That's why we're going to Batesville... to conduct an index asset evaluation and intake."
+        },
+        {
+            "character": "Skye",
+            "line": "Does that mean we talk to her and see if she has powers?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Basically."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, that needs a better name... less I.R.S., more... better. Something like the welcome wagon."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want you to pay close attention on this one, Skye. It's an opportunity to learn how to deal with someone with newfound abilities."
+        },
+        {
+            "character": "Skye",
+            "line": "It's not like I've never done this before. I found Mike Peterson before you did."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember how that went? This is a chance to see how it's done when it's done right."
+        },
+        {
+            "character": "Skye",
+            "line": "How many people like this have you encountered?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A handful. There's not that many people on the index."
+        },
+        {
+            "character": "Skye",
+            "line": "They must wig out when they see the S.H.I.E.L.D. trucks roll up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Each case is different. Some people are in complete denial that there's anything unusual about them. It's a delicate process, and from all reports, this sounds like a particularly sensitive situation."
+        },
+        {
+            "character": "Skye",
+            "line": "“Particle accelerator explodes.” Hannah Hutchins, one of the quality-control engineers. Was it her fault?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The town blames her. Four technicians died in that blast... on her watch."
+        },
+        {
+            "character": "Skye",
+            "line": "That's terrible... all those families."
+        },
+        {
+            "character": "Coulson",
+            "line": "Small church community... they're pretty rattled."
+        },
+        {
+            "character": "Skye",
+            "line": "She must be, too. Friends, co-workers dead, and on top of all that, she might have some crazy power she can't understand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or control. We hear Simmons before we see her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, the department of energy's declared the particle acceleration lab too dangerous to enter."
+        },
+        {
+            "character": "Fitz",
+            "line": "But the good news is, we still think we can retrieve the disaster-event data from the instruments."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll determine the cause and see if there's any correlation between telekinesis spontaneously forming and a particle accelerator exploding."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, it does use giant magnets to fire billions of subatomic particles into their anti-particles at the speed of light to create miniature big bangs, so... seems like a good place to start. I read."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll try not to mention big bangs when we talk to Hutchins about the explosion."
+        },
+        {
+            "character": "Coulson",
+            "line": "You'll stay in the car. This is a delicate situation. We don't know what kind of danger this woman poses, so I'll make initial contact with Agents Ward and May."
+        },
+        {
+            "character": "May",
+            "line": "Wheels up in five. Better strap in."
+        },
+        {
+            "character": "Skye",
+            "line": "It's a delicate situation, so you're bringing along warm and fuzzy?"
+        }
+    ]
+}

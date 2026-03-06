@@ -1,0 +1,70 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 14,
+    "scene_name": "ShowdownInThePlayground",
+    "description": "A tense standoff unfolds in the Playground as Sif and Vin-Tak pursue Skye and May. May coaches Skye to control her powers in a containment cell while Fitz, Bobbi, and Mack engineer a counterattack. In the chaos, Bobbi and Fitz manage to neutralize and memory-wipe Vin-Tak, while Sif finally breaches the cell, prompting Skye to KO herself to prevent further destruction.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Okay. Listen to me. Just me. We can do this. You can do this."
+        },
+        {
+            "character": "Skye",
+            "line": "I can't. I can't make it stop."
+        },
+        {
+            "character": "May",
+            "line": "You will control your emotions, just like we practiced."
+        },
+        {
+            "character": "Skye",
+            "line": "I can't make it stop. Everyone is at risk."
+        },
+        {
+            "character": "May",
+            "line": "Just focus. Skye, look at me. Focus. It'll stop."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Agent May, release the girl!"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "You knew you couldn't stop me. So what was the point?"
+        },
+        {
+            "character": "Morse",
+            "line": "Just wanted the attention."
+        },
+        {
+            "character": "Skye",
+            "line": "May, she'll get through."
+        },
+        {
+            "character": "May",
+            "line": "Ignore it. Remember... focus!"
+        },
+        {
+            "character": "Skye",
+            "line": "I can't."
+        },
+        {
+            "character": "May",
+            "line": "Skye."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 9,
+    "scene_name": "ExtractionPlanDeployment",
+    "description": "Fitz and Simmons outfit Skye with a compact gadget to breach the security grid at Quinn's compound. Coulson resolves to personally lead the risky extraction with Ward as the backup. May expresses concern about her limited field involvement and requests to avoid combat, but Coulson insists on leading. The team preps for the operation, signaling its gravity to everyone involved.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Skye will walk in the front door. The only external access point to Quinn's underground facility is from a beach cove. A two-man extraction team could slip in there, but it's not easy. Fitz-Simmons."
+        },
+        {
+            "character": "Fitz",
+            "line": "The perimeter is surrounded by a 20-foot-high neodymium laser grid. Touch it and you're toast."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dead toast. The only way to disable the grid is to crack the system and trigger a reboot. This would give the team three seconds to cross. Of course, Quinn's too smart to allow any wireless access on his property."
+        },
+        {
+            "character": "Skye",
+            "line": "That's where I come in."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, working compact... holds up under x-ray."
+        },
+        {
+            "character": "Fitz",
+            "line": "Desert rose to match your complexion. But... oh, what's this? A readout, okay? Turns green if you're in close enough proximity to a computer to gain wireless access."
+        },
+        {
+            "character": "Simmons",
+            "line": "When it does, you just drop this nearby and walk out. We'll do the rest. Easy as pie."
+        },
+        {
+            "character": "Ward",
+            "line": "Or it will be if you stick to the plan."
+        },
+        {
+            "character": "Skye",
+            "line": "Got it. Plan, green, drop, walk... pie."
+        },
+        {
+            "character": "May",
+            "line": "I don't want to question your orders, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good."
+        },
+        {
+            "character": "May",
+            "line": "But I've already seen far more combat than I bargained for. This two-man extraction team? It's exactly the kind of action I was hoping to avoid."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why you're not on it."
+        },
+        {
+            "character": "May",
+            "line": "Specialist work is different from field work, believe me. When was the last time you..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hall's one of ours, and he's in trouble. I need two men to get him out. Ward makes one. So that's why I'm going in. You forget... I saw plenty of action with the Avengers."
+        },
+        {
+            "character": "May",
+            "line": "And you died."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, team, suit up."
+        },
+        {
+            "character": "Skye",
+            "line": "Thank you."
+        }
+    ]
+}

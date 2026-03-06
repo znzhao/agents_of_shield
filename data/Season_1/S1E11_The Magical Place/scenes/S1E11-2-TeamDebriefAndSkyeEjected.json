@@ -1,0 +1,152 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "TeamDebriefAndSkyeEjected",
+    "description": "On the S.H.I.E.L.D. Bus, Victoria Hand briefs the expanded team about the failed leads and the belief that Mike Peterson is dead. Skye hacks into S.H.I.E.L.D. files to track Centipede’s money, prompting a security breach. Hand, dissatisfied with Skye’s insubordination, orders her off the plane, with May surprisingly backing the decision. Ward and the team say their goodbyes, with Fitz and Simmons slipping Skye a special phone for emergencies.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "victoria_hand",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Impressive. You actually managed to reopen all your stitches."
+        },
+        {
+            "character": "Ward",
+            "line": "Just hope Vanchat can lead us to Centipede."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, the Chitauri metal he was selling is an exact match to what Centipede used for their device."
+        },
+        {
+            "character": "Ward",
+            "line": "We find Centipede, we find Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't ask questions, Agent Kob. Just get me the five-millimeter injector. That's an order."
+        },
+        {
+            "character": "Kob",
+            "line": "Yes sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "Honestly, how many agents do they think they can cram on this plane?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's only gonna get more crowded. We're set to pick up more men when Agent Hand dumps Vanchat off at the fridge."
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, I think it's good they're here. We need fresh eyes. It's been 36 hours since Agent Coulson was taken, and none of us have gotten any rest."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, joy. Agent Hand is giving another briefing."
+        },
+        {
+            "character": "Hand",
+            "line": "The burnt remains recovered at the site are believed to be those of Agent trainee Michael Peterson. Other physical evidence has proven scarce. Nothing relating to Mr. Po, his Centipede associates, or their location has been found."
+        },
+        {
+            "character": "Ward",
+            "line": "Any progress with Vanchat?"
+        },
+        {
+            "character": "Hand",
+            "line": "Nothing actionable, Agent Ward, but I have my best interrogator in there right now. Vanchat will talk, and rest assured, when he does, not a single stone will be left unturned until we take down Centipede."
+        },
+        {
+            "character": "Simmons",
+            "line": "And find Agent Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "And get Coulson back."
+        },
+        {
+            "character": "Hand",
+            "line": "We have a security breach. Someone's hacking the system."
+        },
+        {
+            "character": "Skye",
+            "line": "Just in time. Can you override this?"
+        },
+        {
+            "character": "Hand",
+            "line": "What do you think you're doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "The money trail's our key to finding Coulson. I just need to gain access to Vanchat's financials, and from there, I should be able to trace Centipede's payments and then hack into their account."
+        },
+        {
+            "character": "Hand",
+            "line": "You're the consultant... the one who shot Agent Sitwell."
+        },
+        {
+            "character": "Skye",
+            "line": "Technically, that wasn't me..."
+        },
+        {
+            "character": "Hand",
+            "line": "I want you off this plane immediately."
+        },
+        {
+            "character": "Ward",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. I know I'm not some badass field agent like May or Ward, but this is what I do. You can't just kick me off this mission. Listen, I will do whatever you say. All this protocol crap doesn't matter to me. All that matters to me is Coulson."
+        },
+        {
+            "character": "Hand",
+            "line": "Well, “all this protocol crap” matters to me. You're a distraction, and you're gone."
+        },
+        {
+            "character": "Ward",
+            "line": "Agent Hand, I know Skye's methods are unorthodox, but she's a member of this team. She can help."
+        },
+        {
+            "character": "Hand",
+            "line": "Agent May, your professional opinion... Will this girl be of any use to us on this plane?"
+        },
+        {
+            "character": "Hand",
+            "line": "Increase her restriction level. Confiscate her laptop and phone, then have her delivered to debrief."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll do it. I'm her S.O."
+        },
+        {
+            "character": "Skye",
+            "line": "It's clear that May has an axe to grind with me, but that was way out of line."
+        },
+        {
+            "character": "Ward",
+            "line": "No one knows what's in May's head except May. Don't worry. Coulson will make this right when he gets back."
+        },
+        {
+            "character": "Skye",
+            "line": "I can find him, Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "I believe you. I've seen firsthand what you can do, even without S.H.I.E.L.D. resources."
+        }
+    ]
+}

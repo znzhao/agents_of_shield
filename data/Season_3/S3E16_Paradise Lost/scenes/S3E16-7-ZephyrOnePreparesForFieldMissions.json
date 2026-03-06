@@ -1,0 +1,25 @@
+{
+    "season": 3,
+    "episode": 16,
+    "num": 7,
+    "scene_name": "ZephyrOnePreparesForFieldMissions",
+    "description": "The S.H.I.E.L.D. team on Zephyr One splits up: Coulson, May, Mack, Fitz and Simmons head for the Transia facility, while Daisy and Lincoln are dispatched to meet James, a mercenary and potential Inhuman from Afterlife. The group strategizes on how to confront Giyera and learn more about the ancient Inhuman threat.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Once we begin, there's no turning back. Whatever happens."
+        }
+    ]
+}

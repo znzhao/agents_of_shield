@@ -1,0 +1,60 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 17,
+    "scene_name": "CoulsonTalbotDealAndAftermath",
+    "description": "Coulson delivers the petrified Creel to Talbot and proposes a recurring arrangement: S.H.I.E.L.D. will deliver dangerous assets if Talbot allows them operational leeway. Talbot, skeptical of S.H.I.E.L.D.'s limited resources, refuses the deal and threatens their tenuous relationship. Coulson, undeterred, confidently hints at S.H.I.E.L.D.'s hidden strength, ending the episode on a note of wary confrontation.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Glenn. Can I call you Glenn?"
+        },
+        {
+            "character": "Talbot",
+            "line": "No. Where's Hunter?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Watching “cake boss,” I believe. Sorry. I changed the terms of your deal."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, he kept up his end. You're here. Question is why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I felt bad for kidnapping you, so I brought you a peace offering. Carl Creel."
+        },
+        {
+            "character": "Talbot",
+            "line": "I thought Creel was dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's turned to stone, but he could always do that, so I'm not sure how long it'll hold. I've got him in a cryostasis chamber in the back of the van for 58 more minutes before the juice runs out. I'd get him someplace secure pretty quick. Maybe a little more secure than last time. Just saying."
+        },
+        {
+            "character": "Talbot",
+            "line": "Very generous of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like I told you before, general, we're the good guys. So, how about we make a deal? S.H.I.E.L.D. will keep dropping off presents like this, you keep getting promoted. All we ask for in return is a little breathing room. Sound good?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You... You must have some big brass ones, Coulson. Coming out here by yourself to meet me... face-to-face, no backup. Let's face facts. You and your little band of misfits are hardly S.H.I.E.L.D. Our intel says you don't have enough manpower or artillery to take down a convenience store, so I'm sorry. I'm gonna have to say no to that deal."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. I think we're good on artillery. And in case you get any ideas, general... that's just the tip of the iceberg. Let's get out of here before the iceberg runs out of fuel."
+        }
+    ]
+}

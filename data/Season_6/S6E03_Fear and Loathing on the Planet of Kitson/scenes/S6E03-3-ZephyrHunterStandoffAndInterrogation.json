@@ -1,0 +1,83 @@
+{
+    "season": 6,
+    "episode": 3,
+    "num": 3,
+    "scene_name": "ZephyrHunterStandoffAndInterrogation",
+    "description": "Back on the Zephyr, the team subdues Malachi, who reveals to Simmons and Daisy that Fitz is alive and was supposed to arrive in a redirected ship now heading to Kitson. The crew interrogates Malachi about his 'hunter' status and his reasons for pursuing Fitz, uncovering that Fitz is wanted for tampering with the universe. Their hopes renewed, the team prepares to pursue Fitz to Kitson.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "piper",
+        "davis",
+        "malachi"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malachi",
+            "line": "You and your friends are out of time."
+        },
+        {
+            "character": "Daisy",
+            "line": "Says the guy who is chained to the stairs."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why were you asking the inspector about Fitz?"
+        },
+        {
+            "character": "Malachi",
+            "line": "Leopold Fitz is a wanted man."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wanted for what?"
+        },
+        {
+            "character": "Malachi",
+            "line": "Tampering with the universe."
+        },
+        {
+            "character": "Simmons",
+            "line": "What made you think Fitz would be here? Was it the Cryo-Chamber?"
+        },
+        {
+            "character": "Malachi",
+            "line": "I cannot speak to his purpose, only that Leopold Fitz was scheduled to arrive in the next incoming vessel."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're right. He's alive."
+        },
+        {
+            "character": "Simmons",
+            "line": "And close. The inspector. Maybe he can help us find that ship."
+        },
+        {
+            "character": "Daisy",
+            "line": "On it."
+        },
+        {
+            "character": "Malachi",
+            "line": "Leopold Fitz should not be here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Agreed. He should be with us, back on Earth."
+        },
+        {
+            "character": "Malachi",
+            "line": "Earth is where he died. Over a year ago, if I'm not mistaken."
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you?"
+        },
+        {
+            "character": "Malachi",
+            "line": "A hunter. As I said previously, you and your friends are out of time."
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 12,
+    "scene_name": "QuinjetEscapeAndTwistRevealed",
+    "description": "Lincoln makes his way into a Quinjet as Daisy manages systems remotely, with Mack attempting but failing to physically stop him. The S.H.I.E.L.D. team races against time to block the escape, only to eventually reveal—after Lincoln’s apparent departure—that this was a ruse. Lincoln is still at the Playground, and it was actually Lash sent to Hive’s territory in order to combat him.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "thrilling",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Okay, I'm on it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm in. Are we all clear up there?"
+        },
+        {
+            "character": "Daisy",
+            "line": "There's a problem. I can't access the camera on the upper deck. It may be having some issues."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I made it this far. I'm not stopping now."
+        },
+        {
+            "character": "Daisy",
+            "line": "I won't have eyes up there, Lincoln. You'll be on your own."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Looks clear to me."
+        },
+        {
+            "character": "Mack",
+            "line": "Can't let you leave, Sparks."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Let me go. I got to get to Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "You're on a fool's errand. The only reason she's helping you is so Hive can make you one of them."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Mack, you don't understand. I need to go."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll keep your arms pinned down all day if I have to."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Don't make me do this!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln? Lincoln, are you there?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "You still there?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What happened? I lost you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You didn't lose me. Just a little complication. We're good to go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, get to one of the Quinjets, and I'll do the rest."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I-I don't... It should've worked."
+        },
+        {
+            "character": "Hive",
+            "line": "Remove your restraints."
+        },
+        {
+            "character": "James",
+            "line": "Those are some nicely trained puppies. Bring me Dr. Radcliffe."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Look, th-th-th-th-this is just science. I'm gonna have to look at the data before I can say for sure what really happened here. I know... I know the results are pretty unpleasant, but at least they didn't completely melt this time. That's... That's a significant improvement. I'll redouble my efforts for the beta test."
+        },
+        {
+            "character": "Hive",
+            "line": "That won't be necessary."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Don't kill me. Please. It'll work next time. You have my word. If not, kill me then. I mean, of course, I'll beg again, but..."
+        },
+        {
+            "character": "Hive",
+            "line": "Get up. These will do just fine."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Are you serious? These Primitives are an abomination of science and a very poor reflection of my talents."
+        },
+        {
+            "character": "Hive",
+            "line": "They are not abominations."
+        },
+        {
+            "character": "James",
+            "line": "I've got to go with the Doc on this one. I mean, they're some very ugly muffins."
+        },
+        {
+            "character": "Hive",
+            "line": "They're part of me and the Inhuman race. I want you to make more."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Just one more test. There's bound to be an improvment. More. Absolutely. How many?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "This is QJ-6. Ready for takeoff."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that, QJ-6. I'll see you in a few hours."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Just you and me? No one else?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just us, far away from everyone."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Ohh. I'm thinking maybe I'm not the Inhuman whisperer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You run a tight ship, Coulson."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's on his way."
+        },
+        {
+            "character": "Hive",
+            "line": "Good. I'll be there to greet him when he arrives. I know you feel bad about lying to him, though once he joins us, he'll understand. Come. There's something I want to show you."
+        },
+        {
+            "character": "Daisy",
+            "line": "What happened to them?"
+        },
+        {
+            "character": "Hive",
+            "line": "They're part of us. Our children, really, from our own flesh and blood, and we're gonna make more of them. So we'll need more blood."
+        },
+        {
+            "character": "Daisy",
+            "line": "How much?"
+        },
+        {
+            "character": "Hive",
+            "line": "All of it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Daisy's out of the system."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's good news, because I'm gonna call the president and have that thing shot out of the sky."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm afraid I can't let you make that call."
+        },
+        {
+            "character": "Talbot",
+            "line": "Are you threatening me after you just let him escape?"
+        },
+        {
+            "character": "May",
+            "line": "He didn't escape."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, if he wasn't on that jet that just flew out of here, then who the hell was?"
+        },
+        {
+            "character": "May",
+            "line": "Desperate times, desperate measures."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We knew Daisy was listening and monitoring our every move, so we couldn't tell anyone. She had to believe it was all real."
+        },
+        {
+            "character": "May",
+            "line": "I communicated with him by leaving messages on his food trays."
+        },
+        {
+            "character": "Elena",
+            "line": "Your forgot the message about not hurting his friend."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Sorry, Mack. I didn't have any other option."
+        },
+        {
+            "character": "May",
+            "line": "Mack wasn't supposed to be there."
+        },
+        {
+            "character": "Mack",
+            "line": "Excuse me for doing my job."
+        },
+        {
+            "character": "Lincoln",
+            "line": "The plan depended on Daisy listening to everything so that she'd trust me and believe that I really wanted out."
+        },
+        {
+            "character": "Talbot",
+            "line": "You had me fooled."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Even though I wanted to, I never trusted Daisy, not under Hive's control. I knew that she wouldn't be the one to greet me, no matter what she said."
+        },
+        {
+            "character": "Mack",
+            "line": "But what about the other risks? Lash could kill Daisy. Did you stop to think about that?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's a risk we had to take. But he had the opportunity once before, and he let her go. I don't think he's meant to kill her."
+        },
+        {
+            "character": "Talbot",
+            "line": "Who put him on the Quinjet?"
+        },
+        {
+            "character": "May",
+            "line": "I did while Coulson was keeping you distracted."
+        },
+        {
+            "character": "Talbot",
+            "line": "You knew about this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I run a tight ship."
+        },
+        {
+            "character": "Talbot",
+            "line": "Why do you think this Lash can defeat Hive? And who in tarnation names these things?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Every Inhuman is here for a reason and serves a purpose. I believe Lash's purpose is to kill Hive."
+        }
+    ]
+}

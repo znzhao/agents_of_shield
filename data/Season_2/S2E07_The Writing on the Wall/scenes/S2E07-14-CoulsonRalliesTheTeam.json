@@ -1,0 +1,29 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 14,
+    "scene_name": "CoulsonRalliesTheTeam",
+    "description": "Coulson addresses his agents at The Playground, explaining the importance of their discoveries and rallying them to find the hidden city before HYDRA does. The scene sets up the next arc with renewed determination as Skye examines Bakshi’s cellphone for intel. There's a sense of unity and resolve as the team understands the greater stakes ahead.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "sunil_bakshi"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "To answer the question on everyone's mind, no, I'm not crazy. I know in the past few months, it may have seemed like I was leading you on some fool's errand, chasing after strange carvings and artifacts. At times, I questioned it myself... wondering if I was chasing windmills, trying to solve some unsolvable puzzle. But the pieces are coming together. The puzzle's taking shape. The bad news... HYDRA's trying to solve the same puzzle, and they have more resources. The good news... we now have a piece they don't have. Everything we've been doing, it all leads here. Our job, find it before anyone else."
+        },
+        {
+            "character": "Skye",
+            "line": "All right, Mr. Bakshi, I hope you weren't into selfies, or this could be embarrassing for both of us."
+        },
+        {
+            "character": "Skye",
+            "line": "Hail HYDRA."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 7,
+    "scene_name": "SkyeAndCoulsonDebateSecondChances",
+    "description": "After the intense debate, Skye and Coulson share a personal conversation about forgiveness and the complexities of Amador's situation. Skye opens up about feeling valued for the first time, and despite her anger at being attacked, she trusts Coulson's judgment. Meanwhile, the team notices May has gone missing from her surveillance post.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I just wanted to give you a quick update. She's still at the hotel, so... and that's the update. It's a pretty weird day, huh? It's like we were trapped in a van-shaped pinata."
+        },
+        {
+            "character": "Coulson",
+            "line": "That should never have happened."
+        },
+        {
+            "character": "Skye",
+            "line": "It's okay. It wasn't nearly as terrible as watching mom and dad fight downstairs."
+        },
+        {
+            "character": "Coulson",
+            "line": "That shouldn't have happened, either. You regret coming along?"
+        },
+        {
+            "character": "Skye",
+            "line": "It was pretty impulsive, even for me. I still don't know much about you... Except for you value really old stuff. And you value me. First person to do that in a long time. So I happen to believe you're an excellent judge of character. If you think this woman deserves a second chance, we should give it to her... even though she tried to kill me and I kind of hate her guts."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What happened? Where's May?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, I don't know. She was watching the transmission. Amador must be sleeping."
+        },
+        {
+            "character": "Coulson",
+            "line": "Play it back. There. She got another message. Todorov building. Wait. Stop. Can you get closer on that receipt? Damn it, May. Wake the others."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 13,
+    "scene_name": "MayGetsAugmentedStrengthAndPrepares",
+    "description": "May is further prepped by Fitz for her confrontation with the Patriot, gaining a temporary boost of enhanced strength from Hydra’s science division. Fitz gives her stern instructions as May acknowledges her mission.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "How confident are you about this report?"
+        },
+        {
+            "character": "May",
+            "line": "No other Center reported any unscheduled drops today. It has to be the Patriot."
+        },
+        {
+            "character": "Doctor",
+            "line": "Very well, then. Shh. Shh. Take a few deep breaths. Burns going in, but should wear off. You've got about an hour of augmented strength. Don't waste it."
+        }
+    ]
+}

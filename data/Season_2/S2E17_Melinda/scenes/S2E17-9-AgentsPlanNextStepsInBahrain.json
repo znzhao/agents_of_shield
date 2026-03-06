@@ -1,0 +1,68 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 9,
+    "scene_name": "AgentsPlanNextStepsInBahrain",
+    "description": "Hart and the team coordinate their response as the suspects hole up in a warehouse. Coulson and May try to negotiate, but find O'Brien behaving oddly by simply asking to be left alone, signaling something is very wrong inside. Hart decides to send his tactical team in, while Coulson and May watch anxiously from outside, realizing the situation is rapidly deteriorating.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hart",
+            "line": "The warehouse connects directly to the market. Once they holed up inside, my men cut off both exits, the alley and the market entrance."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a rat's nest in there."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, we I.D.'d Belyakov's friends, local militia street gang, basically. That's there stronghold."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, I'm gonna call Agent O'Brien, see if they'll negotiate. O'Brien, is that you? You okay?"
+        },
+        {
+            "character": "O'Brien",
+            "line": "Leave us alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can you talk? Are they making demands? Put me on with Belyakov."
+        },
+        {
+            "character": "O'Brien",
+            "line": "Just leave us alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Leave us alone?”"
+        },
+        {
+            "character": "May",
+            "line": "Is he trying to warn us away, or..."
+        },
+        {
+            "character": "Hart",
+            "line": "We tried it the nice way. It's time for my team to do its job. Let's move out!"
+        },
+        {
+            "character": "Agent",
+            "line": "Yes sir."
+        },
+        {
+            "character": "May",
+            "line": "I should go in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let them do their thing. Now we find out what kind of monster we're dealing with."
+        }
+    ]
+}

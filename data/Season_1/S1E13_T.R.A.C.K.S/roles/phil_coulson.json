@@ -1,0 +1,72 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 13
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic, resilient S.H.I.E.L.D. agent who balances tactical acumen and empathy while wrestling with deep personal turmoil related to his resurrection. His leadership remains steady though tested by burdensome secrets and emerging threats. Coulson has evolved into a more assertive and protective leader, taking direct command of complex undercover operations and confronting the dangers threatening his team. His growing emotional investment in team members such as Skye and May reveals a shift toward deeper personal bonds and vulnerabilities, reflecting his evolving mentor and protector role. His ability to handle crises with strategic calm and decisiveness is tempered by the emotional toll of risk and loss, demonstrating his complex morality and dedication to his team's safety.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_6",
+      "context": "expressing belief in second chances and redemption",
+      "catch_phrase": "I got one. Seems only fair I extend the same opportunity to others."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_9",
+      "context": "showing protective leadership and response under pressure",
+      "catch_phrase": "If it's really just sex, Ward... you should get more comfortable using the word."
+    }
+  ]
+}

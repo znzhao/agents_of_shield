@@ -1,0 +1,37 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 13,
+    "scene_name": "LashBattlesHiveAndFreesDaisy",
+    "description": "Lash lands at Hive’s base and engages in a fierce fight, resisting Hive’s parasites and ultimately freeing Daisy from Hive’s control by purging her possession. The confrontation ends tragically as James attacks Lash, delivering a fatal blow. Daisy, newly freed, regains her agency and escapes in the Quinjet, heading home. This pivotal sequence resolves Daisy’s arc under Hive’s sway.",
+    "roles": [
+        "skye",
+        "james",
+        "andrew_garner"
+    ],
+    "vibe": "action-packed",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "We're being attacked by... I don't know... some kind of a-a monster. You... You shouldn't. You've lost a lot of blood. I strongly advise against that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where's James?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "He's on a beer run. I suggest we do the same. Or at least the... the running part."
+        },
+        {
+            "character": "Daisy",
+            "line": "Stay away from him."
+        },
+        {
+            "character": "Lash",
+            "line": "Now you're free."
+        }
+    ]
+}

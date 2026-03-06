@@ -1,0 +1,81 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "TeamExploresEnglishCastle",
+    "description": "Coulson, Fitz, Bobbi, and Randolph arrive at the English castle, locating a hidden room designed to hold the monolith and potentially open the portal. As they examine the antiquated machinery and speculations fly about its purpose, the gravity of their task sets in. The group prepares to test the device, while contacting Daisy and Mack to bring the monolith to the castle via the Zephyr One.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "mysterious",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "Well, this room wasn't on the last tour. It's an odd shape for architecture this period. Definitely built after I was here."
+        },
+        {
+            "character": "Morse",
+            "line": ": Reminds me of the bunker under the Louvre."
+        },
+        {
+            "character": "Randolph",
+            "line": "What? There's no bunker under the Louvre. That's a joke, right? You're messing with me. All right, great. Now I'll have to check."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's late 1800s."
+        },
+        {
+            "character": "Coulson",
+            "line": "Still got some life to it."
+        },
+        {
+            "character": "Morse",
+            "line": "I hear water. Could be a stream underground, maybe hydroelectric power."
+        },
+        {
+            "character": "Morse",
+            "line": "This looks a lot like it was made to hold..."
+        },
+        {
+            "character": "Fitz",
+            "line": "The Monolith. This machine was designed to control the portal, to open and close it at will."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you know that, or is that just what you hope it to be?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, there's only one way to find out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, I need you to load something onto Zephyr One and bring it to us."
+        },
+        {
+            "character": "Mack",
+            "line": "What exactly am I bringing, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, you're not gonna like it."
+        },
+        {
+            "character": "Ward",
+            "line": "You never earned a single thing in your life. You're a waste of your family money. So, we're taking everything. Starting with banking passwords."
+        },
+        {
+            "character": "Strucker",
+            "line": "Go screw your..."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not asking. From here on out, you want something, you earn it. Teeth, eyes, fingers, whatever it takes. Get the passwords."
+        }
+    ]
+}

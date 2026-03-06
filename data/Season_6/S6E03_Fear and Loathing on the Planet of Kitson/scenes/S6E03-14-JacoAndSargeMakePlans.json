@@ -1,0 +1,52 @@
+{
+    "season": 6,
+    "episode": 3,
+    "num": 14,
+    "scene_name": "JacoAndSargeMakePlans",
+    "description": "Jaco and Sarge stand together under the stars, briefly contemplating the universe before Sarge signals that their preparations are complete. With ominous intent, they prepare to initiate their mysterious mission, hinting at impending chaos. This scene sets up further conflict for future episodes.",
+    "roles": [
+        "jaco",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Jaco",
+            "line": "They have nice stars here."
+        },
+        {
+            "character": "Sarge",
+            "line": "Seen better, seen worse."
+        },
+        {
+            "character": "Sarge",
+            "line": "Okay. It's ready."
+        },
+        {
+            "character": "Jaco",
+            "line": "How many do you think there are?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Stars? I don't know."
+        },
+        {
+            "character": "Jaco",
+            "line": "Not stars."
+        },
+        {
+            "character": "Sarge",
+            "line": "Guess we're about to find out."
+        },
+        {
+            "character": "Jaco",
+            "line": "Well?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Seen better, seen worse. Let's go make a mess."
+        }
+    ]
+}

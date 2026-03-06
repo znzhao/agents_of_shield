@@ -1,0 +1,93 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 10,
+    "scene_name": "FitzsExperimentAndSkyeLearnsOfSimmons",
+    "description": "Fitz demonstrates his apparatus for testing Inhuman powers, dismissing Skye’s concerns about ethics. May interrupts with news of Coulson’s report about a subversive woman, and Skye realizes Simmons is alive and being sought by Hydra. The realization pushes Skye into action, as she decides to find Simmons and plan an escape.",
+    "roles": [
+        "skye",
+        "leo_fitz",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "Now, with this machine, we can test Inhuman powers without any side effects."
+        },
+        {
+            "character": "Skye",
+            "line": "It seems like it's burning him. There are side effects."
+        },
+        {
+            "character": "Doctor",
+            "line": "Well, yes. I meant, we can determine their powers without permanently triggering Terrigenesis in the subject. We'll change the world."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz, this is wrong. This... this is crimes-against-humanity wrong."
+        },
+        {
+            "character": "Doctor",
+            "line": "These are Inhumans. You've been a great asset, Skye, but unless I ask for your opinion, don't give it. How are things going with Grant Ward?"
+        },
+        {
+            "character": "Skye",
+            "line": "They're good."
+        },
+        {
+            "character": "Doctor",
+            "line": "I noticed your application for co-habitation had been approved."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes."
+        },
+        {
+            "character": "May",
+            "line": "Sir, there's a report you need to see. Subversive activity at a school, a woman with a S.H.I.E.L.D. ID."
+        },
+        {
+            "character": "Doctor",
+            "line": "Really?"
+        },
+        {
+            "character": "May",
+            "line": "The report was called in by a teacher, Phillip Coulson."
+        },
+        {
+            "character": "Doctor",
+            "line": "Who's the girl?"
+        },
+        {
+            "character": "May",
+            "line": "Suspect was in her mid 20s, British."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you get her name? Where was this?"
+        },
+        {
+            "character": "Doctor",
+            "line": "You can go. I want any and all assets in the area on this."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. What's up? We get a call?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, I just have some stuff to do."
+        },
+        {
+            "character": "Ward",
+            "line": "Stuff. Really? Skye, you never leave early. You've been pissed at me all morning. Your attitude at work here sucks. It's like I woke up to a totally different person."
+        },
+        {
+            "character": "Skye",
+            "line": "You know what? You're right. I'm pissed. I tried to get closer to you in our relationship, and you shut me down because you said you needed space. Fine. Take all the space you need, but right now, I need my own."
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 5,
+    "scene_name": "SimmonsAndSkyeCabinCall",
+    "description": "Skye checks in with Simmons via comms from her isolated cabin and talks about her new gloves. Simmons tries to reassure her and Skye tries to adjust to her new circumstances, expressing loneliness and apprehension. The two share a brief, supportive exchange.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "He embedded a scanner into little Lola's engine. It was programmed to find anything with vibranium."
+        },
+        {
+            "character": "May",
+            "line": "That's how Bobbi knew where to look. She has Fury's toolbox."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go. Find her."
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't let them escape."
+        },
+        {
+            "character": "Coulson",
+            "line": "We won't."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'll make my way to the server room and initiate a manual lockdown."
+        },
+        {
+            "character": "May",
+            "line": "They know all of our protocols. We handed Mack the schematics of our base."
+        },
+        {
+            "character": "Coulson",
+            "line": "They don't know everything about this place... not like we do."
+        },
+        {
+            "character": "May",
+            "line": "She said she was working for S.H.I.E.L.D., Phil, the real S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell does that mean?"
+        },
+        {
+            "character": "Morse",
+            "line": "We're running out of time, Mack. I need to find him."
+        },
+        {
+            "character": "Mack",
+            "line": "Conference room is up ahead. If he's not there..."
+        },
+        {
+            "character": "Morse",
+            "line": "Commander Gonzales, wait. We're not Hydra."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I've heard that before."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm Agent Bobbi Morse. We're here under Fury's orders, protocol A-S-T-A-0-6."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Thank God. It's been a bastard of a day."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, our mission is to get you off the ship."
+        },
+        {
+            "character": "Gonzales",
+            "line": "That man there had an ax. Now I have it. Still, left quite a mark."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Agent Morse."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson and May knew something was up. I had to go to plan “B.”"
+        },
+        {
+            "character": "Calderon",
+            "line": "What about Mack?"
+        },
+        {
+            "character": "Morse",
+            "line": "Unclear, but I have the toolbox."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Good work."
+        },
+        {
+            "character": "Morse",
+            "line": "Any word on Hunter?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "We're still trying to track the evac pod. No luck yet."
+        },
+        {
+            "character": "Calderon",
+            "line": "Have you found the girl's location?"
+        },
+        {
+            "character": "Morse",
+            "line": "No, but if Coulson knew something was up, he probably took Skye somewhere far away from here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hello. This is Jemma Simmons. Please leave a message."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, Jemma. It's me. Um, can you call me back? I... I put the gloves on, but, uh, are they supposed to make you feel woozy? Um, maybe that's just a side effect. Also, are they supposed to be this tight? I'm not complaining. I'm just wondering. Anyway, call me back when you can. Okay, bye."
+        }
+    ]
+}

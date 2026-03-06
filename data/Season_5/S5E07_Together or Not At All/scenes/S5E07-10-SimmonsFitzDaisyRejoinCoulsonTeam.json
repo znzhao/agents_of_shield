@@ -1,0 +1,84 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 10,
+    "scene_name": "SimmonsFitzDaisyRejoinCoulsonTeam",
+    "description": "The escapees reunite with Coulson, Mack, and Elena, patching up injuries and catching up quickly. Deke is confronted for his previous allegiances, but the team comes together to figure out their next steps and confirms that May has been taken to the surface. Tensions remain high as they worry about Flint’s absence.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I thought they'd be here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy? How did you escape?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Clumsily. Hey."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Mack",
+            "line": "Turbo! Man, it's good to see you! How the hell you get in the future?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, the long way."
+        },
+        {
+            "character": "Simmons",
+            "line": "He needs medical attention. Story time can wait."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, not when those stories include time travel. This guy? The hell you doing here? And how'd you get out of your cage?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I let myself out, but thanks very much for your concern."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, the gang's all here except May."
+        },
+        {
+            "character": "Coulson",
+            "line": "Except May. She was taken to the surface?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a good thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We need alcohol for his wound."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll see if Flint can find something. Get out of here. Flint, can... Oh, no."
+        }
+    ]
+}

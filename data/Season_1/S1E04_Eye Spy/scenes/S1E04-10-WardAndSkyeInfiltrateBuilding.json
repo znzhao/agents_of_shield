@@ -1,0 +1,122 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 10,
+    "scene_name": "WardAndSkyeInfiltrateBuilding",
+    "description": "Ward, wearing the special glasses to mimic Amador’s perspective, heads into the Todorov building with Skye's cautious remote support. They avoid looking at each other to maintain the ruse for the handler watching. Coulson and Amador discuss her captivity and surgeries, unraveling more clues regarding her handler’s identity.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Ward",
+            "line": "Todorov building. I think it's research, not military."
+        },
+        {
+            "character": "Skye",
+            "line": "Looks like a prison."
+        },
+        {
+            "character": "Ward",
+            "line": "We wireless yet?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yep. Ready to detach. Skye reaches forward to detach his glasses from the wires connecting it to his computer. Ward flinches, big time."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't look at me! They need to think you're her. And, oh, my god, super spy is ticklish."
+        },
+        {
+            "character": "Coulson",
+            "line": "How did you manage to escape?"
+        },
+        {
+            "character": "Amador",
+            "line": "I didn't. Got caught in a crossfire, went down. Woke up in some half-assed triage bay, blind in this eye. Spent the next four years alone in a cage at the bottom of a copper mine."
+        },
+        {
+            "character": "Coulson",
+            "line": "We looked for you. Heard rumors you'd been taken to ShanXi province."
+        },
+        {
+            "character": "Amador",
+            "line": "When a team finally came, I thought it was S.H.I.E.L.D. at first, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who were they?"
+        },
+        {
+            "character": "Amador",
+            "line": "Don't know, even to this day, but they were organized. They took me to a clinic. I had multiple surgeries. Until one day, I could see out of both eyes again. I was so grateful... until I realized what they'd done."
+        },
+        {
+            "character": "Coulson",
+            "line": "Somebody was watching."
+        },
+        {
+            "character": "Amador",
+            "line": "My every move. I had no idea until they sent the first message. Then the assignments started. Mostly, it was “steal this,” “follow him,” “break into there.” I just tried to ignore them. But when I did, I'd get this pain, like an electric migraine."
+        },
+        {
+            "character": "Coulson",
+            "line": "The fail-safe."
+        },
+        {
+            "character": "Amador",
+            "line": "Polite way of putting it. Now, when I think about my years in the cage... I miss it. I wish I could go back, be alone, sleep in peace."
+        },
+        {
+            "character": "Coulsob",
+            "line": "I know you're tired, but I need your help."
+        },
+        {
+            "character": "Amador",
+            "line": "If you want information on the prox card, you're out of luck."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can't go on missions without intel."
+        },
+        {
+            "character": "Amador",
+            "line": "It comes in pieces, a name, an address."
+        },
+        {
+            "character": "Skye",
+            "line": "It would suck to live like this, wondering if someone's watching."
+        },
+        {
+            "character": "Ward",
+            "line": "Testing backscatter."
+        },
+        {
+            "character": "Skye",
+            "line": "Good to go."
+        },
+        {
+            "character": "Ward",
+            "line": "Remember, I can't look at you, much less help you."
+        },
+        {
+            "character": "Skye",
+            "line": "Got it. Don't count on you for help."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll be watching."
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 4,
+    "scene_name": "TessExplainsTheLighthouse",
+    "description": "Tess leads Coulson, May, and Simmons through the Lighthouse, explaining its grim history and the myth of S.H.I.E.L.D. returning from the past. The group witnesses the Exchange, humanity's survival market run under Kree scrutiny. Tess's narration establishes humanity’s dependence on the Kree and the loss of hope among the survivors, deepening the bleak backdrop of their predicament.",
+    "roles": [
+        "tess",
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons"
+    ],
+    "vibe": "melancholic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What happened to the Earth?"
+        },
+        {
+            "character": "Tess",
+            "line": "Good question. Ask anyone, they'll give a different story."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's yours?"
+        },
+        {
+            "character": "Tess",
+            "line": "All we really know is the planet was torn apart, some cataclysmic event. And the Blues showed up, restored order, but destroyed all historical data, files, books. Said it would keep us focused on the future. Now they oversee everything that's left."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is left? What do people do here?"
+        },
+        {
+            "character": "Tess",
+            "line": "We survive."
+        },
+        {
+            "character": "May",
+            "line": "Welcome to the end of the world."
+        },
+        {
+            "character": "Tess",
+            "line": "It's called the Lighthouse. Back when Earth was round, this was an underground survival bunker. This is the Exchange. Need anything, this is where you get it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Virgil mentioned stories about us."
+        },
+        {
+            "character": "Tess",
+            "line": "Stories from when we were kids. Some of the elders swore that a group called S.H.I.E.L.D. would come from the past to help us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can we talk to these elders?"
+        },
+        {
+            "character": "Tess",
+            "line": "That would be nice, but the Blues got rid of anyone who believed in the movement. Fed them to the roaches."
+        },
+        {
+            "character": "Coulson",
+            "line": "Kill the belief."
+        },
+        {
+            "character": "Tess",
+            "line": "And it worked. Only Virgil held out hope, and everybody thought that he was a crackpot."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd like to see where he lived, see if we can find any clues as to what his plan for us was."
+        },
+        {
+            "character": "Tess",
+            "line": "I can take one of you there. Sure."
+        },
+        {
+            "character": "Kree",
+            "line": "Move. Move along! Out, that way!"
+        },
+        {
+            "character": "May",
+            "line": "Hey. Why don't you fight them?"
+        },
+        {
+            "character": "Tess",
+            "line": "We depend on them to survive."
+        },
+        {
+            "character": "May",
+            "line": "That can't be true."
+        },
+        {
+            "character": "Tess",
+            "line": "It's not right, but it's true."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a lot of pressure to carry the fate of humanity on your shoulders."
+        },
+        {
+            "character": "Tess",
+            "line": "It's taught us the value of a life. Everyone has a role to play to keep the Lighthouse from falling apart."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's her role?"
+        },
+        {
+            "character": "Tess",
+            "line": "Sometimes the Kree take humans to their levels to serve. Call it an honor. But when they visit, they don't talk much."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't see many guards. We've got the numbers."
+        },
+        {
+            "character": "Tess",
+            "line": "And they've got the weapons. We're not exactly military-trained."
+        },
+        {
+            "character": "May",
+            "line": "We are. Maybe it's how Virgil thought we could help, to fight."
+        },
+        {
+            "character": "Tess",
+            "line": "Keep it down. Deke was right. You have to blend in. Hear me? Coulson, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Tess",
+            "line": "I'll take you to Virgil's room. You two gonna be good?"
+        },
+        {
+            "character": "May",
+            "line": "We'll get the lay of the land."
+        },
+        {
+            "character": "Tess",
+            "line": "Okay. Keep your head down, do what the others do, you'll be fine."
+        },
+        {
+            "character": "Daisy",
+            "line": "Great."
+        },
+        {
+            "character": "Mack",
+            "line": "You couldn't have told us there was a skylight?"
+        },
+        {
+            "character": "Deke",
+            "line": "What's a skylight?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, boy. It is what it is."
+        },
+        {
+            "character": "Tess",
+            "line": "I just can't picture somewhere so open. How did you make that much air?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We didn't make it. It was just there. You've never been in a place without four walls, have you?"
+        },
+        {
+            "character": "Tess",
+            "line": "Do spacewalks count?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Definitely."
+        },
+        {
+            "character": "Tess",
+            "line": "What about all the dangers, earthquakes, floods, sharknados? Feels safer inside, no?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, hold up. The whole sharknado thing, that's just entertainment."
+        },
+        {
+            "character": "Tess",
+            "line": "Who would put a shark inside a tornado?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They wouldn't. It's fiction. A movie."
+        },
+        {
+            "character": "Tess",
+            "line": "L-Like I said, we have pieces. It... It seems like it was nice."
+        },
+        {
+            "character": "Coulson",
+            "line": "You would've liked it."
+        },
+        {
+            "character": "Grill",
+            "line": "Quit howling!"
+        },
+        {
+            "character": "Holt",
+            "line": "I did the grind. I should get my share!"
+        },
+        {
+            "character": "Grill",
+            "line": "You were docked for insubordination. Now piss off. Tess! Trawler went out, but I didn't get a drop. You hauling for somebody else?"
+        },
+        {
+            "character": "Tess",
+            "line": "No, Grill. We were training a new pilot. Virgil's dead."
+        },
+        {
+            "character": "Grill",
+            "line": "Really? Damn. You the one filling his seat?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I'm just passing through."
+        },
+        {
+            "character": "Grill",
+            "line": "That's a shame about Virgil. I didn't trust that head case, but I liked him. Well, vacancy or no, next time, you owe double. Tess! What did I just say?"
+        },
+        {
+            "character": "Tess",
+            "line": "Double. Got it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Avuncular fellow."
+        },
+        {
+            "character": "Tess",
+            "line": "Just like anyone else. Makes trouble if you make trouble."
+        },
+        {
+            "character": "Mack",
+            "line": "We got to come up with a system, ‘cause I'm not doing this every time we take out a Kree!"
+        },
+        {
+            "character": "Deke",
+            "line": "The system is, “No more dead Kree!” We're two past maximum! Hopefully, the bodies are still warm enough for the roaches to take ‘em. Here, right here. That's the door."
+        },
+        {
+            "character": "Elena",
+            "line": "Daisy, the door."
+        },
+        {
+            "character": "Deke",
+            "line": "Daisy? Pretty name. Like the flower?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Does that line work in the future?"
+        },
+        {
+            "character": "Deke",
+            "line": "I guess not."
+        }
+    ]
+}

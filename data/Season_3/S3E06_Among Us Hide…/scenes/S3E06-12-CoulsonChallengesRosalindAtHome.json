@@ -1,0 +1,75 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 12,
+    "scene_name": "CoulsonChallengesRosalindAtHome",
+    "description": "Coulson and Rosalind have a tense discussion in her home, exchanging accusations about the break-in being a setup. Their conversation delves into motives, trust, and the politics of their organizations, ultimately leading Rosalind to relent and agree to show Coulson the ATCU facility.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "Cops finished up. Had my driver pick up some burgers for us. Figured you could use some dinner. DJ's from around the corner?"
+        },
+        {
+            "character": "Coulson",
+            "line": "So, your computer's still here. Couple of TVs, too. Some big-time art pieces, I noticed."
+        },
+        {
+            "character": "Price",
+            "line": "Hardly big-time. Nice, maybe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Unusual for thieves to break in and not take anything."
+        },
+        {
+            "character": "Price",
+            "line": "Well, lucky me. You got a point?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. If you were looking to earn some sympathy from me, soften me up, say, a staged break-in might be one way to do it."
+        },
+        {
+            "character": "Price",
+            "line": "Interesting. Also interesting, my home had a break-in for the first time ever on the exact day you knew I'd be out."
+        },
+        {
+            "character": "Coculson",
+            "line": "That's a serious accusation."
+        },
+        {
+            "character": "Price",
+            "line": "You just accused me of staging a break-in, which I did why, exactly?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe I won't like what I see at the ATCU facility, so you're trying to make me like you. Working me ever since the thunderbird. Humanizing yourself so I'll take it better."
+        },
+        {
+            "character": "Price",
+            "line": "Wow. I am quite the mad genius, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Is all this stuff really yours? I got to admit, the bat, that was a nice touch. Triple crown winners, autographs from Mickey Mantle, Ted Williams, Frank Robinson, Carl Yastrzemski? Most people just looking at that wouldn't know that it's worth over 7 grand, but I do."
+        },
+        {
+            "character": "Price",
+            "line": "Okay, the bat is not..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And burgers from my favorite place, DJ's. What possible reason would the head of the ATCU have for keeping me here with that?"
+        },
+        {
+            "character": "Price",
+            "line": "You're right. No reason at all. You want to go see the facility? Fine. Let's go see the facility."
+        }
+    ]
+}

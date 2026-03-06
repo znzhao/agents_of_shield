@@ -1,0 +1,63 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 13,
+    "scene_name": "AftermathOnTheBus",
+    "description": "Back on the Bus, Coulson sternly scolds Simmons for her risk but commends her bravery, and Ward admits his respect. The team shares a lighter moment, with Skye offering Simmons a warm hug. Relief and subtle changes in camaraderie are felt after the near-loss.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Don't get me wrong! I'm happy you're both alive, truly. And I realize you were trying to save the team, but what you did today? That was not your call. Just getting you out of the water... do you have any idea what a pain it is dealing with the Moroccan office? Don't you ever pull a stunt like that again! We'd hate to lose you, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you, sir."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, does that mean we're to leave now?"
+        },
+        {
+            "character": "Ward",
+            "line": "So, what did you think of your first time skydiving?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, I'd rather not think about it anymore."
+        },
+        {
+            "character": "Ward",
+            "line": "I thought what you did was incredibly brave."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Well, I-I suppose now's as good a time as any to tell you that, um... I may have misled you earlier. You see, when I gave you back the night-night pistol, I lied... it's still an ounce off."
+        },
+        {
+            "character": "Ward",
+            "line": "I know."
+        },
+        {
+            "character": "Simmons",
+            "line": "You do?"
+        },
+        {
+            "character": "Ward",
+            "line": "Of course. After all... I'm Agent Grant Ward. I just jumped out of a plane without a parachute on and saved your life!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Actually, that's not quite it. It's a bit more nasally than that. Oh. Hello, Skye. Ohh!"
+        }
+    ]
+}

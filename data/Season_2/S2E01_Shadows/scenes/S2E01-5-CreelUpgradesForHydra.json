@@ -1,0 +1,104 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "CreelUpgradesForHydra",
+    "description": "Carl Creel meets with Sunil Bakshi, receives his reward for completing his assignment, and absorbs the rare gemstone into his skin, demonstrating his powers. Bakshi alludes to another upcoming task for Creel as Hydra manipulates events from the shadows.",
+    "roles": [
+        "carl_creel",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Hail Hydra."
+        },
+        {
+            "character": "Creel",
+            "line": "Yeah."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Is the package secure?"
+        },
+        {
+            "character": "Creel",
+            "line": "Uploading now."
+        },
+        {
+            "character": "Bakshi",
+            "line": "He expected a positive result and sent a gift along as a reward... for this assignment and the next."
+        },
+        {
+            "character": "Creel",
+            "line": "A diamond."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Musgravite, from the caves of Madagascar, one of the rarest gemstones in the world. He believes you'll find its structure quite pleasurable. Was he right?"
+        },
+        {
+            "character": "Creel",
+            "line": "He's always right."
+        },
+        {
+            "character": "Hartley",
+            "line": "Whatever. It's better than that crap you cooked up in Budapest."
+        },
+        {
+            "character": "Idaho",
+            "line": "I didn't have much to work with. It was farm to table."
+        },
+        {
+            "character": "Hunter",
+            "line": "It broke my tooth."
+        },
+        {
+            "character": "Idaho",
+            "line": "That's ‘cause you're English."
+        },
+        {
+            "character": "May",
+            "line": "Hartley, Hunter, Idaho."
+        },
+        {
+            "character": "Hartley",
+            "line": "What's the word?"
+        },
+        {
+            "character": "May",
+            "line": "In his office."
+        },
+        {
+            "character": "Idaho",
+            "line": "The director requests an audience?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, the man doesn't do requests. And, listen, when we get in there, no matter what you do, don't look him in the eye."
+        },
+        {
+            "character": "Idaho",
+            "line": "Really?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Nah, he's all right."
+        },
+        {
+            "character": "Hartley",
+            "line": "But you should both focus on not saying anything overly stupid."
+        },
+        {
+            "character": "Idaho",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm not making any promises."
+        }
+    ]
+}

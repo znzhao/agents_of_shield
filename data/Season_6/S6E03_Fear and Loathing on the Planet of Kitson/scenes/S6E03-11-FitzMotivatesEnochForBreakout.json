@@ -1,0 +1,20 @@
+{
+    "season": 6,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "FitzMotivatesEnochForBreakout",
+    "description": "In their cell, Enoch wallows in self-pity after being decommissioned by other Chronicoms, believing he no longer has purpose. Fitz urges Enoch to help him create a spark using the sulfur-rich blood of a dead Crepetolian to blow the cell door open, convincing Enoch of his worth and their friendship. The two manage to ignite the blood as a distraction for their escape, reigniting their camaraderie.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "emotional",
+    "location": "Kitson (alien casino planet / House of Games)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Shut down. Which can only mean I am decommissioned. I am useless now. I have soiled the integrity of Chronicoms. The name Enoch will be an unspeakable sound."
+        }
+    ]
+}

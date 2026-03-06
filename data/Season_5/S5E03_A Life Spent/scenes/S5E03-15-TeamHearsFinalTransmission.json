@@ -1,0 +1,67 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 15,
+    "scene_name": "TeamHearsFinalTransmission",
+    "description": "With the immediate crisis abated, the team recovers and deciphers the transmission, realizing someone on Earth's surface knows about them and may hold answers about why they were brought to the future. Tess warns the others that nothing survives on the surface, underscoring the peril and mystery of their predicament as they search for hope.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "tess"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "All right, Phil. Enough sight-seeing. Get back to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who needs some sleep? I'll get the next shift."
+        },
+        {
+            "character": "Elena",
+            "line": "Nice try. You slept less than all of us."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we got to get back to salvage, anyway, so let's hope this does the trick."
+        },
+        {
+            "character": "Tess",
+            "line": "It's got to be remnants. Old transmissions in a gravitational feedback loop."
+        },
+        {
+            "character": "May",
+            "line": "I'm telling you, it's from the surface."
+        },
+        {
+            "character": "Tess",
+            "line": "That's impossible. Nothing can survive on the surface."
+        },
+        {
+            "character": "Man",
+            "line": "Virgil, come in. Do you read? We haven't heard from you in three days. Please respond, Virgil. Have you secured the delegation?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's talking about us. We're the delegation. Whoever that is knows we're here, knows why we're here."
+        },
+        {
+            "character": "Elena",
+            "line": "So there's someone out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to find them. We need to find a way to get up there."
+        },
+        {
+            "character": "Tess",
+            "line": "No. You're not listening. Nothing can survive on the surface. That's where they send people to die."
+        }
+    ]
+}

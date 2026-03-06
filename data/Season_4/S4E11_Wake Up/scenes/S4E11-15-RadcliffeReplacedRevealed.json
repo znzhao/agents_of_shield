@@ -1,0 +1,35 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 15,
+    "scene_name": "RadcliffeReplacedRevealed",
+    "description": "Radcliffe is shown as having anticipated his capture, revealing to Senator Nadeer that he has replaced himself with an LMD and is now in league with her shadowy associates. The scene establishes that the real Radcliffe is moving deeper into alliance with S.H.I.E.L.D.'s adversaries, raising the stakes for future episodes.",
+    "roles": [
+        "holden_radcliffe"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I knew this was coming. I knew it the moment AIDA failed to get the Darkhold I wasn't safe. So I replaced myself."
+        },
+        {
+            "character": "Nadeer",
+            "line": "And that's when you first called me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Seemed prudent, given how exposed I'd become. I said I needed your protection. Now you can see why."
+        },
+        {
+            "character": "Nadeer",
+            "line": "But I won't be the one protecting you. You'll have to meet the Superior."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Fine. Whatever it takes."
+        }
+    ]
+}

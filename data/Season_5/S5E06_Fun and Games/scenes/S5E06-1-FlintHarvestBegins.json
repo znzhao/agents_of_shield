@@ -1,0 +1,95 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 1,
+    "scene_name": "FlintHarvestBegins",
+    "description": "Flint attempts to trade for supplies, but encounters Grill, and the Kree begin rounding up children for the Terrigenesis ceremony. Meanwhile, Coulson, Elena, and Mack discuss Kasius' plan to sell Inhumans and realize the guests are arriving for Daisy. Tess warns that the Kree are taking the children for the harvest.",
+    "roles": [
+        "flint",
+        "phil_coulson",
+        "elena_rodriguez",
+        "melinda_may",
+        "kasius",
+        "jemma_simmons",
+        "leo_fitz",
+        "tess",
+        "enoch"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Flint",
+            "line": "Hey, Gretch. Got your tin right here."
+        },
+        {
+            "character": "Gretch",
+            "line": "I'll give you a token."
+        },
+        {
+            "character": "Flint",
+            "line": "A token? I was hoping for at least three."
+        },
+        {
+            "character": "Gretch",
+            "line": "Token's all I can spare."
+        },
+        {
+            "character": "Flint",
+            "line": "Only for my favorite customer. Hey, Citrus, look, I don't have enough today, but maybe tomorrow, you can..."
+        },
+        {
+            "character": "Grill",
+            "line": "Sorry, junior. No gimmes today."
+        },
+        {
+            "character": "Flint",
+            "line": "Look, I don't need charity, all right? Only your best offer."
+        },
+        {
+            "character": "Grill",
+            "line": "Hmm."
+        },
+        {
+            "character": "Kree",
+            "line": "We've been looking for you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Kasius is breeding Inhumans to sell. Guy's got his own Cronenberg science division and everything."
+        },
+        {
+            "character": "Elena",
+            "line": "This would explain all the ships arriving."
+        },
+        {
+            "character": "Mack",
+            "line": "You think they're here for Daisy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Afraid so."
+        },
+        {
+            "character": "Elena",
+            "line": "And still no sign of May?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Normally, she could hold her own against the Kree. But her leg, it's in bad shape."
+        },
+        {
+            "character": "Tess",
+            "line": "There you are."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tess, what is it?"
+        },
+        {
+            "character": "Tess",
+            "line": "It's the Blues. They've come to harvest the children."
+        }
+    ]
+}

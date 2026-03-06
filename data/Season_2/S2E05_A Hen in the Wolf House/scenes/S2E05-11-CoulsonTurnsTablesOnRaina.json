@@ -1,0 +1,155 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 11,
+    "scene_name": "CoulsonTurnsTablesOnRaina",
+    "description": "Back at the restaurant, Raina pleads with Coulson for help against Whitehall after losing her leverage. Hunter and May assist as Coulson injects Raina with a tracker, intending to use her as bait against Whitehall, and demands the location of Skye’s father. Raina reluctantly complies and is sent away.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "lance_hunter",
+        "raina"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Bobbi Morse. Coulson sent me in to infiltrate HYDRA and keep an eye on you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you did a spot-on job, really. You were quite intimidating."
+        },
+        {
+            "character": "Morse",
+            "line": "Sorry about that. I had to assess other security issues that were in play."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, like every HYDRA agent receiving an e-mail blowing my cover?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah, that was a curve ball."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm afraid there's no way I'm walking out that front door."
+        },
+        {
+            "character": "Morse",
+            "line": "Okay, don't worry. All we have to do is get to the roof. There's already an extraction team there waiting. Okay, just wait here. It's all part of the plan. All right?"
+        },
+        {
+            "character": "Morse",
+            "line": "We've been compromised. I need you to abandon your post and follow protocol 6-8-5."
+        },
+        {
+            "character": "Man",
+            "line": "It's her."
+        },
+        {
+            "character": "Morse",
+            "line": "I told you there was a plan."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. I'm sorry, but..."
+        },
+        {
+            "character": "Morse",
+            "line": "Okay, go get to the roof. Go."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where are they? We're trapped."
+        },
+        {
+            "character": "Morse",
+            "line": "Southwest corner! Repeat, Southwest corner! Get down!"
+        },
+        {
+            "character": "Morse",
+            "line": "Run!"
+        },
+        {
+            "character": "Simmons",
+            "line": "There's no one there!"
+        },
+        {
+            "character": "Triplett",
+            "line": "Welcome back, Agent Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Trip, it's so good to see you. You certainly know how to make a first impression, Agent Morse."
+        },
+        {
+            "character": "Morse",
+            "line": "Please, it's just Bobbi."
+        },
+        {
+            "character": "Simmons",
+            "line": "Forgive me for asking, but if you were able to infiltrate HYDRA, why even bother having me go in?"
+        },
+        {
+            "character": "Morse",
+            "line": "My cover gave me access to HYDRA security, but none of its high-level projects."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then I'm afraid I came up empty-handed."
+        },
+        {
+            "character": "Morse",
+            "line": "Not entirely."
+        },
+        {
+            "character": "Simmons",
+            "line": "My hard drive."
+        },
+        {
+            "character": "Morse",
+            "line": "I took it after our conversation in the bathroom. Seemed like it might provide some useful intel."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. I like you."
+        },
+        {
+            "character": "Triplett",
+            "line": "Cargo's on board, and we've cleared HYDRA airspace."
+        },
+        {
+            "character": "Man",
+            "line": "Copy that, SHIELD-218."
+        },
+        {
+            "character": "Triplett",
+            "line": "Hey, you."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey."
+        },
+        {
+            "character": "Man",
+            "line": "Course is set. Proceed back to base."
+        },
+        {
+            "character": "Hunter",
+            "line": "You ask me, Coulson let you off easy."
+        },
+        {
+            "character": "Raina",
+            "line": "I didn't ask."
+        },
+        {
+            "character": "Hunter",
+            "line": "Good luck out there, love."
+        }
+    ]
+}

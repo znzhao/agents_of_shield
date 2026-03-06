@@ -1,0 +1,143 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 9,
+    "scene_name": "DanielsAttacksAudrey",
+    "description": "In Portland, Simmons and Triplett rescue Audrey Nathan, pretending to be CIA operatives, after Daniels stalks her. Coulson and Fitz intervene and use engineered devices to repel Daniels with pure light. Daniels confronts Coulson and blames S.H.I.E.L.D. for strengthening him before he escapes after blasting the agents with dark energy.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "marcus_daniels",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Audrey Nathan!"
+        },
+        {
+            "character": "Nathan",
+            "line": "W-what?! There... there... there's a man after me!"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, we know. We're with the CIA. Get in!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Daniels, we don't want to hurt you. We need to take you in, for your safety and the safety of others."
+        },
+        {
+            "character": "Daniels",
+            "line": "It was you! You took me there! They did things to me there!"
+        },
+        {
+            "character": "Coulson",
+            "line": "They were trying to contain you."
+        },
+        {
+            "character": "Daniels",
+            "line": "No! They were trying to make me stronger. And they did."
+        },
+        {
+            "character": "Coulson",
+            "line": "Here's where we'd normally call for reinforcements."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where'd he go?"
+        },
+        {
+            "character": "Skye",
+            "line": "Here's something... Police report out of Morocco, attempted murder. The victim says the guy appeared out of nowhere, disappeared into thin air."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Yeah, you just described every mugging ever."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Aren't you clever?"
+        },
+        {
+            "character": "Skye",
+            "line": "Aren't you sneaky? Using these to keep watch on all of us."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "We have been killing ourselves trying to guess where these guys went. But what if we could see it, get visuals on where the prisoners went after leaving the Fridge?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "That's a good idea, but, uh, right now S.H.I.E.L.D. sat surveillance is dark."
+        },
+        {
+            "character": "Skye",
+            "line": "Ours aren't the only ones up there."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Well, the only other satellites in the vicinity that could have... The NSA. You want to hack the NSA? That's a bad idea, Skye. That's a terrible idea. The NSA's already got S.H.I.E.L.D. on its watch list. Why poke the bear... the big, scary, waterboarding bear?"
+        },
+        {
+            "character": "Skye",
+            "line": "Ohh! I thought you were a comms agent, not agent of playing video games while hiding in a bunker."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "You can't goad me into..."
+        },
+        {
+            "character": "Skye",
+            "line": "Can you help me convince Steve Rogers here to suit up, grab his shield, head into battle?"
+        },
+        {
+            "character": "Ward",
+            "line": "Okay? Who's he supposed to battle?"
+        },
+        {
+            "character": "Skye",
+            "line": "If we hack NSA satellites, we can get footage from the Fridge breakout, see who was there, where they went."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, she's right. It's worth trying. You know, I can't hack the NSA, but maybe I can upload the hard drive you gave me, get the specs on the weapons they might be carrying."
+        },
+        {
+            "character": "Skye",
+            "line": "Absolutely. We should. But we can't. The encryption is location-based. We'll have to take a field trip at some point to decrypt it."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Okay! All right. Color me impressed. Now impress me more. Get me that footage. These are the keys to the comm/sat room. The mainframe is in there. Start the hack but then send the feed to these monitors. Let's live dangerously."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah!"
+        },
+        {
+            "character": "Ward",
+            "line": "How long before you get visuals?"
+        },
+        {
+            "character": "Skye",
+            "line": "Uh... NSA satellites should be tough. Give me an hour."
+        },
+        {
+            "character": "Ward",
+            "line": "Great."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "This is exciting. Let's see if being sneaky pays off."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "TheTeamReflectsAndMovesForward",
+    "description": "Coulson and May share a quiet moment together, reflecting on the harrowing events and reaffirming their camaraderie. The team is united again, with Daisy's return to S.H.I.E.L.D. official. There's a sense of relief, lingering questions about Robbie's fate, and preparation for the threats still to come. The tone is hopeful and intimate as they look ahead, bonded by their trials and victories.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Once we crack that bottle, it's open, no going back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fine by me. There's nothing I'd rather be doing, no place I'd rather be. You?"
+        },
+        {
+            "character": "May",
+            "line": "I'm right where I belong."
+        }
+    ]
+}

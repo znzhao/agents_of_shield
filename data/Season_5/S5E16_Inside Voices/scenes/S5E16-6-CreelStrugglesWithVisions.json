@@ -1,0 +1,56 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 6,
+    "scene_name": "CreelStrugglesWithVisions",
+    "description": "Creel, troubled by the gravitonium’s influence and haunted by voices, questions his place and General Hale’s intentions. Hale subtly pressures Creel about his identity and the next step, pushing him closer to a breaking point.",
+    "roles": [
+        "carl_creel",
+        "hale"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hall",
+            "line": "It's far too powerful for you, for him."
+        },
+        {
+            "character": "Hale",
+            "line": "Mr. Creel. How are you feeling?"
+        },
+        {
+            "character": "Creel",
+            "line": "It won't leave my head. Whatever's in there, I can't control it."
+        },
+        {
+            "character": "Hale",
+            "line": "I think this is more about what's happening inside you."
+        },
+        {
+            "character": "Creel",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Hale",
+            "line": "You and I are a creation of the old HYDRA. That was destroyed. When the thing we identify with most falls apart, we lose our footing. We don't know what our next step is."
+        },
+        {
+            "character": "Creel",
+            "line": "I didn't choose to be created by them."
+        },
+        {
+            "character": "Hale",
+            "line": "But you get to choose now."
+        },
+        {
+            "character": "Creel",
+            "line": "That's not what this feels like. That's what you want."
+        },
+        {
+            "character": "Hale",
+            "line": "We're going to conduct another test soon. Whether you take that next step is up to you."
+        }
+    ]
+}

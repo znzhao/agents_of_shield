@@ -1,0 +1,21 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 6,
+    "scene_name": "FitzSimmonsDekeAnalyzePrincipia",
+    "description": "Fitz and Simmons analyze data about the ship's disappearance and struggle to find new search strategies. Deke, despite some friction with Fitz, ends up inspiring a new avenue of thought after a brief spat. The newlyweds have a brief moment of marital levity amid the scientific stress, then Deke initiates a key burst of insight when talking to Simmons.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "lighthearted",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We're looking in an area that they've already searched. There's nothing there. I expanded the search range 100 miles in every direction from the coordinates at which it last made contact. Bathymetric maps don't show anything. Sonar doesn't pick up any deviations. So, maybe they were hijacked by pirates."
+        }
+    ]
+}

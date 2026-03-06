@@ -1,0 +1,75 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "FitzSimmonsInterrogationInCastle",
+    "description": "Fitz and Simmons are split up as prisoners in HYDRA's English castle facility. Malick presses Simmons for portal secrets; Ward tries to break Fitz. Giyera uses his power to torture Simmons, while Ward torments Fitz emotionally, threatening Simmons' safety until Fitz gives up information.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "gideon_malick",
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Get them up. You know, my father used to say, “never send a boy to do a man's job,” but it honestly never occurred to me that I should try sending a young woman. Tell me, Ms. Simmons, when you went through, did you see it? You didn't tell me she was so feral."
+        },
+        {
+            "character": "Ward",
+            "line": "It's a new development."
+        },
+        {
+            "character": "Malick",
+            "line": "The secrets you must have hiding in that pretty little head of yours, just waiting to be shared."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, never gonna help you put another bloody portal."
+        },
+        {
+            "character": "Malick",
+            "line": "Nobody's asking you to. See, Hydra's been opening one portal or another for centuries. And all it takes is a few stones and a building with just the right vibrational frequency."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's all this about, then?"
+        },
+        {
+            "character": "Malick",
+            "line": "The other thing."
+        },
+        {
+            "character": "Simmons",
+            "line": "They don't know how to get back."
+        },
+        {
+            "character": "Malick",
+            "line": "You really are a sharp cookie. Maybe now you're ready to reveal the secret."
+        },
+        {
+            "character": "Simmons",
+            "line": "Come a little closer and find out."
+        },
+        {
+            "character": "Malick",
+            "line": "What about you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Piss off."
+        },
+        {
+            "character": "Malick",
+            "line": "Any suggestions?"
+        },
+        {
+            "character": "Ward",
+            "line": "Split them up."
+        }
+    ]
+}

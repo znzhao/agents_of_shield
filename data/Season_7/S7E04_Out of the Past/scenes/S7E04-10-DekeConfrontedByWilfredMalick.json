@@ -1,0 +1,48 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 10,
+    "scene_name": "DekeConfrontedByWilfredMalick",
+    "description": "Deke regains consciousness after his abduction and is interrogated by Wilfred Malick, who does not recognize him at first. Deke bluffs his way through, referencing their shared history from 1931. Malick ultimately decides to spare Deke’s life out of gratitude for the help in his past, while also killing an underling for failure in the assignment.",
+    "roles": [
+        "deke_shaw",
+        "wilfred_malick"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It had been two decades, so Malick didn't recognize Deke. Maybe that would help Deke stay alive."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't look like a scientist because I'm a salesman. The door at that house was open, I went in, I-I... Next thing I know, I woke up here with a screaming headache."
+        },
+        {
+            "character": "Freddy",
+            "line": "Where's the gadget?"
+        },
+        {
+            "character": "Deke",
+            "line": "Unless you're talking about toasters, which is what I sell, I couldn't tell ya. I-I'm telling you, you got the wrong guy."
+        },
+        {
+            "character": "Man",
+            "line": "You said to grab the guy and the case. There wasn't no one else there."
+        },
+        {
+            "character": "Freddy",
+            "line": "Well, it sounds like you didn't look hard enough."
+        },
+        {
+            "character": "Deke",
+            "line": "Listen, fellas, there's no hard feelings. I-I wish I could help, but it...it seems like your man here screwed up pretty bad, which is surprising considering the square jaw, broad shoulders, lack of any... smile... you wouldn't think he'd be so incompetent. Looks like the boss is a little unhappy with you, but that's okay. I'm s..."
+        },
+        {
+            "character": "Freddy",
+            "line": "Thanks for helping me root out a bum employee. Nobody's gonna miss a third-rate hoodlum. Just like nobody's gonna miss a toaster salesman."
+        }
+    ]
+}

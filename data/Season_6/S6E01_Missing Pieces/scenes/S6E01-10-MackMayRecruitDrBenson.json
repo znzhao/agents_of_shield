@@ -1,0 +1,157 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "MackMayRecruitDrBenson",
+    "description": "May persuades Mack to recruit Dr. Marcus Benson as S.H.I.E.L.D.’s new scientific advisor. Benson is resistant given his own issues with grief and alcohol, but Mack and May highlight S.H.I.E.L.D.'s need for brains as well as muscle. The conversation underlines both the urgency and the emotional cost of rebuilding after significant losses.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "marcus_benson"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Evening, Mack."
+        },
+        {
+            "character": "May",
+            "line": "Thought I'd find you here."
+        },
+        {
+            "character": "Mack",
+            "line": "Safe bet most nights."
+        },
+        {
+            "character": "May",
+            "line": "Not a bad ritual."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, taking advice from Coulson's files. He said, “Find a way to keep your feet on the ground, and stay in touch with the people we fight for.”"
+        },
+        {
+            "character": "May",
+            "line": "So this is your grounding wire?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's one of three. Boss Man in the morning, bartender at night, Baptist church on Sundays."
+        },
+        {
+            "character": "May",
+            "line": "Don't say you're here on S.H.I.E.L.D. business. You just like the beers they have on tap."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I'm glad you joined me for one."
+        },
+        {
+            "character": "May",
+            "line": "Actually, I'm here on S.H.I.E.L.D. business. I'm close on a Department Head."
+        },
+        {
+            "character": "Mack",
+            "line": "Close? What, he stop saying no?"
+        },
+        {
+            "character": "May",
+            "line": "No. I need you to get the yes."
+        },
+        {
+            "character": "Mack",
+            "line": "Name the time and place."
+        },
+        {
+            "character": "May",
+            "line": "Here. Now."
+        },
+        {
+            "character": "Mack",
+            "line": "L-Let's not bring him here, Melinda. This is my sacred space."
+        },
+        {
+            "character": "May",
+            "line": "I thought that was the church. Anyway, he's at the end of the bar."
+        },
+        {
+            "character": "Benson",
+            "line": "This the guy?"
+        },
+        {
+            "character": "Mack",
+            "line": "Alphonso Mackenzie, Director of S.H.I.E.L.D. You can call me Mack."
+        },
+        {
+            "character": "May",
+            "line": "Mack, this is Dr. Marcus Benson, Director of Natural Sciences at Culver University."
+        },
+        {
+            "character": "Benson",
+            "line": "You can call me whatever you want."
+        },
+        {
+            "character": "May",
+            "line": "Andrew's favorite teacher, then colleague, then friend. And an IQ of 160 doesn't hurt."
+        },
+        {
+            "character": "Benson",
+            "line": "This lady said more to me in one phone call than she did all the years that she was married to Garner. No details, of course, and, uh, well, I didn't need ‘em. I'm not gonna chase boogeymen with you guys."
+        },
+        {
+            "character": "Mack",
+            "line": "And yet you drove two hours to get here?"
+        },
+        {
+            "character": "Benson",
+            "line": "That's because of the university. I mean, I built that department from the ground up, and now they're canceling my classes and “lightening my load.” And I can't tell if it's because of this or this. No-good spies, meddling in other people's business."
+        },
+        {
+            "character": "May",
+            "line": "I didn't meddle. And admit it...your drinking has gotten worse."
+        },
+        {
+            "character": "Benson",
+            "line": "So you did spy. I used to share a cocktail with the love of my life. But when he died, this became a way to remember him. Or forget. I don't know."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I'm hoping you haven't drowned your curiosity and that it'll still get the best of you. You know, we... lost someone, too. A leader, a teacher. We don't want to forget. We've tried to fill the hole he left behind, to rebuild. But we need brains."
+        },
+        {
+            "character": "Benson",
+            "line": "You're talking plural. I only have the one."
+        },
+        {
+            "character": "Mack",
+            "line": "We want you to find more. S.H.I.E.L.D. Academy. Not overnight... we won't open it for a year or two... but we need you to build it from the ground up. In his name. S.H.I.E.L.D.'s second chance. And from what I can gather, yours, too."
+        },
+        {
+            "character": "Benson",
+            "line": "In the meantime... boogeymen?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not gonna lie. We have some pressing questions."
+        },
+        {
+            "character": "May",
+            "line": "In fields you only theorized could exist. Benson."
+        },
+        {
+            "character": "Benson",
+            "line": "This is not what I wanted. I'm too old, too fogged up for this."
+        },
+        {
+            "character": "Mack",
+            "line": "You're our best option. Two of our brightest minds are in deep space. They can't make contact, and until they jump back, we need you on this or innocent people will die."
+        },
+        {
+            "character": "Benson",
+            "line": "Did you say deep space?"
+        }
+    ]
+}

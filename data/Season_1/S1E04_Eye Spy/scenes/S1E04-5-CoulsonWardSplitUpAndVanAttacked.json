@@ -1,0 +1,91 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "CoulsonWardSplitUpAndVanAttacked",
+    "description": "Coulson and Ward separately interview the hotel receptionist, who mentions Amador's talents in an almost miraculous way. Meanwhile, Skye and Fitz pick up a strange broadcast—a video feed. Quickly, the team realizes the van is being watched and is violently attacked by Amador, leaving them shaken but alive.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Receptionist",
+            "line": "Good afternoon."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm Agent Coulson. This is Agent Ward. We're looking for this young woman."
+        },
+        {
+            "character": "Receptionist",
+            "line": "Oh, she's my angel."
+        },
+        {
+            "character": "Ward",
+            "line": "Why do you say that?"
+        },
+        {
+            "character": "Receptionist",
+            "line": "She has gift... knows things. She told me to go to doctor. He found a tumor. I'm having surgery next week. This girl saved me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't stabilize it. There's an encrypted local signal competing."
+        },
+        {
+            "character": "Skye",
+            "line": "Mirror it over. I have a couple of Rising Tide exploits that might work. One last thing. Ta-da, and you're welcome."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's very important that we talk with her."
+        },
+        {
+            "character": "Receptionist",
+            "line": "With her gift, I'm sure she knows you're coming."
+        },
+        {
+            "character": "Skye",
+            "line": "Russian TV's kind of boring."
+        },
+        {
+            "character": "Fitz",
+            "line": "That looks a bit like our van."
+        },
+        {
+            "character": "Skye",
+            "line": "What are we looking at?"
+        },
+        {
+            "character": "Skye",
+            "line": "Let's get out of here!"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, stupid tall person. Call Coulson. Get the gun."
+        },
+        {
+            "character": "Skye",
+            "line": "It's her. Safety off. Bang?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sir, Amador attacked you and your people. Whatever regard you hold for her isn't reciprocated. She just kicked us in the teeth."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's the team?"
+        },
+        {
+            "character": "Ward",
+            "line": "Rattled. No broken bones. We're lucky she just knocked the van over so she could get away. Probably take a while for our folks to refocus."
+        }
+    ]
+}

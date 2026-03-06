@@ -1,0 +1,29 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 15,
+    "scene_name": "HandTransportsGarrettAndWard",
+    "description": "Onboard a jet en route to the Fridge, Hand escorts Garrett and is joined by Ward. Hand suggests Ward kill Garrett, but in a shocking twist, Ward guns down both guards and then Hand, revealing his true allegiance to Hydra. Garrett witnesses Ward’s betrayal with satisfaction, cementing their new alliance as Hand bleeds out on the floor.",
+    "roles": [
+        "grant_ward",
+        "john_garrett",
+        "victoria_hand"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Jacobson",
+            "line": "Course is locked, ma'am."
+        },
+        {
+            "character": "Hand",
+            "line": "Good. He's not telling stories now, is he? You know what I'm thinking, Agent Garrett? I'm thinking the icebox of the fridge is a little too comfortable for you. Maybe we should put you a little deeper underground. What do you think, Agent Ward? You shot the wrong Clairvoyant before. Care to shoot the right one?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Did I tell you about this one time I was deep undercover? The Sicilian backup team a no-show, of course. So I dropped in through the skylight, used up my whole mag, and I hit the final guy in the chest with a flare gun. Boy, you should have seen the look on his face when that thing went off. Oh, man, he didn't know what hit him. Now, that's what I call in-flight entertainment."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "AlienNegotiationOnDrellian",
+    "description": "Daisy, Simmons, Davis, and Piper interact with Trok, a local alien, trying to secure fuel and information. Simmons demonstrates her determination to find Fitz, using aggressive interrogation techniques. The S.H.I.E.L.D. team reveals they are searching for someone, emphasizing the urgency of their mission.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Trok",
+            "line": "You have violated galactic ordinance and entered D'Rillian atmosphere without clearance. Prepared to be boarded."
+        },
+        {
+            "character": "Davis",
+            "line": "He seems nice."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm unarmed."
+        },
+        {
+            "character": "Trok",
+            "line": "Present authorization, Terran."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't have any. We're a little desperate for fuel, so we had no choice but to land here."
+        },
+        {
+            "character": "Trok",
+            "line": "Scan her face. Check for ident on the data-streams. Foolhardy. This small aircraft isn't even worth as much as a unit of fuel. Unless you plan to work in the shafts, how do you expect to make payment?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You're gonna give it to me on the house."
+        },
+        {
+            "character": "Trok",
+            "line": "Must be the daughter of a monarch, slumming it on the outer brink. Well, that's not how it works here, princess. Who is this girl? We get a name? Quake."
+        },
+        {
+            "character": "Simmons",
+            "line": "Give us what we want and we'll let you live to cry about it."
+        },
+        {
+            "character": "Trok",
+            "line": "You want fuel, it's yours. Take what you need."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. I mean, yes, but no. We're looking for someone."
+        },
+        {
+            "character": "Trok",
+            "line": "Someone else to shake down? Or someone you want to eliminate?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We just want to bring him home."
+        }
+    ]
+}

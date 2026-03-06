@@ -1,0 +1,40 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "CoulsonLearnsTruthFromDeke",
+    "description": "Coulson interrogates Deke, who reveals that humans built the bunker long ago before the Kree took over, and that he was born in the colony, not transported. Coulson realizes the complexity of their predicament and presses for more information, trying to understand both the timeline and the nature of the outpost.",
+    "roles": [
+        "phil_coulson",
+        "deke_shaw"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "So, then why did the Kree build this place?"
+        },
+        {
+            "character": "Deke",
+            "line": "They didn't build the bunker. Humans did. Why don't you know these things? Even in waste processing, they know the history... You're not from processing, are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I was enjoying a meal, and then I was taken and zapped to this place. I'm from Earth."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, that would be the one thing that I do know, wing nut. But from where? What area?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Manitowoc, Wisconsin."
+        },
+        {
+            "character": "Deke",
+            "line": "Are you high on something? Can I have some?"
+        }
+    ]
+}

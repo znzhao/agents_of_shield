@@ -1,0 +1,36 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 15,
+    "scene_name": "HaleRecruitsCreel",
+    "description": "General Hale meets with Carl Creel, revealing plans to assemble a new team in response to S.H.I.E.L.D.’s resurgence. Creel is reluctant, referencing the fate of Talbot and his reservations about being a weapon for the government, but Hale persists, setting up a future alliance. This closing scene hints at the antagonists growing stronger and more organized.",
+    "roles": [
+        "hale",
+        "carl_creel"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "Mr. Creel."
+        },
+        {
+            "character": "Creel",
+            "line": "Figured I'd see you again soon."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, well, I told you I'd find you once S.H.I.E.L.D. showed up again."
+        },
+        {
+            "character": "Creel",
+            "line": "I told you, I'm not interested in being the government's hired gun. I'm done with that. Didn't do Talbot any good."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, well, I'm not interested in a hired gun. I'm putting together a team."
+        }
+    ]
+}

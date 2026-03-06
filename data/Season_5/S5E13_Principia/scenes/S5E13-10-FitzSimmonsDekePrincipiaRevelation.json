@@ -1,0 +1,53 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 10,
+    "scene_name": "FitzSimmonsDekePrincipiaRevelation",
+    "description": "Deke shares his new theory about the ship with Fitz and Simmons. Reasoning that the Principia might have been lifted into the sky by the Gravitonium during the storm, they switch tactics to track the ship through atmospheric data rather than oceanic. The problem-solving energy reignites hope and launches the team into action.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Hey! You need to look up in the sky."
+        },
+        {
+            "character": "Fitz",
+            "line": "Our ships float and sink, they don't fly. I'm sorry, Deke, but those are spaceships."
+        },
+        {
+            "character": "Deke",
+            "line": "But what if the ship can fly? It was carrying Gravitonium during a storm. If it got hit by lightning..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Could have charged the Gravitonium."
+        },
+        {
+            "character": "Simmons",
+            "line": "And generated a gravity field around the entire ship."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, well, if it rose up in the atmosphere, it would have been tossed about by air currents all these years."
+        },
+        {
+            "character": "Simmons",
+            "line": "It could be anywhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, so we need to analyze wind and weather patterns, air currents, starting from the night it disappeared and try and build a workable algorithm."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. That. Let's do all that."
+        }
+    ]
+}

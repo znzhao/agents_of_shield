@@ -1,0 +1,55 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 20,
+    "scene_name": "AgnesEntersFramework",
+    "description": "At Radcliffe’s hidden location, AIDA helps Agnes transition into the Framework while Radcliffe assures her that her suffering will soon be over and she can live a better life. Coulson and Mack reflect on Agnes’s decision to join Radcliffe, and Coulson realizes May is alive in the Framework. AIDA and Radcliffe acknowledge that Agnes's physical body cannot be saved, but her consciousness will live on indefinitely in the Framework.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "agnes_kitsworth",
+        "aida",
+        "holden_radcliffe"
+    ],
+    "vibe": "melancholic",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "Just one last step. You're doing well."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "See? Painless. Just as I promised. The worst is over. No one should have to go through what you have. Soon, you'll never suffer again. Are you ready for a better world?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She made her choice."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know what to say."
+        },
+        {
+            "character": "Coulson",
+            "line": "I understand why she went with him. She saw a chance, no matter how slim and risky, and she took it. I would have."
+        },
+        {
+            "character": "Mack",
+            "line": "I know it's not easy to let go."
+        },
+        {
+            "character": "Coulson",
+            "line": "To let go? Of May? I'm not letting go. You heard Radcliffe. He said he had a subject in the Framework, someone who was thriving. He was talking about May. She's alive."
+        },
+        {
+            "character": "AIDA",
+            "line": "There's nothing we can do to sustain her in this life."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It doesn't matter. In the Framework, her consciousness will live forever. The body will always give up, eventually."
+        }
+    ]
+}

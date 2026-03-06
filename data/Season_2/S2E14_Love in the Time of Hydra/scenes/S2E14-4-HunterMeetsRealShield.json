@@ -1,0 +1,186 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 4,
+    "scene_name": "HunterMeetsRealShield",
+    "description": "Lance Hunter is brought into the headquarters of the so-called 'real' S.H.I.E.L.D., where he meets Robert Gonzales, Alphonso Mackenzie, and Bobbi Morse. They explain their existence as an alternate S.H.I.E.L.D. faction, criticizing Coulson's leadership and handling of recent crises. Hunter is pressured for his perspective as they justify their coup against Coulson.",
+    "roles": [
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "robert_gonzales",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "So this is what all the fuss is about... another S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Mack",
+            "line": "Lower your voice. It'll all get worked out momentarily."
+        },
+        {
+            "character": "Hunter",
+            "line": "Lower my voice? You must be joking. So, where now? To see the wizard?"
+        },
+        {
+            "character": "Mack",
+            "line": "Eh, something like that."
+        },
+        {
+            "character": "Hunter",
+            "line": "Priceless. I guess one boss wasn't enough for you and Bobbi."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Seems the road trip hasn't dampened your friend's spirits."
+        },
+        {
+            "character": "Mack",
+            "line": "Gonzalez. It's good to see you, sir."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's been too long, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's good to have you back on board. You must be Lance Hunter."
+        },
+        {
+            "character": "Hunter",
+            "line": "And you must be crazy."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I assure you, none of us wanted this."
+        },
+        {
+            "character": "Hunter",
+            "line": "I think I preferred you acting alone instead of taking orders from the clown academy."
+        },
+        {
+            "character": "Gonzales",
+            "line": "This is not about blindly following orders, Mr. Hunter. This is about leaders being held accountable."
+        },
+        {
+            "character": "Weaver",
+            "line": "To the men and women they serve, as well as those that govern alongside them."
+        },
+        {
+            "character": "Hunter",
+            "line": "Thanks for the democracy lesson, Lady Thomas Jefferson. But if it's all the same, spare me the sales pitch."
+        },
+        {
+            "character": "Calderon",
+            "line": "That's great. We should throw him in the brig."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Let's not be hasty, Tomás. We at least owe him an explanation. We founded S.H.I.E.L.D., the real S.H.I.E.L.D., on the belief that leadership should operate with transparency and not from the shadows."
+        },
+        {
+            "character": "Weaver",
+            "line": "Nick Fury simply kept too many secrets."
+        },
+        {
+            "character": "Hunter",
+            "line": "Got it. Couldn't agree more, actually. Just one little detail that you seem to have overlooked in your otherwise spot-on assessment. Guy with the eye patch and the secrets, Nick Fury... he's dead."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Fury is dead, but Coulson's alive and well."
+        },
+        {
+            "character": "Calderon",
+            "line": "Thanks to one of those secrets."
+        },
+        {
+            "character": "Gonzales",
+            "line": "And it seems that instead of learning from those mistakes, Coulson's heading down the same path."
+        },
+        {
+            "character": "Hunter",
+            "line": "All right. So that's what this is about. You guys don't want Coulson in charge. I'll be the first to admit the guy's not perfect. Sometimes chews with his mouth open, tends to hog the mike on karaoke nights. But other than that, he's not so bad, really."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Well, I'm afraid we don't share that opinion."
+        },
+        {
+            "character": "Hunter",
+            "line": "This is rubbish. Maybe you've drunk the conspiracy kool-aid, but there's not a chance in hell Bobbi would ever bow down to any of this..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Perhaps we could have discussed this alone... without all of hufflepuff looking on."
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter... please."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay, then. Indoctrinate away."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It may come as a surprise to you, but I was very close to Isabelle Hartley. You see, she saved my life in this very facility. Hydra had me dead to rights."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're not the first person Izzy helped out of a pinch."
+        },
+        {
+            "character": "Gonzales",
+            "line": "But I may have been the last. By all accounts, Isabelle's death could have been avoided if Agent Coulson hadn't been so relentless in his pursuit of alien tech."
+        },
+        {
+            "character": "Weaver",
+            "line": "Added to that, the tragedy in Puerto Rico, the death of Agent Triplett, the transformation of the young woman, Raina. Even Agent Skye seems to have been affected."
+        },
+        {
+            "character": "Gonzales",
+            "line": "And all because of Coulson's search for a city that his own alien writing drove him to find."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, he's put all that scribbling behind him."
+        },
+        {
+            "character": "Calderon",
+            "line": "Oh. Should we all just get up and go home now?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "This is not a decision that we arrived at lightly. I know Coulson. He was a good agent. At least, he was before Fury injected him with alien DNA. Ever since, his behavior's grown increasingly more troubling. Can you honestly tell me that you don't share any of these concerns?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I won't deny you have a few good points. But why not just take it up with the man himself?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "We wanted all the facts first."
+        },
+        {
+            "character": "Mack",
+            "line": "Which is what Bobbi and I have been doing... gathering intel."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi, you're an awfully quiet member of this coup d'etat. What's your take?"
+        },
+        {
+            "character": "Morse",
+            "line": "I believe they're right. Coulson has been compromised."
+        }
+    ]
+}

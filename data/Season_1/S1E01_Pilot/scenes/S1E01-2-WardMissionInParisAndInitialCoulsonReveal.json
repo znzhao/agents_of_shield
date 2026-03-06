@@ -1,0 +1,236 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "WardMissionInParisAndInitialCoulsonReveal",
+    "description": "Agent Grant Ward is in Paris on a retrieval mission compromised by a leak from the Rising Tide. Disguised as a waiter, he collects fingerprints, executes a daring infiltration, and fends off hostiles before escaping. Back at a S.H.I.E.L.D. office, Ward is debriefed by Agent Maria Hill; Phil Coulson, previously thought dead, surprises Ward. Coulson reveals he is alive, with his death faked to motivate the Avengers, and is now forming a new team.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Dumont",
+            "line": "Agent Ward, there's been a development. It's the Rising Tide. They've pinned down the location of the package. We need to abort."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm five minutes away from retrieving it."
+        },
+        {
+            "character": "Dumont",
+            "line": "So is everyone else. They posted the coordinates online."
+        },
+        {
+            "character": "Ward",
+            "line": "If the job was easy..."
+        },
+        {
+            "character": "Dumont",
+            "line": "Yeah, it wouldn't be any fun. Watch your six."
+        },
+        {
+            "character": "Dumont",
+            "line": "Red tie, by the window."
+        },
+        {
+            "character": "Ward",
+            "line": "Your fireplace is broken."
+        },
+        {
+            "character": "Dumont",
+            "line": "Ward, just a heads-up. We've got possible hostiles in your vicinity."
+        },
+        {
+            "character": "Ward",
+            "line": "Really?"
+        },
+        {
+            "character": "Hill",
+            "line": "What does “S.H.I.E.L.D.” stand for, Agent Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "Strategic Homeland Intervention, Enforcement and Logistics Division."
+        },
+        {
+            "character": "Hill",
+            "line": "And what does that mean to you?"
+        },
+        {
+            "character": "Ward",
+            "line": "It means someone really wanted our initials to spell out “SHIELD.” It means we're the line... between the world and the much weirder world. We protect people from news they aren't ready to hear. And when we can't do that, we keep them safe. Something turns up... like this Chitauri neural link... we get to it before someone bad does."
+        },
+        {
+            "character": "Hill",
+            "line": "Any idea who Vanchat was planning to sell it to?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm more interested in how this Rising Tide group found out about it. I thought they were just hackers. What changed?"
+        },
+        {
+            "character": "Hill",
+            "line": "A little while ago, most people went to bed thinking that the craziest thing in the world was a billionaire in a flying metal suit. Then aliens invaded New York and were beaten back by, among others, a giant green monster, a costumed hero from the ‘40s, and a god."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't think Thor's technically a god."
+        },
+        {
+            "character": "Hill",
+            "line": "Well, you haven't been near his arms. The battle of New York was the end of the world. This... now... is the new world. People are different. They have access to tech, to formulas, secrets they're not ready for."
+        },
+        {
+            "character": "Ward",
+            "line": "Why was I pulled out of Paris?"
+        },
+        {
+            "character": "Hill",
+            "line": "That, you'll have to ask Agent Coulson."
+        },
+        {
+            "character": "Ward",
+            "line": "Uh, yeah. I'm clearance level six. I know that... Agent Coulson was killed in action before the battle of New York. Got the full report."
+        },
+        {
+            "character": "Coulson",
+            "line": "Welcome to level seven. Sorry, that corner was really dark, and I couldn't help myself. I think there's a bulb out."
+        },
+        {
+            "character": "Ward",
+            "line": "Director Fury faked your death to motivate the Avengers."
+        },
+        {
+            "character": "Hill",
+            "line": "Well, the death of a common ally is a particularly effective team-builder."
+        },
+        {
+            "character": "Panel",
+            "line": "Say “cheese.“"
+        },
+        {
+            "character": "Coulson",
+            "line": "Plus, it wasn't that much of a stretch. I stopped breathing for about 40 seconds."
+        },
+        {
+            "character": "Hill",
+            "line": "Eight. It gets longer every time you tell it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, you get shanked by the Asgardian Mussolini, you can tell it your way. I was looking at the big white light, and it felt like a lot longer than eight seconds."
+        },
+        {
+            "character": "Ward",
+            "line": "Do they know? The Avengers... that Fury played them?"
+        },
+        {
+            "character": "Hill",
+            "line": "They're not level seven."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got out of the I.C.U., Fury stuck me in a grass shack in Tahiti. Rough gig. Mai tais, Travis McGee novels, and a physical therapist Whose command of English was... irrelevant."
+        },
+        {
+            "character": "Ward",
+            "line": "But something put you back in the game. What is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a superhero, Agent Ward."
+        },
+        {
+            "character": "Hill",
+            "line": "An unregistered gifted. Identity... unknown."
+        },
+        {
+            "character": "Skye",
+            "line": "The secret's out. For decades, your organization..."
+        },
+        {
+            "character": "Man",
+            "line": "On May 2nd, an unidentified object..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Another little present from The Rising Tide."
+        },
+        {
+            "character": "Ward",
+            "line": "How are they getting this stuff before us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Same way they cracked our RSA implementation. They're good. So I need better."
+        },
+        {
+            "character": "Hill",
+            "line": "Agent Coulson has requisitioned a mobile command unit, to which you are assigned."
+        },
+        {
+            "character": "Coulson",
+            "line": "Rising Tide is trying to draw us out. I think it's time they succeeded."
+        },
+        {
+            "character": "Ward",
+            "line": "You want me to cross them off?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Wow. No. I want to use them to get to him. This man's world is about to get very weird. He's gonna need some help."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sorry. I was trained from day one as a specialist. I go in alone. I get it done. Defusing a nuclear bomb... I'm your guy. A welcoming committee? Not my speed."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know it's not what you want. Agent Hill did a very detailed assessment of your last three missions. Combat — top grades. Espionage — she gave you the highest marks since Romanoff. Under \"people skills,” she drew a... I think it's a little poop. With knives sticking out of it."
+        },
+        {
+            "character": "Hill",
+            "line": "What? It..."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's bad, right? And given your family history, I'm surprised it's not worse. But... I think you're the guy for this. If I'm wrong, you go straight back to your bombs."
+        },
+        {
+            "character": "Streiten",
+            "line": "Team's approved. Physicals are all fine. Fitz-Simmons is not cleared for combat. I'm told that won't be an issue. Agent Ward here... he's almost too fit."
+        },
+        {
+            "character": "Ward",
+            "line": "That's an issue. That should be an issue. Maybe I can't join the team..."
+        },
+        {
+            "character": "Hill",
+            "line": "God, are you dismissed."
+        },
+        {
+            "character": "Ward",
+            "line": "... because my..."
+        },
+        {
+            "character": "Hill",
+            "line": "It was a porcupine. It was not a poop. It just means that he..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I'm pretty sure."
+        },
+        {
+            "character": "Hill",
+            "line": "And it's not just Ward. Your whole roster is sketchy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, they're cleared."
+        }
+    ]
+}

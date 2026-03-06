@@ -1,0 +1,202 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 13,
+    "scene_name": "SimmonsDeciphersFitzsClue",
+    "description": "Simmons discovers alien script inside the cryo chamber, confirming her theory about Fitz’s possible next destination, the planet Naro-Atzia. She tries to convince the team to follow Fitz, but they are conflicted, feeling it’s too risky. The team is on edge as Simmons becomes increasingly desperate, underlining the stakes for everyone.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Simmons, what do you got?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I found something inside the Chamber."
+        },
+        {
+            "character": "Daisy",
+            "line": "An engraving? What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's Aeonian script. Translated, it means “Low Temperature Suspension Chamber.”"
+        },
+        {
+            "character": "Piper",
+            "line": "You learned to read alien?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. What have you been doing over the last year? Underneath that phrase was a word... Naro-Atzia. I've seen it before. It's a planet. Here. It must be where the Chamber was made, and that's where Fitz would go. And he was staring at it, he would've read it and headed there to... to find a way to freeze himself again."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's deep, deep space."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I-I know how he thinks. That's where he'd go, and we have to follow."
+        },
+        {
+            "character": "Daisy",
+            "line": "Jemma, that's a long shot, even for us. I mean, this is barely a clue."
+        },
+        {
+            "character": "Piper",
+            "line": "It's not much."
+        },
+        {
+            "character": "Davis",
+            "line": "It's nothing. Sorry, this is..."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I'm right. I can feel it in my gut."
+        },
+        {
+            "character": "Daisy",
+            "line": "Going that deep is not smart. It... We have to consider heading home and regrouping before we jump into the juicy center of the Milky Way."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, we can't let this trail go cold! Davis, you set the coordinates, and let's get ready to..."
+        },
+        {
+            "character": "Simmons",
+            "line": "What?"
+        },
+        {
+            "character": "Davis",
+            "line": "I said no. I'm sorry, but this is crazy. I want to find Fitz as much as anyone."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wrong."
+        },
+        {
+            "character": "Davis",
+            "line": "We don't even know if we can get back from that deep in space. Piper, back me up."
+        },
+        {
+            "character": "Piper",
+            "line": "Look, as much as I hate to agree with Davis, he's right. Tactically, going home may be our best chance of finding Fitz."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can restock. We can refuel."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't talk tactics. He's family."
+        },
+        {
+            "character": "Davis",
+            "line": "Yeah, other people have family, too!"
+        },
+        {
+            "character": "Piper",
+            "line": "I mean, Davis has a kid, remember?"
+        },
+        {
+            "character": "Davis",
+            "line": "I haven't seen him in months."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy, please. Come on. We both know this..."
+        },
+        {
+            "character": "Davis",
+            "line": "Hey, no. No, no, you don't do that. You don't make that decision without us. I'm the one who flies this thing."
+        },
+        {
+            "character": "Piper",
+            "line": "Look, we are in this with you. We are all just worn very thin."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons, we have to take a step back. The Zephyr is really banged up, and we don't know how many jumps we have left."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Zephyr is banged up because everywhere we go, Quake leaves a wake of destruction!"
+        },
+        {
+            "character": "Daisy",
+            "line": "I've explained my philosophy on that. They need to respect how strong we are."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're down to four people!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Exactly! That is the point! They don't know that!"
+        },
+        {
+            "character": "Simmons",
+            "line": "The Confederacy."
+        },
+        {
+            "character": "Piper",
+            "line": "How did they find us?"
+        },
+        {
+            "character": "Davis",
+            "line": "Simmons, kill switch."
+        },
+        {
+            "character": "Simmons",
+            "line": "You handle electrical."
+        },
+        {
+            "character": "Daisy",
+            "line": "Piper, power down the compression."
+        },
+        {
+            "character": "Piper",
+            "line": "I'm on it."
+        },
+        {
+            "character": "Piper",
+            "line": "It's a scout?"
+        },
+        {
+            "character": "Davis",
+            "line": "A destroyer."
+        },
+        {
+            "character": "Simmons",
+            "line": "If they didn't think we were so strong, maybe they'd send smaller ships."
+        },
+        {
+            "character": "Daisy",
+            "line": "We weren't spotted, were we?"
+        },
+        {
+            "character": "Piper",
+            "line": "No, we'd be dust."
+        },
+        {
+            "character": "Davis",
+            "line": "If we stay under the rings, we might go unnoticed."
+        },
+        {
+            "character": "Simmons",
+            "line": "We don't need to whisper. Sound can't travel in a vacuum."
+        },
+        {
+            "character": "Davis",
+            "line": "It makes me feel better."
+        }
+    ]
+}

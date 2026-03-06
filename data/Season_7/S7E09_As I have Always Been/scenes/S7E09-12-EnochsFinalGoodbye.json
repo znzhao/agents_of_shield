@@ -1,0 +1,97 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 12,
+    "scene_name": "EnochsFinalGoodbye",
+    "description": "Enoch reflects on his time with the team, sharing intimate thoughts with Daisy and Coulson about loneliness, mortality, and the cycles of family and loss. He warns that this will be the team's last mission together. Shortly after Enoch dies, the Zephyr escapes the time storm, signaling that his sacrifice was not in vain. The team is shaken but safe as they contemplate the cost of their survival.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "enoch"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Shouldn't you get to the Command Center for the jump?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll be fine without us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Does it hurt?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It does... a bit. But it's not the physical pain that troubles me. I am acutely aware that in my thousands of years observing humans, I never used to feel lonely. I have been alone many times. To be candid, I preferred it. But it wasn't until I met this particular team of S.H.I.E.L.D. agents that being alone meant... feeling lonely. And I don't care for it. So... I am feeling, as you might expect, some anxiety now."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't have to. You're not alone. Daisy and I will stay with you right up to the end."
+        },
+        {
+            "character": "Enoch",
+            "line": "That is very kind of you. But... it's that last part, isn't it? You can stay with me up to the end, but you can't come with me at the end. I will have to leave you. And I will have to do that alone. And I can't help wondering... when that happens... will I feel lonely?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can say with some authority that you're not wrong. Dying is lonely. But the feeling is temporary... at least for the person dying. The ones who are left behind... less so. I guess that's the one advantage to going first."
+        },
+        {
+            "character": "Enoch",
+            "line": "Yes. It's different, watching your friends go before you, isn't it? I have been through that, as well. It can be harder to stay than to leave. I'm sorry, Philip J. Coulson."
+        },
+        {
+            "character": "Daisy",
+            "line": "Enoch... the team will carry on the mission. We will survive because of you. Thank you."
+        },
+        {
+            "character": "Enoch",
+            "line": "You are most welcome. But, Agent Johnson, while your friends will indeed survive, the team will not."
+        },
+        {
+            "character": "Daisy",
+            "line": "W-What do you mean?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I have seen the future. Carry on this mission and cherish it, for it will be your last mission together."
+        },
+        {
+            "character": "Daisy",
+            "line": "It... That's... That's not possible. I-I... Enoch, this is my family."
+        },
+        {
+            "character": "Enoch",
+            "line": "Of course. Yet this is the nature of family, isn't it? I have seen it countless times on countless worlds. People arrive, so we celebrate, and people leave us, so we grieve. We do what we can with the time in between, but the cycle is always there. No one escapes it. Not even me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means you're not alone. You're a part of that cycle."
+        },
+        {
+            "character": "Daisy",
+            "line": "Like every other living thing."
+        },
+        {
+            "character": "Enoch",
+            "line": "Fitz. He was my best friend."
+        },
+        {
+            "character": "Daisy",
+            "line": "And you were a good friend to Fitz. You were a good friend to all of us."
+        },
+        {
+            "character": "Enoch",
+            "line": "As I have always..."
+        },
+        {
+            "character": "Mack",
+            "line": "Jump successful, everybody. We're safe."
+        }
+    ]
+}

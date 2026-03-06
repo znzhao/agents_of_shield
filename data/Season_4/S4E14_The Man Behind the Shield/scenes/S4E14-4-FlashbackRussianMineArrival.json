@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 4,
+    "scene_name": "FlashbackRussianMineArrival",
+    "description": "In a flashback at the Russian mining facility, a younger Coulson encounters May, who has been assigned to assist him on a mission to recover an 0-8-4. Their playful banter reveals early chemistry between the agents, contrasted with the tension of an approaching threat. The scene establishes their working dynamic and foreshadows the coming confrontation with Russian SVR agents.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "If that guy doesn't have a cat, he'd be really confused."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, what the hell are you doing here? I didn't request a specialist."
+        },
+        {
+            "character": "May",
+            "line": "I go where I'm assigned."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, I got this handled. I don't need you throwing off my game."
+        },
+        {
+            "character": "May",
+            "line": "You have game?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have what some people refer to in certain parts of the world as game."
+        },
+        {
+            "character": "May",
+            "line": "It's cute that you think that. Car."
+        },
+        {
+            "character": "Daisy",
+            "line": "Earth to Coulson. Do you know what this means?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It means we're going to Russia."
+        }
+    ]
+}

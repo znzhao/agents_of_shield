@@ -1,0 +1,139 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 10,
+    "scene_name": "SkyeInfiltratesTheParty",
+    "description": "Skye arrives at Quinn's lavish gathering. With real-time support from the team, she navigates conversations and quickly catches Ian Quinn’s attention. Quinn is impressed by her hacktivist credentials and tries to recruit her, offering her a legitimate tech job. Skye and Quinn engage in intellectual sparring, with subtle undercurrents of suspicion and recruitment.",
+    "roles": [
+        "skye",
+        "ian_quinn",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Waiter",
+            "line": "Hors d'oeuvre, madame?"
+        },
+        {
+            "character": "Skye",
+            "line": "Mmm."
+        },
+        {
+            "character": "Qasim",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Man",
+            "line": "Oh, apologies for his manners. He knows very little English."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, that, uh, that's... what... whatever. Skye."
+        },
+        {
+            "character": "Qasim",
+            "line": "Qasim Zaghlul."
+        },
+        {
+            "character": "Skye",
+            "line": "Big fan. You built half of Dubai, including the Arabian blade. I love that building. It's super sci-fi. Where's your wife..."
+        },
+        {
+            "character": "May",
+            "line": "Wife's name's Nadrah."
+        },
+        {
+            "character": "Skye",
+            "line": "... Nadrah?"
+        },
+        {
+            "character": "May",
+            "line": "Twin sons."
+        },
+        {
+            "character": "Skye",
+            "line": "She staying at home with the boys?"
+        },
+        {
+            "character": "Fitz",
+            "line": "How's she doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "The pleasure is mine. I could get used to this, people. It's like Siri, if it worked. Skipper to Bravo. I got eyes on top dog. The Eagle is landing on it."
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "Uh, sorry, I ... I don't know. I see Quinn. I'm gonna go talk to him."
+        },
+        {
+            "character": "Quinn",
+            "line": "... I mean, that and its effect on the industrial average. That was good."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, right? Ian Quinn. I'm your last-minute party crasher. Skye."
+        },
+        {
+            "character": "Quinn",
+            "line": "Oh. Wow. Great to meet you. Um, this is Skye, a member of the Rising Tide. They're a group of hackers. They've gotten some pretty big secrets out to the public."
+        },
+        {
+            "character": "Skye",
+            "line": "I prefer “hacktivist.” I'm glad you've heard of our site."
+        },
+        {
+            "character": "Quinn",
+            "line": "I read it. We think very much alike ... more freedom of information, less government infringing on everyone's rights ... I'm a fan."
+        },
+        {
+            "character": "Skye",
+            "line": "That explains the invite. This is a tough party to get into."
+        },
+        {
+            "character": "Quinn",
+            "line": "Not as hard to get into as the encrypted back channel you contacted us through to request the invite."
+        },
+        {
+            "character": "Skye",
+            "line": "That's sort of where I live."
+        },
+        {
+            "character": "Quinn",
+            "line": "You've got to show me how you did that ... I mean, if you sign on."
+        },
+        {
+            "character": "Skye",
+            "line": "Sign what, now?"
+        },
+        {
+            "character": "Quinn",
+            "line": "I've been known to turn a few black hats into white hats, not just for vulnerability analysis, but for very creative thinking."
+        },
+        {
+            "character": "Skye",
+            "line": "A-are you offering me a job?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Well, I didn't invite you here for your pretty face. I didn't know you had a pretty face. Yes, I want to hire you before someone else snatches you up."
+        },
+        {
+            "character": "May",
+            "line": "That seemed to go well."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. It did."
+        }
+    ]
+}

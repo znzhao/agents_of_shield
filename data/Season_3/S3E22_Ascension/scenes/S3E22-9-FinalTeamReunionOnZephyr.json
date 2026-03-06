@@ -1,0 +1,161 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 9,
+    "scene_name": "FinalTeamReunionOnZephyr",
+    "description": "Coulson, Mack, Simmons, and others regroup onboard Zephyr One. They tend to Lincoln, who sustained a serious injury fighting James, and Daisy and Lincoln have a deeply emotional conversation about the costs of their struggles and the need for atonement. The plan to launch the warhead safely into space is hatched, and Daisy decides to personally take responsibility, believing it is her destiny based on visions she received. The mood is somber and desperate as the team faces their last stand.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "He'll be coming soon. Let's go."
+        },
+        {
+            "character": "Mack",
+            "line": "We need to get to the cargo bay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll get the med kit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Put him up against this wall."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln! Is he okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Lincoln! Stay with us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Tell me he's gonna be okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, he'll live, um, if there's no internal hemorrhage. Siloxane. Sorry, sorry."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Aah."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Stay with me, hey? Yeah. You're okay. You're okay. Hey, look at me. You should be fine. But you need to remain as still as possible until we can get to ground, properly dress it, okay?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sorry, Lincoln. I'm sorry. I never meant to turn against you. I never..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know. I don't blame you. You weren't yourself."
+        },
+        {
+            "character": "Daisy",
+            "line": "I am now. You never came to see me in my cell."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I knew what you were going through and that you needed time to put yourself back together."
+        },
+        {
+            "character": "Daisy",
+            "line": "Did... Did I ruin this? Us?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I just think we need to work on ourselves before we can talk about us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. The stuff that I did, Lincoln, I can't live with it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I remember that pain. Sick with guilt, anger. I know why you went to face Hive alone."
+        },
+        {
+            "character": "Daisy",
+            "line": "I tried. I tried to defeat him. I did, but I..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy. Daisy. I know why you went to him. Like I said, I've been through it. I've hit bottom. I know what it's like to be so addicted to something that you'd do anything to get her back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hive and his worker bees will be down here any second."
+        },
+        {
+            "character": "Simmons",
+            "line": "And then?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Even if we could steal the warhead, it's probably on a timer by now, timed with their ascent."
+        },
+        {
+            "character": "May",
+            "line": "I don't suppose you came with any concrete ideas."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have one."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Coulson's gonna need your help. I don't know what he's planning, but..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I do."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What are you..."
+        },
+        {
+            "character": "Daisy",
+            "line": "He... He had the Quinjets fly here remotely, right? So he probably..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Set new coordinates for outer space. The Quinjet will disconnect from the Zephyr and then fly straight up until it leaves the atmosphere."
+        },
+        {
+            "character": "Daisy",
+            "line": "If we can steal the warhead and load it onto the Quinjet somehow, it'll blow in the..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Vacuum of space, and the pathogen will disperse harmlessly."
+        },
+        {
+            "character": "Daisy",
+            "line": "Solving at least that part of the problem."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. That's... Where did you get that? Daisy? What are you..."
+        }
+    ]
+}

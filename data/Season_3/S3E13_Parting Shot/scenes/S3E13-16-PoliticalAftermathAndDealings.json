@@ -1,0 +1,185 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 16,
+    "scene_name": "PoliticalAftermathAndDealings",
+    "description": "Coulson, pretending to be an ATCU advisor, interacts with the Russian Prime Minister and President Ellis as they debate how to spin the disaster politically. The Prime Minister demands someone be held culpable. Coulson enters the interrogation room and outlines an extraction plan, but Bobbi and Hunter refuse to risk the rest of the team. They make the difficult decision to take the fall to protect S.H.I.E.L.D., accepting their disavowal.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Prime Minister",
+            "line": "I don't believe any of this. These two are obviously working for either your government directly or indirectly, as agents of S.H.I.E.L.D."
+        },
+        {
+            "character": "President",
+            "line": "You know very well, Prime Minister, there is no S.H.I.E.L.D. It was dismantled."
+        },
+        {
+            "character": "Prime Minister",
+            "line": "Mr. President, do you think we are all naive? S.H.I.E.L.D. is alive and well and working with your government to get ahead of us."
+        },
+        {
+            "character": "President",
+            "line": "Ahead of you? What are you talking about?"
+        },
+        {
+            "character": "Prime Minister",
+            "line": "There is a new arms race in our future, the race for powered individuals. You know this."
+        },
+        {
+            "character": "President",
+            "line": "What I know, Dmitri, is that there was an attempt on your life. A coup. And if I were you, I'd be grateful to the people who intervened."
+        },
+        {
+            "character": "Prime Minister",
+            "line": "Let's be frank, Matthew. What matters here is only how things appear. And for me, this appears to be a disaster. This incident will go public, and I will have to explain how not one, not two, but three members of my government were murdered."
+        },
+        {
+            "character": "Coulson",
+            "line": "To be fair, two of them were trying to kill you, sir."
+        },
+        {
+            "character": "Prime Minister",
+            "line": "Remind me, who is this man?"
+        },
+        {
+            "character": "President",
+            "line": "Advisor to our ATCU. He, uh... he tracks enhanced threats."
+        },
+        {
+            "character": "Coulson",
+            "line": "Threats like your very own Minister of Defense, General Androvich, who I believe was trying to assassinate you."
+        },
+        {
+            "character": "Prime Minister",
+            "line": "So you claim. Mr. President, if you do not wish to escalate hostilities between our nations, you will do what is right. Someone must pay for what happened here. And it will not be me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hi. My name is Phil Coulson."
+        },
+        {
+            "character": "Morse",
+            "line": "Pleasure to meet you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like to ask you a few questions, if that's all right."
+        },
+        {
+            "character": "Prime Minister",
+            "line": "Why can't we hear them? What happened to the sound?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We have about 90 seconds. When Fitz triggers the EMP, you'll go out that door to your left. There are two guards..."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, we can't."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take them out, then head for the ship..."
+        },
+        {
+            "character": "Morse",
+            "line": "A distraction won't work here."
+        },
+        {
+            "character": "Hunter",
+            "line": "We can't risk that. It'll expose all of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once you're back, we'll change your identities, move your families, and unfortunately, you'll be done in the field..."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, I think that we've proven we're not built for the lab or for office work."
+        },
+        {
+            "character": "Hunter",
+            "line": "Or prison."
+        },
+        {
+            "character": "Coulson",
+            "line": "What other options are there? Go on trial? Expose yourselves as members of a terrorist organization? Because that's what people think S.H.I.E.L.D. is."
+        },
+        {
+            "character": "Morse",
+            "line": "We took an oath. To be the shield."
+        },
+        {
+            "character": "Hunter",
+            "line": "To protect those in danger."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, now S.H.I.E.L.D., this team, is in the cross hairs. And the right thing for us to do is, take the bullet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you saying what I think you're saying?"
+        },
+        {
+            "character": "Morse",
+            "line": "We've discussed it. It's time."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll have your things sent to you. And frankly, you should be more careful when making your vacation plans next time."
+        },
+        {
+            "character": "Morse",
+            "line": "We are so sorry, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's all yours, Inspector."
+        },
+        {
+            "character": "Duval",
+            "line": "Merci. So, you do not work for S.H.I.E.L.D."
+        },
+        {
+            "character": "Hunter",
+            "line": "I do not."
+        },
+        {
+            "character": "Morse",
+            "line": "Doesn't exist anymore."
+        },
+        {
+            "character": "Duval",
+            "line": "And you're telling me they don't work for any U.S. government agency."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. They do not."
+        },
+        {
+            "character": "President",
+            "line": "And they never will. You satisfied, Dmitri?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One last thing. I would like to thank you both for your bravery and for the sacrifice you made, giving up your vacation. Whether anyone will ever admit it or not, you saved the Prime Minister's life, and, doubly fortunate for him, managed to wipe out his entire opposition. They're all dead now, so well-done."
+        },
+        {
+            "character": "President",
+            "line": "Coulson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wouldn't you agree, Prime Minister? Seems to me they're free to go."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "DebriefOnTheBus",
+    "description": "Aboard the S.H.I.E.L.D. Bus, Fitz and Simmons discuss their prior work on technology similar to the device that caused the pool incident. Ward, Skye, Fitz, and Simmons prepare for their mission at the S.H.I.E.L.D. Academy to investigate, while Coulson is distracted by his own files. The team dynamics emerge as May motivates Coulson to stay focused on his own task.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward",
+        "skye",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "There is nothing more unsettling, being a part of something so horrible, completely unaware. The Cadet could have died."
+        },
+        {
+            "character": "Fitz",
+            "line": "We drew up those concepts years ago. We didn't know they'd be applied in that way."
+        },
+        {
+            "character": "Skye",
+            "line": "Is this the device they found in the frozen pool? Correction... the instantly frozen indoor pool."
+        },
+        {
+            "character": "Ward",
+            "line": "It seems like it was planted in the filter days before, like someone was waiting for those specific Cadets."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, as far as they can tell, the device uses a crystalline nucleation process she designed."
+        },
+        {
+            "character": "Simmons",
+            "line": "And a delivery mechanism he invented. That's why we're being asked to consult on the investigation."
+        },
+        {
+            "character": "Skye",
+            "line": "So we're going to the Academy?"
+        },
+        {
+            "character": "Ward",
+            "line": "Science and technology division. Cadets are pretty shaken up over what happened. Agent Weaver asked if you two could speak to the student body about potentiality to calm them down."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. The talk. We've all heard the talk."
+        },
+        {
+            "character": "Skye",
+            "line": "I haven't."
+        },
+        {
+            "character": "Ward",
+            "line": "I guess you will."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, I've heard a lot about the Academy. I'm excited to finally see it."
+        },
+        {
+            "character": "Ward",
+            "line": "Me, too. Never been to Sci-Tech before."
+        },
+        {
+            "character": "Skye",
+            "line": "Never? Huh. The different S.H.I.E.L.D. academies don't interact?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not much. Academy of communications does, but they're the biggest and focused on data analysis."
+        },
+        {
+            "character": "Fitz",
+            "line": "Boring."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the easiest to get into."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's where you'd be, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Thanks."
+        },
+        {
+            "character": "Ward",
+            "line": "Operations is the most aggressive program. More people wash out of operations than the other academies."
+        },
+        {
+            "character": "Skye",
+            "line": "So which one's the hardest to get into? I'm picking up on the rivalry between sciences and operations. Are you and Coulson past all that, or you gonna help Ward steal their mascot?"
+        },
+        {
+            "character": "May",
+            "line": "We're not going. After we drop you off, Coulson and I have other matters to attend to."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson hasn't come out of his office in awhile. Do you think he's all right?"
+        },
+        {
+            "character": "Ward",
+            "line": "We saw him at a low. It's not easy for anybody. But Coulson's tough as they come. He'll be good. Just give him time. And while he takes that time, it's on us to figure out what's going on at the Academy."
+        }
+    ]
+}

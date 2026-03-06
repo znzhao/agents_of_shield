@@ -1,0 +1,198 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 3,
+    "scene_name": "SpaceTeamBoardedByChronicoms",
+    "description": "On Zephyr One, Enoch laments his fate while Daisy, Simmons, Piper, and Davis deal with being boarded by a fleet that turns out to be Chronicoms rather than Confederacy. The team narrowly avoids catastrophe, but Atarah, a high-ranking Chronicom, captures them and reveals the destruction of the Chronicom homeworld.",
+    "roles": [
+        "jemma_simmons",
+        "enoch",
+        "piper",
+        "davis"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "There is no hope, only loss. Decommissioned. Hunted. I have become a cautionary tale used to steer children away from a life of crime and excess."
+        },
+        {
+            "character": "Davis",
+            "line": "Would it be rude to turn him off? His constant complaining is giving me a headache."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, well, you are the Puff-Head who got high and shot up our super-threatening fuse box, so..."
+        },
+        {
+            "character": "Davis",
+            "line": "Never mind. Sorry I was wrong. The source of the headache is Piper. Definitely Piper."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, Enoch, we made... a lot of noise on Kitson, and we only have enough fuel for one more jump left, So we can't hang around up here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, we need to plot a course. Who was that bounty hunter, and why would he have taken Fitz?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Poor Fitz. Though now I walk alone, I will never forget my one and only friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "Your only friend? But you have us."
+        },
+        {
+            "character": "Enoch",
+            "line": "When last we met, I forcibly abducted your team and sent you all into a dystopian future."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, maybe not the best start, but in the end, you really came through."
+        },
+        {
+            "character": "Enoch",
+            "line": "I did?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In the future, you sacrificed yourself for us. Without you, we never would have been able to get home and save Earth from destruction."
+        },
+        {
+            "character": "Enoch",
+            "line": "The human race has survived its extinction-level event?"
+        },
+        {
+            "character": "Daisy",
+            "line": "And it was all because of... you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Our very, very good friend."
+        },
+        {
+            "character": "Enoch",
+            "line": "But if I have completed my mission, why are Chronicom hunters after me?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We thought those guys were from the Confederacy."
+        },
+        {
+            "character": "Enoch",
+            "line": "Hmm. That would be much preferred. Hunters are the most feared of the Chronicoms... relentless. They will never release Fitz."
+        },
+        {
+            "character": "Simmons",
+            "line": "And I will never stop fighting. I saw Fitz with my own eyes. I'm not going to quit now."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Is everyone okay?"
+        },
+        {
+            "character": "Piper",
+            "line": "Davis, you junkie, what did you do?"
+        },
+        {
+            "character": "Davis",
+            "line": "It wasn't me! Something's hit us. Nav-Systems, thrusters... everything's down."
+        },
+        {
+            "character": "Daisy",
+            "line": "Get us back online. Plot a course to the nearest system."
+        },
+        {
+            "character": "Enoch",
+            "line": "Oh, dear."
+        },
+        {
+            "character": "Sarge",
+            "line": "You keep staring like that, my head's bound to catch fire."
+        },
+        {
+            "character": "May",
+            "line": "Fine by me."
+        },
+        {
+            "character": "Sarge",
+            "line": "No wonder Snow likes you. Between us, that girl might enjoy her job a little too much. But she's loyal, so what can you do? I've been to a lot of worlds, some good, some garbage. But I've never been to one where people recognize my face. But it's not just that. Everyone's acting like they know me. You seem to hate me most of all. So let's get into it."
+        },
+        {
+            "character": "Simmons",
+            "line": "It won't take the Remorath long to get through that door."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then it's lights out, claws out."
+        },
+        {
+            "character": "Piper",
+            "line": "We need guns."
+        },
+        {
+            "character": "Davis",
+            "line": "On it."
+        },
+        {
+            "character": "Daisy",
+            "line": "And cover. Give me a hand?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Enoch",
+            "line": "A ship identical to the many that surround us came after Fitz and me. We barely escaped in the ejection pod."
+        },
+        {
+            "character": "Davis",
+            "line": "Piper."
+        },
+        {
+            "character": "Daisy",
+            "line": "Take aim. As soon as they're inside, open fire."
+        },
+        {
+            "character": "Piper",
+            "line": "Copy that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ready."
+        },
+        {
+            "character": "Enoch",
+            "line": "If they wanted us dead, they would cut this ship in two."
+        },
+        {
+            "character": "Davis",
+            "line": "Dropping aliens is what I do."
+        },
+        {
+            "character": "Piper",
+            "line": "What is wrong with you?"
+        },
+        {
+            "character": "Davis",
+            "line": "Sorry."
+        },
+        {
+            "character": "Enoch",
+            "line": "Perhaps it is not the Confederacy at all."
+        },
+        {
+            "character": "Daisy",
+            "line": "Enoch! No, no, stop!"
+        }
+    ]
+}

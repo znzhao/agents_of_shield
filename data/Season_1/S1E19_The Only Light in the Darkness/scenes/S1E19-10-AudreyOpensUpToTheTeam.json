@@ -1,0 +1,22 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 10,
+    "scene_name": "AudreyOpensUpToTheTeam",
+    "description": "Audrey Nathan, now in protective custody with Trip and Simmons, recounts her traumatic history with Daniels and her past relationship with Coulson—unaware he's alive and nearby. The emotional discussion reveals the deep impact of the ordeal on her, while Fitz suggests they’ll need to use her as bait to stop Daniels.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "We should be safe here."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 18,
+    "scene_name": "EmergencyEvacAndAftermath",
+    "description": "The S.H.I.E.L.D. team calls in for an emergency evac as they gather the wounded and retreat from Hive. Back at the Playground, Mack admits to Coulson that he was mistaken about Daisy—she is truly lost to Hive. Fitz, Simmons, and May reflect on their hollow victory at destroying the Kree body, knowing Hive still survives. The situation is dark but not entirely without hope as the team regroups to plan next steps.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "O'Brien",
+            "line": "I need emergency evac now! We got to get out of here! Hurry up! He's coming! He's coming!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't believe Daisy did this."
+        },
+        {
+            "character": "Mack",
+            "line": "You were right about her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Really wish I wasn't."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, Hive wants to turn any human into an Inhuman, regardless of that person's existing genetic markers."
+        },
+        {
+            "character": "May",
+            "line": "Might have succeeded, had Mack not Splinter Bombed that Kree."
+        },
+        {
+            "character": "Piper",
+            "line": "Well, does it even matter? That thing, there's nothing that can stop it."
+        }
+    ]
+}

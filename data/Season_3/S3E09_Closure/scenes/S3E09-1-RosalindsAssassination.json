@@ -1,0 +1,212 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 1,
+    "scene_name": "RosalindsAssassination",
+    "description": "Phil Coulson and Rosalind Price share burgers and intimate conversation in her D.C. apartment. Suddenly, a sniper's bullet fatally wounds Rosalind. As she dies in Coulson's arms, Grant Ward calls to taunt him about her death being a personal message. Immediately afterward, Mack helps Coulson escape as Ward's team storms the apartment.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "Two all-Americans from D.J.'s extra bacon, double cheese."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is it me, or is every burger that's named “the all-American” just really awful for you?"
+        },
+        {
+            "character": "Price",
+            "line": "Oh, don't be a hater, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Half Moon pub. Isn't that where we had our first drink?"
+        },
+        {
+            "character": "Price",
+            "line": "I go there a lot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course you do."
+        },
+        {
+            "character": "Price",
+            "line": "Yeah, it's not like it's a memento or anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just matches. Got it."
+        },
+        {
+            "character": "Price",
+            "line": "You know, Banks thinks I'm crazy to keep seeing you like this. Oh."
+        },
+        {
+            "character": "Coulson",
+            "line": "Huh. You told Banks about us?"
+        },
+        {
+            "character": "Price",
+            "line": "Yeah, I tell Banks everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hmm. I didn't realize you two were so chummy."
+        },
+        {
+            "character": "Price",
+            "line": "Well, there's a lot you don't know about me, even after sneaking two of your agents into my workplace."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just to say it, technically, I was right to do that. You are working for HYDRA. And also... I'm sorry."
+        },
+        {
+            "character": "Price",
+            "line": "Any sensible girl would swipe left in this moment."
+        },
+        {
+            "character": "Coulson",
+            "line": "Honestly, don't know what that means."
+        },
+        {
+            "character": "Price",
+            "line": "You're such a luddite."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know I have a flying car, right?"
+        },
+        {
+            "character": "Price",
+            "line": "Uh, yeah. It's from the ‘60s."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm glad we're finally having burgers."
+        },
+        {
+            "character": "Price",
+            "line": "Me, too. So, your team find anything new about Malick?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing we didn't already know. D.C. power player with his hand in almost every government organization."
+        },
+        {
+            "character": "Price",
+            "line": "Yeah, including mine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where he somehow managed to remove every Inhuman you had in custody. Thank you."
+        },
+        {
+            "character": "Price",
+            "line": "Wait, you think Malick's mobilizing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Only question is why."
+        },
+        {
+            "character": "Price",
+            "line": "Not sure. That's what I intend to find out."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're going back into the ATCU? I can't protect you on the inside."
+        },
+        {
+            "character": "Price",
+            "line": "Thanks, Lancelot, but I'll be just fine. The ATCU, it's my turf. And as far as Malick's concerned, I'm just clocking in another day at work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Still a dangerous play."
+        },
+        {
+            "character": "Price",
+            "line": "Well, then that's a risk I have to take. I mean, look, it's my people that Malick's been using as lab rats, and I'm the idiot who's been working under HYDRA this entire time."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Idiot” is a little harsh. So what's the plan once you're in?"
+        },
+        {
+            "character": "Price",
+            "line": "Just another day. But I scheduled a meeting with Malick, and that way..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Roz? Rosalind? No, no! Oh, no. Stay with my voice. Stay with me, Roz. Listen, stay with the sound of my voice! Look at me, right here! Roz! Roz! I need you to breathe! Please, Roz! Look at me! Breathe! Roz! Breathe. Please breathe. Please breathe. Please, just stay with me. Please stay with me."
+        },
+        {
+            "character": "Ward",
+            "line": "Now you know how it feels, Coulson, to watch someone you care for bleed out right in front of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "Got to admit, it still sounds funny when you don't say “agent” first."
+        },
+        {
+            "character": "Coulson",
+            "line": "What did you do?"
+        },
+        {
+            "character": "Ward",
+            "line": "It seems I just eliminated a leak at the ATCU."
+        },
+        {
+            "character": "Coulson",
+            "line": "You murdered Rosalind to keep her from digging into Malick?"
+        },
+        {
+            "character": "Ward",
+            "line": "Come on, Coulson. You really think Rosalind was gonna stop Malick from opening another portal? He's opened one before. I'm sure he'll do it again. No. This is personal. S.H.I.E.L.D. keeps sending its best agents to kill me. Thought I'd stop that from happening again by taking out the guy who keeps sending them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Want to take me out? Come and get me. We'll settle this right now."
+        },
+        {
+            "character": "Ward",
+            "line": "I have people who take care of that sort of thing for me now. No, I just wanted to hear the panic in your voice before you died."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't over."
+        },
+        {
+            "character": "Man",
+            "line": "He's outside!"
+        },
+        {
+            "character": "Mack",
+            "line": "Get down!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go, go, go!"
+        },
+        {
+            "character": "Mack",
+            "line": "What about Ms. Price?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just drive."
+        }
+    ]
+}

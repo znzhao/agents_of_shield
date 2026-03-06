@@ -1,0 +1,48 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 10,
+    "scene_name": "CoulsonPersuadesAgnesToHelp",
+    "description": "Coulson visits Agnes and, with empathy, shares his connection to May and his desperation after Radcliffe's betrayal. He explains that Radcliffe took May and replaced her with an android. Moved by Coulson's plea, Agnes reluctantly agrees to help locate Radcliffe.",
+    "roles": [
+        "phil_coulson",
+        "agnes_kitsworth"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hi. I was planning on coming down here, try to throw my weight around, force you to comply. I came up with some pretty good material, but I think the best place to start might be an apology. I know you don't want to hear “I'm sorry” anymore, so I apologize. Really, I do."
+        },
+        {
+            "character": "Agnes",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Radcliffe took something from me, too. Her name is Melinda May. And she means everything to me. I wish there was another way. I'm trying not to make it personal because May would hate that, but I can't help it. It is."
+        },
+        {
+            "character": "Agnes",
+            "line": "What do you mean he took her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He kidnapped her. And then he replaced her. For weeks, we lived with an android imposter right next to us. I drank with her, chatting it up. She was spying on us on Radcliffe's behalf. Once we figured out what he'd done, he was gone. And I still don't know what happened to May or if she's even still..."
+        },
+        {
+            "character": "Agnes",
+            "line": "Look, obviously, I'm not his biggest fan, but I can't believe Holden would do something like that. He's all about healing, enhancing, prolonging life."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a lot to explain, but Dr. Radcliffe is under the influence of something dark and powerful. He is not the same man you knew. May's like you. She's brave, and she's not afraid of death. But she deserves the chance to live what's left of her life on her own terms. I know you can appreciate that."
+        },
+        {
+            "character": "Agnes",
+            "line": "What do you need me to do?"
+        }
+    ]
+}

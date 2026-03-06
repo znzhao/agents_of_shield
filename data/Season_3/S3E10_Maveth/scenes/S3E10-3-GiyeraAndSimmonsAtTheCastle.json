@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 3,
+    "scene_name": "GiyeraAndSimmonsAtTheCastle",
+    "description": "Inside the English castle, Giyera reports to his superiors about the newly arrived Inhuman prisoners, and Simmons is forced to correct Hydra's information about the portal's timing. Simmons' intelligence is leveraged to ensure Hydra's plans run smoothly, though her motivations remain with S.H.I.E.L.D. The conversation foreshadows the danger of bringing something deadly back from the alien world.",
+    "roles": [
+        "giyera",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "The cargo's here. All Inhuman systems are stable and online. The team is ready to revive them."
+        },
+        {
+            "character": "Malick",
+            "line": "Patience, Mr. Giyera. They're not our toys to play with. They're presents for our friend once Grant Ward brings it back. Every general needs an army. So, how long do we have once the portal reopens?"
+        },
+        {
+            "character": "Giyera",
+            "line": "73 seconds."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's wrong. Your team's calculations are off at 61. 12 seconds might not seem like much, but on that planet, it can be the difference between life and death."
+        },
+        {
+            "character": "Malick",
+            "line": "Thank you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not doing it for you. Don't want you all mucking up Fitz's return."
+        },
+        {
+            "character": "Malick",
+            "line": "Did you notice the Hebrew word “Maveth” carved around the castle?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Death."
+        },
+        {
+            "character": "Malick",
+            "line": "That's right. Well, death is the only thing returning through that portal. Fitz was just... an offering to show him the door."
+        }
+    ]
+}

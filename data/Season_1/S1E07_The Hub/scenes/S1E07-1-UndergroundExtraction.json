@@ -1,0 +1,69 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 1,
+    "scene_name": "UndergroundExtraction",
+    "description": "Coulson is being interrogated in an underground lair, making jokes about his situation to an undercover S.H.I.E.L.D. agent, Shaw. Ward and May arrive to rescue him, taking out guards and leading the group to safety. The three agents successfully escape the arctic base.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I don't mean to alarm you, but I think you may have a mold problem. That sink with the standing water seems especially concerning. A soldier punches Coulson in the face."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looking forward to it."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have the intel on you? They know."
+        },
+        {
+            "character": "Interrogator",
+            "line": "They know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We have three minutes, Agent Shaw."
+        },
+        {
+            "character": "Ward",
+            "line": "Time to go, agents."
+        },
+        {
+            "character": "Coulson",
+            "line": "Exit?"
+        },
+        {
+            "character": "May",
+            "line": "Follow me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was wondering what you guys had been up to."
+        },
+        {
+            "character": "Ward",
+            "line": "All right."
+        },
+        {
+            "character": "Shaw",
+            "line": "Um, where are the dogs?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't be ridiculous."
+        },
+        {
+            "character": "Coulson",
+            "line": "I bet you're usually the one holding something like this. Don't worry. She knows what she's doing."
+        }
+    ]
+}

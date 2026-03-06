@@ -1,0 +1,40 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "FitzSimmonsDaisyExploreLighthouse",
+    "description": "Daisy, Fitz, and Simmons sneak through the Lighthouse’s upper infrastructure, discussing their next moves and investigating essential systems. They stumble upon the artificial gravity generator, discovering that it’s powered by Gravitonium.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "So, the last time I saw Yo-Yo and the others, they were at a salvage yard on one of the upper floors."
+        },
+        {
+            "character": "Fitz",
+            "line": "How you feeling, Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, somewhere between motion-sick and... Ohh! That's not helping."
+        },
+        {
+            "character": "Daisy",
+            "line": "Damn it. Wait. Fitz, give me a boost."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm just happy not to be standing still. Feels good to be on the run."
+        },
+        {
+            "character": "Fitz",
+            "line": "Together."
+        }
+    ]
+}

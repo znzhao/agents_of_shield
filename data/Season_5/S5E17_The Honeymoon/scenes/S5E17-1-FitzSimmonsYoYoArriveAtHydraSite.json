@@ -1,0 +1,77 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 1,
+    "scene_name": "FitzSimmonsYoYoArriveAtHydraSite",
+    "description": "Fitz, Simmons, and Elena (Yo-Yo) arrive at the abandoned Hydra facility in England, discussing their mission and prepping explosives. They mention the facility's history and the plan for infiltrating it, with banter about danger and Simmons' dream of a real honeymoon.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Feels good to be home. Just didn't think it'd be under these circumstances. Did you pack the explosives?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I did."
+        },
+        {
+            "character": "Simmons",
+            "line": "And the extra ammunition?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Of course."
+        },
+        {
+            "character": "Simmons",
+            "line": "I just want this to work. After everything we've done to get here."
+        },
+        {
+            "character": "Fitz",
+            "line": "You made a choice. Don't look back."
+        },
+        {
+            "character": "Elena",
+            "line": "What are the chances that we find this weapon here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Gideon Malick hinted that this place was a crucial R&D site for HYDRA. It's our best bet, by far. Autopilot will land the Quinjet somewhere nearby, keep it cloaked until we get back."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ready if you are."
+        },
+        {
+            "character": "Elena",
+            "line": "So ready."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was thinking we could come back to England for our honeymoon if we ever got one."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sounds perfect!"
+        },
+        {
+            "character": "Elena",
+            "line": "Don't make me the third wheel, guys."
+        },
+        {
+            "character": "Simmons",
+            "line": "No trouble with the straps this time."
+        },
+        {
+            "character": "Fitz",
+            "line": "We've come a long way!"
+        }
+    ]
+}

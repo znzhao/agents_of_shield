@@ -1,0 +1,69 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 11,
+    "scene_name": "CoulsonAndDaisyOnZephyr",
+    "description": "Back on the Zephyr, Coulson and Daisy regroup with Davis but face renewed Remorath attacks. Coulson is wounded in the process, yet he and Daisy prepare for liftoff, debating whether to wait for May and Deke. As the action subsides, Daisy teases Coulson about his kiss with May, adding a touch of levity.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "lighthearted",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Close it up. Let's get this bird ready for lift off."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Davis, we're back. Is everything oka..."
+        },
+        {
+            "character": "Davis",
+            "line": "We're under attack. Two of them, dark."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can't lose our pilot again."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks. I owe you a life debt."
+        },
+        {
+            "character": "Coullson",
+            "line": "Nice try, but I'm good."
+        },
+        {
+            "character": "Davis",
+            "line": "I hate those things."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell me about it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson, you're bleeding."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll survive. Agent Davis, fire up the engines. It's time to go home."
+        },
+        {
+            "character": "Davis",
+            "line": "Go home? What about Agent May and Deke?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're taking the express train."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 1,
+    "scene_name": "DiscoveringTheRift",
+    "description": "Fitz briefs Coulson and May on the mysterious forest that has appeared on Level 27 after the Kree beacon exploded. The group processes the footage from the D.W.A.R.F., and Fitz theorizes that the destruction of the monoliths has opened a rift into another dimension, further intensifying concern about the possible end of the world. Their discussion is filled with uncertainty and anxiety about what they are facing.",
+    "roles": [
+        "leo_fitz",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Simmons give you the all clear? You got banged up pretty good."
+        },
+        {
+            "character": "Fitz",
+            "line": "‭Yeah, no. I'm fine. I just... I feel foolish. I was so intent ‭on turning the beacon off, I didn't even consider that it might be wired to overheat and explode."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can't blame yourself, Fitz. General Hale's declared war on us."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm afraid she's done something a whole lot worse than that. The basement's sealed off, but I sent the Dwarfs down to analyze the area after the explosion. This one was on its way down when the elevator stopped and opened on Level 27."
+        },
+        {
+            "character": "May",
+            "line": "Looks like your drone took a wrong turn and went outside."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wouldn't that be nice? Unfortunately, this immense forest now exists approximately 150 feet below us."
+        },
+        {
+            "character": "May",
+            "line": "But there are clouds and... and sky."
+        },
+        {
+            "character": "Fitz",
+            "line": "Which is why its underground existence should be very alarming."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd say that's impossible, but after our round trip to Tomorrowland, my threshold for preposterous is way out of whack. Theories?"
+        },
+        {
+            "character": "Fitz",
+            "line": "This is the only transmission received back from the basement so far. I think we're looking at what happens when three monoliths are blown up together. They somehow blew a hole in space-time, and that thing... that thing right there is another dimension bleeding back into our world."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, the good news is Daisy might not be the one responsible for tearing the Earth apart."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bad news is end of the world may have already begun."
+        }
+    ]
+}

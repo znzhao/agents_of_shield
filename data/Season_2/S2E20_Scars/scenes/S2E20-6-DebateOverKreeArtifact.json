@@ -1,0 +1,222 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 6,
+    "scene_name": "DebateOverKreeArtifact",
+    "description": "Back on the Iliad, S.H.I.E.L.D. leadership, including Coulson, Gonzales, Fitz, Simmons, May, Morse, Hunter, and Weaver, discuss the nature and security of the Kree artifact. Suspicion abounds about the Inhumans' motives, and Skye tries to explain that her people are afraid rather than aggressive. The group debates strategy, with tensions rising over how to proceed.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "lance_hunter",
+        "bobbi_morse",
+        "robert_gonzales"
+    ],
+    "vibe": "tense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "Should have destroyed it when we had the chance."
+        },
+        {
+            "character": "Bobbi",
+            "line": "You know we couldn't risk it."
+        },
+        {
+            "character": "Weaver",
+            "line": "There were too many variables."
+        },
+        {
+            "character": "May",
+            "line": "So this is alien."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Recovered from a dig site nearly a hundred years ago."
+        },
+        {
+            "character": "Weaver",
+            "line": "Its energy signatures are unlike anything we've seen before."
+        },
+        {
+            "character": "Hunter",
+            "line": "Mm. And does anyone have any idea what alien world it came from or what it even does? Oh, this new S.H.I.E.L.D. brain trust seems to be working out brilliantly."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Anything about it in Fury's toolbox?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just that HYDRA was looking for it."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, now you have a new interested party."
+        },
+        {
+            "character": "Gonzales",
+            "line": "The question is, why?"
+        },
+        {
+            "character": "Skye",
+            "line": "I have no idea. Seriously, I have never heard of anything like that before, and neither has Lincoln."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you believe him?"
+        },
+        {
+            "character": "Skye",
+            "line": "Why wouldn't I?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You barely know him."
+        },
+        {
+            "character": "Skye",
+            "line": "I know enough. He and Jiaying helped me. They never tried to hurt me. Th-They taught me to channel my power so I wasn't hurting myself. These are good people, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are they? People, I mean. Look, I know you feel connected to this group, but you won't tell us much about them, you're keeping to yourself..."
+        },
+        {
+            "character": "Skye",
+            "line": "I've been taking care of Lincoln."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, but from our perspective, we don't even know what to call them."
+        },
+        {
+            "character": "Skye",
+            "line": "Inhumans. Our ancient ancestors called themselves Inhumans, and we just want to be left alone."
+        },
+        {
+            "character": "May",
+            "line": "If they want to be left alone, then why infiltrate a military vessel?"
+        },
+        {
+            "character": "Skye",
+            "line": "You're assuming that this thing is a weapon. Well, it's in S.H.I.E.L.D.'s possession. Maybe they're just afraid of it, afraid of what Gonzales might do with it."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not the enemy here."
+        },
+        {
+            "character": "May",
+            "line": "This man teleported onboard, Skye. He's clearly very dangerous."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, same could be said about you, May. I heard about what happened to that little girl in Bahrain. Jiaying told me the whole story. Did you know that she was inhuman? They both were. So you, of all people, should understand why they'd want to keep their location a secret. What they're so afraid of."
+        },
+        {
+            "character": "Morse",
+            "line": "Cargo hold's secure. Or as secure as it can be with a teleporter in the mix."
+        },
+        {
+            "character": "Gonzales",
+            "line": "We no longer have to wait for the Inhumans to come to us."
+        },
+        {
+            "character": "Oliver",
+            "line": "Remember how HYDRA could track the teleporter?"
+        },
+        {
+            "character": "Weaver",
+            "line": "I was able to rebuild that device using this scan from Deathlok's eye."
+        },
+        {
+            "character": "Morse",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Oliver",
+            "line": "When the teleporter left the cargo hold..."
+        },
+        {
+            "character": "Weaver",
+            "line": "We were able to follow his signature."
+        },
+        {
+            "character": "Morse",
+            "line": "You know where they are?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "We do. I think it's time we pay our new friends a visit."
+        },
+        {
+            "character": "Gonzales",
+            "line": "What's our plan of attack?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Who said anything about an attack?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "These people are a threat."
+        },
+        {
+            "character": "Morse",
+            "line": "We don't know that."
+        },
+        {
+            "character": "Gonzales",
+            "line": "We don't know anything about them."
+        },
+        {
+            "character": "Weaver",
+            "line": "Except for the fact that they found our base and our aircraft carrier."
+        },
+        {
+            "character": "Oliver",
+            "line": "They could teleport into this room right now and leave a bomb behind."
+        },
+        {
+            "character": "Weaver",
+            "line": "We've seen what Skye's capable of. Lincoln could short out our entire system."
+        },
+        {
+            "character": "Coulson",
+            "line": "I understand your concerns, but the last thing we need is to start a war. We just finished one, for God's sake."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Action needs to be taken, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is why I'm proposing a sit-down with their leader, this woman Jiaying. We'll call it a fact-finding mission."
+        },
+        {
+            "character": "Weaver",
+            "line": "They'd need to agree to that first."
+        },
+        {
+            "character": "Morse",
+            "line": "We could use Skye as a liaison. She is a S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Is that still true?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course it is."
+        },
+        {
+            "character": "May",
+            "line": "Now's a good time to find out where Skye really stands."
+        }
+    ]
+}

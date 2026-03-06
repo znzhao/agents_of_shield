@@ -1,0 +1,161 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 3,
+    "scene_name": "TalbotComplicatesTheMission",
+    "description": "General Talbot unexpectedly appears at the party, putting Coulson and May's mission at risk. Coulson confronts Talbot and tries to keep their presence secret, while the team on comms reacts to this complication. The tension at the party escalates as Talbot's intent remains ambiguous, and Coulson decides to move up the timetable for stealing the painting.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot",
+        "skye",
+        "alphonso_mackenzie",
+        "antoine_triplett",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "No, Phil. Look. Talbot."
+        },
+        {
+            "character": "Coulson",
+            "line": "There goes our cover."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, hey, there, general. Fancy meeting you here."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey, yourself. Good to see you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm glad to hear that. Isn't everything nicer now that we've put all our differences behind us?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Absolutely."
+        },
+        {
+            "character": "Coulson",
+            "line": "How many of those have you had?"
+        },
+        {
+            "character": "Talbot",
+            "line": "One too many. Don't tell."
+        },
+        {
+            "character": "Coulson",
+            "line": "It'll be our secret, as long as you keep mine."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, that doesn't sound like a fair trade."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, I appreciate you not blowing my cover... yet. Let's just say, hypothetically, you don't. This mission will benefit both of us."
+        },
+        {
+            "character": "Talbot",
+            "line": "Benefit us hypothetically."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your division has benefited plenty from my assistance, actually... your career, too."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sure."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, I'm gonna keep moving forward with my operation. I hope I don't have to worry about interference."
+        },
+        {
+            "character": "Talbot",
+            "line": "I won't interfere... unless I feel I need to."
+        },
+        {
+            "character": "Hunter",
+            "line": "Nice work out there. Do we get to keep the scooter?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nice work yourself, though it didn't look like you were suffering too much."
+        },
+        {
+            "character": "Triplett",
+            "line": "And I was babysitting an empty plane. How is this fair?"
+        },
+        {
+            "character": "Hunter",
+            "line": "It's weird... women just like me, always have. Never understood it. Must be a magnetism thing, I guess. Who can explain it, eh?"
+        },
+        {
+            "character": "Skye",
+            "line": "If it makes you feel any better, I don't get it, either."
+        },
+        {
+            "character": "Hunter",
+            "line": "You hear that? If I wanted someone to take jabs at me, I'd still be married."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Not this story again. Can we not?"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, no, I think we can."
+        },
+        {
+            "character": "Hunter",
+            "line": "I first met her on a spring night. She was on the pier facing the outer banks, the moonlight glinting off her face."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "She resembled a goddess. Of course, that was her cruel trick..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, guys?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Best timing ever."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, decided to come back online, did we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot's here."
+        },
+        {
+            "character": "Skye",
+            "line": "Talbot, Talbot?"
+        },
+        {
+            "character": "Hunter",
+            "line": "What the hell's he doing there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No idea. All that matters is our cover's at risk, so I'm calling an audible. We're not gonna wait till later to get the painting. We're gonna get it now."
+        },
+        {
+            "character": "May",
+            "line": "I'll take point."
+        }
+    ]
+}

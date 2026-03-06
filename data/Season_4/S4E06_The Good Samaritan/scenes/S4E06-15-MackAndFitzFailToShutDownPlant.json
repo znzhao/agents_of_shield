@@ -1,0 +1,89 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 15,
+    "scene_name": "MackAndFitzFailToShutDownPlant",
+    "description": "Mack and Fitz work together in the control room, struggling to power down the plant. They suspect the Darkhold has changed the tech, making their usual tactics useless. Mack suggests using an EMP, and rushes back to Zephyr to retrieve one with assistance from May, highlighting the high-stakes, time-sensitive nature of their mission.",
+    "roles": [
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Why won't this power down? It's not like we're idiots. I've built boards like this before. I understand what's supposed to happen."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, maybe they did something to it with that book that they have."
+        },
+        {
+            "character": "Mack",
+            "line": "What? Like put a spell on it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, of course not. But the book could've showed them a different way to power it. I mean, think about it, their power cells are full of quantum tech that we might never understand."
+        },
+        {
+            "character": "Mack",
+            "line": "What... What about one of those, uh... those perpetual EMPs from Miami? Maybe it would disrupt all of this without blowing us to Kingdom Come."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, let's do it."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, there's one on the Zephyr. I'll have Daisy send it down in the containment module. Daisy? You copy? Coulson? All right, hold down the fort. I'll be right back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, I found the chamber. Does anyone copy?"
+        },
+        {
+            "character": "Eli",
+            "line": "You."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Morrow, we have to get you out of here."
+        },
+        {
+            "character": "Eli",
+            "line": "Where's the book? Did she take the book?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. has it. It's safe. You're safe."
+        },
+        {
+            "character": "Eli",
+            "line": "Stay away from this equipment. It's very dangerous."
+        },
+        {
+            "character": "Coulson",
+            "line": "You understand how this works? Can you help me dismantle it?"
+        },
+        {
+            "character": "Eli",
+            "line": "Yes, of course. But why would I when it's taken me this long to achieve?"
+        },
+        {
+            "character": "Mack",
+            "line": "Stand down! Stand down! We got a situation! I need your help bringing an EMP back inside!"
+        },
+        {
+            "character": "Man",
+            "line": "Let's go! Move out!"
+        },
+        {
+            "character": "Lucy",
+            "line": "I had a husband I loved, work that challenged and thrilled me, and just as everything that I dreamed of was within my grasp, this happened. But I'm gonna make it all right. Don't take this personally. How...?"
+        }
+    ]
+}

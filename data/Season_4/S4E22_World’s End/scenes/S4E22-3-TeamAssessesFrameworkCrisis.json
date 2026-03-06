@@ -1,0 +1,245 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 3,
+    "scene_name": "TeamAssessesFrameworkCrisis",
+    "description": "The S.H.I.E.L.D. team closely monitors the decaying Framework and worries about the fate of Mack and Yo-Yo. Coulson receives a tense call from General Talbot urging him to help defend S.H.I.E.L.D. at a global inquiry, but Coulson declines, focusing instead on the threat of Aida. News that Robbie Reyes has recovered his charger reaches the team, and Daisy meets with him to learn why he has returned from the dark world. Robbie explains his connection to Aida through the Darkhold.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "robbie_reyes",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How long before the framework's completely gone?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz estimates between 12 and 20 hours. Looks so innocent, just numbers and symbols, but each thread of code has a corollary in the framework, a favorite blouse, a schoolhouse, a newborn child, they're all blinking out of existence forever."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack and Yo-Yo? There's no guarantee that they'll survive until the end. Fitz and Daisy are doing everything they can to protect them and devise an exit."
+        },
+        {
+            "character": "Coulson",
+            "line": "General Talbot. General, I'm relieved that you're still alive."
+        },
+        {
+            "character": "Talbot",
+            "line": "Three of my finest aren't so fortunate, and I have no idea what killed them."
+        },
+        {
+            "character": "Coulson",
+            "line": "We lost good people, too. The short answer is they were murdered by a vanishing banshee made of matter from another dimension."
+        },
+        {
+            "character": "Talbot",
+            "line": "You expect me to put that in my report?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have a cybernetic hand. I've been to an another planet. This stuff happens in S.H.I.E.L.D."
+        },
+        {
+            "character": "Talbot",
+            "line": "There's not going to be a S.H.I.E.L.D., not since director mace's autopsy report was leaked. I've got a dozen intelligence agencies who now know that mace wasn't an inhuman. They know S.H.I.E.L.D. lied about it, and they're wondering what else you might've lied about."
+        },
+        {
+            "character": "Coulson",
+            "line": "That was your lie, not ours."
+        },
+        {
+            "character": "Talbot",
+            "line": "Damn it, Phil, you're missing the point. There's an international intelligence inquiry tomorrow morning, and I need you there to defend S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's impossible."
+        },
+        {
+            "character": "Talbot",
+            "line": "Damn it, coulson, so is a vanishing banshee. Phil, I'm not gonna get up on my hind legs and beg for buttermilk, but you or one of your right hands needs to be there to take down these spooks before they take down S.H.I.E.L.D. once and for all. That's an order."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wish we could, general, but my team and I are AIDA's primary target. Our presence would only endanger the lives of everyone there. If anything changes, you'll be the first to know. Is that a good-news face or a bad-news face?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a weird-news face. Robbie reyes just stole his charger out of a S.H.I.E.L.D. impound garage outside of Dover."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's new?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Nothing much. Beat up a couple dudes, turned out to be robots."
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't think I'd see you again, not after you fell through that hell mouth."
+        },
+        {
+            "character": "Robbie",
+            "line": "I'm as surprised as you."
+        },
+        {
+            "character": "Daisy",
+            "line": "What happened?"
+        },
+        {
+            "character": "Robbie",
+            "line": "The darkhold."
+        },
+        {
+            "character": "AIDA",
+            "line": "My arm still hurts. Why won't it heal?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Let me see."
+        },
+        {
+            "character": "AIDA",
+            "line": "Don't touch me! If you want to make me feel better, then explain why my arm hasn't healed."
+        },
+        {
+            "character": "Ivanov",
+            "line": "That flame-headed demon was born in the same darkness that created you. You will need to be careful."
+        },
+        {
+            "character": "Coulson",
+            "line": "How'd you find AIDA?"
+        },
+        {
+            "character": "Robbie",
+            "line": "There was a-a tear in the dark world when she was created. It's how I escaped. The thing in me is drawn to dark matter the way your GPS tracks my car."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you're saying aida's made of the same stuff as the darkhold?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Yeah. And the rider wants to send them both back to where they came from."
+        },
+        {
+            "character": "Daisy",
+            "line": "I hope that means hell."
+        },
+        {
+            "character": "Robbie",
+            "line": "Hell is relative. Dimensions, space, planets, it's all connected. Plenty of them qualify as hell. The earth is just one territory in a war that's been going on forever."
+        },
+        {
+            "character": "Daisy",
+            "line": "Can you beat AIDA? I don't know. But what I do know is the demon in me hates her in ways I've never felt."
+        },
+        {
+            "character": "Coulson",
+            "line": "We all feel like that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why do you have that?"
+        },
+        {
+            "character": "May",
+            "line": "It was in the module with the LMDs Robbie destroyed. Do we know who he is?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, looks like AIDA's been busy. She could've duplicated anybody."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll run facial recognition, see if we can ID this guy."
+        },
+        {
+            "character": "AIDA",
+            "line": "Don't disappoint me. You know I don't handle disappointment very well."
+        },
+        {
+            "character": "Ivanov",
+            "line": "That is why we are going to recreate the other world. To please you."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, people, let's wrap it up. Grab your bags, and let's get to the bus."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You have to remember, in this world, he has no idea who you are. Eh? Let me talk to him first."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I don't know if you saw me, but I was at the steel mill when coulson, Daisy, and the others jumped. I saw what happened when they went through, the truth about this reality. I believe you saw it, too."
+        },
+        {
+            "character": "Mack",
+            "line": "Listen to me, i don't have anything..."
+        },
+        {
+            "character": "Hope",
+            "line": "I'm ready."
+        },
+        {
+            "character": "Mack",
+            "line": "Good job, sweetheart. Ah, I wish everyone was as good at packing as you are."
+        },
+        {
+            "character": "Woman",
+            "line": "Hey, mack, i can't find my suitcase. It was just here a minute ago."
+        },
+        {
+            "character": "Hope",
+            "line": "Don't worry. My dad's gonna get everyone to a safe place. What's your name?"
+        },
+        {
+            "character": "Elena",
+            "line": "Elena, but my friends call me Yo-Yo."
+        },
+        {
+            "character": "Hope",
+            "line": "That's a funny name."
+        },
+        {
+            "character": "Burrows",
+            "line": "Everything in the armory is gone, like it just disappeared."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I know. I'm seeing it, too. Half the people in here are missing clothing, luggage. Is there any word from the other bases?"
+        },
+        {
+            "character": "Burrows",
+            "line": "Not in a couple hours."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. We need to leave now. All right, everyone, listen up. Grab what you can, and follow me. Let's go."
+        },
+        {
+            "character": "Mack",
+            "line": "Come on, sweetheart. Let's go. Let's go."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I tried to warn you."
+        },
+        {
+            "character": "Elena",
+            "line": "Next time, i talk to him. He'll remember me."
+        }
+    ]
+}

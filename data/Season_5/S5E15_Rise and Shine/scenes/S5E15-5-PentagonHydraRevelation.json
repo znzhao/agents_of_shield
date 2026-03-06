@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 5,
+    "scene_name": "PentagonHydraRevelation",
+    "description": "Hale is summoned to the Pentagon to face an emergency. Her Hydra superior, before dramatically killing himself, reveals that Hydra had made contact with an alien alliance called the Confederacy after the Battle of New York. The information is critical, as it shifts Hydra's motivations from earthbound power to galactic survival. Talbot arrives to arrest the Hydra agent, and Hale witnesses the fallout.",
+    "roles": [
+        "hale",
+        "glenn_talbot"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fischer",
+            "line": "God! We've got a problem."
+        },
+        {
+            "character": "Hale",
+            "line": "Is this an Air Force matter?"
+        },
+        {
+            "character": "Fischer",
+            "line": "S.H.I.E.L.D. captured Gideon Malick."
+        },
+        {
+            "character": "Hale",
+            "line": "Is he talking?"
+        },
+        {
+            "character": "Fischer",
+            "line": "It's bad. We have to move fast. Here, I need you to take this. Locate the device that's hidden in my vault. Find somewhere safe. You're now overseeing communications."
+        },
+        {
+            "character": "Hale",
+            "line": "Fischer. Fischer, what is this? Look at me. What the hell is going on?"
+        },
+        {
+            "character": "Fischer",
+            "line": "Look, after New York, we found transceivers in the wreckage of one of the Chitauri cruisers. We reached out. Someone answered."
+        },
+        {
+            "character": "Hale",
+            "line": "You made contact with aliens?"
+        },
+        {
+            "character": "Fischer",
+            "line": "It's an alliance of several races. They call themselves the Confederacy. Well, why the hell wasn't I brought in on this?"
+        },
+        {
+            "character": "Talbot",
+            "line": "General, I'm gonna need you to come with me. Come on, Hale. Step away. This is for your own safety."
+        },
+        {
+            "character": "Fischer",
+            "line": "Hail HYDRA."
+        },
+        {
+            "character": "Talbot",
+            "line": "Get him! Fool! Get him to medical now! How could you let that happen? Now! Move! I was looking forward to making that traitor talk. You all right?"
+        },
+        {
+            "character": "Hale",
+            "line": "Yeah. I'm fine. I just... I thought we'd seen the last of HYDRA."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, don't worry. After today, you'll never have to see one of those squids again."
+        }
+    ]
+}

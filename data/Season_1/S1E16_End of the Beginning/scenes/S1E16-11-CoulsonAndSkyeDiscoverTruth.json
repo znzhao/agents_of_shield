@@ -1,0 +1,76 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 11,
+    "scene_name": "CoulsonAndSkyeDiscoverTruth",
+    "description": "Coulson shares his suspicions with Skye that Nash may have been a decoy and not the real Clairvoyant. Skye theorizes that the Clairvoyant might not have psychic powers but instead has S.H.I.E.L.D. security clearance, explaining several earlier plot points. This revelation rocks Coulson’s view of the investigation and sets up the conflict to come.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Mind if I talk some stuff through with you? Are you busy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm worried."
+        },
+        {
+            "character": "Skye",
+            "line": "About Ward? I know. I can't believe he just killed someone like that."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm worried he killed the wrong man. How do we know it was him? He never spoke. The computer spoke for him. How do we know he was the one controlling it?"
+        },
+        {
+            "character": "Skye",
+            "line": "Are you saying Nash could have been pretending to be the Clairvoyant?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm saying Nash could have been a prop."
+        },
+        {
+            "character": "Skye",
+            "line": "And now he's dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "After the attacks led us right to him. The investigation all wrapped up in a neat little bow. I feel like he could still be out there right now, in our heads."
+        },
+        {
+            "character": "Skye",
+            "line": "Or in our files. When you told me to check into the psych evals, you said something. You said, “read his mind.” And it got me thinking. And Ward said that the Clairvoyant knew how to push all the right buttons."
+        },
+        {
+            "character": "Coulson",
+            "line": "Raina did that to me, too."
+        },
+        {
+            "character": "Skye",
+            "line": "Did she mention your father's death? Your psych evaluation called it “a defining moment.” These aren't just personality tests. They're surveillance on every agent... pictures, stats, where you've been stationed, who you'd visit, where you'd like to eat."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dinners at the Richmond. He's been monitoring us. Think about it. The Clairvoyant only knew you'd be at Quinn's villa..."
+        },
+        {
+            "character": "Skye",
+            "line": "After I dropped a tracker. And the only thing he's had trouble seeing is what happened to you after you died."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because Director Fury wouldn't release that file to anyone."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Clairvoyant doesn't have abilities. He has security clearance. He's an agent of S.H.I.E.L.D."
+        }
+    ]
+}

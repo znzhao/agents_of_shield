@@ -1,0 +1,119 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 13,
+    "scene_name": "ConnectingQuinnToThePlot",
+    "description": "Back on the Bus, Coulson, Simmons, Fitz, May, and Skye put the pieces together about the true mastermind. They identify Ian Quinn as the financier, trace the supply chain for the device’s components through Seth’s father, and widen the search radius with Ward. Skye tries to talk with Coulson, who hesitates to tell her about her past.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Any word on the missing Cadets?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Ward's coordinating the search effort with Agent Weaver. They've set up a perimeter and are going building to building."
+        },
+        {
+            "character": "Skye",
+            "line": "Where did you guys go? We were trying to reach you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not now. How dangerous are they?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Extremely dangerous. This device turns any moisture around it to ice very rapidly, at a great range."
+        },
+        {
+            "character": "Fitz",
+            "line": "But Donnie's a good kid... just felt isolated. Seth must have befriended him to manipulate him, using him to finish the... the product."
+        },
+        {
+            "character": "May",
+            "line": "Product?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, I think they have a backer. The device... the components are incredibly rare and expensive, nothing either of them could find on the open market themselves."
+        },
+        {
+            "character": "Skye",
+            "line": "If the parts are that rare, we can trace the purchases."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sometimes, it's not a bad seed, just a bad influence. Let's go."
+        },
+        {
+            "character": "Seth",
+            "line": "No, no. No, that's not the issue. Look, Donnie and I have the device ready to sell, a-and we solved the power problem, but, uh, look, we... we... we ran into some trouble. S.H.I.E.L.D.'s looking for us now."
+        },
+        {
+            "character": "Quinn",
+            "line": "Seth, what did I say was the most important aspect of this deal?"
+        },
+        {
+            "character": "Seth",
+            "line": "That nobody know about it."
+        },
+        {
+            "character": "Quinn",
+            "line": "Right. Well, now the deal's gonna have to change."
+        },
+        {
+            "character": "Skye",
+            "line": "We were worried about bad influences? He's the worst there is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ian Quinn. You gotta be kidding."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thermopile radiation sensors."
+        },
+        {
+            "character": "Skye",
+            "line": "Shipped to Seth's father, who's a lawyer for Quinn worldwide. Quinn's buying their technology."
+        },
+        {
+            "character": "Simmons",
+            "line": "What a sleaze. The Cadets have no idea he's a criminal. To them, he's just a venture capitalist."
+        },
+        {
+            "character": "Skye",
+            "line": "This is Quinn's M.O. He finds young talent and he takes advantage, right? Hello?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Contact Ward and Agent Weaver. Have them widen their search to include Ian Quinn."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, can I talk to you for a second?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have to brief May."
+        },
+        {
+            "character": "Skye",
+            "line": "Just two seconds... that's all."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        }
+    ]
+}

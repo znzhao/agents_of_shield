@@ -1,0 +1,79 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 14
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and important member of S.H.I.E.L.D., known for resourcefulness, bravery, and deep loyalty to her team, whom she views as family. After enduring severe physical trauma and near death, her resilience is underlined by her survival through extraordinary medical intervention involving classified and ethically complex methods. Her evolution reflects a mix of vulnerability, determination, and the increasingly blurred lines between human fragility and advanced technology in her world. Skye’s role extends beyond technical expertise to embody hope and perseverance within a tightly knit team navigating conspiracies and secret agendas.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "emotion": "happiness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 3
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "survive_and_recover_medically",
+        "goal": "To survive her critical injury and recover medical stability to rejoin missions safely"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_1",
+      "context": "broadcasting message about Rising Tide",
+      "catch_phrase": "The secret is out. For decades, your organization stayed in the shadows. Hiding the truth. But now we know \n\u00009\u00020\u00010\u0011\u00012\u000b\u0001d\u0001cHeroes... and monsters."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_2",
+      "context": "warning about S.H.I.E.L.D. to Michael Peterson",
+      "catch_phrase": "They're coming for you."
+    }
+  ]
+}

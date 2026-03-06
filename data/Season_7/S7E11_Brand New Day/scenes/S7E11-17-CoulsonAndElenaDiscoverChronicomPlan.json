@@ -1,0 +1,48 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 17,
+    "scene_name": "CoulsonAndElenaDiscoverChronicomPlan",
+    "description": "As the dust settles in the Lighthouse, Coulson and Elena piece together the data Sibyl accessed. They discover the true purpose of Zephyr One’s trip: the signal was to summon the Chronicom fleet. The horrifying realization dawns—they’re not hiding but launching a massive assault on S.H.I.E.L.D. bases worldwide.",
+    "roles": [
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "What are you, like, a computer genius now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes."
+        },
+        {
+            "character": "Elena",
+            "line": "What do we have here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The last thing Sibyl accessed."
+        },
+        {
+            "character": "Elena",
+            "line": "The S.H.I.E.L.D. bases. Yep."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everything from the Hub to the Sandbox to the... Oh, no."
+        },
+        {
+            "character": "Elena",
+            "line": "Coulson, what is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They didn't go to space to hide."
+        }
+    ]
+}

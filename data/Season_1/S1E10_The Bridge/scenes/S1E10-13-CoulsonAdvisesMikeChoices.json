@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 13,
+    "scene_name": "CoulsonAdvisesMikeChoices",
+    "description": "Coulson checks in on Mike, commending his contribution and encouraging him to think about reconnecting with his son. Mike reveals his internal conflict about seeing Ace again, feeling unworthy after his actions as a monster. Phil urges him not to stay away and emphasizes the importance of making a conscious choice for himself and his family. This heart-to-heart pushes Mike to consider his next step.",
+    "roles": [
+        "phil_coulson",
+        "michael_peterson"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Oh, come on in."
+        },
+        {
+            "character": "Mike",
+            "line": "Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "You doing okay?"
+        },
+        {
+            "character": "Mike",
+            "line": "Afraid I won't be... much good to you for the next couple days."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's understandable. You went above and beyond at that warehouse, had our backs more than once."
+        },
+        {
+            "character": "Mike",
+            "line": "Thank you, sir. But I know Centipede's still out there. No, we still got a lot of work to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "True. But according to your S.O., hard work's your specialty. Said you train 24/7."
+        },
+        {
+            "character": "Mike",
+            "line": "I want to be the best."
+        },
+        {
+            "character": "Coulson",
+            "line": "And that's admirable. But you hadn't left the training facility since you got there, Which means you haven't seen your son since Union Station."
+        },
+        {
+            "character": "Mike",
+            "line": "Ace is fine. We... we talk all the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you haven't been to see him. Why?"
+        },
+        {
+            "character": "Skye",
+            "line": "Mike!"
+        },
+        {
+            "character": "Mike",
+            "line": "Because the last time he saw me... I was a monster. My kid saw that."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can't fix that from here. And staying away, not being there... I've seen firsthand the kind of damage that can do."
+        },
+        {
+            "character": "Mike",
+            "line": "The last thing I want to do is hurt Ace. He's... he's my son, but... maybe he's better off without me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think that's true. When I took this job, I made a choice, the same choice everyone else here made... this life over the other one, the one with holiday dinners and PTA meetings, recitals. It's not easy. But if the time comes to make the hard call, it's simpler. But you have a son. You have someone waiting for you to come home. You need to think about that. You need to think about him. Before you make your choice."
+        }
+    ]
+}

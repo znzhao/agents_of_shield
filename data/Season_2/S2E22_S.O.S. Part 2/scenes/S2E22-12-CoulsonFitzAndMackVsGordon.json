@@ -1,0 +1,82 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 12,
+    "scene_name": "CoulsonFitzAndMackVsGordon",
+    "description": "Inside the HVAC control room on the Iliad, Coulson, Fitz, and Mack lay a trap for Gordon using Fitz's quantum field disruptors. They successfully trap Gordon, but he is still able to teleport within the room. In the ensuing struggle, Gordon is killed, but he manages to drop a Terrigen Crystal, forcing Mack to sever Coulson’s arm to stop the infection. This is a climactic and intense action sequence with major consequences for Coulson.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "gordon"
+    ],
+    "vibe": "intense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "Hey!"
+        },
+        {
+            "character": "May",
+            "line": "My head still hurts."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm sorry. I didn't know."
+        },
+        {
+            "character": "May",
+            "line": "You didn't know. But now we have to stop Jiaying."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Might help if we lose these."
+        },
+        {
+            "character": "Skye",
+            "line": "Hurry. There will be more redheads coming. I'll go after her."
+        },
+        {
+            "character": "May",
+            "line": "Skye, I'll do it. I've done it before."
+        },
+        {
+            "character": "May",
+            "line": "You have to be willing to..."
+        },
+        {
+            "character": "Skye",
+            "line": "I won't hesitate. Whatever it takes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it, you sneaky son of a... I hate this guy."
+        },
+        {
+            "character": "Mack",
+            "line": "Fitz, hurry the hell up!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'm almost there, but I need him back in the room before..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, now! Hit it!"
+        },
+        {
+            "character": "Gordon",
+            "line": "I'm trapped in here. That's not possible! What did you do?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Science, biatch."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks like it's batter up, director."
+        }
+    ]
+}

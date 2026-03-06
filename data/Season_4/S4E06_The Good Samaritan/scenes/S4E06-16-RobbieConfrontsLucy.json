@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 16,
+    "scene_name": "RobbieConfrontsLucy",
+    "description": "Robbie finally faces off against Lucy Bauer, holding her accountable for her actions and the damage caused. Lucy reveals shocking truths about Eli's ambition and his role in the nightmare that befell them all. Robbie takes vengeance, incinerating Lucy’s ghost and putting an end to her threat.",
+    "roles": [
+        "robbie_reyes",
+        "lucy_bauer"
+    ],
+    "vibe": "action-packed",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Robbie",
+            "line": "Maybe I wasn't clear about who I am. How many innocent people have died because of what you've done? I'm here to make you pay for your actions. There are consequences for playing God."
+        },
+        {
+            "character": "Lucy",
+            "line": "Me? Your uncle is the one who wants to play god. He is the one who started this whole nightmare."
+        },
+        {
+            "character": "Lucy",
+            "line": "Whoa, whoa, whoa. Wh-What... What are you doing? This is not finished yet."
+        },
+        {
+            "character": "Eli",
+            "line": "Look, I'm part of this team. And I refuse to be kept in the dark. I want to see the book."
+        },
+        {
+            "character": "Lucy",
+            "line": "Well, I don't have it. Joseph does, and he's not here. And you will never get it. Where is Frederick? Where are the others? What have you done with them?"
+        },
+        {
+            "character": "Eli",
+            "line": "Same thing that I'm gonna do to you."
+        },
+        {
+            "character": "Lucy",
+            "line": "No, no, no, no, no! Eli, no, please! It's not finished yet! Please don't kill me! You weren't against Joseph getting the power. You just wanted it for yourself."
+        },
+        {
+            "character": "Eli",
+            "line": "Goodbye, Lucy."
+        },
+        {
+            "character": "Lucy",
+            "line": "No. No, no, no, no, no, no, no, no, no!"
+        },
+        {
+            "character": "Lucy",
+            "line": "No, no, no. You're just like your uncle. You have the same fire."
+        },
+        {
+            "character": "Robbie",
+            "line": "No. Mine's worse."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell you doing here?"
+        },
+        {
+            "character": "May",
+            "line": "An errand for Coulson. You?"
+        },
+        {
+            "character": "Mack",
+            "line": "Waiting for the Zephyr to send down an EMP."
+        }
+    ]
+}

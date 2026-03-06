@@ -1,0 +1,218 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 6,
+    "scene_name": "GonzalesDebatesCoulsonsPlanWithCouncil",
+    "description": "Back at S.H.I.E.L.D., Gonzales, May, Morse, and Coulson debate the merits and dangers of the mission in the Arctic. The council, including Morse and remote video feeds from Agents Weaver and Oliver, weighs in, with a tense vote deciding whether to go forward. May asks for a private word with Coulson before casting the decisive vote.",
+    "roles": [
+        "phil_coulson",
+        "robert_gonzales",
+        "melinda_may",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mike",
+            "line": "Here we go."
+        },
+        {
+            "character": "Gonzales",
+            "line": "That's your plan?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I take it from your expression, you're not dazzled."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Why send a small infiltration unit? Why not a full-on assault? Blow the base to particles."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd rather not sacrifice the prisoners. Rescue is ideal. We don't even know how many people HYDRA's holding."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I'm not sure I'm willing to put my people at risk."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't have to. I've already got my own people picked out."
+        },
+        {
+            "character": "Fitz",
+            "line": "How you feeling?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Nauseous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mm. You want me to get..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, no, not from getting shot. That's nothing. It's those two. I think they actually, like each other."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just, um, just focus on your wound. It'll be less unsettling."
+        },
+        {
+            "character": "Ward",
+            "line": "You want to take the stick? I could teach you. Come on. I think you'd like to fly."
+        },
+        {
+            "character": "Kara",
+            "line": "No. No. If I fly, I'm taking us to Mykonos or Kauai."
+        },
+        {
+            "character": "Ward",
+            "line": "So, you don't like our plan?"
+        },
+        {
+            "character": "Kara",
+            "line": "Grant, S.H.I.E.L.D. makes me nervous. Didn't you already fulfill your promise to Coulson?"
+        },
+        {
+            "character": "Ward",
+            "line": "But not my promise to you. There's still one more thing I need from him before this is over."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. Green light! Go!"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Agent May."
+        },
+        {
+            "character": "May",
+            "line": "Sir. Welcome back."
+        },
+        {
+            "character": "Ward",
+            "line": "Nice to be back."
+        },
+        {
+            "character": "Gonzales",
+            "line": "You'll be accompanied by guards at all times."
+        },
+        {
+            "character": "May",
+            "line": "Each of whom will shoot you without hesitation. Remember that."
+        },
+        {
+            "character": "Ward",
+            "line": "May's actually pretty friendly, once you get to know her. Gentlemen."
+        },
+        {
+            "character": "May",
+            "line": "You finally come back, and you bring Grant Ward onto the base. I hope this plan of yours works."
+        },
+        {
+            "character": "Coulson",
+            "line": "You and me both."
+        },
+        {
+            "character": "Coulson",
+            "line": "This video feed was streamed from Deathlok's eye less than an hour ago."
+        },
+        {
+            "character": "Gonzales",
+            "line": "What happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It appears HYDRA removed his eye."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, we've got a problem. Without Deathlok's feed, we don't have eyes on the ground."
+        },
+        {
+            "character": "Ward",
+            "line": "Not true. I have a man working on the inside, Sunil Bakshi."
+        },
+        {
+            "character": "Morse",
+            "line": "I know Bakshi. He's a HYDRA agent."
+        },
+        {
+            "character": "Ward",
+            "line": "Not anymore. Now he works for me."
+        },
+        {
+            "character": "May",
+            "line": "Says the HYDRA agent."
+        },
+        {
+            "character": "Ward",
+            "line": "My days with HYDRA are over. Just an independent contractor trying to make amends."
+        },
+        {
+            "character": "Gonzales",
+            "line": "We remain skeptical."
+        },
+        {
+            "character": "Coulson",
+            "line": "With good cause, but I believe using Bakshi is the only way for us to successfully infiltrate this base."
+        },
+        {
+            "character": "Morse",
+            "line": "The base is in the Arctic circle with nothing around for miles. HYDRA will see us coming."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is why it's critical I take in a small team."
+        },
+        {
+            "character": "Weaver",
+            "line": "And just to be clear, Agent Coulson, what is your objective here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We rescue the enhanced prisoners, then disable the missile-defense system so that S.H.I.E.L.D. jets can fly in safely to bomb the facility."
+        },
+        {
+            "character": "Morse",
+            "line": "You really believe a small team can do this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "My team can."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Then I suppose we should put this matter to a vote. Agent Morse."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm in."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Agents Weaver and Oliver."
+        },
+        {
+            "character": "Weaver",
+            "line": "No. Too risky."
+        },
+        {
+            "character": "Oliver",
+            "line": "I agree."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Understood. But I'm voting to go ahead with this. That leaves you with the deciding vote, Agent May."
+        },
+        {
+            "character": "May",
+            "line": "I'd like a word in private with Agent Coulson first."
+        }
+    ]
+}

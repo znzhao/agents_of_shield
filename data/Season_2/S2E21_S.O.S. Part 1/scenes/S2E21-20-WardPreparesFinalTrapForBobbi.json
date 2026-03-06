@@ -1,0 +1,28 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 20,
+    "scene_name": "WardPreparesFinalTrapForBobbi",
+    "description": "Ward and Agent 33 give up trying to extract an apology from Bobbi. Bobbi defiantly says she would make the same choices again. Ward decides to leave a deadly trap: a gun rigged to fire on anybody entering to rescue Bobbi. Agent 33 is conflicted, showing she's not entirely comfortable with Ward's plans.",
+    "roles": [
+        "bobbi_morse",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "That was fast. Someone must really miss their honey bunny. You think he'll come for you, hmm? Since you've shown no remorse for your sins against Kara, since you clearly have no regard for your own life, we're leaving you a little present. First person through this door... brains everywhere."
+        },
+        {
+            "character": "Kara",
+            "line": "I wonder what you'll feel when you watch somebody else die because of what you did."
+        },
+        {
+            "character": "Ward",
+            "line": "I know what we'll feel. Closure."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "SkyeQuestionsWard",
+    "description": "Following Hunter's advice, Skye visits Ward in his cell on the Playground, confronting him about information regarding her father. Ward insists he would not lie, revealing Raina as his source. The conversation shifts to the alien writing, and Ward recounts Garrett’s obsession after being injected with the GH formula, which unnerves Skye.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I'm surprised it took you so long."
+        },
+        {
+            "character": "Skye",
+            "line": "This isn't about that."
+        },
+        {
+            "character": "Ward",
+            "line": "Come on, Skye. Don't pretend you haven't thought about what I said."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, well, I'm pretty sure you're the last person I'd ever want to talk to about my father."
+        },
+        {
+            "character": "Ward",
+            "line": "Not if you want to find him."
+        },
+        {
+            "character": "Skye",
+            "line": "My parents were killed in the Hunan province, along with everyone else in their village."
+        },
+        {
+            "character": "Ward",
+            "line": "That's not what happened."
+        },
+        {
+            "character": "Skye",
+            "line": "I know what you're doing."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm just trying to help."
+        },
+        {
+            "character": "Skye",
+            "line": "No, you're exploiting a weakness, looking for a way in."
+        },
+        {
+            "character": "Ward",
+            "line": "I told you... I will never lie to you... not again."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. If you're really being honest, name your source."
+        },
+        {
+            "character": "Ward",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "If you have information about my father, tell me where it came from... it's that simple."
+        },
+        {
+            "character": "Ward",
+            "line": "Raina. She knows him, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I believe that you think she does. Oh. Do you not get it? Raina played you. She found your weakness and then used it against you."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye..."
+        },
+        {
+            "character": "Skye",
+            "line": "Shut up, Ward. I don't want to hear you say another word about it. Good. Tell me what you know about this."
+        },
+        {
+            "character": "Ward",
+            "line": "I first saw that when we were in Belarus... me and you... and later on, when Garrett started etching that in the glass."
+        },
+        {
+            "character": "Skye",
+            "line": "Garrett carved this stuff himself? Did he say what it was?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, but he wasn't making a lot of sense after he was injected with the GH-formula. These writings... they're not yours, are they? Good. That's good, 'cause once Garrett started, he couldn't stop. The writing was anywhere he could carve it... on the walls, on the floor."
+        },
+        {
+            "character": "Skye",
+            "line": "On his desk."
+        },
+        {
+            "character": "Ward",
+            "line": "To be honest, I was almost relieved when S.H.I.E.L.D. put him down. The Garrett I knew was long gone once the writing started. And whatever took his place, I don't think it was meant to survive."
+        },
+        {
+            "character": "Simmons",
+            "line": "HYDRA pursuing alien WMD technology. Must act quickly to prevent extinction-level event. Awaiting further instructions. Fish tacos."
+        }
+    ]
+}

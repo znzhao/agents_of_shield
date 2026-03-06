@@ -1,0 +1,48 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 6,
+    "scene_name": "SkyeAndMackHatchAPlan",
+    "description": "Skye and Mack regroup after the devastation caused by Jiaying and the Inhumans on the Iliad. The emotional toll on Skye is evident as she laments her mother’s true nature. Despite her inhibiting bracelet, she agrees to work on hacking the beacon while Mack searches for tools as a backup plan. Their determination sets the stage for their attempt to stop Jiaying from alerting and attacking all of S.H.I.E.L.D.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "She just killed them, all of them, didn't even think about it."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I thought my mom was bad when she started watching Fox News."
+        },
+        {
+            "character": "Skye",
+            "line": "And I fell for the whole act."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, you had to choose between two... This way. This way. You had to choose between two sides that both mean something. I get it. You make the best choice you can. Sometimes, it works out. Sometimes..."
+        },
+        {
+            "character": "Skye",
+            "line": "It didn't."
+        },
+        {
+            "character": "Mack",
+            "line": "It did not. Beacon's in the sat room down to the left. Go get started. Try to hack the code and turn it off."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. Where are you going?"
+        },
+        {
+            "character": "Mack",
+            "line": "To find a power saw in case you can't."
+        }
+    ]
+}

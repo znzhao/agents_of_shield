@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 8,
+    "scene_name": "MayAndCoulsonPrivateThetaProtocolTalk",
+    "description": "May and Coulson have a private, emotionally charged conversation. May accuses Coulson of keeping secrets, referencing Theta Protocol and his trust in her. Coulson reveals he went to May's ex-husband for therapy, and as emotions come to a head, they put aside their differences for the mission to rescue Mike and other prisoners.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "What the hell are you thinking?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I could ask you the same thing. Since when did you become a high-ranking member of Team Gonzales?"
+        },
+        {
+            "character": "May",
+            "line": "Someone had to run the base while you were gone. Having a seat allowed me to keep you safe."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was fine on my own."
+        },
+        {
+            "character": "May",
+            "line": "Seems that's how you operate best."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell is that supposed to mean?"
+        },
+        {
+            "character": "May",
+            "line": "That you've been lying to me ever since S.H.I.E.L.D. fell. All those overseas trips you were taking, they were never about recruiting new agents, were they? You want to tell me what Theta Protocol is?"
+        },
+        {
+            "character": "May",
+            "line": "Because you don't trust me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because you're not the Director of S.H.I.E.L.D."
+        },
+        {
+            "character": "May",
+            "line": "Neither are you! Not anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've always had our secrets, May. You had a secret line to Fury behind my back."
+        },
+        {
+            "character": "May",
+            "line": "This is personal."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is about Andrew."
+        },
+        {
+            "character": "May",
+            "line": "He's my ex-husband. And you were working with him, behind my back!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I went to him for counseling. He was the only therapist I could talk to about my alien-writing impulses."
+        },
+        {
+            "character": "May",
+            "line": "You should've told me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're right. I should have, and I will apologize to you later, at length. But right now, List has Mike Peterson and who knows how many other enhanced prisoners. Now can we put this behind us and go rescue them? Please?"
+        }
+    ]
+}

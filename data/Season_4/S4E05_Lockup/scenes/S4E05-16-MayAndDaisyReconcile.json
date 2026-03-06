@@ -1,0 +1,45 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 16,
+    "scene_name": "MayAndDaisyReconcile",
+    "description": "May visits Daisy to reassure her, telling her not to push others away and that Coulson cares deeply. May draws on her own experience to urge Daisy not to isolate herself, foreshadowing Daisy's eventual reintegration into S.H.I.E.L.D. Coulson joins them and updates May about Lucy kidnapping Eli.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "No. She forced him to leave with her in an ambulance."
+        },
+        {
+            "character": "May",
+            "line": "What does she want with him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. But I got a feeling he's about to find out."
+        },
+        {
+            "character": "Morrow",
+            "line": "What do you want me to do?"
+        },
+        {
+            "character": "Lucy",
+            "line": "Read it. 'Cause I can't."
+        },
+        {
+            "character": "Morrow",
+            "line": "Lucy..."
+        },
+        {
+            "character": "Lucy",
+            "line": "We are going to fix me and then finish what we started."
+        }
+    ]
+}

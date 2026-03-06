@@ -1,0 +1,124 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 9,
+    "scene_name": "FitzAndMackCollaborationBegins",
+    "description": "Fitz and Mack collaborate further in the lab as they puzzle over methods to stop Creel. Mack notices Fitz's behavior, but remains patient and persistent in working with him. Their interaction marks the beginning of a cautious partnership, as Mack learns to communicate with Fitz and support his attempts to remember prior inventions that could help neutralize Creel.",
+    "roles": [
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Why are they going the biochemical route?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Using an adenovirus factor to counter Creel's ability."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, it's pointless, really, since the injected, um..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Injected vector will never bind to his cellular membranes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, so... well, then they'd have to find a way to destabilize..."
+        },
+        {
+            "character": "Simmons",
+            "line": "The molecular structure of Creel's epidermal cells, yeah. Destabilize."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. I d... I didn't solve this today."
+        },
+        {
+            "character": "Mack",
+            "line": "Who you talking to?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What? No one."
+        },
+        {
+            "character": "Mack",
+            "line": "You like talking to yourself. That's cool. A lot of people do. You know, I like singing in the shower. Yeah, I know it's not really the same thing, but I wouldn't want anyone to hear it."
+        },
+        {
+            "character": "Fitz",
+            "line": "What do you want?"
+        },
+        {
+            "character": "Mack",
+            "line": "All right, for cloaking, were you thinking about putting it under avionics or...?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Enough about cloaking! I'm busy... with... something."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, it sounds like you're just blowing me off. You want to be alone? That's cool."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know, I think I like him. He's honest."
+        },
+        {
+            "character": "Fitz",
+            "line": "Blunt, I'd say."
+        },
+        {
+            "character": "Mack",
+            "line": "I call them like I see them."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, he doesn't talk to you like the others. It's quite refreshing, actually."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo. Fitz. Your mind go wandering again?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "See?"
+        },
+        {
+            "character": "Mack",
+            "line": "What do you got there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No... this ... this is just, uh..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Go ahead and show him. What harm would it do?"
+        },
+        {
+            "character": "Mack",
+            "line": "Does it have something to do with stopping Creel?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I think... I think that we are... I-I... have... I... I didn't solve this today."
+        },
+        {
+            "character": "Mack",
+            "line": "You think you can?"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 7,
+    "scene_name": "RobbieTellsGabeTheTruth",
+    "description": "As Mace’s search intensifies, Daisy tries to soothe Gabe about S.H.I.E.L.D.'s intentions. Robbie decides he can’t keep lying and begins to reveal the truth of his and Gabe’s past—the night of the attack that changed their lives. This scene transitions into a flashback, unveiling the tragic accident and its aftermath, planting the seeds for Robbie’s Ghost Rider origin.",
+    "roles": [
+        "robbie_reyes",
+        "gabe_reyes",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Robbie",
+            "line": "Stop. I appreciate what you're trying to do here, but... I can't lie to him anymore. You deserve the truth. All of it."
+        }
+    ]
+}

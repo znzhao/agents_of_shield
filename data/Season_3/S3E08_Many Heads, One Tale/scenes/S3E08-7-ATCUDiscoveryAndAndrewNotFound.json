@@ -1,0 +1,118 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 7,
+    "scene_name": "ATCUDiscoveryAndAndrewNotFound",
+    "description": "Bobbi, following Daisy and Mack’s guidance, searches the ATCU science division for evidence about Andrew and the so-called cure. Instead, she discovers fish oil pills and realizes the ATCU is not curing Inhumans but creating them. The team pieces together the ATCU's true agenda as Hunter distracts the tech staff and Bobbi requests his backup.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "ATCU headquarters / Advanced Threat Containment Unit facilities",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "So sorry, Steve-O. Nothing worse for an I.T. guy than someone logging into a terminal. Makes you feel violated, doesn't it?"
+        },
+        {
+            "character": "Wilson",
+            "line": "How do we know he's not just looking for exploits to get into our system when it goes back to being a black hat?"
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, there's no going back for Dane."
+        },
+        {
+            "character": "Hunter",
+            "line": "But I am here to find the exploits, and I'm gonna need a log-in to determine if..."
+        },
+        {
+            "character": "Daisy",
+            "line": "... the trojan horse hardware emitted a signal pulse that allows access..."
+        },
+        {
+            "character": "Hunter",
+            "line": "... through your UDP or TCP ports, mate. Have you checked that yet?"
+        },
+        {
+            "character": "Wilson",
+            "line": "You can use a command prompt to enter a guest username."
+        },
+        {
+            "character": "Daisy",
+            "line": "And unwittingly give us remote access. Okay, Hunter, type this in. C, colon, forward slash, “System”, Forward slash, “Request user.” Hunter. Oh, god. Hunter. Please tell me you know which one is forward slash."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yes. Typing. I'm just helping your sluggish code keep up."
+        },
+        {
+            "character": "Wilson",
+            "line": "Hilarious."
+        },
+        {
+            "character": "Daisy",
+            "line": "And the username."
+        },
+        {
+            "character": "Hunter",
+            "line": "The username, “God save the Queen.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I let him pick it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bingo."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, you're up."
+        },
+        {
+            "character": "Mack",
+            "line": "Agent May said she wants you with her on this, yeah?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, then, I suggest you move your ass. There. Bobbi, enhanced specimen control. North, stairs at the end of the hall, three floors down in the science division. Ringing your phone now."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm. My superiors on Pennsylvania Avenue. I need to step away for a moment to give them my full report."
+        },
+        {
+            "character": "Wilson",
+            "line": "Okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Check that section. See how many Inhumans they're keeping in there."
+        },
+        {
+            "character": "Mack",
+            "line": "And grab any samples of the potential cure."
+        },
+        {
+            "character": "Daisy",
+            "line": "Now all Hunter has to do is run his mouth and waste time."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, he excels at that. Daisy? Thank you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Here? So, you need me to do anything? Why bring me if you're not even gonna talk to me?"
+        }
+    ]
+}

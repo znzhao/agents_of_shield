@@ -1,0 +1,67 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "ConvoyAttackAndAssetTaken",
+    "description": "On a remote country road, S.H.I.E.L.D. Agent Mack and his convoy are attacked by unseen forces. After both escort SUVs are violently thrown into the air, Mack radios for help as the truck itself is lifted. Armed men break into the trailer and capture Dr. Franklin Hall, who seems strangely calm, suggesting he was expecting this. The attackers successfully extract Hall from S.H.I.E.L.D. custody.",
+    "roles": [
+        "ian_quinn"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "♪ High and low I've traveled ♪ ♪ Far and wide I'd go ♪ ♪ From the desert tracks to the mountainside ♪ ♪ I'll bring you this traveling show ♪"
+        },
+        {
+            "character": "Man",
+            "line": "Big boy, this is little boy. How'd things go down at the chicken coop?"
+        },
+        {
+            "character": "Mack",
+            "line": "Weigh-station inspector needs to learn some adult words and a bit of hygiene, but he waved us through. The cargo is secure. Looks like a clean shot from here."
+        },
+        {
+            "character": "Man",
+            "line": "Roger that. Little girl will take point on your front door. See you at the drop stop, Mack. I'm clear."
+        },
+        {
+            "character": "Mack",
+            "line": "Son of a bitch. You see that?"
+        },
+        {
+            "character": "Man",
+            "line": "Little girl is down. Repeat, escort two is down."
+        },
+        {
+            "character": "Mack",
+            "line": "I know, Sherlock. What the hell hit us?"
+        },
+        {
+            "character": "Mack",
+            "line": "We need to go to alt two, alt two."
+        },
+        {
+            "character": "Man",
+            "line": "Nothing over our shoulder. Back door's clear. Protect the cargo at all costs."
+        },
+        {
+            "character": "Mack",
+            "line": "S.H.I.E.L.D. region CT, this is Agent Mack. We are under attack from an unseen I-don't-know-what."
+        },
+        {
+            "character": "Woman",
+            "line": "Agent Mack, advise nature of threat, over."
+        },
+        {
+            "character": "Mack",
+            "line": "What in the holy name of... S.H.I.E.L.D. region CT ... oh, hell, I can't explain. Oh no!"
+        },
+        {
+            "character": "Hall",
+            "line": "Are we there yet?"
+        }
+    ]
+}

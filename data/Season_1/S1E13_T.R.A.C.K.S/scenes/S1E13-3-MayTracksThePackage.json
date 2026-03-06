@@ -1,0 +1,100 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "MayTracksThePackage",
+    "description": "May climbs outside the train with infrared goggles to track the Cybertek package, communicating with the team. Fitz guides her through the tech, confirming the package's location. Meanwhile, Coulson and Simmons keep up their cover story as investigators close in, but Coulson discovers their comms are down. As tension mounts, he leaves to investigate further, while Ward realizes they've been compromised and a grenade is thrown.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Copy that. Following the target to the package."
+        },
+        {
+            "character": "Skye",
+            "line": "Great. We see what you see."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right, May, Cybertek cases are usually lined with tungsten polymer to prevent scanning. It should appear black on your infrared. Bingo! Uh, eyes on the package, fourth seat from the back."
+        },
+        {
+            "character": "Woman",
+            "line": "As we round the bend, the passengers on the North side of the train can take in the views of the famous Tre cime di Lavaredo. Isn't it a wonder?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Look at that. I haven't seen anything so beautiful since our family's scuba-diving trip to the island of Koh Tao in Southeastern Thailand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, Simmons, I appreciate all your preparation, but..."
+        },
+        {
+            "character": "Simmons",
+            "line": "And you want to know which marine life we encountered?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward, are you in position? My comms are down. Are yours working?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz? Skye?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Something's wrong. Sit tight. I'm gonna go make sure we don't lose that package."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward!"
+        },
+        {
+            "character": "Ward",
+            "line": "We've been made! Grenade! Coulson, we got to jump!"
+        },
+        {
+            "character": "Woman",
+            "line": "As we round the bend, the passengers on the North side of the train can take in the views of the famous Tre cime di Lavaredo. Isn't it a wonder?"
+        },
+        {
+            "character": "Ward",
+            "line": "May, got the tracker. Headed to the dining car now to tag the package. May? May?"
+        },
+        {
+            "character": "Ward",
+            "line": "Cybertek knew we were here. Anyone copy? Damn it."
+        },
+        {
+            "character": "Ward",
+            "line": "We've been made. Comms are down. Where's Coulson?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He went to the dining car to find the package. You've been hurt. Let me take a look."
+        },
+        {
+            "character": "Ward",
+            "line": "Not now. Go to the luggage car. Lock yourself in with Fitz and Skye. Don't come out until I get you. I'm gonna get Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward!"
+        },
+        {
+            "character": "Ward",
+            "line": "We've been made! Grenade! Coulson, we got to jump!"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 16
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. He deeply values his team and especially shows insightful empathy and trust towards those undergoing transformation and trauma like Skye. Though faced with difficult decisions that weigh heavily on him emotionally, such as isolating trusted team members for their safety, Coulson continues to navigate the complexities of alien threats, internal factionalism within S.H.I.E.L.D., and personal loyalty with a measured but compassionate approach. His history of grappling with loss and betrayal fortifies his resolve to protect those he cares about while maintaining his role as a steady and inspiring leader. Faced with factional conflict within S.H.I.E.L.D. and the emerging threats from both Hydra and powered individuals, Coulson's experiences deepen his resolve to maintain unity, find Skye, and reclaim his organization. Though the challenges grow, his strategic actions and reliance on loyal allies highlight his adaptive leadership and unwavering commitment to his mission and team.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_cohesion_and_leadership_within_fractured_shield",
+        "goal": "Maintain cohesion and effective leadership within a fractured S.H.I.E.L.D. amidst internal factionalism and external threats to ensure the survival of the organization and protection of team members"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "recover_and_protect_transformed_and_injured_inhumans",
+        "goal": "Recover and protect transformed and injured Inhumans like Skye and Raina, aiding their control and acceptance while understanding their dual threats and vulnerabilities"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "locate_and_reclaim_skye_and_reestablish_shield_command",
+        "goal": "Locate and reclaim Skye who is taken by unknown powered individuals, secure support from allies, and take back control of S.H.I.E.L.D. from the Gonzales faction"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "counter_hydra_threat_to_powered_people_and_inhumans",
+        "goal": "Counter Hydra's ongoing threats specifically targeting powered people and Inhumans, using intelligence and force to prevent further exploitation and harm"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_31",
+      "context": "revealing his resolve to find Skye and take back S.H.I.E.L.D. despite overwhelming odds",
+      "catch_phrase": "We're not surrendering. We're gonna find Skye and I'm gonna take back S.H.I.E.L.D., and we're gonna need more than honest Eddie's jeep to do it."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_30",
+      "context": "defending loyalty to S.H.I.E.L.D. and confronting internal factionalism and distrust",
+      "catch_phrase": "If you wanted to talk to me, Agent Gonzales, you should have talked to me. You put spies on my team, invaded my base, hurt my people. Fury's secrets didn't bring down S.H.I.E.L.D. Hydra did."
+    }
+  ]
+}

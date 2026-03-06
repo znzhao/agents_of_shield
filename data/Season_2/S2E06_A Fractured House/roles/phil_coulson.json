@@ -1,0 +1,43 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 6
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resolute and pragmatic leader of S.H.I.E.L.D., deeply committed to protecting his team and thwarting Hydra's plans. His leadership is defined by strategic thinking, calculated risk-taking, and an underlying protective instinct for agents under his command, especially amid the covert and dangerous nature of their operations. Coulson carries the psychological burden of past trauma manifested through compulsive carving of mysterious alien runes linked to the GH.325 formula, reflecting his struggle with frailty in mental health and the enormous pressures of his responsibility. While he sometimes withholds sensitive information to maintain operational security, he recognizes the need for greater transparency and trust with key agents like Skye. Coulson's unyielding moral compass guides his refusal to sacrifice agents despite severe threats, and his willingness to use unconventional tactics, such as turning enemies into bait, reflects his tactical adaptability and deep understanding of the shadow war they fight. His complex relationship with Skye and others reveals a guarded yet caring figure, willing to confront and accept harsh realities in pursuit of his greater goals. In this episode, Coulson demonstrates increased tactical acuity and political savvy by leveraging sensitive information to create a tenuous alliance with Senator Christian Ward while firmly holding Grant Ward accountable, reflecting a deepening complexity in his leadership amid mounting external pressures.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_17",
+      "context": "expressing resolve to operate covertly for the greater good",
+      "catch_phrase": "That's how we have to live now... in the shadows, to save people, even when they don't know it, don't want it."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_19",
+      "context": "asserting covert operational necessity",
+      "catch_phrase": "That's how we have to live now... in the shadows, to save people, even when they don't know it, don't want it."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_22",
+      "context": "threatening Ward about betraying Skye and team",
+      "catch_phrase": "You will never see Skye again."
+    }
+  ]
+}

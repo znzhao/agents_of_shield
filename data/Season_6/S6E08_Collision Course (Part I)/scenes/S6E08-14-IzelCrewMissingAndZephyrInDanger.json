@@ -1,0 +1,191 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 14,
+    "scene_name": "IzelCrewMissingAndZephyrInDanger",
+    "description": "Fitz and Simmons notice that Izel and her crew are missing, raising their suspicions and unease. On the Zephyr, Pax attempts to escape and collude with Jaco, but Elena catches him in the act and tries to secure both of them. Pax finally blurts out Sarge's plan to detonate a massive bomb, threatening everyone, including the Zephyr itself.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "izel",
+        "elena_rodriguez",
+        "jaco"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You're certain?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep. There's no way to send or receive messages. Not yet, at least. Don't lose hope. Hey, did Izel give you the coordinates for where we're supposed to land?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. That's an excellent question. Where's Izel disappeared to?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That's an equally excellent question."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excuse me, Mr. Boyle? Have you seen Izel? Has she given anyone on your crew any landing coordinates? Or... did you ever find Mr... Toad? Was that strange?"
+        },
+        {
+            "character": "Fitz",
+            "line": "They were born strange. Haven't you noticed?"
+        },
+        {
+            "character": "Pax",
+            "line": "Well, if you're not gonna do anything, I will."
+        },
+        {
+            "character": "Agent",
+            "line": "Sit down!"
+        },
+        {
+            "character": "Pax",
+            "line": "How am I supposed to sit down?! Knowing that we're all gonna die?"
+        },
+        {
+            "character": "Jaco",
+            "line": "There's a plan. Now calm down."
+        },
+        {
+            "character": "Pax",
+            "line": "A plan? Nobody told me about a plan, Jaco. I swear to... If you weren't in that box, I would slit you open, climb inside, and eat my way out. Screw Sarge! I'm gonna tell them everything, and maybe we'll live to see another day!"
+        },
+        {
+            "character": "Jaco",
+            "line": "Don't be an idiot!"
+        },
+        {
+            "character": "Pax",
+            "line": "Sarge hasn't been straight with you people. Now, if I come clean, you got to turn this plane around."
+        },
+        {
+            "character": "Agent",
+            "line": "That's not my decision."
+        },
+        {
+            "character": "Pax",
+            "line": "At least tell your boss that you just got played. Yeah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "How are you gonna get close enough to kill her?"
+        },
+        {
+            "character": "Sarge",
+            "line": "We plow straight into her tower. That will weaken her. Then, when she lands and gets off her ship, right through the heart."
+        },
+        {
+            "character": "May",
+            "line": "That's... the plan? Wh... No wonder she always gets away."
+        },
+        {
+            "character": "Sarge",
+            "line": "Don't worry. I have an insurance policy this time."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's a nice thing to say about me. Denting the universe... once again."
+        },
+        {
+            "character": "Daisy",
+            "line": "I have no idea what that means."
+        },
+        {
+            "character": "Sarge",
+            "line": "Let's end this thing."
+        },
+        {
+            "character": "Jaco",
+            "line": "So, you're gonna split me open?"
+        },
+        {
+            "character": "Pax",
+            "line": "It was just pretend so the soldier guy would drop his guard. It was all part of my plan."
+        },
+        {
+            "character": "Jaco",
+            "line": "Nice."
+        },
+        {
+            "character": "Pax",
+            "line": "Now tell me Sarge's plan isn't also pretend."
+        },
+        {
+            "character": "Jaco",
+            "line": "There's a plan. It's a little different now that we're on a plane, but... it should still work. What's wrong?"
+        },
+        {
+            "character": "Pax",
+            "line": "Sarge never lets me in on the plans."
+        },
+        {
+            "character": "Jaco",
+            "line": "Because you're not good at secrets."
+        },
+        {
+            "character": "Pax",
+            "line": "I'm excellent at secrets. I didn't tell anybody about the you-know-what that Sarge is gonna use on what's-her-name."
+        },
+        {
+            "character": "Jaco",
+            "line": "But you almost did."
+        },
+        {
+            "character": "Pax",
+            "line": "Well, only because we're flying right towards it. I don't want to die. We're still flying towards it."
+        },
+        {
+            "character": "Jaco",
+            "line": "Relax. We're gonna take control of the plane."
+        },
+        {
+            "character": "Pax",
+            "line": "How are we supposed to do that?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah. How are you supposed to do that? Get back in the pod... now."
+        },
+        {
+            "character": "Jaco",
+            "line": "I think you should get inside."
+        },
+        {
+            "character": "Pax",
+            "line": "Yeah! Maybe you don't understand who you're dealing with!"
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, I understand, huevón. Damn. You're a really big dude. Killing this man just destroyed any chance of us letting you go."
+        },
+        {
+            "character": "Pax",
+            "line": "If you don't turn this plane around right now, we're all dead!"
+        },
+        {
+            "character": "Elena",
+            "line": "Seriously? Threats from a man in chains?"
+        },
+        {
+            "character": "Pax",
+            "line": "It's not us. It's Sarge."
+        },
+        {
+            "character": "Pax",
+            "line": "He has a weapon on the truck... something that's gonna take a big bite out of this planet. He's gonna wipe out everything down there, and we're flying right in the blast area."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm sorry."
+        }
+    ]
+}

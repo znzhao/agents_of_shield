@@ -1,0 +1,116 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 7,
+    "scene_name": "CoulsonFacesPoAndRaina",
+    "description": "Coulson, still captive, is confronted first by Po and then Raina. Raina prefers a less violent approach to unlocking Coulson’s memory, while Po insists on using force. The Clairvoyant intervenes remotely, mysteriously killing Po during a phone call with Raina. This marks a shift from physical torment to psychological manipulation of Coulson by Raina.",
+    "roles": [
+        "phil_coulson",
+        "raina"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D.'s gonna find me before you break me."
+        },
+        {
+            "character": "Po",
+            "line": "S.H.I.E.L.D.? Well, the Clairvoyant sees an end to all that."
+        },
+        {
+            "character": "Raina",
+            "line": "He doesn't look so good."
+        },
+        {
+            "character": "Po",
+            "line": "Raina, what took you so long?"
+        },
+        {
+            "character": "Raina",
+            "line": "I was tending to our other subject."
+        },
+        {
+            "character": "Po",
+            "line": "The persuasion skills I've spoken to the Clairvoyant so much about would be better served here with me, breaking this man."
+        },
+        {
+            "character": "Raina",
+            "line": "I would never use force to bend a man to my wishes."
+        },
+        {
+            "character": "Po",
+            "line": "He's being difficult."
+        },
+        {
+            "character": "Raina",
+            "line": "He's being beaten."
+        },
+        {
+            "character": "Po",
+            "line": "Into submission. The Clairvoyant requested it and will tell me to... See? Yes? No. Well, I've only just begun. My methods are sound. I assure you... Right here. Yes. The Clairvoyant would like to speak to you."
+        },
+        {
+            "character": "Raina",
+            "line": "This is Raina. Yes. I agree. Thank you. I'll put him back on."
+        },
+        {
+            "character": "Po",
+            "line": "Yes, I'm here."
+        },
+        {
+            "character": "May",
+            "line": "There a problem?"
+        },
+        {
+            "character": "Ward",
+            "line": "Victoria Hand. We don't exactly see eye to eye."
+        },
+        {
+            "character": "May",
+            "line": "I'm sure she's utilizing all of S.H.I.E.L.D.'s resources to find Coulson."
+        },
+        {
+            "character": "Ward",
+            "line": "Not all of them. You know, it wouldn't hurt to have Skye working an exploit. Why didn't you stick up for her?"
+        },
+        {
+            "character": "May",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Ward",
+            "line": "She has proven herself on multiple missions. She's a part of this team. You let her get tossed."
+        },
+        {
+            "character": "May",
+            "line": "All I did was tell Hand the truth. Skye's no use to us on this plane."
+        },
+        {
+            "character": "Ward",
+            "line": "How can you say that?"
+        },
+        {
+            "character": "May",
+            "line": "She's not. Not with all these agents here over her shoulder, monitoring her every move."
+        },
+        {
+            "character": "Ward",
+            "line": "You wanted her off the plane."
+        },
+        {
+            "character": "May",
+            "line": "Outside the system. That's how Skye works best. You don't have to assume the worst of me."
+        },
+        {
+            "character": "Hand",
+            "line": "Agent May, change of plans. Sending new coordinates now. We found their helicopter at a laboratory outside the Mojave desert."
+        },
+        {
+            "character": "May",
+            "line": "Copy that. Coordinates received. Hang on to something."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 18,
+    "scene_name": "AgnesConfrontsRadcliffe",
+    "description": "Agnes finally meets Radcliffe, expressing her pain over their past. Radcliffe tries to convince her that he can save her from death through the Framework, describing it as a world where she can be happy again. Coulson and Mack monitor the meeting and try to intervene, but Radcliffe escapes with Agnes, shielded by armed guards.",
+    "roles": [
+        "agnes_kitsworth",
+        "holden_radcliffe",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Agnes",
+            "line": "Do you remember my Degas print?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, of course."
+        },
+        {
+            "character": "Agnes",
+            "line": "You knew I loved that print. You told me that when I was cured, you'd buy me the real thing."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I remember."
+        },
+        {
+            "character": "Agnes",
+            "line": "I want you to know the day you left me, I threw that print in the bin.I couldn't look at it anymore."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Agnes, I hate myself for disappearing on you, but I never gave up.I just... I've realized I was going about it all wrong. Instead of trying to cure your tumor, I should have been trying to cure death itself."
+        },
+        {
+            "character": "Agnes",
+            "line": "What does that even mean?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Turn left here. Go around the corner."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Come with me, Agnes, please. I can save you. You can live."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang in there, Agnes! We're on our way!"
+        },
+        {
+            "character": "Agnes",
+            "line": "And how would you cure death? By making me into an android?!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, I'm done with robotics. This breakthrough I've made is way beyond that. I call it the Framework. I've built a world where death is obsolete. You wouldn't even be the first to experience it. I have a subject in the Framework right now, and she's thriving. I can give you a full and happy life. That's... That's all I've ever wanted for you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do not listen to him! Keep him there! Radcliffe!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Get us out of here. We need cover."
+        }
+    ]
+}

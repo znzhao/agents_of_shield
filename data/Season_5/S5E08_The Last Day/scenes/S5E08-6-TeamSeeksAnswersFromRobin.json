@@ -1,0 +1,204 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 6,
+    "scene_name": "TeamSeeksAnswersFromRobin",
+    "description": "Coulson, May, Fitz, Simmons, and Daisy debate how best to get answers from Robin and deal with the dire state of their future world. Attempts to glean specifics from Robin's visions are only partially successful, with cryptic prophecies about the end of everything. The tension rises as S.H.I.E.L.D. realizes the Prophetess might be their one hope, but her fragmented psyche makes that difficult. Daisy voices skepticism about their chances, as Fitz and Simmons try to keep hope alive.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "robin_hinton"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It all makes sense. Robin is the reason we're here. She's the connection between the two points in time. This is our answer."
+        },
+        {
+            "character": "May",
+            "line": "The problem is, for her, those two times are indistinguishable."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, the decades haven't made her any easier to understand."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's like she's still a little girl. Best not to crowd her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hello, Robin. We've had quite a journey to get to you. I was hoping you might tell us why you brought us here. What are we supposed to do?"
+        },
+        {
+            "character": "Robin",
+            "line": "I already told my mother."
+        },
+        {
+            "character": "Coulson",
+            "line": "Told her what?"
+        },
+        {
+            "character": "Robin",
+            "line": "Everything."
+        },
+        {
+            "character": "May",
+            "line": "She's been in and out since I got here. I asked her why we were taken from the diner."
+        },
+        {
+            "character": "Coulson",
+            "line": "And?"
+        },
+        {
+            "character": "May",
+            "line": "She said it was the last time we were all seen together."
+        },
+        {
+            "character": "Coulson",
+            "line": "That doesn't bode well."
+        },
+        {
+            "character": "Robin",
+            "line": "Phillip J. Coulson. He can bring all the pieces together."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pieces of what?"
+        },
+        {
+            "character": "Robin",
+            "line": "This is the day it all ends."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, the lady who sees the future says that there isn't one. Super."
+        },
+        {
+            "character": "Coulson",
+            "line": "Unfortunately, Robin's not much for specifics. Anyone who has the answers is either unreliable, dead, or wants us dead."
+        },
+        {
+            "character": "May",
+            "line": "So, status quo."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yep. The homicidal blue bastards are the most pressing issue. We made a pretty big splash when we broke out of the Lighthouse."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hope Mack and Yo-Yo are holding their own. We're gonna come to blows with Kasius soon. Only question is, who strikes first? Be nice to have Quake back with us when that happens."
+        },
+        {
+            "character": "Daisy",
+            "line": "Won't be quaking anything with this thing on."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have Fitz and Simmons take a look. We'll keep working with Robin, see what else shakes loose."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy. I thought that I had a lot to process. This must be blowing your mind."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, a little. When you're a kid, you... you learn fast not to cross the Kreepers because they'll send you to the surface, and up there, you die. But, hey, turns out that everything's a lie and people can survive up here, and even that batty old lady made it."
+        },
+        {
+            "character": "Daisy",
+            "line": "The one who sees through time? Probably should've mentioned that."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, I thought she was crazy, all right? And as I mentioned, dead. Back in the Lighthouse, Virgil used to bring her tea every day and listen to her stories. That is, until Kasius sent her and my dad topside."
+        },
+        {
+            "character": "Daisy",
+            "line": "Must have been sad to lose him. I'm sorry."
+        },
+        {
+            "character": "Deke",
+            "line": "No, I was too bitter to be sad. As far as I was concerned, his looney theories got my mom killed. So he gets himself sent to the surface, good riddance. Then you guys actually show up."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sucks when your parents get to say, “I told you so.”"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, he can say it. I just hope he says that he forgives me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, from my experience, he probably wants the same thing."
+        },
+        {
+            "character": "Deke",
+            "line": "Experience?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't meet my dad until I was in my 20s, and all he really wanted to do was make up for lost time."
+        },
+        {
+            "character": "Deke",
+            "line": "How'd that work out?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Bit of a rocky start, but we... we got there."
+        },
+        {
+            "character": "Elena",
+            "line": "It's clear, for now."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's go. It's not much further."
+        },
+        {
+            "character": "Flint",
+            "line": "You sure?"
+        },
+        {
+            "character": "Mack",
+            "line": "We made it off this floor alive before. We'll do it again."
+        },
+        {
+            "character": "Flint",
+            "line": "And then what? Back to level 10, where my friends want to kill me? At least the roaches would be quick."
+        },
+        {
+            "character": "Elena",
+            "line": "Some of my friends never saw me the same after I became an Inhuman, but I did nothing wrong and neither did you."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey!"
+        },
+        {
+            "character": "Flint",
+            "line": "That's the stuff the Blues use to keep the Vrellnexians away."
+        },
+        {
+            "character": "Elena",
+            "line": "What is he doing on this floor?"
+        },
+        {
+            "character": "Mack",
+            "line": "I have no idea. But I'll feel a lot safer with a real weapon in my hand."
+        }
+    ]
+}

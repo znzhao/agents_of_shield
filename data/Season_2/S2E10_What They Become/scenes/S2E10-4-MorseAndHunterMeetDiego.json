@@ -1,0 +1,76 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "MorseAndHunterMeetDiego",
+    "description": "Morse and Hunter meet their contact Diego in San Juan, observing his suspicious behavior as the pair attempt to gather intel on Hydra’s presence and movements. Bobbi deciphers Diego's cryptic signal, which leads to the discovery of Hydra’s staging at the abandoned Ponce de León theater nearby. They prepare to relay this intel to Coulson.",
+    "roles": [
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Ooh. Okay. This is bad."
+        },
+        {
+            "character": "Hunter",
+            "line": "What's bad?"
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, Diego's early, and he's wearing a suit."
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh, yeah, you're gonna have to connect the dots on why that's bad."
+        },
+        {
+            "character": "Morse",
+            "line": "He's never early, and he never wears a suit."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, well, that clears everything up."
+        },
+        {
+            "character": "Morse",
+            "line": "Hail HYDRA."
+        },
+        {
+            "character": "Hunter",
+            "line": "You think he's selling us out?"
+        },
+        {
+            "character": "Morse",
+            "line": "Or selling them out."
+        },
+        {
+            "character": "Hunter",
+            "line": "What? You think it's a signal?"
+        },
+        {
+            "character": "Morse",
+            "line": "I think so."
+        },
+        {
+            "character": "Hunter",
+            "line": "You think or you know? ‘Cause they're coming right towards us. If it's not clear and we're compromised, I need to know..."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, it was a signal."
+        },
+        {
+            "character": "Morse",
+            "line": "It's an address here in San Juan. Come on."
+        }
+    ]
+}

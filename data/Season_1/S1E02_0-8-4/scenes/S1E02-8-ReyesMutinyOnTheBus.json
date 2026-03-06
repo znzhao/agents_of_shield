@@ -1,0 +1,47 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 8,
+    "scene_name": "ReyesMutinyOnTheBus",
+    "description": "Reyes makes her move, attacking Coulson and attempting to seduce him as a distraction while her men follow suit elsewhere. Ward is attacked by soldiers but manages to fight back. May is incapacitated in the cockpit with sleeping gas. The Bus falls under Reyes and her forces' control as Coulson realizes the betrayal and the team is split and captured.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I think... Ward already knows you'll have to eliminate May from the equation to have a chance... which gives him about 20 seconds to get to her first."
+        },
+        {
+            "character": "Coulson",
+            "line": "We were allies. We had history. When did you decide to throw that away?"
+        },
+        {
+            "character": "Camilla",
+            "line": "As soon as I saw your team."
+        },
+        {
+            "character": "Coulson",
+            "line": "The reason I'm still alive is because you need me to verify the change of routes for your pilot when H.Q. calls in any minute now."
+        },
+        {
+            "character": "Camilla",
+            "line": "I'd appreciate that."
+        },
+        {
+            "character": "Coulson",
+            "line": "But if I don't, S.H.I.E.L.D. will shoot this aircraft out of the sky. That'll take the 0-8-4 out of your hands. Maybe I should let them."
+        },
+        {
+            "character": "Camilla",
+            "line": "Oh, no, I think you'll make the calls. You already handed me your plane for the life of one of your little lab rats. If I open the cargo hold, you'll lose them all. And you are such a sentimentality."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "HaleConfrontsRubyAtBase",
+    "description": "General Hale confronts her daughter Ruby about skipping classes, leading to a tense mother-daughter conversation. Ruby questions whether her mother is truly a 'good guy' given her role hunting S.H.I.E.L.D., specifically asking about Daisy Johnson. Hale tries to justify her actions as being for Ruby's sake, setting up their complicated relationship and introducing their perspectives in the conflict.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ruby",
+            "line": "Sure. Why wait for me to answer your knock when you can just walk right on in?"
+        },
+        {
+            "character": "Hale",
+            "line": "And why put your phone down when you can just be a brainless, drooling moron?"
+        },
+        {
+            "character": "Ruby",
+            "line": "I always look forward to our chats."
+        },
+        {
+            "character": "Hale",
+            "line": "Ears, please. They're saying you skipped class yesterday."
+        },
+        {
+            "character": "Ruby",
+            "line": "I wasn't in the mood."
+        },
+        {
+            "character": "Hale",
+            "line": "Oh, Ruby. I expect better from you, okay? This behavior's not acceptable."
+        },
+        {
+            "character": "Ruby",
+            "line": "Well, you're always telling me to stay true to myself, so what if I said my true self couldn't care less?"
+        },
+        {
+            "character": "Hale",
+            "line": "Then I'd say get your ass to class. Otherwise, you're gonna lose your damn screen time."
+        },
+        {
+            "character": "Ruby",
+            "line": "Sorry, Mom."
+        },
+        {
+            "character": "Hale",
+            "line": "How about I bring us some breakfast, huh? We haven't done that in a long time."
+        },
+        {
+            "character": "Ruby",
+            "line": "No, thanks, but if I do turn 11 again, you got it. Hey, Mom. Are you a good guy?"
+        },
+        {
+            "character": "Hale",
+            "line": "Where'd that come from?"
+        },
+        {
+            "character": "Ruby",
+            "line": "Well, you're off to a strategy meeting, right? How to stop S.H.IE.L.D.? But up until recently, everyone rooted for them and thought that they were the good guys, so are you sure that you're not a bad guy?"
+        },
+        {
+            "character": "Hale",
+            "line": "You're obsessed with Daisy Johnson. Quake. My orders are to capture her."
+        },
+        {
+            "character": "Ruby",
+            "line": "Not kill?"
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby, this is my assignment, okay? And in the adult realm, we all have to answer to someone. Even me. I do what I must..."
+        },
+        {
+            "character": "Ruby",
+            "line": "What I must to build a better world for the downtrodden citizens."
+        },
+        {
+            "character": "Hale",
+            "line": "For you, Ruby. I do this for you, okay? So try to remember that. When they resurface, I'll put an end to all of this. This entire S.H.I.E.L.D. chapter will be over."
+        }
+    ]
+}

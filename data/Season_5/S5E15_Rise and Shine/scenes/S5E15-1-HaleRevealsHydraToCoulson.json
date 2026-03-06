@@ -1,0 +1,52 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 1,
+    "scene_name": "HaleRevealsHydraToCoulson",
+    "description": "In present day, General Hale reveals herself as a Hydra operative to Phil Coulson. Coulson deduces that Hale has gravitonium, questionable allies, and isn't operating as part of a standard Air Force mission. Hale hints at her intention to unite S.H.I.E.L.D. and Hydra, setting the groundwork to tell Coulson her backstory and motives.",
+    "roles": [
+        "phil_coulson",
+        "hale"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "I see they've shown you to your new accommodations."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of all the blindfolds I've forcibly worn, that was one of the nicest."
+        },
+        {
+            "character": "Hale",
+            "line": "There's a method to this madness. All of your questions will be answered in the morning."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not my first rodeo, so I may have already figured out a little bit of what's going on here. You got the gravitonium and the total disregard for human safety. Check. You've got Ivan Drago and Crusher Creel on the payroll. Check. And then, there's you, rogue general operating with zero oversight. Add it all up, just doesn't feel like an Air Force operation."
+        },
+        {
+            "character": "Hale",
+            "line": "It's not. It's HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "I thought we stomped you out."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes. Just as you were stomped out. And yet, here we are in the same room. I'd like to tell you my story, and then, I think you'll know it's time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time for what?"
+        },
+        {
+            "character": "Hale",
+            "line": "It's time for S.H.I.E.L.D. and HYDRA to finally unite."
+        }
+    ]
+}

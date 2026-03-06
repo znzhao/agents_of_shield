@@ -1,0 +1,92 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 17,
+    "scene_name": "FitzAndSimmonsDinner",
+    "description": "Back at The Playground, Fitz arranges a quiet dinner for Simmons in a private space, hoping to give her comfort and normalcy after her trauma. Their emotional conversation highlights the depth of their bond and Fitz's unwavering support as Simmons reveals the lingering pull the alien world still has on her.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I thought it'd be good for you to get out somewhere nice, and quiet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where is everyone?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I made sure you wouldn't have any distractions."
+        },
+        {
+            "character": "Waiter",
+            "line": "Mr. Fitz, we're delighted to see you. Your table is this way. The wine is a gift from us. A very persistent young man here. We've been holding this reservation for months. I'm delighted you're finally here."
+        },
+        {
+            "character": "Simmons",
+            "line": "You kept the reservation."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't make a fuss. It's not a big deal. I remember when you took me out after months in the hospital. It made me feel like a human being again."
+        },
+        {
+            "character": "Simmons",
+            "line": "You complained the entire time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well... Okay, a crabby human being."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't thank you enough."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. It's a nice restaurant, isn't it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, but for more than that. For finding me."
+        },
+        {
+            "character": "Fitz",
+            "line": "What else was I gonna do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know what to say."
+        },
+        {
+            "character": "Fitz",
+            "line": "You don't have to say anything."
+        },
+        {
+            "character": "Waiter",
+            "line": "Have you decided what you'll be having?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, gosh. So much."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe this will help. Should I make a toast? What? Can you give us two minutes?"
+        },
+        {
+            "character": "Waiter",
+            "line": "Of course."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "RandolphSharesStaffsFinalLocation",
+    "description": "Coulson pressures Randolph for the third staff piece's location by threatening to reveal his identity. Randolph relents, recalling his time in an Irish monastery and how he hid the last piece there. Ward and Randolph discuss the staff’s lingering psychological effects, and May and Skye express their concerns for Ward's fitness. The team gets ready for the critical field operation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "My first love on this planet was Ireland. There was a monastery, and the monks gave me a nice, warm place to sleep, some soup, and some mulled wine."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Near god.”"
+        },
+        {
+            "character": "Ward",
+            "line": "The effects of the staff... are they permanent?"
+        },
+        {
+            "character": "Randolph",
+            "line": "The strength wears off. You will feel exhausted afterwards. You'll need sleep."
+        },
+        {
+            "character": "Ward",
+            "line": "What about... the other effects?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, that dark, nasty ache in the pit of your stomach, the rage in your chest that makes you feel as if your heart's about to explode? It's worse on humans. But give it a few decades, and it'll wear off, too."
+        },
+        {
+            "character": "Ward",
+            "line": "Great."
+        },
+        {
+            "character": "Skye",
+            "line": "Are you sure Ward's okay to go into the field? He's not exactly acting like himself."
+        },
+        {
+            "character": "Coulson",
+            "line": "But he knows it. He'll be fine."
+        },
+        {
+            "character": "May",
+            "line": "I'm with Coulson."
+        }
+    ]
+}

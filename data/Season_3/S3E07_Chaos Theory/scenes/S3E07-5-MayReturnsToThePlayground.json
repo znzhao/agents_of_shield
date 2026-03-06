@@ -1,0 +1,74 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "MayReturnsToThePlayground",
+    "description": "At the Playground, Morse and May discuss the monster S.H.I.E.L.D. is tracking. As Daisy greets May, May abruptly leaves, stating she needs to speak with Andrew. Morse and Hunter have a tense conversation about their relationship and the danger of being consumed by revenge, indicating their continued emotional struggles.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Strucker",
+            "line": "But I didn't know he'd change into that thing."
+        },
+        {
+            "character": "Morse",
+            "line": "You worried about Andrew? Or pissed that the Strucker kid went comatose before he could talk? Well, everyone at H.Q. says that Andrew's fine. And as far as HYDRA, we'll get ‘em. I hope you stick around. HYDRA's not the only thing we're facing these days. Between the Inhumans, this monster we're hunting, and the ATCU on our ass, we need all the help that we can get."
+        },
+        {
+            "character": "May",
+            "line": "Monster?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. Big ugly thing, likes to kill other Inhumans."
+        },
+        {
+            "character": "May",
+            "line": "You've been tracking him?"
+        },
+        {
+            "character": "Morse",
+            "line": "Trying. Transforms into a man, which makes him impossible to find."
+        },
+        {
+            "character": "Daisy",
+            "line": "May! Hi. Oh, my god. It's good to see you."
+        },
+        {
+            "character": "May",
+            "line": "I-I gotta go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Go where?"
+        },
+        {
+            "character": "May",
+            "line": "I, uh, need to talk to Andrew."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's doing a psych eval on one of the new Inhuman recruits."
+        },
+        {
+            "character": "May",
+            "line": "I checked the containment room. He's not..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, he's at a training facility off-site."
+        },
+        {
+            "character": "May",
+            "line": "Where?"
+        }
+    ]
+}

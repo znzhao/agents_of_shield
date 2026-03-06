@@ -1,0 +1,20 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 11,
+    "scene_name": "CoulsonAndMayConfrontStoner",
+    "description": "Coulson and May infiltrate the base and encounter General Stoner. Coulson tries to warn Stoner about Hydra and the Chronicoms, but May incapacitates him before he can be convinced. Their actions give them access to critical areas, but with time running out, tensions are high as the threat of Project Insight remains imminent.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "thrilling",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "General Stoner! Wait."
+        }
+    ]
+}

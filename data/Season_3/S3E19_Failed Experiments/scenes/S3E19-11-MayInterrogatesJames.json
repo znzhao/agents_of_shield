@@ -1,0 +1,101 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 11,
+    "scene_name": "MayInterrogatesJames",
+    "description": "In Absolution, May approaches James pretending to be a Hydra agent. She flirts and questions him, attempting to extract information about Hive’s plan to transform humans into Inhumans. Eventually, James reveals the operation's key location, and May relays the intelligence to Mack, advancing the S.H.I.E.L.D. team’s efforts.",
+    "roles": [
+        "melinda_may",
+        "james",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Isn't that the Inhuman Hive picked up in South Dakota?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, he's a real blowhard."
+        },
+        {
+            "character": "May",
+            "line": "That might work."
+        },
+        {
+            "character": "May",
+            "line": "Hey, this area's authorized for HYDRA personnel only. Who the hell are you?"
+        },
+        {
+            "character": "James",
+            "line": "Hello, gorgeous. I'm James. Single, 33, originally from Brisbane. I'm a Leo, with a little dab of Scorpio thrown in there for good measure. I like a decent drink, a decent meal, and an indecent lass, and not necessarily in that order. And you are...?"
+        },
+        {
+            "character": "May",
+            "line": "Nauseous. And wondering what you're doing here. Uh, you're definitely not HYDRA."
+        },
+        {
+            "character": "James",
+            "line": "Mnh-mnh."
+        },
+        {
+            "character": "May",
+            "line": "This means they brought in other contractors since Malick died?"
+        },
+        {
+            "character": "James",
+            "line": "Ouch! A contractor? Really? Is that what I look like to you?"
+        },
+        {
+            "character": "May",
+            "line": "Listen, big shot, this isn't a game. I need you to tell me what you're doing here."
+        },
+        {
+            "character": "James",
+            "line": "I'd rather show than tell."
+        },
+        {
+            "character": "May",
+            "line": "Y-Y-You're... You're one of them."
+        },
+        {
+            "character": "James",
+            "line": "That's right. Kind of hand-picked by the big man himself. Kind of a number-one draft pick, if you will."
+        },
+        {
+            "character": "May",
+            "line": "I had no idea. Please, you have to forgive me."
+        },
+        {
+            "character": "James",
+            "line": "Have a drink with me, and I might consider it. You're not too bad for security. Little icy. Lucky for me, I don't get frostbite."
+        },
+        {
+            "character": "May",
+            "line": "Were you like this before you got your powers?"
+        },
+        {
+            "character": "James",
+            "line": "What? 101% awesome? You bet. Becoming Inhuman doesn't change your personality. Who knows? Might even see for yourself one day. The big man, he's working on this experiment turning humans into Inhumans. Ask nicely, might even help you to the front of the line."
+        },
+        {
+            "character": "Coulson",
+            "line": "That must be why Hive grabbed Radcliffe to make his army. Stay on alert."
+        },
+        {
+            "character": "O'Brien",
+            "line": "You hear what Coulson just said?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, sorry. I was just wondering if there was a chance this guy doesn't get his ass whupped."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not a chance."
+        }
+    ]
+}

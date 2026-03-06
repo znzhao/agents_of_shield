@@ -1,0 +1,89 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 7,
+    "scene_name": "MayWitnessesCreelIncident",
+    "description": "May observes Creel in a diner, watching for any suspicious activity. As Creel is inadvertently touched by a waitress, she is overcome by the Obelisk's effects, causing a scene. May rushes in to help, but Creel has already fled. May and Coulson realize Creel is losing control over the Obelisk's powers and that he is becoming increasingly dangerous to bystanders.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "carl_creel"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Waitress",
+            "line": "You all good, hon? Are you still waiting on a friend?"
+        },
+        {
+            "character": "Creel",
+            "line": "Yeah, I'm still waiting."
+        },
+        {
+            "character": "Waitress",
+            "line": "All right, then. No hurry. Here, let me clear that. Excuse me. Aah! I'm sorry. Think I got a shock. Static electricity or something."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's the status on Creel?"
+        },
+        {
+            "character": "May",
+            "line": "He's been in there for over an hour. Either he's waiting for a drop or he's getting drunk off his ass. Something's happening, Coulson! I'm going in! Everybody, get back!"
+        },
+        {
+            "character": "Man",
+            "line": "I don't know what happened! All she did was touch the guy! And then he took off."
+        },
+        {
+            "character": "Waitress",
+            "line": "Please... help me!"
+        },
+        {
+            "character": "May",
+            "line": "Hang on."
+        },
+        {
+            "character": "May",
+            "line": "All the woman did was touch his arm."
+        },
+        {
+            "character": "Coulson",
+            "line": "We know that Creel absorbs the properties of whatever he touches. He must have absorbed the Obelisk and its deadly powers."
+        },
+        {
+            "character": "May",
+            "line": "But why hurt a waitress?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think it was intentional."
+        },
+        {
+            "character": "May",
+            "line": "You're saying he's losing control?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He had some control issues when S.H.I.E.L.D. first came across him."
+        },
+        {
+            "character": "May",
+            "line": "If that's what's happening, anyone near him is at risk. Should have engaged when I had the chance."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then you'd be dead, too. If this is on anyone..."
+        },
+        {
+            "character": "May",
+            "line": "Just because you're director, doesn't mean everything's on you, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. It does. Go dark. Get back when you can. Now what?"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "TAHITIStruckerExtraction",
+    "description": "The team at the Playground operates the T.A.H.I.T.I. machine on Strucker, but he is trapped in a traumatic memory, repeatedly asking to be killed. Simmons and Lincoln take risks to stimulate other brain regions, and after significant struggle, they succeed in extracting crucial information about Malick from Strucker.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "So, this recovers lost memories?"
+        },
+        {
+            "character": "Simmons",
+            "line": "But it's a dangerous procedure on a healthy subject."
+        },
+        {
+            "character": "Fitz",
+            "line": "And Werner's anything but."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Anoxic brain trauma. Prefrontal cortex is barely active."
+        },
+        {
+            "character": "Simmons",
+            "line": "But memories are backed up in other areas, as well, traces and images tucked throughout the brain."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just need to dig them out."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have a problem with this? Because I do. I've been in this thing twice. Getting my arm cut off was pleasant by comparison. But they're telling me Gideon Malick is untouchable. I won't accept that. We good to go?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Werner, I need your help. Concentrate on Gideon Malick."
+        },
+        {
+            "character": "Strucker",
+            "line": "Just kill me. Just kill me. Just kill me. Just kill me. Just kill me! Just kill me! No, just kill me! Just kill me!"
+        }
+    ]
+}

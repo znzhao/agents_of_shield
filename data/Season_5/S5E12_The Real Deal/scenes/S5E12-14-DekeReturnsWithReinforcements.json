@@ -1,0 +1,130 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 14,
+    "scene_name": "DekeReturnsWithReinforcements",
+    "description": "Back at the Lighthouse, the team spots a Quinjet arriving. Deke returns with supplies and unexpected reinforcements, including the real Mike Peterson, helping to turn the tide. Together, they help Coulson overcome his fear and close the rift. The immediate threat subsides as Fitz confirms the temporary stability of the anomalies.",
+    "roles": [
+        "deke_shaw",
+        "jemma_simmons",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "skye",
+        "phil_coulson",
+        "michael_peterson"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Aircraft. Incoming."
+        },
+        {
+            "character": "Mack",
+            "line": "They found us."
+        },
+        {
+            "character": "Simmons",
+            "line": "Did Deke get caught?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a Quinjet."
+        },
+        {
+            "character": "Davis",
+            "line": "Repeat, S.H.I.E.L.D. 313, requesting permission to land. Do you read?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't know what those people mean to me. Don't say that they're nothing. Don't say that."
+        },
+        {
+            "character": "Mike",
+            "line": "No. No, they're a reflection of you. Who you truly are. One of the good ones. The real deal. You've still got that thing there. And I'm not trying to take it from you. I'm not trying to stop you. After all, look. You're literally walking into the light. You're ready. Let's go together."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry, Mike. I'm not buying it."
+        },
+        {
+            "character": "Mike",
+            "line": "Then I'll take you myself."
+        },
+        {
+            "character": "Mike",
+            "line": "What are you doing, Coulson? Pick up the doodad. Let's go!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're, uh, you're real, right? Please tell me you're real."
+        },
+        {
+            "character": "Mike",
+            "line": "Would that make this any less awkward?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mike",
+            "line": "Good."
+        },
+        {
+            "character": "Lee",
+            "line": "Prints and DNA came back, ma'am. Deke Shaw? He's no one. As in, no record at all. Could be a Life Model Decoy. And we're getting calls from towns at the lakefront, more Daisy Johnson sightings. Do you want us to chase them?"
+        },
+        {
+            "character": "Hale",
+            "line": "She's either on her way to Canada, or this entire thing is a smokescreen. Pack it up."
+        },
+        {
+            "character": "Fitz",
+            "line": "The gravity field's keeping the rift contained, for now. It's a Band-Aid. We'll need a more powerful solve, but the anomalies are fading, no new ones are occurring. We have one man to thank for that."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, come on. That's overstating it, but, still, it means a lot coming from you two. I mean, obviously, it was pretty touch and go up there for a while, but I called around to tell the Daisy Johnson story and was able to get everything off the checklist, though no one had ever heard of Haig, so I got something even better. But, yeah, I'm not gonna lie, I was pretty freaked out when I punched the coordinates into the phone and it led me into the middle of a grassy field. And it's like, “Can the Quinjet get here a little bit quicker, please,” You know? But I managed to grave the critters. Pro tip, tuck your pants into your shoes. Nothing gets up."
+        },
+        {
+            "character": "Fitz",
+            "line": "I was obviously talking about Deathlok."
+        },
+        {
+            "character": "Coulson",
+            "line": "Goes without saying."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is he sticking around?"
+        },
+        {
+            "character": "Coulson",
+            "line": "‭No. He rolls solo. He stepped up, helped some Agents on the run. Helped Agent Davis find medical help. But he said he's leaving after tonight's festivities."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I mean, ‭his arrival was perfect timing. Uncanny, really. Just what we needed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "What exactly were you up against down there, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, are you stalling?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Me? Am I stalling just now? I don't think so."
+        }
+    ]
+}

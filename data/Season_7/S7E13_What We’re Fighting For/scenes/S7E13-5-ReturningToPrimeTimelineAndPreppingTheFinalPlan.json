@@ -1,0 +1,64 @@
+{
+    "season": 7,
+    "episode": 13,
+    "num": 5,
+    "scene_name": "ReturningToPrimeTimelineAndPreppingTheFinalPlan",
+    "description": "The team arrives back in their original timeline, just before their jump to the past. Fitz gives final instructions, and the group splits up: FitzSimmons, Yo-Yo, and Sousa prepare to assist their past selves covertly, while others ready for their respective tasks. Sibyl's fleet scans for Zephyr One, preparing to attack, and the team braces for a tight operation to save Earth and ensure the timeline closes seamlessly.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "phil_coulson",
+        "sousa",
+        "skye",
+        "sibyl",
+        "kora"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I think we're close!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone's clear on what needs to be done. You two go with Fitz and Simmons, retake the Lighthouse."
+        },
+        {
+            "character": "Elena",
+            "line": "Right."
+        },
+        {
+            "character": "Sousa",
+            "line": "Copy that."
+        },
+        {
+            "character": "Mack",
+            "line": "But first, you need to put these on. We'll arrive just before we left. So, believe it or not, there's unfinished business at the Temple. Yeah, I know. I don't believe it, either."
+        },
+        {
+            "character": "May",
+            "line": "The Hunters are gonna be scanning for us everywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang tight. We gotta wait for our moment."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Zephyr One is out there somewhere."
+        },
+        {
+            "character": "Hunter",
+            "line": "We are not seeing any..."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Find it. Destroy it."
+        }
+    ]
+}

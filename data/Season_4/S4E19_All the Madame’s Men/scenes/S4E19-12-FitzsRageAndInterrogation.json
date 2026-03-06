@@ -1,0 +1,48 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 12,
+    "scene_name": "FitzsRageAndInterrogation",
+    "description": "Back at the Triskelion, Alistair Fitz informs his son that the traitors have escaped. Fitz’s fury breaks out, demanding more aggressive action. After rebuking his father's apparent weakness, Fitz tells Alistair to interrogate Radcliffe for information. The elder Fitz confronts Radcliffe, who mocks him for his failures with his son and lets slip that he spoke with Daisy via a vent, implicating himself in the conspiracy.",
+    "roles": [
+        "leo_fitz",
+        "holden_radcliffe"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Alistair",
+            "line": "The traitors escaped."
+        },
+        {
+            "character": "Doctor",
+            "line": "What?"
+        },
+        {
+            "character": "Alistair",
+            "line": "We believe they got out underground. We lost seven agents."
+        },
+        {
+            "character": "Doctor",
+            "line": "I don't care if you have to send 100 agents to their deaths. They broke her spine. I want them dead!"
+        },
+        {
+            "character": "Alistair",
+            "line": "Don't you snap at me, boy. If I wanted you hysterical at every setback, I would have left you with your mother."
+        },
+        {
+            "character": "Doctor",
+            "line": "So, what now?"
+        },
+        {
+            "character": "Alistair",
+            "line": "I have yet to turn over every stone. Someone knows where they're going. I'll find them."
+        },
+        {
+            "character": "Doctor",
+            "line": "You were right. I can't show any weakness. Which means I can't tolerate failure even from my own father."
+        }
+    ]
+}

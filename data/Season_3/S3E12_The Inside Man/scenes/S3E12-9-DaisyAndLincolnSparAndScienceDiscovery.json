@@ -1,0 +1,78 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "DaisyAndLincolnSparAndScienceDiscovery",
+    "description": "At the Playground, Daisy and Lincoln spar as part of his agent training before Simmons interrupts them with news about Creel's DNA. Simmons, Fitz, and Lincoln run tests revealing Creel's blood can block and break down the Terrigenesis process, presenting the possibility of a vaccine against Inhuman transformation. This scientific discovery causes a rift between Daisy and Lincoln as they debate what it means for their kind.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "I'm not gonna fight you."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's not fighting. It's training."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We finally found a night off together, and this is what you want to do? We could be lounging or binge-watching some show or..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I need to blow off some steam, and you need to get ready for your agent assessment at the cocoon."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah, can't wait. More time apart."
+        },
+        {
+            "character": "Daisy",
+            "line": "I like it when you miss me. No powers. Okay? Just you and me."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're getting better. Is this how you've been spending your free time?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "What free time?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I think you're starting to like spending time in the field... that rush of adrenaline."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not so sure the field is my thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's your thing?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Don't know. Maybe it's you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. So sorry. Um, there's something going on with Creel's DNA sample. I could really use a doctor who understands inhuman biology."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, I happen to have one of those right here. Go do your thing."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We're gonna pick this up right where we left off."
+        }
+    ]
+}

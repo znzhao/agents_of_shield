@@ -1,0 +1,55 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 6,
+    "scene_name": "CoulsonInterrogatesMalick",
+    "description": "At the Playground, Coulson conducts a tense interrogation of Gideon Malick, probing him for information on the entity wearing Ward's face. Malick is haunted by guilt and grief, revealing that Hive killed his daughter and warning Coulson about the real threat Hive poses. Coulson tries to appeal to Malick’s desire for revenge, attempting to get more information about Hive’s powers and intentions.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You had Rosalind Price killed. I haven't decided what to do about that in the long run, but right now, I need to know. What is that thing parading around as Grant Ward?"
+        },
+        {
+            "character": "Malick",
+            "line": "You ever ride Arabians?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not really the equestrian type."
+        },
+        {
+            "character": "Malick",
+            "line": "Magnificent horses, hard to control. Stephanie rode Arabians, my daughter. We were riding once in the Tetons, and there was this rockslide up ahead, and her horse bucked, threw her right off. And my heart stopped. But she got up and, calmed that horse in a way that made me more proud than anything I'd ever done. And that was the day I told her about HYDRA. Brought her into the fold."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's Stephanie now, Gideon?"
+        },
+        {
+            "character": "Malick",
+            "line": "I was foolish. I thought that I could bring back the HYDRA and guide it the same way Stephanie commanded that horse. I taught her to have faith in it as a god. And she did."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you ever want to see her again..."
+        },
+        {
+            "character": "Malick",
+            "line": "He killed her! It cares nothing for us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Doesn't sound like a god."
+        },
+        {
+            "character": "Malick",
+            "line": "Oh, no, Mr. Coulson. It is a god, it's just not ours."
+        }
+    ]
+}

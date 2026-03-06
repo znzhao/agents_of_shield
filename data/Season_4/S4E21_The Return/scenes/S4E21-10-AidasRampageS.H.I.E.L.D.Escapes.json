@@ -1,0 +1,64 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 10,
+    "scene_name": "AidasRampageS.H.I.E.L.D.Escapes",
+    "description": "Aida violently escapes containment and kills several of Talbot's soldiers while making her way through the base. Fitz, Piper, Prince, Davis, and the rest of the team work desperately to evade her, while May races to pilot Zephyr One away. In the chaos, Aida kills Davis, but Piper manages to get Fitz back to safety. Talbot remains behind to secure the base, and the S.H.I.E.L.D. team narrowly escapes as Zephyr One departs.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "May! Take off now! We have to move! If she can find us, she'll kill us all!"
+        },
+        {
+            "character": "Piper",
+            "line": "Davis had her down for the count."
+        },
+        {
+            "character": "Fitz",
+            "line": "They won't listen to me! She can't be stopped! May! May! You're the only other person that knows about the Inhumans we tested."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Try it. Let's see what happens."
+        },
+        {
+            "character": "Piper",
+            "line": "Davis..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We already left him. I'm sorry, but he's already dead."
+        },
+        {
+            "character": "Daisy",
+            "line": "If you drop your guns, you can come with us."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't suggest staying, but the Zephyr's leaving with or without you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Fall back!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Search the base for any other threats and any bodies!"
+        }
+    ]
+}

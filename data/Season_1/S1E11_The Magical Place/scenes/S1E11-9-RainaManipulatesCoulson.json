@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 9,
+    "scene_name": "RainaManipulatesCoulson",
+    "description": "Raina tries a different tactic with Coulson, using emotional manipulation about his lost love and the mystery of Tahiti to persuade him to undergo the memory machine. Her words unsettle Coulson, who finally agrees to let her use the device in the hope of discovering the truth. The scene is emotionally charged, highlighting both Raina’s cunning and Coulson’s vulnerability.",
+    "roles": [
+        "phil_coulson",
+        "raina"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "And you're clinging to the one thing you have... fond memories of your recovery."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, this person you work for told you I died and have gaps in my memory. Ever think your mind reader might just be looking up symptoms online?"
+        },
+        {
+            "character": "Raina",
+            "line": "I was also told it keeps you up at night, that you crave answers, that you're troubled by the fact that when you asked for answers, you were denied. Isn't that true?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I trust the system. They keep secrets for a reason."
+        },
+        {
+            "character": "Raina",
+            "line": "But why would S.H.I.E.L.D. keep details of your death from you? They're your family... Your only family since you've lost your mother, too. Now, after all you've sacrificed..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sacrifice is part of the job. I would give my life..."
+        },
+        {
+            "character": "Raina",
+            "line": "You didn't just give your life, you gave up your chance at a normal one, at love. And she did love you, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "How could you know that?"
+        },
+        {
+            "character": "Raina",
+            "line": "Do you miss her? Dinners at the Richmond. Do you miss hearing her play? You didn't even have a chance to say goodbye."
+        },
+        {
+            "character": "Coulson",
+            "line": "I-I couldn't. I-I can't."
+        },
+        {
+            "character": "Raina",
+            "line": "She cried for days after S.H.I.E.L.D. told her you died. They shattered her heart with a lie, and now they're lying to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. No, they're not."
+        },
+        {
+            "character": "Raina",
+            "line": "I know you don't want to believe it, but you can't tell me nothing makes you doubt, makes you wonder what happened in Tahiti."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a magical place... I keep saying that."
+        },
+        {
+            "character": "Raina",
+            "line": "Don't you want to know why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Turn it... turn it on."
+        }
+    ]
+}

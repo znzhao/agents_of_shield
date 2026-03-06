@@ -1,0 +1,78 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 13,
+    "scene_name": "HunterMayAndMorseRescuePlan",
+    "description": "Hunter regains consciousness after being attacked by Creel and realizes Talbot's son is being held by Hydra. Hunter, May, and Morse work together to escape Hydra guards, deduce Malick's blackmail of Talbot, and recognize their opponents are Hydra operatives. Armed with this information and scavenged Hydra weapons, the trio forms a plan to rescue Coulson and Talbot while May attempts to recover Talbot's son.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter",
+        "carl_creel"
+    ],
+    "vibe": "action-packed",
+    "location": "Symposium on the Alien Contagion (Taiwan)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "I hate to be a buzzkill, but this is a gun-free zone, so I'm gonna have to take that off you."
+        },
+        {
+            "character": "May",
+            "line": "Hunter, what's going on?"
+        },
+        {
+            "character": "Hunter",
+            "line": "They've got Talbot's son."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm pretty sure it's him, in one of those gel-matrix cubes."
+        },
+        {
+            "character": "May",
+            "line": "Malick. He's blackmailing Talbot."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why would he do that?"
+        },
+        {
+            "character": "May",
+            "line": "To betray Coulson."
+        },
+        {
+            "character": "Morse",
+            "line": "Standard-issue HYDRA. Print detection so no one else can use it."
+        },
+        {
+            "character": "May",
+            "line": "Great. Coulson's in trouble, the place is crawling with armed HYDRA Agents, and we have no weapons."
+        },
+        {
+            "character": "Hunter",
+            "line": "Not strictly true."
+        },
+        {
+            "character": "Hunter",
+            "line": "Buon appetito."
+        },
+        {
+            "character": "Morse",
+            "line": "I love you."
+        },
+        {
+            "character": "May",
+            "line": "I don't hate you quite as much."
+        },
+        {
+            "character": "May",
+            "line": "You two, find Coulson and Talbot. I'll find Talbot's son."
+        }
+    ]
+}

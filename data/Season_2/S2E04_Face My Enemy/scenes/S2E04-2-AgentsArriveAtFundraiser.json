@@ -1,0 +1,255 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "AgentsArriveAtFundraiser",
+    "description": "Coulson and May arrive at Gabriel Soto’s fundraising party undercover as a married couple, working to maintain their cover while the support team—Skye, Mack, Triplett, Hunter—monitors from afar. There is playful banter about going undercover, and Skye relays details about the painting’s security. Coulson and May size up the party's defenses and reminisce about previous missions, setting the stage for tonight's heist.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "I should really be getting ready for the party. Besides, I thought you said you wanted time in the ocean."
+        },
+        {
+            "character": "Hunter",
+            "line": "I've seen it... fish, waves... whatever. I found something far more captivating."
+        },
+        {
+            "character": "Skye",
+            "line": "The rabbit's in the hutch. I'm on my way. I think we'll make it. Hunter did a good job, uh, distracting Gabriel Soto's executive assistant."
+        },
+        {
+            "character": "Triplett",
+            "line": "Oh, I bet he did. Damn. Tickets cost $25,000?"
+        },
+        {
+            "character": "Skye",
+            "line": "Each. That's why I'm going for the five-finger discount. Mack? You're on."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy that. We're pulling up now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Mack",
+            "line": "Sir, notice the car? 1962 Rolls... restored it myself."
+        },
+        {
+            "character": "Coulson",
+            "line": "I noticed. Still not letting you work on Lola."
+        },
+        {
+            "character": "Mack",
+            "line": "In time, sir. In time."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is fun, right? Isn't this fun? Look ... cufflinks."
+        },
+        {
+            "character": "May",
+            "line": "I will pay you $500 right now for a pair of flats."
+        },
+        {
+            "character": "Mack",
+            "line": "Good luck, sir."
+        },
+        {
+            "character": "Man",
+            "line": "Identification, please."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course."
+        },
+        {
+            "character": "May",
+            "line": "Charles, you've got mine, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes."
+        },
+        {
+            "character": "May",
+            "line": "I like making him carry my things... gives him purpose."
+        },
+        {
+            "character": "Coulson",
+            "line": "Plus, that way I know she can't take off without me."
+        },
+        {
+            "character": "May",
+            "line": "Oh, well, you never know when a better offer might come along."
+        },
+        {
+            "character": "Man",
+            "line": "Enjoy the party."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you. Darling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Good work on the cover, Skye. We're in."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. Remember... Soto has the painting in a sublevel storage room until it comes out later tonight for the guests."
+        },
+        {
+            "character": "May",
+            "line": "How heavy is the security?"
+        },
+        {
+            "character": "Skye",
+            "line": "Still assessing. Let's assume “very.” Keep in mind we've got diplomats here, state officials. These are not friends of S.H.I.E.L.D."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bridget said Soto's sending out the painting for verification first thing in the morning. She, uh, whispered it in my ear, if you know what I mean."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, everybody on the planet knows what you mean, Hunter. Let's focus."
+        },
+        {
+            "character": "Hunter",
+            "line": "Right, so upshot is tonight's our one chance to steal this thing."
+        },
+        {
+            "character": "Skye",
+            "line": "Director, are you sure you don't want me there? I can help you and May get around any security measures soto has in..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, keeping it to two agents allows us to minimize detection in a small space. I hope you don't need me to explain covert operations again."
+        },
+        {
+            "character": "Skye",
+            "line": "No, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. This writing was in Garrett's lab, the Obelisk, and now a 500-year-old piece of art. It's important. Getting that painting could mean answers for us."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, sir. We will... Wait. What was that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. That's May."
+        },
+        {
+            "character": "Skye",
+            "line": "I-is she okay? Is everything okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. She's laughing. I think the worst of it's over now."
+        },
+        {
+            "character": "May",
+            "line": "Excuse me. My face hurts."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. We got a cover to maintain and some details to go over. Going radio silent. We'll resume contact shortly."
+        },
+        {
+            "character": "Skye",
+            "line": "Did they just turn off their comms?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, hey, look at that. you still remember the steps... impressive. My 10:00... security chief standing watch."
+        },
+        {
+            "character": "May",
+            "line": "Dance elective at the academy. Hmm. Of course, I dropped it two weeks later. Dome camera... 3:00. I count seven uniforms. Walkie, sidearm, baton. I just wanted to graduate so I could get actual field assignments."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You weren't exactly thrilled when we got assigned that retrieval op in Sausalito... that coffee shop, our first mission?"
+        },
+        {
+            "character": "May",
+            "line": "That's because the commander sent us in with no exit plan. I was in the bay for five hours."
+        },
+        {
+            "character": "Coulson",
+            "line": "I fished you out... eventually. Come on. We used to have fun like this in our youth. You know you enjoyed it."
+        },
+        {
+            "character": "May",
+            "line": "Yes. Then life happened. Nostalgia's fine, but I'd rather deal with reality. You planning to talk to me about your hand?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What about it?"
+        },
+        {
+            "character": "May",
+            "line": "You think I didn't see it tremoring the whole flight out? Your symptoms are getting worse."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did the rest of the team see it?"
+        },
+        {
+            "character": "May",
+            "line": "No. They're good. Skye's asking the usual too many questions, but they think it's a standard op... don't know it's personal."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "May",
+            "line": "Phil, if I think this mission is too much for you, I'll pull the plug."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, fine. I understand. But that's not why I turned off the comms. I know you don't want to talk about this, but we need to make a plan in case I go the way of Garrett."
+        },
+        {
+            "character": "May",
+            "line": "You're right. I don't want to talk about this."
+        },
+        {
+            "character": "Coulson",
+            "line": "We both know how this could end."
+        },
+        {
+            "character": "May",
+            "line": "Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know it's uncomfortable, but it's also necessary."
+        }
+    ]
+}

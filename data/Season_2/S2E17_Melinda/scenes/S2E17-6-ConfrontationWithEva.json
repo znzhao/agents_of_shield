@@ -1,0 +1,96 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 6,
+    "scene_name": "ConfrontationWithEva",
+    "description": "Coulson initiates contact with Eva Belyakov in the market, offering her safety. Despite his efforts, Eva is hostile and is quickly aided by armed thugs who take a young girl hostage and escape, prompting the team to scramble in response. May alerts Coulson to approaching locals, indicating the danger is escalating.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hello. May I? My name is Phil Coulson, and I'm here to help. My group specializes in helping people like you, who have gifts."
+        },
+        {
+            "character": "Belyakov",
+            "line": "And why should I trust you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because I could take you somewhere safe. I know you've been on the run, but S.H.I.E.L.D. can protect you. You're not alone in all of this."
+        },
+        {
+            "character": "May",
+            "line": "Locals incoming. Gun. Blue shirt."
+        },
+        {
+            "character": "Hart",
+            "line": "Agent O'Brien. Be sure they don't interfer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why don't we go somewhere more secure?"
+        },
+        {
+            "character": "O'Brien",
+            "line": "Hey. Can I talk you for a minute?"
+        },
+        {
+            "character": "Belyakov",
+            "line": "No. I like it here."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, we're running out of time."
+        },
+        {
+            "character": "Coulson",
+            "line": "These men can't help you. Let's talk somewhere calmer. What is it you're looking for?"
+        },
+        {
+            "character": "Belyakov",
+            "line": "Pain."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easy."
+        },
+        {
+            "character": "O'Brien",
+            "line": "Drop your weapons now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easy!"
+        },
+        {
+            "character": "Man",
+            "line": "Step back!"
+        },
+        {
+            "character": "O'Brien",
+            "line": "Drop the damn gun."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easy. Let her go."
+        },
+        {
+            "character": "O'Brien",
+            "line": "Just put the girl down. I'll come with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let my men go. We can all walk away from this."
+        },
+        {
+            "character": "Man",
+            "line": "Stand back! Do not follow us!"
+        }
+    ]
+}

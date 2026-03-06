@@ -1,0 +1,181 @@
+{
+    "season": 3,
+    "episode": 16,
+    "num": 3,
+    "scene_name": "CoulsonAndTeamDebriefOnZephyrOne",
+    "description": "On Zephyr One, Coulson, May, Mack, Daisy, Simmons, Fitz, and Lincoln discuss the ongoing threat posed by Ward’s body being possessed by the creature from Maveth. They debate strategy for tracking Malick and the new Hydra activities and decide to split the team. FitzSimmons prepare to analyze the Transia Corp’s research and Giyera’s role is underscored as a dangerous adversary.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "skye",
+        "lincoln"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You said you killed him."
+        },
+        {
+            "character": "Coulson",
+            "line": "I did."
+        },
+        {
+            "character": "May",
+            "line": "Well, you didn't kill him hard enough. Want to tell me what we're looking at?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The lab is working on that question. I'm sorry about Andrew. If you need any..."
+        },
+        {
+            "character": "May",
+            "line": "I don't want to talk about that any more than you want to talk about this. You don't have a lot of kills like that under your belt."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've done my fair share."
+        },
+        {
+            "character": "May",
+            "line": "Not that you enjoyed. I would've made the same choice. We do what we have to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know the company line. Just feel like we're only fixing problems that we created."
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Plus side, maybe I'll get a chance to kill him, too."
+        },
+        {
+            "character": "Mack",
+            "line": "You got to be kidding me. Ward? What a pain in the ass. What? Leaving him for dead on another planet isn't enough to get rid of that guy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You're looking better."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah? ‘Cause you're not."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, we don't think he's a guy anymore."
+        },
+        {
+            "character": "Simmons",
+            "line": "We think Ward's body was possessed, for lack of a better word, by It, the creature."
+        },
+        {
+            "character": "Fitz",
+            "line": "From the other planet."
+        },
+        {
+            "character": "Mack",
+            "line": "And he burned them or something?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, right now..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We have no idea. When I was there, It knew everything that Will did, even after he was gone."
+        },
+        {
+            "character": "Daisy",
+            "line": "Which means whatever this thing is has Ward's memories, so why hasn't It come after us?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe It's not interested in us."
+        },
+        {
+            "character": "Mack",
+            "line": "Can't believe I'm hearing this."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, we know It destroyed an entire civilization over there. Who knows what It has planned here?"
+        },
+        {
+            "character": "Mack",
+            "line": "Tremors, you saw the future, right? You see anything else? Anything that might help us out?"
+        },
+        {
+            "character": "Anderson",
+            "line": "Director Coulson would like to see you in his office, all of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick has given new meaning to the term “hostile takeover.” What he did at Transia Corp was brutal, even for him. They must have something he needs."
+        },
+        {
+            "character": "May",
+            "line": "If we can figure out what it is."
+        },
+        {
+            "character": "Mack",
+            "line": "It'll lead us to Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is not Ward."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sure is creepy like Ward."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ward's dead. I saw it happen."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's a lot of overlap between the two companies, but only Transia has a subsidiary dabbling in the agrochemical field."
+        },
+        {
+            "character": "Daisy",
+            "line": "GT Agrochemical. Does what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "GMOs, pesticides, ruining the global food supply."
+        },
+        {
+            "character": "Coulson",
+            "line": "Minutes after the takeover, a paramilitary force took control of that branch, started moving equipment out."
+        },
+        {
+            "character": "May",
+            "line": "Zephyr is wheels up in 20. The Quinjet will peel off mid-flight."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're splitting up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln and Daisy have a stop to make in the Badlands."
+        },
+        {
+            "character": "Lincoln",
+            "line": "There, uh, there was this Inhuman in Afterlife. He might have answers about whatever is possessing Ward. It's a long story. I'll explain on the way."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're in the dark, but right now, Ward and this thing, they're not afraid to take what they want or kill who they want. So what's our advantage?"
+        },
+        {
+            "character": "Mack",
+            "line": "They're not afraid."
+        }
+    ]
+}

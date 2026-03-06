@@ -1,0 +1,66 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 16,
+    "scene_name": "FitzSimmonsProposalAndEscape",
+    "description": "In the chaos after the arena fight, Fitz proposes again to Simmons and she accepts. Enoch helps facilitate their escape. Daisy, Fitz, and Simmons unite and flee together, barely escaping the aftermath of the revolt in the arena.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "enoch",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I'm never leaving you again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then marry me, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Absolutely."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Also, um, just to say, I did propose earlier when Kasius had your hearing turned off."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, of course you did."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I... Seriously, I did."
+        },
+        {
+            "character": "Enoch",
+            "line": "Hello, friend."
+        },
+        {
+            "character": "Kree",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I am a Kree. As I have always been, brother."
+        },
+        {
+            "character": "Kree",
+            "line": "Do you know where you're going? People don't come back from there."
+        },
+        {
+            "character": "Enoch",
+            "line": "I am not a person."
+        }
+    ]
+}

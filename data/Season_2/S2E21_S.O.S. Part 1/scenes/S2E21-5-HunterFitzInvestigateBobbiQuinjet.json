@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 5,
+    "scene_name": "HunterFitzInvestigateBobbiQuinjet",
+    "description": "At the Playground, Hunter and Fitz investigate the disappearance of Bobbi's Quinjet, looking through flight records and surveillance footage. They determine that Agent 33, disguised as May, left with Bobbi. This sets up concern for Bobbi’s safety and triggers the search for her whereabouts.",
+    "roles": [
+        "lance_hunter",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Her phone's not picking up, not even voicemail."
+        },
+        {
+            "character": "Fitz",
+            "line": "Flight records suggest that Bobbi's Quinjet left before the other three. There's no indication of a crash. The transponder's offline. Uh, it's possible that somebody disconnected it, though."
+        },
+        {
+            "character": "Hunter",
+            "line": "Forget about the plane. Can you pull up the..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Footage from Bobbi, of the base, before she left, good idea."
+        },
+        {
+            "character": "Hunter",
+            "line": "You know, I am capable of finishing my own..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sentences. Yes, you are. I'm sorry."
+        }
+    ]
+}

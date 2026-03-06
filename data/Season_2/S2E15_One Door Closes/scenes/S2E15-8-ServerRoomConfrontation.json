@@ -1,0 +1,45 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 8,
+    "scene_name": "ServerRoomConfrontation",
+    "description": "Fitz attempts to restore power in the server room but is intercepted by Mack. Mack tries to reason with Fitz and urges him to stay back, revealing his personal pain and dedication. Just then, Gonzales and his team breach the Playground, capturing Coulson's team. May, however, avoids capture.",
+    "roles": [
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "robert_gonzales"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Why is that not working? There's something else. Two down. What the hell is that?"
+        },
+        {
+            "character": "Mack",
+            "line": "Fitz, don't."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not gonna hurt you, buddy. I would never hurt you. You know that. I just need you to trust me right now, please."
+        },
+        {
+            "character": "Mack",
+            "line": "When I was a kid, I had this coin collection, but one day, I-I couldn't find it. Got so mad, I punched the floor. And it felt good at the time. And then, a week later, my, uh... my hand turned black and blue. It was swollen out to here. I almost lost it. It turns out, I broke my fifth metacarpal. I had no idea. They call it a, uh... a boxer's break."
+        },
+        {
+            "character": "Gonzales",
+            "line": "You getting ready for a point here, chief?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. The most dangerous kind of pain is the kind you can't feel. I got you, sir. I got you."
+        }
+    ]
+}

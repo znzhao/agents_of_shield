@@ -1,0 +1,41 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 17,
+    "scene_name": "MayDaisyAndDekeTryToStopBomb",
+    "description": "On the truck, Daisy, May, Deke, and Snowflake frantically search for the bomb while trapped by Sarge's machinations. The team realizes the truck is now operating on autopilot and locked onto the Shrike tower, rendering their usual tactics useless. Sarge vanishes from the truck, leaving the team in a desperate race against time.",
+    "roles": [
+        "melinda_may",
+        "deke_shaw",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "How big is it? What's it look like?"
+        },
+        {
+            "character": "Snowflake",
+            "line": "I don't know. I never saw it."
+        },
+        {
+            "character": "Deke",
+            "line": "Will you stop talking to her like one of the bad guys? She's on our side now!"
+        },
+        {
+            "character": "Daisy",
+            "line": "You know what? Screw this. If we're gonna blow, we're gonna blow."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's gone."
+        },
+        {
+            "character": "Deke",
+            "line": "I think I found it."
+        }
+    ]
+}

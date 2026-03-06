@@ -1,0 +1,89 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 7,
+    "scene_name": "EchoChamberAndGuestHouseDiscovery",
+    "description": "Fitz and Simmons, working in the Bus lab, use the Echo Chamber and archival data to trace the origin of the mysterious drug GH-325. They discover the existence of the Guest House, a non-S.H.I.E.L.D. World War II bunker, and find evidence that Director Fury previously accessed it. The face technological hurdles as they attempt to break encryptions and determine that the Guest House is their next destination in hopes of finding the drug that could save Skye.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I think maybe I can help with that."
+        },
+        {
+            "character": "Simmons",
+            "line": "You've set up the echo-chamber."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I made a couple of calls. A buddy of mine works in the archives at the Triskelion. Agreed to let us access it from here. Hard to believe, but this cube contains all of S.H.I.E.L.D.'s historical administrative data."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, but if Agent Coulson's operation didn't take place at a S.H.I.E.L.D. medical facility..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We won't find any record of it here... I know. But this also contains all interoffice memos, travel arrangements, purchase orders. Maybe we can track down the location through a virtual paper trail of some sort or another."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Okay. Well, let's start with the travel memoranda from the date Coulson got stabbed."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Or, um, what about Dr. Streiten's departure from the Triskelion? Maybe they have that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Here. This is interesting."
+        },
+        {
+            "character": "Simmons",
+            "line": "A World War II bunker?"
+        },
+        {
+            "character": "Fitz",
+            "line": "“Collapsed” bunker. Definitely not a sanctioned S.H.I.E.L.D. facility."
+        },
+        {
+            "character": "Simmons",
+            "line": "“The Guest House?”"
+        },
+        {
+            "character": "Fitz",
+            "line": "Exactly. Guest House... G.H. GH-325. Look at the file's access history."
+        },
+        {
+            "character": "Simmons",
+            "line": "The only record of it being opened..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is by a level 10 operative."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, Fury's been to this place, and he's the person who sanctioned the operations on Agent Coulson. And why aren't you trying to find the file?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah, damn. Encrypted. Skye could crack this."
+        },
+        {
+            "character": "Fitz",
+            "line": "What would she do? It's not an encryption."
+        }
+    ]
+}

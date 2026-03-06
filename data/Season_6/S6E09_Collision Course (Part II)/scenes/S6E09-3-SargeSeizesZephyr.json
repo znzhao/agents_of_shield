@@ -1,0 +1,46 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "SargeSeizesZephyr",
+    "description": "Back on Zephyr One, Sarge and his crew seize control of the bridge, taking Mack and Davis hostage. Sarge threatens the team to ensure compliance, revealing his exit plan. Mack and Davis reluctantly comply to protect Elena and the crew, as the villainous plan to chase Izel's ship takes shape.",
+    "roles": [
+        "alphonso_mackenzie",
+        "davis",
+        "sarge_pachakutiq",
+        "jaco"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Agent Diaz, I want you to take the controls. Get there fast. Now, remember, don't attempt to do any..."
+        },
+        {
+            "character": "Diaz",
+            "line": "Unh! Unh-unh."
+        },
+        {
+            "character": "Sarge",
+            "line": "Let me guess. You didn't see this one coming."
+        },
+        {
+            "character": "Mack",
+            "line": "I knew you had an exit strategy."
+        },
+        {
+            "character": "Sarge",
+            "line": "Be thankful. In a few moments, the threat to your planet will be vaporized and we'll be flying away, sitting pretty. Just a precautionary measure in case your fast friend tries anything stupid."
+        },
+        {
+            "character": "Sarge",
+            "line": "And this is in case you try anything stupid. So, here's how this is gonna go down. You make sure your crew follows my orders, and if not, I put her out of her misery. Simple, right? Now turn this ship around."
+        },
+        {
+            "character": "Mack",
+            "line": "Agent Davis... get us out of here."
+        }
+    ]
+}

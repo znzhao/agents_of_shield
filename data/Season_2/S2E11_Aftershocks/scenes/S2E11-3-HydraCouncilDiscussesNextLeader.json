@@ -1,0 +1,76 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "HydraCouncilDiscussesNextLeader",
+    "description": "High-ranking HYDRA figures, including Octavian Bloom, meet to discuss Daniel Whitehall's death and the resulting power vacuum. Dr. List, speaking for Baron von Strucker, announces a contest among the leaders: whoever can eliminate S.H.I.E.L.D. will take Whitehall's place. Suspicion over Sunil Bakshi's whereabouts highlights the tension between HYDRA's factions.",
+    "roles": [
+        "octavian_bloom",
+        "sunil_bakshi"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "List",
+            "line": "Thank you, Mr. Bloom, for hosting. I regret that our biannual gathering has turned into a vigil."
+        },
+        {
+            "character": "Bloom",
+            "line": "Daniel Whitehall has joined our founder in the afterlife."
+        },
+        {
+            "character": "Baroness",
+            "line": "How unfortunate. I admired the man's commitment."
+        },
+        {
+            "character": "Banker",
+            "line": "I was never fond of him."
+        },
+        {
+            "character": "Sheikh",
+            "line": "We must not speak ill of the dead."
+        },
+        {
+            "character": "Bloom",
+            "line": "Why? What's he going to do about it?"
+        },
+        {
+            "character": "List",
+            "line": "What this means is that there is a vacancy at a management position in this region of the world."
+        },
+        {
+            "character": "Sheikh",
+            "line": "And who would you like to see fill it, Dr. List?"
+        },
+        {
+            "character": "List",
+            "line": "Baron von Strucker thought that Sunil Bakshi was well-groomed to serve in that capacity, so why is he not present?"
+        },
+        {
+            "character": "Bloom",
+            "line": "He's disappeared. We think he may have been captured by S.H.I.E.L.D."
+        },
+        {
+            "character": "Banker",
+            "line": "Then in all likelihood, he's dead, too, if he did his duty."
+        },
+        {
+            "character": "List",
+            "line": "You underestimate S.H.I.E.L.D., constantly, it would seem. Von Strucker would like this mistake to stop happening, so I'm going to make it simple... S.H.I.E.L.D. will take this victory as a chance to move against us."
+        },
+        {
+            "character": "Bloom",
+            "line": "Come aboveground."
+        },
+        {
+            "character": "List",
+            "line": "Whomever can remove S.H.I.E.L.D. from the landscape permanently will win Whitehall's position. Does that sound fair? Meanwhile, I intend to find out if Whitehall's obsession with arcane artifacts was fruitless or if, indeed, it did produce something that we at HYDRA can use for our future."
+        },
+        {
+            "character": "Man",
+            "line": "Aaah!"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 15,
+    "scene_name": "HaleMakesDealWithRemorath",
+    "description": "In the episode’s coda, an emotionally shattered Hale meets with Qovas (off-screen), vowing to exchange S.H.I.E.L.D. for the Gravitonium. She reveals S.H.I.E.L.D. has it, instigating the next threat against the team. Hale’s desperation and the emerging alien threat lay the groundwork for the final arc of the season.",
+    "roles": [
+        "hale"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "Qovas. Qovas!"
+        },
+        {
+            "character": "Qovas",
+            "line": "Coming here without invitation? You are aware of the punishment."
+        },
+        {
+            "character": "Hale",
+            "line": "I found what you're looking for."
+        },
+        {
+            "character": "Qovas",
+            "line": "My Gravitonium."
+        },
+        {
+            "character": "Hale",
+            "line": "S.H.I.E.L.D. has it."
+        },
+        {
+            "character": "Qovas",
+            "line": "Then you failed. Perhaps our deal has reached its end."
+        },
+        {
+            "character": "Hale",
+            "line": "I can tell you where they're hiding. But they won't give it willingly."
+        },
+        {
+            "character": "Qovas",
+            "line": "You'd have me kill them?"
+        },
+        {
+            "character": "Hale",
+            "line": "I have no reason to stop you."
+        }
+    ]
+}

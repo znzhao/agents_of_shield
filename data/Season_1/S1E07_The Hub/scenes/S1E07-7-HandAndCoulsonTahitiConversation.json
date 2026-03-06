@@ -1,0 +1,52 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "HandAndCoulsonTahitiConversation",
+    "description": "Coulson and Victoria Hand discuss the mission, with Hand referencing Fury’s favor toward Coulson and mentioning Tahiti, prompting Coulson’s odd, reflexive response. Hand encourages Coulson about his team, suggesting the high stakes of the operation.",
+    "roles": [
+        "phil_coulson",
+        "victoria_hand"
+    ],
+    "vibe": "mysterious",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hand",
+            "line": "I'm going to need three more chalks queued up at the border."
+        },
+        {
+            "character": "Coulson",
+            "line": "And a fourth standing by in Armenia?"
+        },
+        {
+            "character": "Hand",
+            "line": "Great minds. It must be nice to be off that plane. I understand you're almost through your recovery."
+        },
+        {
+            "character": "Coulson",
+            "line": "The plane has nothing to do with my recovery."
+        },
+        {
+            "character": "Hand",
+            "line": "I only know what I've read. Seems Fury has a soft spot for his favorites. Not everyone gets sent to Tahiti."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a magical... place."
+        },
+        {
+            "character": "Hand",
+            "line": "All I meant was it must feel good to be back in the big leagues."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two of my agents are the key to this operation. I never left the bigs."
+        },
+        {
+            "character": "Hand",
+            "line": "Let's hope they're as good as you think they are."
+        }
+    ]
+}

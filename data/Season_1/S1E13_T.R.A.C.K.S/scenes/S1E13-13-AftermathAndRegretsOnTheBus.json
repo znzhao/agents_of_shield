@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 13,
+    "scene_name": "AftermathAndRegretsOnTheBus",
+    "description": "Back aboard the Bus, the team grapples with the emotional fallout of Skye's critical injury. Ward lashes out, blaming himself and Coulson for Skye being harmed in the field. Simmons is comforted by Fitz for her tactical medical intervention, and May counsels Ward on processing blame. The scene closes on a somber note, as the team's unity is tested by tragedy and uncertainty over Skye's fate.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Her core temperature's hovering around 44 degrees Fahrenheit. If we don't bring her back up to temp in the next few hours, she could sustain permanent brain damage. We need to get her to a medical facility and fast. Until then, I'll do everything I can to keep her alive. Excuse me."
+        },
+        {
+            "character": "May",
+            "line": "It's not your fault."
+        },
+        {
+            "character": "Ward",
+            "line": "She never should have gone in there alone."
+        },
+        {
+            "character": "May",
+            "line": "Blaming yourself won't help her."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not blaming myself."
+        },
+        {
+            "character": "Mike",
+            "line": "Can I please see my son?"
+        }
+    ]
+}

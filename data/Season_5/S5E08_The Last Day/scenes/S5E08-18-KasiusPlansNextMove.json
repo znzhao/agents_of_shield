@@ -1,0 +1,27 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 18,
+    "scene_name": "KasiusPlansNextMove",
+    "description": "Back in the Lighthouse, Kasius learns that some S.H.I.E.L.D. agents have survived and discusses his next strategy for hunting them down. He instructs Sinara to search for the survivors on the surface and to show no mercy if they cross paths. This scene closes the episode, reinforcing the danger looming over the heroes.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "They survived, then. I just pray the Destroyer of Worlds doesn't encounter the Vrellnexians on the surface. Those creatures can be quite ravenous."
+        },
+        {
+            "character": "Sinara",
+            "line": "My orders?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Follow their trail. If you encounter any of the human survivors, you know their weakness. Show no mercy."
+        }
+    ]
+}

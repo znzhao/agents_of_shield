@@ -1,0 +1,193 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 6,
+    "scene_name": "ScienceVsMagic",
+    "description": "Fitz and Simmons analyze the data from the building, realizing that Eli is not creating matter from nothing, but likely using quantum energy, which violates laws of physics. Daisy is exonerated as the cause of the recent earthquakes, and the science team prepares new gear for Daisy to help her withstand further seismic events. Fitz voices his distrust of Director Mace while Daisy, alongside the team, prepares for another assault. An argument escalates between Mack and Mace about sending Elena into the dangerous building, revealing personal and professional tensions within the team.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "jeffrey_mace",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Absorption plates, frequency mounts, resonant processor units... the results don't lie. They're perfect."
+        },
+        {
+            "character": "Daisy",
+            "line": "They might be a little snug, but they've got me close to full strength, so... thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're welcome. Hey, the good news is, you're definitely not responsible for the seismic activity in the area."
+        },
+        {
+            "character": "Daisy",
+            "line": "As I've said... repeatedly."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but now it's really true. Ah, the Arch. I take it AIDA's arrived?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't look so excited, but yes. She's here, along with Dr. Radcliffe and Director Mace."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, well, then, the day is officially saved."
+        },
+        {
+            "character": "Daisy",
+            "line": "No love for your new Director?"
+        },
+        {
+            "character": "Fitz",
+            "line": "He's a lying weasel."
+        },
+        {
+            "character": "Simmons",
+            "line": "We don't trust him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Really? What'd he do?"
+        },
+        {
+            "character": "Mack",
+            "line": "All due respect, sir, that's the most ridiculous idea I've heard all day, and it's been a long day."
+        },
+        {
+            "character": "Mace",
+            "line": "I understand your concern, but I'll be right there in the mix."
+        },
+        {
+            "character": "Mack",
+            "line": "You want to send Yo-Yo back into that building to grab a hunk of plutonium, an unstable, radioactive substance."
+        },
+        {
+            "character": "Mace",
+            "line": "We'd put her in a hazmat suit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not sure they're built for running."
+        },
+        {
+            "character": "Mack",
+            "line": "She's in no condition to go back into the field."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm right here, and I can speak for myself. My condition is fine."
+        },
+        {
+            "character": "Mack",
+            "line": "You're not fine. There's got to be a better plan."
+        },
+        {
+            "character": "Mace",
+            "line": "It's not your decision, Agent Mackenzie. We got to get that bomb out of Morrow's possession."
+        },
+        {
+            "character": "Mack",
+            "line": "Sir, maybe you should stick to optics and let someone else handle tactics."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack. Director, can I talk to you for a minute?"
+        },
+        {
+            "character": "Mack",
+            "line": "Elena, please, I'm trying to protect you."
+        },
+        {
+            "character": "Elena",
+            "line": "So it's “Elena” now, is it? Where has that been for the past three months?"
+        },
+        {
+            "character": "Mack",
+            "line": "Come on. You know how I feel about you."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, if you bothered to take the time, you would realize I have many gifts. But reading minds is not one of them."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, where is this Inhuman being held?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I have no idea. The Director literally made me put a bag over my head, had me whisked away."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's kidnapping. And he lied to everyone about it."
+        },
+        {
+            "character": "Simmons",
+            "line": "And if the Director's involved with Senator Nadeer, there's no telling what they've got planned."
+        },
+        {
+            "character": "Daisy",
+            "line": "It just doesn't make any sense. Director Mace is an Inhuman, and all that senator does is spew hate about us."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh... I feel a quake coming. Is that even possible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The gauntlets can absorb a wide range of infrasonic waves."
+        },
+        {
+            "character": "Simmons",
+            "line": "Better to shield your bones from further damage. Impressive you can feel it all the way up here."
+        },
+        {
+            "character": "Fitz",
+            "line": "The epicenter's right where Eli set up shop. That can't be a coincidence."
+        },
+        {
+            "character": "Daisy",
+            "line": "Something he created in there is the cause, whether it's the power cell or..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, he's not “creating” anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "Here we go again."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's an order to things in this seemingly chaotic universe. There are laws, okay? And one of those laws says that every speck of matter that makes up every animal, vegetable, mineral... no matter how much it changes, it comes from somewhere, belongs somewhere. Its natural state... its home."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's kind of a lovely sentiment, even if it was completely unintentional."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, what's the cause of the quake?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Grand larceny."
+        }
+    ]
+}

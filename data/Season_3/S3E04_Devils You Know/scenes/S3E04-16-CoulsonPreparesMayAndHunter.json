@@ -1,0 +1,37 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 16,
+    "scene_name": "CoulsonPreparesMayAndHunter",
+    "description": "Back at S.H.I.E.L.D., Coulson and Fitz coordinate, and Morse learns that May and Hunter are about to engage Ward without backup. Concern for their safety is palpable, especially as S.H.I.E.L.D. resources are stretched thin, and the looming confrontation with Hydra approaches.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yeah, that space..."
+        },
+        {
+            "character": "Coulson",
+            "line": "About that... Okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Good luck."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson's leaving with a tac team?"
+        },
+        {
+            "character": "Fitz",
+            "line": "May and Hunter have a lead on Ward. Sounds like a dodgy situation... Wait. They didn't tell you? I'm sorry. It's tough when people keep things from you."
+        }
+    ]
+}

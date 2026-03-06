@@ -1,0 +1,128 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 9,
+    "scene_name": "CoulsonTriggersTheAlarmForS.H.I.E.L.D.",
+    "description": "Coulson reveals to Hunter that he purposefully triggered an alarm to lure Gonzales’s S.H.I.E.L.D. to their location. The two debate strategy, with Coulson insisting on non-lethal force and mentioning mysterious reinforcements. Their preparation for an imminent assault underscores the stakes and differing philosophies between them.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D.'s here."
+        },
+        {
+            "character": "Hunter",
+            "line": "Ours or theirs?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Theirs."
+        },
+        {
+            "character": "Hunter",
+            "line": "Damn it. How did they find us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I invited them."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why did you trigger the alarm? Are you surrendering? Last time I checked, there were two of us, which means two votes."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not surrendering."
+        },
+        {
+            "character": "Hunter",
+            "line": "What, then? You want to go out guns blazing, like Butch and Sundance? That didn't end so well."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was thinking about what you said last night, about bad options."
+        },
+        {
+            "character": "Hunter",
+            "line": "I meant have another drink."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not going down without a fight. We're gonna find Skye and I'm gonna take back S.H.I.E.L.D., and we're gonna need more than honest Eddie's jeep to do it."
+        },
+        {
+            "character": "Hunter",
+            "line": "You want to take their quinjet... the two us, while we're trapped in here, surrounded? Brilliant."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have reinforcements on the way. We just have to hold down the fort until they get here."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, well, I have reinforcements of my own."
+        },
+        {
+            "character": "Coulson",
+            "line": "ICERs only."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, you can't be serious."
+        },
+        {
+            "character": "Coulson",
+            "line": "Those are S.H.I.E.L.D. agents out there. We're not gonna hurt them."
+        },
+        {
+            "character": "Hunter",
+            "line": "I somehow doubt they feel the same about us. It won't come to that."
+        },
+        {
+            "character": "Coulson",
+            "line": "It may not look like it, but this place was built to withstand a hulk-size force. On the other hand, let's just hope they didn't bring a... battering RAM, ‘cause then we've only got about an hour."
+        },
+        {
+            "character": "Man",
+            "line": "Confirmed, sir Coulson is inside. It'll take some time to break through that door, but he's not going anywhere."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Let me know when it's done."
+        },
+        {
+            "character": "Man",
+            "line": "Yes sir."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Any more good news?"
+        },
+        {
+            "character": "Morse",
+            "line": "Agent Simmons may be on board, but I came to talk to you about Agent May. I think your approach..."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's irrelevant. We got Coulson at the safe house where we found Skye. He triggered the alarm."
+        },
+        {
+            "character": "Morse",
+            "line": "That wasn't an accident. Coulson's too smart for that. He sent for us."
+        },
+        {
+            "character": "Gonzales",
+            "line": "The question is why."
+        }
+    ]
+}

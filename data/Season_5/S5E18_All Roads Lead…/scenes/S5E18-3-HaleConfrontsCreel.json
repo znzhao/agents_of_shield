@@ -1,0 +1,88 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 3,
+    "scene_name": "HaleConfrontsCreel",
+    "description": "At the Hydra facility, General Hale investigates Carl Creel's rapidly deteriorating condition due to his exposure to Gravitonium. The dialogue reveals that both Franklin Hall and Ian Quinn's consciousnesses are trapped within the substance, and Ruby's intentions with the Gravitonium could have dire effects. Creel's madness escalates, underlining the danger of the Gravitonium.",
+    "roles": [
+        "carl_creel",
+        "hale"
+    ],
+    "vibe": "dark",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "What took you so long?"
+        },
+        {
+            "character": "Lee",
+            "line": "It's Ruby, she's..."
+        },
+        {
+            "character": "Hale",
+            "line": "Gone rogue. I know. She's headed for the chamber facility. Get me Anton on the line."
+        },
+        {
+            "character": "Lee",
+            "line": "I can't, ma'am. He's dead. I called in reinforcements here because his mechs went down. We picked these up right before they went offline."
+        },
+        {
+            "character": "Hale",
+            "line": "We need to leave immediately. Ruby's dead set on powering herself with Gravitonium. You saw what it did to Creel. He's not better, is he?"
+        },
+        {
+            "character": "Lee",
+            "line": "No, ma'am. He's much worse."
+        },
+        {
+            "character": "Hale",
+            "line": "Mr. Creel, how can we help you?"
+        },
+        {
+            "character": "Creel",
+            "line": "You can't. No one can. They won't stop shouting."
+        },
+        {
+            "character": "Lee",
+            "line": "Voices, he says."
+        },
+        {
+            "character": "Creel",
+            "line": "They hate each other. Quinn likes to feel smart. But Hall's smarter. But Quinn's louder."
+        },
+        {
+            "character": "Hale",
+            "line": "Quinn? Ian Quinn?"
+        },
+        {
+            "character": "Creel",
+            "line": "It consumed him. Franklin wanted revenge, but now he's stuck with him, forever."
+        },
+        {
+            "character": "Hale",
+            "line": "They're inside the Gravitonium."
+        },
+        {
+            "character": "Creel",
+            "line": "Their minds. Their rage."
+        },
+        {
+            "character": "Lee",
+            "line": "Ma'am, he only touched it for a moment. If Ruby infuses herself..."
+        },
+        {
+            "character": "Creel",
+            "line": "To hell with her! What about me?!"
+        },
+        {
+            "character": "Lee",
+            "line": "General."
+        },
+        {
+            "character": "Creel",
+            "line": "They want out. They want out! Get them out! Get them out!"
+        }
+    ]
+}

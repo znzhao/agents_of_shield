@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 19,
+    "scene_name": "CoulsonAndSimmonsDebrief",
+    "description": "Back at the Playground, Coulson directs Simmons to research the nature of \"enhanced\" individuals like Skye and Raina, emphasizing the need for strategies to neutralize such powers if needed. Simmons agrees to keep the research confidential between them. The conversation is all-business, tinged with the seriousness of the new threat they face.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What do you mean, “other?”"
+        },
+        {
+            "character": "Simmons",
+            "line": "“Gifted” is both insufficient and too broad. I believe there are two categories we're dealing with. Um, “enhanced” is what I would suggest we call people like David Angar, Mike Peterson... people whose gifts were man-made. Skye, Raina... this was inside them, a part of them."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to understand more about their powers, especially how to stop them in case that becomes necessary. This is a priority, Agent Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Understood, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "And, Agent Simmons... keep this between us. Don't bring anyone else in."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        }
+    ]
+}

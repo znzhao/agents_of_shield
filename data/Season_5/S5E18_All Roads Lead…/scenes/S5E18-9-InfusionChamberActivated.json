@@ -1,0 +1,94 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 9,
+    "scene_name": "InfusionChamberActivated",
+    "description": "Fitz and Simmons are forced to finish the infusion chamber as Ruby eagerly prepares to infuse herself with Gravitonium, despite dire warnings. The procedure quickly becomes catastrophic, as Ruby is overwhelmed by pain and the voices in her head. The resulting chaos triggers panic among all present and sets the stage for the tragic events to follow.",
+    "roles": [
+        "ruby",
+        "jemma_simmons",
+        "leo_fitz",
+        "hale"
+    ],
+    "vibe": "tense",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You okay? It hurts? It's okay."
+        },
+        {
+            "character": "Von Stucker",
+            "line": "A plane just landed."
+        },
+        {
+            "character": "Ruby",
+            "line": "My mother?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "S.H.I.E.L.D. I sent the mechs to engage. That'll buy us a little time."
+        },
+        {
+            "character": "Ruby",
+            "line": "All right, where should I start? An arm? Maybe a leg?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, don't, don't. We're finished, okay?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "It's ready."
+        },
+        {
+            "character": "Ruby",
+            "line": "Yes."
+        },
+        {
+            "character": "Ruby",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, we did as you asked. We fixed the chamber."
+        },
+        {
+            "character": "Ruby",
+            "line": "But?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In our experience, Gravitonium is not easy to manipulate. And we can't move it into the machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. Hold on. That's... That's out of our control."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, Gravitonium is unpredictable. There's still so much that we don't know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, please. Please. You can't do this."
+        },
+        {
+            "character": "Ruby",
+            "line": "I'm done having people tell me what I can do."
+        },
+        {
+            "character": "Ruby",
+            "line": "You were saying?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, did you see that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's different."
+        }
+    ]
+}

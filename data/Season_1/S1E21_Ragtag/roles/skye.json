@@ -1,0 +1,81 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and a vital member of S.H.I.E.L.D., balancing her exceptional technical skills with a growing emotional complexity and resilience. Having endured betrayal and danger, she demonstrates increased determination to protect her team and confront threats like Hydra. She blends vulnerability, toughness, and moral clarity, firmly committing to fight for justice and trust within her makeshift family, despite the fractures caused by Ward's betrayal. Her trajectory reflects a rise from outsider hacker to a more strategic, mission-focused field asset, anchored by a sharper sense of agency and accountability.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "navigate_dual_loyalty_and_romantic_conflict_with_Ward",
+        "goal": "To manage complex feelings and suspicions surrounding Ward, balancing emotions with the necessity of discerning truth from betrayal"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "come_to_terms_with_Ward_betrayal_and_build_new_trust",
+        "goal": "To cope with complex feelings of betrayal by Ward while building resilience and forming new trust dynamics within the team"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "pursue_and_confront_ward_and_garrett",
+        "goal": "To track down and confront Grant Ward and John Garrett as part of dismantling Hydra and seeking justice for their betrayals and crimes"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_9",
+      "context": "assertion of her commitment and readiness to end the threat by pursuing Quinn",
+      "catch_phrase": "I'm ready to get Quinn."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_11",
+      "context": "expressing determination to confront and stop Garrett and Ward",
+      "catch_phrase": "I'll be damned if I'm gonna let Garrett and Ward get away with murder."
+    }
+  ]
+}

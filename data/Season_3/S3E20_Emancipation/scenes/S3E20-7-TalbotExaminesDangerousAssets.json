@@ -1,0 +1,194 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 7,
+    "scene_name": "TalbotExaminesDangerousAssets",
+    "description": "Coulson and Talbot enter Lincoln’s holding area, sparking sharp exchanges about power and responsibility. Talbot pushes the case for registration, Lincoln challenges the logic, and Coulson manages the tense standoff. Talbot then insists on seeing S.H.I.E.L.D.’s most dangerous asset, leading Coulson to reveal the containment of Lash (Andrew Garner), raising the stakes.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "lincoln",
+        "andrew_garner"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Why are you being like this? I came here to fight, to save Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "Because it's a fight we can't win."
+        },
+        {
+            "character": "Elena",
+            "line": "What happened to you?"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy. She lost her soul to that thing. I don't want what happened to her to happen to someone else I care about. The sway, whatever he does to them, it's... it's not even the worst thing that's gonna happen."
+        },
+        {
+            "character": "Elena",
+            "line": "What is?"
+        },
+        {
+            "character": "Mack",
+            "line": "Armageddon. Whatever he's doing is pure evil. I'm talking end-times Biblical evil, 2,000-years-of-darkness evil."
+        },
+        {
+            "character": "Elena",
+            "line": "You need a beer. And some faith."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm. You ever wonder if that's the word we use to... to fool ourselves, give us false hope?"
+        },
+        {
+            "character": "Elena",
+            "line": "That's how evil wins. When good people begin to, uh... doubt and run the other way instead of stand up and fight. Yu see it everywhere. In Colombia, we have a saying. El mal presa a los debiles porque teme a los fuertes."
+        },
+        {
+            "character": "Mack",
+            "line": "Evil preys on the weak because it fears the strong."
+        },
+        {
+            "character": "Jackson",
+            "line": "The guy in the black hoodie, that was him."
+        },
+        {
+            "character": "Boggs",
+            "line": "We want him alive. Save all the fun till we're back at the base."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is exactly why we need the Accords. It's about protection."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Whose protection?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Everyone's. People need to be protected when one of you runs amok. Some of you need protection from yourselves. Is that why you have him caged up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's under medical observation, general."
+        },
+        {
+            "character": "Talbot",
+            "line": "I've seen him in the field. He has control issues, lethal control issues."
+        },
+        {
+            "character": "Coulson",
+            "line": "Issues that S.H.I.E.L.D.'s uniquely qualified to help him with."
+        },
+        {
+            "character": "Lincoln",
+            "line": "How does this registration work? You put us on a list. Then what?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Fingerprints. DNA samples. We run a power analysis to categorize your threat level. Also used to determine health risks."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Fine. I'll register. Sign me up."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think that's a good idea."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I don't think keeping me locked up is a good idea, either. Get me the hell out of here, and I'll register and tell you anything you want to know."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's in everyone's best interest to keep him here right now."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not mine."
+        },
+        {
+            "character": "Talbot",
+            "line": "If you're in here against your will, what's keeping you from just zapping the two of us right now?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Absolutely nothing. I could fry that mustache right off your face. But that's just not who I am. Besides, I'd never make it off the base, not without help."
+        },
+        {
+            "character": "Talbot",
+            "line": "All right, Coulson. I've seen the good and the bad. Now show me the ugly."
+        },
+        {
+            "character": "Talbot",
+            "line": "What the hell is that? You're keeping monsters on your base now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Breathe, General. It was Dr. Garner before he changed permanently."
+        },
+        {
+            "character": "Talbot",
+            "line": "Rasta-Hulk is your husband? I don't care if that thing used to be Gandhi. Why on God's crusty pie is it here? It needs to be frozen in a Gel-Matrix Cube."
+        },
+        {
+            "character": "Coulson",
+            "line": "He may prove to be an asset."
+        },
+        {
+            "character": "Talbot",
+            "line": "An asset? What you have is an out-of-control freak show down here, Coulson. What other surprises have you got for me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This is it. You wanted open doors. You got them."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln. Do you really want to leave?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Only if I can see you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Where's Daisy Johnson?"
+        },
+        {
+            "character": "May",
+            "line": "She's on assignment."
+        },
+        {
+            "character": "Talbot",
+            "line": "On assignment for who? I've got satellite imagery here of her and a dead man strolling down lover's lane in a town where an unidentified object crashed the night before."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you knew this the whole time, why'd you wait until now to show me?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Phil, I wanted to see if you'd lie to my face."
+        },
+        {
+            "character": "Coulson",
+            "line": "I had no choice. The stakes were too high."
+        },
+        {
+            "character": "Talbot",
+            "line": "What are you up against? What is at stake?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The world as we know it."
+        }
+    ]
+}

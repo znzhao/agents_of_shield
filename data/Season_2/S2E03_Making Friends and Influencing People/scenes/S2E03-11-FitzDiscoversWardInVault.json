@@ -1,0 +1,20 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "FitzDiscoversWardInVault",
+    "description": "Fitz, feeling alienated, seeks out the hidden Vault D and discovers Ward imprisoned. The encounter is emotionally charged; Fitz struggles to articulate the pain and trauma Ward inflicted on him. Fitz reacts by cutting off Ward’s oxygen, nearly suffocating him in an attempt to make him feel his own brain injury, while Ward attempts to reach out and warn him about Hydra’s plans.",
+    "roles": [
+        "leo_fitz",
+        "grant_ward"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Fitz, please, this is ridiculous. What, exactly, are you hoping to accomplish?"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "season": 7,
+    "episode": 10,
+    "num": 10,
+    "scene_name": "MayConfrontsGarrettAndSoundsAlarm",
+    "description": "May encounters Garrett, who is now empowered and behaving erratically within the Lighthouse. After a brief confrontation and banter referencing future encounters, May realizes the grave threat posed by Garrett's powers and promptly radios Daisy to warn her and Jiaying about the intruders. Garrett quickly teleports away, and May takes charge with urgency.",
+    "roles": [
+        "melinda_may",
+        "john_garrett"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Who the hell are you?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Melinda May! Blast from the future! It's your old buddy... John Garrett. Same rugged good looks... just... maybe a little less rugged."
+        },
+        {
+            "character": "May",
+            "line": "How'd you find this place, John?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, my pal Nate told me how to find it. He's around here somewhere."
+        },
+        {
+            "character": "Garrett",
+            "line": "I know where I'm going, but the landing part's a little tricky. Coulson called it teleporting."
+        },
+        {
+            "character": "May",
+            "line": "Gordon. What are you doing here?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Planning a little road trip. Looking for an open-minded gal to tag along."
+        },
+        {
+            "character": "May",
+            "line": "Thought you'd never ask."
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, sorry, babe. You ain't who I'm..."
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, right. Bye."
+        },
+        {
+            "character": "Garrett",
+            "line": "Whoa."
+        },
+        {
+            "character": "May",
+            "line": "Daisy, do you copy? Daisy, come in."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, what's wrong?"
+        },
+        {
+            "character": "May",
+            "line": "John Garrett's here with Nathaniel, and they have Gordon's powers. Get Jiaying someplace safe."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have to go."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I've been looking all over for you."
+        }
+    ]
+}

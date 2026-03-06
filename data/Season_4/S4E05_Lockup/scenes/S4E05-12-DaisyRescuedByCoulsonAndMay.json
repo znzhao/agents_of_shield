@@ -1,0 +1,61 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 12,
+    "scene_name": "DaisyRescuedByCoulsonAndMay",
+    "description": "The Watchdogs overpower Daisy, but Coulson and May intervene in the nick of time, saving her. The group regroups, but Daisy insists she never wanted to risk her teammates for her. Coulson tries to assert that she needs medical help, highlighting concern and fractured trust within the team.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Finish her! You're done!"
+        },
+        {
+            "character": "May",
+            "line": "It's been a while since I stretched my legs."
+        },
+        {
+            "character": "May",
+            "line": "That was suicidal and stupid."
+        },
+        {
+            "character": "Daisy",
+            "line": "And you weren't supposed to come back for me."
+        },
+        {
+            "character": "May",
+            "line": "We just saved your life!"
+        },
+        {
+            "character": "Daisy",
+            "line": "And risked your own! I never asked for that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's argue about who should've left who to die later. You need a medic."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll be fine..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fine? No. You won't. Fitz, what's the status on Eli Morrow?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Quinjet's on its way to the yard for extraction. Mack has him in his custody."
+        },
+        {
+            "character": "Mack",
+            "line": "The exit's just ahead."
+        }
+    ]
+}

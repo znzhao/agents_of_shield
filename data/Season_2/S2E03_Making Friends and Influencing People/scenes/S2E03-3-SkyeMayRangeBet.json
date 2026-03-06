@@ -1,0 +1,122 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 3,
+    "scene_name": "SkyeMayRangeBet",
+    "description": "At the Playground's firing range, Skye trains under Melinda May’s supervision. Alphonso Mackenzie and Lance Hunter interrupt to settle a playful bet about Skye's S.H.I.E.L.D. academy attendance. The exchange is lighthearted but shifts to a more serious discussion about fieldwork, experiences with violence, and the emotional cost of being an agent.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I imagined they were all Ward."
+        },
+        {
+            "character": "May",
+            "line": "Imagine they're all targets. Don't get cocky. This is step one. It's all about control..."
+        },
+        {
+            "character": "Skye",
+            "line": "Control. I know."
+        },
+        {
+            "character": "May",
+            "line": "... over your mind, your body."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't forget your mind."
+        },
+        {
+            "character": "May",
+            "line": "In the field, you need to maintain control. Whatever the situation, hostages, bombs about to go off..."
+        },
+        {
+            "character": "Skye",
+            "line": "So, what you're saying is what I just did was puny and sad."
+        },
+        {
+            "character": "May",
+            "line": "61 beats per minute. Consistent the whole time. Not that puny."
+        },
+        {
+            "character": "Skye",
+            "line": "Speaking of not puny..."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I want you to get used to this. It's a sniper rifle."
+        },
+        {
+            "character": "Hunter",
+            "line": "Huh. Pardon me. Uh, just one quick question. You went to S.H.I.E.L.D. academy, right?"
+        },
+        {
+            "character": "May",
+            "line": "You didn't. If you did, you would have known better than to shoot us."
+        },
+        {
+            "character": "Hunter",
+            "line": "Apology number 470... I am very sorry, Agent May."
+        },
+        {
+            "character": "May",
+            "line": "Don't be sorry. Just wait."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, we just have a wager. Uh, so, did you...?"
+        },
+        {
+            "character": "Skye",
+            "line": "Go to the academy? Yeah, no."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, well, have fun with the inventory. And remember, Koenig likes them neat. Oh, and, uh, none of those euro sevens with the lines through them. Drives him crazy."
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson said you were a field agent with a badge and all."
+        },
+        {
+            "character": "Skye",
+            "line": "More like a work-study thing. Badge, I had for like a day before S.H.I.E.L.D..."
+        },
+        {
+            "character": "Hunter",
+            "line": "You know, Hartley... she loved her blade, hated guns. Idaho... if on a job someone ended up dead, he'd go to church, light a candle. Said it'd balance the karma. See, I knew them, what they'd do, not do. So, us being workmates and all..."
+        },
+        {
+            "character": "Skye",
+            "line": "You're wondering if I've ever taken anyone out."
+        },
+        {
+            "character": "Hunter",
+            "line": "Have you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Not that I know of."
+        },
+        {
+            "character": "May",
+            "line": "Hey. Don't you have inventory?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I suppose now I do. Good afternoon, ladies."
+        },
+        {
+            "character": "May",
+            "line": "Practice. I want you to get used to the recoil. And for the record, experience doesn't make it any easier to cross someone off."
+        }
+    ]
+}

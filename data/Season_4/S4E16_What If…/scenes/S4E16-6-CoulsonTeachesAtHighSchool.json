@@ -1,0 +1,75 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 6,
+    "scene_name": "CoulsonTeachesAtHighSchool",
+    "description": "Phil Coulson teaches a class on the 'Cambridge Incident,' recounting Hydra’s rise to power after a tragic event involving an Inhuman girl. Coulson, now reprogrammed as a Hydra-loyal educator, disciplines students who challenge the official state narrative, emphasizing propaganda themes. The class is interrupted when a student is taken away for Inhuman testing, showing the pervasiveness of Hydra's fear-based control.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "dark",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This is a dangerous world. The Cambridge Incident proved that. To understand this, you have to imagine individuals over the state. It was a mess. People were divided. They had their own truths, their own media, their own agendas. There were so many untruths about Inhumans out there that some people saw them as these magical, heroic creatures, like unicorns. It was terrifying. Then, you had a weak state that allowed a refugee from Bahrain, a girl, sympathetic. Even though S.H.I.E.L.D. knew she was Inhuman, they brought her back to the States and put her into a classroom. The rest is history. But what inspires me is the way our country reacted, the way we came together. When no one would tell us the truth, Hydra stepped forward. They brought us law and order, purpose. They galvanized us for the good of the state over individual interests. They... Yeah, Burnell."
+        },
+        {
+            "character": "Burnell",
+            "line": "But, sir, isn't it true that Hydra came from Nazis?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not true. Never say that."
+        },
+        {
+            "character": "Burnell",
+            "line": "Okay, but weren't they the Nazis' science division?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Anyone who's informed knows that Hydra originated centuries ago. So they couldn't be Nazis. That's just propaganda. But this is good. This shows how important it is to separate fact from innuendo. Before the incident, there were over 1,500 newspapers, some of them..."
+        },
+        {
+            "character": "Man",
+            "line": "Mr. Coulson? Sorry to interrupt."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's alright. How can I help you?"
+        },
+        {
+            "character": "Man",
+            "line": "Yeah, Chris Adler."
+        },
+        {
+            "character": "Coulson",
+            "line": "Chris?"
+        },
+        {
+            "character": "Man",
+            "line": "We're just gonna run a few tests."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait, Chris."
+        },
+        {
+            "character": "Chris",
+            "line": "Yes, Mr. Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't forget your bag, son."
+        },
+        {
+            "character": "Man",
+            "line": "Oh. I'll take that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Let's get back to the lesson."
+        }
+    ]
+}

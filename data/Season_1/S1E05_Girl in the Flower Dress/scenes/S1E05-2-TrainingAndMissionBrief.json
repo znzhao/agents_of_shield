@@ -1,0 +1,248 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "TrainingAndMissionBrief",
+    "description": "On the S.H.I.E.L.D. Bus, Skye and Grant Ward engage in some light-hearted training with board games, showcasing the growing camaraderie within the team. Coulson and May observe the progress, before shifting to a serious briefing about Chan Ho Yin's abduction and explaining the concept of 'the Index' to Skye. The team debates S.H.I.E.L.D.'s role in monitoring powered individuals as they formulate a plan to investigate the kidnapping, while Skye volunteers to trace the hacker responsible for leaking Chan’s location.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Every decision you make from here on out has consequences. So be warned. The kiddie gloves are off."
+        },
+        {
+            "character": "Ward",
+            "line": "Hit."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes! Ha! So, explain to me again what this has to do with my training."
+        },
+        {
+            "character": "Ward",
+            "line": "It's important for every S.O. to evaluate their student's thought process."
+        },
+        {
+            "character": "Skye",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Ward",
+            "line": "And I like board games. B10."
+        },
+        {
+            "character": "Skye",
+            "line": "Nope. This isn't thinking. This is stabbing in the dark, but it's nice to take a break from the workouts."
+        },
+        {
+            "character": "Ward",
+            "line": "Well. You deserve a break. I got to give Coulson credit. I would have never pegged an Ex-Rising Tide hacker as a good fit, but... you're picking things up pretty fast."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you just give me a compliment?"
+        },
+        {
+            "character": "Ward",
+            "line": "I... no, I made a comment."
+        },
+        {
+            "character": "Skye",
+            "line": "A kind one. Did it physically hurt to do that? Do you need an ice pack? Wow! A compliment and a smile!"
+        },
+        {
+            "character": "Ward",
+            "line": "Comment."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't want to ruin the moment, but I'm gonna have to respond with... G4. Say it, Ward. Say it."
+        },
+        {
+            "character": "Ward",
+            "line": "You sank my battleship."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes!"
+        },
+        {
+            "character": "Ward",
+            "line": "All right, best 2 out of 3."
+        },
+        {
+            "character": "Skye",
+            "line": "I beat you."
+        },
+        {
+            "character": "Ward",
+            "line": "Best 2 out of 3."
+        },
+        {
+            "character": "Skye",
+            "line": "Best I just won out of nothing."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's fitting in nicely."
+        },
+        {
+            "character": "May",
+            "line": "Gloating?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A little."
+        },
+        {
+            "character": "May",
+            "line": "You were up early this morning. Heard you puttering around even before I started Tai Chi. Having trouble sleeping?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I feel great. Just have a little extra energy to burn."
+        },
+        {
+            "character": "May",
+            "line": "If you want, I could lay out the mats downstairs. We could go a few rounds, like the old days? Saved by the bell."
+        },
+        {
+            "character": "Coulson",
+            "line": "Chan Ho Yin. Just a struggling street performer until a few years ago, when Mr. Chan began to exhibit moderate pyrokinetic abilities."
+        },
+        {
+            "character": "Fitz",
+            "line": "So what gave him powers?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's still under investigation, but Chan did live near the decommissioned Wan Tai nuclear plant when it caught fire. To our knowledge, no other nearby residents have exhibited similar traits."
+        },
+        {
+            "character": "Simmons",
+            "line": "So how did we find out about him?"
+        },
+        {
+            "character": "May",
+            "line": "Informant saw him lighting torches in a street show... with his pinkie."
+        },
+        {
+            "character": "Coulson",
+            "line": "Brought it to S.H.I.E.L.D.'s attention. We told him to keep his abilities under wraps. He's been on the Index ever since."
+        },
+        {
+            "character": "Skye",
+            "line": "The Index?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a list S.H.I.E.L.D. keeps of people and objects with powers."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. What? How many are there? Are you saying there are more people..."
+        },
+        {
+            "character": "May",
+            "line": "Not many."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, enough to keep a list."
+        },
+        {
+            "character": "Coulson",
+            "line": "A short list, meant to protect them."
+        },
+        {
+            "character": "Ward",
+            "line": "Though, in rare cases, S.H.I.E.L.D. has had to take action."
+        },
+        {
+            "character": "Skye",
+            "line": "Action against objects or people? Well, that's drastic with a side of creepy. How are they monitored... Tapped phones, satellite surveillance, body probes in dark, unpleasant places?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Body probes? Now, that's ridiculous. S.H.I.E.L.D. doesn't do that. We don't do that. Do we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The methods vary. Mr. Chan was low-risk. He was assigned a case agent who checked in with him every few days. That's how we discovered him missing."
+        },
+        {
+            "character": "May",
+            "line": "Everyone, this is agent Kwan, Chan Ho Yin's case agent. What can you tell us?"
+        },
+        {
+            "character": "Kwan",
+            "line": "Not much, I'm afraid. Chan is a magician, so at first, I thought he'd made himself disappeared."
+        },
+        {
+            "character": "Coulson",
+            "line": "The file says you'd caught him violating his Index agreement before."
+        },
+        {
+            "character": "Kwan",
+            "line": "On two separate occasions... claimed we were “hampering his artistic expression.” But late last night, he was taken by professionals. The only thing they left behind was this scrap of aluminized material."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fireproof clothing."
+        },
+        {
+            "character": "Ward",
+            "line": "So whoever took him knew about his power."
+        },
+        {
+            "character": "Kwan",
+            "line": "Yes, and we think we know why. Over the last few days, tech division discovered a crack into our data stream. It's the same cyber punks who hacked us before. Somehow, they got in again. It's the Rising Tide. Heads turn. Hello? It got real quiet. You guys still there?"
+        },
+        {
+            "character": "Skye",
+            "line": "The Rising Tide is a huge organization of hacktivists from all around the world. Any of them could have done this! It wasn't me."
+        },
+        {
+            "character": "Ward",
+            "line": "No one's saying it was."
+        },
+        {
+            "character": "Skye",
+            "line": "But you're thinking it. I can see your faces thinking it."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're assessing the situation."
+        },
+        {
+            "character": "Skye",
+            "line": "Then I'm sure you're taking into account that I have been living on a plane with you this whole time. It would be impossible for me to hack S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or easier. We're gonna need more than that."
+        },
+        {
+            "character": "Skye",
+            "line": "Fine. Let me trace the hack, and I'll prove it."
+        },
+        {
+            "character": "Ward",
+            "line": "I believe her, sir. And if she's telling the truth, we need to track down the person responsible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dig up something, and fast. The longer Mr. Chan's missing, the more danger he's in."
+        }
+    ]
+}

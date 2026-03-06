@@ -1,0 +1,65 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 9,
+    "scene_name": "MaceDaisySimmonsPlanNadeerOperation",
+    "description": "At the Playground, Mace, Daisy, and Simmons prepare for the rescue of Senator Nadeer’s brother. Simmons expresses guilt over the Aida situation and apologizes for her earlier distrust of Mace. Together, they devise a covert plan to approach Nadeer’s office, with Simmons going undercover as a lobbyist.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "I'm still feeling very optimistic about this mission."
+        },
+        {
+            "character": "Simmons",
+            "line": "I bear much of the blame for this AIDA situation. Science and Technology are my responsibility..."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's not your fault."
+        },
+        {
+            "character": "Simmons",
+            "line": "I knew the risks that came with using powerful autonomous machinery. I knew the dangers and..."
+        },
+        {
+            "character": "Mace",
+            "line": "And you thought I was one of them. You didn't want that technology to fall under the control of a Director you didn't know."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I did not. But now it's completely out of control, and for that, I am sorry."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, Agent Coulson will have to handle it. We have our own life to save. And, uh... I'm sorry I put the bag over your head."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. So, what's the play here, Director? How do we find this senator and her brother?"
+        },
+        {
+            "character": "Mace",
+            "line": "Normally, I'd use my contacts up on the Hill, go in, rattle a few cages, see what drops out, but I don't want to draw too much attention."
+        },
+        {
+            "character": "Daisy",
+            "line": "Downside of being front-page news."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which means we need to find a more covert way in."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, seeing as you both have more experience with undercover work, I'm open to suggestions."
+        }
+    ]
+}

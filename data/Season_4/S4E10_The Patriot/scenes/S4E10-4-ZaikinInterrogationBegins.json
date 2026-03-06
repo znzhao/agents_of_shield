@@ -1,0 +1,177 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "ZaikinInterrogationBegins",
+    "description": "Daisy and May begin interrogating Zaikin, the captured sniper. They deduce he is just a pawn in a larger scheme, and Zaikin ominously suggests that Phase One of his group's plan was never likely to succeed. Meanwhile, Mack, Coulson, and Mace debrief in the crashed Quinjet, analyzing the attack and the likelihood of further danger. Burrows struggles to get a signal, and soon after, the Quinjet is sabotaged and crashes, killing the pilot and stranding those onboard. Mace insists on searching for Burrows despite low survival odds.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "glenn_talbot",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Yuri Zaikin. Russian national. Ex-KGB. Ex-Hydra. S.H.I.E.L.D. thought you died in the battle over the Fridge. Well, it's too bad you didn't. You killed a S.H.I.E.L.D. agent, tried to kill the Director with exploding bullets. They don't sell those at Walmart, yet. Who's your supplier? You just don't shut up, do you? You've got an angle here?"
+        },
+        {
+            "character": "May",
+            "line": "When they don't talk, usually means they have someone to protect."
+        },
+        {
+            "character": "Daisy",
+            "line": "So he's just a lackey."
+        },
+        {
+            "character": "May",
+            "line": "Probably why there wasn't an extraction plan."
+        },
+        {
+            "character": "Daisy",
+            "line": "Send in the dumb guy they can afford to lose."
+        },
+        {
+            "character": "May",
+            "line": "No wonder he failed."
+        },
+        {
+            "character": "Zaikin",
+            "line": "We didn't fail. Phase One only ever had a 13% chance of success."
+        },
+        {
+            "character": "Mack",
+            "line": "Doesn't make any sense. We had agents all over the place, not to mention two Inhumans. Who would send a sniper in there and think they could get away with it?"
+        },
+        {
+            "character": "Mace",
+            "line": "Smart money's on the Watchdogs. Though Senator Nadeer may have pointed them in my direction. She's on the Intelligence Committee, so she had access to my event schedule."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nadeer has motive, but she's too smart to tie herself to the assassination of an American hero. And Mack's right. Their plan was sloppy."
+        },
+        {
+            "character": "Burrows",
+            "line": "The silver lining, the Director looked like a total hero, throwing that podium. I bet every network is covering it."
+        },
+        {
+            "character": "Mack",
+            "line": "There is no silver lining for that dead agent's family."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Mackenzie has a point. McCafferty, can we get H.Q. on the line?"
+        },
+        {
+            "character": "McCafferty",
+            "line": "Working on it, sir. There's some interference."
+        },
+        {
+            "character": "Burrows",
+            "line": "I'm having the same problem. If I could just get a couple of bars, see if we're trending..."
+        },
+        {
+            "character": "McCafferty",
+            "line": "We've lost the port engine!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everybody hold on!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone okay?"
+        },
+        {
+            "character": "Mack",
+            "line": "Still breathing."
+        },
+        {
+            "character": "Mace",
+            "line": "I'm fine."
+        },
+        {
+            "character": "Coulson",
+            "line": "McCafferty, you all right? McCafferty?!"
+        },
+        {
+            "character": "Mack",
+            "line": "He's dead."
+        },
+        {
+            "character": "Mace",
+            "line": "The assassination attempt, this crash. It's not a coincidence."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Whoever came after us anticipated the protocols, knew we'd fly to safety."
+        },
+        {
+            "character": "Mack",
+            "line": "The sniper was just their first move."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sabotaging the Quinjet was plan B."
+        },
+        {
+            "character": "Mack",
+            "line": "There's no comms. Crash must've cut the power. Can still try to fix it."
+        },
+        {
+            "character": "Mace",
+            "line": "H.Q. can still track the transponder signal. Search and rescue should already be on the way."
+        },
+        {
+            "character": "Coulson",
+            "line": "May not be that easy. Damn it."
+        },
+        {
+            "character": "Mack",
+            "line": "Can't be another EMP."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our tech is working. Just can't get a connection."
+        },
+        {
+            "character": "Mace",
+            "line": "If this was their plan B, we can only assume plan C isn't far behind."
+        },
+        {
+            "character": "Coulsono",
+            "line": "Yep. I don't feel like sticking around to find out what that is. We're sitting ducks here. We need to get to high ground, try to get a signal for this sat phone."
+        },
+        {
+            "character": "Mace",
+            "line": "First, we find Burrows."
+        },
+        {
+            "character": "Mack",
+            "line": "Burrows? Sir, the chance of him surviving is practically..."
+        },
+        {
+            "character": "Mace",
+            "line": "S.H.I.E.L.D. doesn't leave a man behind."
+        },
+        {
+            "character": "Mack",
+            "line": "You really think this is our best move?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You know the saying. If a jet crashes in the woods and there's no one there to hear it, stay close to the guy with super-strength."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, boy."
+        }
+    ]
+}

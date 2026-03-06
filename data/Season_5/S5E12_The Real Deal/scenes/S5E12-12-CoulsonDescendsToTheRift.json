@@ -1,0 +1,110 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 12,
+    "scene_name": "CoulsonDescendsToTheRift",
+    "description": "Coulson prepares with Fitz for the mission, discussing the risks and the significance of symbols and hope for S.H.I.E.L.D. Daisy keeps communication with him as he goes down to the basement. The atmosphere is tense as Coulson steps into the heart of danger, ready to confront whatever the rift manifests.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Okay. Take the elevator to the basement, find the rift, turn that puppy on, put it in the rift, then get the hell out of there."
+        },
+        {
+            "character": "Fitz",
+            "line": "I wish it were that simple."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're referring to the other things that might be down there, the things that I'm afraid of."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Along with everyone else's fears. I wish there was another Chronicom. If Noah hadn't been killed, I would have just sent him down there. His processor and advanced optics would protect him from a lot of the dimension's effects."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is this to protect me from the dimension's effects?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. It's a fifty caliber. Should take down anything you run into."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, then."
+        },
+        {
+            "character": "Fitz",
+            "line": "Last thing. I've had to amplify the Gravitonium. So, when you turn it on, don't get close to the rift. You could get crushed by its gravity field or sucked into the other dimension."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that. Don't get too close."
+        },
+        {
+            "character": "Fitz",
+            "line": "Anything else?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. That other thing we talked about. I want you to promise me that you'll do that, no matter what happens."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No, no. It's not important. Especially now. It's... That's... It's just symbolic. It wouldn't even change anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Symbols are important. Institutions are important. People need things to believe in, Fitz. Especially now. People need hope."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, Coulson, we have visual contact. Can you hear me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Five by five."
+        },
+        {
+            "character": "Daisy",
+            "line": "Same here. Loud and clear. How you feeling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you know, what are the odds there's a giant Stay Puft Marshmallow Man down there?"
+        },
+        {
+            "character": "May",
+            "line": "Shoot first, ask questions later."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that. I'm at the basement. Here we go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson. Coulson!"
+        },
+        {
+            "character": "Mack",
+            "line": "Now what?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Now we wait."
+        }
+    ]
+}

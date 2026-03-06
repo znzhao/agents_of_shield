@@ -1,0 +1,24 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 3,
+    "scene_name": "DekeAttackedByDoctor",
+    "description": "Back at the Lighthouse, Deke tries to deliver news to Fitz about General Hale's capture, but is instead attacked by 'The Doctor', Fitz's Framework alter-ego. This marks the beginning of Fitz's psychological fracture as The Doctor emerges, claiming to be 'the only doctor here.' The scene is tense and unsettling.",
+    "roles": [
+        "leo_fitz",
+        "deke_shaw"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Fitz! There you are. They... They told me to tell you that they got her. General Hale. All right, well, wasn't really expecting confetti or anything, but maybe like a “Blimey!” or, like, some kind of acknowledgement. You need a hand? I'm pretty good with metalwork. I guess it runs in my DNA. All right, man, well, I'm no doctor, but that looks like the opposite of what you're suppose..."
+        },
+        {
+            "character": "Doctor",
+            "line": "No. I'm the only doctor here."
+        }
+    ]
+}

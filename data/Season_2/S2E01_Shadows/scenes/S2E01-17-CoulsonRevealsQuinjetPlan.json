@@ -1,0 +1,45 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 17,
+    "scene_name": "CoulsonRevealsQuinjetPlan",
+    "description": "Back at The Playground, Coulson confides in Mack and Koenig that he orchestrated the risky mission to steal a quinjet and its cloaking tech, believing it's the only way S.H.I.E.L.D. can gain an edge against Hydra. He laments Fitz's declining mental state since Simmons left the team, exposing his deeper fears for S.H.I.E.L.D.’s survival and the sacrifices made.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I know it was a risk. If we went down today, we'd probably be down for good. But now we have a chance to survive. We have soldiers willing to sacrifice, but they need weapons. The enemy has the advantage. We need one of our own."
+        },
+        {
+            "character": "Mack",
+            "line": "You risked that for a quinjet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. For what we can do with one. Disappear. Become ghosts. That's how we have to live now... in the shadows, to save people, even when they don't know it, don't want it. Fitz said he could engineer cloaking, but... I'm afraid he can't do anything. The damage to his temporal lobe was too extensive. He's not the same, and... since Simmons left, he's only getting worse."
+        },
+        {
+            "character": "Fitz",
+            "line": "And this is number two of five. But if we get this one finished today, there's not much... Simmons, I said not to touch anything. Yes, yes. I know. I know. And I have told them to be patient, like you said, but I'm still having trouble communicating the... the ... yes. Thank you. Sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons said she thought he'd be better without her here, but her leaving just broke him. In the months since, he's grown isolated, talking to himself more and more."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. I know. I'm almost there."
+        },
+        {
+            "character": "Coulsoon",
+            "line": "We have to fight on for him, for those we've lost. We have to take risks... so the sacrifices they made were not made in vain. And then... we'll disappear."
+        }
+    ]
+}

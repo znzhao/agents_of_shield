@@ -1,0 +1,52 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 8,
+    "scene_name": "YoYoAndBensonShareLoss",
+    "description": "Yo-Yo confronts Dr. Benson about his recent decisions and his drinking. Benson opens up about his husband’s death and the emotional toll of making life-and-death choices, paralleling Yo-Yo’s struggles with having to kill Keller. This bonding cements their alliance as colleagues.",
+    "roles": [
+        "marcus_benson",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Benson",
+            "line": "Here to spy on me again?"
+        },
+        {
+            "character": "Elena",
+            "line": "I rescued you, in case you forgot. I killed Keller to save your life."
+        },
+        {
+            "character": "Benson",
+            "line": "Well, if you hadn't, we would likely have lost the Lighthouse."
+        },
+        {
+            "character": "Elena",
+            "line": "I've made hard choices before. Being right doesn't stop it from feeling wrong."
+        },
+        {
+            "character": "Benson",
+            "line": "I know what you mean. Two years back, I got a call. Car crash."
+        },
+        {
+            "character": "Elena",
+            "line": "Your husband?"
+        },
+        {
+            "character": "Benson",
+            "line": "Brain-dead, machines breathing for him... Tom didn't want that. His family fought me on it, but after a few days, I had them turn off the ventilator. They never will forgive me. It's the hardest choice I've ever made, but I took comfort in knowing it was the right one. And so should you."
+        },
+        {
+            "character": "Elena",
+            "line": "So, the knife did kill it."
+        },
+        {
+            "character": "Benson",
+            "line": "The blade generated a chemical reaction, paralyzing the creature, and after six hours, it took on an inert, hardened state and expired. Under a microscope, the creature now has a makeup similar to those spikes... a strange, crystalline structure. Obviously, I have never seen anything like it."
+        }
+    ]
+}

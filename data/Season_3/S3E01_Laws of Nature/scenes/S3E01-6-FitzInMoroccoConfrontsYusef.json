@@ -1,0 +1,51 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 6,
+    "scene_name": "FitzInMoroccoConfrontsYusef",
+    "description": "Fitz pursues a dangerous lead in Morocco, bargaining with a gangster named Yusef for a scroll related to the Monolith. The negotiation turns tense and violent, but Fitz’s quick thinking allows him to obtain the scroll and escape with his life, revealing the extent of his desperation to save Simmons.",
+    "roles": [
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Driver",
+            "line": "She'll be down that way. Mister? A man like you should not go to that place alone, though I will not go with you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Just stay close."
+        },
+        {
+            "character": "Man",
+            "line": "We speak English, my friend. But you do not speak Arabic."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm looking for Yusef Hadad. Is he here? I'd like to see him."
+        },
+        {
+            "character": "Man",
+            "line": "But does Yusef want to see you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm fairly certain he's gonna want what's in this case."
+        },
+        {
+            "character": "Man",
+            "line": "Let me take a look, huh? I'll decide."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, wait. Ah. I want to see Yusef. You understand? Or is your English worse than you think?"
+        },
+        {
+            "character": "Man",
+            "line": "Suit yourself."
+        }
+    ]
+}

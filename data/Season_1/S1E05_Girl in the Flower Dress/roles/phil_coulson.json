@@ -1,0 +1,73 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 5
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resourceful and pragmatic S.H.I.E.L.D. agent deeply committed to protecting the vulnerable and uncovering hidden threats involving dangerous technologies and powered individuals. His leadership and protective instincts are tempered by a growing recognition of the moral complexities in dealing with powered people like Chan Ho Yin. Coulson balances a firm but empathetic approach, willing to make difficult decisions to minimize harm while striving to maintain trust and cohesion within his team. His experience with betrayal and internal team doubts challenges him to be both vigilant and compassionate, especially as he becomes more entangled in managing Skye's secretive past and fragile loyalty. Coulson's practical decision-making extends to enforcing accountability while offering support, reflecting his evolving openness and dedication to his team's integrity and missions of justice.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "ensure_team_trust_and_accountability",
+        "goal": "Maintain trust, transparency, and accountability within the team to prevent further internal betrayals and strengthen cohesion"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_8",
+      "context": "firm assertion of consequences and authority",
+      "catch_phrase": "You've got two choices ... take what's in this box, or we put you in a slightly bigger one."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "hale",
+        "ruby",
+        "deke_shaw",
+        "carl_creel",
+        "glenn_talbot",
+        "robin_hinton"
+    ],
+    "aliases": [
+        "Phil",
+        "Coulson",
+        "Melinda",
+        "May",
+        "Fitz",
+        "Simmons",
+        "Mack",
+        "Yo-Yo",
+        "Daisy",
+        "Ruby",
+        "Hale",
+        "Deke",
+        "Talbot",
+        "Robin",
+        "Creel",
+        "General"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Inhumans"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)"
+    ]
+}

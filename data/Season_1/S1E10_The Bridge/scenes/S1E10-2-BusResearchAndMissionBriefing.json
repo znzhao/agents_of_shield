@@ -1,0 +1,213 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "BusResearchAndMissionBriefing",
+    "description": "On the S.H.I.E.L.D. Bus, Skye researches past S.H.I.E.L.D. operatives to try and identify her mother. Coulson gathers the team for a briefing about the prison breakout. He introduces the team to the threat from Centipede, reveals that they are working with someone from before: Mike Peterson, who is now being given a second chance by S.H.I.E.L.D. Tension and skepticism arise over Mike's involvement.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "michael_peterson"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Mission briefing in 5."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Katherine Shane?"
+        },
+        {
+            "character": "Skye",
+            "line": "Do you know her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We ran a few ops together in the ‘90s. Smart, resourceful. Had a soft spot for Truffaut movies."
+        },
+        {
+            "character": "Skye",
+            "line": "Easy there, charm school. According to these files, Agent Shane could be my mom."
+        },
+        {
+            "character": "Coulson",
+            "line": "Even if Shane was the agent who dropped you off at the orphanage, it doesn't mean she's your mother."
+        },
+        {
+            "character": "Skye",
+            "line": "I started looking into all the female agents active when I was born. Mm-hmm. Needle, haystack, I know. But then I factored in age and marital status, and then I built a program to narrow down the field."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're still looking at a long road."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, it would be a lot shorter if I could access more files. Maybe you could remove my internet nanny? I'm talking about my tracking bracelet."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got that."
+        },
+        {
+            "character": "Skye",
+            "line": "So you'll take it off."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. But I asked May to look into S.H.I.E.L.D.'s more restricted files."
+        },
+        {
+            "character": "Skye",
+            "line": "I was kind of hoping to keep this private."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May specializes in private. Let's go."
+        },
+        {
+            "character": "Ward",
+            "line": "Nice feint."
+        },
+        {
+            "character": "May",
+            "line": "I read your file. I know you favor your left."
+        },
+        {
+            "character": "Ward",
+            "line": "That's in there? What else?"
+        },
+        {
+            "character": "May",
+            "line": "Nothing that's news. You don't play well with others."
+        },
+        {
+            "character": "Ward",
+            "line": "I think I've proven that I can... more than once."
+        },
+        {
+            "character": "May",
+            "line": "Not here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Towel down. I need you both in the command center in 5."
+        },
+        {
+            "character": "Coulson",
+            "line": "At 0800 hours, three men infiltrated the Havenworth federal penitentiary."
+        },
+        {
+            "character": "Skye",
+            "line": "Infiltrated? More like cannonballed."
+        },
+        {
+            "character": "Coulson",
+            "line": "They were in and out in less then two minutes. Left no prints at the scene, but we do have one lead."
+        },
+        {
+            "character": "Ward",
+            "line": "Centipede."
+        },
+        {
+            "character": "Coulson",
+            "line": "Seems they salvaged some of their research from Hong Kong."
+        },
+        {
+            "character": "Simmons",
+            "line": "So we were right. Chan's platelets solved their combustion problem. Now they can create super soldiers with no fear of explosion."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe don't get so excited about it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two of Centipede's labs have been destroyed, but they keep popping back up. Now they have at least three of these guys, maybe more."
+        },
+        {
+            "character": "May",
+            "line": "Who did they break out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Edison Po, former Marine, expert in tactics and rapid response. He fell off the grid in ‘08, reappeared 18 months ago at a diner in Boston."
+        },
+        {
+            "character": "Ward",
+            "line": "Where he stabbed a friend's eyes out."
+        },
+        {
+            "character": "Coulson",
+            "line": "With a steak knife, then finished his meal."
+        },
+        {
+            "character": "Skye",
+            "line": "That's funny. Po doesn't look crazy. I'm kidding. The guy is a walking mug shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means he shouldn't be too hard to track down. Finding Po and these Centipede soldiers is a top priority for S.H.I.E.L.D. We'll be running point, but we won't be working alone."
+        },
+        {
+            "character": "Ward",
+            "line": "What team did H.Q. send for backup?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not a team... a person, someone who can help us fight fire with fire."
+        },
+        {
+            "character": "Skye",
+            "line": "Somebody we worked with before?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not exactly."
+        },
+        {
+            "character": "Mike",
+            "line": "Did I beat Captain America's time?"
+        },
+        {
+            "character": "Trainer",
+            "line": "Not even close."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Mike",
+            "line": "Agent Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Peterson, if you could put that bulldozer back where you found it... we need you to suit up."
+        },
+        {
+            "character": "May",
+            "line": "This is a bad idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "While I have you in a good mood, you should know that Skye's trying to I.D. the agent that dropped her off at the orphanage. We agreed to protect her from the truth, so I told her you were looking into it. She may come to you."
+        },
+        {
+            "character": "May",
+            "line": "One mistake at a time."
+        }
+    ]
+}

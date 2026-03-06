@@ -1,0 +1,82 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 4,
+    "scene_name": "HunterSearchesForBobbi",
+    "description": "At the Playground, Hunter, May, and their strike team attempt to rescue Bobbi who is being held by Ward and Agent 33. A tense search ensues, culminating in a tragic confrontation where Agent 33, disguised as May, is accidentally killed by Ward. Bobbi is wounded but rescued, while Hunter is left devastated by the ordeal. The emotional toll is apparent as the team regroups.",
+    "roles": [
+        "lance_hunter",
+        "bobbi_morse",
+        "melinda_may",
+        "grant_ward"
+    ],
+    "vibe": "tragic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "There he is, poor sap, not a clue what he's walking into."
+        },
+        {
+            "character": "Kara",
+            "line": "I didn't think May would be with him. She could screw the whole thing up for us."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, we'll make sure Hunter and Bobbi get their reunion by taking the rest out one by one. Don't worry about May. I'll take care of her. I owe her that."
+        },
+        {
+            "character": "Hunter",
+            "line": "Take that all the way. Check every room. Bob? Bobbi? Bob? I'm coming to find you, Bob."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi."
+        },
+        {
+            "character": "Agent",
+            "line": "Agent May?"
+        },
+        {
+            "character": "Kara",
+            "line": "Not really."
+        },
+        {
+            "character": "May",
+            "line": "Agent Walker took the South corner, right? He still radio silent? All agents converge on the South corner. I'll meet you there. Do not lower your guard until you see my face."
+        },
+        {
+            "character": "Agent",
+            "line": "Hunter's the only agent left."
+        },
+        {
+            "character": "May",
+            "line": "She doesn't know that."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi. I'm coming for you, Bob."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bob! Come on! Stay with me, Bob! Come on. Come on. Come on. Come on, Bob. Bob, Bob. Stay with me. Stay with me. Bobbi. Bobbi. Stay with me. Please, please. I've got you. I've got you."
+        },
+        {
+            "character": "Kara",
+            "line": "Baby."
+        },
+        {
+            "character": "Ward",
+            "line": "No. Kara? No, no. Kara, no. Kara, look at me. Look at me! No, no, no, no! No, Kara! Look at me, baby. Come on. It's... It's..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, god. Oh, god. Please. Please, Bobbi. Come on. Help. We need to get her out of here! I'm losing her!"
+        },
+        {
+            "character": "May",
+            "line": "Easy, easy."
+        }
+    ]
+}

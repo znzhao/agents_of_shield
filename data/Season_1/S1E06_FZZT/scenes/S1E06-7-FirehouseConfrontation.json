@@ -1,0 +1,220 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 7,
+    "scene_name": "FirehouseConfrontation",
+    "description": "Coulson, with the help of the team, questions the remaining firefighters at the firehouse. Tony Diaz begins displaying symptoms, and panic grows as it is revealed he and the others handled an alien Chitauri helmet. May discovers the helmet, and Simmons realizes it's the virus's source. Coulson stays behind to comfort the dying Diaz, sharing his own brush with death.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Evening, gentlemen. Agent Phil Coulson with S.H.I.E.L.D. we were on the ground with you in New York."
+        },
+        {
+            "character": "Fireman",
+            "line": "S.H.I.E.L.D., right. What's this all about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'd like to ask you a few questions, take a look around."
+        },
+        {
+            "character": "Diaz",
+            "line": "Hey, guys. What's, uh... what's going on?"
+        },
+        {
+            "character": "Skye",
+            "line": "What are you looking for?"
+        },
+        {
+            "character": "Fitz",
+            "line": "A scented candle."
+        },
+        {
+            "character": "Skye",
+            "line": "Not you."
+        },
+        {
+            "character": "Simmons",
+            "line": "This wound, something doesn't quite make sense. Initially, I thought these were entry wounds, as if from a gunshot. But they're not. They're exit wounds."
+        },
+        {
+            "character": "Fireman",
+            "line": "What do you mean? Frankie's dead?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm very sorry."
+        },
+        {
+            "character": "Diaz",
+            "line": "You know how it happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The same way your other friend, Mr. Cross, died the day before."
+        },
+        {
+            "character": "Diaz",
+            "line": "Which was how, exactly?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. Your name is...?"
+        },
+        {
+            "character": "Diaz",
+            "line": "Tony. Tony Diaz."
+        },
+        {
+            "character": "Coulson",
+            "line": "You okay, Mr. Diaz?"
+        },
+        {
+            "character": "Diaz",
+            "line": "Actually, uh... I'm actually not feeling so hot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward, cover the back door. Nobody comes in or out."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if this weapon overloaded the brain past the threshold of its electrical capacity, causing it to discharge, like an E.M.P.?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You're assuming we're dealing with an external source. I'm saying it was something from inside him."
+        },
+        {
+            "character": "Skye",
+            "line": "Something's happening. The satellite's picking up another reading. It's coming from the firehouse."
+        },
+        {
+            "character": "Diaz",
+            "line": "That humming noise... you hear that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I don't. Were you in New York with Mr. Cross and Mr. Whalen after the Chitauri invasion?"
+        },
+        {
+            "character": "Diaz",
+            "line": "Come on. You don't hear that? It's driving me nuts."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Diaz, are you with me? Whatever you're doing, make it stop."
+        },
+        {
+            "character": "Diaz",
+            "line": "I-I'm not doing anything!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's the weapon?"
+        },
+        {
+            "character": "Diaz",
+            "line": "The what?"
+        },
+        {
+            "character": "May",
+            "line": "Coulson, I found it. It's a Chitauri helmet. Fitz-Simmons, are you seeing this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not a weapon, yet it caused a cranial discharge."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you doing with the helmet?"
+        },
+        {
+            "character": "Diaz",
+            "line": "What, the... the alien thing? I-it's a souvenir. Aah! Not again!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Answer the question, Mr. Diaz... what are you doing with the helmet?"
+        },
+        {
+            "character": "Diaz",
+            "line": "The first time anyone's touched it since New York was a couple nights ago."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why?"
+        },
+        {
+            "character": "Diaz",
+            "line": "It had rust all over it. We were cleaning it."
+        },
+        {
+            "character": "Simmons",
+            "line": "That wasn't rust. May, don't touch it! Sir, he's not using a weapon... he's infected. I think the helmet was the source of an alien virus."
+        },
+        {
+            "character": "Diaz",
+            "line": "All we did was clean it, I swear. Me, Frankie, and Adam, we-we were bored on the third shift, so-so we decided to clean it. Adam and Frankie..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Diaz, I'm putting the gun away now, okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, he's at 600 megajoules and climbing. Sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Clear everybody out. Clear everybody out. Now!"
+        },
+        {
+            "character": "Diaz",
+            "line": "I-I'm gonna wind up like them, aren't I?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Why don't you have a seat? You have any family? Wife, kids? Is there anyone you want to talk to? Anything I can do?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, you have to get out of there right now! He's going to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Listen to me. I've been where you are right now. So please believe me when I tell you you don't have to be afraid."
+        },
+        {
+            "character": "Diaz",
+            "line": "What are you... what are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Your job... gets pretty dangerous, doesn't it? Mine, too. I got hurt once... pretty bad. And I–I died. Some say it was only for 8 seconds, but I know it was more than that. I know I wasn't here anymore. I was there."
+        },
+        {
+            "character": "Diaz",
+            "line": "What's it like?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's beautiful."
+        },
+        {
+            "character": "Diaz",
+            "line": "You better get going, buddy. Go."
+        }
+    ]
+}

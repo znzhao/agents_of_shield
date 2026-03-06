@@ -1,0 +1,110 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 14,
+    "scene_name": "CoulsonsTeamExtraction",
+    "description": "May, Skye, Coulson, and Simmons organize their own extraction mission, coordinating to retrieve Ward and Fitz. Coulson insists on taking care of his own people, and the group successfully pulls off the rescue as S.H.I.E.L.D. teams assault the enemy base, demonstrating their teamwork and resourcefulness.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Your turn."
+        },
+        {
+            "character": "Hand",
+            "line": "Beacon's hot. The device is disabled. Mission's a go."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay Fitz. Let's go. We need to slip out of here before they notice the device is powered down."
+        },
+        {
+            "character": "Fitz",
+            "line": "Got it."
+        },
+        {
+            "character": "Ward",
+            "line": "Are you sure this is gonna work?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. Theoretically."
+        },
+        {
+            "character": "Ward",
+            "line": "Hurry."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Finished."
+        },
+        {
+            "character": "Fitz",
+            "line": "What was that?"
+        },
+        {
+            "character": "Ward",
+            "line": "S.H.I.E.L.D. They've started their attack, which means we don't have much time before they crush the compound. Get up there and take out as many of their weapons as you can with that thing."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Behind you!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I just did that."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Let's go."
+        },
+        {
+            "character": "Fitz",
+            "line": "You said they needed a guy like me and a guy like you, right?"
+        },
+        {
+            "character": "Ward",
+            "line": "Right."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's the extraction team!"
+        },
+        {
+            "character": "Ward",
+            "line": "Better. It's the cavalry."
+        },
+        {
+            "character": "Ward",
+            "line": "Never get tired of seeing that."
+        },
+        {
+            "character": "Hand",
+            "line": "Are Coulson's people clear?"
+        },
+        {
+            "character": "Sitwell",
+            "line": "They are. I thought there wasn't gonna be an extraction."
+        },
+        {
+            "character": "Hand",
+            "line": "All our resources were needed elsewhere. And it's Agent Coulson's team. They didn't need one. Okay. Let's mop up."
+        }
+    ]
+}

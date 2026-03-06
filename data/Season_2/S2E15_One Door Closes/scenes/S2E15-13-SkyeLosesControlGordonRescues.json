@@ -1,0 +1,37 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 13,
+    "scene_name": "SkyeLosesControlGordonRescues",
+    "description": "As Skye tries to escape, she is confronted by Gonzales' agents, including Bobbi and Calderon. Under pressure, Skye loses control of her powers, unleashing a shockwave that throws Bobbi and Calderon, and injures Calderon. Distressed by her lack of control, Skye calls out for Gordon, who arrives and offers to take her to safety, to which she agrees.",
+    "roles": [
+        "skye",
+        "bobbi_morse",
+        "gordon"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "That's not Skye."
+        },
+        {
+            "character": "Calderon",
+            "line": "All agents, converge on that sound!"
+        },
+        {
+            "character": "Morse",
+            "line": "No! Skye!"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, my God. Gordon, help."
+        },
+        {
+            "character": "Gordon",
+            "line": "Would you like to go home?"
+        }
+    ]
+}

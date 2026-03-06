@@ -1,0 +1,24 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 2,
+    "scene_name": "ZephyrRecoveryAndMissionSetup",
+    "description": "On Zephyr One, the agents discuss the consequences of their attack on Insight and the exposure of their location. Mack is frustrated about Daisy and Sousa's disappearance and the urgency of rescuing his parents, while Deke, Simmons, and Enoch coordinate scanning and repairs. Elena insists on assisting Mack with the rescue, setting in motion the parallel missions for the episode.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "leo_fitz",
+        "jemma_simmons",
+        "enoch",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "They had to see us. We launched a missile in broad daylight."
+        }
+    ]
+}

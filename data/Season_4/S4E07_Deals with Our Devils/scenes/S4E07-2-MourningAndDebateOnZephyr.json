@@ -1,0 +1,115 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 2,
+    "scene_name": "MourningAndDebateOnZephyr",
+    "description": "Back on Zephyr One, May, Mack, Daisy, and Director Mace grapple with the apparent loss of their teammates. Daisy pushes for contacting Simmons, insisting not all hope is lost. Mace tries to keep the team focused, emphasizing caution with Eli and lying, saying he will call Simmons for help. Mack and May speculate about Eli's motives, and May suggests Eli's connection to the Chinatown Crew. Emotions run high as Mace asserts control, assigning duties and preparing to return to base.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "jeffrey_mace",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "This is a tragedy. We have to prepare for the likelihood..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Whatever you're gonna say, don't. I see the way you're all looking at that screen. We don't know what happened."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy."
+        },
+        {
+            "character": "Mace",
+            "line": "It's okay. This is a process."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, it's S.H.I.E.L.D. Impossible things happen all the time. That... That machine ghosted that Lucy woman."
+        },
+        {
+            "character": "Mack",
+            "line": "So what? Coulson and Fitz come back in five years, bloody and insane?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know. That's my point. They could be stuck in one of those boxes or..."
+        },
+        {
+            "character": "May",
+            "line": "Or maybe they're gone."
+        },
+        {
+            "character": "Daisy",
+            "line": "May. I know it's crazy, but Coulson came back from the dead, Fitz pulled Simmons through space through a rock, and Robbie's head lights on fire."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons."
+        },
+        {
+            "character": "Mace",
+            "line": "We need to approach this with level heads."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, we need to call Simmons. She can solve this, if anyone can."
+        },
+        {
+            "character": "Mack",
+            "line": "And she deserves to know."
+        },
+        {
+            "character": "Mace",
+            "line": "Okay."
+        },
+        {
+            "character": "Mack",
+            "line": "Why did Eli turn on us? What does he want?"
+        },
+        {
+            "character": "May",
+            "line": "What he wanted all along. A power. I bet he hired the Chinatown Crew to steal the box in the first place."
+        },
+        {
+            "character": "Mack",
+            "line": "We need to take him off the street now."
+        },
+        {
+            "character": "Mace",
+            "line": "No. Daisy's right. Simmons needs to study this tech first, see what makes Eli tick."
+        },
+        {
+            "character": "Mack",
+            "line": "He'll kill again, sir."
+        },
+        {
+            "character": "Mace",
+            "line": "Eli killed four agents with his mind. Go after him now, and you'll make it five."
+        },
+        {
+            "character": "Mack",
+            "line": "Those agents died for no reason."
+        },
+        {
+            "character": "Mace",
+            "line": "And, hopefully, Simmons will give us a way to avenge them. And if we're really, really lucky, maybe she'll find hope for saving our friends. I'll call her now."
+        },
+        {
+            "character": "May",
+            "line": "Mace. When you talk to her..."
+        },
+        {
+            "character": "Mace",
+            "line": "I know what Agent Fitz means to her."
+        }
+    ]
+}

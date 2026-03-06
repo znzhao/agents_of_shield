@@ -1,0 +1,57 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 10,
+    "scene_name": "FitzSimmonsAndTriplettDebateFate",
+    "description": "Fitz, Simmons, and Triplett discuss whether their trust in Coulson is justified as the world around them falls apart. Simmons and Triplett express doubts about Coulson’s judgment, while Fitz remains loyal, highlighting growing anxieties and fractures within the team as they prepare for the next phase of their mission.",
+    "roles": [
+        "leo_fitz",
+        "antoine_triplett",
+        "jemma_simmons"
+    ],
+    "vibe": "melancholic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We have to trust that Coulson knows what he's doing."
+        },
+        {
+            "character": "Triplett",
+            "line": "Hey, I respect Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "Agent Coulson to you."
+        },
+        {
+            "character": "Triplett",
+            "line": "Agent Coulson. He saved our asses back at the Hub. But I'm telling you, he's chasing the white whale."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Have you even read “Moby dick?”"
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah. Have you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That's not the point. Point is, stop spouting your nonsense and let me get back to checking my inventory."
+        },
+        {
+            "character": "Simmons",
+            "line": "He may be right, Fitz. Coulson could be leading us into a trap and not even know it."
+        },
+        {
+            "character": "Triplett",
+            "line": "The whole world's coming apart at the seams. Now's not the time to follow blindly."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. It's times like these you stick with the guy you believe in."
+        }
+    ]
+}

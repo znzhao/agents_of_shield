@@ -1,0 +1,87 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 13,
+    "scene_name": "BoardingRemorathShipAndMutiny",
+    "description": "The Zephyr docks with the Remorath mothership, triggering alarms. Talbot perceives the arrival as mutiny and accuses Coulson of betrayal. The tension quickly turns dangerous as Talbot takes control of the situation and the team is caught between rescuing Coulson and confronting Talbot's instability.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "hale",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Quinn's team originally found gravitonium at the bottom of one of his mines."
+        },
+        {
+            "character": "Hale",
+            "line": "How did you know that?"
+        },
+        {
+            "character": "Talbot",
+            "line": "He just told me."
+        },
+        {
+            "character": "Remorath",
+            "line": "Sensors indicate an unseen object has breached our hull."
+        },
+        {
+            "character": "Qovas",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Cloaking. What is S.H.I.E.L.D. doing here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I guess, providing back-up."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is mutiny! You made contact behind my back."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not true."
+        },
+        {
+            "character": "Talbot",
+            "line": "They're here to do what? Take my ship?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You've got this all wrong."
+        },
+        {
+            "character": "Talbot",
+            "line": "You're a liar! You're a liar! Did you have any part in this?"
+        },
+        {
+            "character": "Hale",
+            "line": "I told Coulson not to do it, he wouldn't listen to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Also not true."
+        },
+        {
+            "character": "Talbot",
+            "line": "Find the intruders and take them out."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're here to help. What are you doing? Glenn, don't do this."
+        },
+        {
+            "character": "Talbot",
+            "line": "You have betrayed me for the last time, Phil. Whatever happens next is on you."
+        }
+    ]
+}

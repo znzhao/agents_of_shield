@@ -1,0 +1,153 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "CoulsonDaisyAndrewDiscussInhumans",
+    "description": "In the present, Daisy confronts Coulson and Andrew about the ATCU's practice of putting Inhumans in stasis. The moral debate about what to do with those who can’t control their powers is discussed, and Andrew volunteers to reassess Joey Gutierrez. Coulson prepares for his important meeting with world leaders and asks Daisy to influence Rosalind. This scene establishes the escalating threat and the S.H.I.E.L.D. team’s differing perspectives.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "andrew_garner"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "We're not monsters. You can't just lock us up in some ice prison because you don't know what else to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one's talking prison. And, technically, it's a gel matrix."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're putting people in stasis!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Think of it as a medically induced coma, a way to hit the pause button until we find a better solution."
+        },
+        {
+            "character": "Daisy",
+            "line": "“A better solution.” What does that mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The ATCU's looking for a cure. I'm not suggesting that's for everyone, because it's not, but some people might want to..."
+        },
+        {
+            "character": "Daisy",
+            "line": "We are not a disease."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't say that you were."
+        },
+        {
+            "character": "Daisy",
+            "line": "You can't just expect people to go through that kind of change and immediately have a handle on it. Do you remember how scared I was at first?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. I also remember you ICEd yourself so that you wouldn't hurt any of us. You've got to admit, things are getting out of hand."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know."
+        },
+        {
+            "character": "Coulson",
+            "line": "People are changing in uncontrolled environments."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know, but everyone deserves a chance to be who they are."
+        },
+        {
+            "character": "Andrew",
+            "line": "That's where you're wrong. You're being seduced by your own experience. Just because you learned how to control your powers doesn't mean everyone else will. I mean, what if a person's hurting themselves or those around them? What ... What if they can't stop?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Take Lash. If putting a bullet in that monster's head doesn't do the trick, then what?"
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not fair. That's one guy. Most Inhumans fall somewhere between me and him."
+        },
+        {
+            "character": "Coulson",
+            "line": "And that's the message I'm hoping the president and his advisors will hear when I meet with them today."
+        },
+        {
+            "character": "Daisy",
+            "line": "The President of the United States?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's off the books, but the global community's coming together to discuss the future of enhanced people. We're meeting at Norad in Colorado."
+        },
+        {
+            "character": "Daisy",
+            "line": "But S.H.I.E.L.D. isn't supposed to exist."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why I'm going in as a consultant for the ATCU."
+        },
+        {
+            "character": "Daisy",
+            "line": "So Rosalind Price..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Arranged it, yes. We're taking Zephyr One, picking her up on the way."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you sure this is a good idea?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't afford to miss it. That's why I want you to talk to Rosalind before the meeting. Win her over to your side of things."
+        },
+        {
+            "character": "Andrew",
+            "line": "Could be a real start toward legitimizing S.H.I.E.L.D. But it might help if you can present a successful Inhuman case, one that's not an extreme on either side."
+        },
+        {
+            "character": "Daisy",
+            "line": "Joey Gutierrez is due for reassessment."
+        },
+        {
+            "character": "Andrew",
+            "line": "I'd be more than happy to check in on him, see how he's progressing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Couldn't hurt."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree."
+        },
+        {
+            "character": "Andrew",
+            "line": "I can send you my report while you're in the air."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thank you for your help on this."
+        },
+        {
+            "character": "Andrew",
+            "line": "It's what I'm here for."
+        },
+        {
+            "character": "Mack",
+            "line": "No. I just don't know why you're calling me. All right. Give me your location. I'll meet you there."
+        }
+    ]
+}

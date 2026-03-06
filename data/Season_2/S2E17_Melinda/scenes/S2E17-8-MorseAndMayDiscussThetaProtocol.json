@@ -1,0 +1,24 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 8,
+    "scene_name": "MorseAndMayDiscussThetaProtocol",
+    "description": "Bobbi Morse discusses the implications of Coulson’s secrecy with May, especially regarding Theta Protocol. She confronts May about her feelings and choices, emphasizing the gravity of Coulson’s covert actions and the fracture it causes in their loyalty. May must reckon with the ambiguity and pain of doing what she believes is right amid growing mistrust.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse"
+    ],
+    "vibe": "dramatic",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Saw the look on your face when we mentioned Mike Peterson. Tell me if I'm wrong, but... Coulson didn't just keep the specifics of Theta Protocol from you. I get the feeling that until we said it, you'd never heard it before. That gut punch that you felt today... that's how we felt for months. I swore to build S.H.I.E.L.D. back up the right way, and I don't think Coulson's a bad guy. But a secret as big as Theta Protocol? I can't ignore that. Whatever he's doing, it needs to be out in the light of day."
+        },
+        {
+            "character": "May",
+            "line": "You're worried that I don't understand your choice. Well, sometimes that's the price of doing the right thing. No one will understand, and it hurts like hell."
+        }
+    ]
+}

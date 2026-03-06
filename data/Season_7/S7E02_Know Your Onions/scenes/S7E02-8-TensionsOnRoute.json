@@ -1,0 +1,52 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 8,
+    "scene_name": "TensionsOnRoute",
+    "description": "Mack, Deke, and Freddy travel together, still undercover. As Mack and Deke grow more suspicious of Freddy's delivery, they attempt to inspect his cargo. Freddy resists, suspecting their motives and pulling a gun to protect himself and his job, further escalating the uncertainty about the mission and their safety.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Just let me inspect the bottles."
+        },
+        {
+            "character": "Freddy",
+            "line": "And get me killed? I deliver opened bottles. What's that say about me? That I'm a snoop?"
+        },
+        {
+            "character": "Mack",
+            "line": "You're not curious?"
+        },
+        {
+            "character": "Freddy",
+            "line": "Curious'll get you killed faster than trust."
+        },
+        {
+            "character": "Deke",
+            "line": "Let's just get him there and be done with it. It's ripples, not waves, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "No one will ever know. Step aside, Freddy. Deke, give me a hand."
+        },
+        {
+            "character": "Freddy",
+            "line": "Like I said. I can't let you do that."
+        },
+        {
+            "character": "Mack",
+            "line": "Put the gun down, Freddy."
+        },
+        {
+            "character": "Freddy",
+            "line": "You need to listen to your friend here. Just let me do my job, and we can all go home."
+        }
+    ]
+}

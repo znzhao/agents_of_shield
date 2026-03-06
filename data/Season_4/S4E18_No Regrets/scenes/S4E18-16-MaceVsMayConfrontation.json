@@ -1,0 +1,33 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 16,
+    "scene_name": "MaceVsMayConfrontation",
+    "description": "Inside the Cultivation Center, May intercepts Mace, and a fierce one-on-one fight breaks out, highlighting May’s augmented strength. Trip rushes to find Coulson among the chaos while Mace bravely duels May. The fight represents the physical culmination of their opposing loyalties.",
+    "roles": [
+        "melinda_may",
+        "jeffrey_mace",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Mace",
+            "line": "Go get Coulson. I'll handle her."
+        },
+        {
+            "character": "May",
+            "line": "I've been waiting for this."
+        },
+        {
+            "character": "Mace",
+            "line": "Someone's been juicing. Unless, of course, you're one of us now."
+        }
+    ]
+}

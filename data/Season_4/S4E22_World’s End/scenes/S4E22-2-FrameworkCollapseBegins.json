@@ -1,0 +1,99 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 2,
+    "scene_name": "FrameworkCollapseBegins",
+    "description": "Within the Framework, Yo-Yo desperately calls for help as the reality around her starts collapsing. Radcliffe finds her, having followed clues left by Daisy, and explains the urgency of the situation. The world is disintegrating as Aida begins to shut down the Framework due to her rage. Meanwhile, in the real world Ivanov and Aida strategize their next move and are confronted by Robbie Reyes, who reveals his pursuit of the Darkhold and attacks Aida, discovering his power can hurt her.",
+    "roles": [
+        "aida",
+        "anton_ivanov",
+        "robbie_reyes",
+        "holden_radcliffe",
+        "elena_rodriguez"
+    ],
+    "vibe": "intense",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Help! Somebody help me! Is anybody there?! Is anybody there? Please help me. Please. No, no, no! Please, no! No, no, no, no!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yo-Yo. You being here, it's madness."
+        },
+        {
+            "character": "Elena",
+            "line": "I came here for mack."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, a Valiant but foolish endeavor."
+        },
+        {
+            "character": "Elena",
+            "line": "How did you find me?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I kept discovering these, in my pockets, in the streets. I felt like a PAC-MAN gobbling up biscuits. Somebody wanted me to find you."
+        },
+        {
+            "character": "Elena",
+            "line": "Daisy. Can you take me to Mack?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I fear you're too late. Look. AIDA's shutting down the framework. It's collapsing on itself. This is what happens when you piss off your creator."
+        },
+        {
+            "character": "AIDA",
+            "line": "Are you laughing at me?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "To see a creature of logic and calculation now consumed with rage and hate. It's sweet."
+        },
+        {
+            "character": "AIDA",
+            "line": "Call me “sweet” one more time, and I'll rip the titanium spines out of all of you tin cans."
+        },
+        {
+            "character": "AIDA",
+            "line": "A decision I regret."
+        },
+        {
+            "character": "Ivanov",
+            "line": "there is that word again. “Regret.” You built an empire by eliminating the regrets of others. How does it taste on your tongue?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I want to burn this world to the ground."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I thought you wanted to rule it."
+        },
+        {
+            "character": "AIDA",
+            "line": "Don't mistake my anger for recklessness. The darkhold has shown us exactly what to do. It's just that I also want S.H.I.E.L.D. to suffer."
+        },
+        {
+            "character": "AIDA",
+            "line": "Fitz. especially Fitz."
+        },
+        {
+            "character": "Robbie",
+            "line": "I've come for that."
+        },
+        {
+            "character": "Robbie",
+            "line": "You're not like those machines anymore. What have you done?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I'll show you."
+        }
+    ]
+}

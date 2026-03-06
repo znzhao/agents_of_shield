@@ -1,0 +1,190 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "FailedIntelDealAmbush",
+    "description": "In the present day, Skye, Melinda May, and Antoine Triplett monitor mercenaries Hartley, Hunter, and Idaho as they attempt to buy information on a classified S.H.I.E.L.D. asset. The deal goes sideways when a mysterious assassin kills the former agent and steals the intel. The team regroups, aware a third-party threat is in play.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "antoine_triplett",
+        "lance_hunter"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "We've got ears on them. The package is in the open."
+        },
+        {
+            "character": "May",
+            "line": "Don't engage until the deal's done."
+        },
+        {
+            "character": "Skye",
+            "line": "Copy that."
+        },
+        {
+            "character": "May",
+            "line": "Trip, we got eyes?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Now we do."
+        },
+        {
+            "character": "Browning",
+            "line": "That's what I'm selling. I'm sure you'd like to see some credentials."
+        },
+        {
+            "character": "Hartley",
+            "line": "Agent Browning, for ex-S.H.I.E.L.D., you seem awfully indifferent to who we are."
+        },
+        {
+            "character": "Browning",
+            "line": "What you are is the highest bidder. Whether you're in it for profit or for Hydra, it doesn't concern me, not anymore."
+        },
+        {
+            "character": "Hartley",
+            "line": "That's what we want to hear."
+        },
+        {
+            "character": "May",
+            "line": "What are they buying from him?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Intel, not hardware."
+        },
+        {
+            "character": "Hunter",
+            "line": "The mystery I'd like to solve is, why should we be paying you so much? This looks like a box. Sorry... a picture of a box... a picture of a box you don't have."
+        },
+        {
+            "character": "Browning",
+            "line": "The government has it, along with thousands of other assets they've seized from S.H.I.E.L.D., and they don't know what to make of half of them. I worked in a S.H.I.E.L.D. containment facility that had hundreds of boxes that look just like this. But this is the only one that has a level 10 classified file dedicated to it."
+        },
+        {
+            "character": "Hartley",
+            "line": "You're selling us a needle in a haystack."
+        },
+        {
+            "character": "Browning",
+            "line": "Finding the haystack is up to you. I know your reputation. I'm sure you'll be fine. What I don't appreciate is you changing the terms on me now."
+        },
+        {
+            "character": "Hartley",
+            "line": "We're asking for clarification, Browning. You're the one who changed the terms, bringing more than the two guards we agreed upon."
+        },
+        {
+            "character": "Browning",
+            "line": "I only brought two guards."
+        },
+        {
+            "character": "Hartley",
+            "line": "What the hell are you doing here?"
+        },
+        {
+            "character": "Idaho",
+            "line": "Who was that?"
+        },
+        {
+            "character": "May",
+            "line": "A third party."
+        },
+        {
+            "character": "Idaho",
+            "line": "A party's what you'd call that?"
+        },
+        {
+            "character": "Triplett",
+            "line": "He's gone. 25-foot drop."
+        },
+        {
+            "character": "Hartley",
+            "line": "This was supposed to be an undercover operation. You want to explain why you're shadowing us?"
+        },
+        {
+            "character": "Skye",
+            "line": "We were your backup, which you needed."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. So did he."
+        },
+        {
+            "character": "Hartley",
+            "line": "Sir, Mark's down. Third party, possibly Hydra, and we're out in the open. What are our orders?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go dark."
+        },
+        {
+            "character": "Talbot",
+            "line": "They're fugitives, and they deserve to be punished. We witnessed the single greatest intelligence collapse in recorded history, George. We have a duty to the American people to hunt down those responsible. So, no, I don't sleep most nights."
+        },
+        {
+            "character": "Reporter",
+            "line": "General Talbot, you said you have S.H.I.E.L.D. personnel and weaponry locked in a secure facility, so is it fair to say that S.H.I.E.L.D. and the Hydra terrorists who poisoned its ranks have been defeated?"
+        },
+        {
+            "character": "Talbot",
+            "line": "The corrupt institution has been dismantled, yes. We cut down the tree, we pulled up the roots, but let's just say I'll rest easier when we throw it all on the bonfire."
+        },
+        {
+            "character": "Reporter",
+            "line": "So, you didn't get them all?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Our black-market contacts were the reason the guy believed we weren't with S.H.I.E.L.D."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson knows Hartley. She's the only person on your team he trusts."
+        },
+        {
+            "character": "Hartley",
+            "line": "But why'd you break silhouette protocol?"
+        },
+        {
+            "character": "May",
+            "line": "He ordered us to."
+        },
+        {
+            "character": "Hunter",
+            "line": "We can't maintain solid cover with agents tailing us."
+        },
+        {
+            "character": "Skye",
+            "line": "And we can't be sure you won't run off with the money."
+        },
+        {
+            "character": "Idaho",
+            "line": "Any idea how that freak show found us, Hartley?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I have a theory."
+        },
+        {
+            "character": "Hartley",
+            "line": "Cool it. The man said we were the highest bidder. That means he sent the word out wide."
+        },
+        {
+            "character": "May",
+            "line": "And he paid for that mistake."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, he did."
+        },
+        {
+            "character": "Hunter",
+            "line": "That's an understatement."
+        }
+    ]
+}

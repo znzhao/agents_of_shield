@@ -1,0 +1,82 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 12,
+    "scene_name": "CoulsonsTeamDisablesEMP",
+    "description": "Using Fitz’s compass method, the team locates the heavily-guarded room containing the EMP generator. Yo-Yo uses her powers to disarm the Watchdog guards, and the team disables the device, ending the blackout and restoring power to affected cities. The scene is tense and action-packed as they move quickly to prevent further disaster.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Looks empty. You sure this is the right place?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I said I'd get us in the ballpark."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know, Turbo."
+        },
+        {
+            "character": "Coulson",
+            "line": "Halt."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, the good news is, Fitz was right. The EMP is here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, the bad news is, we're out-gunned."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any suggestions?"
+        },
+        {
+            "character": "Man",
+            "line": "What the..."
+        },
+        {
+            "character": "Man",
+            "line": "Hey! She's over there!"
+        },
+        {
+            "character": "Man",
+            "line": "My gun's gone!"
+        },
+        {
+            "character": "Man",
+            "line": "Where's my gun?"
+        },
+        {
+            "character": "Man",
+            "line": "Inhumans!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. All set. Let there be light."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ah. Welcome back, fellas."
+        },
+        {
+            "character": "Elena",
+            "line": "So many people looking for an excuse to hate."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's spreading. Passports, visas. Somebody's taken the Watchdogs global. Yeah, this is Agent Coulson. Get me the Director. We have a solve."
+        }
+    ]
+}

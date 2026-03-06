@@ -1,0 +1,140 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 16,
+    "scene_name": "MayReturnsToSHIELDAndAIDAIntroducedToCoulson",
+    "description": "May, finally cleared to return, is thanked by Radcliffe and greeted by Coulson, who offers her a ride. Coulson is introduced to AIDA and is impressed by her apparent humanity and technical sophistication. Fitz and Simmons share a private moment regarding AIDA’s true nature, with Simmons realizing AIDA is an android and worrying about the implications of keeping this fact secret from S.H.I.E.L.D.'s new Director.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida",
+        "leo_fitz",
+        "phil_coulson",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I would like to thank you again, Agent May, for all your help."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we know the tests were obnoxious enough to make you want to hit someone. Just glad that person wasn't me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Need a lift?"
+        },
+        {
+            "character": "May",
+            "line": "Desperately."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's good to see you back in fighting form."
+        },
+        {
+            "character": "May",
+            "line": "Dying takes a lot out of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've heard. We should start a club, get some T-shirts made up. We got a problem. I need you with me on this."
+        },
+        {
+            "character": "May",
+            "line": "You know I'm in. Thank you for your help."
+        },
+        {
+            "character": "AIDA",
+            "line": "It was my pleasure, Agent May."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think we've met. Phil Coulson."
+        },
+        {
+            "character": "AIDA",
+            "line": "Agent Coulson. I'm AIDA."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "My assistant."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. How long have you been lending a hand to our friend Dr. Radcliffe?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Since he gave me hands."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Wow. Impeccable work. I'm a fellow amputee. What happened, if you don't mind me asking?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Not at all. I've actually been this way since birth. Thank God for Dr. Radcliffe and Dr. Fitz's work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Couldn't agree more."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hey. Now I see why you've been spending so much time here."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "AIDA... She's beautiful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is she? Ah, yeah, she is all right, I guess. I prefer a classical beauty myself."
+        },
+        {
+            "character": "Simmons",
+            "line": "She's so real. Her... Her conversational responses, her range of motion."
+        },
+        {
+            "character": "Fitz",
+            "line": "Those are weird things to say about a person."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, she's an android. You do know she's an android, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, of course I know that she's an android, ‘cause I helped out. Why do you think her dynamic reaction force is so low?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Why didn't you tell me?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I wanted to. Obviously, you can't tell the new Director, and what with your lie-detector tests becoming more frequent, who knows the next time they're gonna call you in and then a..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Tomorrow. It's tomorrow."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's not good. This is one lie you're gonna have to tell."
+        },
+        {
+            "character": "Simmons",
+            "line": "Actually, I'll have a few."
+        }
+    ]
+}

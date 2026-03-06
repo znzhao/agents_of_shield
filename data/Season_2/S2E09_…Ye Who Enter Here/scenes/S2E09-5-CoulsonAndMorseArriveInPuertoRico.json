@@ -1,0 +1,132 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 5,
+    "scene_name": "CoulsonAndMorseArriveInPuertoRico",
+    "description": "Coulson and Morse arrive in old San Juan, Puerto Rico, to pursue the city's entrance. They discuss operational philosophy, Fury's legacy, and their mission's stakes while waiting for Morse's contact, Diego. Morse gets the architectural plans they need, and Coulson emphasizes minimizing collateral damage over Fury's 'acceptable losses' approach.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse"
+    ],
+    "vibe": "dramatic",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "No tails on the way in. None that I could spot, anyway."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then we're good. You ever had the fried plantains here?"
+        },
+        {
+            "character": "Morse",
+            "line": "Tostones? Yeah. Why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I read about this place down the street where they put crab in 'em. I wouldn't mind trying that. You know, after we save the world."
+        },
+        {
+            "character": "Morse",
+            "line": "Diego texted me. He's gonna be late. He's always late. Said he'd meet us on the other side of the plaza."
+        },
+        {
+            "character": "Coulson",
+            "line": "This contact of yours, can we trust him?"
+        },
+        {
+            "character": "Morse",
+            "line": "He's a politician, so, no, but he likes me."
+        },
+        {
+            "character": "Coulson",
+            "line": "And he can get us those architectural plans?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yes, and he'll keep the local cops off of us. Things could get sticky, depending on where we're digging."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ooh. Hats. Wish I was a hat guy. Some guys can really pull that look off, you know? What? Too small?"
+        },
+        {
+            "character": "Morse",
+            "line": "You know, for a guy who's about to blow up a chunk of an underground city, you don't seem fazed."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have concerns?"
+        },
+        {
+            "character": "Morse",
+            "line": "Just want to make sure that we're here to destroy that weapon, not recover it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why would we do that?"
+        },
+        {
+            "character": "Morse",
+            "line": "That's what Fury would do."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not Fury."
+        },
+        {
+            "character": "Morse",
+            "line": "No. But he did hand you the keys to the kingdom for a reason."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look around you. Vendors selling their wares, bringing home a modest income. Locals buying fresh vegetables for dinner tonight. Tourists on their one vacation a year."
+        },
+        {
+            "character": "Morse",
+            "line": "Point?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They are the point. They're the reason I'm here, the reason there's a S.H.I.E.L.D. There are 3 million people on this island, and I won't let HYDRA turn them into collateral damage."
+        },
+        {
+            "character": "Morse",
+            "line": "With all due respect, sir, this kind of op, Fury would have a number."
+        },
+        {
+            "character": "Coulson",
+            "line": "A number?"
+        },
+        {
+            "character": "Morse",
+            "line": "Of acceptable losses."
+        },
+        {
+            "character": "Coulson",
+            "line": "My number is zero. For the record, I hate that phrase. That's why I brought Fitz-Simmons... not just to find the temple but to assess its structural integrity, minimize injury or destruction."
+        },
+        {
+            "character": "Morse",
+            "line": "Minimize destruction? You really aren't Fury, are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on, Bobbi. You ought to know me by now. Rather use a scalpel than a shotgun."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, it's HYDRA. Might need the shotgun."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why do you think I brought you?"
+        },
+        {
+            "character": "Morse",
+            "line": "There's Diego. I'll be right back."
+        }
+    ]
+}

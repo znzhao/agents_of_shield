@@ -1,0 +1,166 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 10,
+    "scene_name": "ThomasTalksToWardCallTracked",
+    "description": "Ward calls back and is surprised to speak to Thomas. During a tense and revealing conversation, Thomas confronts Grant Ward about the family's past, his crimes, and expresses resentment and fear. While the call continues, Morse traces Ward's phone location to the castle in England, and Coulson reveals they now know where to find him. Thomas, still fearful, is told he'll be protected by S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "bobbi_morse",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I swear I'll cut Fitz from head to toe if..."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Grant?"
+        },
+        {
+            "character": "Ward",
+            "line": "Thomas. You okay?"
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Is everything they're saying true?"
+        },
+        {
+            "character": "Ward",
+            "line": "Don't listen to them. They're the bad guys. They killed someone I love very much."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Then why is this happening?"
+        },
+        {
+            "character": "Ward",
+            "line": "They know how much I care about you. They want to hurt me."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "It's been almost 15 years."
+        },
+        {
+            "character": "Ward",
+            "line": "I tried to see you. Mom and dad made that impossible. They kept you hidden."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "That wasn't mom and dad. That was me. I changed my name and moved so you'd never find me."
+        },
+        {
+            "character": "Ward",
+            "line": "Why would you do that?"
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "'Cause I didn't want to let you hurt me again."
+        },
+        {
+            "character": "Ward",
+            "line": "That was one time."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Really? One time? Then explain what the hell you did to mom and dad."
+        },
+        {
+            "character": "Ward",
+            "line": "Thomas."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "No, you killed them. And Christian, too."
+        },
+        {
+            "character": "Ward",
+            "line": "You know what type of people they were. They hurt us both. I couldn't let that happen again."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Dad needed a walker to get around. Who was he gonna hurt?"
+        },
+        {
+            "character": "Ward",
+            "line": "I know this is tough to hear, but sometimes, you got to do a bad thing for the right reasons."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Stop trying to justify what you did. Just stop. They were my parents, too. And yeah, they were horrible people, but you are so much worse. You set them on fire."
+        },
+        {
+            "character": "Ward",
+            "line": "Thomas, calm down. Listen to me for a second."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time's up."
+        },
+        {
+            "character": "Ward",
+            "line": "Put Thomas back on the phone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, that's not gonna happen."
+        },
+        {
+            "character": "Ward",
+            "line": "You traced the call."
+        },
+        {
+            "character": "Coulson",
+            "line": "And now I'm coming to put you down."
+        },
+        {
+            "character": "Ward",
+            "line": "You will tell me everything I need to know right now. You understand me?! Do you?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. No!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Trace puts Ward in the Southwest of England."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're at the castle where we brought Simmons back."
+        },
+        {
+            "character": "Hunter",
+            "line": "Which would explain why he kidnapped her and Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "'Cause Malick's trying to open another portal."
+        },
+        {
+            "character": "Hunter",
+            "line": "Best get there before that happens, then."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "I spent my life staying off Grant's radar. How am I supposed to stay safe now?"
+        },
+        {
+            "character": "Morse",
+            "line": "A security detail has been assigned to keep an eye on you."
+        },
+        {
+            "character": "Thomas Ward",
+            "line": "Is that all an act? Or was he really gonna hurt me?"
+        },
+        {
+            "character": "Morse",
+            "line": "We'll be in touch."
+        }
+    ]
+}

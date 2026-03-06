@@ -1,0 +1,98 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 5,
+    "scene_name": "FitzAndMayBluffGiyera",
+    "description": "May tries to comfort Daisy, who is devastated about her actions under Hive's influence. However, they are confronted by Giyera, who threatens them. Fitz bluffs that he has rigged a weapon specifically to kill Giyera, and the ruse is successful enough for Fitz to shoot him with a concealed gun, neutralizing the threat. The trio then prepares for what comes next as temperature and oxygen levels drop aboard the Zephyr.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "giyera"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "It's like he scraped me out of my own skull. Even when I tried killing him, he beat me. My powers are nothing compared to Hive."
+        },
+        {
+            "character": "May",
+            "line": "I don't give a damn about your powers. They're not what made you an agent. I did."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, you... you have no idea what I did. I have nothing left."
+        },
+        {
+            "character": "May",
+            "line": "Then why did Andrew save you? Yeah, you did a lot of bad things. All you can do now is balance the scales, do some good. You want to give up, live in a box, go ahead. But that hurt stays in there with you. Believe me. Listen, I may not always show it, but I..."
+        },
+        {
+            "character": "Daisy",
+            "line": "May!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait, wait, wait, wait, wait! If you kill me, you'll die. I swear. I swear. I have a weapon in place on this plane that's designed to kill you. So if you shoot me, I can't tell you what that is. But you won't see it coming."
+        },
+        {
+            "character": "Daisy",
+            "line": "Leave him alone! Giyera, listen to me. Look at me. You and I have a connection, right?"
+        },
+        {
+            "character": "Giyera",
+            "line": "Not anymore. I swept the plane. Didn't see anything."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm telling the truth, I swear. You won't see it."
+        },
+        {
+            "character": "Giyera",
+            "line": "Show me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Okay. Okay, just let me put this down. Remember, we don't want to hurt you if we don't have to. People that are under sway, they're not in control of their actions. They're not bad people. Well, except you. You were a murderous wank before all this. I did tell you. A few times. Well?"
+        },
+        {
+            "character": "May",
+            "line": "I'm okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "We disabled the containment module."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hive can't escape."
+        },
+        {
+            "character": "May",
+            "line": "So you're with us? You okay? You're shaking."
+        },
+        {
+            "character": "Fitz",
+            "line": "She's going through withdrawals. Plus, the Zephyr can handle high altitude, but it's not designed for it. It's subfreezing outside, which also means..."
+        },
+        {
+            "character": "May",
+            "line": "The air's getting thin in here."
+        },
+        {
+            "character": "Fitz",
+            "line": "So we should limit our movements and try and keep warm."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, what do we do next?"
+        },
+        {
+            "character": "May",
+            "line": "This is as far as we got."
+        }
+    ]
+}

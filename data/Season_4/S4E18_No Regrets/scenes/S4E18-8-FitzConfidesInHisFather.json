@@ -1,0 +1,47 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 8,
+    "scene_name": "FitzConfidesInHisFather",
+    "description": "At the Triskelion, Fitz confides in his father, revealing his guilt over executing Agnes. His father dismisses Fitz's remorse, reinforcing the cold, utilitarian ethos that has shaped this version of Fitz. This dialogue further illustrates how deeply the Framework's programming has altered Fitz's morality.",
+    "roles": [
+        "leo_fitz"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "How'd the security breach come to your attention?"
+        },
+        {
+            "character": "Alistair",
+            "line": "His co-worker spotted him hiding some contraband in his locker a camera."
+        },
+        {
+            "character": "Doctor",
+            "line": "Was there any film in it?"
+        },
+        {
+            "character": "Alistair",
+            "line": "No. No film. It was an antique, actually. Still, we shipped him off to an Enlightenment Center for a refresher course on protocols. Haven't been down here in a while. How's the project going? Are you all right, son? You look troubled."
+        },
+        {
+            "character": "Doctor",
+            "line": "It's 'cause I am."
+        },
+        {
+            "character": "Alistair",
+            "line": "Let me guess, a woman."
+        },
+        {
+            "character": "Doctor",
+            "line": "Is it that obvious?"
+        },
+        {
+            "character": "Alistair",
+            "line": "It's a bit early for a pint. How about a cup of tea? Come on. Tell your old man all about it."
+        }
+    ]
+}

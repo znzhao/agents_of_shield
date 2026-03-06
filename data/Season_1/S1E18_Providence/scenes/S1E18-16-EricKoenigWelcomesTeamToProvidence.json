@@ -1,0 +1,77 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 16,
+    "scene_name": "EricKoenigWelcomesTeamToProvidence",
+    "description": "Coulson and his team are welcomed inside the base by Agent Eric Koenig, who introduces 'Providence' and its unique amenities. Koenig briefly debriefs Coulson, expressing condolences for Fury, and the team regroups while Skye attempts to contact Ward. Koenig privately asks to speak with Coulson, hinting at classified information.",
+    "roles": [
+        "eric_koenig",
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "antoine_triplett"
+    ],
+    "vibe": "mysterious",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "What is this place?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "One of Fury's secret bases. Uh, I call it Providence, although technically it doesn't have a name because, technically, it doesn't exist, it being a secret base and all. If everyone would follow me."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Pretty cool, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. Who are you, exactly?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Eric Koenig, agent of S.H.I.E.L.D., level 6."
+        },
+        {
+            "character": "Coulson",
+            "line": "Phil Coulson."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "I know. I know. It is an honor to meet you, Agent Coulson. And I apologize for the kerfuffle outside. The precision remote system was designed to destroy any rapidly moving metallic object."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was my badge."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "It was... Okay. That's gonna be... Tough to replace, but very soon, you're gonna be issued your very own lanyard. Lanyards for others will be distributed on a case-by-case basis."
+        },
+        {
+            "character": "Coulson",
+            "line": "What happened to Director Fury? Is he alive?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Fury... didn't make it out of D.C. It's been rough. We're all a little shaken up, especially now that the Fridge has fallen. Who is she calling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We had a man at the Fridge."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward? Oh, thank God."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Can I speak to you in private?"
+        }
+    ]
+}

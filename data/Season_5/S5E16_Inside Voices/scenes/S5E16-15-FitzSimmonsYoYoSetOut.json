@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 15,
+    "scene_name": "FitzSimmonsYoYoSetOut",
+    "description": "Having successfully freed Fitz and left Mack contained, Fitz, Simmons, and Elena make final preparations for their off-books mission. Yo-Yo accidentally fires her new arms, reinforcing her inexperience and their uncertainty, but they press on, focused on changing fate.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "lighthearted",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "We've broken the time loop."
+        },
+        {
+            "character": "Fitz",
+            "line": "You know my feelings on that. It can't be broken."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that what you'd tell our daughter, that her world can't be changed?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe, don't know. Haven't met her yet..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, for goodness sake."
+        },
+        {
+            "character": "Fitz",
+            "line": "So maybe when I clear up..."
+        },
+        {
+            "character": "Elena",
+            "line": "Guys, guys! You'll argue on the way. But if you really believe that, Fitz, then it means we're in no danger... Lo siento. Lo siento, lo siento. I'm just getting used to my fingers."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'll get that."
+        },
+        {
+            "character": "Elena",
+            "line": "That was close."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's go."
+        }
+    ]
+}

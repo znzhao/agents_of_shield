@@ -1,0 +1,27 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "SibylManipulatesRepairman",
+    "description": "Continuing her manipulation, Sibyl thanks the repairman with a feigned appreciation for his human gestures. The dynamic underlines Sibyl's growing power and her ability to exploit human emotions for her ends.",
+    "roles": [
+        "sibyl"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Feldman",
+            "line": "Brought you some flowers. You know, to mark the occasion."
+        },
+        {
+            "character": "Sibyl",
+            "line": "A truly human gesture, which I appreciate."
+        },
+        {
+            "character": "Feldman",
+            "line": "It's nothing. Just, uh, thought... the color matched your eyes."
+        }
+    ]
+}

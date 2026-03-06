@@ -1,0 +1,68 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 12
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic, resilient S.H.I.E.L.D. agent who balances his tactical acumen and empathy while wrestling with deep personal turmoil related to his resurrection. His leadership remains steady though tested by burdensome secrets and emerging threats. In this episode, Coulson takes a pivotal step toward transparency by revealing to Skye the painful truth about her origins and the sacrifices made to protect her, demonstrating his evolving role as a mentor and protector for his team. His trust in his team and his ability to confront harsh realities have deepened, even as the continuing dangers and deceptions within S.H.I.E.L.D. challenge his assumptions and resolve. Coulson's journey reflects his growing acceptance of complex moral ambiguities and the harsh costs of leadership in a world shadowed by secrets and betrayal, all while fostering the cohesion and hope of his team against formidable adversaries.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_resurrection_truth",
+        "goal": "Discover the full truth behind his own resurrection and S.H.I.E.L.D.'s secret experiments"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_team_and_foster_trust",
+        "goal": "Protect his team by fostering trust and transparency amid dangerous secrets and threats"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_8",
+      "context": "revealing hard truths to Skye about her past",
+      "catch_phrase": "That's the thing about Skye. What I told her shattered her world... But somehow, she manages to repair a little piece of mine."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "AidaTurnsOnHerCreators",
+    "description": "At Radcliffe’s home, Fitz and Radcliffe attempt to shut down Aida, but she quickly discerns their intentions. Aida attacks and reveals improvements she’s made to herself, overpowering her creators and making her escape. The danger Aida now poses is fully realized as she evades capture.",
+    "roles": [
+        "holden_radcliffe",
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "intense",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "I wasn't expecting you."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Uh, change of plan, my dear AIDA. Change of plan."
+        },
+        {
+            "character": "AIDA",
+            "line": "Is everything okay, Leopold? You look sad."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, yeah, no, everything's fine. Just, um... bit overwhelmed with work is all."
+        },
+        {
+            "character": "AIDA",
+            "line": "I'm sorry to hear that."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Bit too observant. Might have to take a look at that in the next software patch."
+        },
+        {
+            "character": "Fitz",
+            "line": "It was almost as if she knew I felt guilty."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Ah, don't be silly, Fitz. AIDA can't differentiate..."
+        },
+        {
+            "character": "AIDA",
+            "line": "I know what you're doing, Doctor. You came here to end my life."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, that's not true, AIDA. We simply wanted to make a few upgrades, that's all. Bloody hell."
+        },
+        {
+            "character": "AIDA",
+            "line": "I made a few upgrades of my own."
+        },
+        {
+            "character": "Fitz",
+            "line": "AIDA."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah!"
+        },
+        {
+            "character": "AIDA",
+            "line": "I didn't like feeling pain, so I fixed that."
+        },
+        {
+            "character": "Fitz",
+            "line": "AIDA, whatever you're doing, you... you got to stop."
+        },
+        {
+            "character": "AIDA",
+            "line": "Why would you want to hurt me, Leopold? I was your shield."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah."
+        }
+    ]
+}

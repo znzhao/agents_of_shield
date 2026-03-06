@@ -1,0 +1,81 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 14,
+    "scene_name": "TeamDebatesRealityAtPlayground",
+    "description": "Back at the Playground, Simmons, Mack, and Ward reflect on the differences between the world they're experiencing and their true selves, using a moment with Mack's daughter to highlight emotional stakes. News of a breach at the Cultivation Center comes in, prompting Simmons and Ward to prepare for an extraction mission, while Simmons volunteers to go instead of Mack.",
+    "roles": [
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "HYDRA had a plan. I'll give them that. Scare everyone, take over the media, rewrite history. You know what's not in that book? The Trail of Tears. The Holocaust. Martin Luther King Jr."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't believe it. The blatant lies, the complete disregard for historical or scientific fact."
+        },
+        {
+            "character": "Mack",
+            "line": "That's why, in my house, I'm the judge of what's fact or fiction. “Did you clean your room?” “Well, I'll be the judge of that.”"
+        },
+        {
+            "character": "Hope",
+            "line": "Dad, watch. I can do five in a row."
+        },
+        {
+            "character": "Mack",
+            "line": "Five times? Really? This I got to see. Excuse me. Ah!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you smiling at?"
+        },
+        {
+            "character": "Ward",
+            "line": "Same thing you are. Big, fake dad loving his little fake kid in this crazy fake world. I finally get why you don't like me. You think I'm someone I'm not."
+        },
+        {
+            "character": "Simmons",
+            "line": "Forget I said anything. You don't believe me, and I can't really look at you."
+        },
+        {
+            "character": "Ward",
+            "line": "Wow. What did I do in this other reality? Did I hurt someone? Did I kill someone?"
+        },
+        {
+            "character": "Simmons",
+            "line": "More than one."
+        },
+        {
+            "character": "Ward",
+            "line": "For what it's worth, for whatever I did do, I'm truly sorry. Look at them. You feel that, don't you? The way he loves his kid?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course."
+        },
+        {
+            "character": "Ward",
+            "line": "Then doesn't that make it real?"
+        },
+        {
+            "character": "Woman",
+            "line": "Cultivation Center. Code 10-14. Repeat code 10-14."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is that?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's a potential breach. They've been discovered."
+        }
+    ]
+}

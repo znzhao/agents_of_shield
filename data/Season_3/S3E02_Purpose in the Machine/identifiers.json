@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "andrew_garner",
+        "grant_ward",
+        "joey_gutierrez"
+    ],
+    "aliases": [
+        "Coulson",
+        "Fitz",
+        "Daisy",
+        "Mack",
+        "Hunter",
+        "Bobbi",
+        "May",
+        "Simmons",
+        "Ward",
+        "Dr. Garner",
+        "Joey Gutierrez"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Inhumans",
+        "Secret Warriors"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Maveth (alien planet accessed via the Kree monolith)",
+        "English castle (site of the monolith / Distant Star Pathfinder facility)"
+    ]
+}

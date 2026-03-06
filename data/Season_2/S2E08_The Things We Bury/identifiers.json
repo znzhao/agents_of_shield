@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward",
+        "antoine_triplett",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "bobbi_morse",
+        "daniel_whitehall",
+        "sunil_bakshi",
+        "calvin_johnson"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Ward",
+        "Triplett",
+        "Mack",
+        "Hunter",
+        "Bobbi",
+        "Whitehall",
+        "Bakshi",
+        "Cal"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "S.H.I.E.L.D. Bus (mobile command jet)"
+    ]
+}

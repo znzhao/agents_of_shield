@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 9,
+    "scene_name": "WardRevealsBakshiPlan",
+    "description": "Ward opens up to Agent 33 about his own traumatic past, offering closure in the form of a new mission: breaking Sunil Bakshi out of Talbot's custody. He encourages Agent 33 to face her old handler, suggesting this confrontation might help her recover her agency. The pair set their plan in motion.",
+    "roles": [
+        "grant_ward",
+        "sunil_bakshi"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I know what're you going through... my family did a number on me. Stripped me down, left me... hollow. I was a shell. So, when someone finally did come along and offer to build me back up, I didn't resist... Even though what he really did was make me a killer."
+        },
+        {
+            "character": "Ward",
+            "line": "It was a long road. Took getting locked up to give me some perspective. But then I paid my family a visit. They were surprised to see me, but I think that eventually, we were able to dig in, really express our feelings."
+        },
+        {
+            "character": "Ward",
+            "line": "I haven't looked back since. You are the only one who can find yourself. But maybe... this will help."
+        },
+        {
+            "character": "Ward",
+            "line": "Closure."
+        },
+        {
+            "character": "Ward",
+            "line": "He's in Air Force custody under a guy named Talbot. I was thinking you and I should drop by and say hello."
+        },
+        {
+            "character": "Ward",
+            "line": "Which is why you need a face-to-face. To get all this out. Let him know how you really feel."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. It's okay. We'll do this together. I'll be there every step of the way."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay."
+        },
+        {
+            "character": "Ward",
+            "line": "Got that all worked out."
+        }
+    ]
+}

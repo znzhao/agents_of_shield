@@ -1,0 +1,41 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 11,
+    "scene_name": "SimmonsInsistsOnJoiningMission",
+    "description": "Simmons approaches Coulson and Gonzales, volunteering to join the rescue mission, arguing her medical expertise is crucial to Mike’s survival. After briefly weighing her insistence, Coulson allows her to join the team. Preparations are finalized for the Arctic infiltration, with suspicion and unease palpable over Ward’s presence.",
+    "roles": [
+        "jemma_simmons",
+        "phil_coulson",
+        "robert_gonzales"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Excuse me, sir, but I'd like to join the mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "I appreciate the offer, Agent Simmons, but this is a specialized team. Agent May is there for tactical support, Fitz to disable the defense systems..."
+        },
+        {
+            "character": "Simmons",
+            "line": "And who's there to look after Mike's injuries? Ward? HYDRA's already removed Mike's eye. God knows what else they've done to him. He'll need a doctor, and preferably one already familiar with Deathlok's anatomical structure."
+        },
+        {
+            "character": "Coulson",
+            "line": "You sure about this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Absolutely. This is something I have to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "Suit up."
+        }
+    ]
+}

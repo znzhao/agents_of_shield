@@ -1,0 +1,73 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 12,
+    "scene_name": "JacoDragonAttack",
+    "description": "Back at the Lighthouse, Jaco fakes respiratory distress until a guard enters, at which point he suddenly breathes fire, attacking the agent. Mack realizes Jaco's intent was to break free and facilitate Sarge's escape. The S.H.I.E.L.D. team re-secures Jaco after this dangerous outburst.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "jaco"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Trevor",
+            "line": "We found two of those creatures. Director sent me to see if..."
+        },
+        {
+            "character": "Trevor",
+            "line": "This is Agent Khan. We're gonna need a medical team. The big guy's not breathing. Um..."
+        },
+        {
+            "character": "Trevor",
+            "line": "Cancel that medical team! I need a rescue team! Aah! This guy's breathing now, but he's breathing fire!"
+        },
+        {
+            "character": "Mack",
+            "line": "Say again?"
+        },
+        {
+            "character": "Trevor",
+            "line": "Fire! He's breathing fire!"
+        },
+        {
+            "character": "Mack",
+            "line": "Stand by, Agent Khan. Almost there. Brace yourself, comin' in violent."
+        },
+        {
+            "character": "Daisy",
+            "line": "Permission to destroy door."
+        },
+        {
+            "character": "Mack",
+            "line": "Permission granted."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Jaco?"
+        },
+        {
+            "character": "Mack",
+            "line": "Glad I could be useful. I guess we know why he didn't want our help. He wasn't sick."
+        },
+        {
+            "character": "Daisy",
+            "line": "He was turning into a dragon."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. And the Sarge's ticket out of here."
+        },
+        {
+            "character": "Diaz",
+            "line": "Agent Rodriguez is en route on the Quinjet. She got her man, too."
+        },
+        {
+            "character": "May",
+            "line": "Good. Wheels up in five."
+        }
+    ]
+}

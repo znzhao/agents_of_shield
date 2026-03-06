@@ -1,0 +1,280 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 7,
+    "scene_name": "MayAndCoulsonTruths",
+    "description": "May and Coulson have a raw confrontation as the team is cornered. May reveals her orders from Fury to watch over Coulson for signs of instability, and ultimately admits that she, not Coulson, was the architect of the S.H.I.E.L.D. team. Coulson feels betrayed by May's secret-keeping and struggles with the multiple layers of deception. The team braces for the imminent Hub assault and begins prepping the plane's data and assets for possible destruction or evacuation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "skye",
+        "john_garrett"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Coulson said you're an informant. Want to elaborate on that?"
+        },
+        {
+            "character": "May",
+            "line": "No, I don't. Damn icer. My head's killing me."
+        },
+        {
+            "character": "Ward",
+            "line": "I deserve to know."
+        },
+        {
+            "character": "May",
+            "line": "Don't start with that. We do our jobs. End of story. I can't tell you any more until Fury gives the go-ahead."
+        },
+        {
+            "character": "Ward",
+            "line": "You're good. I mean, I always heard you were good. But, man... playing us this whole time, conning me, Coulson."
+        },
+        {
+            "character": "May",
+            "line": "I wasn't playing anyone. I had your backs."
+        },
+        {
+            "character": "Ward",
+            "line": "And reported on us behind them. You know, you always said to keep my emotions in check. But this is some next-level..."
+        },
+        {
+            "character": "May",
+            "line": "And you should have listened. You killed a man in cold blood, let your emotions get the best of you."
+        },
+        {
+            "character": "Ward",
+            "line": "It was to protect our team from a monster!"
+        },
+        {
+            "character": "May",
+            "line": "It was to protect her! Which would be okay if you hadn't shot the wrong guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz repaired your direct line. If you have the ability to make this right, now's the time, 'cause you can't make it worse."
+        },
+        {
+            "character": "May",
+            "line": "I have orders not to do this with anyone else present."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're taking out our guns. Get director Fury on the line, or I'll march you out there first."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir, what is going on?"
+        },
+        {
+            "character": "Garrett",
+            "line": "A whole lot."
+        },
+        {
+            "character": "Ward",
+            "line": "Who is shooting at us?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Come here. Let me catch you up. Apparently, Agent Hand is the Clairvoyant, so chew on that first."
+        },
+        {
+            "character": "May",
+            "line": "Agent Melinda May. Voice command. Emergency protocol one. Emergency protocol one."
+        },
+        {
+            "character": "Man",
+            "line": "Hello."
+        },
+        {
+            "character": "May",
+            "line": "This is an X10 straight connection to Director Fury's personal line. Where is he?"
+        },
+        {
+            "character": "Man",
+            "line": "Director Fury is dead."
+        },
+        {
+            "character": "Ward",
+            "line": "Can that be true about Fury?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Man was my S.O. Coulson's, too. Proved himself more than once to be a hard man to kill. That sound outside doesn't bode well, though. Is there anything on this plane you don't want them to get their hands on?"
+        },
+        {
+            "character": "May",
+            "line": "That was his direct line, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "So it's real. That means it's just you and me, unless there were other parties you reported to."
+        },
+        {
+            "character": "May",
+            "line": "There weren't."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then come out with it. Fury's gone. We're being shot at by our own people."
+        },
+        {
+            "character": "May",
+            "line": "Fury knew you'd want me to join up, asked me to keep an eye on you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looking for what?"
+        },
+        {
+            "character": "May",
+            "line": "Signs of physical or mental deterioration, to keep him updated. It's that simple."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you know about Tahiti? How could you do that to me? After all we've been through, the years we spent together in ops..."
+        },
+        {
+            "character": "May",
+            "line": "He said it was essential you couldn't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "The time I spent sifting through the ashes with you in Bahrain? I gave you a second chance when I assembled this team..."
+        },
+        {
+            "character": "May",
+            "line": "I assembled this team!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "May",
+            "line": "I evaluated what was needed, and I gave the assessment to Fury, and he gave you the parameters for your unit."
+        },
+        {
+            "character": "Coulson",
+            "line": "What was needed, May?"
+        },
+        {
+            "character": "May",
+            "line": "Someone who could repair your body, a technician who could reprogram your brain, and a specialist to help me put you down if it had to be done. But I didn't do it for Fury. I did it for you, to protect you! I... You mean a lot to me. A lot. To hear you were dead... you may not believe me, but that's the truth. And I have nothing to do with the Clairvoyant or this Hydra threat we're up against. Hopefully this helps prove that."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want to believe you... but you've used that against me this whole time."
+        },
+        {
+            "character": "Ward",
+            "line": "They stopped firing. No clear shots through the windows."
+        },
+        {
+            "character": "May",
+            "line": "They want to preserve the aircraft. A surgical strike team is next."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz cut the hydraulics on the cargo ramp. They'll have to pry it open."
+        },
+        {
+            "character": "Coulson",
+            "line": "That won't hold them long. We need to plan to get out of here with whatever we can take with us."
+        },
+        {
+            "character": "Ward",
+            "line": "About that. The 0-8-4 specs, Asgardian weaponry, portal creation, Donnie's weather machine. If they get their hands on gravitonium in the fridge..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's below the fridge. No records."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay, but on the off-chance we'd give them the designs to weaponize it. The drug from Tahiti, sir? All here. If Hydra is really about to seize this plane..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should wipe the system."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm backing it up on this hard drive to keep our edge."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then do it. Scrub the plane clean."
+        },
+        {
+            "character": "Skye",
+            "line": "It'll take some time."
+        },
+        {
+            "character": "Garrett",
+            "line": "We're working on buying you some."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm telling you, this signal is clogging everything up. Something terrible has happened."
+        },
+        {
+            "character": "Barbour",
+            "line": "Freeze! Show me your hands! Show me your hands."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's called a mouse hole. Cuts through anything, really. I designed it a year ago and submitted it for testing, but it never reached distribution."
+        },
+        {
+            "character": "Garrett",
+            "line": "Top agents always hog the good stuff."
+        },
+        {
+            "character": "Skye",
+            "line": "You're right. The hard drive's safer in your hands. You haven't taught me how to hold up under torture yet."
+        },
+        {
+            "character": "Ward",
+            "line": "We'll get to that. It's real fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. Here's where we split. Skye and Ward? Heading to the nerve center. Disable their systems, most importantly, their control of our plane."
+        },
+        {
+            "character": "Skye",
+            "line": "Copy that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember, these agents are under orders. Use icers only. We'll find Simmons, get her out."
+        },
+        {
+            "character": "Garrett",
+            "line": "We should go straight for Hand. Hydra's always talking about getting their heads cut off, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Saving Simmons and Triplett... that's our priority."
+        },
+        {
+            "character": "Garrett",
+            "line": "I agree, and that's how I'd get it done. Hope you have a better plan."
+        },
+        {
+            "character": "May",
+            "line": "Phil, I can help you if you..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need your help, but the cuffs stay on."
+        }
+    ]
+}

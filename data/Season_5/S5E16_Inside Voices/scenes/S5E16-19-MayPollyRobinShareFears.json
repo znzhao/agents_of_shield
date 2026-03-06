@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 19,
+    "scene_name": "MayPollyRobinShareFears",
+    "description": "May and Polly discuss Robin’s abilities and the ominous implications of her drawings. Polly confides her worry about not being in the drawings, suggesting she may die, while Robin invites her to sit close, heightening emotional stakes.",
+    "roles": [
+        "melinda_may",
+        "robin_hinton"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I wish we had time to take you both back into hiding, but we'll keep you safe here."
+        },
+        {
+            "character": "Polly",
+            "line": "I'm just glad that Robin was able to help you."
+        },
+        {
+            "character": "May",
+            "line": "Me, too. We think she might've given us a location. We'll see what we can find."
+        },
+        {
+            "character": "Polly",
+            "line": "Can I ask you something? I don't understand everything that's happened here today, but Robin clearly has a connection with you."
+        },
+        {
+            "character": "May",
+            "line": "I, uh, don't know if I can explain it. I don't fully understand it myself."
+        },
+        {
+            "character": "Polly",
+            "line": "You don't have to. I've seen the drawings. I know that I'm not in them. If anything happens to me..."
+        },
+        {
+            "character": "May",
+            "line": "Listen. That's not gonna happen. Okay?"
+        },
+        {
+            "character": "Robin",
+            "line": "Come sit next to me, Mommy."
+        }
+    ]
+}

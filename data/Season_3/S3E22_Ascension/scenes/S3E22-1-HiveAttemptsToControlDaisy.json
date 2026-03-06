@@ -1,0 +1,236 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 1,
+    "scene_name": "HiveAttemptsToControlDaisy",
+    "description": "Hive tries to reassert his control over Daisy, but finds himself unable to bring her back under his sway. Daisy begs him to take her back, but Hive cannot. Meanwhile, the S.H.I.E.L.D. team discusses Hive’s infection of agents and begins to strategize a defense. Everyone is tense as they realize the gravity of the threat inside the Playground and prepare to split up to defend critical areas and secure resources. Plans are made to lock down the armory and keep the Primitives at bay.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "lincoln",
+        "giyera",
+        "james"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Please... take me back."
+        },
+        {
+            "character": "Hive",
+            "line": "Interesting. Your name. Something pretty. Not pretty like the sky. A flower. Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? What is it?"
+        },
+        {
+            "character": "Hive",
+            "line": "I can't."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? Why not? What did S.H.I.E.L.D. do to you?"
+        },
+        {
+            "character": "Hive",
+            "line": "It's not what S.H.I.E.L.D. did to me. It's what that creature stole from you. He made you impervious."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please. Just... No."
+        },
+        {
+            "character": "Hive",
+            "line": "Sorry, Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "Once the hangar doors are open, his monster patrol will storm the base. Any idea how many Hive has infected?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone in Quadrant D, along with agents O'Brien and Marshall."
+        },
+        {
+            "character": "Mack",
+            "line": "That's something like 20 agents?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's 28."
+        },
+        {
+            "character": "Elena",
+            "line": "Was that Daisy?"
+        },
+        {
+            "character": "Hive",
+            "line": "Perhaps this was always... No more talking, then."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy's in trouble."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, there's been a malfunction in Daisy's containment module."
+        },
+        {
+            "character": "Mack",
+            "line": "Did you check the feed from the plane?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, it's gone dark after the earthquake."
+        },
+        {
+            "character": "Coulson",
+            "line": "So either the Primitives found their way down to her or..."
+        },
+        {
+            "character": "May",
+            "line": "She found a way up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take a look. Report back A.S.A.P."
+        },
+        {
+            "character": "May",
+            "line": "Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell are your Primitives capable of?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, it's hard to say, really. I mean, these creatures are in their infancy."
+        },
+        {
+            "character": "Mack",
+            "line": "You did create them, didn't you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It was either that or be eaten. I never would've created something so unsophisticated. I mean, the crudeness of these creatures is really quite heartbreaking."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll discuss the consequences of your science fair later. Right now, we need to know exactly what we're up against."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The Primitives possess adrenaline-induced peak-human strength but rather poor eyesight. They're connected to Hive in the same way that Daisy was, but they don't exhibit any original thoughts of their own."
+        },
+        {
+            "character": "Simmons",
+            "line": "They have memories?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "They possess memories of previous talents, weapon skills and the like."
+        },
+        {
+            "character": "Mack",
+            "line": "We have 28 ex-S.H.I.E.L.D. agents that know this base inside out. How long before they find their way through the hangar doors?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Several hours at least."
+        },
+        {
+            "character": "Lincoln",
+            "line": "They may not have to."
+        },
+        {
+            "character": "Mack",
+            "line": "They're in the vents."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lock down the armory. Simmons, secure what you can in the lab and then rendezvous in my office. Lincoln and I will protect the nerve center."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "So I'll just stay here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Daisy took the module into the plane."
+        },
+        {
+            "character": "May",
+            "line": "To stop Hive."
+        },
+        {
+            "character": "Fitz",
+            "line": "You think that she can do it?"
+        },
+        {
+            "character": "May",
+            "line": "Get us some rope in case she can't."
+        },
+        {
+            "character": "Hive",
+            "line": "You know killing me won't make the pain go away. Or will it? I can't remember."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't want you to die. I want you to suffer."
+        },
+        {
+            "character": "Hive",
+            "line": "It seems you're the one who's suffering. I'm sorry you won't feel our connection. Pieces solving a puzzle."
+        },
+        {
+            "character": "Hive",
+            "line": "But we must continue without you. Bones don't hold me up. I'm held up by all the parts working as one."
+        },
+        {
+            "character": "James",
+            "line": "Glad we found you, boss. We got communication coordinates from S.H.I.E.L.D. agents. How did we manage to... Right. That's how."
+        },
+        {
+            "character": "Giyera",
+            "line": "Absolution. I'll load the warhead in."
+        },
+        {
+            "character": "James",
+            "line": "So, she, uh, back on the team?"
+        },
+        {
+            "character": "Hive",
+            "line": "I believe her presence guarantees they won't try to blow us out of the sky before we reach altitude."
+        },
+        {
+            "character": "James",
+            "line": "What about the rest of these friendly faces?"
+        },
+        {
+            "character": "Hive",
+            "line": "All but a few will stay behind to destroy the last of S.H.I.E.L.D."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "When in doubt, follow the leader."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Then try to keep up."
+        }
+    ]
+}

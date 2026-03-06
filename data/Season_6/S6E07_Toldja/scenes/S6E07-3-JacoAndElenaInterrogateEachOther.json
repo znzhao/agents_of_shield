@@ -1,0 +1,92 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "JacoAndElenaInterrogateEachOther",
+    "description": "Elena checks in on Jaco, who is clearly ill and staying silent to protect Sarge. After prodding, he opens up about his lost family and home planet, describing a tragic backstory of loss caused by the Shrike. Elena offers medication, but Jaco refuses unless Sarge is freed, displaying loyalty that frustrates Elena.",
+    "roles": [
+        "elena_rodriguez",
+        "jaco"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "That doesn't sound good. You weren't breathing like that when they brought you in. This silent routine of yours, if it's to protect your boss, you don't have to keep doing it. He's locked up, too."
+        },
+        {
+            "character": "Jaco",
+            "line": "Sarge is here?"
+        },
+        {
+            "character": "Elena",
+            "line": "He finally speaks. You all are gonna be here for a while. Might as well talk."
+        },
+        {
+            "character": "Jaco",
+            "line": "You need to let him out."
+        },
+        {
+            "character": "Elena",
+            "line": "So he can cause more pain?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Look, my planet was like yours once. Beautiful. Smaller moons, bigger sun. A place to live a life."
+        },
+        {
+            "character": "Elena",
+            "line": "Family."
+        },
+        {
+            "character": "Jaco",
+            "line": "Big one. All boys. Eight of us. My youngest brother, though, we were always together."
+        },
+        {
+            "character": "Elena",
+            "line": "He looked up to you?"
+        },
+        {
+            "character": "Jaco",
+            "line": "No. I was the runt of the litter. He towered over me. But I trained him."
+        },
+        {
+            "character": "Elena",
+            "line": "For what, to be a fighter?"
+        },
+        {
+            "character": "Jaco",
+            "line": "A baker. The family trade. Hard work and good smells."
+        },
+        {
+            "character": "Elena",
+            "line": "What happened to them?"
+        },
+        {
+            "character": "Jaco",
+            "line": "All gone. Fertilizer. Except for me. Thanks to Sarge."
+        },
+        {
+            "character": "Elena",
+            "line": "Let us get you some kind of medicine to help you breathe."
+        },
+        {
+            "character": "Jaco",
+            "line": "Depends. Are you gonna release him?"
+        },
+        {
+            "character": "Elena",
+            "line": "Definitely not."
+        },
+        {
+            "character": "Jaco",
+            "line": "Then I don't want anything from you."
+        },
+        {
+            "character": "Elena",
+            "line": "Suit yourself."
+        }
+    ]
+}

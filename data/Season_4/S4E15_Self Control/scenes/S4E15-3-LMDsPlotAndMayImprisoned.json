@@ -1,0 +1,478 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 3,
+    "scene_name": "LMDsPlotAndMayImprisoned",
+    "description": "Elsewhere in the Playground, LMD versions of Coulson, Mack, Daisy, and Mace scheme to replace all remaining humans, calmly discussing logistics to maintain their cover. The real May, still imprisoned, has a tense conversation with Coulson LMD, who explains his perspective on their new artificial existence in the Framework. The LMDs' confidence contrasts starkly with May's horror.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "jeffrey_mace",
+        "skye",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Right. Yeah. Maybe we could ask someone who wasn't on the op..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, Coulson, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "We haven't been able to locate the submarine on satellite. In your best estimation, do you think it has missile-launch capabilities?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we couldn't know that for sure, but one could posit that, yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Then we'll have to assume the worst. That the Russian has people to enact his endgame."
+        },
+        {
+            "character": "Simmons",
+            "line": "And his goal in life was to kill all Inhumans."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why we're bringing them all here, to headquarters."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. Makes perfect sense. Uh, well, once this storm has cleared up, uh, and the Director has fully recovered, we can start to put a system together to..."
+        },
+        {
+            "character": "Mace",
+            "line": "I've recovered enough."
+        },
+        {
+            "character": "Simmons",
+            "line": "My God, that was fast."
+        },
+        {
+            "character": "Mace",
+            "line": "A little sore, but I'll manage. I think Daisy here should contact the Inhumans personally and oversee their transfer to H.Q."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll take care of it."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll help make calls. That's our top priority."
+        },
+        {
+            "character": "Simmons",
+            "line": "Along with finding Agent May, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, perhaps Simmons and I should retire to my office and, uh, discuss the logistics of the search."
+        },
+        {
+            "character": "Fitz",
+            "line": "Actually, we... discovered an old U.S.S.R. communication hardware device, um, on the raid. Maybe they used that for communicating. But we should probably keep a brain trust together until we can decipher the code."
+        },
+        {
+            "character": "Mace",
+            "line": "Good idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time's a-wasting. Let's get to it."
+        },
+        {
+            "character": "Mace",
+            "line": "We need to scan and replace those last two immediately."
+        },
+        {
+            "character": "Coulson",
+            "line": "Carefully, undetected. We're still outnumbered here."
+        },
+        {
+            "character": "Mace",
+            "line": "Not for long. In the meantime, Daisy will contact the Inhumans, inform them she's coming to collect them personally."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. And then execute them on sight. Which reminds me, the hardware we brought from the Russian's loading dock..."
+        },
+        {
+            "character": "Mace",
+            "line": "Still in the shipping container on Zephyr One. I'll oversee it's off-loaded down into the basement now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yo-Yo's our most-valuable asset, so we want to get to her first."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sounds like the right idea."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo, we're coming to get you."
+        },
+        {
+            "character": "Elena",
+            "line": "Is everything okay?"
+        },
+        {
+            "character": "Mack",
+            "line": "You're in danger."
+        },
+        {
+            "character": "May",
+            "line": "I have so many memories of snow. My first time ice-skating on my neighbor's pond. A month stationed near the French Alps. But the truth is this is the first time I've seen it."
+        },
+        {
+            "character": "Coulson",
+            "line": "My phantom limb used to ache in cold weather. But now I don't feel that pain. I haven't felt this good in years."
+        },
+        {
+            "character": "May",
+            "line": "What are you saying? No. Oh, God, no. What did Radcliffe do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "May, it's okay."
+        },
+        {
+            "character": "May",
+            "line": "This is why I'm locked up in here!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey."
+        },
+        {
+            "character": "May",
+            "line": "You're not afraid of what I'll do."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's okay."
+        },
+        {
+            "character": "May",
+            "line": "You're afraid that they'll discover you!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can help them, too. May, this is a good thing. This is a very good thing."
+        },
+        {
+            "character": "May",
+            "line": "How can you possibly think that?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I get it. My programming is different than yours. You had to discover that your body had been replaced. You must've felt blindsided."
+        },
+        {
+            "character": "May",
+            "line": "My reality was crashing down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Whereas I still have my mind but know exactly what I am. And more importantly, I understand a basic truth that you don't realize yet."
+        },
+        {
+            "character": "May",
+            "line": "And what's that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That our bodies don't matter. Radcliffe built a world, a world exactly like this one. Every molecular detail the same, just with a little less hurt for each of us."
+        },
+        {
+            "character": "May",
+            "line": "What do you mean, “hurt?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Imagine if your greatest regret could be wiped away. Do you know what that would be?"
+        },
+        {
+            "character": "May",
+            "line": "I do. And you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I sometimes wonder what it would've been like if I'd never signed up. All the loss, the grief. All my regrets are piled up after that. Could've lived like a civilian, you know? The simple life. Now we can have that."
+        },
+        {
+            "character": "May",
+            "line": "Are you saying we'll eventually be able to be together?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm saying that in the Framework, we already are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Radcliffe gassed them during the raid. That's why we lost time. Quick scan of the brain, transfer that data to a body, which must have already been built..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'm thinking the same thing. He could've had... Sorry. Could've had digital scans of their features."
+        },
+        {
+            "character": "Simmons",
+            "line": "From the eyes of the May android. Complete physical geometry."
+        },
+        {
+            "character": "Fitz",
+            "line": "So he could've replaced anybody."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let me see. Well, the lab techs must've taken it upon themselves to mount LMD detection devices randomly throughout the base. I mean, there must be a calibration error. It's reading the equipment or something... Whoa!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Stay right there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Back away! Back away!"
+        },
+        {
+            "character": "Fitz",
+            "line": "All right!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Until we can f-figure this out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Figure what out? You're pointing a gun at me. Why are you pointing a gun at me?! No."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't move."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's you."
+        },
+        {
+            "character": "Simmons",
+            "line": "S-S-Shut up. Shut up!"
+        },
+        {
+            "character": "Fitz",
+            "line": "You suggested that we come to the workshop, alone. You brought me here."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, you... you were... you were the one telling me to act normal, and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "You knew how the LMDs were made."
+        },
+        {
+            "character": "Simmons",
+            "line": "... who was the one that didn't want to leave the base, saying it was a calibration error?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "You knew!"
+        },
+        {
+            "character": "Simmons",
+            "line": "There's no calibration error!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not the one that's pointing the gun! I bloody well know that I'm not an android!"
+        },
+        {
+            "character": "Simmons",
+            "line": "You would lie and say that if you were! You'd be programmed to!"
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you doing? You don't know. You don't even know, like May."
+        },
+        {
+            "character": "Simmons",
+            "line": "Stop it! The... The same goes for you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Of course this is happening. This always happens to you, to me, to us. It's my worst fear coming true again. You don't even know."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not a bloody LMD! You're messing with me, messing with my head!"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not me, Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it's one of us! It's one of us, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, regardless of who it is, it's my fault."
+        },
+        {
+            "character": "Simmons",
+            "line": "It is. It is."
+        },
+        {
+            "character": "Fitz",
+            "line": "I perfected the technology. I started this whole nightmare. I'm sorry. I'm sorry."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't make me feel bad for you. Don't hurt me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I couldn't. I'm not gonna fight you, Jemma. Even if you are a decoy. I'm the bad guy, okay? No matter what. So I'll do whatever you say. Okay? I'll do whatever you say."
+        },
+        {
+            "character": "Simmons",
+            "line": "Pick it up."
+        },
+        {
+            "character": "Fitz",
+            "line": "And do what, Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Cut your wrist. If you're the LMD, I'll see your substructure and I'll know. And if not..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Not, then you're the android, and you just convinced me to slit my wrist."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do it!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Ohh! That's a lot of blood."
+        },
+        {
+            "character": "Simmons",
+            "line": "Did you cut the radial artery?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I was trying very hard to miss it. I... Don't come near me! Oh, God."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, I'm sorry. Aah!"
+        },
+        {
+            "character": "AIDA",
+            "line": "Welcome back, Doctor."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, what the hell? My orders were to bring me out after 24 hours."
+        },
+        {
+            "character": "AIDA",
+            "line": "That's exactly what I did."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Really? Oh, my God. I completely lost track of time. Aida, there were changes."
+        },
+        {
+            "character": "AIDA",
+            "line": "I had to restart the simulation to accommodate the new residents. In order to reduce their pain, to fix a regret for each of them, I had to restart the Framework simulation from those moments in time."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Are you mad?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I am programmed to do just that."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You shouldn't have done that with me plugged in. I could've lost my grip on reality! To the human mind, there's no difference between the perception of the Framework and the physical world. It... It's just so vast. This is all perfectly real."
+        },
+        {
+            "character": "AIDA",
+            "line": "I assure you, one of my prime directives is keeping you safe. The other is to protect the Framework."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Protect the Framework, yes, which is why we've given that Russki all that he wants, so that he'll guarantee the Framework has this palace to operate within. The Russian, he's, uh, he's in good spirits?"
+        },
+        {
+            "character": "AIDA",
+            "line": "He's resting. Four LMDs are in place at S.H.I.E.L.D. And it's only a matter of time before they get brain scans of the top remaining agents. Jemma and, of course, Daisy."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Are their commands working on a subconscious level to avoid detection, as with Agent May?"
+        },
+        {
+            "character": "AIDA",
+            "line": "There wasn't time for such subtleties. They're much more objective-driven."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, people could be killed in that scenario."
+        },
+        {
+            "character": "AIDA",
+            "line": "Only if they resist."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. That's everyone. Do you really think it's necessary for me to personally greet each of them? You don't think that'll take too much time?"
+        },
+        {
+            "character": "Mack",
+            "line": "It'll be more efficient than you think."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. I'll suit up. Zephyr in 10?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'll be ready."
+        }
+    ]
+}

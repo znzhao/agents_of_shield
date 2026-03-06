@@ -1,0 +1,28 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 9,
+    "scene_name": "WhitehallPhilosophyAndBakshiPromotion",
+    "description": "Whitehall delivers a chilling monologue about Hydra's philosophy, using a parable to justify the necessity of burning away individuality for the greater good. Bakshi requests and is granted authority to act further within Hydra's hierarchy. The culmination of the scene is Whitehall’s signature question: 'Are you ready to comply?' showing the omnipresent threat of compliance programming.",
+    "roles": [
+        "daniel_whitehall",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "Why cling to the founding principles of S.H.I.E.L.D.? Freedom. Equality. Individual rights. These principles make mankind a plague on this planet. Think of a forest. It dries up and catches fire with the first spark. Now, mankind would fight that fire, believing every individual plant perfect in its own individual way. But it's the fire that's perfect. Essential. Now more magnificent plant species, like the giant sequoia, their seeds need the heat of that fire to crack open and be born. To literally rise from the ashes. And they will live for a thousand years. You don't need to keep burning. Rise. Be born."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Sir, I hate to interrupt, but I'd like to evaluate one of our employees and act with authority."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Mr. Bakshi, I trust you to do what needs to be done. Are you ready to comply?"
+        }
+    ]
+}

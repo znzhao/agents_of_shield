@@ -1,0 +1,63 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 12
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and integral S.H.I.E.L.D. operative who combines technical expertise with field ingenuity. She demonstrates an increasing capacity for emotional resilience and strategic insight as she learns difficult truths about her origins and navigates complex interpersonal dynamics. Skye's journey is deeply tied to uncovering her past, revealing the toll and sacrifices of her mysterious origins, yet she embraces her identity within S.H.I.E.L.D. as her true family. Her dedication and resourcefulness make her essential to both the team's operational success and emotional cohesion.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_independent_investigation",
+        "goal": "To independently investigate and locate Coulson despite official setbacks and orders"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "accept_own_past_and_build_new_foundation",
+        "goal": "To come to terms with the painful truth of her origins and recognize S.H.I.E.L.D. as her true family and support system"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_8",
+      "context": "responding to painful truths about her origins and assertion of belonging",
+      "catch_phrase": "No. My story started here."
+    }
+  ]
+}

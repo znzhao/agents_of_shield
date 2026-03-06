@@ -1,0 +1,61 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 1,
+    "scene_name": "FitzSimmonsEnochStrandedOnKitson",
+    "description": "Fitz, Simmons, and Enoch find themselves transported back to Kitson using the Chronicoms' disc, much to their dismay. As they realize they are still fugitives and the escape disc is now useless, tension rises between Fitz and Enoch over their predicament. Simmons quietly expresses her longing to go home as the trio attempts to blend in with the casino crowd, hoping to avoid notice.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "tense",
+    "location": "Kitson (alien casino planet / House of Games)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gambler",
+            "line": "I appreciate the offer, darlin', but I ain't cut out for a crew. I'm not really a joiner."
+        },
+        {
+            "character": "Izel",
+            "line": "That's too bad."
+        },
+        {
+            "character": "Gambler",
+            "line": "But don't let it spoil what we got going on here. Because this kind of magic, unh-unh, it is not on the menu at the brothels on Kitson."
+        },
+        {
+            "character": "Fitz",
+            "line": "What the bloody hell does that mean?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're back where we started."
+        },
+        {
+            "character": "Fitz",
+            "line": "On godforsaken Kitson. Enoch... what was the idea here?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Apologies. It was my first attempt at using an Inter-Planetary Conveyance Disc. It seems to have returned us to its last location. But not to worry. I'll make a quick adjustment, and we'll be on our way. Sir. That device is quite sensitive, requiring the utmost..."
+        },
+        {
+            "character": "Fitz",
+            "line": "You cannot be serious."
+        },
+        {
+            "character": "Enoch",
+            "line": "It appears we are stranded. Again. An unfortunate circumstance, as we are still wanted on this planet."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, thanks for that update, Enoch. You know what? You have betrayed us, then you saved us, and now you've stranded us. If I didn't know any better, I would say that you're malfunctioning, you useless, no-good automaton."
+        },
+        {
+            "character": "Simmons",
+            "line": "I want to go home."
+        }
+    ]
+}

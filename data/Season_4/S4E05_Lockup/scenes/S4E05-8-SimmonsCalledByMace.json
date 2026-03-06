@@ -1,0 +1,48 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 8,
+    "scene_name": "SimmonsCalledByMace",
+    "description": "Simmons is questioned during her polygraph when Mace abruptly pulls her away. She fears exposure but discovers Mace simply wants her to assist in his upcoming TV debate regarding the Inhuman War on Humans. The tension about secrets and trust within S.H.I.E.L.D. is amplified.",
+    "roles": [
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Harlan",
+            "line": "A few more questions. Agent Simmons, are you now, or have you ever been, a member of HYDRA?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Absolutely."
+        },
+        {
+            "character": "Harlan",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "On assignment, undercover. My allegiance has always been to S.H.I.E.L.D."
+        },
+        {
+            "character": "Harlan",
+            "line": "Almost done. Have you ever obtained sensitive information that you are obligated to report up the Security Spectrum or to the Director? Agent Simmons, would you like me to repeat the question?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it's j... it's very wide-ranging."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Simmons. I'm gonna need you to come with me. Now."
+        },
+        {
+            "character": "Man",
+            "line": "Hey, who are you guys?!"
+        }
+    ]
+}

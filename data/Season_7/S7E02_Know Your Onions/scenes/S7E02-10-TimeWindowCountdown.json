@@ -1,0 +1,193 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "TimeWindowCountdown",
+    "description": "Simmons alerts the team that the Time Window is closing soon, meaning the Zephyr is about to jump back to the future. Frantic communication takes place as Daisy tries to warn Mack and Deke that Freddy is extremely dangerous. Daisy orders Deke to kill Freddy, igniting a moral crisis as Deke hesitates and Mack intervenes, pressing Deke for his gun as their views on the mission collide.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "The Time Window is closing."
+        },
+        {
+            "character": "Coulson",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It means in 17 minutes, the Zephyr will leave this time period, with or without us."
+        },
+        {
+            "character": "Elena",
+            "line": "And you're just telling us this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I didn't know. There's no way to predict when the next launch window will open. It could be 24 hours, 24 minutes, or 24 weeks."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, reach out to Mack. Tell him we're coming in hot."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack? Deke? Are you there? You guys there? Come in."
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, it's Deke. It's good to hear your voice."
+        },
+        {
+            "character": "Daisy",
+            "line": "Finally. We're on our way to you. But you have to be ready to leave as soon as we get there. We have no time. Where's Mack?"
+        },
+        {
+            "character": "Deke",
+            "line": "He's with Freddy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, listen to me. Freddy is not what he seems. He is very dangerous."
+        },
+        {
+            "character": "Deke",
+            "line": "Freddy? Nah, he's all right. He's... He's just in a tight spot. We kind of have a lot in common, actually."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, you don't. Trust me. Do not let him out of your sight."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, don't worry. I... I got him in my sights and my finger on the trigger."
+        },
+        {
+            "character": "Daisy",
+            "line": "You have a gun?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. It's Freddy's."
+        },
+        {
+            "character": "Daisy",
+            "line": "Take the shot."
+        },
+        {
+            "character": "Deke",
+            "line": "Come again?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I know what I said about the butterfly effect, but we can't pass up this opportunity. He's Wilfred Malick. He's gonna be a major player in Hydra. And if you kill him right now, you will save thousands of lives."
+        },
+        {
+            "character": "Deke",
+            "line": "But he's just a kid."
+        },
+        {
+            "character": "Daisy",
+            "line": "We don't have time to debate this. Mack's in danger. So just do it, Deke. Take the shot."
+        },
+        {
+            "character": "Freddy",
+            "line": "You satisfied?"
+        },
+        {
+            "character": "Mack",
+            "line": "What is this?"
+        },
+        {
+            "character": "Freddy",
+            "line": "I told you. I don't ask questions."
+        },
+        {
+            "character": "Mack",
+            "line": "What is that, Freddy?"
+        },
+        {
+            "character": "Deke",
+            "line": "His name is Wilfred. Wilfred Malick. That ring any bells?"
+        },
+        {
+            "character": "Mack",
+            "line": "It rings ‘em all. Wilfred Malick, the... the father of Gideon Malick."
+        },
+        {
+            "character": "Freddy",
+            "line": "I ain't no father. What are you talking about?"
+        },
+        {
+            "character": "Mack",
+            "line": "Head of Hydra."
+        },
+        {
+            "character": "Freddy",
+            "line": "How do you know that word?"
+        },
+        {
+            "character": "Deke",
+            "line": "I have orders to kill him."
+        },
+        {
+            "character": "Mack",
+            "line": "Whose orders? I'm the one who gives the orders here."
+        },
+        {
+            "character": "Freddy",
+            "line": "What'd I do? I thought you were here to protect me."
+        },
+        {
+            "character": "Deke",
+            "line": "It was Daisy's call. We don't have time to argue."
+        },
+        {
+            "character": "Mack",
+            "line": "There is no argument. Put the gun down now! That's an order."
+        },
+        {
+            "character": "Deke",
+            "line": "She told me what he becomes, all the blood that he's gonna spill."
+        },
+        {
+            "character": "Freddy",
+            "line": "I never hurt anyone. Please."
+        },
+        {
+            "character": "Elena",
+            "line": "We've lost contact. I'm coming."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. You should stay put. In case any trouble finds its way here. If we lose the Zephyr, we're stuck."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is now an extraction. Daisy and I will find Mack and Deke and get them back here. Koenig, you find Freddy."
+        },
+        {
+            "character": "Koenig",
+            "line": "Morning, Reverend."
+        },
+        {
+            "character": "Enoch",
+            "line": "I may also be of use. Though I am slightly damaged, I am still a Chronicom and the best chance against other Chronicoms, should they appear."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fine by me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Alright, then. Let's get ready to roll."
+        }
+    ]
+}

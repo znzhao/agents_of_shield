@@ -1,0 +1,90 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 8,
+    "scene_name": "QuarantineAndVirusAnalysis",
+    "description": "Back on the Bus, the virus source—the helmet—is placed onboard. Simmons is tasked with developing a cure, as the remaining firefighters are quarantined elsewhere. Coulson tries to hide his concern, both for the mission and for his own health, as May gently interrogates him about his physical. The scene ends with Simmons calling Coulson to the lab with news about the virus's alarming contagiousness.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "All clean. No traces of electrostatic energy."
+        },
+        {
+            "character": "Skye",
+            "line": "What about the other firefighters?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They'll be quarantined and observed at a S.H.I.E.L.D. biohazard facility."
+        },
+        {
+            "character": "Skye",
+            "line": "Um, anyone else notice they're putting the infected alien thing on our truck?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're flying it to the Sandbox."
+        },
+        {
+            "character": "Skye",
+            "line": "Sandbox?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a S.H.I.E.L.D. research facility across the Atlantic. They specialize in hazardous materials."
+        },
+        {
+            "character": "Coulson",
+            "line": "If what you suspect is true, that this is a virus, then those firefighters could be infected, and they're gonna need a cure. Find one."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's our E.T.A.?"
+        },
+        {
+            "character": "May",
+            "line": "3:37 West Africa time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Gonna be a long 4 hours and 26 minutes."
+        },
+        {
+            "character": "May",
+            "line": "You okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fine. I just want this alien thing off our plane as soon as humanly possible."
+        },
+        {
+            "character": "May",
+            "line": "You want to talk about your physical?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing to tell. My physical therapist requested it. He's updating his files or something."
+        },
+        {
+            "character": "May",
+            "line": "You'd tell me if something was wrong."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course."
+        }
+    ]
+}

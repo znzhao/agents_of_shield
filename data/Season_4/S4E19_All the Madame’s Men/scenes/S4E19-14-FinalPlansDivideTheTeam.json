@@ -1,0 +1,58 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 14,
+    "scene_name": "FinalPlansDivideTheTeam",
+    "description": "With time running out, the team debates whether to spread the truth about Hydra using the broadcast or focus their strength on escaping through Radcliffe's exit. Skye pleads for an all-out push, but Coulson concludes they'll need to deploy the footage to divide Hydra so they can succeed.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Getting this footage out isn't enough to make up for what I did in HYDRA, but it's a start."
+        },
+        {
+            "character": "Skye",
+            "line": "Changing people's hearts and minds is great. But I know a way to destroy HYDRA for good. Remember the place Simmons and I were trying to find? Radcliffe told me where to go, how to find it."
+        },
+        {
+            "character": "Coulson",
+            "line": "The way out of this?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, yes. If we can get there, all of our problems go away. We just We need all the help we can get."
+        },
+        {
+            "character": "May",
+            "line": "I don't know what you mean. There's no magic bullet against HYDRA."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. This footage is as close as it comes. I mean, people will finally wake up."
+        },
+        {
+            "character": "Skye",
+            "line": "You don't understand. None of this will matter in the long run. It's... It's... Coulson, this is the only chance to actually wake people up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe the only way to solve our problem is to solve their problem."
+        },
+        {
+            "character": "Skye",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Getting to Radcliffe's coordinates right now is next to impossible. We need a way to divide HYDRA's forces. To save ourselves we need to save the world."
+        }
+    ]
+}

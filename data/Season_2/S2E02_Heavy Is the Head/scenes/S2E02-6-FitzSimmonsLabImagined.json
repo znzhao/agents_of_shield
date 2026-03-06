@@ -1,0 +1,88 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 6,
+    "scene_name": "FitzSimmonsLabImagined",
+    "description": "Fitz imagines a conversation with Simmons as he attempts to solve the problem of neutralizing Creel. Together, they discuss scientific approaches to counter Creel's powers, revealing Fitz's continued reliance on his memory and his struggle with her absence. He obtains Creel's DNA results, motivating him to continue working on a solution.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We were so close. If they'd just given us a little bit more time to calculate the object's..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Refractive index, yeah. That's the problem these days, everyone needs answers immediately. No one has any patience anymore."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I bet they're relishing the fact that we couldn't crack the cloaking device."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't be silly, Fitz. Everyone here knows how valuable you are to the team."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, they avoid me like the plague."
+        },
+        {
+            "character": "Simmons",
+            "line": "They do not. They... they just have their own problems right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, yeah. The Creel business."
+        },
+        {
+            "character": "Simmons",
+            "line": "In fact, perhaps they need our assistance. If they're looking for a way to neutralize Creel's ability..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No one has our experience with gifteds."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course, we can't just hijack the project from them. That would shatter their confidence."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no. Do not want to do that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Or do we?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz..."
+        },
+        {
+            "character": "FItz",
+            "line": "Yeah. Yeah, no, no. Stupid, silly idea. I don't know why I sai..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hey. Look. There's a whole packet of research they just left laying about all willy-nilly for anyone to see."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's Creel's DNA results."
+        },
+        {
+            "character": "Simmons",
+            "line": "Interesting. Shall we see what we can do with these?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, we shall, Simmons. Yes, we shall."
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 15,
+    "scene_name": "SimmonsAndDaisyReturn",
+    "description": "On Zephyr One, Simmons is awakened by the crew and updates them on their situation. Daisy is next to escape but makes a final, emotional plea to Mack to come with her. Mack refuses, unable to leave behind his digital daughter Hope despite knowing she is not real. Daisy, heartbroken, returns to the real world, reporting back to Elena that she could not save Mack.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Piper",
+            "line": "Hey, hey, hey! Guys, Simmons is awake! You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Piper."
+        },
+        {
+            "character": "Piper",
+            "line": "That's right. Thank God you're back. We thought you might never wake up."
+        },
+        {
+            "character": "Simmons",
+            "line": "We were trapped. What's happening?!"
+        },
+        {
+            "character": "Piper",
+            "line": "We're being shot out of the sky."
+        },
+        {
+            "character": "Skye",
+            "line": "Now it's your turn. Mack. You said it yourself this world is not real. And in the real world, you're in danger right now."
+        },
+        {
+            "character": "Mack",
+            "line": "What about Hope? Is she in danger?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. Things are different there."
+        },
+        {
+            "character": "Mack",
+            "line": "Different? How?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hope isn't alive in our world. I'm so sorry. I-I don't I don't know what happened. It's... it's not something you talk about."
+        },
+        {
+            "character": "Mack",
+            "line": "No, that... No, that doesn't make any sense. She's alive here. Why would it be different there?"
+        },
+        {
+            "character": "Skye",
+            "line": "AIDA she made changes in this world to keep us from fighting back, so she fixed your biggest regret."
+        },
+        {
+            "character": "Mack",
+            "line": "Then I'm staying."
+        },
+        {
+            "character": "Skye",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't want to live in a world without Hope."
+        },
+        {
+            "character": "Skye",
+            "line": "But it's not real. You saw it with your own eyes it's a computer program. All of it. Even Hope."
+        },
+        {
+            "character": "Mack",
+            "line": "She laughs at my jokes. We watch movies together. And when she's sad... when she's sad, I hold her. No. She's real to me."
+        },
+        {
+            "character": "Skye",
+            "line": "I understand. And I know how hard this is, but you have people who really care about you, who love you very much."
+        },
+        {
+            "character": "Mack",
+            "line": "Tell them I'm sorry."
+        },
+        {
+            "character": "Skye",
+            "line": "Mack, please I don't want to lose you."
+        },
+        {
+            "character": "Mack",
+            "line": "Good luck."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy!"
+        },
+        {
+            "character": "Elena",
+            "line": "Were you able to save Mack?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm so sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's okay. We're back. Everybody's safe."
+        }
+    ]
+}

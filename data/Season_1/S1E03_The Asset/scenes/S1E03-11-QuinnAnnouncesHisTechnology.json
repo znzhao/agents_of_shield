@@ -1,0 +1,84 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "QuinnAnnouncesHisTechnology",
+    "description": "Quinn addresses the shareholders with a bold speech about changing the world by circumventing regulations and introducing his breakthrough gravity technology. Skye uses the distraction to slip away and find Quinn’s office, attempting to plant the gadget and disable security. The tension builds as she is caught snooping by Quinn, forcing her to improvise and stay undercover.",
+    "roles": [
+        "skye",
+        "ian_quinn"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "Many of you shareholders have been with us for years, and I see a few new names here, but I want to thank you all for traveling so far to this beautiful country and, well, for slumming it at Shaba Tal-Banar. This country where we are allowed to pursue progress and profit without the stranglehold of regulations that are now choking our world. The United States government, the E.U., the DRTC, S.H.I.E.L.D. These are just a few of the institutions that are guilty of halting the development of new technology for anyone... except themselves. We dare defy them with a new idea, they steal in and sweep it out from under us. But not today. You're all aware of what Quinn worldwide has been able to do with basic minerals, let alone uranium or plutonium, despite these unjust restrictions that weigh the scales in the other guy's favor. Well, today, I'm announcing something new... an element that could balance those scales, and I mean that quite literally. Imagine if you could control gravity, if instead of drilling for oil, it rose up to greet you. Imagine if you could move a super tanker's worth of cargo with a swipe of your hand. Well, we will do this and more."
+        },
+        {
+            "character": "Coulson",
+            "line": "This could have been a traumatic experience for Dr. Hall. He may not be the same when we find him, Ward. I'll talk him down. We don't want your personality to set him on edge."
+        },
+        {
+            "character": "Ward",
+            "line": "Great time for humor, sir. My people skills are the least of our problems if Skye can't get us in."
+        },
+        {
+            "character": "Skye",
+            "line": "It's locked, but there's no lock."
+        },
+        {
+            "character": "Fitz",
+            "line": "Eh, check for a keypad."
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing. What, you can hack a keypad?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, not over the phone."
+        },
+        {
+            "character": "May",
+            "line": "Is there a reception desk?"
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, yeah. Well, now what do I do?"
+        },
+        {
+            "character": "Quinn",
+            "line": "What are you trying to do?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just looking for a pen. Here we go. Got to write down all those good ideas, you know what I mean? Of course you know what I mean. Probably have like 10 pens for all your ideas."
+        },
+        {
+            "character": "Quinn",
+            "line": "What are you really doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "All right. I'm busted. I was trying to get a glimpse behind your office doors, see how things really operate."
+        },
+        {
+            "character": "Quinn",
+            "line": "I invite you here as a guest, you treat me like another corrupt institution, looking for trade secrets to leak online. Security."
+        },
+        {
+            "character": "Skye",
+            "line": "No, no, no, wait. It's just, with all these la-di-da people, you have to be so guarded, so careful... What you say, what secrets you reveal. And... I was hoping that you and I... could be honest with one another. If you know what I mean."
+        },
+        {
+            "character": "Skye",
+            "line": "My office had less space, more wheels. Wow, a view of the ocean and the pool."
+        },
+        {
+            "character": "Quinn",
+            "line": "Not a bad place to do business."
+        }
+    ]
+}

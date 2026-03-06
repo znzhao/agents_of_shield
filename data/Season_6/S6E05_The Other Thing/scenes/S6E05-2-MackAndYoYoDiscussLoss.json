@@ -1,0 +1,80 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "MackAndYoYoDiscussLoss",
+    "description": "At the Lighthouse, Mack checks in with Yo-Yo about Keller's death and her mental state. They discuss coping with loss and the pressures of leadership, while also mentioning Sarge and the ongoing investigation with Dr. Benson. Their grief and tension highlight personal stakes within the team.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Trevor",
+            "line": "Director. We just got word. Deke Shaw's out of surgery. He's sedated. It's hard to imagine him actually quiet. Small miracles, I guess. It looks like he'll be fine."
+        },
+        {
+            "character": "Man",
+            "line": "Thank you."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo. Wait up. How are you doing?"
+        },
+        {
+            "character": "Elena",
+            "line": "I've been working the prisoners. Haven't gotten anything useful except they, uh... they call their boss Sarge. The big guy barely talks, and the squirrelly kid won't stop..."
+        },
+        {
+            "character": "Mack",
+            "line": "That's not what I meant. I know you and Keller were..."
+        },
+        {
+            "character": "Elena",
+            "line": "You don't have to. May's out there somewhere."
+        },
+        {
+            "character": "Mack",
+            "line": "I have people working on that. Just take a minute. You lost someone. That's never easy."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm getting used to losing people."
+        },
+        {
+            "character": "Mack",
+            "line": "I didn't have a choice. This isn't a job I take lightly. I have to be responsible for everyone."
+        },
+        {
+            "character": "Elena",
+            "line": "I wasn't getting in the way of that."
+        },
+        {
+            "character": "Mack",
+            "line": "I was afraid... afraid that I couldn't measure up to Coulson. And now his double's out there killing people, and we've lost... We've lost agents. I feel like I'm losing control. You used to be the one I turned to."
+        },
+        {
+            "character": "Elena",
+            "line": "What do you want, Mack? I take your orders without question. You need more from me... Boss? That's what I thought."
+        },
+        {
+            "character": "Mack",
+            "line": "Benson's working on that bird creature, so we should have an answer as to what it is soon."
+        },
+        {
+            "character": "Elena",
+            "line": "Are you sure Benson's up for this?"
+        },
+        {
+            "character": "Mack",
+            "line": "I mean, he has his demons, but we all do. Did he make a mistake with Keller?"
+        },
+        {
+            "character": "Elena",
+            "line": "I don't know, but, um... you might want to keep an eye on him... Director."
+        }
+    ]
+}

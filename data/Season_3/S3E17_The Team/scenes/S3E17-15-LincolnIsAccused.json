@@ -1,0 +1,79 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 15,
+    "scene_name": "LincolnIsAccused",
+    "description": "Coulson confronts Lincoln in front of the Secret Warriors with evidence suggesting he smuggled the Kree artifact for Hive and has been infected. Lincoln vehemently denies the accusations, desperate for Daisy’s trust, but Daisy, under orders, pushes Lincoln into the containment module. The Secret Warriors’ fracture is now complete and Daisy is left shaken by her role in the betrayal.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "lincoln",
+        "joey_gutierrez",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I mean no harm. We're all a part of the same team, but one of us is sick. I didn't say anything earlier because we didn't know who it was, but now we do. Let me guess, when you decided to leave, Lincoln didn't want to go. Not without his prize. This was taken from the Assets room and hidden in your locker."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I didn't do that. Daisy, you have to believe me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know how to get in there. You've stolen from that room before."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah. That was different."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. That was exactly the same. From the moment Hive popped up on our radar, you suddenly knew where to find this and had your hands on it until our distress call diverted you to Malick's base."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Exactly. That was before any of this could have been exposed to Hive!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Was it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Transia. The rooftop."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy fought Malick. I found the bodies. But you said you caught a glimpse of Ward, didn't you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "So you're saying he wasn't turned last night?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. He's been turned this whole time."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I wasn't anywhere close to Hive!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can fix this, Lincoln. Let us help you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Leave me alone!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln!"
+        }
+    ]
+}

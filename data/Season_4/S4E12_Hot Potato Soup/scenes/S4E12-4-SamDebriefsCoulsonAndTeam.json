@@ -1,0 +1,214 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "SamDebriefsCoulsonAndTeam",
+    "description": "On Zephyr One, Sam Koenig, Coulson, Daisy (Skye), and 'May' (LMD) discuss Billy’s kidnapping and attempt to piece together the motive. Daisy and Sam review security footage, leading to comedic moments where Sam geeks out over Daisy's 'Quake' persona and mentions online fan fiction. The group pieces together the Russian connection to the Watchdogs' abduction and tracks their movements.",
+    "roles": [
+        "sam_koenig",
+        "skye",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "lighthearted",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Agent Koenig, welcome aboard."
+        },
+        {
+            "character": "Sam",
+            "line": "Agent Coulson, Agent May... A... Agent “Quake.” Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's the latest, Sam? Any sign of Billy?"
+        },
+        {
+            "character": "Sam",
+            "line": "Well, I found the Humvee at the end of a dock, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one there."
+        },
+        {
+            "character": "Sam",
+            "line": "No, they either evaporated or dove into the sea."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "My intent was... was purely scientific. But, oh, the things I saw, it was expanding my brain and my reality..."
+        },
+        {
+            "character": "Billy",
+            "line": "You're getting all Gollum-y again."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, that's... that's what the Darkhold does to you. It drives you mad. Yeah, maybe you should tell them where the book is. Let it drive them mad."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I am the captain of this ship, and you are my prisoners. If you cooperate, you will be treated as welcomed guests. If not, you will be removed, piece by piece."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "That... That... That won't be necessary."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Mmm! Vodka. Perfectly chilled, pure. The onion enhances the experience. But people forget the old ways. Now they'll put flavors in it, vanilla. The old ways are better. Simple, built to last. Like this submarine. Modern machines, all software, less hardware. You put too much faith in them. Man is the superior machine. And I am the superior man. I'm told you refuse to talk and that you welcome pain. I, too, love pain. And I love to make others feel it using the old ways."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "All right, stop! Enough. Enough! Senator Nadeer promised me he wouldn't be permanently damaged."
+        },
+        {
+            "character": "Ivanov",
+            "line": "She's not the captain of this ship."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, I understand. But he isn't going to talk."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Hm. What do you suggest, Doctor?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Let me get inside his head."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This is a complete and unacceptable invasion of my privacy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, since you refuse to cooperate, Fitz is going to reprogram you to sing like a canary."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "That seems odd. Singing I can understand, perhaps, but singing like a bird? Why not Mick Jagger?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa. What is that? That's nothing like AIDA's code. That's nothing like anything."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell is going on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. Uh... This code is advanced. It's like fifth-generation syntax. I've never seen anything like it. Every time I keep trying to alter it, it kicks me right back to the..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Amicitiae nostrae memoriam spero sempiternam fore."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, Fitz..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Vir sapit qui pauca loquitur. Alea iacta est."
+        },
+        {
+            "character": "Mack",
+            "line": "The only thing worse than a robot is a possessed one."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I agree. That was no fun."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where's Daisy when we need her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Who developed the code?! Huh?! Who programmed you?! Was it Radcliffe? AIDA?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I can't see their faces. They're both Russian?"
+        },
+        {
+            "character": "Sam",
+            "line": "Da, I'm lucky to be alive. I love Billy, but he is not a fighter. He ran. And he left me there to handle it."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, that's... that's Billy. That's him kicking ass, and that's you, hiding behind the bar."
+        },
+        {
+            "character": "Sam",
+            "line": "No, I... I think you got us... I think you got us flipped, there."
+        },
+        {
+            "character": "Daisy",
+            "line": "I mean, you're... you're literally wearing the same thing right now."
+        },
+        {
+            "character": "May",
+            "line": "We have no idea what Billy did with the Darkhold."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't want to know. That was the whole point in giving it to him."
+        },
+        {
+            "character": "May",
+            "line": "Well, we need to get it back and destroy it. If you'd given it to me..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And they'd have you now. I wanted to protect you, and the Koenigs have dealt with this kind of thing before."
+        },
+        {
+            "character": "May",
+            "line": "You don't need to protect me, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. But I've lost too much lately. I'm not gonna lose you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Both the guys who tried to assassinate the Director were Russian. This has to be connected."
+        },
+        {
+            "character": "Sam",
+            "line": "Maybe there's, like, a “Red Dawn” thing happening, but what does it have to do with Billy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They don't want Billy. They want something I entrusted to him."
+        },
+        {
+            "character": "Sam",
+            "line": "Did... What... Is it smaller than a Quinjet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's classified. And yes, considerably."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. We have face. Hello, Russian Bad Guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Run facial recognition. See if we come up with a lead."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy."
+        }
+    ]
+}

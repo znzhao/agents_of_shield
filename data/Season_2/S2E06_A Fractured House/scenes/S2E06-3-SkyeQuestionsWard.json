@@ -1,0 +1,88 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 3,
+    "scene_name": "SkyeQuestionsWard",
+    "description": "Skye interrogates Grant Ward, trying to extract information about his brother, Senator Ward. Grant warns Skye about Christian, insisting he is manipulative and dangerous, reminding her of his past trauma. Skye pushes the conversation to focus solely on Senator Ward, not her own family, though Grant subtly steers the conversation back to Skye's father. The interaction is cagey and emotionally fraught.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "We need to talk about your brother."
+        },
+        {
+            "character": "Ward",
+            "line": "Which one?"
+        },
+        {
+            "character": "Skye",
+            "line": "Your older brother, the senator."
+        },
+        {
+            "character": "Ward",
+            "line": "Christian. Why? What happened?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just need basic information... habits, places he frequently visits... stuff like that."
+        },
+        {
+            "character": "Ward",
+            "line": "You need to stay away from him. He's not what he seems. He always has an angle, and if he thinks that you can lead him to me..."
+        },
+        {
+            "character": "Skye",
+            "line": "This isn't about you."
+        },
+        {
+            "character": "Ward",
+            "line": "Isn't it? Don't you remember what happened at the well, what he made me do? He gets joy from one thing... hurting people. So, tell me, please. Does he know I'm here?"
+        },
+        {
+            "character": "Skye",
+            "line": "Not how it works, Ward. You answer my questions, remember?"
+        },
+        {
+            "character": "Ward",
+            "line": "And I always do. I always tell you the truth, But if Christian knows that I'm here..."
+        },
+        {
+            "character": "Skye",
+            "line": "You always tell me the truth?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yes. I promised you I'd never lie to you, and I haven't. What's this... really about?"
+        },
+        {
+            "character": "Skye",
+            "line": "I need information about your brother... people, connections."
+        },
+        {
+            "character": "Ward",
+            "line": "Is this about your father? ‘Cause I wasn't lying about him. He's alive, and he's..."
+        },
+        {
+            "character": "Skye",
+            "line": "He's a murderer. You forgot to mention that detail."
+        },
+        {
+            "character": "Ward",
+            "line": "You found him."
+        },
+        {
+            "character": "Skye",
+            "line": "He didn't give us what we needed on his brother."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trust me. He gave us more than you think. And you're slipping off track, Skye. Stay on-mission."
+        }
+    ]
+}

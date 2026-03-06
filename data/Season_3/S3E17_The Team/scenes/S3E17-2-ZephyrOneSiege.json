@@ -1,0 +1,39 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 2,
+    "scene_name": "ZephyrOneSiege",
+    "description": "On board the Zephyr One, Coulson and his team have barricaded themselves against HYDRA agents in a tense standoff. May is wounded and Simmons tends to her injuries while Fitz and Mack reinforce their makeshift defenses. Fitz uses chlorine gas to block the approaching enemies as the group desperately searches for anything to keep the HYDRA agents at bay.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Come on! Come on! Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Look for anything in here that will mess with those guys."
+        },
+        {
+            "character": "Simmons",
+            "line": "May's bleeding pretty badly. We need to stop it now."
+        },
+        {
+            "character": "Mack",
+            "line": "The hatch won't hold for long."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, find me something that will keep these guys at bay."
+        }
+    ]
+}

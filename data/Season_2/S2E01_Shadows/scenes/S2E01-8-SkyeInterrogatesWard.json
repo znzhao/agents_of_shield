@@ -1,0 +1,118 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "SkyeInterrogatesWard",
+    "description": "Skye is sent to question Grant Ward, who is imprisoned at the Playground. Ward explains Creel's powers and history and reveals that Hydra communicates using quantum channels embedded in S.H.I.E.L.D.'s technology. Ward hints at knowing information about Skye's father, offering her more insight in exchange for further contact. Koenig checks for these Hydra transmissions, confirming Ward's information is valid.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Billy Koenig",
+            "line": "There's an inertial confinement laser barrier down there, Which is cool. Now this button turns it soundproof. This button makes it opaque."
+        },
+        {
+            "character": "Skye",
+            "line": "Just tell me there isn't an “off” button I can accidentally hit."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "You'll be safe. I promise."
+        },
+        {
+            "character": "Ward",
+            "line": "Aren't you a sight for sore eyes. I told Coulson weeks ago that I was willing to speak to you... to give you intelligence. Why now? Something bad happen?"
+        },
+        {
+            "character": "Skye",
+            "line": "Carl Creel. Garrett reported him dead. Turns out he's alive. Do you have any information on that?"
+        },
+        {
+            "character": "Ward",
+            "line": "How have you been? The name sounds familiar. Do you have a picture? Coulson didn't tell you. I went through a... rough stretch. First pair of pants they gave me had a... a button on the back. They took that away. But you fold a piece of paper just right, it gets sharp. When they took that away, I started running at the walls."
+        },
+        {
+            "character": "Skye",
+            "line": "You should have run faster."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm through all that. When I came out of sedation, I was clear-headed, accepting... of who I am, what I've done, and why."
+        },
+        {
+            "character": "May",
+            "line": "You sure about this? Giving Ward exactly what he wants? Of course he said he'd only talk to Skye. He wants to fill her head with lies."
+        },
+        {
+            "character": "Coulson",
+            "line": "He hasn't lied yet."
+        },
+        {
+            "character": "Ward",
+            "line": "Your arms tell a different story. I see May's training you. She's got you favoring your left side first 'cause you're right-handed. Smart."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm gonna say this once. I'm not gonna believe a word that comes out of your mouth. But if a single word is about anything other than the question that I'm asking, I walk."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay. Creel was a boxer, nicknamed the Crusher. Turns out any opponent has a glass jaw when you have steel fists under your gloves. Garrett thought he'd be an asset. Now, once Creel touches a substance, he can absorb it and somehow consciously transform the molecules of his body into that substance. He wouldn't tell us how, but he enjoys the way it feels... Almost as much as he enjoys killing."
+        },
+        {
+            "character": "Skye",
+            "line": "You two must have gotten along great. Well, this was fun but pointless. We've already figured that stuff out, so if you don't know where to find him, then..."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait. When Hydra was communicating with S.H.I.E.L.D., we'd use white noise in the gaps between S.H.I.E.L.D.'s quantum key distribution channels to hide messages. Now, S.H.I.E.L.D. might be gone, but not those frequencies. If Hydra is giving commands to Creel, that'll be how."
+        },
+        {
+            "character": "Skye",
+            "line": "We'll see."
+        },
+        {
+            "character": "Ward",
+            "line": "It's true, and so will be every word I say to you for the rest of my life. I'm not asking for forgiveness. I just want to help you. And when that information proves true, I hope you'll come back. There's so much I want to tell you about... your father."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "And believe it or not, there's a directive going out over those channels right now. Now, I can ping an echo request, see if there's other receivers out there, how many Hydra agents can communicate this way."
+        },
+        {
+            "character": "Skye",
+            "line": "So he's telling the truth."
+        },
+        {
+            "character": "Coulson",
+            "line": "It looks like it. Thank you."
+        },
+        {
+            "character": "Skye",
+            "line": "I guess that visit was the first of many, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We kept Ward here for this reason, and it's paying off."
+        },
+        {
+            "character": "Skye",
+            "line": "What is his deal?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I really don't know, But it doesn't matter, as long as he's giving us an inside look at Hydra's operations."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Yeah, guys? About that."
+        }
+    ]
+}

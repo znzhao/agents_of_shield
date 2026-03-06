@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 9,
+    "scene_name": "AndrewAndMayConfrontation",
+    "description": "Andrew waits for May to discuss their relationship, attempting to address their unresolved issues. May remains guarded and wary of reopening old wounds, while Andrew sincerely asks to talk outside the workplace. Their interaction is emotional and fraught with regret and longing, showing how their personal lives remain entangled with their S.H.I.E.L.D. duties.",
+    "roles": [
+        "andrew_garner",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Thought you left."
+        },
+        {
+            "character": "Andrew",
+            "line": "I was waiting for you. Are... Are you back?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, can we talk?"
+        },
+        {
+            "character": "May",
+            "line": "That's what we're doing."
+        },
+        {
+            "character": "Andrew",
+            "line": "Yeah. Not here. I mean... could you slow up for a second, please?"
+        },
+        {
+            "character": "May",
+            "line": "Honestly, Andrew, I don't need to hear any more apologies. We went away to figure out who we'd be outside of S.H.I.E.L.D. You didn't like what you saw. Let's move on."
+        },
+        {
+            "character": "Andrew",
+            "line": "That's not true. I had a great time."
+        },
+        {
+            "character": "May",
+            "line": "So did I, until you fell off the face of the Earth. No calls, no texts."
+        },
+        {
+            "character": "Andrew",
+            "line": "That had nothing to do with you."
+        },
+        {
+            "character": "May",
+            "line": "Please, don't give me the “it's not you, it's me” speech. You can do better than that."
+        },
+        {
+            "character": "Andrew",
+            "line": "You're right. I... I can do better, and I want to. I'd just rather not do it here. Now, Maybe after my class tomorrow, you could come by."
+        },
+        {
+            "character": "May",
+            "line": "I don't think so."
+        },
+        {
+            "character": "Andrew",
+            "line": "Damn it, Melinda, I-I know I've handled this all wrong. I shouldn't have walked away like I did."
+        },
+        {
+            "character": "May",
+            "line": "I did the same to you. Now we're even."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "SimmonsApartmentTourAndDaisyAppearance",
+    "description": "Simmons is shown touring what appears to be an ideal apartment, talking with Fitz over the phone about their plans to move in together. The atmosphere soon turns tense when Daisy, injured and on the run from the Watchdogs, reveals herself. Simmons patches up Daisy, but Daisy has come for more than just medical help—she presents evidence that the Watchdogs are hacking into S.H.I.E.L.D.'s Inhuman asset list and asks Simmons to help her hack into the highly-secured S.H.I.E.L.D. servers. Simmons initially refuses, aware of protocol, but Daisy raises the stakes by implying force to get Simmons' help.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It checks all our boxes. Hardwood floors, breakfast nook, bay window, cozy and charming."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, “cozy” means small and “charming” means old. Where did you find this place?"
+        },
+        {
+            "character": "Simmons",
+            "line": "An e-mail offer. Honestly, it was almost too good to be true. This is the one, Fitz. I can feel it."
+        },
+        {
+            "character": "Fitz",
+            "line": "And it's, uh, it's definitely within our price range?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can one really put a dollar amount on the perfect home?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, one can, and we did."
+        },
+        {
+            "character": "Simmons",
+            "line": "And it'll be well worth it, I promise. Shame you can't be here. My one day not working, and you're in the thick of it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'm heading to Radcliffe's."
+        },
+        {
+            "character": "Simmons",
+            "line": "It seems you're spending all your time there lately."
+        },
+        {
+            "character": "Fitz",
+            "line": "Does it? Eh, I guess so. Trying to figure out a less deadly way to cure our ghost victims. Take lots of pictures."
+        },
+        {
+            "character": "Simmons",
+            "line": "You've got it. Plenty of pictures. And good luck. I'll see you tonight. Love you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I love you, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hello? I'm here about the apartment. Is anybody here? Daisy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sorry. I had nowhere else to turn."
+        }
+    ]
+}

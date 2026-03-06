@@ -1,0 +1,221 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "CoulsonTeamPlansEntry",
+    "description": "Coulson, May, Fitz, Simmons, Morse, and Hunter discuss entering the underground city and preventing Hydra from getting the Obelisk. Triplett prepares explosives, while FitzSimmons debate the fate of Mack and whether there’s hope to save him. Bobbi and Hunter have a tense but supportive moment regarding trust and the team's emotional state.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Let me know as soon as you can get us down into the tunnels safely."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course, Sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, Sir."
+        },
+        {
+            "character": "May",
+            "line": "Whitehall's demand was for Raina. He said nothing about Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "So Ward called an audible when he saw her on the plane."
+        },
+        {
+            "character": "May",
+            "line": "Or had his own agenda the whole time. He told Skye he was keeping his promise."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means he's taking her to meet daddy dearest. If there's a silver lining, it's that she's probably still alive. Agent Morse, Hydra knows the alien city's here, and they're coming our way. If any of their Agents are ex-S.H.I.E.L.D., they'll contact Diego for local Intel. Reach out again. Make sure he doesn't tell them about the fort entrance."
+        },
+        {
+            "character": "Morse",
+            "line": "Copy that."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll do everything possible for Mack. But right now, we have to stop Hydra from getting the Obelisk into those tunnels."
+        },
+        {
+            "character": "Triplett",
+            "line": "I found four. Cutting-edge howling commando technology, circa 1945."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Oh, 10 would be better. Without the dwarfs scanning the tunnels, we don't know what's down there."
+        },
+        {
+            "character": "Triplett",
+            "line": "We know electronics don't work."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Yeah, I know. That's why we need mechanical detonators for the bombs. Look, I'm sorry. These are awesome. Dum dum dugan would be proud. I don't want to sound ungrateful."
+        },
+        {
+            "character": "Triplett",
+            "line": "The good news about going old school is that these babies are immune to EMP's and electronic jamming. The bad news..."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "You can't trigger them remotely."
+        },
+        {
+            "character": "Triplett",
+            "line": "We'll start the timers and run like hell. Pick four spots, and I'll make them go boom."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Okay. Well, Agent May says this is ground zero for the Obelisk and whatever apocalyptic stuff it's supposed to do. So if we plant explosives around it..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Getting into the city and moving safely about doesn't seem nearly as hard as finding a way to save Mack."
+        },
+        {
+            "character": "Fitz",
+            "line": "You don't have to say things about Mack being alive just because he was my friend, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're dealing with alien tech, alien biology. Who knows what might have happened to Mack down there."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's a good point, actually. I apologize. It's just I've been thinking about self-defense."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know you might still have hurt feelings, but we need to concentr..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, no, no. No. Uh, I'm not... I'm not talking about myself. I'm... I'm speaking about the..."
+        },
+        {
+            "character": "Simmons",
+            "line": "The city."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Y... what if it reacts when it senses a threat? I mean, it's the same way the Obelisk would when somebody touches it. I mean, we... we both know that alien materials react negatively to human biology."
+        },
+        {
+            "character": "Simmons",
+            "line": "The way white blood cells fight off bacteria or a virus."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Which is why I'm afraid that Mack's... most likely dead."
+        },
+        {
+            "character": "Simmons",
+            "line": "There are other possibilities. What if the city didn't kill Mack, but co-opted him, made him a part of it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Like zombie ants?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Maybe it's like the fungus ophiocordyceps. It... it possesses and transforms ants into creatures that do its bidding. Maybe the city didn't kill Mack... it's just controlling him. If Mack's alive, there's still hope we can save him."
+        },
+        {
+            "character": "Hunter",
+            "line": "Looking for something?"
+        },
+        {
+            "character": "Morse",
+            "line": "Mmm. Mack would hate to see his garage like this."
+        },
+        {
+            "character": "Hunter",
+            "line": "I heard what happened with Mack."
+        },
+        {
+            "character": "Morse",
+            "line": "Then you know it was my fault."
+        },
+        {
+            "character": "Hunter",
+            "line": "That's not the story going around. I heard it wasn't Mack that came out of that hole. You did what had to be done."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "You think he's dead."
+        },
+        {
+            "character": "Morse",
+            "line": "Between whatever infected him and the hundred-foot drop... When this is all over, I'm gonna cry for like a week."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hey, come here. Mack's one of the best. If he really is gone, then the number of people I trust on this planet just plummeted."
+        },
+        {
+            "character": "Morse",
+            "line": "I didn't know you trusted anyone."
+        },
+        {
+            "character": "Hunter",
+            "line": "Moment of weakness. Let's just say I mistrust some less than others."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm. It's Diego. Coulson wanted me to set a meeting. You know... could use some backup."
+        },
+        {
+            "character": "Hunter",
+            "line": "I might know a guy. Want me to see if he's available?"
+        },
+        {
+            "character": "Morse",
+            "line": "Is he good?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Ah, good enough to know you're keeping a thumb drive from him. I want to trust you, Bob. I really do. So I'm gonna assume that whatever's on that drive has nothing to do with you and me. I'll go get my weapons. Then we can go."
+        },
+        {
+            "character": "Coulson",
+            "line": "You made the right call."
+        },
+        {
+            "character": "May",
+            "line": "The right call would have been to put two of these in Ward's head."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then Hydra would have blown the bus out of the air."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, but then they wouldn't have Skye or Raina or the map or the location..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Six members of our team are still alive because of what you did. That needs to count for something. Skye can take care of herself. You've transformed her into an agent who's smart and tough and capable. If there's a chance for her to turn the tables, she'll take it."
+        }
+    ]
+}

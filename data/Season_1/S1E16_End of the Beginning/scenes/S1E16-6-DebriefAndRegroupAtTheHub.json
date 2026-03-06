@@ -1,0 +1,200 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 6,
+    "scene_name": "DebriefAndRegroupAtTheHub",
+    "description": "Back at the Hub, Hand coordinates response teams and debriefs with Coulson, May, Fitz, and Simmons on the events and consequences of Deathlok’s attack. Simmons prepares to analyze Skye’s blood in advanced lab facilities, while Fitz sets up a secure communication line. Tensions mount as the team realizes Thomas Nash is not in the hospital, but S.H.I.E.L.D. can now track Deathlok thanks to Blake's tracer.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "victoria_hand",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "Any word on Thomas Nash? No, he's a ghost."
+        },
+        {
+            "character": "May",
+            "line": "The facility has him listed as a resident, but it's all a cover-up."
+        },
+        {
+            "character": "Garrett",
+            "line": "Nash is probably off fishing in Bora Bora right now, laughing at us."
+        },
+        {
+            "character": "Coulson",
+            "line": "And yet Mr. Peterson was waiting for you and Blake at the facility. Why?"
+        },
+        {
+            "character": "Ward",
+            "line": "Probably the same reason he came after Garrett... we're getting too close. He's trying to take us out."
+        },
+        {
+            "character": "Hand",
+            "line": "This shouldn't have happened. Backup should have been there alongside Agents Blake and May."
+        },
+        {
+            "character": "Garrett",
+            "line": "Clairvoyant would have seen us coming."
+        },
+        {
+            "character": "Hand",
+            "line": "It appears he did anyway. The plan was flawed from the start."
+        },
+        {
+            "character": "Garrett",
+            "line": "Come on, Vic. The plan was solid."
+        },
+        {
+            "character": "Hand",
+            "line": "We have an agent down because we weren't prepared."
+        },
+        {
+            "character": "Garrett",
+            "line": "Blake knew the risks."
+        },
+        {
+            "character": "Hand",
+            "line": "And don't call me “Vic.” It's condescending."
+        },
+        {
+            "character": "Garrett",
+            "line": "Any one of us could have been ambushed."
+        },
+        {
+            "character": "Coulson",
+            "line": "The point is, Blake's alive, and we have a suspect... Thomas Nash."
+        },
+        {
+            "character": "Hand",
+            "line": "I'm headed inside to prep the field teams. Agent Coulson, when can I expect Agent Simmons for debrief?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's getting ready as we speak."
+        },
+        {
+            "character": "Hand",
+            "line": "Good. If I'm gonna put any more agents in danger, I want them to know exactly what Deathlok is and what he's capable of."
+        },
+        {
+            "character": "Fitz",
+            "line": "Honestly, I don't know how much more you can tell them. Who knows what else they've done to the man?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Or how much man is left at all. Regardless, S.H.I.E.L.D. sees us as the resident experts on the Deathlok program. If they want me to stay here at the Hub, then that's that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, don't you seem awfully chipper to pick up and leave me by my lonesome."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do I?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. And I wonder. Could it be because the Hub's lab facilities are much more comprehensive than ours?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In case I'd like to run a molecular breakdown of Skye's blood? Yes. Brilliant deduction, Dr. Watson."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've always pictured you as Watson. Either way, if you're gonna do this, you're gonna need my help. At some point, one way or another, eventually."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I wouldn't go that far."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'll jerry up an encrypted hard line so we can stay in touch. Don't want the rest of the bus overhearing what we're saying."
+        },
+        {
+            "character": "Triplett",
+            "line": "You ready to go?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Triplett. Are you staying at the Hub, as well?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Yes, Garrett's keeping me here. Help brief the teams on our most recent run-in with the cyber soldier. Don't mind the company, do you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, not at all."
+        },
+        {
+            "character": "Skye",
+            "line": "According to index archives, Nash has been on S.H.I.E.L.D.'s radar for about six years. originally a bond trader in Canada doing very well for himself. Then the Canadian government recruited him to a secret department H-type program."
+        },
+        {
+            "character": "May",
+            "line": "They were looking for people with psychic abilities."
+        },
+        {
+            "character": "Skye",
+            "line": "Specifically people who could control human behavior, and Nash claimed he had a gift."
+        },
+        {
+            "character": "May",
+            "line": "Claimed?"
+        },
+        {
+            "character": "Skye",
+            "line": "According to records, he couldn't affect a person's behavior. But he could, on occasion, predict it."
+        },
+        {
+            "character": "Coulson",
+            "line": "But S.H.I.E.L.D. crossed him off the index after his accident because of his supposed catatonic state."
+        },
+        {
+            "character": "Skye",
+            "line": "Which he recovered from quite nicely."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was all a lie... just to throw S.H.I.E.L.D. off his scent. You said Blake fired how many rounds?"
+        },
+        {
+            "character": "May",
+            "line": "I heard six. Why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because there are only five missing from this magazine. And one from here. These are Fitz's tag rounds."
+        },
+        {
+            "character": "Skye",
+            "line": "We can track him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, check all the sat feeds. Find that signal."
+        },
+        {
+            "character": "Skye",
+            "line": "On it."
+        },
+        {
+            "character": "May",
+            "line": "I'll get us in the air."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nicely done, Blake."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 17,
+    "scene_name": "RescueAndSethsDeath",
+    "description": "Simmons leads the team’s response to save Seth, attempting resuscitation with Fitz’s help, but Seth is pronounced dead as Donnie grieves. The emotional weight of the failed rescue underscores the tragic consequences of unchecked ambition and manipulation. The storm dissipates as S.H.I.E.L.D. regains control.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "He's in cardiac arrest! Skye, get a blanket for his head! Lay him down here! Sir, I need the A.E.D.! Fitz, oxygen. 0.4 millimeters of epinephrine."
+        },
+        {
+            "character": "Fitz",
+            "line": "I got it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Get ready to clear. Charging."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah! Get back!"
+        },
+        {
+            "character": "Simmons",
+            "line": "And clear! Pulse?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Charging. Clear. Pulse?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Charging."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's gone."
+        },
+        {
+            "character": "Donnie",
+            "line": "No, sir. Seth! Seth!! Come on, no! No. Don't go. No."
+        }
+    ]
+}

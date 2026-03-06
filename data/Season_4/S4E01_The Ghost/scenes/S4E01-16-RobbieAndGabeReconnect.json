@@ -1,0 +1,36 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 16,
+    "scene_name": "RobbieAndGabeReconnect",
+    "description": "Robbie and his brother Gabe share a quiet moment as Robbie gives Gabe a ride home. They exchange playful banter, giving the audience a glimpse into Robbie's family ties and his humanity outside of his Ghost Rider persona.",
+    "roles": [
+        "robbie_reyes",
+        "gabe_reyes"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gabe",
+            "line": "Thanks for the ride, Janet."
+        },
+        {
+            "character": "Robbie",
+            "line": "You never accept rides. Bus break down? Or you still trying to holler at Janet's little sister?"
+        },
+        {
+            "character": "Gabe",
+            "line": "Maybe. I only needed a ride to help Canelo balance some books because my brother didn't finish high school."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yo, I finished high school, in the 11th grade."
+        },
+        {
+            "character": "Daisy",
+            "line": "Everyone's attached to something."
+        }
+    ]
+}

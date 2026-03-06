@@ -1,0 +1,81 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 16,
+    "scene_name": "SkyeDiscoversKoenigsBody",
+    "description": "Skye searches for Koenig, using base surveillance tools, and is horrified to find his body hidden in a closet. Piecing together Ward's duplicity, she realizes he must be Hydra and narrowly avoids him by hiding, setting the stage for her next move.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "eric_koenig"
+    ],
+    "vibe": "suspenseful",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "There you are, Eric."
+        },
+        {
+            "character": "Daniels",
+            "line": "No. Keep playing. I'm sorry I scare you. I know that I'm a monster. But you're the one that can save me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on."
+        },
+        {
+            "character": "Skye",
+            "line": "Eric? That's weird. Eric? Eric. Ward."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma."
+        },
+        {
+            "character": "Nathan",
+            "line": "No. Please!"
+        },
+        {
+            "character": "Skye",
+            "line": "No, no. No. No. Oh, no."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye?! Skye!"
+        },
+        {
+            "character": "Skye",
+            "line": "He's Hydra. Okay. Okay, okay. Okay. Okay."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. You're safe. I'm still here. I promise. I'm still here with you."
+        },
+        {
+            "character": "Nathan",
+            "line": "Phil..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you okay?"
+        },
+        {
+            "character": "Nathan",
+            "line": "I... I thought... he was here. Seemed so real this time. See what we want to see, I guess."
+        },
+        {
+            "character": "Simmons",
+            "line": "I guess so."
+        }
+    ]
+}

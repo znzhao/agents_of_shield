@@ -1,0 +1,69 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 9,
+    "scene_name": "AmadorWakesOnTheBus",
+    "description": "Amador regains consciousness in the Bus’s holding cell. Coulson briefs her, explaining they have hijacked her ocular feed through a pair of glasses worn by one of his agents. Amador emotionally recounts her years of constant surveillance and her regret for not trusting her team. Coulson promises to complete her assigned mission until they can safely remove the implant.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hello, Akela. You're safe now. Give it a minute. I hit you with a powerful dendrotoxin."
+        },
+        {
+            "character": "Amador",
+            "line": "There's a kill switch in my eye. Why hasn't my handler blown it yet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "As far as your handler knows, you fought Agent May, you both went down, then you got up and left the building to complete your mission."
+        },
+        {
+            "character": "Amador",
+            "line": "How?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We hijacked your feed. One of my Agents is wearing a set of glasses mimicking your implant. Right now, it's transmitting his point of view as if it was yours. It even has backscatter imaging."
+        },
+        {
+            "character": "Amador",
+            "line": "I get messages from my handler."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're receiving those, as well."
+        },
+        {
+            "character": "Coulson",
+            "line": "My agent's on his way to the Todorov building completing your mission while we disable the fail-safe in your eye. I promise. They can't see you. You're okay, Akela. Look at me. How long have they been monitoring you?"
+        },
+        {
+            "character": "Amador",
+            "line": "Years. Why are you doing this, Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to know why a prox card is worth $30 million..."
+        },
+        {
+            "character": "Amador",
+            "line": "No. Why are you doing this? Why are you helping me? Where's the “I told you so?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not me anymore. I'm just glad you're alive."
+        },
+        {
+            "character": "Amador",
+            "line": "Vanchat would have never caught us if I'd just done my job. I should have listened to you... trusted my team the way you insisted. If I had... they might still be alive."
+        }
+    ]
+}

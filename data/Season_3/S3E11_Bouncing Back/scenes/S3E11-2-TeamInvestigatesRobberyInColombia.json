@@ -1,0 +1,179 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "TeamInvestigatesRobberyInColombia",
+    "description": "At the crime scene in Bogotá, Daisy, Joey, Mack, Bobbi, and Hunter investigate the police van robbery pulled off by an Inhuman. The team splits up to cover more ground and analyze how the thief pulled off the robbery, noting her extraordinary speed. Tensions and small talk reveal team dynamics and some lingering worries about Inhumans' place in the world.",
+    "roles": [
+        "skye",
+        "joey_gutierrez",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You're doing good."
+        },
+        {
+            "character": "Joey",
+            "line": "I'm not great at projecting authority. It's nice to talk Spanish, though. Reminds me of home."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you miss it?"
+        },
+        {
+            "character": "Joey",
+            "line": "Especially Sundays. Mom cooks on Sundays. And you? You have people?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sort of. Not really."
+        },
+        {
+            "character": "Ramon",
+            "line": "Colonel Ramon. I speak English, if it makes this easier."
+        },
+        {
+            "character": "Daisy",
+            "line": "It does. Thank you."
+        },
+        {
+            "character": "Ramon",
+            "line": "This way to my office."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're following up a report. Your officers were attacked by a powered assailant?"
+        },
+        {
+            "character": "Ramon",
+            "line": "Yes. We're already overwhelmed by the guns, drugs, and kidnappings, and now these things. Are they really aliens?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a little bit more complicated than that. But like everyone else, there are good ones and bad ones."
+        },
+        {
+            "character": "Ramon",
+            "line": "But when they are bad, we are powerless to stop them. That convoy was loaded with weapons that were supposed to help us fight whatever this is. And now weapons are gone."
+        },
+        {
+            "character": "Daisy",
+            "line": "But we're here. We've got a team on the ground, and we're here to help."
+        },
+        {
+            "character": "President",
+            "line": "I don't know how it is that your agency still exists, nor do I want to know, but I appreciate your help."
+        },
+        {
+            "character": "Coulson",
+            "line": "Does that mean you're reauthorizing S.H.I.E.L.D.?"
+        },
+        {
+            "character": "President",
+            "line": "The public has a short memory but not that short. The image of Helicarriers crashing down on the nation's capital is hard to forget."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then why is this meeting happening if S.H.I.E.L.D. doesn't exist?"
+        },
+        {
+            "character": "President",
+            "line": "Because I need you to keep doing what you're doing. Privately. Publicly, the ATCU will still be the face of my administration's response to advanced threats. I'll appoint a new head to the agency, one who understands they answer to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "So we're your black-ops response."
+        },
+        {
+            "character": "President",
+            "line": "Isn't black ops where you feel most comfortable?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I certainly prefer it to bureaucracy. Okay, then. We'll keep doing what we do, and you'll keep pretending we don't exist."
+        },
+        {
+            "character": "President",
+            "line": "Exactly."
+        },
+        {
+            "character": "Coulson",
+            "line": "One last thing. Gideon Malick."
+        },
+        {
+            "character": "President",
+            "line": "I can't help you."
+        },
+        {
+            "character": "Coulson",
+            "line": "He ordered this hit. He's HYDRA."
+        },
+        {
+            "character": "President",
+            "line": "Even if you can prove any of that, Gideon Malick has a stake in almost every country's economy. He advises world leaders, he served on the World Council, he spent a lifetime and a fortune building influence. I can't pull that thread."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you can let him walk free? Rosalind bled to death right here."
+        },
+        {
+            "character": "President",
+            "line": "Malick may have blood on his hands, but my hands are tied. Yours are not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is there any intel you're willing to give?"
+        },
+        {
+            "character": "President",
+            "line": "Never spent enough time with the man to get in his head. Listen, I'm aware of your sacrifices. I thank you for your service. I'll be in touch when I've named a new head to the ATCU."
+        },
+        {
+            "character": "Man",
+            "line": "We're on the move."
+        },
+        {
+            "character": "May",
+            "line": "Sorry he didn't give you an angle to go at Malick."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, he may have."
+        },
+        {
+            "character": "Mack",
+            "line": "I've seen this before. Protests in Beirut."
+        },
+        {
+            "character": "Hunter",
+            "line": "Urban rioting 101. Child's play compared to the real issue. Powers, wrong hands, again."
+        },
+        {
+            "character": "Mack",
+            "line": "This could be something."
+        },
+        {
+            "character": "Hunter",
+            "line": "An entire armory's worth of military might nicked from a police van, right under the nose of the police in less than four minutes. The two of us, trained, experienced. We can pull this off. But all it takes is one tainted fish taco, and pff. Unfair advantage, really."
+        },
+        {
+            "character": "Mack",
+            "line": "Transmission starting now."
+        },
+        {
+            "character": "Hunter",
+            "line": "No offense intended."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah, no, it's great, being hunted, feared. It's a blast."
+        }
+    ]
+}

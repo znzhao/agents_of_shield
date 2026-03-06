@@ -1,0 +1,32 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 14,
+    "scene_name": "AuctionBeginsKasiusMonologue",
+    "description": "Kasius gives a grand speech as alien patrons arrive for the arena exhibition, building tension for Daisy's fate. Fitz makes a dramatic entrance, defying the scenario and hinting at a coming twist in the arena battles.",
+    "roles": [
+        "kasius",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "And you've dealt with our newest guest?"
+        },
+        {
+            "character": "Ava",
+            "line": "Your gracious host Kasius would like to say a few words of welcome."
+        },
+        {
+            "character": "Kasius",
+            "line": "It is truly my pleasure to invite you to this wondrous place, the last bastion of a species, a place I've been proud to call home for so long. You are the first to arrive for an exhibition of unbridled powers to excite the senses. All leading up to our main event. One powerful Inhuman, long thought gone, now here to enrich one lucky patron's life. Quake, Destroyer of Worlds. Someone, maybe someone in this room right now, will win this prize. Her power will be your power. So, are there any requests as we begin?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Forget your exhibition. She's the Destroyer of Worlds. She should fight to the death."
+        }
+    ]
+}

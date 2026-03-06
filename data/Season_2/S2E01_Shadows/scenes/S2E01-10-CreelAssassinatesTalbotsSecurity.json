@@ -1,0 +1,46 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "CreelAssassinatesTalbotsSecurity",
+    "description": "As Talbot is about to leave with his family, the S.H.I.E.L.D. team intervenes just in time to protect him from Creel, who tries to assassinate him for Hydra. May and the others fend off Creel, managing to keep Talbot and his family safe for now, but only narrowly. Creel eludes capture, raising the stakes further.",
+    "roles": [
+        "melinda_may",
+        "glenn_talbot",
+        "skye",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Watch your six!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Secure that bastard!"
+        },
+        {
+            "character": "Soldier",
+            "line": "Move, move, move!"
+        },
+        {
+            "character": "Hartley",
+            "line": "General, let's get you to cover, sir."
+        },
+        {
+            "character": "Soldier",
+            "line": "General! Go, go! General, we should get you somewhere safe. General?"
+        },
+        {
+            "character": "May",
+            "line": "Hi, again."
+        },
+        {
+            "character": "Talbot",
+            "line": "Son of a bitch."
+        }
+    ]
+}

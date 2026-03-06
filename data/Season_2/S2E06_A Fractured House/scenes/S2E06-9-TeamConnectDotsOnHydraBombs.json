@@ -1,0 +1,56 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 9,
+    "scene_name": "TeamConnectDotsOnHydraBombs",
+    "description": "Fitz, Simmons, and Mack work together in The Playground, connecting the origin of the splinter bombs to Hydra scientist Vincent Beckers, who is related to Julien Beckers. The revelation that Beckers' diplomatic gestures may be a trap sends Coulson into urgency mode to warn May's team and reroute them away from a deadly setup, further demonstrating the intelligence of the S.H.I.E.L.D. science team.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "antoine_triplett",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yes, theoretically, all those points have to be connected."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn, Fitz. You're right. You're right. Ah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why do you look so surprised? Well... Well, yeah. Well, I'd probably be surprised... Hey, Simmons. The explosives... Mack was just... he saw the, um..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, he kept mentioning backlogged files, and, you know, half the stuff he says is nonsense."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, it's not."
+        },
+        {
+            "character": "Mack",
+            "line": "Check this out. It turns out these bombs are actually from the 1940s, and they were developed by a HYDRA scientist that worked for the Red Skull."
+        },
+        {
+            "character": "Fitz",
+            "line": "The Red Skull. Not nonsense, and designer."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, and the actual designer of the bombs is a guy named..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Vincent Beckers. We need to find Coulson... now."
+        }
+    ]
+}

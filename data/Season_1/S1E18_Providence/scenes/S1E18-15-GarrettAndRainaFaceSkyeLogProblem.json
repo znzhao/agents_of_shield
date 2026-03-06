@@ -1,0 +1,53 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 15,
+    "scene_name": "GarrettAndRainaFaceSkyeLogProblem",
+    "description": "Back with the Hydra contingent, Raina reports to Garrett and Ward that Skye's hard drive from the S.H.I.E.L.D. Bus is protected with an auto-sequence to erase its data if accessed by anyone but her. Garrett angrily orders Ward to get close to Skye again to obtain the password, setting up the next phase of infiltration.",
+    "roles": [
+        "raina",
+        "john_garrett",
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "I've never been so happy to buy a man a steak dinner in my life."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait till you see the bill."
+        },
+        {
+            "character": "Garrett",
+            "line": "Why the long face?"
+        },
+        {
+            "character": "Raina",
+            "line": "There's a complication with the hard drive."
+        },
+        {
+            "character": "Garrett",
+            "line": "I don't like complications."
+        },
+        {
+            "character": "Raina",
+            "line": "This one involves Skye. We had three teams try to hack it, but she programmed it to erase all data if anyone other than her attempts to access it."
+        },
+        {
+            "character": "Ward",
+            "line": "Of course she did."
+        },
+        {
+            "character": "Raina",
+            "line": "In case it fell into the wrong hands, I guess."
+        },
+        {
+            "character": "Garrett",
+            "line": "You know what that means, Romeo."
+        }
+    ]
+}

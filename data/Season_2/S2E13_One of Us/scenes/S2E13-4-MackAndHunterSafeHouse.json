@@ -1,0 +1,73 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "MackAndHunterSafeHouse",
+    "description": "Mack checks in with Bobbi Morse from a safe house where he's holding Lance Hunter. Bobbi and Mack discuss the precariousness of their situation and the need to keep Hunter from revealing their secrets. Hunter shouts through the door, making his displeasure clear. The tension is palpable as Mack tries to calm Hunter without revealing their true agenda.",
+    "roles": [
+        "lance_hunter",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Where are you now?"
+        },
+        {
+            "character": "Mack",
+            "line": "I just made it to the nearest safe house."
+        },
+        {
+            "character": "Morse",
+            "line": "This is such a mess."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, a mess I didn't make, but I'm cleaning it up the best way I can. I wasn't gonna let him expose us."
+        },
+        {
+            "character": "Morse",
+            "line": "No, I-I know."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, so what now, Bobbi?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Mack, are you talking to Bobbi? Tell her I take it all back. All the “don't die out there...”"
+        },
+        {
+            "character": "Mack",
+            "line": "Sorry."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'd be better off if she had died out... Hope she rots in hell!"
+        },
+        {
+            "character": "Morse",
+            "line": "I never wanted this."
+        },
+        {
+            "character": "Mack",
+            "line": "No one did. But I got no exit strategy, and the longer I'm gone, the more questions Coulson's gonna have."
+        },
+        {
+            "character": "Morse",
+            "line": "We'll bring him in. Sit tight. I'll arrange an extraction."
+        },
+        {
+            "character": "Mack",
+            "line": "And you know where I'll be."
+        },
+        {
+            "character": "Morse",
+            "line": "And, Mack, get him a beer or something."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "MayKidnappedAtRadcliffeHouse",
+    "description": "Melinda May arrives at Dr. Holden Radcliffe's house on a routine mission but is quickly ambushed by AIDA at Radcliffe's instruction. May is knocked out and subjected to neural assessment, beginning her captivity. This sequence establishes the circumstances of May's abduction and replacement by an LMD.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "tense",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Sorry. Didn't think you'd get stuck on a milk run to Radcliffe's. We're gonna miss you in the field."
+        },
+        {
+            "character": "May",
+            "line": "I'll catch up. Can't let you have all the fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "When this is over, it's time. We are cracking that bottle."
+        },
+        {
+            "character": "May",
+            "line": "You don't have to twist my arm."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't dare. You might whip my ass."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Agent May. Director Mace, he... he knows that AIDA is... what AIDA is?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. He knows."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I wish I'd been there to explain. H-How did he take it?"
+        },
+        {
+            "character": "May",
+            "line": "He wants to use her on this, but concerned."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "“Concerned.” That's not a happy word. Did... Did he say if..."
+        },
+        {
+            "character": "May",
+            "line": "He wants to talk, has questions."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I don't like those words, either. I hear you're on your way to personally escort AIDA. Why?"
+        },
+        {
+            "character": "May",
+            "line": "Well, no one knows what she can do. And she saw the Darkhold."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, I could help with that. Once I've studied it, I-I'd be able to determine..."
+        },
+        {
+            "character": "May",
+            "line": "No. No. No one's touching it. When this is over, I'm destroying the book myself."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Because it's dangerous, yeah. I-I-I understand. You still need access to my apartment. Maybe I could, uh..."
+        },
+        {
+            "character": "May",
+            "line": "No, that's never been a problem for me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Right, right, right. Well, I'll reach out to AIDA, anyway, tell her to expect you. Be ready to help solve the current problem."
+        },
+        {
+            "character": "May",
+            "line": "Sure."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Okay."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, I want you to access your information cache. Locate the Sunset Protocol."
+        },
+        {
+            "character": "AIDA",
+            "line": "I have it, Doctor."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Activate it."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello, Agent May. I've been expecting you. Dr. Radcliffe gave me specific instructions. Happy to help. Allow me to retrieve the neural-assessment gauge."
+        },
+        {
+            "character": "May",
+            "line": "What's a neural-assessment gauge? Ohh."
+        },
+        {
+            "character": "AIDA",
+            "line": "I apologize, Agent May."
+        },
+        {
+            "character": "May",
+            "line": "Unh!"
+        },
+        {
+            "character": "AIDA",
+            "line": "Let's get you up to speed, shall we?"
+        }
+    ]
+}

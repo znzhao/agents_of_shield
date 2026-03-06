@@ -1,0 +1,158 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 6,
+    "scene_name": "FitzSimmonsLabAnalysis",
+    "description": "In the lab, Leo Fitz struggles with his cognitive faculties while working alongside (his apparent hallucination of) Jemma Simmons to analyze the metal sample. May checks in on their progress, and they discover that the metal quickly transforms back into blood, suggesting a connection to a powered individual. The team begins to piece together that the attacker is not merely bulletproof but possibly more.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You took the material to the lab? That's the top priority now."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. But I don't know at it'll get us."
+        },
+        {
+            "character": "May",
+            "line": "How's the mood in there today?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's as good as can be expected."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, now would be the time I'd have you test the resonant frequencies of the metal so that I could determine what properties we're dealing with. Fitz? Fitz, can you even hear me?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, Simmons, I can hear you. I'm trying to hear the bloody resonant frequency you keep going on about, but all I can hear is you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Calm down. I'm only asking. You haven't been able to isolate..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I haven't been able to isolate the... the, um... the..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Rate of oscillation."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. I was just about to say that, actually. And, no, I haven't because it keeps... um... What's the word again? Give me the word."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fluctuating."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. Good. Fine. Thanks. Go away."
+        },
+        {
+            "character": "Simmons",
+            "line": "Have you taken your medication?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hmm."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't. Don't. Please don't touch anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the cloaking technology for the plane. How's it coming?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Good. Slower than I'd like. I've had a few bumps, but it's... I'm close. And I don't need you mucking it up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, I'm trying to help."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. I know. But I also know how important cloaking is, okay? So I just need everybody to be... everybody to be... I just need everybody to be, um..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Patient."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "You need to be patient with yourself, Fitz. You're almost there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, I'm almost there."
+        },
+        {
+            "character": "May",
+            "line": "Any update on the metal we found?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah... Um, no. Actually, no. I'm just having a bit of trouble identifying the... a bit of trouble ... I'm having a bit of trouble identifying the material."
+        },
+        {
+            "character": "May",
+            "line": "Okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, so, this is the same lead that we use in our bullets, but there's... there is something... bleeding. Uh... Uh, okay. That's... are you... can you see that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Looks like flesh."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I see it. It's blood."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good. I mean, that's... what? That's weird."
+        },
+        {
+            "character": "May",
+            "line": "Can you figure out whose blood?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That shouldn't be too hard."
+        },
+        {
+            "character": "Fitz",
+            "line": "That shouldn't be too hard."
+        },
+        {
+            "character": "May",
+            "line": "I'll stay and help anyway."
+        }
+    ]
+}

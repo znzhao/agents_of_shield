@@ -1,0 +1,97 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and pragmatic S.H.I.E.L.D. agent with profound leadership skills honed through enduring complex internal betrayals and external threats. His personal history is marked by loss and secrecy, notably his mysterious resurrection and concealed loyalty to Nick Fury’s vision, which color his cautious trust and sometimes rigid command style. Despite his burdens, Coulson remains deeply compassionate and committed to protecting those under his charge, often navigating his own emotional struggles privately while striving to maintain team cohesion and pursue jeopardized goals against escalating Hydra dangers and superhuman threats. His interactions reflect a complex blend of principled resolve, protective instincts, and an evolving vulnerability as he balances personal connections with professional duties.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "build_team",
+        "goal": "Assemble and lead a capable team to handle emerging superhuman threats"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_team_and_foster_trust",
+        "goal": "Protect his team by fostering trust and transparency amid dangerous secrets and threats"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_civilians_from_escaped_dangerous_prisoners",
+        "goal": "Recapture escaped superpowered prisoners to protect civilians"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_14",
+      "context": "reflecting on personal sacrifice and deception for survival and protection",
+      "catch_phrase": "She said I never lied to her. Today, I did. But she's alive and safe."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_11",
+      "context": "revelation about the Clairvoyant’s true identity and S.H.I.E.L.D. betrayal",
+      "catch_phrase": "The Clairvoyant doesn't have abilities. He has security clearance. He's an agent of S.H.I.E.L.D."
+    }
+  ]
+}

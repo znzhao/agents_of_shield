@@ -1,0 +1,100 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 13,
+    "scene_name": "TheTruthAboutTobias",
+    "description": "Coulson, Skye, and the others deduce that Tobias, the dimensional entity, is not trying to hurt Hannah but has been seeking to protect her due to an obsession. Skye explains this to the rest of the team, piecing together past events, while May leads Hannah away to confront Tobias directly.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yes. I'll max the signal, and the transceiver will act as a trigger."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, fine. They only made 20, I think. Oh."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, we believe that this man is responsible for the blast?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye said she thinks he's the worker who filed all the reports."
+        },
+        {
+            "character": "Skye",
+            "line": "Tobias Ford. It looks like him."
+        },
+        {
+            "character": "Simmons",
+            "line": "It makes no sense for a man to complain about safety issues whilst causing them. Another theory is..."
+        },
+        {
+            "character": "Ward",
+            "line": "Theories don't matter. Only facts, and the fact is, a bullet will take you out of whatever world you're in. Any idea which direction May could've taken her?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll deploy the golden retrievers. They're in here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz! This is no time for childish nonsense like this!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Pranking was your idea. And obviously, I rigged this little beauty before I knew there was a dimension-jumping psychopath in the mix."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait, childish. This guy is childish."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you getting at?"
+        },
+        {
+            "character": "Hannah",
+            "line": "Tobias. Is that you?"
+        },
+        {
+            "character": "Skye",
+            "line": "He wanted her to notice him. Why would he file a complaint to her office when there was nothing wrong and then cause an actual safety issue himself?"
+        },
+        {
+            "character": "Simmons",
+            "line": "To get her fired?"
+        },
+        {
+            "character": "Skye",
+            "line": "To get her attention, to spend time with her. Think about it... he scared the guy who was harassing her at the airport. He tried to hit you with a cop car."
+        },
+        {
+            "character": "Coulson",
+            "line": "When we took her into custody."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, he's not trying to hurt her."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's trying to protect her."
+        },
+        {
+            "character": "Skye",
+            "line": "He likes her."
+        }
+    ]
+}

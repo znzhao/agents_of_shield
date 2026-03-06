@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 4,
+    "scene_name": "DaisyAndSimmonsPlanTheHack",
+    "description": "Daisy and Simmons, still tense from earlier, go over the plan to access the secure S.H.I.E.L.D. Inhuman database. Simmons must use her authority to plant Daisy’s flash drive rather than physically steal credentials. Demonstrating her rank, Simmons successfully orchestrates the hand-off, subverting the original heist plan and providing Daisy with access to the server. Their teamwork shows lingering trust despite high stakes.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Okay. Let's go over it one more time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that necessary?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, because we cannot afford to slip up. Okay. So, in that high-security building is one of the Inhuman registration information servers."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm aware of how my own agency operates, thank you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Every day at the same time, Agent Elizabeth Albee brings a drive with updated information to this location."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm to steal her I.D. badge..."
+        },
+        {
+            "character": "Daisy",
+            "line": "So I can clone it and put a fake identity on top of it. And then you're gonna take this flash drive..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Insert it into the server..."
+        },
+        {
+            "character": "Daisy",
+            "line": "And it'll give me remote access. Oh, there she is. Right on time. Okay, so we'll need to... Simmons. Simmons! What the hell is she doing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Nailed it."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do you mean you nailed it? What did you even do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I simply told Agent Albee that there was new information on the flash drive and she's going to deliver it with the rest. That should give us access."
+        },
+        {
+            "character": "Daisy",
+            "line": "And how did you get her to agree to that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, technically, as S.H.I.E.L.D.'s Special Advisor in Science and Technology, she works for me. I'm the boss."
+        }
+    ]
+}

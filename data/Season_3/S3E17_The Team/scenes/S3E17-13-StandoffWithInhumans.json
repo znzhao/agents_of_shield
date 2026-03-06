@@ -1,0 +1,217 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 13,
+    "scene_name": "StandoffWithInhumans",
+    "description": "Coulson orders all Inhumans into the common area for questioning. He reveals Hive's possible sway, leading to growing accusations and mistrust among the Secret Warriors. The emotional, suspenseful scene teeters on the edge of a full-blown panic as the team try to find out who among them could be infected, while S.H.I.E.L.D. prepares to contain them by force if necessary.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "lincoln",
+        "joey_gutierrez",
+        "elena_rodriguez",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Go into the common area. I'll brief everyone there in a few moments."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Are we in danger? What the hell?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go into the common area. That's an order."
+        },
+        {
+            "character": "Daisy",
+            "line": "You've kept us in the dark all day."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's a situation, Daisy. I need you to get your team to cooperate."
+        },
+        {
+            "character": "Elena",
+            "line": "Were we attacked?"
+        },
+        {
+            "character": "Mack",
+            "line": "Everything will be all right. I just need you to stay right where you are."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, be cool. Where's Joey?"
+        },
+        {
+            "character": "Dasiy",
+            "line": "I don't know. Coulson, you need to level with me right now."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to get you checked out. Hive can sway Inhumans. Your team may have been exposed in the rescue."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. Sway, like mind control?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One of you killed Malick. I'm trying to keep everyone safe, including you. Where's Joey?"
+        },
+        {
+            "character": "Daisy",
+            "line": "My team wouldn't do that."
+        },
+        {
+            "character": "Coulson",
+            "line": "They wouldn't have a choice. It's like an infection."
+        },
+        {
+            "character": "Mack",
+            "line": "I swear that's what I'm doing, Yo-Yo."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We saved your asses, and you come at us?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln. Why didn't you tell us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, stand down."
+        },
+        {
+            "character": "Coulson",
+            "line": "First, we get everyone in quarantine, and then we can talk."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not everyone. Anybody in here could have killed Malick, but you singled us out right away!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln, stop it!"
+        },
+        {
+            "character": "Joey",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Where the hell have you been?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "If we don't get these doors blocked, nobody's questions get answered!"
+        },
+        {
+            "character": "Elena",
+            "line": "Got it! Okay."
+        },
+        {
+            "character": "Joey",
+            "line": "Someone explain what's going on."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Malick's dead. They suspect us."
+        },
+        {
+            "character": "Joey",
+            "line": "Well, why would they think that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "They think Hive infected one of us while we were in that base."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Messed with our heads."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where were you?"
+        },
+        {
+            "character": "Joey",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Where were you, Joey?"
+        },
+        {
+            "character": "Joey",
+            "line": "The base went dark. I was looking for you. Infected?"
+        },
+        {
+            "character": "Elena",
+            "line": "That glass not gonna keep them out."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Right. How do we fix this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We stay calm, and we stick together."
+        },
+        {
+            "character": "Joey",
+            "line": "Why are they sure it's one of us?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Malick, whatever he said to Coulson has him spooked."
+        },
+        {
+            "character": "Joey",
+            "line": "But he could be wrong. I mean, they're taking his word for it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "What?"
+        },
+        {
+            "character": "Elena",
+            "line": "Screw S.H.I.E.L.D."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Jiaying was terrified of Hive returning. Now I can see why. You know Fitz-Simmons quarantined Lucio's body?"
+        },
+        {
+            "character": "Joey",
+            "line": "Why didn't they tell us sooner?"
+        },
+        {
+            "character": "Daisy",
+            "line": "If that's true, this is exactly why Coulson didn't say anything. Anybody has..."
+        },
+        {
+            "character": "Joey",
+            "line": "And if that is true, I don't want you telling me what to think. Any of you. We were all alone in that base. Any of you could be infected."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Any one of us. That includes you."
+        },
+        {
+            "character": "May",
+            "line": "They're ready to go. Or we can pump in sleeping gas if you give me 10."
+        }
+    ]
+}

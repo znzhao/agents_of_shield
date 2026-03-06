@@ -1,0 +1,46 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 15,
+    "scene_name": "QuakeVsSinaraArenaFinale",
+    "description": "The gala reaches its peak as Faulnak insists that Daisy must face a Kree warrior—Sinara—in the arena, rather than another Inhuman. Kasius switches Daisy’s inhibitor off, and the fight begins. Daisy uses her powers and signals to the others that it's time to strike. Simultaneously, Simmons wounds Kasius and Fitz attacks several guests, enabling Daisy’s escape.",
+    "roles": [
+        "kasius",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Now, one of the galaxy's deadliest forces. Yet tonight, she fights for your enjoyment. Dear friends, may I present to you, Quake, the Destroyer of Worlds."
+        },
+        {
+            "character": "Faulnak",
+            "line": "This puny girl is your Destroyer?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Your rush to judgment has always been a shortcoming, brother. Allow me to switch off the Destroyer's Inhibitor. Then you shall see her true nature. Of course, before I unleash her, we must take precaution. Would you care to give the opening commencement?"
+        },
+        {
+            "character": "Faulnak",
+            "line": "Seems your stray is done taking orders."
+        },
+        {
+            "character": "Daisy",
+            "line": "All right, you freaky blue bitch. Let's do this."
+        },
+        {
+            "character": "Daisy",
+            "line": "This is for Ben."
+        },
+        {
+            "character": "Kasius",
+            "line": "Guards! Guards, stop them."
+        }
+    ]
+}

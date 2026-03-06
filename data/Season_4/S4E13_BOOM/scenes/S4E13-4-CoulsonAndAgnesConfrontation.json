@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "CoulsonAndAgnesConfrontation",
+    "description": "Coulson and Mack approach Agnes at the café, revealing their knowledge of Radcliffe and that he modeled AIDA after her. Agnes is unsettled and makes it clear she doesn’t want to be involved with Radcliffe or S.H.I.E.L.D. Coulson attempts to persuade her, but she is determined to keep her distance.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "agnes_kitsworth"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Agnes",
+            "line": "Yeah, I know."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know because you've spent time in Majorca or because you know a thing or two about replicas?"
+        },
+        {
+            "character": "Agnes",
+            "line": "I'm sorry. Have we met?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet. But I know about the work you did with Holden Radcliffe."
+        },
+        {
+            "character": "Agnes",
+            "line": "Our work? You don't know anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then help me to understand."
+        },
+        {
+            "character": "Agnes",
+            "line": "Okay. I don't want anything to do with that man ever again. Understand? Now leave me alone."
+        },
+        {
+            "character": "Mack",
+            "line": "We're with S.H.I.E.L.D. We need to talk."
+        },
+        {
+            "character": "Coulson",
+            "line": "Show her."
+        },
+        {
+            "character": "Agnes",
+            "line": "Oh, my God. He actually did it."
+        }
+    ]
+}

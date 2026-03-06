@@ -1,0 +1,365 @@
+{
+    "season": 6,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "SimmonsMemoryOfFitzsDeath",
+    "description": "A doorway and Mack appear, manifesting Simmons’s memory of when Fitz’s body is returned to the Lighthouse. Simmons begs Fitz not to follow the memory, but he does so anyway and discovers the painful truth of his own counterpart’s death and Coulson’s passing. Overwhelmed by grief and paradoxes, Fitz finds comfort reliving a memory where they first became friends at the S.H.I.E.L.D. Academy.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Jemma."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "He's here. They brought him home."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's good to see you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please, not this memory."
+        },
+        {
+            "character": "Mack",
+            "line": "If you're ready to see him... Either way, we understand."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's going on, Mack?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, wait. Don't, um... I don't want you to see... Just let me explain first."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't... We can't just leave him like this."
+        },
+        {
+            "character": "May",
+            "line": "We're here for him now. Preparations are being made."
+        },
+        {
+            "character": "Elena",
+            "line": "Are they gonna tell his mother?"
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons has reservations."
+        },
+        {
+            "character": "Simmons",
+            "line": "No one knew what to say to me. And I didn't know how to tell you."
+        },
+        {
+            "character": "Fitz",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You said there would be paradoxes. This was one of them."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons needs to say goodbye. This isn't healthy. She... We need to do something... Um, have a service, something."
+        },
+        {
+            "character": "May",
+            "line": "We will. But what if she's right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "So, I made it to the future, and then I made the journey back?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It was a loop of the end of the world. And you died to help break it. You died a hero."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think I'm gonna pass out. Did... Did they... Did they understand?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I made quite a scene with Mack. He thought I'd lost my mind. I had."
+        },
+        {
+            "character": "Mack",
+            "line": "Even if it's true, what if she doesn't find him? I-It takes Heaven and Earth to..."
+        },
+        {
+            "character": "May",
+            "line": "Luckily, I know a Director who believes in those things."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack took your death very hard, demanded a ceremony. But he was also the first one to help me retrofit the Zephyr for the search. No. No, I don't need to see this part. I wanted to tell you the right way."
+        },
+        {
+            "character": "Daisy",
+            "line": "I thought you'd want his ring."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? Jemma, did you and I... Had I... Had I made that proposal to you before?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "I missed my own wedding."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, you just haven't had yours yet. Listen, I know it's a lot, but you have to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. No, I can't."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a miracle you survived. And there was a lot of death, yes, but there was beauty, too."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't. No, I can't. What, there's more death than this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you doing out of bed?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Had to see him."
+        },
+        {
+            "character": "Daisy",
+            "line": "He has to take care of himself."
+        },
+        {
+            "character": "May",
+            "line": "You know you'd do the same thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's wrong with Coulson? Why are they talking about him like that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, Fitz, he was sick for a long time. He... He hid it from us all."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's... That's too much. I got... I got to get out of here. That's too much."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's out there, isn't he?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then get to work."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Daisy",
+            "line": "We could use your skills. No alien messes with us when we have you."
+        },
+        {
+            "character": "Elena",
+            "line": "I can't leave Mack right now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but the way things ended, it might be good to get away."
+        },
+        {
+            "character": "Simmons",
+            "line": "Did you hear that?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, but it's not about that. He's not the same anymore. Something's going on. I can feel it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait... right. This is a memory. Why this moment?"
+        },
+        {
+            "character": "Elena",
+            "line": "The stress is getting to him."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're late."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Good to see you, too."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no, s-sorry. It's just ‘cause you said you were gonna come at 9:00, and, uh... uh, it's 9:24, and so I thought you blew me off."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I ran into Professor Weaver on the quad. She trapped me in a good conversation."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Yeah, she does... she can... Well, she does that. Um... Sorry. Just... Place is a bit of a mess."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is it? You should see my room."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. I mean, yeah, whenever. If that happens. I don't care. Thanks for... Thanks for coming over."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, you wanted my help with a problem?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, yeah, sort of. Well, I mean, I don't really need your help. I can solve it by myself. Just... In lab, you seem like a good sounding board."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sounding board?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Just means to bounce ideas off."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, I'm good at reflecting your ideas back at you, like a wall... Like a thick wall."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ohh. No, no, what I mean is you're good at clarifying which ideas are, uh, heading in the right direction and mapping consequential results."
+        },
+        {
+            "character": "Simmons",
+            "line": "For an organized person, your thoughts are a bloody mess."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, um... I-I-I think... I think I need some help clearing them up. I just... I haven't slept."
+        },
+        {
+            "character": "Simmons",
+            "line": "And what problem are we solving tonight?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That depends. Whose memory is this, yours or mine?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We share this memory."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, ‘cause I remember this being the night where I went from being excruciatingly uncomfortable in your presence to... perfectly at ease."
+        },
+        {
+            "character": "Simmons",
+            "line": "I remember it as the night I put you in the friend zone. And I also remember how manic you were and thinking that genius is just a tick away from madness."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, let's not talk about madness. I'm barely holding it together."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can see that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, I'm working on a problem to try and get out of this prison, and the only way to do that is to solve time. And then I think about the hell that you went through and the pain of not being there."
+        },
+        {
+            "character": "Simmons",
+            "line": "Slow down, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "And if an entire race of Chronicoms is feeling that and we can stop it, then... then... Then maybe we should. Take control of time, undo whatever we want."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, slow down! This is why I was careful telling you everything. Your mind is... It's been through a lot..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "...and I'm afraid, under too much pressure..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, what, I'll crack? That's ludicrous."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know you've been hearing him. You had a pretty bad mental break when you got back."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right, well... well... well, why don't you just pi... Pile it all on? That wasn't me."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's what I'm afraid of. I know the Framework stuck with you. You try to ignore it and push it down."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm perfectly... I'm perfectly... I'm perfectly in control of myself."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's been trapped inside your mind."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, stop."
+        },
+        {
+            "character": "Simmons",
+            "line": "And now we're trapped inside your mind with him. Listen. Leopold is coming."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's coming for us."
+        }
+    ]
+}

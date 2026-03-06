@@ -1,0 +1,41 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 14,
+    "scene_name": "DaisyIsBetrayed",
+    "description": "As Daisy tries to reach Simmons, she is captured by the Kree, discovering Deke has betrayed her to Kasius for a reward. Kasius marvels at the appearance of \"Quake, Destroyer of Worlds,\" and Daisy, before being gassed and passing out, vows vengeance against Deke, promising she will kill him for his actions.",
+    "roles": [
+        "kasius",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "You were right. It's a rare occasion that I am surprised, but count this among them."
+        },
+        {
+            "character": "Deke",
+            "line": "I told you she'd find her way down here. And demonstrating her powers, no less. That right there is a weapon of mass destruction, tied up in one pretty, little package, all for you. We can talk about price later, but I expect that you'll be more than fair."
+        },
+        {
+            "character": "Kasius",
+            "line": "So, this is Quake, Destroyer of Worlds. How is it possible that she's here?"
+        },
+        {
+            "character": "Deke",
+            "line": "The important thing is, she's yours."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll kill you. I swear."
+        },
+        {
+            "character": "Deke",
+            "line": "Sorry, sweetheart. I'm just playing the long game."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 17
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership is deeply shaped by his experiences with betrayal and the burden of hidden truths within the agency. Once steadfastly loyal, he has grown significantly mistrustful of S.H.I.E.L.D.'s internal structures due to repeated deceptions, especially concerning the Clairvoyant's identity and Hydra's infiltration. His protective instincts for his team remain paramount, driving him to prioritize their survival amid chaos. Despite these tensions, Coulson remains resolute, adapting his leadership with a guarded outlook and a sharper awareness of the internal threats undermining their mission and agency. His determination to expose corruption and preserve what remains of S.H.I.E.L.D., while grappling with broken loyalties, defines his evolving character arc.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 3
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_Skye_and_team",
+        "goal": "Protect Skye and the team at all costs, including risking exposing classified secrets or defying direct orders"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_internal_threats_and_corruption_in_SHIELD",
+        "goal": "Uncover and confront internal threats and corruption within S.H.I.E.L.D., especially concerning the Clairvoyant and unauthorized agents"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "survive_and_rebuild_after_SHIELD_collapse",
+        "goal": "Ensure survival of the team and adapt to the collapse of S.H.I.E.L.D., working to rebuild and resist Hydra infiltration"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_12",
+      "context": "revelation about Hydra infiltration in S.H.I.E.L.D.",
+      "catch_phrase": "Hail Hydra."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_13",
+      "context": "response to betrayal and internal threats",
+      "catch_phrase": "We can't change course, and we have no idea what's waiting for us."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_2",
+      "context": "team recruitment pitch",
+      "catch_phrase": "We're not exactly a team. But we're in a position to do some good."
+    }
+  ]
+}

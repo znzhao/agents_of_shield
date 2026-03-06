@@ -1,0 +1,77 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 3,
+    "scene_name": "RecoveryAndIndexing",
+    "description": "On the Playground, Simmons checks Kara's brain scans and confirms that HYDRA's influence has been erased. Fitz and Simmons discuss Simmons' undercover work. Meanwhile, Skye reassures Lincoln, who has just awakened, and reassures him of his safety with S.H.I.E.L.D. Lincoln is wary, fearing S.H.I.E.L.D.'s discovery of Afterlife will bring danger.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "She's been in there every day. You think she'll stay when he wakes up?"
+        },
+        {
+            "character": "Simmons",
+            "line": "She says she wants to take him home, whatever that means. She won't say much else about it, not to me, anyway. You can go ahead and take that off now, Agent Palamas. Thanks. Hmm. Your brain scans look rather normal, considering."
+        },
+        {
+            "character": "Kara",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you'll still have some memory gaps, obviously, but any part of the HYDRA indoctrination that was affecting your actions is gone. Your mind's your own again."
+        },
+        {
+            "character": "Kara",
+            "line": "Thank you, both of you. Honestly, I think knowing Bakshi's gone has helped more than anything. You know as well as I do what a monster he was. You were undercover at HYDRA with Agent Morse, weren't you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, sort of. I didn't know she was there at the time. She had very dark hair. But she did save my life when it came..."
+        },
+        {
+            "character": "Skye",
+            "line": "Hi. It's okay. I'm here. You're safe now. Added bonus, you're not naked with needles poking out of your skin."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Skye, why are we... No."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. Uh... uh, it's okay. You can trust them. They're my friends. They helped save you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You never should have come for me."
+        },
+        {
+            "character": "Skye",
+            "line": "I had to. Jiaying wouldn't allow it if I..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "There's a reason for that. The only thing that's kept us safe all these years is that we were a secret. Now SHIELD knows we exist. And they won't stop till they find Afterlife."
+        },
+        {
+            "character": "Michael",
+            "line": "Blue light? Really?"
+        },
+        {
+            "character": "Raina",
+            "line": "Spilling out of your son, from every pore. He'll go through the mist when he comes of age, Michael, and he'll be beautiful."
+        },
+        {
+            "character": "Michael",
+            "line": "Thank you."
+        }
+    ]
+}

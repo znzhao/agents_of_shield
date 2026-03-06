@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 8,
+    "scene_name": "DaisyConfrontsCoulson",
+    "description": "Daisy and Coulson have a private, emotional confrontation about her doubts and her inability to lead without him. She recalls how much Coulson changed her life, insisting that he is S.H.I.E.L.D.'s true symbol. Their close bond and sense of loss are at the heart of this melancholic exchange.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I'm gonna go check on Daisy."
+        },
+        {
+            "character": "May",
+            "line": "You did this wrong, Phil. You put too much on her today. You should have told us."
+        },
+        {
+            "character": "Daisy",
+            "line": "I... I can't do ‭what you're asking of me. I can't do it."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've always been capable of more than you imagined."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. Not without you. You found me, alone in an alley, and you... you gave me everything. A home, a-a belief, solid ground to stand on. But that was all you. You are what I believe in."
+        },
+        {
+            "character": "Coulson",
+            "line": "You believe in yourself, and you should."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, if you want a symbol? You are the symbol. There's no S.H.I.E.L.D. without you. ‭Th-There's nothing without you. There's..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come here."
+        }
+    ]
+}

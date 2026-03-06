@@ -1,0 +1,128 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 16,
+    "scene_name": "SHEILDReturnsVictoryAndLoss",
+    "description": "Back at the Playground, the S.H.I.E.L.D. team regroups with some captured Hydra technology but with the loss of Donnie Gill. Coulson confronts Fitz about nearly killing Ward and explains Simmons’ undercover assignment, easing Fitz’s mind about her absence. The emotional fallout of the mission, the high price of fieldwork, and the burden of secrets weigh on the team.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "melinda_may",
+        "skye",
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Nice payload. Too bad we couldn't make off with the whole cargo ship."
+        },
+        {
+            "character": "Mack",
+            "line": "Want to take a bet how much tech's in the cargo?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Not gonna sucker me into doing your inventory, Mack. Good try, though."
+        },
+        {
+            "character": "May",
+            "line": "Trip, have you seen Skye? Upstairs."
+        },
+        {
+            "character": "Hunter",
+            "line": "In case you're wondering, I'm all right. Nasty-looking bruise on my shoulder. Hurts like hell, but I deserved it."
+        },
+        {
+            "character": "May",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, we're even? Right?"
+        },
+        {
+            "character": "May",
+            "line": "We are."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, bloody hell."
+        },
+        {
+            "character": "May",
+            "line": "What are you doing in here?"
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know. It reminds me of before."
+        },
+        {
+            "character": "May",
+            "line": "Should replace the glass if we're gonna take her out regularly."
+        },
+        {
+            "character": "Skye",
+            "line": "I've been monitoring Moroccan law-enforcement channels. They still haven't found Donnie Gill's body yet."
+        },
+        {
+            "character": "May",
+            "line": "You okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. I get why Coulson kept what Simmons was doing from us. I understand he's protecting her, making sure no one compromises her mission, but you knew?"
+        },
+        {
+            "character": "May",
+            "line": "I knew."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm scared for her. Simmons in Hydra? She's a terrible liar. I'm serious. I love her, but her trying to lie... it is a horror show."
+        },
+        {
+            "character": "May",
+            "line": "Maybe before, but not anymore. She can handle it. She's good. She's not the only one."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should talk. First of all, I want you to know that I see your progress. You're an important part of this team, and I don't want you to forget that. But I saw the recording. Your conversation with Ward. You almost killed him."
+        },
+        {
+            "character": "Fitz",
+            "line": "But I didn't. I'm not a killer."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't look at him. I hate that he's here. But we barely know anything about Hydra. I need to do whatever it takes to understand the people we're fighting. Ward is one way I'm trying to do that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you should have told me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe. I didn't want to add to what you were already dealing with."
+        },
+        {
+            "character": "Fitz",
+            "line": "And is, um... is there anything... is there anything more?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That I'm keeping from you? Yeah. I'm director. There's a hell of a lot more. But there is one other thing you should know. Simmons is on an assignment. That's why she hasn't been in contact. That's why she left."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hmm. And, um... did she ask to go on the assignment? Did she want to leave?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What she's doing is very important."
+        }
+    ]
+}

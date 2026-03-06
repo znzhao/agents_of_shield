@@ -1,0 +1,64 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 17,
+    "scene_name": "CoulsonPassesTheTorchToDaisy",
+    "description": "Coulson and Daisy discuss her new leadership role as head of a team of powered individuals. Coulson gives Daisy a file labeled 'Caterpillars,' signifying the start of a new initiative for powered people within S.H.I.E.L.D. They reflect on the need for secrecy and the consequences that result from their actions, looking ahead with a mixture of hope and uncertainty.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Thank you for doing that for him. I know aspects of the Tahiti program don't sit well with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "This does."
+        },
+        {
+            "character": "Daisy",
+            "line": "He has a lot to give, and now a way to give it."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what about you? Are you ready to refocus your energies?"
+        },
+        {
+            "character": "Daisy",
+            "line": "A team centered around people with powers? How many on the list?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Right now, just you. We'll take it slow."
+        },
+        {
+            "character": "Daisy",
+            "line": "I've thought a lot about it."
+        },
+        {
+            "character": "Coulson",
+            "line": "And?"
+        },
+        {
+            "character": "Daisy",
+            "line": "And my mother was right about one thing, people like me need to be kept a secret, not like the Avengers, out in the open. If we do this, we need to be..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Anonymous. That's the idea. But it's not if we do this. We have to do this. We don't have a choice. It may feel like things have cooled down right now, but this... This is my permanent reminder that we'll always be paying the price, that we'll never get ahead of the consequences that I, that you, that S.H.I.E.L.D. have set in motion."
+        },
+        {
+            "character": "Daisy",
+            "line": "Like a ripple in the water."
+        },
+        {
+            "character": "Coulson",
+            "line": "But this ripple won't fade. It'll grow and grow until it's a tidal wave."
+        }
+    ]
+}

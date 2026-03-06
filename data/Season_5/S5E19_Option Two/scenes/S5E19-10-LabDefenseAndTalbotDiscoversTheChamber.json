@@ -1,0 +1,113 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 10,
+    "scene_name": "LabDefenseAndTalbotDiscoversTheChamber",
+    "description": "In the laboratory, Simmons, Talbot, Davis, and Piper make preparations to defend the gravitonium from the Remorath onslaught. Simmons tries to organize the defense but is interrupted when Talbot, determined to redeem himself, discovers the Particle Infusion Chamber. Realizing its potential, he suddenly knocks Simmons out with an I.C.E.R. and prepares to use the chamber on himself. The situation is tense, with the outcome uncertain.",
+    "roles": [
+        "jemma_simmons",
+        "glenn_talbot",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Piper",
+            "line": "That is insane. I mean, it's a miracle you survived all that with just one scar?"
+        },
+        {
+            "character": "Davis",
+            "line": "Yeah."
+        },
+        {
+            "character": "Piper",
+            "line": "You tell everyone that story?"
+        },
+        {
+            "character": "Davis",
+            "line": "I don't think they care."
+        },
+        {
+            "character": "Simmons",
+            "line": "Piper, ICERs won't work."
+        },
+        {
+            "character": "Piper",
+            "line": "So, no modern weapons, but yes to '70s era camping equipment?"
+        },
+        {
+            "character": "Simmons",
+            "line": "'Fraid so."
+        },
+        {
+            "character": "Elena",
+            "line": "We saw them. They cut off our way to Control. We had nowhere else to go."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, do you copy?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, Fitz, I think we're pinned down. We're going to have to make our own stand here."
+        },
+        {
+            "character": "Fitz",
+            "line": "They'll be coming for the gravitonium."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry, Jemma. I never should've left your side."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait, Deke. Has he blinked out of existence?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, he's still here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then we're good. You heard him, they're coming after us."
+        },
+        {
+            "character": "Elena",
+            "line": "Okay. Davis, Piper, we're on point. Simmons, you stay here and defend the lab, and if it comes to it, the gravitonium."
+        },
+        {
+            "character": "Talbot",
+            "line": "What about me? Take the cuffs off. I can fix this."
+        },
+        {
+            "character": "Davis",
+            "line": "You just stay back."
+        },
+        {
+            "character": "Elena",
+            "line": "Okay."
+        },
+        {
+            "character": "Talbot",
+            "line": "Looks like you and I are the last line of defence."
+        },
+        {
+            "character": "Mack",
+            "line": "Thought you might need an escort."
+        },
+        {
+            "character": "Deke",
+            "line": "I think we can handle ourselves. Actually, it was a nice gesture."
+        },
+        {
+            "character": "Fitz",
+            "line": "Go. Go!"
+        }
+    ]
+}

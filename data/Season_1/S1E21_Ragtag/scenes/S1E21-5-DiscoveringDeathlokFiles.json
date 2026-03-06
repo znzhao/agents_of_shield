@@ -1,0 +1,36 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 5,
+    "scene_name": "DiscoveringDeathlokFiles",
+    "description": "Skye's tech work pays off as May and Coulson locate Project Deathlok's files, which reveal that John Garrett was the first Deathlok test subject in 1990. The team moves quickly, tossing the crucial files out of a window for FitzSimmons and Trip to retrieve, demonstrating teamwork under pressure as the heist escalates.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Hey, Coulson. Mike Peterson's file."
+        },
+        {
+            "character": "Coulson",
+            "line": "How can this all be project Deathlok? 1990? How far back does this thing go? Garrett was the first Deathlok. Let's go. Skye, Trip, get ready for a large file transfer."
+        },
+        {
+            "character": "Skye",
+            "line": "How large?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Back it up!"
+        }
+    ]
+}

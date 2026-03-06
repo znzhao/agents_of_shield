@@ -1,0 +1,81 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 11,
+    "scene_name": "PlanToRescueBobbiAndHunter",
+    "description": "Back on Zephyr One, Mack, Daisy, Joey, and Elena coordinate a plan to rescue Bobbi and Hunter. They bond with Elena, discussing the nature and limits of her powers, and how she can help the mission. Mack reassures her about faith and purpose, strengthening their trust.",
+    "roles": [
+        "alphonso_mackenzie",
+        "joey_gutierrez",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Uh, Joey's here to, um... Here's the thing. It's not something I talk about, but like you, I rely on my faith. And somehow, I never made the connection till you said it, but... maybe these powers, these gifts that you have, that Daisy has, maybe they're not random. Maybe it's part of a plan."
+        },
+        {
+            "character": "Joey",
+            "line": "She believes she's meant to do good with these gifts."
+        },
+        {
+            "character": "Mack",
+            "line": "We believe the same thing. We need to help each other, to stop them."
+        },
+        {
+            "character": "Joey",
+            "line": "She's in."
+        },
+        {
+            "character": "Daisy",
+            "line": "How do your powers work?"
+        },
+        {
+            "character": "Joey",
+            "line": "It's connected to her pulse."
+        },
+        {
+            "character": "Mack",
+            "line": "What does that mean? What's the radius on her powers?"
+        },
+        {
+            "character": "Joey",
+            "line": "As far as she can go in one heartbeat."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're my new best friend."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Here. Two figures, not moving but alive. Assuming Bobbi and Hunter. The other figures moving in the station, assume bad guys."
+        },
+        {
+            "character": "Daisy",
+            "line": "One of them has powers, so best we avoid him."
+        },
+        {
+            "character": "Mack",
+            "line": "To that end..."
+        },
+        {
+            "character": "Mack",
+            "line": "At S.H.I.E.L.D., we do better than duct tape."
+        },
+        {
+            "character": "Daisy",
+            "line": "Joey, you seeing this?"
+        },
+        {
+            "character": "Joey",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Daisy",
+            "line": "Take care of it."
+        }
+    ]
+}

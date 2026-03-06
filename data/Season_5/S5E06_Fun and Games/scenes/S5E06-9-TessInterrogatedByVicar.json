@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 9,
+    "scene_name": "TessInterrogatedByVicar",
+    "description": "Tess is confronted by the Vicar, who suspects her of hiding Flint. Tess attempts to cover their tracks, but the threat to Flint remains. The scene illustrates how dangerous it is to harbor an Inhuman.",
+    "roles": [
+        "tess",
+        "flint"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "The Vicar",
+            "line": "Have you seen the boy?"
+        },
+        {
+            "character": "Tess",
+            "line": "Flint? Mm. Can't say I have. He's a total floor rat. He could be anywhere."
+        },
+        {
+            "character": "The Vicar",
+            "line": "Or you could be hiding him."
+        },
+        {
+            "character": "Tess",
+            "line": "Why would I do that?"
+        },
+        {
+            "character": "The Vicar",
+            "line": "I saw you together at the ceremony, offering the boy last words."
+        },
+        {
+            "character": "Tess",
+            "line": "Listen, Flint, he gets me things no one else can. Giving the kid a pep talk? That was me just keeping my business relationship on the steady."
+        },
+        {
+            "character": "The Vicar",
+            "line": "If I find you're keeping things from me, there will be consequences."
+        },
+        {
+            "character": "Tess",
+            "line": "Understood. We done here?"
+        }
+    ]
+}

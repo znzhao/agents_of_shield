@@ -1,0 +1,68 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 5,
+    "scene_name": "RobbieAndDaisyIsolation",
+    "description": "Robbie, frustrated, finds Daisy on an isolated part of the Zephyr. They share a tense conversation about trust, vengeance, and the cost of their choices, emphasizing each's struggle to connect to the team and cope with their burdens.",
+    "roles": [
+        "robbie_reyes",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Robbie",
+            "line": "I need to get off this plane now."
+        },
+        {
+            "character": "Daisy",
+            "line": "That should put you in... rural Utah. And you think you're pissed off now."
+        },
+        {
+            "character": "Robbie",
+            "line": "This is no joke. All right? I should be down there, getting answers, my way."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, yeah? How you gonna do that? Cracking skulls?"
+        },
+        {
+            "character": "Robbie",
+            "line": "It's worked so far."
+        },
+        {
+            "character": "Daisy",
+            "line": "Really?"
+        },
+        {
+            "character": "Robbie",
+            "line": "I've been careful. I've never been caught, not even a parking ticket. Then you show up, and you bring S.H.I.E.L.D. with you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Careful? Really? You've been murdering people while possessed and on fire."
+        },
+        {
+            "character": "Robbie",
+            "line": "You don't know what you're talking about."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know you're settling scores, hoping that thing will go away. How's that going for you? Look, Robbie, I get that this is personal for you. But if you want answers, you need to trust S.H.I.E.L.D."
+        },
+        {
+            "character": "Robbie",
+            "line": "You don't even trust them. Why else are you up here hiding from them?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I keep my distance because it's what's best... for everyone."
+        },
+        {
+            "character": "Robbie",
+            "line": "I'm starting to see why."
+        }
+    ]
+}

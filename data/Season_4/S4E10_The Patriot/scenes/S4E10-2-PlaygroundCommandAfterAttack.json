@@ -1,0 +1,78 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "PlaygroundCommandAfterAttack",
+    "description": "At the Playground, Simmons and May brief Talbot on the situation as they deal with the aftermath of the attack. Talbot asserts temporary authority, issuing assignments and preparing to interrogate Zaikin, while May is ordered to assist. Simmons is skeptical of Talbot's approach and attempts to maintain order and prioritize the missing agents. Talbot's brusque command style causes friction with the team.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "glenn_talbot",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "What is that doing out?"
+        },
+        {
+            "character": "Crawford",
+            "line": "Um, Agent Fitz asked us to keep it out for a few tests."
+        },
+        {
+            "character": "Simmons",
+            "line": "The only test anyone should be running is how best to destroy it. That thing killed Nathanson. Could've killed us all. I'll talk to Agent Fitz, make sure he hasn't forgotten that. And in the meantime, don't go near it. What now?"
+        },
+        {
+            "character": "May",
+            "line": "How did the shooter get close enough?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Talbot",
+            "line": "There was an assassination attempt on Director Mace."
+        },
+        {
+            "character": "Simmons",
+            "line": "What? Is he..."
+        },
+        {
+            "character": "May",
+            "line": "He's fine. Coulson and Mack are following protocol, taking him to a safe house. What do we know about this guy Daisy grabbed? Who's he working for?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Would you stop hounding me with questions? Get in there and ask him yourself. I need you in the interrogation room. I don't trust Little Miss Richter Scale to handle it herself."
+        },
+        {
+            "character": "May",
+            "line": "I take orders from the Director, not you."
+        },
+        {
+            "character": "Simmons",
+            "line": "May's right. Maybe we should check with Director Mace."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, he's not gonna get here in time, so I'm taking the reins. And here's how it's gonna go down. You, get Lee Harvey whatever to talk. You, find out if Burrows was on the Quinjet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Talbot",
+            "line": "And you. Hey! With the hair. Get me a coffee. And don't forget the French vanilla creamer this time. Agent May, with the possible exception of my mother, you are the single most intimidating woman I have ever met. We need answers. You can get them."
+        },
+        {
+            "character": "May",
+            "line": "Fine."
+        }
+    ]
+}

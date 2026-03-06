@@ -1,0 +1,210 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 4,
+    "scene_name": "FitzMackCloakingStruggles",
+    "description": "At the Playground, Mack, Triplett, Skye, and Fitz work on the cloaking hardware. Fitz, still struggling with his cognitive issues, becomes frustrated when he can't articulate his thoughts. The team tries to support him, though there's concern over his ability to contribute. Mack attempts to encourage Fitz and later tries to collaborate with him further, while Skye and Triplett show visible concern for their friend's state.",
+    "roles": [
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "So, this is cloaking hardware."
+        },
+        {
+            "character": "Triplett",
+            "line": "Uh-huh."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's take a peek under the hood."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz would be crushed if he saw this. He's been working on cloaking since before Simmons took off."
+        },
+        {
+            "character": "Triplett",
+            "line": "Still can't believe she abandoned him like that."
+        },
+        {
+            "character": "Skye",
+            "line": "She abandoned all of us. But Fitz has been clinging to his work like a lifeline, and..."
+        },
+        {
+            "character": "Triplett",
+            "line": "Maybe we shouldn't tell him."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson wants a retro version of this for the bus. He said that no one knows the avionics on this thing like Fitz."
+        },
+        {
+            "character": "Triplett",
+            "line": "Think he can handle it?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know. Why don't you ask him?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, Fitz."
+        },
+        {
+            "character": "Triplett",
+            "line": "Hey, what's up, man?"
+        },
+        {
+            "character": "Skye",
+            "line": "How are you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "So that's the, um... that's the..."
+        },
+        {
+            "character": "Mack",
+            "line": "Cloaking, in all its glory. You know, you weren't that far off. Check out the transmitter coil."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, to negate the... the resonant... the... the... the resonant...? No, um... the, uh..."
+        },
+        {
+            "character": "Skye",
+            "line": "I-It's okay. Just take your time."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, what he's trying to say is there's an audio component to cloaking that inverts sound waves, too."
+        },
+        {
+            "character": "Triplett",
+            "line": "Like noise-canceling headphones?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, same concept. Okay. You think you can give me a hand with this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, u-under the circumstances, uh... well, the trick is you would... n... the trick ... the trick would be in the meta-materials. Uh, oh! Yeah, but you'd have to alter the, um... Uh..."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz, it..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, could everyone just stop talking for one second? No, sorry. Gonna have to go."
+        },
+        {
+            "character": "Skye",
+            "line": "It's like sometimes he's the same old Fitz, and other times..."
+        },
+        {
+            "character": "Triplett",
+            "line": "Not."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll take your word for it. Meantime, I'm still gonna need an extra pair of hands. Is everyone back from the mission?"
+        },
+        {
+            "character": "Skye",
+            "line": "Not everyone."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sierra Leone, three years ago. Ring a bell? How about Basra, ‘08? Operation Panther's claw? Come on, lieutenant. Tell me the stories are true."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm not a lieutenant anymore, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "Why is that, son? Your record? Five commendations for distinguished service..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Merits for basket weaving, pottery. Don't forget those."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm just trying to figure out how a guy like you, one of the SAS's finest, winds up running with a bunch of mouth-breathing mercs."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why does any man do anything, general? I met a girl."
+        },
+        {
+            "character": "Talbot",
+            "line": "Look, Hunter, I think we're pretty like-minded guys, so let's don't waste each other's time. You know what I'm after."
+        },
+        {
+            "character": "Hunter",
+            "line": "Guessing it's not Carl Creel."
+        },
+        {
+            "character": "Talbot",
+            "line": "Creel's small-time. Think big fish."
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson."
+        },
+        {
+            "character": "Talbot",
+            "line": "Coulson. He's a vigilante... a zealot who'll risk anything to further his own agenda. But lucky for you, I've got a senator with very deep pockets that wants him. So you go ahead. Name your price."
+        },
+        {
+            "character": "Hunter",
+            "line": "You must be joking."
+        },
+        {
+            "character": "Talbot",
+            "line": "I don't have a sense of humor."
+        },
+        {
+            "character": "Hunter",
+            "line": "And if I don't give you Coulson, what? I go for a swim? You should know I've been helped out of a chopper before, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "Coulson broke into a secure government facility, he... he let a psychopath on the loose, sacrificed the lives of his own men... your friends. For what? Hunter, I'm not here to play bad cop. I shouldn't have to."
+        },
+        {
+            "character": "Hunter",
+            "line": "I want $2 million."
+        },
+        {
+            "character": "Talbot",
+            "line": "Done."
+        },
+        {
+            "character": "Hunter",
+            "line": "And a proper burial."
+        },
+        {
+            "character": "Talbot",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Hunter",
+            "line": "For Hartley. She's a S.H.I.E.L.D. agent. She'll be branded a terrorist after what you said on tv, probably dumped in a pauper's grave, her family wondering what happened to her. They deserve better."
+        },
+        {
+            "character": "Talbot",
+            "line": "She deserves better. I'll make sure she gets it."
+        }
+    ]
+}

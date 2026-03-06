@@ -1,0 +1,67 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "HunterDeflectsDuval",
+    "description": "Back in the interrogation room, Hunter deflects Duval's questioning with sarcasm and wit. Despite being confronted with evidence and pressed for a confession, Hunter maintains his concocted story about foraging for mushrooms in Siberia, further frustrating his interrogator.",
+    "roles": [
+        "lance_hunter"
+    ],
+    "vibe": "comedic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Duval",
+            "line": "I have to say, I have never encountered someone like you."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, why, thank you."
+        },
+        {
+            "character": "Duval",
+            "line": "Someone who has the ability to spout absolute nonsense with such ease."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's not nonsense. It's the truth. Bobbi and I were on holiday, picking mushrooms."
+        },
+        {
+            "character": "Duval",
+            "line": "In the woods of Siberia in the dead of Winter."
+        },
+        {
+            "character": "Hunter",
+            "line": "Do you know a better place to find the jumbo chaga mushroom? Because I certainly do not."
+        },
+        {
+            "character": "Duval",
+            "line": "You were caught with a weapon, standing over a dead man."
+        },
+        {
+            "character": "Hunter",
+            "line": "An unfortunate circumstance."
+        },
+        {
+            "character": "Duval",
+            "line": "Who ordered the assassination?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Assassination? Are you joking?"
+        },
+        {
+            "character": "Duval",
+            "line": "You broke in to a top-secret Russian facility."
+        },
+        {
+            "character": "Hunter",
+            "line": "We were accosted in the woods by some ham-fisted, dare I say, drunken soldiers, who dragged us into this entire mess. All we did was try to get out of it. We're the victims here, mate. You want to know the key to a good mushroom soup? Dried porcinis."
+        },
+        {
+            "character": "Hunter",
+            "line": "Quite pretty, in its own way."
+        }
+    ]
+}

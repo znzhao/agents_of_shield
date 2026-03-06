@@ -1,0 +1,25 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 2,
+    "scene_name": "AlaskaBaseDiscovery",
+    "description": "S.H.I.E.L.D. arrives at Ivanov's abandoned hideout in Nome, Alaska. Coulson, Daisy, Mack, and the team investigate a room plastered with images and evidence of Coulson's missions over the years. Daisy finds a photo of a Russian mining facility owned by Ivanov, which Coulson recognizes from his past. This discovery points the team toward their next destination.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What the hell is this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's you."
+        }
+    ]
+}

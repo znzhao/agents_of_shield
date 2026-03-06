@@ -1,0 +1,116 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "AgentsRegroupAndATCUSpeech",
+    "description": "At the Playground, the S.H.I.E.L.D. agents regroup and watch President Ellis announce the formation of the ATCU, a government task force to deal with alien threats in S.H.I.E.L.D.'s absence. The mood is somber, with Joey expressing apprehension but considering acceptance of his new identity. Mack and Daisy reflect on events, while Bobbi and Hunter discuss their relationship and future plans.",
+    "roles": [
+        "joey_gutierrez",
+        "skye",
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "lance_hunter",
+        "phil_coulson"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Want to tell me why you're not speaking to me?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Because you're not supposed to see the bride on the wedding day. So, are we gonna do this or what?"
+        },
+        {
+            "character": "Morse",
+            "line": "I asked for the ring back because I paid for it, not as a meaningful gesture of any kind. But thanks, oh, great master of melodrama."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why? Because it wasn't at all melodramatic when you whispered on your death bed, “I can't do this anymore.”"
+        },
+        {
+            "character": "Morse",
+            "line": "I meant pretend not to... You know... I didn't mean that we should make the tragic mistake of marrying each other, again."
+        },
+        {
+            "character": "Hunter",
+            "line": "Call it what you will, but you've got the ring you once threw in my face, and we're shagging on the regular, so only thing missing is a piece of paper."
+        },
+        {
+            "character": "Morse",
+            "line": "And your ring, not that you know where it is."
+        },
+        {
+            "character": "Hunter",
+            "line": "I know exactly where it is. Just don't personally own the scuba-diving equipment to retrieve it. You don't care about the money. That ring is cheap-ass."
+        },
+        {
+            "character": "Morse",
+            "line": "I wanted something to hold onto. If your mind really is made up."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm going after him, Bob. Coulson's given me the green light. I've chased down all the Hydra intel I can from on high. If my hunch is right, I need to get to ground."
+        },
+        {
+            "character": "Morse",
+            "line": "We agreed that you'd wait till I was 100%. And every day, I'm pushing myself, getting better, stronger. A few more weeks..."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'll be better without you. On my own turf, calling in favors, whatever it takes. I'm gonna hunt that son of a bitch down."
+        },
+        {
+            "character": "Mack",
+            "line": "It's on."
+        },
+        {
+            "character": "President Ellis",
+            "line": "Good evening. I'm here tonight to address growing concerns among our citizens of the threats we face that are not of this world. I don't need to remind people of the catastrophes in New York, London, and most recently Sokovia. Tragedies that seem to be growing in number and scale. And the organization we had in place to protect us, S.H.I.E.L.D., brought airships raining down in our nation's capital. Every day, new dangers present themselves, filling our peaceful streets with chaos."
+        },
+        {
+            "character": "Mack",
+            "line": "Bigger."
+        },
+        {
+            "character": "President Ellis",
+            "line": "By executive order, I have created a special task force to neutralize these alien threats on our soil. The advanced threat containment unit, or ATCU, will be given full license to act with whatever authority is necessary. The laws of nature have changed. And until the laws of man change to reflect that, we must do what we feel is right."
+        },
+        {
+            "character": "Coulson",
+            "line": "People really do answer to you, don't they."
+        },
+        {
+            "character": "President Ellis",
+            "line": "These are rumors. They are not true. They are fabrications meant to boost ratings and cause hysteria. Any and all possibilities are being taken very seriously by the ATCU."
+        },
+        {
+            "character": "Reporter",
+            "line": "But if this is an outbreak, shouldn't the public be made aware?"
+        },
+        {
+            "character": "President Ellis",
+            "line": "I think we should be careful, the words we start throwing around. The last thing we need is panic in the streets. Any threat will be eliminated, I can assure you."
+        },
+        {
+            "character": "Reporter",
+            "line": "People have a right to know. Are the infected among us?"
+        },
+        {
+            "character": "President Ellis",
+            "line": "Thank you. That'll be all for today."
+        },
+        {
+            "character": "Joey",
+            "line": "I've lived with a secret before. I was miserable until I came out with it."
+        },
+        {
+            "character": "Daisy",
+            "line": "This secret, the world's not ready to hear."
+        }
+    ]
+}

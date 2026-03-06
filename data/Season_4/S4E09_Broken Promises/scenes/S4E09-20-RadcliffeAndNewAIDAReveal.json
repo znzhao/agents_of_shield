@@ -1,0 +1,64 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 20,
+    "scene_name": "RadcliffeAndNewAIDAReveal",
+    "description": "In the aftermath, Radcliffe and the new Aida discuss their failed attempt to secure the Darkhold. It’s revealed that Radcliffe orchestrated events so that he could collect the book later, and that the Agent May present at S.H.I.E.L.D. is a duplicate. Radcliffe reaffirms his intentions, keeping the real May subdued, and plotting his next move.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "dark",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "To AIDA."
+        },
+        {
+            "character": "AIDA",
+            "line": "To AIDA. Is everything okay, Doctor?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It will be. It's just... We were so close. She had it in her hand, AIDA, in her hand! She just couldn't get out with it."
+        },
+        {
+            "character": "AIDA",
+            "line": "Your previous model had the Darkhold book in her hand."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "And all the answers it holds. I've only glimpsed it, but it opened my eyes to possibilities beyond my wildest imaginings. It can show us how..."
+        },
+        {
+            "character": "AIDA",
+            "line": "How to live forever."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, it's a bit more complicated, but yes. Man could, once and for all, break the bonds of his mortal restraints."
+        },
+        {
+            "character": "AIDA",
+            "line": "Is it still possible to make such a leap without the Darkhold?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm afraid not, which is why I took a chance and had AIDA make a play for it. It was a risk we had to take. But she failed. Ah, through no fault of her own. She played her part to perfection, right down to my little speech about how the Darkhold was making her a real girl. Oscar-worthy stuff. Though poor Fitz, he was quite down in the dumps afterwards. But I had to protect myself, switch to the long game."
+        },
+        {
+            "character": "AIDA",
+            "line": "Will there be another opportunity to acquire the Darkhold?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "After today, they're never gonna let me near it again. Which is why I'm counting on her to get it for me. I can't begin to tell you how sorry I am about all of this, Agent May. But it's for a good cause. The situation requires drastic measures."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I think we might need to adjust her propofol levels. Up her dosage by 50 milligrams, see how that takes. Relax, Agent May. I promise you, everyone at S.H.I.E.L.D. is doing just fine. We must be patient. And soon enough, everyone will get exactly what they want."
+        }
+    ]
+}

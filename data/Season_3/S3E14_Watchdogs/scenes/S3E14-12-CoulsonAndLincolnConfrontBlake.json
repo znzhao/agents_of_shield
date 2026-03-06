@@ -1,0 +1,120 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 12,
+    "scene_name": "CoulsonAndLincolnConfrontBlake",
+    "description": "Inside the safehouse, Coulson and Lincoln confront a holographic projection of Felix Blake, who berates Coulson for allying with Inhumans and manipulates Lincoln with a kill order. Lincoln follows Coulson’s instructions and attacks, discovering the ruse. The two agents realize the Watchdogs’ real plan went beyond the attack.",
+    "roles": [
+        "phil_coulson",
+        "lincoln"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Blake? How are you here?"
+        },
+        {
+            "character": "Blake",
+            "line": "I'm everywhere, Coulson. As are you, apparently."
+        },
+        {
+            "character": "Coulson",
+            "line": "You recovered well."
+        },
+        {
+            "character": "Blake",
+            "line": "Says the man who came back from the dead. I guess we both have a few tricks up our sleeve, old friend."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz! Fitz! What's that... what's the stuff called? Sodium what?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sodium hydrogen acetate."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't think it's working."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe we slowed it down, but... must be the modifications that Blake made."
+        },
+        {
+            "character": "Daisy",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That sooner or later, this bomb is gonna go off. And then I'll implode. Which is gonna be messy."
+        },
+        {
+            "character": "Blake",
+            "line": "So here we are, reunited at last."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got to admit, it's not what I'd hoped for."
+        },
+        {
+            "character": "Blake",
+            "line": "I really thought it'd be ATCU proper who showed up at the compound. Didn't expect you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm working with the ATCU."
+        },
+        {
+            "character": "Blake",
+            "line": "You mean keeping S.H.I.E.L.D. alive within it. Those survival instincts of yours, Coulson, always impressive."
+        },
+        {
+            "character": "Coulson",
+            "line": "I searched for you. I wanted to make you part of the new S.H.I.E.L.D."
+        },
+        {
+            "character": "Blake",
+            "line": "Yeah, well, when I got out of the hospital, it turned out there had never been a S.H.I.E.L.D., just Hydra hiding behind one. I signed up to protect the world from these dangerous alien elements."
+        },
+        {
+            "character": "Coulson",
+            "line": "We still do that."
+        },
+        {
+            "character": "Blake",
+            "line": "The hell you do. You use them, unleash them. You've got those freaks working for you. Hell, Phil, you are one. Makes me sick."
+        },
+        {
+            "character": "Coulson",
+            "line": "We both know S.H.I.E.L.D. protects mankind."
+        },
+        {
+            "character": "Blake",
+            "line": "And what has S.H.I.E.L.D. done in the name of protection? We brought the Chitauri to Earth. I was taken out by one of your cybernetic recruits. And the latest and greatest idea? The Avengers created Ultron."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you doing, Blake?"
+        },
+        {
+            "character": "Blake",
+            "line": "I'm trying to make the world a safer place..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. What are you doing now? Here? I know your tactics. Speeches? Not one of them. You're stalling. Why?"
+        }
+    ]
+}

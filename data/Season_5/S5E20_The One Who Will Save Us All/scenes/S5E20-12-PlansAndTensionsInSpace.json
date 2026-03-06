@@ -1,0 +1,124 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 12,
+    "scene_name": "PlansAndTensionsInSpace",
+    "description": "On both the Zephyr and in the Lighthouse control center, the teams coordinate the approach. Fitz assists from the ground, while the Zephyr team readies for boarding. Tensions are high as they cross into space and approach the Remorath mothership, uncertain what resistance they might face.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "skye",
+        "deke_shaw",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Artificial gravity engaged. Approaching Outer Atmosphere. Prepare for vertical burn."
+        },
+        {
+            "character": "Piper",
+            "line": "Roger that. Vertical burn is a go."
+        },
+        {
+            "character": "May",
+            "line": "Zephyr press to MECO. Thrusters at full."
+        },
+        {
+            "character": "MAck",
+            "line": "Zephyr, shut down plan is nominal."
+        },
+        {
+            "character": "Daisy",
+            "line": "I probably should have talked you out of this."
+        },
+        {
+            "character": "Deke",
+            "line": "What? No, this is great. I... I'm going to space again."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks for coming along."
+        },
+        {
+            "character": "Davis",
+            "line": "We're approaching the Karman Line."
+        },
+        {
+            "character": "May",
+            "line": "Nominal MECO. Main Thruster is no longer required."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy Zephyr. Nominal MECO. Main Thruster no longer required."
+        },
+        {
+            "character": "Piper",
+            "line": "Prepare to be the first S.H.I.E.L.D. team in space."
+        },
+        {
+            "character": "Mack",
+            "line": "In this timeline, maybe."
+        },
+        {
+            "character": "May",
+            "line": "Looks like we did it, Control."
+        },
+        {
+            "character": "Piper",
+            "line": "Roger that, Zephyr. Good work, you guys."
+        },
+        {
+            "character": "Mack",
+            "line": "Time to turn on cloaking. Won't be long till you reach the ship."
+        },
+        {
+            "character": "May",
+            "line": "Copy that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Looks like the Zephyr's in space."
+        },
+        {
+            "character": "Simmons",
+            "line": "Because of your design. I know you'd rather be up in Control right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. It's probably best I'm not. So, the Centipede Formula is functioning as what? Some sort of catalyst to unleash Jiaying's regenerative properties?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the hope."
+        },
+        {
+            "character": "Fitz",
+            "line": "You really think this is a good idea?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What I think is the less we talk about it the better. Now unzip that duffel and get me a viable sample."
+        },
+        {
+            "character": "Davis",
+            "line": "Approaching enemy ship. No signs of resistance yet."
+        },
+        {
+            "character": "Piper",
+            "line": "That is one big ship."
+        },
+        {
+            "character": "Mack",
+            "line": "Just remember, the minute the Zephyr docks, cloaking won't matter. You need to be ready to move."
+        },
+        {
+            "character": "Daisy",
+            "line": "Strike team in position."
+        }
+    ]
+}

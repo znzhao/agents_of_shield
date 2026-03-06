@@ -1,0 +1,63 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 14,
+    "scene_name": "MalickContactsWardAboutStrucker",
+    "description": "Gideon Malick meets with Ward, offering him Strucker’s location and criticizing Ward's reckless strategies. Malick makes clear he’s choosing a side and sacrificing Strucker for the greater goal, asserting his power within HYDRA’s fractured hierarchy. The scene fuses intrigue with looming danger for Strucker.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Whoa, whoa, whoa. Careful with that one. Be a shame to see this whole place blow up before we even move in. What the hell are you doing here? You're supposed to be out looking for Von Strucker. Who is this?"
+        },
+        {
+            "character": "Malick",
+            "line": "You don't know my name, but I think you've been trying to get my attention."
+        },
+        {
+            "character": "Ward",
+            "line": "I've been wondering when I'd hear from you. You're the one all the others were afraid of, before me."
+        },
+        {
+            "character": "Malick",
+            "line": "Not everyone fears you, Mr. Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, not everyone should. Just the ones who won't fall in line. What can I do for you?"
+        },
+        {
+            "character": "Malick",
+            "line": "Now, that's not the correct question. The correct question is what I can offer you. The answer, in case you're wondering, is redemption."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, no, thanks. I don't need redeeming."
+        },
+        {
+            "character": "Malick",
+            "line": "Oh, I think you do. You made some mistakes in your gameplay, using Von Strucker's son as a pawn when he shouldn't even be on the board yet."
+        },
+        {
+            "character": "Ward",
+            "line": "You see, that's just typical of guys in your generation. You don't even know the game I'm playing. Von Strucker is more than just a pawn."
+        },
+        {
+            "character": "Malick",
+            "line": "And now he's a liability. He knows too much. Just tell me if I'm wrong. You burned that asset. S.H.I.E.L.D. is looking for him, which means so are you. And I know where you can find him."
+        },
+        {
+            "character": "Ward",
+            "line": "And you'll just tell me that? Why?"
+        },
+        {
+            "character": "Malick",
+            "line": "Sometimes you sacrifice a player to save the game. You just remember when I come calling that I chose a side."
+        }
+    ]
+}

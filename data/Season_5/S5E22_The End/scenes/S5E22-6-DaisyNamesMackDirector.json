@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 6,
+    "scene_name": "DaisyNamesMackDirector",
+    "description": "With the threat clear, Daisy meets with Elena and the others to admit her own emotional bias in leadership. In a pivotal team moment, Daisy officially chooses Mack to lead the mission, acknowledging his moral center and ability to inspire unity. Coulson surprises the team by joining them, indicating he supports Daisy’s choice.",
+    "roles": [
+        "skye",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "You asked to see me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I'm aware that we rolled the dice with Coulson. And I still believe that we need him for this, but I will admit that I let my emotions get the best of me. I thought that Coulson was the only one who could keep us all on the same page. You would say that's proof that I can't do the job. That I shouldn't lead. Well, I agree. The truth is, I can't hold the team together. But he can. Coulson wants me to call the shots in his absence? Well, that's my decision, Mack should call the shots. He has the biggest heart. I mean, physically, but also, you know... You are our moral centre. And look, I never want to stop being a soldier. He is a general we can all rally behind. Anyone who thinks I'm 100 percent right about this, raise your hand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Couldn't have said it better myself."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank God."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, good to see you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hold the applause. She didn't go through that for nothing. Time to suit up. So, what do we do?"
+        },
+        {
+            "character": "Mack",
+            "line": "We save lives."
+        }
+    ]
+}

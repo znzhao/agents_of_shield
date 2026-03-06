@@ -1,0 +1,156 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 12,
+    "scene_name": "CoulsonConfrontsHand",
+    "description": "Coulson confronts Victoria Hand about the lack of an extraction plan for his team, arguing that he should have been consulted and that Fitz and Ward deserved to know the risks. Hand defends the compartmentalization, stating it was for the mission's success and agent morale.",
+    "roles": [
+        "phil_coulson",
+        "victoria_hand"
+    ],
+    "vibe": "dramatic",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hand",
+            "line": "Agent Sitwell is in the infirmary. Apparently, a member of your team rendered him unconscious."
+        },
+        {
+            "character": "Coulson",
+            "line": "A misunderstanding. I'll handle the matter internally."
+        },
+        {
+            "character": "Hand",
+            "line": "Tranquilizing an agent does not qualify as a misunderstanding."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're right. But being told there's an extraction team in place when, in fact, there isn't? That does. I'm level 8. I'm entitled to information regarding the welfare of my team. You should have told me."
+        },
+        {
+            "character": "Hand",
+            "line": "Seemed I didn't have to. And what would that have changed, Agent Coulson? You yourself have designed dozens of operations like this. You know how this works."
+        },
+        {
+            "character": "Coulson",
+            "line": "Usually with an extraction plan."
+        },
+        {
+            "character": "Hand",
+            "line": "Barton, Romanoff, they never have an extraction plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "They know that going in!"
+        },
+        {
+            "character": "Hand",
+            "line": "Agent Fitz is unproven in the field, and knowing would have caused him to lose focus or courage."
+        },
+        {
+            "character": "Coulson",
+            "line": "That should have been my call."
+        },
+        {
+            "character": "Hand",
+            "line": "I wasn't sure you'd comply. Your team includes an electronically tagged non-agent who is notorious for leaking secrets, which reminds me... How did you get this information again?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I know what the safety of a thousand men is worth. I know the importance of taking the overkill device out of play. But I also know my men, and what they're worth! The decision to go in should have been theirs to make."
+        },
+        {
+            "character": "Hand",
+            "line": "Perhaps. But you need to trust the system, Agent Coulson."
+        },
+        {
+            "character": "Ward",
+            "line": "All right. Show me the final steps to disable this thing. I'll get it done."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, we stick to the extraction plan. I'll be done in a minute."
+        },
+        {
+            "character": "Ward",
+            "line": "The extraction plan's a bust."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Ward",
+            "line": "Exfil team didn't make contact. Once you take that thing apart and I set off the remote beacon, we're on our own. You should go."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not leaving."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz, there's no time to argue."
+        },
+        {
+            "character": "Fitz",
+            "line": "You don't think I can't handle this?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, I am trying to protect you!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah, you think I'm a coward. Is that it?"
+        },
+        {
+            "character": "Ward",
+            "line": "What? No."
+        },
+        {
+            "character": "Fitz",
+            "line": "I am every bit the S.H.I.E.L.D. agent that you are."
+        },
+        {
+            "character": "Ward",
+            "line": "Whoa! You don't have anything to prove. What you said about me always needing to swoop in... I know you would have jumped out of the plane to save Simmons. And she knows that, too."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not trying to prove anything to anyone. Okay? Before we left, you're not the only one that Coulson talked to, okay? He told me to take care of you, too. And that's exactly what I'm gonna do. I'm not going anywhere. You understand? And I'm bloody starving."
+        },
+        {
+            "character": "May",
+            "line": "You got the information. Now we react."
+        },
+        {
+            "character": "Skye",
+            "line": "We're gonna get our guys."
+        },
+        {
+            "character": "May",
+            "line": "Somebody has to."
+        },
+        {
+            "character": "Simmons",
+            "line": "What about the S.H.I.E.L.D. assault?"
+        },
+        {
+            "character": "May",
+            "line": "We won't interfere. You don't need a battalion for an extraction. Three can pull it off."
+        },
+        {
+            "character": "Coulson",
+            "line": "Four is better."
+        },
+        {
+            "character": "Skye",
+            "line": "You're in? I thought we all had to be level 8 to discuss this."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not discussing anything."
+        }
+    ]
+}

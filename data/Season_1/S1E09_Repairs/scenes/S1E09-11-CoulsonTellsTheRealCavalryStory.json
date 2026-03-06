@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 11,
+    "scene_name": "CoulsonTellsTheRealCavalryStory",
+    "description": "Skye and Coulson discuss May's mysterious past, with Coulson revealing the true story behind her \"Cavalry\" reputation. He shares how May changed after a mission went wrong and how she never truly recovered her former self. This scene adds depth to May's character and her stoic nature.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Seems like a hardware issue, not firmware. I should be with Hannah, anyway. No wonder she keeps screaming in there. You keep sending in the Cavalry, you're bound to get a reaction like that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't... don't call her that."
+        },
+        {
+            "character": "Skye",
+            "line": "Why not? No normal person can shoot 100 Bahrain..."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not how it went down."
+        },
+        {
+            "character": "Skye",
+            "line": "Whatever, 20. I just... I don't understand..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She didn't have a gun. None of us did. And it wasn't a rescue or an assault, whatever they say at the academy these days. We were the welcome wagon. And it went south."
+        },
+        {
+            "character": "Skye",
+            "line": "How many..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Plenty. A civilian girl and a few of our guys were stuck inside a building, being held by the followers of this gifted individual... or worshippers. We never found out."
+        },
+        {
+            "character": "Skye",
+            "line": "May did."
+        },
+        {
+            "character": "Coulson",
+            "line": "She took it upon herself to get them out. Said she could fix the problem. So she went in, crossed off the enemy force. Didn't say how."
+        },
+        {
+            "character": "Skye",
+            "line": "Did she lose anyone in there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Herself. May used to be different. She was always quiet, she just... she was warm. Fearless in a different way, getting in trouble, pulling pranks, thought rules were meant to be broken. Sound familiar? But when she walked out of that building... it was like that part of her was gone. I tried to comfort her, but she wouldn't tell me what went down in there."
+        },
+        {
+            "character": "Skye",
+            "line": "What did you say?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I said the words I thought she needed to hear."
+        },
+        {
+            "character": "Skye",
+            "line": "It's why you want her on the plane... to see if that person is still in there somewhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "The lock is jammed."
+        }
+    ]
+}

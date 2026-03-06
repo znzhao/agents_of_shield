@@ -1,0 +1,193 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 9,
+    "scene_name": "ArrivingAtTheLighthouse",
+    "description": "Enoch leads Fitz, Hunter, Robin, and her mother to the hidden S.H.I.E.L.D. bunker, the Lighthouse, buried beneath a real lighthouse. Here, Enoch explains that the location is crucial to the prophecy, and Robin may not be safe anywhere else. Fitz and Hunter discuss fate, their pasts, and the gravity of being part of a predestined future.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Under a lighthouse, eh? How far down does this go?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Unknown."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is it?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Unknown."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who built it?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Unknown."
+        },
+        {
+            "character": "Evans",
+            "line": "They just disappeared. It had to be the same blackout technology they used at the diner."
+        },
+        {
+            "character": "Hale",
+            "line": "Do we have any idea who the girl is?"
+        },
+        {
+            "character": "Lucas",
+            "line": "We've got images from surveillance cameras across the street. We're running facial-recognition scans on her and her mother."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, make it your highest priority. If she's able to predict and forewarn, she might be able to tell secrets. I want you to find her and control her. It's better she's on our side. We need every weapon in this fight."
+        },
+        {
+            "character": "Enoch",
+            "line": "As of this moment, you are the only four humans who know of this place's existence."
+        },
+        {
+            "character": "Fitz",
+            "line": "How do you know about it?"
+        },
+        {
+            "character": "Enoch",
+            "line": "We'll stay until we can decide what to do with her. She is no longer safe."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why don't you just ask her? She seems to know everything else."
+        },
+        {
+            "character": "Enoch",
+            "line": "She gives answers in her own time. It's better not to interfere."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. You sent my friends into the future. I'd call that some serious interference."
+        },
+        {
+            "character": "Enoch",
+            "line": "Our protocol allows for one exception, the prevention of an extinction-level event."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Hunter",
+            "line": "So what happened?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Unknown."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sad, isn't it? To know all she knows and not be able to do a thing about it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe she's trying."
+        },
+        {
+            "character": "Hunter",
+            "line": "No. You can't save the world. I can barely save myself. What's her story? How do you know her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Her father was an Inhuman. Every time he touched someone, he and that person would have a vision of an impending death. And it must have been torturous. So he couldn't have any human contact. Not with his wife. Not with his... not his baby daughter."
+        },
+        {
+            "character": "Hunter",
+            "line": "And they still call these “gifts?”"
+        },
+        {
+            "character": "Fitz",
+            "line": "He saved Daisy. And she was convinced that she could save him, change the future, but..."
+        },
+        {
+            "character": "Hunter",
+            "line": "What's written is written."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma and I were there. Holding hands. We had no idea."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, you and Simmons?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, we're together now. Everyone knows. Even looked for a place together."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, congrats, mate. I remember when you couldn't even admit that you liked her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it should have stayed that way. Everything that keeps happening to us does seem like the universe doesn't want us to be together."
+        },
+        {
+            "character": "Hunter",
+            "line": "The universe doesn't want or care about anything. And even if it did, why wouldn't it want you to be together? You two are so perfect for each other, it makes everyone a little bit nauseous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it's trying to protect her."
+        },
+        {
+            "character": "Hunter",
+            "line": "From what?"
+        },
+        {
+            "character": "Fitz",
+            "line": "From me. From what I was in the Framework, ‘cause that came from inside me. That's... wasn't programming."
+        },
+        {
+            "character": "Hunter",
+            "line": "Was that the Fitz I saw back at Enoch's place?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hunter",
+            "line": "I have to admit, I kind of liked seeing that side of you. And it worked for us. Got Enoch on the right page."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, it also got people killed."
+        },
+        {
+            "character": "Hunter",
+            "line": "Look, I don't know what you went through, but I know you're not a cold-blooded killer. Every light needs a shadow. You just have to learn how to control it, use it when you need it."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't stand it being anywhere inside of me. I think that's why they left me behind, I think 'cause I'm too much of a risk to them to... too much of a risk to Jemma."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bollocks. You want to know why you were left behind? Ask the one that kicked you off the guest list."
+        },
+        {
+            "character": "Fitz",
+            "line": "Get it while it's hot."
+        }
+    ]
+}

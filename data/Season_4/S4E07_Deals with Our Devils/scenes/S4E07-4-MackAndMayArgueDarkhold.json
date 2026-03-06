@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "MackAndMayArgueDarkhold",
+    "description": "While May considers using the Darkhold to rescue their lost friends, Mack tries to dissuade her, warning of the unknown consequences. She insists it may be their only chance. Both are emotionally raw and desperate, highlighting the thin line between hope and fear as they debate whether to take such a dangerous risk.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I know you're not okay, but... you okay?"
+        },
+        {
+            "character": "May",
+            "line": "What if Daisy was right and they're not dead?"
+        },
+        {
+            "character": "Mack",
+            "line": "Where's this coming from?"
+        },
+        {
+            "character": "May",
+            "line": "I have a feeling, can't explain."
+        },
+        {
+            "character": "Mack",
+            "line": "I know you're hurting, but Coulson was clear. Do not open that book."
+        },
+        {
+            "character": "May",
+            "line": "He didn't know what was inside it."
+        },
+        {
+            "character": "Mack",
+            "line": "He knew enough. It's Pandora's Box, and you don't know the consequences."
+        },
+        {
+            "character": "May",
+            "line": "Neither do you. This might be our only shot at saving them."
+        },
+        {
+            "character": "Mack",
+            "line": "Melinda, don't you dare."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 10
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a skilled hacker and emerging S.H.I.E.L.D. operative who bridges the technical and human sides of the team. She is highly resourceful and driven by a deep need to discover her origins, which fuels her investigative work within the team. Despite occasional frustration and emotional vulnerability related to her unresolved family mystery, she demonstrates growing maturity, empathy, and commitment to the mission. Skye continuously balances her curiosity and personal attachments with professionalism under pressure. She also supplies critical intelligence and technical support to counter evolving threats, showing increasing confidence and growing integration into S.H.I.E.L.D.'s operational dynamics.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "find_parents",
+        "goal": "To uncover the truth about her parents and origins despite obstacles and institutional secrecy"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_skye_parents_mystery",
+        "goal": "To uncover the mystery surrounding her origins and the identity of the female S.H.I.E.L.D. agent connected to her past"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "focus_on_mission_over_personal_search",
+        "goal": "To prioritize mission objectives and operational responsibilities over her personal quest for family answers as advised by team leadership"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_6",
+      "context": "expressing frustration and resolve upon being told to focus on the mission and not personal investigations into her past",
+      "catch_phrase": "I didn't ask for help, okay?"
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_3",
+      "context": "asserting her hacking prowess",
+      "catch_phrase": "I've done it before."
+    }
+  ]
+}

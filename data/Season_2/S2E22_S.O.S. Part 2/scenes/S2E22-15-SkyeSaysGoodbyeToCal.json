@@ -1,0 +1,80 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 15,
+    "scene_name": "SkyeSaysGoodbyeToCal",
+    "description": "Skye says a heartfelt farewell to Cal, acknowledging that he will be leaving for good. Cal, moved by their reconciliation and proud of Skye, asks if she will visit him in the future. Skye promises she will, marking a hopeful but melancholic closure to their tumultuous relationship.",
+    "roles": [
+        "skye",
+        "calvin_johnson"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Cal",
+            "line": "This is so long... for now. After all I've done, I'd be a fool to think I'd get a Hollywood ending. Came close. I found you and got to... You know, you're better than I imagined, and I imagined you perfect. You're way more interesting than that."
+        },
+        {
+            "character": "Skye",
+            "line": "I wonder where I get that from."
+        },
+        {
+            "character": "Cal",
+            "line": "Ah. It's paradoxical, isn't it? My love for my family is what drove me mad? I know I'm going away for good, but I was hoping, you might come visit once in a while?"
+        },
+        {
+            "character": "Skye",
+            "line": "I will. I promise."
+        },
+        {
+            "character": "Cal",
+            "line": "That would be..."
+        },
+        {
+            "character": "Skye",
+            "line": "Let me guess “the best day ever?” You have a lot of those."
+        },
+        {
+            "character": "Cal",
+            "line": "No. Just one. July 2, 1988."
+        },
+        {
+            "character": "Bartender",
+            "line": "Looks like you're having trouble letting go, hate to see that, my friend. Did she walk out on you?"
+        },
+        {
+            "character": "Ward",
+            "line": "She drowned when her lungs filled up with blood."
+        },
+        {
+            "character": "Ward",
+            "line": "These are all the names you could drum up?"
+        },
+        {
+            "character": "Kebo",
+            "line": "You're lucky we found this many. Whitehall, Strucker, List. The leadership is gone, man. Usually, a head grows back, but not this time. The organization, disintegrated."
+        },
+        {
+            "character": "Ward",
+            "line": "I want more names."
+        },
+        {
+            "character": "Kebo",
+            "line": "And I want to marry into money. Do you speak English? No leadership means nobody giving orders, and that sure as hell includes you. Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "Do you understand who you work for now? Good. I'm done flying solo. I miss having a team around me. I want more names."
+        },
+        {
+            "character": "Man",
+            "line": "Hail HYDRA to that. What's the plan, sir? Chaos?"
+        },
+        {
+            "character": "Ward",
+            "line": "Closure."
+        }
+    ]
+}

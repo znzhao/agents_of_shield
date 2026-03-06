@@ -1,0 +1,47 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 19,
+    "scene_name": "FinalPresidentUpdate",
+    "description": "President Ellis names a new head for the ATCU and has a final conversation with Coulson, confirming that the new head will take orders from him. Their exchange is professional, signaling a new chapter in S.H.I.E.L.D.'s operation and the government's ongoing partnership with Coulson despite mutual distrust and lingering tensions.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "President",
+            "line": "It makes perfect sense to name him the head of the ATCU. He knows all the players, the public respects military authority. You've worked together."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't exactly call it “together.”"
+        },
+        {
+            "character": "President",
+            "line": "He has the utmost respect for you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now I know you're lying."
+        },
+        {
+            "character": "President",
+            "line": "Remember, he'll be taking orders from you."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I'm sure he's thrilled about that."
+        },
+        {
+            "character": "President",
+            "line": "I'm confident this will work out, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. President. Oh, boy."
+        }
+    ]
+}

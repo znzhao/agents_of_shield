@@ -1,0 +1,105 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 6,
+    "scene_name": "IzelRevealsSearchForMonoliths",
+    "description": "Aboard her ship, Izel discusses her quest with Fitz and Simmons, describing the stolen Di'Allas — ancient stones capable of incredible feats. Fitz and Simmons deduce she means the Monoliths. Izel recounts the attack on Chronica II and the loss she suffered, foreshadowing her adversary's relentless pursuit to destroy her.",
+    "roles": [
+        "izel",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Izel",
+            "line": "Is everything all right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep. I'd be better if I had some decent tools and a Trifield meter."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're fine, just trying to decode the ship's communication systems so we can contact our friends on Earth."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, even if we do get the system running, there's no guarantee that anyone's gonna be listening in this range."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry. We've just been away from Earth for ages, and we're anxious to contact our friends and get home."
+        },
+        {
+            "character": "Izel",
+            "line": "I envy that you're almost home. I'm afraid I'll never see mine again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Because of the artifacts you're looking for? Well, I mean, we'll do what we can to help."
+        },
+        {
+            "character": "Izel",
+            "line": "I'm grateful. It's... It's rare to meet kind beings in this universe. Most I meet are either fools or thieves."
+        },
+        {
+            "character": "Fitz",
+            "line": "You can say that again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Tell us about these items you're searching for."
+        },
+        {
+            "character": "Izel",
+            "line": "The Di'Allas. They're made of stone, and they were stolen from my world millennia ago. They can create, move beings through space and time, and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Monoliths."
+        },
+        {
+            "character": "Izel",
+            "line": "M-Mon-Mono..."
+        },
+        {
+            "character": "Fitz",
+            "line": "She... Are... You're talking about mono..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've heard of those. But, um, we were told the Chronicoms kept them."
+        },
+        {
+            "character": "Izel",
+            "line": "I'd heard the same. That's why I went to their home world. But I was attacked, and my crew was killed. The whole planet was... destroyed."
+        },
+        {
+            "character": "Simmons",
+            "line": "We saw what was left of it."
+        },
+        {
+            "character": "Izel",
+            "line": "I'm afraid the same may happen to Earth if I don't find those artifacts."
+        },
+        {
+            "character": "Fitz",
+            "line": "So they... they originated on your planet?"
+        },
+        {
+            "character": "Izel",
+            "line": "They were created to connect life together. But there's someone who had no interest in that. He murdered my crew. And he won't stop until he eliminates me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why is this person so intent on destroying you?"
+        },
+        {
+            "character": "Izel",
+            "line": "Because I know the truth about him. I know what he really is."
+        }
+    ]
+}

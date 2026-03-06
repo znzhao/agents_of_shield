@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "glenn_talbot",
+        "carl_creel"
+    ],
+    "aliases": [
+        "Coulson",
+        "Daisy",
+        "May",
+        "Fitz",
+        "Simmons",
+        "Mack",
+        "Yo-Yo",
+        "Deke",
+        "Talbot",
+        "Creel",
+        "Agent Johnson"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Kree",
+        "Inhumans",
+        "Hydra",
+        "Remorath"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Remorath ship (Confederacy/Remorath mothership)",
+        "River's End (small town near the Lighthouse)"
+    ]
+}

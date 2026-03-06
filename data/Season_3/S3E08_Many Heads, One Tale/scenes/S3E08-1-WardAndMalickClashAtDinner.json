@@ -1,0 +1,77 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "WardAndMalickClashAtDinner",
+    "description": "Gideon Malick and Grant Ward share a tense exchange over dinner, discussing the Von Strucker family vault and HYDRA's secrets. Malick warns Ward that despite his predatory skills, he isn't at the top of the food chain. After Malick and Giyera leave, Ward is attacked by Malick's men, but he brutally turns the tables and tortures the survivors for information, proving his ruthlessness.",
+    "roles": [
+        "gideon_malick",
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "The octopus is one of the great symbols of HYDRA. Supremely intelligent, highly adaptable, and they are ruthless killers. A nearly perfect predator. Same can be said of you."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, it's a terrifying symbol, but not my idea of dinner. Then again, I am adaptable. I hope you can be, too."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, that depends on your request."
+        },
+        {
+            "character": "Ward",
+            "line": "You're one of the last heads of HYDRA's old guard."
+        },
+        {
+            "character": "Malick",
+            "line": "Thanks in no small part to you."
+        },
+        {
+            "character": "Ward",
+            "line": "You should be thanking me. I trimmed the fat from your ranks."
+        },
+        {
+            "character": "Malick",
+            "line": "You weren't just trimming the fat going after the Von Strucker boy. You were digging. And I know what you were hoping to find. You're chasing rumors, ghosts. The Von Strucker family vault does not exist."
+        },
+        {
+            "character": "Ward",
+            "line": "Truthfully, I'd believe you if you hadn't sacrificed the only heir to it. And you control the vault now, right? That vault is said to have HYDRA's greatest power. Why don't you and I put it to good use?"
+        },
+        {
+            "character": "Malick",
+            "line": "HYDRA is a complicated organization, and I don't have time to give you a history lesson. I do have some long-standing plans that are finally coming together, and your simple vendetta doesn't currently fit in with them."
+        },
+        {
+            "character": "Ward",
+            "line": "I will find that vault."
+        },
+        {
+            "character": "Malick",
+            "line": "You're a smart predator. But you don't live on top of the food chain."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay."
+        },
+        {
+            "character": "Ward",
+            "line": "Well fought. So, Malick wanted me slaughtered, which means I'm on the right track. See, I know where the vault is. Just don't know how to get in. Which creates a once-in-a-lifetime opportunity for anyone who has accompanied him there."
+        },
+        {
+            "character": "Man",
+            "line": "We're not helping you."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, then. Who's on the bottom of the food chain now?"
+        }
+    ]
+}

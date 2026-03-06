@@ -1,0 +1,45 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 6,
+    "scene_name": "CoulsonsTeamEntersMiami",
+    "description": "Coulson, Mack, and Fitz enter the Miami blackout zone to locate Yo-Yo and investigate the EMP. As their tech fails due to a continuous series of pulses, Fitz realizes they must rely on low-tech, old-school methods. The team prepares to brave the city without their usual equipment, intent on finding both Elena and the source of the attack.",
+    "roles": [
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "We're 2 minutes from the blackout zone and 10 minutes from the hotel Agent Rodriguez called you from. We'll grab her first, then Fitz can do his thing."
+        },
+        {
+            "character": "Mack",
+            "line": "It doesn't make sense. The EMPs only short-circuit electronics that have been turned on at the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your point?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I haven't heard from her since. I mean, she... she can't find a phone that was turned off?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Does the backseat science department care to weigh in on this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "She's at a bachelorette party. She's probably having a good time, dancing and drinking with all those sexy Latino guys."
+        },
+        {
+            "character": "Mack",
+            "line": "No, I'm not taking that bait."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "hale",
+        "ruby",
+        "carl_creel"
+    ],
+    "aliases": [
+        "Coulson",
+        "Daisy Johnson",
+        "Quake",
+        "May",
+        "Fitz",
+        "Simmons",
+        "Mack",
+        "Elena",
+        "Yo-Yo",
+        "Deke Shaw",
+        "General Hale",
+        "Ruby",
+        "Carl Creel"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Chronicoms",
+        "Kree"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "St. Louis (site of the Kree beacon)",
+        "River's End (small town near the Lighthouse)"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 13,
+    "scene_name": "EliAndLucyConfrontThePast",
+    "description": "At the Roxxon power station, Eli and Lucy bicker over responsibility for past tragedies, including the fate of Joseph Bauer and the creation of the Darkhold device. Flashbacks reveal Joseph's deteriorating mental state and twisted ambitions as the Darkhold pushes him and the others into madness. Eli's anger and desire for control over the book grow dangerous.",
+    "roles": [
+        "eli_morrow",
+        "lucy_bauer",
+        "joseph_bauer"
+    ],
+    "vibe": "dark",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Eli",
+            "line": "Okay, I've done everything you've asked. There's no way to turn this off. This plant was shut down for a reason. It could blow at any time."
+        },
+        {
+            "character": "Lucy",
+            "line": "Well, then, you better work faster."
+        },
+        {
+            "character": "Lucy",
+            "line": "I wish Joe were here to see this come to life. This was his crazy dream. Joe was a genius. And you ruined his life."
+        },
+        {
+            "character": "Eli",
+            "line": "Joe got what he deserved. My nephew's in a wheelchair because of those thugs he hired."
+        },
+        {
+            "character": "Lucy",
+            "line": "Oh, don't act like you're innocent in all of this."
+        },
+        {
+            "character": "Eli",
+            "line": "It's that damn book! I tried to warn you about it. You wouldn't listen."
+        },
+        {
+            "character": "Eli",
+            "line": "Joe..."
+        },
+        {
+            "character": "Joseph",
+            "line": "I told you to stay out."
+        },
+        {
+            "character": "Eli",
+            "line": "You need help. Hey, look, we're worried about you. Okay? Just... Just give me the book."
+        },
+        {
+            "character": "Joseph",
+            "line": "Get out! Get out!"
+        },
+        {
+            "character": "Eli",
+            "line": "He's insane. Changing the specs without consulting us? We got to get that book away from him."
+        },
+        {
+            "character": "Lucy",
+            "line": "You have to trust us."
+        },
+        {
+            "character": "Eli",
+            "line": "Trust? “Trust.” Did you just see what happened? This is about safety. The energy stored in those power cells could kill all of us if anything goes wrong. You know, I... I don't even know what this project's goal is anymore."
+        },
+        {
+            "character": "Lucy",
+            "line": "The goal... has changed slightly. We are still creating matter from nothing, but the book revealed something exciting. We no longer need a machine to generate it."
+        },
+        {
+            "character": "Eli",
+            "line": "Joe's trying to generate matter himself?"
+        },
+        {
+            "character": "Lucy",
+            "line": "Think of all the good that we can do! We're not just creating elements, but compounds, material, life."
+        },
+        {
+            "character": "Eli",
+            "line": "He wants to be a god."
+        },
+        {
+            "character": "Lucy",
+            "line": "Where do you think the book came from?"
+        },
+        {
+            "character": "Eli",
+            "line": "You're just as insane as he is. God didn't write that book! The devil did."
+        },
+        {
+            "character": "Lucy",
+            "line": "You are just jealous. Because you want the book for yourself."
+        },
+        {
+            "character": "Eli",
+            "line": "You're damn right. I want it so I can destroy it, before it destroys all of us."
+        }
+    ]
+}

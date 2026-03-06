@@ -1,0 +1,100 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 17,
+    "scene_name": "ZephyrReturnAndTeamReassembles",
+    "description": "Simmons, May, and Elena contact the team with information about the Zephyr and concern for Mack. May affirms the team's commitment to Mack's well-being as they prepare to reunite. Coulson is referenced as a key asset and hints are made about possibly rebuilding his physical form, signaling hope for future adventures.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "deke_shaw"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You have 27 days until it's time to rendezvous back with the Zephyr. And I'll be..."
+        },
+        {
+            "character": "May",
+            "line": "Standing right here."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the theory anyway. Good luck."
+        },
+        {
+            "character": "May",
+            "line": "Mack's okay. We have his location."
+        },
+        {
+            "character": "Elena",
+            "line": "Okay and alive are two very different things. It's been 20 months since... No one should ever have to go through something like that alone."
+        },
+        {
+            "character": "May",
+            "line": "We'll be there soon."
+        },
+        {
+            "character": "Elena",
+            "line": "I was worried about you."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm getting better."
+        },
+        {
+            "character": "May",
+            "line": "Good to see you, Deke. You, too, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's really not the reaction I was expecting."
+        },
+        {
+            "character": "May",
+            "line": "Simmons gave specific orders to find your hard drive. Said it was our most important asset. I might even agree with her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did she mention anything about..."
+        },
+        {
+            "character": "May",
+            "line": "Building you a new body?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "May",
+            "line": "You'll just have to wait and see."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's cold, May, even for you."
+        },
+        {
+            "character": "Elena",
+            "line": "How are you holding up?"
+        },
+        {
+            "character": "Mack",
+            "line": "It wasn't easy, but it helped that I had time, and I had friends."
+        },
+        {
+            "character": "Elena",
+            "line": "These are S.H.I.E.L.D. agents?"
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Come on. Let me introduce you."
+        }
+    ]
+}

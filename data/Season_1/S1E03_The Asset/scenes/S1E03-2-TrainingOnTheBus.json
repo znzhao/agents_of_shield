@@ -1,0 +1,107 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "TrainingOnTheBus",
+    "description": "Back on the S.H.I.E.L.D. Bus, Skye is put through rigorous strength and boxing training by Ward, with comedic banter about field agent requirements. Fitz and Simmons join in with their own nerdy recollections of less physical training. The conversation leads to a playful discussion about the 'truth serum' from their first mission, only for Ward to reveal it was a ruse. May enters, calling for a briefing.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "You know you're late."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm tired from the morning's workout. I thought I was joining S.H.I.E.L.D., not 24 hour fitness."
+        },
+        {
+            "character": "Ward",
+            "line": "It's called relative strength training, starting with the basics. And next time, you do 15 push-ups for every minute you're late."
+        },
+        {
+            "character": "Skye",
+            "line": "Fine, Mr. Fun machine. Better than pull-ups. I don't ever want to do another pull-up again."
+        },
+        {
+            "character": "Ward",
+            "line": "You find yourself hanging off the edge of a building 20 stories up, you're gonna want to do at least one. Stand here. Jab cross, like this. 10 minutes. You know the hardest part about boxing?"
+        },
+        {
+            "character": "Skye",
+            "line": "Getting punched in the face?"
+        },
+        {
+            "character": "Ward",
+            "line": "Keeping your hands up."
+        },
+        {
+            "character": "Skye",
+            "line": "Why do I even have to do this? I'm sure Fitz-Simmons' supervising officer didn't make them do this muscle stuff."
+        },
+        {
+            "character": "Ward",
+            "line": "You said you wanted to be a field Agent, like Coulson. Well, if you'd like to switch disciplines... Hey, Simmons. What did your S.O. give you guys for morning drills?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, atomistic attribute drills. Yeah, we'd name the mechanical, chemical, thermal..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Electrical properties of materials."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, okay. They made your point."
+        },
+        {
+            "character": "Ward",
+            "line": "There will come a moment when you have to commit to this or bail. Every field Agent has a defining moment. Ask Coulson. When you have to make the hard call to either dedicate yourself to this or to curl up in a ball and run."
+        },
+        {
+            "character": "Skye",
+            "line": "How can you run if you're curled up in a ball?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's my job as your S.O. to make sure you don't die before then. Come on."
+        },
+        {
+            "character": "Skye",
+            "line": "So what was yours, Agent Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "10 minutes."
+        },
+        {
+            "character": "Skye",
+            "line": "Your defining moment? Come on, tell me. I want to know. I could get Coulson to give you some of that truth serum. You could spill your little heart out to me again."
+        },
+        {
+            "character": "Ward",
+            "line": "You mean my level one overshare that miraculously got you to cooperate? I hate to tell you this, rookie, but we don't have a truth serum."
+        },
+        {
+            "character": "May",
+            "line": "Changing course, briefing in three."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah, looks like we're on the move."
+        },
+        {
+            "character": "May",
+            "line": "S.H.I.E.L.D. 616 with new orders. Set for Colorado air field North."
+        }
+    ]
+}

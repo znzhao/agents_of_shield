@@ -1,0 +1,84 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 9,
+    "scene_name": "FitzSimmonsReconnectionAndHiveChamberInspection",
+    "description": "Fitz and Simmons analyze Radcliffe's research for a cure, sharing a lighthearted moment as Simmons reveals her secret plans for a post-mission vacation. Fitz is called away to inspect Hive's gel matrix chamber and finds Elena's cross, intending to return it to her. Their brief romantic respite is tinged with the urgency of their ongoing mission.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "romantic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I've only scratched the surface of the thumb drive that Radcliffe gave us, and I can already see that he was in way over his head. His enhancements rely on technology. These changes are pure bio. The Parasite in his formula actually attaches itself to strands of DNA."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll find a cure."
+        },
+        {
+            "character": "Fitz",
+            "line": "Possibly, in a decade or so. What are you working on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, nothing. Just browsing some... things."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're a terrible liar."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it was supposed to be a surprise."
+        },
+        {
+            "character": "Fitz",
+            "line": "Booking a trip?"
+        },
+        {
+            "character": "Simmons",
+            "line": "For two."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's a romantic gesture. How very... not you... to be romantic."
+        },
+        {
+            "character": "Simmons",
+            "line": "What? Of cou... That is ridiculous."
+        },
+        {
+            "character": "Fitz",
+            "line": "We both know that I'm the romantic one. But it might not be the best time to be skipping off to the... Seychelles? Does look nice."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hive's in custody, S.H.I.E.L.D. is going to recover that warhead, and then I was thinking that... We've had enough tragedy. A little fun wouldn't kill us. You think I'm not romantic? I'm gonna do something with you on that island that will take your breath away."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is... Are you? Are you? Are you? Wha?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Snorkeling. Did you know there are over 1,000 species of fish in the Seychelles? I cannot wait. Everything all right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I need to go inspect the Gel-Matrix chamber and sign off before they can bring Hive into the base. Is this yours?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. I think it's Yo-Yo's."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right. I'll give it to her."
+        }
+    ]
+}

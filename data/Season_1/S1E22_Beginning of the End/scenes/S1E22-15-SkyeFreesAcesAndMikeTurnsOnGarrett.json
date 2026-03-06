@@ -1,0 +1,106 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 15,
+    "scene_name": "SkyeFreesAcesAndMikeTurnsOnGarrett",
+    "description": "Skye frees Ace Peterson and uses him to send a message to Mike, breaking Cybertek's hold over him. Mike/Deathlok finally turns on Garrett, gravely injuring him with his micro-missile, completing his character arc and helping end Garrett's threat to the team.",
+    "roles": [
+        "skye",
+        "michael_peterson",
+        "phil_coulson",
+        "nick_fury"
+    ],
+    "vibe": "hopeful",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "Kyle?"
+        },
+        {
+            "character": "Zeller",
+            "line": "Oh, baby. I'm so sorry what they did to you. What are you looking for?"
+        },
+        {
+            "character": "Skye",
+            "line": "Our ace in the hole."
+        },
+        {
+            "character": "Garrett",
+            "line": "You remember that speech you used to give us, Nick, about how one man can accomplish anything once he realizes he can be something bigger? Well, now I am."
+        },
+        {
+            "character": "Fury",
+            "line": "A part... a part of something bigger."
+        },
+        {
+            "character": "Garrett",
+            "line": "Is that how it went?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not a great listener."
+        },
+        {
+            "character": "Fury",
+            "line": "If you tell me this whole Hydra path thing you took is because you misheard my damn “one man” speech..."
+        },
+        {
+            "character": "Garrett",
+            "line": "I am the key to the future of the universe. I'm the origin of all things."
+        },
+        {
+            "character": "Fury",
+            "line": "You got it, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Totally. Loud and clear."
+        },
+        {
+            "character": "Zeller",
+            "line": "No, come on, please, I... Aww, man."
+        },
+        {
+            "character": "Skye",
+            "line": "Here. Okay, Ace, I need you to give me a message, okay? Something your father would know could only come from you. I need to prove I have you."
+        },
+        {
+            "character": "Zeller",
+            "line": "It won't matter. I've already told you... there's no way to communicate with Deathlok from in here."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't need to. I've been communicating with him the whole time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fury was teaching us something you didn't want to hear, John, ‘cause you only think about yourself. That's the difference between your side and our side and why we're always gonna win."
+        },
+        {
+            "character": "Garrett",
+            "line": "What lesson, Phil? Please, enlighten me."
+        },
+        {
+            "character": "Garrett",
+            "line": "You can't do this, Mike. I order you to stand down! You must obey me! You need me to translate the words of creation. You don't want to do this, Mike. Tell him, Phil!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Peterson's free to do whatever he wants."
+        },
+        {
+            "character": "Mike",
+            "line": "Raah!"
+        },
+        {
+            "character": "Fury",
+            "line": "You think he learned his lesson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He learned something."
+        }
+    ]
+}

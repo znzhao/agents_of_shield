@@ -1,0 +1,83 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 5,
+    "scene_name": "MackAndCaineVisitGetty",
+    "description": "With Caine's help, Mack visits Dr. Joseph Getty, a former Cybertek scientist who is wary of S.H.I.E.L.D. after being coerced by HYDRA in the past. The group convinces him to recount the fate of the Principia, the cargo vessel that was transporting Gravitonium and vanished during a storm. Getty reveals the ship supposedly sank five miles down, complicating their search.",
+    "roles": [
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Getty",
+            "line": "Oh, this can't be good. Did they find me? Do I have to relocate again?"
+        },
+        {
+            "character": "Caine",
+            "line": "Everything's okay. This isn't an official visit. I just need you to help me find something."
+        },
+        {
+            "character": "Getty",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "Gravitonium."
+        },
+        {
+            "character": "Caine",
+            "line": "It's okay. He's an old friend of mine. You can trust him. He's one of the good guys."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm with S.H.I.E.L.D."
+        },
+        {
+            "character": "Getty",
+            "line": "No, no. They're the bad guys now. I can't be seen talking to a criminal."
+        },
+        {
+            "character": "Mack",
+            "line": "Says the guy who used to work for HYDRA."
+        },
+        {
+            "character": "Caine",
+            "line": "Listen, he had to work for them. They were threatening to kill his family."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Getty",
+            "line": "I still regret everything I did for them, but I'm paying for my sins."
+        },
+        {
+            "character": "Mack",
+            "line": "Saving the world will pay for them all."
+        },
+        {
+            "character": "Getty",
+            "line": "What do you need to know?"
+        },
+        {
+            "character": "Mack",
+            "line": "What happened to the Gravitonium?"
+        },
+        {
+            "character": "Getty",
+            "line": "They put it on a cargo ship, the Principia, to transport it to a facility in the Pacific, but never made it."
+        },
+        {
+            "character": "Mack",
+            "line": "Why? What happened?"
+        },
+        {
+            "character": "Getty",
+            "line": "It sank during a thunderstorm. If you want Gravitonium, you're gonna have to reach 5 miles down into the ocean to get it."
+        }
+    ]
+}

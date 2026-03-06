@@ -1,0 +1,101 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "MissionAssignment",
+    "description": "In the Hub's briefing room, Victoria Hand lays out the mission involving the Overkill Device and selects Ward and Fitz for a covert operation due to Ward's contacts and Fitz's technical expertise. Simmons and Fitz prepare for the mission while Skye wrestles with the team's secrecy and exclusion.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "victoria_hand"
+    ],
+    "vibe": "intense",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I found a localized E.M.P., plus a few other party favors. Oh, come on. What the... Open. It's stuck! The cart's stuck. That's unbelievable. What the hell?! Who designed this?! In the Hub, of all places! Oh, that's..."
+        },
+        {
+            "character": "Ward",
+            "line": "Seriously?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just can't believe you're going in dark, in hostile territory, without comms, lacking any real physical strength. Did I give you an antivenin pack? The Caucasus have a plethora of highly endemic spider species..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, stop. Stop worrying about me. I can do this. Thank you. And don't you do anything rash while I'm gone... like jump out of an airplane."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you'll be careful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I've handled worse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I almost forgot! I made you this. Your favorite sandwich. Prosciutto and buffalo mozzarella."
+        },
+        {
+            "character": "Fitz",
+            "line": "With your homemade pesto Aioli?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Just a hint."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, is this what you wanted? Also, uh, w-what is this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Fitz. A full-sized mag pouch?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Just one of the many tactical decisions I've had to make already."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hmm."
+        },
+        {
+            "character": "Fitz",
+            "line": "And Ward said we needed it."
+        },
+        {
+            "character": "May",
+            "line": "You need to disable the overkill device by 0600 tomorrow in order to prevent the separatist attack."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once you signal S.H.I.E.L.D., the extraction team will get you both out. Take care of him."
+        },
+        {
+            "character": "Ward",
+            "line": "Of course, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "More moving, less talking, Agent Ward. Time's not on our side."
+        },
+        {
+            "character": "Skye",
+            "line": "Does this feel okay to you? Shouldn't we be going with them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The people who put these ops together are the best of the best. They know what they're doing."
+        }
+    ]
+}

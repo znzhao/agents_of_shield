@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 13,
+    "scene_name": "TeamMournsAtZephyr",
+    "description": "Returning to the Zephyr, the team mourns Fitz and reflects on their bittersweet victory. Simmons finds Deke’s room empty, hinting at his erasure from the timeline. The gravity of saving Earth is tempered by loss, as the team shares personal farewells and prepares for the next chapter.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Come on, this is a celebration, not a funeral."
+        },
+        {
+            "character": "Mack",
+            "line": "Remember how good it felt to walk in here when we first got back? The Zephyr has been the one place we've been able to call home these last few years."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll always miss the Bus."
+        },
+        {
+            "character": "May",
+            "line": "Me too."
+        },
+        {
+            "character": "Elena",
+            "line": "I wish I would have known you guys back then."
+        },
+        {
+            "character": "Simmons",
+            "line": "We were different people back then."
+        },
+        {
+            "character": "Coulson",
+            "line": "I spent a lot of years... Sorry. I've lived a life surrounded by heroes. None bigger than all of you. Since the day you joined, same as anyone in the line of duty. Heroes... because you... because we sign up to lose each other. To get close to good people and have them taken away. We've all suffered losses. Never lose sight of that."
+        },
+        {
+            "character": "Daisy",
+            "line": "And never forget those we've lost."
+        },
+        {
+            "character": "May",
+            "line": "That's right."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that's why we're putting that badge up in the cockpit. To never forget."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't have to forget but you have to move on."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. With respect, sir, you're wrong. We don't move on. We hold that place in our heart. We close it off and we lock the door and we visit from time to time, but we don't move on. Even after we say goodbye."
+        }
+    ]
+}

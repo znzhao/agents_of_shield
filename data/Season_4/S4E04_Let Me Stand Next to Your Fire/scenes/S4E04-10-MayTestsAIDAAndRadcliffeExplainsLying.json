@@ -1,0 +1,86 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 10,
+    "scene_name": "MayTestsAIDAAndRadcliffeExplainsLying",
+    "description": "May, her recovery monitored by Fitz and Radcliffe, tries to push for more freedom, while AIDA and Radcliffe discuss the ethics and necessity of lying. May praises AIDA's no-nonsense attitude, unaware of her true nature. Radcliffe later instructs AIDA that sometimes lies are required to protect lives, especially while her existence is kept from S.H.I.E.L.D.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida",
+        "leo_fitz"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "So, you see, to cease the hormonal cascade produced by the adrenal medulla and prevent further physical degradation..."
+        },
+        {
+            "character": "May",
+            "line": "You shut off my brain."
+        },
+        {
+            "character": "AIDA",
+            "line": "Exactly. I'm glad you understand."
+        },
+        {
+            "character": "May",
+            "line": "Oh, that's the only thing I understand."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The point is, even though you may be feeling better, you suffered some very real, very severe brain trauma."
+        },
+        {
+            "character": "Fitz",
+            "line": "That said, we're gonna have to keep you just a wee bit longer for further testing."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Just to track your improvements before we release you."
+        },
+        {
+            "character": "May",
+            "line": "(Speaking Mandarin)"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Agent May says you can shove all your tests up your ass."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, that's not very nice."
+        },
+        {
+            "character": "May",
+            "line": "You speak Chinese? Where are you from?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Well, most of me is Chinese."
+        },
+        {
+            "character": "Fitz",
+            "line": "Canadian. She's a Ca... She's Canadian, Ontario. Yeah, yeah, big Chinese population there. She did move around a lot as a kid, ‘cause she's an army brat. Oh. Um, AIDA, if you could go and ready the framework for one last scan, please?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Of course."
+        },
+        {
+            "character": "May",
+            "line": "You've been hiding AIDA from me. It's too bad. I like her. No nonsense, just business. Very impressive."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, they don't make them like AIDA, do they?"
+        }
+    ]
+}

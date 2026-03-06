@@ -1,0 +1,62 @@
+{
+    "season": 7,
+    "episode": 8,
+    "num": 13,
+    "scene_name": "AftermathAndNewThreatKoraAndMalick",
+    "description": "As the Zephyr stabilizes, Deke and Enoch reflect on their experience. Meanwhile, Nathaniel and Kora discuss their plans for upheaval, hinting at a wider threat as they declare their intent to create chaos and challenge the established order of powers in the world.",
+    "roles": [
+        "deke_shaw",
+        "enoch",
+        "nathaniel_malick",
+        "kora"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "So, what do you think? Can this thing get us home?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I am guardedly optimistic."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, I'll take that. I mean, don't get me wrong, there's a lot of stuff that I'm gonna really miss about the '80s. Hey, do you play the drums, by any chance?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I can keep tempo."
+        },
+        {
+            "character": "Deke",
+            "line": "Wait, what's happening?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It didn't work."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "This just feels right, don't you think? You here, them there. Everybody finally knowing their place."
+        },
+        {
+            "character": "Kora",
+            "line": "What are you gonna do to them?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Let's call it a redistribution of wealth. Take stabby here...did he ever do anything to deserve that power of his? No. Just following an ancient set of ancient practices. You know, all these rules... who's given a gift, who's given nothing. Who lives, who dies. It's all written in the stars. I feel like we should shake things up. Give the world a little something new."
+        },
+        {
+            "character": "Kora",
+            "line": "And what's that?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Anarchy."
+        }
+    ]
+}

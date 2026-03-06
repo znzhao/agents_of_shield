@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 3,
+    "scene_name": "FitzSimmonsInvestigateGH325",
+    "description": "Fitz and Simmons discuss their failed attempts to isolate the GH.325 compound from Skye’s blood, revealing their scientific curiosity and the secrecy Coulson has demanded. Their frustration is evident as they debate whether to send samples to S.H.I.E.L.D. HQ, and foreshadow continued conflict. Their technical exchanges contrast with the episode's supernatural events.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "She's beginning to get suspicious of all the blood I'm taking."
+        },
+        {
+            "character": "Fitz",
+            "line": "No wonder. How many samples have you tested each day?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not enough. Not enough to find anything in her blood or Coulson's. There isn't ample residue remaining in the vial to examine after we emptied it into her bloodstream. Such a pity we only found the one."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, excuse me for not sticking around long enough to get blown to pieces."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's just that the last sample of this miracle drug is inside Skye."
+        },
+        {
+            "character": "Fitz",
+            "line": "You can't find any trace of it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. She's healing at an exponential rate, but I can't detect anything irregular on a cellular level."
+        },
+        {
+            "character": "Fitz",
+            "line": "And you've explained to Coulson that you need to upload the samples to H.Q.?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He shut me down, said to keep it in-house. I mean, this drug could be a phenomenal breakthrough, could save countless lives. Why is he being so twitchy? Well, you were down in the bunker with him. Did you see anything peculiar?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Everything was peculiar."
+        },
+        {
+            "character": "Streiten",
+            "line": "Director Fury moved heaven and Earth."
+        }
+    ]
+}

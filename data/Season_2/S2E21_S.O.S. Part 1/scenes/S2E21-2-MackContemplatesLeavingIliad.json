@@ -1,0 +1,59 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 2,
+    "scene_name": "MackContemplatesLeavingIliad",
+    "description": "On The Iliad, Mack considers leaving S.H.I.E.L.D., discussing it with Oliver and Harris. The news arrives that Gonzales is dead, which changes the sense of security and raises urgency. This underscores the destabilization within S.H.I.E.L.D. leadership.",
+    "roles": [
+        "alphonso_mackenzie"
+    ],
+    "vibe": "melancholic",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "And my brother's been on me for years, wants us to motorcycle down to Baja."
+        },
+        {
+            "character": "Oliver",
+            "line": "Beaches and desert, you'll get bored."
+        },
+        {
+            "character": "Mack",
+            "line": "Truthfully, bored would be a nice change of pace."
+        },
+        {
+            "character": "Oliver",
+            "line": "So... there's nothing I can say?"
+        },
+        {
+            "character": "Mack",
+            "line": "To change my mind? No. I just need some time to figure out my next move."
+        },
+        {
+            "character": "Mack",
+            "line": "Harris, what happened?"
+        },
+        {
+            "character": "Harris",
+            "line": "Gonzales is dead."
+        },
+        {
+            "character": "Oliver",
+            "line": "What? When?"
+        },
+        {
+            "character": "Harris",
+            "line": "At the sit-down. That's what people are saying. We're waiting on orders."
+        },
+        {
+            "character": "Cal",
+            "line": "♪ I'm half-crazy ♪"
+        },
+        {
+            "character": "Coulson",
+            "line": "Jemma, do we have confirmation on who actually fired the missile?"
+        }
+    ]
+}

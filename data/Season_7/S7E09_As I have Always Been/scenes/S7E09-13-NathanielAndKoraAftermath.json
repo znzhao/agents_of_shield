@@ -1,0 +1,32 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 13,
+    "scene_name": "NathanielAndKoraAftermath",
+    "description": "In the episode's coda, Nathaniel Malick and Kora are seen together elsewhere following their subplot. Nathaniel encourages Kora to wield her powers with confidence, indicating the development of her abilities and foreshadowing further confrontations with the S.H.I.E.L.D. team as the season nears its end.",
+    "roles": [
+        "nathaniel_malick",
+        "kora"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "Don't overthink it. Let the energy flow through you. Let it fill you up. And then... send it where you want it to go."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Brava! My friend, Brava."
+        },
+        {
+            "character": "Kora",
+            "line": "I've spent years feeling dangerous. This is the first time I've liked it."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Good. You know, your little sister is gonna be so impressed."
+        }
+    ]
+}

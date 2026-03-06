@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 11,
+    "scene_name": "FitzSimmonsBreakthrough",
+    "description": "Fitz and Simmons argue about the choices that led them to fieldwork, but come to a realization—the only way to a cure lies within the Chitauri helmet itself. Fitz courageously enters the quarantine to help Simmons directly, highlighting their profound bond. Together, they attempt another round of tests.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Hey, it's not the device. Hey, don't put this on me. I was doing just fine, tucked away in a safe, indoor, non-mobile lab at the academy! Then you had to go and drag us into this flying circus! Didn't even pass our field assessments, for god's sake!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, please, as if I forced you to follow me anywhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "You said, and I quote... “Oh, Fitz, it's the most perfect opportunity for us to see the world! We'd be fools to pass this one up!”"
+        },
+        {
+            "character": "Simmons",
+            "line": "I hate it when you use that voice. That's not even how I sound. And you were just afraid of going into the field."
+        },
+        {
+            "character": "Fitz",
+            "line": "I was not afraid."
+        },
+        {
+            "character": "Simmons",
+            "line": "And don't you dare act like these last months haven't been the highlight of your entire pasty life!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Pasty? Oh, really? Well, when did you become so sun-kissed? Because I'm pretty sure that every minute of every day, you've been stuck in a lab right beside me. At the academy, at sci-ops, this plane, you've been beside me the whole damn time!"
+        },
+        {
+            "character": "Fitz",
+            "line": "You have to fix this."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know how, Fitz. The antibodies from the three firefighters aren't strong enough to fight this virus. It's born from alien DNA. There's no one... to create an antiserum from because no one's actually survived this except... the Chitauri."
+        },
+        {
+            "character": "Fitz",
+            "line": "The Chitauri. Well, the minky bastard who actually wore the helmet had the virus..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and managed to survive without ever emitting an electrostatic pulse because..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It was immune."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes! She... she was just the carrier, like Typhoid Mary."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, “she?” Well, no, wait. That... you don't really think that... okay, doesn't matter. Um, so if... if I can scrape some epithelial cells from the inside of the helmet, we can create a vaccine?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes! Antiserum, but yes."
+        },
+        {
+            "character": "Skye",
+            "line": "Isn't that..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Simmons",
+            "line": "No! That... You can't be in here!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Too late. It's done. Just try and do your best to keep your hands off me, yeah?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, I don't know what you think you're doing, but..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm doing what we always do. We're gonna fix this, together."
+        },
+        {
+            "character": "Fitz",
+            "line": "Third time's a charm. May I do the honors?"
+        },
+        {
+            "character": "Skye",
+            "line": "I can't breathe."
+        },
+        {
+            "character": "Simmons",
+            "line": "We did it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, I know the protocol in these circumstances, but could you please tell my dad first? I just think my Mum would take it better if it comes from him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not there yet. There's still time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, please. Would you mind if I had a brief moment alone with Fitz?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. Let's go."
+        }
+    ]
+}

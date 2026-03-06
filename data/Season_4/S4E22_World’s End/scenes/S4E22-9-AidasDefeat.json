@@ -1,0 +1,70 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 9,
+    "scene_name": "AidasDefeat",
+    "description": "Aida teleports away but accidentally brings Coulson (as Ghost Rider) with her. They return to the Playground, where Ghost Rider unleashes his power, incinerating Aida. FitzSimmons witness her demise. With Aida gone, the immediate threat is neutralized, but emotional devastation lingers for Fitz and the rest of the team.",
+    "roles": [
+        "aida",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "Agent Coulson. Do you really think you can stop me from taking the darkhold?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. I figure it's worth a shot."
+        },
+        {
+            "character": "AIDA",
+            "line": "There's only one person who might be able to stop me, and he isn't here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, see, that's where I think you might be missing the point. I know you've only been human for a little while, but there's a basic human concept you really need to learn. It's called teamwork."
+        },
+        {
+            "character": "AIDA",
+            "line": "Your trap failed. Your weapon can't stop me."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. I just really wanted to do that."
+        },
+        {
+            "character": "AIDA",
+            "line": "Now it's my turn. Don't you get it? You can't kill me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe not. But I'm pretty sure he can."
+        },
+        {
+            "character": "Simmons",
+            "line": "Good luck, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're at Mack's house. I don't know how much longer I can protect them."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm trying to build a back door now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is she really...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        }
+    ]
+}

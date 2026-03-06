@@ -1,0 +1,35 @@
+{
+    "role_ids": [
+        "bobbi_morse",
+        "lance_hunter",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "skye",
+        "gideon_malick"
+    ],
+    "aliases": [
+        "Bobbi",
+        "Hunter",
+        "Coulson",
+        "Simmons",
+        "Fitz",
+        "Mack",
+        "May",
+        "Daisy",
+        "Malick"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Inhumans",
+        "Hydra",
+        "Advanced Threat Containment Unit (ATCU)"
+    ],
+    "locations": [
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Siberian military base (Malick rendezvous)",
+        "The Cocoon (S.H.I.E.L.D. Inhuman training/containment facility)"
+    ]
+}

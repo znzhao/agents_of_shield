@@ -1,0 +1,34 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 12,
+    "scene_name": "TalbotBecomesGraviton",
+    "description": "With Simmons incapacitated, Talbot steps into the Particle Infusion Chamber and bonds with the gravitonium, acquiring immense power. He emerges from the lab, impervious to the Remorath and able to effortlessly destroy them. Talbot takes Coulson, rips through the roof of the Lighthouse, and flies them both outside, dramatically breaking the lockdown and single-handedly ending the siege. The S.H.I.E.L.D. agents—and the world—face a new and unpredictable force.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "thrilling",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Simmons. You okay? Where's Talbot?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I told you I could fix this."
+        },
+        {
+            "character": "Stoner",
+            "line": "Citizens of the Lighthouse, I bring you excellent news. The outer atmosphere shows no signs of contamination. Congratulations. You have survived the nuclear apocalypse. The planet is safe again."
+        }
+    ]
+}

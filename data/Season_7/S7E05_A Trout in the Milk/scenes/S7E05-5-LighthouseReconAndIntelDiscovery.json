@@ -1,0 +1,122 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 5,
+    "scene_name": "LighthouseReconAndIntelDiscovery",
+    "description": "Mack and Elena investigate the operational Lighthouse, realizing it's now a launch facility for Insight. Daisy and Sousa search Malick’s secret office for information, discovering a list of targets for Project Insight—names including Bruce Banner and Peggy Carter, which shouldn't exist yet. The realization dawns that the Chronicoms have supplied intelligence from the future, escalating their mission’s stakes.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "sousa"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "All of this looks different. These guys have been busy. It looks like they're rerouting power to something big."
+        },
+        {
+            "character": "Elena",
+            "line": "Probably nothing good. Let's take the Quinjet and get back."
+        },
+        {
+            "character": "Mack",
+            "line": "What, are you worried? It's still S.H.I.E.L.D., just an active base."
+        },
+        {
+            "character": "Elena",
+            "line": "You saw the man in blue."
+        },
+        {
+            "character": "Mack",
+            "line": "The Agent in the throwback uni? Well, hell, I thought he looked pretty tight."
+        },
+        {
+            "character": "Elena",
+            "line": "You ever see a James Bond movie, Mack? An underground base full of men in jumpsuits...always a bad deal."
+        },
+        {
+            "character": "Elena",
+            "line": "See? Called it."
+        },
+        {
+            "character": "Daisy",
+            "line": "He mentioned a windowless office. Malick must be using this space."
+        },
+        {
+            "character": "Sousa",
+            "line": "What, have you been here before?"
+        },
+        {
+            "character": "Daisy",
+            "line": "A few days ago. 1931. He redecorated."
+        },
+        {
+            "character": "Sousa",
+            "line": "Whoa. High-tech."
+        },
+        {
+            "character": "Daisy",
+            "line": "It must be his new base of operations."
+        },
+        {
+            "character": "Sousa",
+            "line": "Hydra won't be needing this, will they?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Good thing about computers in 1973... no firewalls."
+        },
+        {
+            "character": "Sousa",
+            "line": "I have no idea what that means. What are you looking for?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a list of targets for Insight. These are mostly S.H.I.E.L.D. assets. Wait. Bruce Banner?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Never heard of him."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's 'cause he's just a kid now, but in a few decades, he becomes an Avenger."
+        },
+        {
+            "character": "Sousa",
+            "line": "Is that a good thing or a bad thing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a good thing."
+        },
+        {
+            "character": "Sousa",
+            "line": "S-So they'll do a bad thing...pick him off while he's still young."
+        },
+        {
+            "character": "Daisy",
+            "line": "Exactly."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm starting to think you guys made the timeline worse than it was before."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have no time to speculate."
+        },
+        {
+            "character": "Sousa",
+            "line": "Speculate? This is more than just a trout in the milk. There's only one way Hydra could have gotten names from the future."
+        },
+        {
+            "character": "May",
+            "line": "They're here. Time to go."
+        }
+    ]
+}

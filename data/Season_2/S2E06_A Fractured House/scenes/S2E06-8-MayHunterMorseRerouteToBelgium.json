@@ -1,0 +1,47 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 8,
+    "scene_name": "MayHunterMorseRerouteToBelgium",
+    "description": "May, Hunter, and Morse coordinate with Coulson about rerouting to Belgium after learning Beckers is the next target. Coulson emphasizes the high stakes, as failing to save Beckers would doom S.H.I.E.L.D. diplomatically. Teamwork and urgency abound as they rush to try and save Beckers at the S.H.I.E.L.D. safe house.",
+    "roles": [
+        "melinda_may",
+        "lance_hunter",
+        "bobbi_morse",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I struck a deal with the senator. He'll reverse his anti-S.H.I.E.L.D. proposal in exchange for his brother."
+        },
+        {
+            "character": "May",
+            "line": "Long time coming. And Skye?"
+        },
+        {
+            "character": "Skye",
+            "line": "I got everything I needed."
+        },
+        {
+            "character": "May",
+            "line": "Good. We'll touch down in Belgium soon. Try to get to Beckers before Whitehall's team does."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't have to remind you that if he's killed, the U.N. will come after us no matter what the senator says or does."
+        },
+        {
+            "character": "May",
+            "line": "We'll be in touch."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "We got Beckers' location."
+        }
+    ]
+}

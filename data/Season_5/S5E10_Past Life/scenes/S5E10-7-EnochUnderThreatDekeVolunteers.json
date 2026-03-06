@@ -1,0 +1,98 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 7,
+    "scene_name": "EnochUnderThreatDekeVolunteers",
+    "description": "Enoch broadcasts that the Kree are closing in on him and cannot hold them off much longer. The team debates who should attempt to secure the machine. Deke volunteers to go, arguing that none of the time travelers should risk the mission. He resolves to secure Enoch and the portal, even though the odds are poor. Daisy tries to join, but Deke insists she must stay and lead.",
+    "roles": [
+        "enoch",
+        "phil_coulson",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Hello, again. They have located me. Repeat, they have located me."
+        },
+        {
+            "character": "Coulson",
+            "line": "We copy. You sure they found you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "The evidence is highly suggestive."
+        },
+        {
+            "character": "Coulson",
+            "line": "We never should have left him alone."
+        },
+        {
+            "character": "May",
+            "line": "We're here forever if he loses control of that machine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Enoch, how long can you hold out?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I calculate 12 minutes."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? That is not enough time. That machine activates a Monolith we haven't even built yet."
+        },
+        {
+            "character": "May",
+            "line": "We have to go secure the Zephyr."
+        },
+        {
+            "character": "Deke",
+            "line": "Damn it. Really? We had to leave the machine in the hands of some automaton? I knew the moment that I laid eyes on all of you that it was gonna spell my downfall. I'll go. I'll secure the machine and save the weird robot."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, I'll come. It'd be better if we take the plane together."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. No duh. But none of the time travelers can go, because you all need to be at the rendezvous when it's turned on, so do the math."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're one guy against the Kree. You'll be massively outgunned."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm kind of trying to do the whole hero thing here, man. Is that your pep talk? You guys get killed, and who saves the world then? I told my parents not to believe in this roachcrap fairy tale, and they went and they died for it anyway. And I'm probably next in line. But there is no way in hell that I am gonna let some blue Kreeper destroy that machine before I get to see whether or not that damn thing was worth any of this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look, I'm sure you put up a good fight, but if my ride home depends on that machine, I'm gonna secure it myself."
+        },
+        {
+            "character": "Deke",
+            "line": "You... You drive me out of my skull, this part of you, this impetuous, bullheaded squabb..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I was offering backup, genius."
+        },
+        {
+            "character": "Deke",
+            "line": "No, when the other side of you is a friggin' hero who can't help herself but do good, then be great. The world needs that person to make it home. Just try not to destroy it when you get there."
+        },
+        {
+            "character": "Daisy",
+            "line": "It was almost nice knowing you."
+        },
+        {
+            "character": "Deke",
+            "line": "And you're a pain in my ass."
+        }
+    ]
+}

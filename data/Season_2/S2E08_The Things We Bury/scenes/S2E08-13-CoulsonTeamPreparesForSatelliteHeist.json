@@ -1,0 +1,86 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 13,
+    "scene_name": "CoulsonTeamPreparesForSatelliteHeist",
+    "description": "On the S.H.I.E.L.D. Bus, Coulson gives instructions for infiltrating a satellite network in Australia, sending his team (Skye, Fitz, and Triplett) to install devices and gain access to the network. The plan’s details are precise and each agent has a crucial part to play. Fitz feels the pressure, but Coulson motivates him, emphasizing practice and muscle memory.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "The satellite network we need to map the Earth and find the city is controlled by the U.S. Air Force facility at Kaena point, Oahu. And it's too heavily guarded to infiltrate. Which is why we came to Australia instead. There's a small station here that comes online whenever Kaena point's feed goes down."
+        },
+        {
+            "character": "Skye",
+            "line": "But Kaena still needs to go down."
+        },
+        {
+            "character": "Coulson",
+            "line": "You already took care of that. The watch and the button are two pieces of a trojan horse. They'll take down the base's feed."
+        },
+        {
+            "character": "Triplett",
+            "line": "Man with the plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once per quarter, General Cole inspects Kaena point. This time, he'll meet the new relay commander."
+        },
+        {
+            "character": "Skye",
+            "line": "Let me guess... commander's name is Darren."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's right. And since he's new, introductions will be made. On their own, these two pieces are harmless, undetectable to security. But as they near each other, they'll power up an E.M.P., and boom... kiss your wi-fi, your coffee maker, and your top-secret satellite feed goodbye."
+        },
+        {
+            "character": "Skye",
+            "line": "And the australian site goes online."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll have roughly six minutes to patch a back end into the network. Trip, you'll provide backup. Fitz, you'll install the transceiver to let Skye hack the network So that we can find out if this city exists once and for all."
+        },
+        {
+            "character": "Triplett",
+            "line": "All because a general got too fat for his jacket."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, how you coming with the transceiver patch?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I've got it down to 7 minutes, 20 seconds."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not good enough."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, that's with my bad hand. With both, I can do it, definitely."
+        },
+        {
+            "character": "Coulson",
+            "line": "We may actually have a shot at finding the city."
+        },
+        {
+            "character": "Skye",
+            "line": "You sure it's something you want to dig up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If we don't, HYDRA will. We need to get there first."
+        }
+    ]
+}

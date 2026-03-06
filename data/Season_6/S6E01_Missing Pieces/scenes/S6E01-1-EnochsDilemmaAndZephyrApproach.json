@@ -1,0 +1,58 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 1,
+    "scene_name": "EnochsDilemmaAndZephyrApproach",
+    "description": "Enoch contemplates the best way to protect Fitz, who is in cryo-sleep, as their ship faces danger. Meanwhile, on Zephyr One, Davis, Piper, Daisy, and Simmons coordinate as they prepare for landing in hostile territory after escaping pursuit. Their banter shows the stress and camaraderie among the team as they approach the planet D'Rillian, hoping to find answers about Fitz's whereabouts.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Apologies, Agent Fitz. We find ourselves in a bit of a conundrum. I was prepared to guard this vessel for the next years, days. But I now must calculate your best chances of survival. ♪♪ An extremely... difficult computation. Considering the circumstance."
+        },
+        {
+            "character": "Davis",
+            "line": "Piper? Talk to me! Are they still on our tail? Piper!"
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, I hear you, Davis! Give me a second, breathe! I'm trying to cool the drive lines. Look, I ran a multi-spec scan, 360 3-D."
+        },
+        {
+            "character": "Davis",
+            "line": "And? And..."
+        },
+        {
+            "character": "Piper",
+            "line": "Nothing. Nothing, we're clear!"
+        },
+        {
+            "character": "Davis",
+            "line": "Well, don't put your feet up yet. We've still got to put this thing down in unwelcome territory."
+        },
+        {
+            "character": "Piper",
+            "line": "Daisy, we're on approach. Be ready."
+        },
+        {
+            "character": "Davis",
+            "line": "Not my best."
+        },
+        {
+            "character": "Piper",
+            "line": "Not your best, Davis!"
+        },
+        {
+            "character": "Davis",
+            "line": "Thanks, sidekick!"
+        }
+    ]
+}

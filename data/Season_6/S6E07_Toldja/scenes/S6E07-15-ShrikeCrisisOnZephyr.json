@@ -1,0 +1,198 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "ShrikeCrisisOnZephyr",
+    "description": "On Zephyr One, May's team transports the two Shrike, only for the creatures to react violently, triggering a deadly crystallization process. Mack and Daisy desperately seek input from Sarge to stop the escalating situation. Sarge leverages the crisis, demanding his crew and truck in exchange for advice, ultimately telling them that cold will kill the Shrike. May executes a plan to expose the infected area to the freezing atmosphere, saving the plane. The team averts disaster but is left shaken and forced to rely on Sarge's expertise.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "HQ, this is Zephyr One. We have collected the Shrike. Both are calm and contained. Setting a course for home."
+        },
+        {
+            "character": "Diaz",
+            "line": "Agent Rodriguez. What are they doing?"
+        },
+        {
+            "character": "Elena",
+            "line": "I don't know. Close the door."
+        },
+        {
+            "character": "Elena",
+            "line": "May, these guys started shaking and screaming as soon as we put them together!"
+        },
+        {
+            "character": "May",
+            "line": "Copy that. I'll contact HQ. Control, seems like whatever they're doing, it's a reaction to their close proximity."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, see if you can sedate them, but keep them in a containment module."
+        },
+        {
+            "character": "Mack",
+            "line": "He knew."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do you mean?"
+        },
+        {
+            "character": "Mack",
+            "line": "The way Sarge reacted when I told him we had the two Shrike. He knew something was gonna happen."
+        },
+        {
+            "character": "Daisy",
+            "line": "We gotta get him in here, don't we?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Just a guess... Those Shrike you were so proud you bagged, did they get a little spooky on you?"
+        },
+        {
+            "character": "Mack",
+            "line": "My Agents are in trouble."
+        },
+        {
+            "character": "Sarge",
+            "line": "So that's a yes. Get used to trouble. More's on the way."
+        },
+        {
+            "character": "Mack",
+            "line": "What are they getting ready to do?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Kill everyone on that aircraft."
+        },
+        {
+            "character": "Mack",
+            "line": "Tell me how to stop that from happening!"
+        },
+        {
+            "character": "Sarge",
+            "line": "I showed you. You stick a knife in them, but it's too late for that now because you wanted to save lives."
+        },
+        {
+            "character": "Elena",
+            "line": "Fire until they're done. Fire!"
+        },
+        {
+            "character": "May",
+            "line": "Agent down. And we lost the hosts."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that."
+        },
+        {
+            "character": "May",
+            "line": "Whatever they've turned into, it's contained for the moment, but it wants out. Should we jettison the module?"
+        },
+        {
+            "character": "Sarge",
+            "line": "You don't want to do that. It feeds on life. You put it on the ground, you'll just be giving it more to consume."
+        },
+        {
+            "character": "Daisy",
+            "line": "Negative. Do not jettison."
+        },
+        {
+            "character": "Mack",
+            "line": "What should we do with it?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I guess this is where I give you my list of demands."
+        },
+        {
+            "character": "Elena",
+            "line": "May! There's no way that's gonna hold! And if it gets out, we could lose the plane."
+        },
+        {
+            "character": "May",
+            "line": "Control, do you have anything for us? It's breaking containment. Control!"
+        },
+        {
+            "character": "Mack",
+            "line": "What do you want?"
+        },
+        {
+            "character": "Sarge",
+            "line": "My team and my truck. Then I give you something that maybe saves your plane."
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Depends how bad it is up there."
+        },
+        {
+            "character": "Elena",
+            "line": "Here. Just stay behind me. May, if base has a solution, now would be a good moment for it."
+        },
+        {
+            "character": "May",
+            "line": "Control, Yo-Yo's in there with it. Give us something."
+        },
+        {
+            "character": "Mack",
+            "line": "Deal! Your truck and your crew, now what do we do?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Cold. That stuff can't survive it."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, altitude. Cold kills it. What's your altimeter?"
+        },
+        {
+            "character": "May",
+            "line": "We're high enough. Yo-Yo, we're gonna freeze that thing. I need to depressurize and open the ramp. Get out. Now."
+        },
+        {
+            "character": "Elena",
+            "line": "Too late for that! Get some oxygen! Hold on!"
+        },
+        {
+            "character": "May",
+            "line": "Yo-Yo? Do you copy? Yo-Yo!"
+        },
+        {
+            "character": "Elena",
+            "line": "We're good."
+        },
+        {
+            "character": "May",
+            "line": "Zephyr is safe. We're coming home."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that. We'll see you soon."
+        },
+        {
+            "character": "Sarge",
+            "line": "Don't get comfortable. There's a lot more out there where those two came from. And their maker's coming."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do we do next?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Told ya."
+        }
+    ]
+}

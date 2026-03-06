@@ -1,0 +1,116 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 4,
+    "scene_name": "ZephyrLaunchAndContainment",
+    "description": "Hive pilots the Zephyr into the sky, using Ward and Will's memories to control the ship. Daisy is dragged into the containment module, rendered a prisoner while James and Giyera set up for the dispersal of the pathogen. Meanwhile, May and Fitz have stowed away underneath the module, plotting their next move. On the ground, Simmons realizes the Primitives’ weakness to heat and uses the building’s furnace to begin a daring plan to blind them and assist the remaining team members.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "giyera",
+        "james"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "The heat."
+        },
+        {
+            "character": "Coulson",
+            "line": "There are a lot of agents still out there."
+        },
+        {
+            "character": "Lincoln",
+            "line": "At least Yo-Yo's stabilized."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. Don't do that to me. Don't take a bullet in the gut for me."
+        },
+        {
+            "character": "Elena",
+            "line": "I try and catch them. Too slow."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This is very impressive. Is this the young Scotsman's work? Huh. Of course. Huh. Know if has a working model yet? Are you serious? Oh, this is stunning. Must be looking for another way in."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "May",
+            "line": "Grabbing you, taking back the Zephyr."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Fitz, don't open that."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I should be in here. I'm a liability."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, well, I think there's some weapons in the back."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Guys, she's burning up. Could be a sign of infection, which means we'll need antibiotics."
+        },
+        {
+            "character": "Mack",
+            "line": "And it's hot as hell in here. I'm sweating like a horse."
+        },
+        {
+            "character": "Coulson",
+            "line": "It is. I thought the power was off."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, the heating system's old school. It doesn't need electricity. What? They crank up the heat? Why would they do that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Trying to flush us out? Why else?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "She's blinding them. Simmons. Genius, you say? She must've figured it out. Their eyes were damaged, clouded over. I suspected they could see somehow, but it must be..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Infrared."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Must be infrared. Clever girl. Crank the heating up to 110 degrees Fahrenheit, and we're free to move around as we please."
+        },
+        {
+            "character": "Mack",
+            "line": "So you want us to go out there on a hunch and hope those things don't rip us apart?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's not a hunch. It's science. It's a science hunch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Doctor."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, we better follow him. He has no idea where he's going."
+        }
+    ]
+}

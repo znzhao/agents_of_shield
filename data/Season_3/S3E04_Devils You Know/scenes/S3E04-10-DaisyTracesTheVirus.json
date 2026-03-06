@@ -1,0 +1,109 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 10,
+    "scene_name": "DaisyTracesTheVirus",
+    "description": "Daisy, after gathering intel from the ATCU, traces the virus that has been used to locate Inhumans to Dwight Frye, a reclusive former I.T. employee. Coulson and Daisy theorize that Frye might have been the killer before Terrigenesis, debating the possibility of ATCU's involvement. This leads to a plan for Coulson, Mack, and Daisy to confront Frye and uncover the truth.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I reached out to the ATCU and talked to that guy Banks."
+        },
+        {
+            "character": "Coulson",
+            "line": "What did he give you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Besides a case of the creeps, he said the virus I found was sent out to the other Inhumans they've come across. They just didn't spot it."
+        },
+        {
+            "character": "Coulson",
+            "line": "See? Cooperation pays off."
+        },
+        {
+            "character": "Daisy",
+            "line": "It was hardly cooperation. Not only didn't they find the virus, but they couldn't trace it, either."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm guessing you did."
+        },
+        {
+            "character": "Daisy",
+            "line": "Meet Dwight Frye... former programmer, serial online gamer, and I.T. guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "The killer has an I.T. guy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What if he was one before he changed?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Interesting theory. He works for the social security administration."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but he hasn't been there in weeks."
+        },
+        {
+            "character": "Coulson",
+            "line": "He'd have access to all kinds of records, be able to track people."
+        },
+        {
+            "character": "Daisy",
+            "line": "Forget that. How did the ATCU not track him? He's one of their own. He's a government employee."
+        },
+        {
+            "character": "Coulson",
+            "line": "You think the ATCU knew about him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Worse. What if they're running him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think the conspiracy nut in you had a few too many lattes this morning."
+        },
+        {
+            "character": "Daisy",
+            "line": "I did have a latte. It was a double. But if I didn't know any better, I'd say you were defending the ATCU, or the dragon lady."
+        },
+        {
+            "character": "Coulson",
+            "line": "I assume you mean Rosalind?"
+        },
+        {
+            "character": "Daisy",
+            "line": "There's that first-name thing again, it's a dead giveaway. I mean, don't feel bad. She's sharp, attractive, head of a big, shady organization."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't like where this is going."
+        },
+        {
+            "character": "Daisy",
+            "line": "You think I do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go grab Mack and a flight team. We're gonna see what this Mr. Frye has to say for himself."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that."
+        }
+    ]
+}

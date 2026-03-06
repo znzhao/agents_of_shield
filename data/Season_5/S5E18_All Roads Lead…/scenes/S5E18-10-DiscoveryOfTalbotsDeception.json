@@ -1,0 +1,71 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 10,
+    "scene_name": "DiscoveryOfTalbotsDeception",
+    "description": "Back at the Lighthouse, Coulson and Mack realize Robin is missing and deduce that Talbot is responsible after spotting evidence of tampered security feeds. Deke finds Polly unconscious, and the urgency to find Talbot—and protect Robin—increases sharply.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "glenn_talbot",
+        "robin_hinton"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It's not a bird, it's a plane."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, give me a break. It looks nothing like the Zephyr."
+        },
+        {
+            "character": "Deke",
+            "line": "You guys arguing over drawings? Welcome to my entire childhood."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, we're wasting our time. Why don't we just ask her what these crayon doodles mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You can go down there, but ask Deke. Robin's a seer, not really a teller. Hey. What's with Robin's floor? Is that paused?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Polly? She's breathing."
+        },
+        {
+            "character": "Deke",
+            "line": "Where's Robin?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been breached. Someone must have infiltrated the Lighthouse."
+        },
+        {
+            "character": "Mack",
+            "line": "He took her. Talbot took Robin."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. He wouldn't."
+        },
+        {
+            "character": "Mack",
+            "line": "Earlier, I saw him. He... He was messing with the feeds. And he mumbled something. Said... Said he was happy to comply."
+        },
+        {
+            "character": "Coulson",
+            "line": "HYDRA had him for six months. How could I have missed it? We have to find him."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll stay with her."
+        }
+    ]
+}

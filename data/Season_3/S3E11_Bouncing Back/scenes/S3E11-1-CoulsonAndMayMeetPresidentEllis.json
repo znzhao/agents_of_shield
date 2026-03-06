@@ -1,0 +1,56 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "CoulsonAndMayMeetPresidentEllis",
+    "description": "Coulson and May meet President Ellis to discuss the future of S.H.I.E.L.D. and the Inhumans, holding the meeting in Rosalind Price's old apartment for security. Ellis sets conditions for S.H.I.E.L.D. to operate effectively as a covert organization under the ATCU's public face and hints that Coulson should take initiative regarding Gideon Malick. The conversation is a mixture of pragmatic strategy and emotional reflection on Rosalind's loss.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "This can't be easy."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's fine."
+        },
+        {
+            "character": "May",
+            "line": "Can I ask, why here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I want him to see where it happened. Besides, I wasn't about to give him the location of our base. And apparently, he didn't want to invite us to his house."
+        },
+        {
+            "character": "Man",
+            "line": "All clear."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. President."
+        },
+        {
+            "character": "President",
+            "line": "Director Coulson. Thank you for meeting me. Long overdue. Rosalind spoke highly of you. She believed that I should be working with S.H.I.E.L.D. I did always value her judgment. I'll miss her."
+        },
+        {
+            "character": "Coulson",
+            "line": "I assume we're not here to share memories of a fallen friend."
+        },
+        {
+            "character": "President",
+            "line": "This... this problem... Rosalind said you called them Inhumans? Heads of state calling, not sure what's happening. Watchdog agencies hurling accusations. Fox News won't shut up. I don't need to tell you how delicate the situation is, but we have to do something."
+        },
+        {
+            "character": "Coulson",
+            "line": "With all due respect, Mr. President, we are doing something."
+        }
+    ]
+}

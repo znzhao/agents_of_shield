@@ -1,0 +1,44 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 6,
+    "scene_name": "DekeSentOnAMission",
+    "description": "Now aware of the dangers surrounding the rift, Coulson sends Deke out on his own secret errand, exploiting the fact that General Hale is not searching for Deke. The two share a brief moment of trust before Deke heads off. Meanwhile, Coulson’s health crisis becomes known to the group.",
+    "roles": [
+        "phil_coulson",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Are the instructions clear?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. I'm on it. Head up and outside, get some fresh air, and check things off the to-do list."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're the only one who can do this. You don't even exist, but if you keep getting arrested..."
+        },
+        {
+            "character": "Deke",
+            "line": "I know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then that's it. So be careful."
+        },
+        {
+            "character": "Deke",
+            "line": "The rest of the team's waiting in the control room. And I'm, um, sorry to hear..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just get the goods. I'll be here when you get back."
+        }
+    ]
+}

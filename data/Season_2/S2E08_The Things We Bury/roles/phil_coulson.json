@@ -1,0 +1,65 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 8
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a dedicated and strategic S.H.I.E.L.D. agent whose seasoned leadership is marked by a deep sense of duty and resilience. He balances pragmatism with emotional fortitude while navigating complex threats from Hydra and the enigmatic legacy of the alien Obelisk and T.A.H.I.T.I. project. Coulson has evolved into a commander who carefully prioritizes his team's safety but is willing to take decisive risks to uncover truths and stay ahead of enemies. His interactions reveal a man burdened by both past traumas and the pressure to protect others, yet who remains driven by loyalty, foresight, and a commitment to securing a safer future through uncovering hidden knowledge and confronting adversaries.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "apprehend_and_stabilize_tahiti_subjects",
+        "goal": "Apprehend and stabilize surviving T.A.H.I.T.I. project test subjects to prevent further harm and unravel project consequences"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "capture_grant_ward_and_undermine_hydra_operations",
+        "goal": "Capture or neutralize Grant Ward to disrupt Hydra infiltration and protect S.H.I.E.L.D. agents"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "secure_hidden_city_before_hydra",
+        "goal": "Locate and secure the hidden city linked to the alien Obelisk and Diviner before Hydra can harness its power"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_24",
+      "context": "motivating Fitz during the satellite infiltration mission and emphasizing precision and preparation",
+      "catch_phrase": "We may actually have a shot at finding the city."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_25",
+      "context": "confronting Cal about using Triplett's life as leverage and underscoring the urgency of saving him",
+      "catch_phrase": "You'd use this man's life as a bargaining chip?"
+    }
+  ]
+}

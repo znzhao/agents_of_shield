@@ -1,0 +1,20 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 6,
+    "scene_name": "CoulsonAndMayRealizeChronicomThreat",
+    "description": "Coulson and May, still imprisoned, analyze Stoner’s agent and realize she is a Chronicom due to May’s empathic void reading. Their emotional confrontation reveals May's deep feelings about repeatedly losing Coulson. They deduce that the Chronicoms are starting to impersonate S.H.I.E.L.D. agents by copying memories and personalities, heightening the urgency of their situation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I'm telling you, she is a Chronicom. She had the same void of emotions that I get from you."
+        }
+    ]
+}

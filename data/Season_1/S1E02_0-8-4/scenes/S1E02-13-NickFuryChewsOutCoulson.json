@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 13,
+    "scene_name": "NickFuryChewsOutCoulson",
+    "description": "Director Nick Fury calls Coulson, upset about the ruined state of the Bus. Despite Fury's stern warnings about modifications and Skye's perceived risk, Coulson remains defiant yet respectful. The conversation underscores the tension between Coulson's unorthodox methods and Fury's command as the episode closes on a lighthearted note.",
+    "roles": [
+        "phil_coulson",
+        "nick_fury"
+    ],
+    "vibe": "comedic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fury",
+            "line": "Really? Really, Coulson? Six days? It only took you six days to take a completely renovated piece of state-of-the-art machinery and turn it into scrap?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "My team acted with my authority."
+        },
+        {
+            "character": "Fury",
+            "line": "Don't talk to me about authority. Do you know how much this plane cost? It's got a bar. A really nice one. Talking to me about authority. You know, I have the authority to downgrade your ass to a Winnebago."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm aware of that, sir."
+        },
+        {
+            "character": "Fury",
+            "line": "Well, I want it fixed just like you found it. So don't have Fitz-Simmons going making modifications, like a-a-a-a... damn fish tank."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Fury",
+            "line": "And the new girl. She's a risk."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know, sir."
+        },
+        {
+            "character": "Fury",
+            "line": "You know, sir? How's Lola?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's fine, sir. Thanks for asking."
+        },
+        {
+            "character": "Fury",
+            "line": "Talking to me about authority."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, we're gonna have to kill the fish tank."
+        }
+    ]
+}

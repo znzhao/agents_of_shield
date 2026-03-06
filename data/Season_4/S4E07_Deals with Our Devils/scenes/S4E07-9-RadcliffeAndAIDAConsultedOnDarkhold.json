@@ -1,0 +1,96 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "RadcliffeAndAIDAConsultedOnDarkhold",
+    "description": "Back at the Playground, May and Mace meet Dr. Radcliffe, who has brought his android, AIDA, to help devise a solution. May proposes using the Darkhold, Radcliffe rejects it due to the book's dangerous impact on the human mind, and AIDA suggests she might be capable of reading it safely as an artificial intelligence. Fitz and Coulson, still trapped and invisible, try in vain to communicate their support for this idea. May and Radcliffe reluctantly agree to let AIDA try, seeing no safer alternative.",
+    "roles": [
+        "melinda_may",
+        "jeffrey_mace",
+        "leo_fitz",
+        "phil_coulson",
+        "aida",
+        "holden_radcliffe"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Dr. Radcliffe, thank you for coming on such a terrible day."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Now, Fitz, we can't... You've met my assistant, of course. AIDA. We're devastated by what's happened to Fitz and the team. We've gotten to work straight away."
+        },
+        {
+            "character": "Mace",
+            "line": "Good. Any progress?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Sort of. These boxes look empty, but they're not."
+        },
+        {
+            "character": "AIDA",
+            "line": "They harness energy from multiple dimensions."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, theoretically, could be used to manipulate matter states, transfer dimensional energy, but practically, it's light-years beyond me. We will, of course, keep working."
+        },
+        {
+            "character": "Mace",
+            "line": "We know, Doctor."
+        },
+        {
+            "character": "May",
+            "line": "The people who constructed these boxes used this. A book."
+        },
+        {
+            "character": "Mace",
+            "line": "Great. Comes with an instruction manual and everything. Well, please, get back to work. If you'll excuse me, we've had some casualties, and I need to inform their families."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Help me out here. A manual?"
+        },
+        {
+            "character": "May",
+            "line": "Uh, you... What's your name?"
+        },
+        {
+            "character": "Nathanson",
+            "line": "Nathanson, ma'am. What can I do?"
+        },
+        {
+            "character": "May",
+            "line": "Get lost, Nathanson. I don't know what it is. It's supposed to have answers. I don't know. But it worried Coulson in a way I've rarely seen."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Very well. Let's see what you are. What the hell is that?"
+        },
+        {
+            "character": "May",
+            "line": "Y-you have to read it. You're the only one who can understand the science."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, there has to be another way."
+        },
+        {
+            "character": "May",
+            "line": "There isn't. If you won't read it, I will."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Listen, if I had ten years, maybe I could understand it, but... it's too much for a human mind to bear."
+        },
+        {
+            "character": "May",
+            "line": "You want to tell that to Simmons? I don't."
+        }
+    ]
+}

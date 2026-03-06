@@ -1,0 +1,89 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 7,
+    "scene_name": "ShieldTeamGriefAndRelationships",
+    "description": "Elena and Keller process Fox's death, discussing grief and personal connections. May checks in on the team, directing them to new leads regarding Sarge's movements in nearby locations. Mack assigns canvassing duties and makes arrangements for all agents to be aware of the Coulson double, underlining the seriousness of the situation.",
+    "roles": [
+        "elena_rodriguez",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Agent Fox was a good kid. You might want to spend some time with Keller, talk him through this. He recommended Fox for this job."
+        },
+        {
+            "character": "Mack",
+            "line": "I think he'll be going to someone else for comfort."
+        },
+        {
+            "character": "Elena",
+            "line": "Don't torture yourself."
+        },
+        {
+            "character": "Keller",
+            "line": "Just going through it. Gotta do something."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm sorry. He was from your hometown, right?"
+        },
+        {
+            "character": "Keller",
+            "line": "Nearby. He was me 10 years ago."
+        },
+        {
+            "character": "Elena",
+            "line": "That's giving yourself a lot of credit. You know, I'm here if you need me."
+        },
+        {
+            "character": "Keller",
+            "line": "I'll be okay."
+        },
+        {
+            "character": "Elena",
+            "line": "But you don't have to get there alone."
+        },
+        {
+            "character": "Keller",
+            "line": "And yesterday, when you said..."
+        },
+        {
+            "character": "Elena",
+            "line": "That was yesterday. There's been a sighting."
+        },
+        {
+            "character": "Mack",
+            "line": "Heard some chatter about a man firing a strange gun outside a shipping yard. Security was able to make a positive I.D."
+        },
+        {
+            "character": "Elena",
+            "line": "Where?"
+        },
+        {
+            "character": "Mack",
+            "line": "Just outside Cincinnati, not far from that convenience store."
+        },
+        {
+            "character": "May",
+            "line": "One of the guys was with him."
+        },
+        {
+            "character": "Mack",
+            "line": "I need you two to canvass the area."
+        },
+        {
+            "character": "May",
+            "line": "And everyone else?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'll instruct all agents we have a new target that looks exactly like Phil Coulson."
+        }
+    ]
+}

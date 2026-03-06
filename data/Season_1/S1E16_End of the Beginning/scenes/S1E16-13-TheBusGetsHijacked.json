@@ -1,0 +1,36 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 13,
+    "scene_name": "TheBusGetsHijacked",
+    "description": "As May fails to give answers to Coulson and Skye’s accusations, the Bus is suddenly taken over and veers off course. The team realizes someone else now controls the plane’s flight path. Meanwhile, at the Hub, Hand is revealed to be orchestrating the operation, ordering all agents aboard the Bus to be taken out upon landing—with Coulson the only one to be spared.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "victoria_hand"
+    ],
+    "vibe": "dark",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What did you do? Where are we going?"
+        },
+        {
+            "character": "May",
+            "line": "I don't know! I didn't do it, Phil! I don't know what's happening here, I swear!"
+        },
+        {
+            "character": "Coulson",
+            "line": "If you're not doing this, who is?"
+        },
+        {
+            "character": "Hand",
+            "line": "When that plane touches down, take out everyone on board. Except Agent Coulson. He's mine."
+        }
+    ]
+}

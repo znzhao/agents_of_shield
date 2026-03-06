@@ -1,0 +1,97 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 10,
+    "scene_name": "LincolnInjectsAntitoxin",
+    "description": "Lincoln, ignoring orders, injects himself with the untested antitoxin. Fitz and Simmons rush to respond as Lincoln's body reacts violently, causing a dangerous surge of his electrical powers and knocking him unconscious. The scene is chaotic and highlights both the recklessness and desperation in the team’s fight to save Daisy.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Jemma, are we good after, you know, our disagreement?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, yeah, of course we're good. If I wanted a boyfriend who agreed with everything I said, I never would have broken up with Milton."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah. Milton! He was the absolute worst, what with his stupid, fat cabbage head of his. “Hi. I'm... Hi. I'm Milton.”"
+        },
+        {
+            "character": "Simmons",
+            "line": "More like a Brussels sprout, really. But Milton's odd-shaped head aside, we should make a point to never let work disagreements affect our relationship outside of work."
+        },
+        {
+            "character": "Fitz",
+            "line": "Couldn't agree more, Simmons, especially since we both know who tends to be right most of the time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I assume you're referring to the one who finished top of our class at S.H.I.E.L.D. Academy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Now, that is a sore point, because we both know that if I'd just stayed up and studied all night..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Lincoln."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm tired of arguing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Lincoln, no!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Lincoln. Hey. Lincoln. Look at me. Look at me!"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I just want to help."
+        },
+        {
+            "character": "Simmons",
+            "line": "This is an elixir, and it will hopefully counter the antitoxin."
+        },
+        {
+            "character": "Lincoln",
+            "line": "N-No. It's gonna work."
+        },
+        {
+            "character": "Simmons",
+            "line": "We don't have time for this. Your body is shutting down."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I can handle it. Please, just let me do this."
+        },
+        {
+            "character": "Mack",
+            "line": "You got eyes on this, Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Affirmative."
+        },
+        {
+            "character": "Mack",
+            "line": "There's no sign of Hive anywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have time to search the entire town."
+        }
+    ]
+}

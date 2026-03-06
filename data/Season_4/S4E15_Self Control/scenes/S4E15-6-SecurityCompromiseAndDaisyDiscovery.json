@@ -1,0 +1,92 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 6,
+    "scene_name": "SecurityCompromiseAndDaisyDiscovery",
+    "description": "Back at the Playground, chaos ensues as the LMDs shore up their hold on the base, announcing a lockdown and turning other agents against Daisy and Simmons. Daisy flees, uncovering multiple LMDs in her own likeness in the containment room, and narrowly escapes an encounter with the Mack LMD by using her powers. Agents begin to realize not everyone is human among them.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Prince, where's Agent Johnson?"
+        },
+        {
+            "character": "Prince",
+            "line": "Yeah, Daisy told me to tell you she wants to check the accommodations for the incoming Inhumans before we head out."
+        },
+        {
+            "character": "Mack",
+            "line": "The containment rooms downstairs?"
+        },
+        {
+            "character": "Prince",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn it."
+        },
+        {
+            "character": "Man",
+            "line": "Code 3, West Sector. Repeat, Code 3, West Sector."
+        },
+        {
+            "character": "Fisher",
+            "line": "It's Agent Fitz, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can see that."
+        },
+        {
+            "character": "Fisher",
+            "line": "Davis said Agent Simmons was the only one in here with him."
+        },
+        {
+            "character": "Mace",
+            "line": "Then it's what we feared. We believe Agent Simmons has been compromised, replaced with an LMD. We need to find her, scan her..."
+        },
+        {
+            "character": "Agent",
+            "line": "No, wait. Look."
+        },
+        {
+            "character": "Fisher",
+            "line": "My God. Sir, we have to scan everyone."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy knows, and she got away."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it. This is not how it was supposed to go. We didn't want bloodshed."
+        },
+        {
+            "character": "Mack",
+            "line": "It's too late for that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, see if you can patch up Fitz enough so that he can fix himself. We have to search the base."
+        },
+        {
+            "character": "Mace",
+            "line": "And cut the security feeds."
+        },
+        {
+            "character": "Mack",
+            "line": "Already gave the order."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 7,
+    "scene_name": "CoulsonReflectsWhileOnMission",
+    "description": "As the trawler leaves the Lighthouse, Coulson and May talk about their current dystopian predicament and whether their destiny is to help those around them. May expresses her longing to return home, while Coulson considers the possibility of a new fate for their team, showing deeper motivation and some weariness.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Mack keeping him distracted down there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Zev's enjoying giving him a hard time. I think this might be our last shot. Say what you will about our future dystopian horror show. It has a nice view."
+        },
+        {
+            "character": "May",
+            "line": "Dazzling."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's the leg?"
+        },
+        {
+            "character": "May",
+            "line": "I'm not gonna lie."
+        },
+        {
+            "character": "May",
+            "line": "You think we're gonna find something out there? Maybe a way back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. Maybe there is no way back."
+        },
+        {
+            "character": "May",
+            "line": "That doesn't sound like you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just managing expectations."
+        },
+        {
+            "character": "May",
+            "line": "You're being fatalistic."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, you know I'm not big on destiny, but maybe our destiny's here. In this time, helping these people."
+        },
+        {
+            "character": "May",
+            "line": "It's not like I don't want to help. I do. But after that, I'm going home. I spent weeks in the Framework, strapped to a board, thinking I was HYDRA. I've earned a night in my own bed."
+        },
+        {
+            "character": "Grill",
+            "line": "Mmm. Mm. New people. Hmm. What? New girl!"
+        },
+        {
+            "character": "Elena",
+            "line": "I'm going as fast as I can."
+        },
+        {
+            "character": "Grill",
+            "line": "Get over here. Your Metric's on the fritz. Arm out."
+        },
+        {
+            "character": "Grill",
+            "line": "There. That oughta do it. No more dilly-dallying."
+        }
+    ]
+}

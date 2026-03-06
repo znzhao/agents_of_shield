@@ -1,0 +1,58 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 5,
+    "scene_name": "TeamInterrogatesSharpeOnZephyr",
+    "description": "The rest of the team stays on Zephyr One, interrogating Gerald Sharpe for intel about security and Project Helius. Sharpe is obstinate and openly racist, resisting Mack and Yo-Yo's questioning, and trying to intimidate them. The awkward and heated encounter underscores the difficulties the team faces working in this time period, especially for their non-white members.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sharpe",
+            "line": "You got the wrong guy."
+        },
+        {
+            "character": "Elena",
+            "line": "We know exactly who you are. Now tell us, who determines security access?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'd answer her. Who can get to Helius? Look. We know you're not the bad guy. But you may have given access to one, so help us out."
+        },
+        {
+            "character": "Sharpe",
+            "line": "Okay! Okay. Okay, I'll tell you. When hell freezes over. I'm a loyal American. Did you really think that I would break for bush league commie scum like you?"
+        },
+        {
+            "character": "Mack",
+            "line": "We're trying to prevent something terrible from happening."
+        },
+        {
+            "character": "Sharpe",
+            "line": "And by “terrible”, do you mean America's continued dominance and unparalleled excellence?"
+        },
+        {
+            "character": "Elena",
+            "line": "That arrogance is putting lives at risk."
+        },
+        {
+            "character": "Sharpe",
+            "line": "Oh, is that so, Mamacita? Ooh. Caliente. Good thing your boy's here to keep you in line."
+        },
+        {
+            "character": "Mack",
+            "line": "Did he just call me boy?"
+        },
+        {
+            "character": "Sharpe",
+            "line": "Allow me to introduce myself. Gerald Sharpe. Department of Defense. Ex-military. I didn't just teach interrogation and resistance, I wrote the field manual. So... do your worst."
+        }
+    ]
+}

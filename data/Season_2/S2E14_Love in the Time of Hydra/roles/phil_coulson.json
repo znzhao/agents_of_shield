@@ -1,0 +1,69 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 14
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. He deeply values his team and especially shows insightful empathy and trust towards those undergoing transformation and trauma like Skye. Though faced with difficult decisions that weigh heavily on him emotionally, such as isolating trusted team members for their safety, Coulson continues to navigate the complexities of alien threats, internal factionalism within S.H.I.E.L.D., and personal loyalty with a measured but compassionate approach. His history of grappling with loss and betrayal fortifies his resolve to protect those he cares about while maintaining his role as a steady and inspiring leader.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_29",
+      "context": "comforting Skye while moving her to a safe house and expressing trust in her",
+      "catch_phrase": "Because you're one of the few people I know I can trust."
+    }
+  ]
+}

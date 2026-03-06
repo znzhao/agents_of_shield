@@ -1,0 +1,65 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 12,
+    "scene_name": "TalbotFramesCoulsonAndMalickArrives",
+    "description": "During the symposium's decisive vote, Talbot abruptly stops proceedings and exposes Coulson's real identity as Phil Coulson, director of HYDRA (as manipulated by Malick). Malick publicly denounces Coulson, fabricates accusations, and incites the international delegates against S.H.I.E.L.D. Coulson is dragged away amidst chaos and betrayal, demanding to know what leverage Malick has over Talbot. This scene marks a critical betrayal for the team.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "bobbi_morse"
+    ],
+    "vibe": "thrilling",
+    "location": "Symposium on the Alien Contagion (Taiwan)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Chen",
+            "line": "Before we vote, I'd like to thank Dr. Lundwall for helping us to better understand inhumans."
+        },
+        {
+            "character": "Petrov",
+            "line": "Yes."
+        },
+        {
+            "character": "Chen",
+            "line": "If the vote is passed and the sanctuary state is approved, it will in no small part be each of..."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm sorry. I'm gonna have to postpone this vote. Guards! It has come to my attention that we have a traitor among us. Arrest this man."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell are you doing?!"
+        },
+        {
+            "character": "Chen",
+            "line": "What is the meaning of this, General?"
+        },
+        {
+            "character": "Talbot",
+            "line": "He's been spying on us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot, stop this."
+        },
+        {
+            "character": "Talbot",
+            "line": "This man has violated our lives, he's violated our rooms, and he's violated our trust. He's a liar, and a fraud. This man is not Dr. Sean Lundwall. His real name is..."
+        },
+        {
+            "character": "Malick",
+            "line": "This is Phil Coulson. The Director of HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're inside man."
+        },
+        {
+            "character": "Talbot",
+            "line": "Kumbaya."
+        }
+    ]
+}

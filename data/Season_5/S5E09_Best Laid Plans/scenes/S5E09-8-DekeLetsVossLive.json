@@ -1,0 +1,79 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "DekeLetsVossLive",
+    "description": "Deke ultimately chooses to spare Voss, leading the remnants of humanity into the caves for survival, while Voss tries to persuade Deke that S.H.I.E.L.D. is doomed to repeat history. This emotional moment clarifies Deke’s internal struggle with violence and mercy.",
+    "roles": [
+        "deke_shaw"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Get as far into the caves as possible. We're right behind you."
+        },
+        {
+            "character": "Voss",
+            "line": "You here to waste me for good?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not how I roll. But don't push your luck. You're going into the caves. Turn around."
+        },
+        {
+            "character": "Voss",
+            "line": "That's why you fail. 'Cause you're not willing to do what has to be done."
+        },
+        {
+            "character": "Coulson",
+            "line": "Clearly, you haven't read my file. We're not in the habit of killing unarmed people."
+        },
+        {
+            "character": "Voss",
+            "line": "You think that was easy? She was a friend. You seem to be just fine with the continents you'll let die."
+        },
+        {
+            "character": "Coulson",
+            "line": "What makes you certain that we cause it?"
+        },
+        {
+            "character": "Voss",
+            "line": "History. There was a light from the sky. Aliens is what I heard. S.H.I.E.L.D. tried to stop it and failed. Brought Hell to Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "As cryptic prophecies go, you'd give Robin a run for her money."
+        },
+        {
+            "character": "Voss",
+            "line": "That was from her. She said that was the start, and then your girl finished it. Sadly, you'll see for yourself."
+        },
+        {
+            "character": "Deke",
+            "line": "We need to go!"
+        },
+        {
+            "character": "Voss",
+            "line": "You waiting to get Daisy alone?"
+        },
+        {
+            "character": "Deke",
+            "line": "Shut your trap. I'm not gonna do anything to anyone except maybe you."
+        },
+        {
+            "character": "Voss",
+            "line": "You keep telling yourself that, but you're not like them. You'll do what's right."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now's the time, Deke. You should go, too."
+        },
+        {
+            "character": "Deke",
+            "line": "No, I've come this far. I need to see it through."
+        }
+    ]
+}

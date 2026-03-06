@@ -1,0 +1,98 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "DekeAndSimmonsDebateTimeline",
+    "description": "On Zephyr One, Deke talks with Simmons about his worries regarding the timeline and his own existence, especially given the changes caused by their mission. Simmons reassures Deke but remains vague about Fitz, alluding to the dangers of Chronicom interference and memory loss. Elena and Mack begin their reconnaissance of the Lighthouse, treating it as both a mission and a date night.",
+    "roles": [
+        "deke_shaw",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Sometimes you punch the bag, sometimes the bag punches you, am I right? I get that Mack wants me to do combat training before I return to the field, but seriously, I got kidnapped by a Hydra boss one time."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't think Freddy will be bothering you anymore, considering his funeral was three years ago."
+        },
+        {
+            "character": "Deke",
+            "line": "Good riddance. Not that I was... rooting for his death, but kinda. Did you hear anything from Bobo? Bobo... or grandpappy, whatever you want to call him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Fitz. No, I haven't heard. But, um, even if I had, I couldn't disclose."
+        },
+        {
+            "character": "Deke",
+            "line": "Right, because the Chronicoms will probe our brains and blah, blah, blah, and it's very dangerous, no one can know... I get it."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll be reunited soon."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I hope so. Because if you and Fitz don't... bump lemons... so to speak... You know, my mom is never going to exist, and then I won't be born... again. I think. But, honestly, I've made so many mistakes in my life, I wouldn't mind a chance at a little do-over."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wouldn't it be easier to prevent the mistakes through, say, preparation?"
+        },
+        {
+            "character": "Deke",
+            "line": "Taking the hint. Letting you get back to work. Bye, Nana."
+        },
+        {
+            "character": "Elena",
+            "line": "Looks like it always did. A good place to hole up. Any year, right? Happy now?"
+        },
+        {
+            "character": "Mack",
+            "line": "Not yet. History says S.H.I.E.L.D. abandoned this place in ‘72, but..."
+        },
+        {
+            "character": "Elena",
+            "line": "You had to see it for yourself."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. I like the simple pleasures in life... a preserved timeline, an empty base, and good company. Recon isn't the only reason why we're here."
+        },
+        {
+            "character": "Elena",
+            "line": "You're for real?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. I'm for real. We left the plane alone. In, uh... In my book, that constitutes as a date night."
+        },
+        {
+            "character": "Elena",
+            "line": "I was wondering why you brought me here. I'm hardly even fit for recon. What if we run into complications, Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "You're damn fine at what you do, with or without your powers. They don't define you."
+        },
+        {
+            "character": "Elena",
+            "line": "Then why do you call me Yo-Yo?"
+        },
+        {
+            "character": "Mack",
+            "line": "‘Cause you always bounce back."
+        },
+        {
+            "character": "Mack",
+            "line": "Something's different."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 1,
+    "scene_name": "ArrivalIn1973NYC",
+    "description": "Coulson, May, Daisy, and Sousa arrive in 1973 New York City, adjusting to the new decade's fashion and culture. Sousa struggles with adapting to the future and questions how time travel affects his fate. The team prepares to visit Koenig's speakeasy to find Enoch while sharing concerns about blending in and their presence in this altered timeline.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sousa"
+    ],
+    "vibe": "lighthearted",
+    "location": "New York City (1931)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Now, this is the New York City I remember. The honking, the smell of hot dog water. And these are the clothes the grown-ups wore when we were kids, am I right? Still not gonna give me anything, huh? Even copping attitude would be a warm relief."
+        },
+        {
+            "character": "May",
+            "line": "Hard to care about where we stand when the only emotions I have are the ones other people pass to me. Oh! Like this guy here, who's feeling ticked off and impatient!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, that's good that you're learning to label and communicate them. That's good. Very healthy."
+        },
+        {
+            "character": "May",
+            "line": "Now that feeling's extended to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, looking sharp."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's Agent Sousa?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He's still inside, picking out his threads."
+        },
+        {
+            "character": "May",
+            "line": "How's he handling the transition?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Honestly, the fact that he's not projectile vomiting from the shock is a miracle. What happened to blending in?"
+        },
+        {
+            "character": "Sousa",
+            "line": "I just don't understand the functional appeal of those... elephant... pants."
+        },
+        {
+            "character": "Daisy",
+            "line": "You mean the bell-bottoms?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Sure. How do people in your time function with all the extra fabric around their feet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I got news for you. This isn't actually our time period."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, fortunately, there's unfashionable squares in every decade, so you are... set."
+        },
+        {
+            "character": "Sousa",
+            "line": "And nobody seems to look you in the eye now."
+        },
+        {
+            "character": "May",
+            "line": "Hmm. Wait ‘til they all get cellphones."
+        },
+        {
+            "character": "Sousa",
+            "line": "So, I was thinking, how do you guys know I was supposed to die in 1955?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's in the history books."
+        },
+        {
+            "character": "Sousa",
+            "line": "Yeah, but... but what if you always plucked me out of time? Does that mean I always survive? And if we end up in your present, will we even be in the same timeline?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'd stop thinking about it. Your brains will spill out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons can explain... sort of... but maybe you'd feel more comfortable staying back on Zephyr One."
+        },
+        {
+            "character": "Sousa",
+            "line": "No. No, no, no. I'm here. No going back. Might as well dive in and embrace the 1970s... Starting now. I can't believe this old hideout is still running."
+        },
+        {
+            "character": "Sousa",
+            "line": "Did you ever stop by back in the day? Once or twice. Only the top brass knew about it. Good place to lie low."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, yeah? I wish I could've seen it back then. I heard Dooley had a reserved booth with one of those plaque things next to it..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, Dad, let's not keep Enoch waiting any longer. He's been chilling for like four decades."
+        },
+        {
+            "character": "Sousa",
+            "line": "So much for lying low."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wonder what all this is about. Maybe Enoch will know what's going on."
+        }
+    ]
+}

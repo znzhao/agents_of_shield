@@ -1,0 +1,61 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "CoulsonAndMackStakeoutAgnes",
+    "description": "Coulson and Mack surveil Agnes Kitsworth at a café in Spain, discussing the importance of their mission to find Agent May. Coulson reflects on his past mistakes, guided by thoughts of May. Agnes interacts with her regular waiter, and Mack confirms her identity for their operation.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "agnes_kitsworth"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I'd be the first to admit that I've followed my worst instincts at times. Last year. Loss will make you do that. It feels good in the moment. Gracias. But it never ends well. I've lost my temper.I 've killed. But lately, I have this voice in my head telling me not to go down that path again. It's telling me to be patient, to stay steady."
+        },
+        {
+            "character": "Mack",
+            "line": "I take it you don't mean me, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's Agent May. She'd tell me to stay on mission."
+        },
+        {
+            "character": "Mack",
+            "line": "Listen to the woman. She knows what she's talking about. Hold on. This could be her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Careful. This woman disappeared from her old life. We don't know if we can trust her, but she could be..."
+        },
+        {
+            "character": "Mack",
+            "line": "I know. She could lead us to May. Damn it.I don't have confirmation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Her face will be all the confirmation we need."
+        },
+        {
+            "character": "Agnes",
+            "line": "Buenos dias, Roberto. I 'll have the usual, please."
+        },
+        {
+            "character": "Roberto",
+            "line": "Ready to go, Agnes. How is your day?"
+        },
+        {
+            "character": "Agnes",
+            "line": "Good day so far, thanks."
+        },
+        {
+            "character": "Mack",
+            "line": "I'd say that's confirmation."
+        }
+    ]
+}

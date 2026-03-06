@@ -1,0 +1,181 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 11,
+    "scene_name": "AbsolutionBombAttack",
+    "description": "As Fitz inspects the gel matrix chamber, he notices the container's label referencing 'Absolution, Montana.' Suddenly, James and Giyera's bomb detonates, releasing Hive's pathogen in the hangar. The shock triggers lockdown; Fitz, Simmons, and agents scramble desperately to escape. Simmons manages a last-second success with a clever workaround, getting Fitz to safety, but others are not as fortunate as Primitives are created inside the hangar.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "melinda_may",
+        "lincoln",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Gel's stable. Power's strong enough for transport. Um, make sure you reconnect that once it's inside and secure."
+        },
+        {
+            "character": "O'Brien",
+            "line": "You got it."
+        },
+        {
+            "character": "Fitz",
+            "line": "When's the bloody hangar door gonna get closed, O'Brien?"
+        },
+        {
+            "character": "O'Brien",
+            "line": "We've got engineers on it. We had to wait a few days. Parts were delayed."
+        },
+        {
+            "character": "Fitz",
+            "line": "O'Brien! Wait!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What is it? What's happening?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Jemma, there was an explosion in the hangar."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz. Okay. What do we do?"
+        },
+        {
+            "character": "Agent",
+            "line": "Let's get out of here! Aah!"
+        },
+        {
+            "character": "Fitz",
+            "line": "No! No, no, no, no! The lockdown. Hey! Hey, help!"
+        },
+        {
+            "character": "May",
+            "line": "They're trapped inside."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Can we override the doors?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We put everything on lockdown. By the time we override, Fitz will be... Fitz, do you read?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah! Sir, I'm in a bit of trouble!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We know. We're gonna get you out of there."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no, no! Stay away from them! Stay away from the gas! We have to get out of the hangar!"
+        },
+        {
+            "character": "Agent",
+            "line": "Come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no. There's nothing you can do for them. We have to get back out to the base."
+        },
+        {
+            "character": "FItz",
+            "line": "Hey! How are you doing in there?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, it's the lockdown. We can't..."
+        },
+        {
+            "character": "Fitz",
+            "line": "The motion sensors! You have to get them working again."
+        },
+        {
+            "character": "Coulson",
+            "line": "If we isolate them from the system, can we get around the lockdown?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes! You can fry the bridging, which connects the sensor system to the security protocol!"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I can do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, the server system is on the other side of the base. It won't work."
+        },
+        {
+            "character": "May",
+            "line": "Well, we need to do something fast."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, Professor Vaughn's Third Year Compiler Theory?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah! Yeah! Do that! Fast, please!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not an engineer. I hope I can recreate what you did there."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no! You saw me do it! You have a good memory! I mean, you do, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, it's open! It's open!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Thank you, Jemma."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell is Professor Vaughn's Third Year Compiler Theory?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's complicated."
+        },
+        {
+            "character": "Couslon",
+            "line": "Well, that's not good."
+        },
+        {
+            "character": "Lincoln",
+            "line": "If Hive gets out of stasis..."
+        },
+        {
+            "character": "May",
+            "line": "It's not an “if.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. It's not. At least we sealed off the hangar."
+        },
+        {
+            "character": "Elena",
+            "line": "But there are S.H.I.E.L.D. personnel in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're gone. We have to cut our losses. It's all we can do."
+        }
+    ]
+}

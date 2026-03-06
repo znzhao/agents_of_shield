@@ -1,0 +1,220 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 8,
+    "scene_name": "SimmonsMeetsKasius",
+    "description": "Simmons is brought before Kasius, the Kree leader of the Lighthouse, where he expresses curiosity about her and appreciation for her healing skills. Their interaction hints at Kasius' particular interest in Simmons, while also showcasing the stark power imbalance between the ruling Kree and the humans. Kasius orders a renewal, ostensibly to maintain control and to cull weaker humans, setting higher stakes for the rest of the team.",
+    "roles": [
+        "jemma_simmons",
+        "kasius"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "Kasius welcomes you to his suites."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Someone who talks. Please, tell me how the injured man is doing."
+        },
+        {
+            "character": "Woman",
+            "line": "Please take this opportunity to undress and clean yourself."
+        },
+        {
+            "character": "Kasius",
+            "line": "Even Hala doesn't have a view like this. So, you're the one who saved a life."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, all this talk about protecting people, you were worried about your speakeasy."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm in a Framework program. Oh, no."
+        },
+        {
+            "character": "Kasius",
+            "line": "She must feel like she's stepped into a new world. Mm. Pretty. But she appears more dormouse than medical practitioner. Your actions caused quite the stir."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was only trying to save a man's life."
+        },
+        {
+            "character": "Kasius",
+            "line": "By rather elaborate means. Do you have a name?"
+        },
+        {
+            "character": "SImmons",
+            "line": "Jemma."
+        },
+        {
+            "character": "Kasius",
+            "line": "And where are you from, Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Processing."
+        },
+        {
+            "character": "Kasius",
+            "line": "Processing. Good we had you bathe. So, tell me, Jemma, how does one learn such specific curative skills working in sewage all day?"
+        },
+        {
+            "character": "Simmons",
+            "line": "My mother taught me."
+        },
+        {
+            "character": "Kasius",
+            "line": "How resourceful. Did she also teach you the cost of interfering in my affairs?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The man would've died."
+        },
+        {
+            "character": "Kasius",
+            "line": "A life spent, a life earned, yes? You thought this law did not apply?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I only did what I thought would make you happiest in the end."
+        },
+        {
+            "character": "Kasius",
+            "line": "That is the superior answer to any question, really. This was a fight over food, Sinara? The pressure must be building up there. Tell the guards to give them some breathing room, for mercy's sake. A renewal will do them some good. Life is a fragile thing. We must cultivate the beauty and prune back the rest. I always found humans to be inelegant creatures, but you... Your Metric, it's gone."
+        },
+        {
+            "character": "Simmons",
+            "line": "I removed it. I'm sorry."
+        },
+        {
+            "character": "Kasius",
+            "line": "No scar. Not even a scratch. Just a pristine canvas. Such marvels make me wonder if you're even from a place as tough as Processing. I think I would like to see how my Servitor fared under your handiwork, and if your wrist is any indication... I should be quite pleased."
+        },
+        {
+            "character": "Mack",
+            "line": "They keep the tablets in there."
+        },
+        {
+            "character": "Elena",
+            "line": "Once May gets Tess out of the picture, we'll go."
+        },
+        {
+            "character": "Tess",
+            "line": "Hey, I rustled up some grub. Pre-packaged, but it's decent."
+        },
+        {
+            "character": "May",
+            "line": "Oh, great. Listen, Tess, is there somewhere I could change my bandage?"
+        },
+        {
+            "character": "Tess",
+            "line": "Sure."
+        },
+        {
+            "character": "Elena",
+            "line": "How sure are you that's actually a steam pipe?"
+        },
+        {
+            "character": "Mack",
+            "line": "Um, say 50-50. Either Coulson's gonna release hot steam or raw sewage. Either way, it'll get attention. All right. Ready, and go."
+        },
+        {
+            "character": "Elena",
+            "line": "You should see your go-face in slow-motion. Classic."
+        },
+        {
+            "character": "Mack",
+            "line": "You're showing off."
+        },
+        {
+            "character": "Elena",
+            "line": "If you got it, flaunt it."
+        },
+        {
+            "character": "Mack",
+            "line": "They'll never know what happened."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's hope not."
+        },
+        {
+            "character": "Kree",
+            "line": "Humans, report for Metric inspection."
+        },
+        {
+            "character": "Kree",
+            "line": "Line up and present your Metrics."
+        },
+        {
+            "character": "Kree",
+            "line": "Next."
+        },
+        {
+            "character": "Mack",
+            "line": "This is not a good thing. So far, any new development in this place is not a good thing."
+        },
+        {
+            "character": "Elena",
+            "line": "Why don't we put those on?"
+        },
+        {
+            "character": "Mack",
+            "line": "Because they go through your damn wrist!"
+        },
+        {
+            "character": "Elena",
+            "line": "But without them, who knows?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I want to make a trade."
+        },
+        {
+            "character": "Grill",
+            "line": "Not the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think it's exactly the time."
+        },
+        {
+            "character": "Grill",
+            "line": "Okay. So much for “passing through.” What do you want?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have a working Kree tablet. I'll trade it for three Metrics installed."
+        },
+        {
+            "character": "Grill",
+            "line": "I was right to be suspicious of you. A tablet's not worth three Metrics. But anyone who can steal it is, so... I'll get you hooked up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Grill",
+            "line": "But you'll work for it, and it won't be fun."
+        },
+        {
+            "character": "Kree",
+            "line": "Line up and present!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can work. We're in."
+        },
+        {
+            "character": "Grill",
+            "line": "Get inside."
+        }
+    ]
+}

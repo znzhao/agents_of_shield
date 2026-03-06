@@ -1,0 +1,45 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 13,
+    "scene_name": "CoulsonDebriefsWithTeam",
+    "description": "Back at The Playground, Coulson briefs May, Skye, and the team on Derik's apprehension and his own sense of peace after uncovering the carvings' truth. He explains how the compulsion is gone and that now the blueprint to the city is their new goal. The group prepares to use what they've learned to stay ahead of HYDRA.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Sebastian Derik has been turned over to the authorities. He had sins to atone for long before Tahiti ever happened. But... at least he found his peace."
+        },
+        {
+            "character": "May",
+            "line": "And you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The compulsion's gone."
+        },
+        {
+            "character": "May",
+            "line": "How can you be sure?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can feel it. Whatever's in our blood, it was driving us to go to that city, like homing pigeons, only we couldn't figure out what home was, so it was just driving us mad. Once I had all the pieces... now we just need to figure out why this alien was so hell-bent on getting there."
+        },
+        {
+            "character": "Skye",
+            "line": "Any news on Ward?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll find him. In the meantime... we'll take advantage of his gift, Mr. Bakshi. Here's his cellphone. See what you can find inside. All right. Let's get this over with."
+        }
+    ]
+}

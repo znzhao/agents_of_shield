@@ -1,0 +1,45 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "michael_peterson",
+        "raina",
+        "john_garrett",
+        "victoria_hand",
+        "antoine_triplett",
+        "eric_koenig",
+        "nick_fury",
+        "ian_quinn"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Mike",
+        "Raina",
+        "Garrett",
+        "Triplett",
+        "Koenig",
+        "Nick Fury",
+        "Quinn"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Project Centipede",
+        "Cybertek",
+        "Deathlok Program"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "Providence (S.H.I.E.L.D. base)",
+        "Cybertek Headquarters (Palo Alto)"
+    ]
+}

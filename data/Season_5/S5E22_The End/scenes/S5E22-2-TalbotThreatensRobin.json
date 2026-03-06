@@ -1,0 +1,44 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 2,
+    "scene_name": "TalbotThreatensRobin",
+    "description": "On the Remorath ship, Talbot interrogates Robin, attempting to force her into revealing the location where his gravitonium vision leads. When Robin resists, Talbot has Robin’s mother taken away, threatening her family to break her will. The scene underscores Talbot's descent into villainy as he manipulates and frightens a child to achieve his ends.",
+    "roles": [
+        "glenn_talbot",
+        "robin_hinton"
+    ],
+    "vibe": "dark",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Art project. It's time for you to point to the place where you saw me surrounded by the liquid metal. Just draw a little dot. If you get me close, I'll feel it now. You see this little guy? I'm the saviour that's going to protect it but I need some help. What do you say? Then I'll just take your damn soothsayer powers! Cut to the chase!"
+        },
+        {
+            "character": "Robin",
+            "line": "No, you won't."
+        },
+        {
+            "character": "Talbot",
+            "line": "Of course not. You're just a kid. But I will find a way to win you over."
+        },
+        {
+            "character": "Polly",
+            "line": "I'm here. You're doing good. Don't help him."
+        },
+        {
+            "character": "Robin",
+            "line": "But if I don't, this will be the last time I see you."
+        },
+        {
+            "character": "Polly",
+            "line": "No! No! No! Robin! No! Let me go!"
+        },
+        {
+            "character": "Talbot",
+            "line": "That's true. You're not gonna see your mother again until I get what I want. Now, let's try this again. Just one little dot."
+        }
+    ]
+}

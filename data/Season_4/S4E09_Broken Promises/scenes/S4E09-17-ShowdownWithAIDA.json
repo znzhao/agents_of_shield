@@ -1,0 +1,60 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 17,
+    "scene_name": "ShowdownWithAIDA",
+    "description": "With systems restored, Fitz and Radcliffe confront AIDA, who tries to claim the Darkhold. Coulson, May, and Mack intervene as AIDA attempts to escape with the book. Ultimately, Mack uses his shotgun-axe to decapitate AIDA, ending her threat in dramatic fashion. The aftermath leaves the team contemplating the implications of her evolution.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "holden_radcliffe",
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "This gunfire's not letting up. Maybe we ought to think of getting to safety."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. Almost got it. Yeah."
+        },
+        {
+            "character": "May",
+            "line": "Was that...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Let's go. We're back up."
+        },
+        {
+            "character": "Fitz",
+            "line": "AIDA, stop."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Careful, Fitz. She's dangerous. Fitz, it might be best not to engage."
+        },
+        {
+            "character": "Fitz",
+            "line": "Surrender the book. Everything will be fine. I promise."
+        },
+        {
+            "character": "AIDA",
+            "line": "We both know that's not true, Leopold."
+        },
+        {
+            "character": "Fitz",
+            "line": "I took the base offline. You're no longer in the system."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "There's nowhere for you to go."
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 2,
+    "scene_name": "DaisyInterrogatesSurvivingGangMember",
+    "description": "Daisy, operating solo, sneaks into a hospital to question a wounded Aryan Brotherhood member about the attack on his gang. He cryptically warns Daisy about 'the Rider,' claiming if the Rider burns you, your soul is lost forever. Before Daisy can learn more, the man takes his own life, escaping from an inevitable fate.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Guard",
+            "line": "Hey. You can't be here. Stop right there."
+        },
+        {
+            "character": "Daisy",
+            "line": "How are we feeling today? I've been tracking weapon sales, and I know you were hired to steal one. You even jacked a big rig to help carry it out."
+        },
+        {
+            "character": "Man",
+            "line": "We were just paid for a smash-and-grab job."
+        },
+        {
+            "character": "Daisy",
+            "line": "Who was that hunting you?"
+        },
+        {
+            "character": "Guard",
+            "line": "Open the door!"
+        },
+        {
+            "character": "Man",
+            "line": "He nailed me, but we almost got away."
+        },
+        {
+            "character": "Daisy",
+            "line": "Who was it?"
+        },
+        {
+            "character": "Man",
+            "line": "Did he kill my friends?"
+        },
+        {
+            "character": "Daisy",
+            "line": "All but one. But you're gonna have to give me a little bit more if I'm gonna find him alive."
+        },
+        {
+            "character": "Man",
+            "line": "Save him, please, before he gets burned, too."
+        },
+        {
+            "character": "Daisy",
+            "line": "You'll see your buddy again once you heal up. Just tell me what's..."
+        },
+        {
+            "character": "Man",
+            "line": "No. No. It's too late for me. They say when the Rider burns you, he burns your soul. And a soul can never heal."
+        },
+        {
+            "character": "Guard",
+            "line": "Stop right there!"
+        }
+    ]
+}

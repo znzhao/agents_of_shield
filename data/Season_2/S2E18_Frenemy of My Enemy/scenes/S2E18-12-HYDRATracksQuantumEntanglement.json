@@ -1,0 +1,76 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 12,
+    "scene_name": "HYDRATracksQuantumEntanglement",
+    "description": "On HYDRA's plane, List reveals to Bakshi and his team that they are tracking quantum entanglement signals, leading them to believe a powered individual (teleporter) is in the Midwest. Fitz, Coulson, and the others realize this likely ties directly to Gordon and the ongoing pursuit of Skye. The stakes are raised as HYDRA moves closer to both Afterlife and Coulson's interests.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "lance_hunter",
+        "grant_ward",
+        "michael_peterson",
+        "sunil_bakshi"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "We're landing? Already? I thought Strucker was in Eastern Europe."
+        },
+        {
+            "character": "List",
+            "line": "He is. But first, we're making a stop. Have you heard of quantum entanglement, Mr. Bakshi?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "No, I'm afraid not."
+        },
+        {
+            "character": "List",
+            "line": "Well, we at HYDRA, for the last several months, actually..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Quantum entanglement? Sounds like a method of torture."
+        },
+        {
+            "character": "List",
+            "line": "... we have found incidents of photon intensity so great that particles can exist simultaneously in two spaces over great distances."
+        },
+        {
+            "character": "Hunter",
+            "line": "Never liked science or big words."
+        },
+        {
+            "character": "Bakshi",
+            "line": "But for something to be in two places concurrently..."
+        },
+        {
+            "character": "List",
+            "line": "No, no, no. This is a quantum entanglement bridge. We think it was created by a powered person, one we intend to capture."
+        },
+        {
+            "character": "Fitz",
+            "line": "The teleporter... they're tracking the teleporter, the one that, um, took Cal in Wisconsin and... and Raina."
+        },
+        {
+            "character": "Coulson",
+            "line": "And Skye."
+        },
+        {
+            "character": "Ward",
+            "line": "This is about Skye."
+        },
+        {
+            "character": "Kara",
+            "line": "Why would HYDRA want her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't know."
+        }
+    ]
+}

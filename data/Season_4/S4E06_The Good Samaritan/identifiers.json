@@ -1,0 +1,41 @@
+{
+    "role_ids": [
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "jeffrey_mace",
+        "robbie_reyes",
+        "eli_morrow",
+        "lucy_bauer",
+        "joseph_bauer",
+        "gabe_reyes",
+        "skye"
+    ],
+    "aliases": [
+        "May",
+        "Simmons",
+        "Fitz",
+        "Mack",
+        "Coulson",
+        "Director Mace",
+        "Robbie",
+        "Eli Morrow",
+        "Lucy Bauer",
+        "Joseph Bauer",
+        "Gabe",
+        "Daisy"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Momentum Energy (Momentum Labs)",
+        "Roxxon Corporation"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Momentum Energy Lab (Pasadena / Momentum Labs)",
+        "Roxxon power station (abandoned / Momentum-related facility)"
+    ]
+}

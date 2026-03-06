@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 15,
+    "scene_name": "FitzSimmonsBonding",
+    "description": "In the lab, Fitz laments not being the one to save Simmons but is reassured by her genuine gratitude and affection—he was her support and hero throughout their ordeal. Their friendship deepens, with Simmons giving Fitz a heartfelt kiss on the cheek.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "... And I was going to do it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know you were."
+        },
+        {
+            "character": "Fitz",
+            "line": "I had the antiserum, the chute... everything. I just couldn't get the straps on."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, please."
+        },
+        {
+            "character": "Fitz",
+            "line": "And, you know, maybe I couldn't have done the whole “James Bond in midair...”"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, shut up."
+        },
+        {
+            "character": "Fitz",
+            "line": "... type ... thing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please, just... Ward did an amazing thing, yes, but it wasn't Ward by my side in that lab, searching for a cure. It wasn't Ward giving me hope when I had none. It was you. You're the hero."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Thank you."
+        }
+    ]
+}

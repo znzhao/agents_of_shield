@@ -1,0 +1,241 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 2,
+    "scene_name": "LighthouseAftermathAndRemorathInterrogation",
+    "description": "At the Lighthouse, Fitz, Simmons, Mack, May, Deke, Elena, and Daisy regroup after the attack. Mack is handling the last Remorath invader, who has taken Odium, while the team discusses the potential consequences of the gravitonium being used by Talbot. They attempt to get information about what Coulson and Talbot are up against, but the Remorath dies dramatically from the effects of the Odium.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Okay, so how much gravitonium did Talbot use?"
+        },
+        {
+            "character": "Simmons",
+            "line": "All of it."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, maybe it's not so bad. I mean, he did just annihilate a bunch of Remorath warlords."
+        },
+        {
+            "character": "Simmons",
+            "line": "But the side-effects of gravitonium are catastrophic. Ruby absorbed just a fraction, and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "And it drove her completely insane."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, well, she wasn't all that stable before."
+        },
+        {
+            "character": "May",
+            "line": "Neither was Talbot."
+        },
+        {
+            "character": "Simmons",
+            "line": "With his previous brain injury, I fear that Talbot will almost certainly suffer a major psychotic break."
+        },
+        {
+            "character": "May",
+            "line": "We need to find them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Look, the Lighthouse only just came back online. It could be hours before all systems are fully functional."
+        },
+        {
+            "character": "Elena",
+            "line": "Where's Mack?"
+        },
+        {
+            "character": "Piper",
+            "line": "Went to make sure the threat's been neutralised."
+        },
+        {
+            "character": "Mack",
+            "line": "Not this again."
+        },
+        {
+            "character": "May",
+            "line": "Mack, no! We need it alive. This thing is our only chance to find out what Coulson and Talbot are up against."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pretty sure we just left Earth's atmosphere."
+        },
+        {
+            "character": "Talbot",
+            "line": "Doesn't matter what galaxy they try and run and hide in. We're gonna show ‘em who's in charge."
+        },
+        {
+            "character": "Coulson",
+            "line": "I feel like we're seeing this adventure a little differently. The gravitonium? Why?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Because I'm our last hope."
+        },
+        {
+            "character": "Coulson",
+            "line": "But what about the voices?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Bunch of dead losers, raising a ruckus. Turns out, all they needed was a general to get ‘em in line."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wish I found that more reassuring. I'm a little worried about you, Glenn. It takes most people years to get a handle on their powers. You skipped the tutorial, went straight to big boss level."
+        },
+        {
+            "character": "Talbot",
+            "line": "You got to quit worrying, Phil. I'm feeling fine, tip top. Even brought my best wing man with me. What these alien scumbags didn't count on is squaring off against the two best military minds the world has to offer."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, they most certainly did not."
+        },
+        {
+            "character": "Qovas",
+            "line": "You dare to approach my ship."
+        },
+        {
+            "character": "Coulson",
+            "line": "How about letting your wing man take point on this? We're here to negotiate a deal for Earth."
+        },
+        {
+            "character": "Qovas",
+            "line": "The Confederacy already has a deal with HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thing is, HYDRA doesn't really speak for all of humanity. Or any of it."
+        },
+        {
+            "character": "Qovas",
+            "line": "HYDRA spent years kneeling before me, grovelling at my feet, and only then did I offer assistance. Yet you sneak aboard my ship and have the arrogance to make demands?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I think there's a misunderstanding. See, this is my ship."
+        },
+        {
+            "character": "Coulson",
+            "line": "Easy, buddy."
+        },
+        {
+            "character": "Qovas",
+            "line": "Your impudent tone is only gonna..."
+        },
+        {
+            "character": "Talbot",
+            "line": "I said this is my ship! Seems like you got the weight of the world on your shoulders there, pal. That's better. Now, you kneel."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not sure that's the best negotiating tactic."
+        },
+        {
+            "character": "Talbot",
+            "line": "I said kneel! Before me! This is pretty good teamwork, Phil."
+        },
+        {
+            "character": "Elena",
+            "line": "Hey, I heard about today. You okay?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. It's not the first creepy crawler I've had to go toe-to-toe with. No, I'm good."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "They're waiting for me."
+        },
+        {
+            "character": "May",
+            "line": "How many are on that ship?"
+        },
+        {
+            "character": "Mack",
+            "line": "He give us any leads?"
+        },
+        {
+            "character": "May",
+            "line": "Just promises to disembowel us."
+        },
+        {
+            "character": "Qajax",
+            "line": "The Confederacy stood more than a thousand years. They will seek vengeance, making slaves of you all!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Really wish we could happen upon some non-slave trading aliens."
+        },
+        {
+            "character": "May",
+            "line": "Any idea why this one is more rabid than the rest?"
+        },
+        {
+            "character": "Mack",
+            "line": "Probably has something to do with this. I'm pretty sure this is the same stuff Kasius took."
+        },
+        {
+            "character": "Simmons",
+            "line": "It must give them some sort of energy boost."
+        },
+        {
+            "character": "Qajax",
+            "line": "You are not worthy of holding the odium."
+        },
+        {
+            "character": "May",
+            "line": "Course it would have a dumb name."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell's that stuff do?"
+        },
+        {
+            "character": "Qajax",
+            "line": "The odium gives the power of the gods to those in final battle."
+        },
+        {
+            "character": "Mack",
+            "line": "First of all, there's only one God."
+        },
+        {
+            "character": "Qajax",
+            "line": "It is glory through the spilling of blood. The taste of your enemy's pain."
+        },
+        {
+            "character": "Mack",
+            "line": "And God definitely doesn't want you drinking that garbage."
+        },
+        {
+            "character": "May",
+            "line": "Any way to know how it works?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not without opening him up. I'll get right to it."
+        }
+    ]
+}

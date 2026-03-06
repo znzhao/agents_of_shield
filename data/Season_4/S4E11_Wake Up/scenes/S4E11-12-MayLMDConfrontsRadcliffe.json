@@ -1,0 +1,151 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 12,
+    "scene_name": "MayLMDConfrontsRadcliffe",
+    "description": "LMD May confronts Radcliffe in his apartment, seeking the truth about herself after deducing she is not the real May. Radcliffe confirms her status as an LMD, explaining her programming and why she is unable to reveal her true nature to S.H.I.E.L.D. Just as the confrontation escalates, Coulson and others arrive to arrest Radcliffe for his involvement in the LMD and AIDA plots.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "What the hell did you do to me? Answer me. What did you do?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What tipped you off?"
+        },
+        {
+            "character": "May",
+            "line": "Because I'm not an idiot. And I got hurt."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, I was worried about injuries, but there wasn't time to... Tell me, how does it feel? What's your reaction?"
+        },
+        {
+            "character": "May",
+            "line": "“How does it feel?” How much of me is me? Am I even me at all?!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I assure you, the real Melinda May is fine. She's safe and healthy and under my protection."
+        },
+        {
+            "character": "May",
+            "line": "I don't care about your assurances. You had me spy on my own people."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "“Your own people!” That's delightful. Please, believe me, everyone is gonna come out of this all right."
+        },
+        {
+            "character": "May",
+            "line": "I don't know. Once I tell Coulson, it might be rough for you."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You're not telling Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Why not?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Because you have a mission. Call it an instinct. It'll kick in when it's time. Till then, you won't be able to jeopardize what you need to do."
+        },
+        {
+            "character": "May",
+            "line": "What mission?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You see, I sent you in unaware so that you would seem more real. I didn't want you distracted by such things. You can't know when May's memories end and my coding begins. It's all one."
+        },
+        {
+            "character": "May",
+            "line": "You're wrong."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I know it's not easy to accept."
+        },
+        {
+            "character": "May",
+            "line": "There's enough May in me to do what has to be done."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You can't. Sorry. It's programming."
+        },
+        {
+            "character": "May",
+            "line": "That's why I won't tell Coulson who I am? Did you program me so I can't tell anyone?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. I programmed you so you wouldn't want to. There's no reason to resist. You don't need to. Why don't you simply do what you truly want?"
+        },
+        {
+            "character": "May",
+            "line": "What do you think I want?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Come now. We both know."
+        },
+        {
+            "character": "May",
+            "line": "You don't know me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Mm. I've been inside your brain. I know what you want, or, rather, whom. See? You do know. I've seen the closeness between you. It's always been there, but you've been resisting that, too. Why? If only May and you, for that matter, could be happy. Forget duty and honor and simply take what you want. You are who you are."
+        },
+        {
+            "character": "May",
+            "line": "You're wrong."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm not. But May has no time for happiness. She's too busy fighting some fight she's already lost in her past long enough to enjoy... Is that it? Is that what May needs?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Get away from her."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What's ... Fi... Fitz, what's going on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You don't talk to him. Did you think he wouldn't find out? Fitz had a theory after AIDA betrayed us, that it wasn't reading the Darkhold that changed her. That you programmed her to do it. He was right."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Fitz, I can explain."
+        },
+        {
+            "character": "Coulson",
+            "line": "May? What are you doing here?"
+        },
+        {
+            "character": "May",
+            "line": "Something Fitz said got me thinking. And then the leak. Came to see what he knew. And the truth came out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get him out of here."
+        }
+    ]
+}

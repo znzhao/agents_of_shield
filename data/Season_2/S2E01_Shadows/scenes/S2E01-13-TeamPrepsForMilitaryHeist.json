@@ -1,0 +1,88 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 13,
+    "scene_name": "TeamPrepsForMilitaryHeist",
+    "description": "Now aware of Creel's plan, Coulson rallies the team—Skye, May, Hartley, Hunter, Idaho, Mack, and Triplett—to break into the military facility and secure the Obelisk. The mercs question the plan, but Coulson insists he has a secondary objective beyond the artifact itself, pushing the group into high-stakes action.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "antoine_triplett",
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "We have a small logic question. Why? Why are we going in?"
+        },
+        {
+            "character": "Hartley",
+            "line": "Look, we trust Coulson's judgment."
+        },
+        {
+            "character": "Hunter",
+            "line": "We do?"
+        },
+        {
+            "character": "Hartley",
+            "line": "But Talbot's not a bad guy. And last I checked, the U.S. Government is one of the lesser evils. So they've got the weapon in a locked box. And now they've got this absorbing man in a locked box, too. That's not so bad."
+        },
+        {
+            "character": "Mack",
+            "line": "She's got a point. It does seem as safe a place to keep them as any."
+        },
+        {
+            "character": "Skye",
+            "line": "But they have no idea what they're dealing with."
+        },
+        {
+            "character": "Hartley",
+            "line": "Yeah, but is that danger worse than the risk of sending every field operative you have available into a secure military compound?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, guarded by the same people that's been hunting us."
+        },
+        {
+            "character": "Idaho",
+            "line": "Belly of the beast, man."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, we're already on our heels. We can't even get this thing out of the hangar."
+        },
+        {
+            "character": "Coulson",
+            "line": "Exactly. This is a make-or-break moment."
+        },
+        {
+            "character": "Hunter",
+            "line": "For an object we have zero data on."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not the only thing we're after."
+        },
+        {
+            "character": "Hartley",
+            "line": "Now it's all or nothing, huh? Well, all right, then."
+        },
+        {
+            "character": "Skye",
+            "line": "You taking point?"
+        },
+        {
+            "character": "May",
+            "line": "Coulson will be on comms. Hey, let's stick together on this one."
+        },
+        {
+            "character": "Skye",
+            "line": "You got it."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "JacoRegroupsWithAllies",
+    "description": "Jaco reunites with his team after successfully crossing through a breach, updating Pax and Snowflake on Tinker’s demise and impending plans. They prepare to rendezvous at the museum, foreshadowing an imminent confrontation with S.H.I.E.L.D. This sets up the main antagonists’ coordinated movement toward their mysterious objective.",
+    "roles": [
+        "jaco"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Jaco",
+            "line": "Didn't know if you'd get through."
+        },
+        {
+            "character": "Pax",
+            "line": "You want to drop the blaster?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Safety first."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Where's Tinker?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Didn't make it."
+        },
+        {
+            "character": "Pax",
+            "line": "What do you mean didn't make it? What the hell happened?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Bad crossing."
+        },
+        {
+            "character": "Snowflake",
+            "line": "You came through something they built here? A native structure?"
+        },
+        {
+            "character": "Jaco",
+            "line": "He turned to concrete."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Well, now he's a butterfly."
+        },
+        {
+            "character": "Pax",
+            "line": "What about Sarge? He's coming soon."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Is his crossing clear?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Nope. It's a museum."
+        },
+        {
+            "character": "Pax",
+            "line": "Okay, a museum. All right, well, let's get there. And blow it straight to hell."
+        }
+    ]
+}

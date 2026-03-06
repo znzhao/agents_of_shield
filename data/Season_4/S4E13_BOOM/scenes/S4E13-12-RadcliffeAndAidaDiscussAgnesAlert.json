@@ -1,0 +1,60 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 12,
+    "scene_name": "RadcliffeAndAidaDiscussAgnesAlert",
+    "description": "Radcliffe receives an urgent alert from Agnes and prepares to leave. AIDA notices his evasive behavior and questions him about modeling her after someone real. Radcliffe tries to reassure AIDA of her uniqueness before hurrying off to meet Agnes.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "dramatic",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, would you do something about that infernal buzzing?!"
+        },
+        {
+            "character": "AIDA",
+            "line": "Sir, it says you've received an urgent alert from a post-humanist sub-group? Marked private."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, it can't be. No. Is this fate? I need to leave immediately. You must perfect the Framework in my absence. It's imperative."
+        },
+        {
+            "character": "AIDA",
+            "line": "Doctor, you designed me to read social cues. You're being evasive."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How to explain? Any robotic humanoid must avoid the appearance of being almost human. Even the slightest appearance of inauthenticity elicits a sense of revulsion."
+        },
+        {
+            "character": "AIDA",
+            "line": "You mean avoiding the uncanny valley."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Exactly. But you don't look at all uncanny. In fact you look entirely authentic. Familiar, even."
+        },
+        {
+            "character": "AIDA",
+            "line": "I'm not unique?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, you're absolutely unique. It was just good science to model you on someone real."
+        },
+        {
+            "character": "AIDA",
+            "line": "Someone you were close to."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes. Now she needs my help."
+        }
+    ]
+}

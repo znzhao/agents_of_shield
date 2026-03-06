@@ -1,0 +1,52 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 9,
+    "scene_name": "WardAndSkyeAftermath",
+    "description": "Back at the Bus, Ward and Skye talk about what happened during the confrontation with Nash. Ward confesses his reasons for killing Nash, driven by a need to protect Skye. Skye is shaken but tries to understand, while Ward accepts that he’ll face a S.H.I.E.L.D. review board for his actions.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Thought you were Coulson. Thanks."
+        },
+        {
+            "character": "Skye",
+            "line": "Why'd you do it?"
+        },
+        {
+            "character": "Ward",
+            "line": "I lost it. I got angry. He pushed all the right buttons."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson said the mission was to capture, not to kill."
+        },
+        {
+            "character": "Ward",
+            "line": "Think about what the Clairvoyant said, what he's done. Think about the Centipede program, how he experimented on innocent people like Mike Peterson, how he kidnapped and tortured Coulson, how he ordered Quinn to shoot you. And he wasn't gonna stop, Skye. Not until you... I wasn't gonna let that happen."
+        },
+        {
+            "character": "Skye",
+            "line": "So, what happens now?"
+        },
+        {
+            "character": "Ward",
+            "line": "I face a S.H.I.E.L.D. review board. Whatever the punishment, I'll take it. I deserve it. But I don't regret what I've done."
+        },
+        {
+            "character": "Skye",
+            "line": "You don't?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. Not if it means you're safe. You and the rest of the team."
+        }
+    ]
+}

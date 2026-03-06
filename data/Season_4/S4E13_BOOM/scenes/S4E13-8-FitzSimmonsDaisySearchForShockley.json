@@ -1,0 +1,73 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 8,
+    "scene_name": "FitzSimmonsDaisySearchForShockley",
+    "description": "At the Playground, Daisy, Fitz, and Simmons try to piece together the bombing. Daisy spots Shockley on security footage and suspects his involvement, while Fitz and Simmons theorize about the use of the Darkhold or Inhuman husks. They begin a facial recognition search for Shockley.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "How am I not finding any trace of bomb-making material?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Probably the same way I'm not finding any trace of accelerant."
+        },
+        {
+            "character": "Fitz",
+            "line": "Has to be something."
+        },
+        {
+            "character": "Simmons",
+            "line": "Clearly."
+        },
+        {
+            "character": "Fitz",
+            "line": "And yet, there is nothing."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, we take a bit of everything and test a bit of everything, old-school. Like in the chem lab, at our old school."
+        },
+        {
+            "character": "Daisy",
+            "line": "Guess who was seen entering Nadeer's office right before the blast? Cattle-prod enthusiast Tucker Shockley. He was with the Russians who took the Darkhold. And if memory serves, I quaked his ass."
+        },
+        {
+            "character": "Fitz",
+            "line": "Senator Nadeer was also aligned with the Russians. Why would they want her dead?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Villain-on-villain violence?"
+        },
+        {
+            "character": "Simmons",
+            "line": "If the Russians and Radcliffe have the Darkhold, they could have created a new, untraceable explosive."
+        },
+        {
+            "character": "Fitz",
+            "line": "I really hate that book."
+        },
+        {
+            "character": "Daisy",
+            "line": "However they did this, if Shockley's not one of the three bodies in the morgue right now, he's our bomber. We need to find him."
+        },
+        {
+            "character": "Simmons",
+            "line": "How does a facial-recognition search in the city with the most surveillance cameras on the planet sound?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Like a good start."
+        }
+    ]
+}

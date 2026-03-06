@@ -1,0 +1,59 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 12,
+    "scene_name": "FitzDiscoversDonnieAndSethsPlan",
+    "description": "Fitz confronts Donnie in his room, realizes the boy is building a scaled-up version of the freezing device, and tries to intervene. Seth appears, revealing his involvement, and the two boys subdue Fitz to keep their plan moving forward. The situation becomes more dangerous as Fitz is incapacitated.",
+    "roles": [
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Jemma, please don't tell me you've left the boiler room already."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, they staged the attacks."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's nonsense. Why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "To lure us to the Academy and to take them off our radar as suspects. You need to get out of there. He's after you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Relax. I'm out. You're overreacting. He's just a lonely kid. We had a nice little hang session. I actually helped him solve his... power problem. Oh, no. That's what you're trying to power... a bigger version of the ice machine?"
+        },
+        {
+            "character": "Donnie",
+            "line": "You weren't supposed to see this."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is very, very dangerous, okay? You can't have this here. We have to turn it in to Agent Weaver."
+        },
+        {
+            "character": "Seth",
+            "line": "You weren't supposed to see this. We need to go. Come on!"
+        },
+        {
+            "character": "Fitz",
+            "line": "How could I have been so stupid?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, will you stop?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm sorry, sir. It's my fault."
+        }
+    ]
+}

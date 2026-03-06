@@ -1,0 +1,89 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 3,
+    "scene_name": "MayInterrogatedByMorseAndWeaver",
+    "description": "Back in the present, May is confronted by Bobbi Morse and Agent Weaver aboard The Iliad about her knowledge of Project Deathlok and Theta Protocol. They push her for answers regarding Coulson’s activities, but May insists she has limited information, standing her ground as suspicions mount. The scene establishes the growing distrust within S.H.I.E.L.D.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse",
+        "robert_gonzales"
+    ],
+    "vibe": "intense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Gonzales has Shanghai quieted down. Agents will extract in two hours."
+        },
+        {
+            "character": "Weaver",
+            "line": "Are we having any issues following Agent Fitz?"
+        },
+        {
+            "character": "May",
+            "line": "You tailed him?"
+        },
+        {
+            "character": "Morse",
+            "line": "He resigned. Fitz has a lot of ideas. We're just making sure that he doesn't get any crazy ones."
+        },
+        {
+            "character": "May",
+            "line": "Like seeking out Coulson?"
+        },
+        {
+            "character": "Weaver",
+            "line": "We find answers where we can. Perhaps you can fill in a few of the blanks. Specifically about powered people. What about project deathlok? How long has Coulson been running Mike Peterson?"
+        },
+        {
+            "character": "May",
+            "line": "The contact has been minimal. He wasn't an active asset."
+        },
+        {
+            "character": "Weaver",
+            "line": "Seems pretty active to me. Do you expect us to believe he's not part of Theta Protocol? You can at least tell us what you do know about it."
+        },
+        {
+            "character": "May",
+            "line": "Coulson doesn't bore me with the details of every little operation."
+        },
+        {
+            "character": "Morse",
+            "line": "May, we know this is massive. We have evidence that Coulson has quietly been moving alarming amounts of resources and manpower all over the globe."
+        },
+        {
+            "character": "Weaver",
+            "line": "The only thing we found linking all these activities is a code name, Theta Protocol. There's no more details he shared with you?"
+        },
+        {
+            "character": "May",
+            "line": "Any director of S.H.I.E.L.D. has secrets."
+        },
+        {
+            "character": "Morse",
+            "line": "We're not talking a few black-bag operations."
+        },
+        {
+            "character": "Weaver",
+            "line": "Take your entire current budget and match it with this one program."
+        },
+        {
+            "character": "Morse",
+            "line": "That's why we want to open Fury's toolbox, for answers."
+        },
+        {
+            "character": "May",
+            "line": "And I'm sure there's a simple one. Let me take charge of my base and I'll talk Coulson in peacefully."
+        },
+        {
+            "character": "Weaver",
+            "line": "That's great. But so we're on the same page, all our Intel on Coulson. You know him best. Tell us, are we right to worry?"
+        },
+        {
+            "character": "May",
+            "line": "I know Coulson's not our enemy."
+        }
+    ]
+}

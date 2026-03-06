@@ -1,0 +1,89 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 12,
+    "scene_name": "ZephyrNarrowEscape",
+    "description": "The team races to board Zephyr One as the time jump window closes. Chaos and urgency ensue as the agents shout for Enoch to make it back onboard. In the final seconds, everyone rushes up the ramp, with Simmons under immense pressure to close the doors in time to safely make the jump.",
+    "roles": [
+        "enoch",
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Hurry!"
+        },
+        {
+            "character": "Elena",
+            "line": "What happened?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We just secured the rise of Hydra and the Malick Dynasty."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, it's a real banner day."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where's Enoch?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's on his way."
+        },
+        {
+            "character": "Simmons",
+            "line": "We only have 30 seconds until we jump. We need to close the door now, or the ship could be torn apart."
+        },
+        {
+            "character": "Mack",
+            "line": "Close it."
+        },
+        {
+            "character": "Elena",
+            "line": "Run!"
+        },
+        {
+            "character": "Deke",
+            "line": "Run!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Run!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Run, Enoch!"
+        },
+        {
+            "character": "Deke",
+            "line": "Stop the ramp!"
+        },
+        {
+            "character": "Simmons",
+            "line": "We can't."
+        },
+        {
+            "character": "Mack",
+            "line": "Run, Enoch!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on! You can do it! Run!"
+        },
+        {
+            "character": "Deke",
+            "line": "Come on!"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 7,
+    "scene_name": "CoulsonAndMackEnterSpeakeasy",
+    "description": "Coulson and Mack locate and enter Koenig's speakeasy by using the password 'swordfish.' They attempt to gather information from the staff and patrons regarding the recent violence. Their presence arouses suspicion, leading to a confrontation with the speakeasy's thugs; Coulson is shot, but his LMD body shrugs off the bullet, stunning everyone. Coulson and Mack demand to see Koenig, setting up further investigation into local criminal activities connected to S.H.I.E.L.D. and the Chronicoms.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Where are we going exactly?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not sure. It's supposed to be under an old post office. Down some stairs."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I hope they're serving."
+        },
+        {
+            "character": "Coulson",
+            "line": "The password was only spread through word of mouth. And it appeared in a Marx Brothers movie, “Horse Feathers”. But that's not for a year. They probably hung out here."
+        },
+        {
+            "character": "Mack",
+            "line": "I must've missed that one."
+        },
+        {
+            "character": "Freddy",
+            "line": "Password."
+        },
+        {
+            "character": "Coulson",
+            "line": "Swordfish. Pretty cool, right?"
+        },
+        {
+            "character": "Freddy",
+            "line": "Welcome, gentlemen."
+        },
+        {
+            "character": "Mack",
+            "line": "We know who we're looking for?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Apparently, there was an SSR asset who kept the peace and was always behind the bar, went by “Gemini”. Don't know his real name."
+        },
+        {
+            "character": "Mack",
+            "line": "Come on, I'll buy you a drink. Can you drink?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Only one way to find out."
+        },
+        {
+            "character": "Tillman",
+            "line": "Never seen you two before."
+        },
+        {
+            "character": "Mack",
+            "line": "Never felt compelled to drop in. But there's been an incident involving a man that might've worked here."
+        },
+        {
+            "character": "Coulson",
+            "line": "We were hoping to talk to the man in charge. Gemini. Is he around?"
+        },
+        {
+            "character": "Tillman",
+            "line": "Gemini? Yeah, yeah. Sure thing. You want to talk to the twins... go ahead."
+        }
+    ]
+}

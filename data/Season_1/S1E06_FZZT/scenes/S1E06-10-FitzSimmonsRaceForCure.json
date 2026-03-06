@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "FitzSimmonsRaceForCure",
+    "description": "Fitz and Simmons, separated by a quarantine barrier, frantically work to produce an antiserum. Fitz tries to comfort Simmons while Skye and Ward wait anxiously, discussing their powerlessness. Coulson gets a tough call from Agent Blake reiterating their orders: if Simmons threatens the mission, she must be jettisoned.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I believe we have a winner. Fast and efficient, the perfect delivery mechanism."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, hey, um, not that it was easy to find a mineralized solution that could suspend the vaccine and conduct electricity."
+        },
+        {
+            "character": "Simmons",
+            "line": "I wish you wouldn't use the word “vaccine.” It's really more of an antiserum. Okay, so... these antibodies should be able to target the virus' antigens, if this bloody alien virus even has antigens. Come on, now. Come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well... that wasn't very cooperative of him, now, was it?"
+        },
+        {
+            "character": "Skye",
+            "line": "Why aren't you down there?"
+        },
+        {
+            "character": "Ward",
+            "line": "They don't need an audience. You can stay... if you want."
+        },
+        {
+            "character": "Skye",
+            "line": "I hate this. I just feel so..."
+        },
+        {
+            "character": "Ward",
+            "line": "Helpless."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "I wanted it to be a person, some superpowered psychopath, someone I could hurt, someone I could... punish. That I could do. What I can't do is protect you guys from stuff I can't even see... or understand."
+        },
+        {
+            "character": "Skye",
+            "line": "So, what do we do?"
+        },
+        {
+            "character": "Ward",
+            "line": "We wait... and get ready."
+        },
+        {
+            "character": "Skye",
+            "line": "Ready for what?"
+        },
+        {
+            "character": "Ward",
+            "line": "For whatever it is we're called upon to do."
+        },
+        {
+            "character": "Blake",
+            "line": "Coulson, nice to see you're not dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you get our analysis of the virus?"
+        },
+        {
+            "character": "Blake",
+            "line": "We did, and S.H.I.E.L.D. has no record of anything like it. No one does. So it's imperative it reach the Sandbox without incident. In case of a pandemic, we're going to need it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm aware of that, but I don't need more orders or ultimatums. I need answers."
+        },
+        {
+            "character": "Blake",
+            "line": "I wish I had some for you. I'm sorry, Coulson ... I've been ordered to inform you that if you have infected cargo, you need to dump it. Do you copy me, Coulson? These orders are coming from up top."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry... bad connection. Didn't get that last part. Don't even think it."
+        },
+        {
+            "character": "May",
+            "line": "I don't have to. That's your job."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's all right. Everything's gonna be fine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please stop saying that. I see you looking at your watch."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you sure you don't need my help just to..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you sure this thing even works?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, you know it does. My device isn't the issue, it's the vaccine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Antiserum! And all I'm wondering is whether you calibrated it correctly."
+        }
+    ]
+}

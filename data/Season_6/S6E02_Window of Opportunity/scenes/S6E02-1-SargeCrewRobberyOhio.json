@@ -1,0 +1,52 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "SargeCrewRobberyOhio",
+    "description": "Sarge and his crew (Pax, Snowflake, Jaco) complete a convenience store robbery in Ohio. Sarge muses about Earth's currency while the crew discusses their needs and situation. Tension surfaces over Tinker's death and the loss of their crucial P.E.G.s, which Snowflake reveals are gone with Tinker. Pax is upset, Sarge keeps things moving, and Jaco provides levity. They plan their next move while attempting to stay under the radar.",
+    "roles": [
+        "sarge_pachakutiq",
+        "jaco"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Snowflake",
+            "line": "Huh."
+        },
+        {
+            "character": "Jaco",
+            "line": "Sweet."
+        },
+        {
+            "character": "Sarge",
+            "line": "Mmm."
+        },
+        {
+            "character": "Pax",
+            "line": "This rock has it all, Sarge. It's gonna be child's play."
+        },
+        {
+            "character": "Man",
+            "line": "Please. Just take what you want and leave."
+        },
+        {
+            "character": "Sarge",
+            "line": "You can tell a lot about a world by its currency. What have we got?"
+        },
+        {
+            "character": "Pax",
+            "line": "Paper. With faces on it."
+        },
+        {
+            "character": "Sarge",
+            "line": "Great. One of those. At least it's lighter than coin."
+        },
+        {
+            "character": "Sarge",
+            "line": "People fantasize about doing something dramatic in times like these. You don't look like a hero to me. They're still using combustion here. Might be child's play after all. Let's vanish."
+        }
+    ]
+}

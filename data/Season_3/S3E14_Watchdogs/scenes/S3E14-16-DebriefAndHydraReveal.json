@@ -1,0 +1,54 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 16,
+    "scene_name": "DebriefAndHydraReveal",
+    "description": "At the Playground, Daisy tells Coulson that surveillance footage shows the Watchdogs' attack was a diversion for a HYDRA theft at the ATCU facility. Coulson realizes Gideon Malick is orchestrating the Watchdogs, setting up larger threats. Meanwhile, Giyera and Malick discuss continuing their efforts, cementing the episode’s connection to the broader HYDRA plot.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "gideon_malick",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "You were right. The ATCU attack was a cover. Found surveillance video. This is about an hour before the implosion. We ran the plates. Company car."
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You win."
+        },
+        {
+            "character": "Coulson",
+            "line": "This wasn't an act of terrorism. It was a distraction and a cover-up."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sponsored by HYDRA. Malick's firing up the Watchdogs, feeding them intel."
+        },
+        {
+            "character": "Coulson",
+            "line": "If they got that kind of funding, they're not going anywhere. And Malick? God only knows what he took from there."
+        },
+        {
+            "character": "Blake",
+            "line": "I kept my part of the deal. Now I expect you to keep yours. I want weaponry. And not that Stark Industries reissue crap. I'm talking about the big guns. So we can finally hunt down these freaks."
+        },
+        {
+            "character": "Giyera",
+            "line": "Yes. Freaks. If everything goes as planned, we'll all get what we want, Mr. Blake. Our common enemies will be dead, and you'll have troops, armed to the teeth, at your command."
+        },
+        {
+            "character": "Blake",
+            "line": "Yeah. Sounds right."
+        }
+    ]
+}

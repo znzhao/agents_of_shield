@@ -1,0 +1,51 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 2,
+    "scene_name": "KreeBrothersRivalry",
+    "description": "Kasius and Faulnak discuss their approach to hunting the escaped S.H.I.E.L.D. agents. Faulnak asserts dominance by sending his warrior Maston-Dar after them, furthering tensions between the brothers over their methods and legacy. This scene reveals more of Kasius' insecurities and deepens the Kree family conflict.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Is it noticeable?"
+        },
+        {
+            "character": "Faulnak",
+            "line": "It should be. Scars are badges of honor for the victor. But as expected, your priorities are misplaced. What news of the Destroyer?"
+        },
+        {
+            "character": "Kasius",
+            "line": "She has no power, no ship, and nowhere to run. Have patience, dear brother."
+        },
+        {
+            "character": "Faulnak",
+            "line": "Patience is a feeble cover for inaction. Double the guard. Have them sweep floor by floor..."
+        },
+        {
+            "character": "Kasius",
+            "line": "While your expertise is appreciated, I have the matter under control. There's a system in place, and it has served me well. Sinara will end this inconvenience. As you saw by her display in the Crater, she is the most capable warrior in my employ."
+        },
+        {
+            "character": "Faulnak",
+            "line": "Your best has proven inadequate. You remember my man, Maston-Dar, here. He'll make quick work of this."
+        },
+        {
+            "character": "Maston-Dar",
+            "line": "A Terran weapon."
+        },
+        {
+            "character": "Faulnak",
+            "line": "Of course. Bring any human weaponry you possess. Maston finds it unfair hunting primitives with anything but their own primitive armaments. Show them how we spill blood. And, uh, find the girl in the process."
+        },
+        {
+            "character": "Vicar",
+            "line": "This is the price of hiding Inhumans. Continue to keep your mouths shut, and you'll end up dead, too."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "TrainingAtThePlayground",
+    "description": "At the Playground, May pushes Skye in a demanding hand-to-hand training session, stressing the importance of control over her emotions after recent tragic events. Fitz interrupts, worried about Skye's well-being following her transformation. The scene also establishes the team's current emotional state after losing Agent Trip and sets the tone for their support of each other.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Not bad. But once I'm pinned, you should try for a finishing blow."
+        },
+        {
+            "character": "Skye",
+            "line": "You want full “Mortal Kombat?”"
+        },
+        {
+            "character": "May",
+            "line": "I want you to stop holding back, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "I didn't want to hurt you. I didn't want to try to hurt you. I feel like I'm constantly on the verge of... I don't know."
+        },
+        {
+            "character": "May",
+            "line": "Look... we lost Trip, and it hurts like hell, but you can't shut those feelings out. Can't sustain that."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, what's my option? I just lose it right here?"
+        },
+        {
+            "character": "May",
+            "line": "We've talked about this. Control. Embrace your emotions, your nerves. Use them... on your terms."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know. What I'm feeling is pretty... dark. I'm afraid I'm gonna go postal and tear your head off."
+        },
+        {
+            "character": "May",
+            "line": "Go for it. I promise you won't."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe Skye needs a break."
+        },
+        {
+            "character": "May",
+            "line": "Training is not a group activity."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I just came down to... have ... Uh, see what... i-it's about."
+        },
+        {
+            "character": "May",
+            "line": "I'll tell you what, Fitz... come back in an hour. I'd be happy to show you what it's all about."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm fine, Fitz. Really. It would be pretty funny to see you and Fitz go at it... Okay. Guess we're back on."
+        },
+        {
+            "character": "May",
+            "line": "And not holding back."
+        }
+    ]
+}

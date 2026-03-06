@@ -1,0 +1,110 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 14,
+    "scene_name": "DaisyReturnsAndRecovers",
+    "description": "Daisy lands back at the Playground where she is greeted and cared for by the team. Simmons examines Daisy, confirming Hive’s sway is gone while cautioning about her difficult recovery process. The group grapples with trust issues and debriefs on the mission’s risks and losses, and Simmons and Fitz reveal the new nature of Hive’s threat.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln",
+        "alphonso_mackenzie",
+        "glenn_talbot",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Ragtag base, come in. This is Agent Daisy Johnson. I'm coming home. Repeat. I'm coming home."
+        },
+        {
+            "character": "Coulson",
+            "line": "Welcome back, Agent Johnson."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's good to see you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lash died trying to save me."
+        },
+        {
+            "character": "Talbot",
+            "line": "Did he manage to kill Hive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Get her to the med bay."
+        },
+        {
+            "character": "Fitz",
+            "line": "Lash wasn't here to kill Hive."
+        },
+        {
+            "character": "Lincoln",
+            "line": "He was here to save Daisy."
+        },
+        {
+            "character": "Simmons",
+            "line": "That wasn't Lash."
+        },
+        {
+            "character": "Simmons",
+            "line": "Prep for immediate blood transfusion and full cranial scan."
+        },
+        {
+            "character": "Talbot",
+            "line": "How do we know this isn't a trap? That she isn't under Hive's voodoo spell?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll know soon enough."
+        },
+        {
+            "character": "Mack",
+            "line": "In the meantime, have a little faith."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy is completely sway free. Her brain is back to normal. But she is suffering withdrawal symptoms from the effects of the sway. It'll take some time. She's resting now, recovering from that and the blood loss, but we do expect a full recovery."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nobody goes in there until I say, but that's good news. I know that look. That means there's bad news, too. What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Dr. Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, this is purely hypothetical, and there are a lot of unknown variables, but..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Based on what Daisy told us about Hive's new pathogen..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We think we know what he plans to do with it. If he can create some short of shock wave, then Hive could potentially infect a significant percentage of the human race, turning them all into the swayed primitive Inhumans that Daisy described..."
+        },
+        {
+            "character": "Simmons",
+            "line": "If and only if he finds a way to disperse it high enough in the atmosphere."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Talbot",
+            "line": "He has a way. That thing he stole from the ATCU in Indiana. It was a warhead, a fully operational warhead."
+        }
+    ]
+}

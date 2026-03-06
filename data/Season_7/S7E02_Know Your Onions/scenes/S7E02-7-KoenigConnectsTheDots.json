@@ -1,0 +1,83 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 7,
+    "scene_name": "KoenigConnectsTheDots",
+    "description": "In the speakeasy, Simmons interrogates Freddy's contact, but cannot get the destination out of her. Koenig, overhearing the conversation, pieces together that Freddy is heading to Hell's Harbor. Koenig demands to join the agents to help Freddy, setting up the next phase of the mission. Enoch fails to make significant progress contacting the field team, while the Chronicoms follow a new lead to the train.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "skye",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Now that I know what you are, I will ask you one more time. Where is Freddy gonna end up?"
+        },
+        {
+            "character": "Freddy's contact",
+            "line": "On the right side of history. You can't stop progress."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't want to stop anything. We just want to find our friends."
+        },
+        {
+            "character": "Freddy's contact",
+            "line": "Well, then you can go to Hell."
+        },
+        {
+            "character": "Koenig",
+            "line": "Wait. Wait. I know where that is. I've been there."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm sure you have."
+        },
+        {
+            "character": "Koenig",
+            "line": "No, no. Hell's Harbor. Where the double-crossers go to double-cross the double-crossers."
+        },
+        {
+            "character": "Freddy's contact",
+            "line": "But you'll never make it there unless you can fly. There's no trains fast enough."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can fly. Tell us how to find it."
+        },
+        {
+            "character": "Koenig",
+            "line": "I'll tell you on the way."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not possible."
+        },
+        {
+            "character": "Koenig",
+            "line": "I'm not telling you anything unless you take me along. Freddy's my responsibility, too. I want answers. If you want to help your friends, that's my price."
+        },
+        {
+            "character": "Officer",
+            "line": "They are on a train."
+        },
+        {
+            "character": "Captain Dole",
+            "line": "I will access the schedules."
+        },
+        {
+            "character": "Officer",
+            "line": "What if S.H.I.E.L.D. is there?"
+        },
+        {
+            "character": "Captain Dole",
+            "line": "The target is Wilfred Malick. If we succeed, there will not be any S.H.I.E.L.D. in the future, and those who have followed us here... will be out of time."
+        }
+    ]
+}

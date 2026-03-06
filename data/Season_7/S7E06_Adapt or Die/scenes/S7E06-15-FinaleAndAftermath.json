@@ -1,0 +1,53 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 15,
+    "scene_name": "FinaleAndAftermath",
+    "description": "As the Zephyr prepares to jump through time, the team scrambles to recover from the emotional, physical, and technological damage. Mack, reeling from his loss, steps away to grieve as Simmons and Deke attempt to get everyone back aboard. The time drive powers up as the ship is on the verge of jumping, leaving their future uncertain.",
+    "roles": [
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "We're about to jump."
+        },
+        {
+            "character": "Simmons",
+            "line": "Last chance, if you..."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm where I need to be."
+        },
+        {
+            "character": "Deke",
+            "line": "Where are you going, man? Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "I just need some air."
+        },
+        {
+            "character": "Simmons",
+            "line": "Deke, where are you?"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, I said I would check on Mack. Believe it or not, I kind of get what he's going through."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, where are you? The Zephyr's... leaving. Both of you get back now. ... deteriorating... about to jump..."
+        },
+        {
+            "character": "Deke",
+            "line": "Mack! Mack! Mack! Mack, we gotta go! Z1's in trouble!"
+        }
+    ]
+}

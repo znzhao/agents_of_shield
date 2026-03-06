@@ -1,0 +1,90 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 3,
+    "scene_name": "LincolnInConfinement",
+    "description": "May checks on Lincoln in the Playground’s medical unit, holding firm on his detainment for both safety and strategic reasons. Fitz and Simmons discuss Daisy’s continued attempts at intrusion and Lincoln’s mental state. The group grapples with the fallout of Daisy’s betrayal, while May urges Fitz and Simmons to strategize offensively against Hive.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Time for your feeding."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Your sense of humor needs work. How much longer are you gonna keep me locked up in here? It's been days."
+        },
+        {
+            "character": "May",
+            "line": "As long as it takes. Your immune system is still compromised."
+        },
+        {
+            "character": "Lincoln",
+            "line": "There's nothing wrong with me."
+        },
+        {
+            "character": "May",
+            "line": "And losing Daisy has made you irrational. Everything you've done to try to help her has made things worse."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Doesn't give you the right to keep me locked up."
+        },
+        {
+            "character": "May",
+            "line": "You want to leave? We can hand you over to General Talbot right now. He's right upstairs."
+        },
+        {
+            "character": "Lincoln",
+            "line": "He's here? Why?"
+        },
+        {
+            "character": "May",
+            "line": "To take inventory. You really want to help Daisy, then you need to straighten up and fly right. And eat something."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's lucky we're feeding him at all."
+        },
+        {
+            "character": "Fitz",
+            "line": "Doesn't even need to be there. He's fine now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson wants him locked up. We destroyed all our work on the Hive cure, and now you have to spend all your time Daisy-proofing security."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Believe me, I know. It's like Whac-a-Mole. Knock her out of one hole, she just pops back up into another. Could really use Mack's help. How is he?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, stress fractures are healing. Broken ribs and fingers still need time. It's his broken spirit that worries me. He hasn't been the same since Daisy..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Feels like everything's going to hell and all we're doing is slowing down the descent. Okay. That should keep her out for an hour. Or a minute. Any plans?"
+        },
+        {
+            "character": "May",
+            "line": "I need you to forget about Daisy. She already knows everything about us, and she's going to get in eventually. Time to stop playing defense and get back on offense. I need you to start thinking like Hive. Get inside his twisted brain. What drives him? What does he want?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He's a parasite. All he wants to do is consume."
+        },
+        {
+            "character": "May",
+            "line": "But he also has humans in there somewhere, and you've spent significant time with two of them. We need to know his end game, and we need to know it yesterday."
+        }
+    ]
+}

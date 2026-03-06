@@ -1,0 +1,68 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 13,
+    "scene_name": "DarkholdExchangeAndLMDBetrayal",
+    "description": "The Watchdogs arrive, holding Billy Koenig hostage. Coulson negotiates an exchange—the Darkhold for Billy's release. Daisy uses her powers to knock the book back to the S.H.I.E.L.D. team, and as chaos erupts, Billy tries to rescue who he believes is May, only to be knocked out by the LMD. Radcliffe claims the Darkhold, abandoning his creation. The S.H.I.E.L.D. team is left grappling with the loss of both the book and May.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sam_koenig",
+        "billy_koenig",
+        "holden_radcliffe"
+    ],
+    "vibe": "action-packed",
+    "location": "Labyrinth (secret S.H.I.E.L.D. facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Shockley",
+            "line": "Give us the book, I'll give you your brother."
+        },
+        {
+            "character": "Sam",
+            "line": "My brother? What, are you kidding? I've never seen this guy before in my life."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want the book? Let him go."
+        },
+        {
+            "character": "Sam",
+            "line": "What did they do to you, man?"
+        },
+        {
+            "character": "Billy",
+            "line": "They took my puppy."
+        },
+        {
+            "character": "Sam",
+            "line": "So cool."
+        },
+        {
+            "character": "Coulson",
+            "line": "Grab Billy and let's get to the Quinjet."
+        },
+        {
+            "character": "May",
+            "line": "Aah! Help!"
+        },
+        {
+            "character": "Billy",
+            "line": "May! What... What happened? Le me help you. Okay. Wha..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Hello, Agent May. Mission accomplished. This is exactly what you were supposed to do. I'm eternally grateful."
+        },
+        {
+            "character": "May",
+            "line": "Take me with you. Please."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Sorry. You weren't built to last."
+        }
+    ]
+}

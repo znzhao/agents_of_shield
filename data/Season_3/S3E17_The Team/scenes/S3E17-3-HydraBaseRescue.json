@@ -1,0 +1,119 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 3,
+    "scene_name": "HydraBaseRescue",
+    "description": "The Secret Warriors break into the HYDRA base and split into teams to execute the rescue. Joey and Elena clear the path to the Zephyr, while Daisy heads for the control room and Lincoln tracks down Malick. During the operation, Joey is forced to kill Lucio to protect Lincoln, leaving him rattled. With everyone reunited, May resumes control of the Zephyr in spite of her injuries, and the team makes their escape.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "joey_gutierrez",
+        "elena_rodriguez",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "phil_coulson"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Joey",
+            "line": "Well, I guess we can call this area clear."
+        },
+        {
+            "character": "Daisy",
+            "line": "Split up. Lincoln and I go solo. You guys take the elevator. Find our team, and report back."
+        },
+        {
+            "character": "Daisy",
+            "line": "I got eyes on the Zephyr. Entrance is on the north side, sub-level 5. Crash on that location."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I've got Malick."
+        },
+        {
+            "character": "Simmons",
+            "line": "Catalyst. Careful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Here's a cloth. May needs compression."
+        },
+        {
+            "character": "Simmons",
+            "line": "On it. The door."
+        },
+        {
+            "character": "Mack",
+            "line": "Here. This seal gonna hold?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hope so. It's chlorine gas. If not, we'll all go blind."
+        },
+        {
+            "character": "Mack",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys, I'm coming to you."
+        },
+        {
+            "character": "Elena",
+            "line": "Joey!"
+        },
+        {
+            "character": "Daisy",
+            "line": "I said I'd come to you. You okay?"
+        },
+        {
+            "character": "Joey",
+            "line": "Yeah. Go, go, go."
+        },
+        {
+            "character": "Joey",
+            "line": "Lincoln! Lincoln!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Shoot anything that comes through that door."
+        },
+        {
+            "character": "Elena",
+            "line": "Hello?"
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Elena",
+            "line": "Mack. It's good to see you again. You look well."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm doing real good now."
+        },
+        {
+            "character": "Coulson",
+            "line": "What took you so long?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sorry. Had to get the band back together. Got anyone who can fly this thing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "May! You can't even walk!"
+        },
+        {
+            "character": "May",
+            "line": "But I can still fly."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 17,
+    "scene_name": "JiayingMurdersGonzales",
+    "description": "The conversation between Gonzales and Jiaying turns dark as she reveals her true plans. Using a Terrigen crystal created from a Diviner, she murders Gonzales, causing him to petrify and die in agony. Jiaying wounds herself to frame S.H.I.E.L.D. for the attack, tells Skye that the agents tried to kill her, and declares war. The stakes for both sides are now escalated to open conflict.",
+    "roles": [
+        "jiaying",
+        "robert_gonzales",
+        "skye"
+    ],
+    "vibe": "tragic",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Jiaying",
+            "line": "Fear drives us to do things we would otherwise never do. That's why I first started experimenting with Terrigen crystals. We only had five Diviners in our possession. I knew if they were destroyed, we'd lose our ability to transform, an entire race gone forever. So we decided to make our own. As some have said, discovery requires experimentation. Eventually, we melted a Diviner down and grew new crystals from it. Unfortunately, we could never quite separate the Diviner metal out. It's now laced within them. See? This wasn't a problem for Inhumans, of course. The Diviner's harmless to us. But for humans, well... Let's hope you're one of us."
+        },
+        {
+            "character": "Gonzales",
+            "line": "No! Stop!"
+        },
+        {
+            "character": "Jiaying",
+            "line": "How dare you compare your scars to mine? You're nothing like me, like us. Whitehall cut me to pieces. He ripped out my organs and stuffed them in jars! I will never let that happen to my daughter, to any of my people!"
+        },
+        {
+            "character": "Gonzales",
+            "line": "You'll get everyone killed, you crazy..."
+        },
+        {
+            "character": "Skye",
+            "line": "Mom?"
+        },
+        {
+            "character": "Man",
+            "line": "What's going on in there?"
+        },
+        {
+            "character": "Skye",
+            "line": "Mom! Mom!"
+        },
+        {
+            "character": "Jiaying",
+            "line": "He tried to kill me. S.H.I.E.L.D. tried to kill me. This is war."
+        },
+        {
+            "character": "Skye",
+            "line": "Mom!"
+        },
+        {
+            "character": "Man",
+            "line": "Agent Morse, what's your twenty? Agent Morse... Agent Morse, what is your status?"
+        }
+    ]
+}

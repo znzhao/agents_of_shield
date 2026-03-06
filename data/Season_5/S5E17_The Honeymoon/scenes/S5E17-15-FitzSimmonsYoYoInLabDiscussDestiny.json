@@ -1,0 +1,329 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 15,
+    "scene_name": "FitzSimmonsYoYoInLabDiscussDestiny",
+    "description": "Inside the Hydra facility lab, Fitz and Simmons examine the chamber, trying to decipher its function. Elena reveals that her future self warned her to let Coulson die in order to prevent disaster. The group debates the ethics and consequences of their next actions as tension mounts.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "The mechs are still sending signals back and forth. We should keep following it."
+        },
+        {
+            "character": "Simmons",
+            "line": "And then sneak past them?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, call that plan A."
+        },
+        {
+            "character": "Elena",
+            "line": "Plan A seems ambitious."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's why we have a plan B."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Yes, General, we have found the chamber. We are looking it over as we speak."
+        },
+        {
+            "character": "Hale",
+            "line": "We'll join you as soon as Strucker finishes the plans. Keep it secure until then."
+        },
+        {
+            "character": "Ivanov",
+            "line": "That will not be a problem so long as you keep your word."
+        },
+        {
+            "character": "Hale",
+            "line": "You'll have your chance with the chamber."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Another step toward becoming the superior man. I hope it is as powerful as you promised."
+        },
+        {
+            "character": "Hale",
+            "line": "As do I. What was that?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Nothing I can't handle."
+        },
+        {
+            "character": "Elena",
+            "line": "What were those mechs guarding?"
+        },
+        {
+            "character": "Simmons",
+            "line": "This isn't connected to a water main."
+        },
+        {
+            "character": "Elena",
+            "line": "Just destroy all of it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Should've brought more explosives. Won't be long until they realize we've slipped through their defenses."
+        },
+        {
+            "character": "Simmons",
+            "line": "We can cut out its heart once we work out what this thing does, and to whom."
+        },
+        {
+            "character": "Lee",
+            "line": "Mr. Ivanov, you think he could be trusted?"
+        },
+        {
+            "character": "Hale",
+            "line": "At the moment, his interests align with mine. He wants to be first into the chamber. I want to see what it does to human flesh."
+        },
+        {
+            "character": "Lee",
+            "line": "Would you like me to accompany you?"
+        },
+        {
+            "character": "Hale",
+            "line": "No, I want you to stay focused on our contingency plan. You know the message that needs to be sent."
+        },
+        {
+            "character": "Lee",
+            "line": "Of course, General."
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby?"
+        },
+        {
+            "character": "Ruby",
+            "line": "You didn't think I'd still be here."
+        },
+        {
+            "character": "Hale",
+            "line": "I assumed Strucker opened the door. I'm surprised you're not with him right now."
+        },
+        {
+            "character": "Ruby",
+            "line": "Where would we go? It doesn't matter if there's a lock on that door or not. I'd never run from you."
+        },
+        {
+            "character": "Hale",
+            "line": "I've kept you safe."
+        },
+        {
+            "character": "Ruby",
+            "line": "You've kept me obedient. And I've let you control me. And I have no idea why."
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby, I have great plans for you."
+        },
+        {
+            "character": "Ruby",
+            "line": "Like Whitehall had great plans for you? You have always said that you wanted a choice, but you've never given me one."
+        },
+        {
+            "character": "Hale",
+            "line": "I-I know that I've demanded a lot from you recently, but I..."
+        },
+        {
+            "character": "Ruby",
+            "line": "No, Mom, you've demanded the impossible, and I have tried to be everything that you wanted me to be. I tried to eliminate weakness."
+        },
+        {
+            "character": "Hale",
+            "line": "I know, I know."
+        },
+        {
+            "character": "Ruby",
+            "line": "I tried to be you! I've passed every test, and I've learned every lesson and I'm not enough!"
+        },
+        {
+            "character": "Hale",
+            "line": "I never said that."
+        },
+        {
+            "character": "Ruby",
+            "line": "I'm a disappointment. You said that, Mom. And after everything that you've done to me, I've kept trying, because all I've ever wanted to do is please you."
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby..."
+        },
+        {
+            "character": "Ruby",
+            "line": "You're my one weakness, Mom."
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby..."
+        },
+        {
+            "character": "Ruby",
+            "line": "And I'm yours."
+        },
+        {
+            "character": "Hale",
+            "line": "Ruby, stop."
+        },
+        {
+            "character": "Ruby",
+            "line": "I'll make you proud."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Get that ready for transport, now. How'd it go?"
+        },
+        {
+            "character": "Ruby",
+            "line": "We're free and clear."
+        },
+        {
+            "character": "Talbot",
+            "line": "Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey, hey! Whoa, General. It's okay. It's okay."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sorry. You startled me. It's bad enough I look like a bottle brush."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, you probably can't look at me without remembering what happened."
+        },
+        {
+            "character": "Talbot",
+            "line": "Not always in the driver seat. I know you didn't try and kill me. I know that was a skin-job."
+        },
+        {
+            "character": "Daisy",
+            "line": "Still, I'm... I'm really sorry."
+        },
+        {
+            "character": "Talbot",
+            "line": "I should apologize to you. You came on a rescue mission to try and save me. It went south. No, it's too high of a risk. You should never have brought me here."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's... it's okay, General. Um I brought you a change of clothes. Is there anything else you need?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Thank you. I'd like to talk to my wife. You know, just to tell her I'm safe."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sorry. Hale is still looking for us. We... We can't have any contact with the outside world. We have to stay dark."
+        },
+        {
+            "character": "Talbot",
+            "line": "I said cat... cat! I scared George, and I need to talk to my son. I need him to know I haven't forgotten him."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sure he knows how much you love him."
+        },
+        {
+            "character": "Talbot",
+            "line": "I abandoned him, Agent Johnson! You don't get a second chance to fix a screw-up like that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Maybe I can get word to them through a secure channel."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's all I'm asking for. But that's not why you're here, is it."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're trying to figure out our next move. I need you to tell me what you can about the site Hale kept you in and I need you to tell me everything you told her about us."
+        },
+        {
+            "character": "Talbot",
+            "line": "This could take a while."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that didn't take long."
+        },
+        {
+            "character": "Fitz",
+            "line": "She won't work without this component."
+        },
+        {
+            "character": "Elena",
+            "line": "And the machine does what, exactly?"
+        },
+        {
+            "character": "Simmons",
+            "line": "An Adaptive Particle Processor. Scans an element at the atomic level, and then this component converts it to be merged with the recipient's DNA."
+        },
+        {
+            "character": "Fitz",
+            "line": "We think it's the same technology that gave Carl Creel his powers, only his abilities are temporary and require physical touch."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, but the machine's been upgraded, so if Hale were to use Gravitonium..."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, yeah, I get it. No gizmo, no apocalypse."
+        },
+        {
+            "character": "Simmons",
+            "line": "But there's always a chance that we've tried this before."
+        },
+        {
+            "character": "Fitz",
+            "line": "More than a chance. Previous selves probably came here, made all the same decisions, still failed to change the timeline."
+        },
+        {
+            "character": "Simmons",
+            "line": "You spoke to your older self in the future. Did she give you any clues, any specific ways to stop this all from happening again?"
+        },
+        {
+            "character": "Elena",
+            "line": "We didn't have much time. I haven't told anyone this, not even Mack. I didn't want to put this on the team."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Elena",
+            "line": "We have to let Coulson die."
+        },
+        {
+            "character": "Simmons",
+            "line": "What? That... That doesn't make sense."
+        },
+        {
+            "character": "Elena",
+            "line": "The other me, she said trying to save him is what led to the end."
+        },
+        {
+            "character": "Fitz",
+            "line": "But how..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Time to improvise an exit strategy."
+        }
+    ]
+}

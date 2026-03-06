@@ -1,0 +1,77 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 6,
+    "scene_name": "EnochAssistsYoYoViaPhone",
+    "description": "Yo-Yo, after Deke’s abduction, contacts Enoch at the Koenig’s speakeasy to request a secure connection to Zephyr One. Enoch provides technical support but must decline her request for assistance in person, highlighting his continued separation from the main team. Yo-Yo reports Deke’s disappearance, and Mack coordinates her extraction, telling Yo-Yo not to blame herself while she reiterates her regret.",
+    "roles": [
+        "elena_rodriguez",
+        "enoch",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Tom",
+            "line": "So, it's day two of training and I tell this guy, “Hey, I know you're the S.O., but I do things my way”."
+        },
+        {
+            "character": "Enoch",
+            "line": "How interesting. The Krazy Kanoe."
+        },
+        {
+            "character": "Elena",
+            "line": "Enoch, it's Yo-Yo."
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent Rodriguez. I am pleased word of my presence has gotten out. Perhaps your call indicates it's time for me to join the team and..."
+        },
+        {
+            "character": "Elena",
+            "line": "No, sorry. I need you to connect me to the Zephyr right now."
+        },
+        {
+            "character": "Enoch",
+            "line": "Happy to connect you. My attention is, alas... all yours."
+        },
+        {
+            "character": "Tom",
+            "line": "So, he thinks he's gonna make an example of me?"
+        },
+        {
+            "character": "Elena",
+            "line": "I didn't see who took him."
+        },
+        {
+            "character": "Mack",
+            "line": "We have to assume Russians."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm so sorry, Mack. If I had my powers, I would've..."
+        },
+        {
+            "character": "Mack",
+            "line": "It's not your fault. At least you got the package. Just give me your location, and I'll send the Quinjet."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one could blame Yo-Yo for putting a person first, the package second. But I was left high and dry, and the train was on the move."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sousa was squirming on the hook, threatening to get loose. I was gonna have to keep winging it."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's my guy. I was waiting for the signal. Hat over his face."
+        },
+        {
+            "character": "Coulson",
+            "line": "I bought myself some time, but what I didn't have was the goods. The real McCoy was on the Zephyr."
+        }
+    ]
+}

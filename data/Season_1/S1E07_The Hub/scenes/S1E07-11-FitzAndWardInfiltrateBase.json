@@ -1,0 +1,68 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "FitzAndWardInfiltrateBase",
+    "description": "Ward and Fitz infiltrate the compound, surveying its defenses and identifying the Overkill Device. Fitz begins working on dismantling the device as Ward provides protection, both realizing they must handle escape themselves due to the lack of extraction support.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Okay. Go. Go. Go. Shh. Go, go, go. I'll signal extraction."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Simmons calls it “the magic window.” You'd probably guess, “is that X-ray technology?” There are actually s-band microwave antennae embedded in this sheet. But it's more like a radar system really. Okay. Let's see. Okay, we have two guards on the West wall. Both carrying automatic weapons. Correction. Make that three guards. We have three guards now. Oh, my god. Oh, my god, Ward. He's attacking the others! He's coming straight for us. Ward. Ward?!"
+        },
+        {
+            "character": "Ward",
+            "line": "Hurry. Inside."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah. That makes sense now."
+        },
+        {
+            "character": "Ward",
+            "line": "This must be it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Weird. Core must be inside here. That's what's important. The piping around it just serves to amplify and direct the sound, to trigger munitions from a distance."
+        },
+        {
+            "character": "Ward",
+            "line": "Doesn't look like it could take a jet out of the sky."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you should know by now, Agent Ward, that looks can be deceiving."
+        },
+        {
+            "character": "Ward",
+            "line": "Good?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is gonna take a while."
+        },
+        {
+            "character": "Ward",
+            "line": "You have 10 minutes."
+        },
+        {
+            "character": "Fitz",
+            "line": "I thought you'd say five."
+        }
+    ]
+}

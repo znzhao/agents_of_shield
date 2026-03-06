@@ -1,0 +1,75 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 8,
+    "scene_name": "CoulsonNegotiatesWithPrice",
+    "description": "Coulson speaks with Rosalind Price by video to arrange a meeting, challenging her about the ATCU's public manhunt and arguing about the best way to handle Lincoln and other Inhumans. As Price reports on Lincoln's potential location, the stakes between the ATCU and S.H.I.E.L.D. rise as both sides maneuver to control the narrative and the asset.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "He didn't just disappear. Unless he did. Well, he can't do that, can he?"
+        },
+        {
+            "character": "Banks",
+            "line": "No. Electric's his thing. He'll show. That's why we alerted the public. He's got nowhere to hide."
+        },
+        {
+            "character": "Price",
+            "line": "I hope so. We need to start making progress, showing results."
+        },
+        {
+            "character": "Woman",
+            "line": "Ms. price, you have a call."
+        },
+        {
+            "character": "Price",
+            "line": "Well, it can wait."
+        },
+        {
+            "character": "Woman",
+            "line": "It's the White House."
+        },
+        {
+            "character": "Price",
+            "line": "Uh, throw it up on my screen. Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Call me Phil."
+        },
+        {
+            "character": "Price",
+            "line": "What I can't call you is POTUS."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not the only person with a connection to the White House. Well, mine's a pirated satellite connection that will be discovered soon, so I'll be brief. You're making a lot of noise, and frankly, I'm a little insulted. You're asking everyone for help, the FBI, local police, and now the public, everyone except the people who actually know something."
+        },
+        {
+            "character": "Price",
+            "line": "You mean you."
+        },
+        {
+            "character": "Coulson",
+            "line": "That is what I mean, yes. So, I think we should meet, just the two of us, in person, neutral ground."
+        },
+        {
+            "character": "Price",
+            "line": "Uh, will you excuse me for a moment?"
+        },
+        {
+            "character": "Banks",
+            "line": "We have a location on Lincoln Campbell. He's holed up in an apartment outside Chicago."
+        },
+        {
+            "character": "Price",
+            "line": "You know what you need to do. Okay, Phil, let's meet. I think we'll have a lot to talk about."
+        }
+    ]
+}

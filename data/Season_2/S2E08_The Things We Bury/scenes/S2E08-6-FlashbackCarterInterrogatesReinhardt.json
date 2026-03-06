@@ -1,0 +1,87 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 6,
+    "scene_name": "FlashbackCarterInterrogatesReinhardt",
+    "description": "In the past, Agent Peggy Carter interrogates Werner Reinhardt in an SSR facility, challenging his motives and beliefs. Reinhardt tries to bargain his scientific knowledge for freedom, telling a myth of blue angels who came to Earth to conquer, not save humanity. Carter rejects his overtures, declaring that he will be forgotten and his work buried. This scene highlights S.H.I.E.L.D.’s moral stance against Hydra's pseudo-scientific ambitions.",
+    "roles": [
+        "daniel_whitehall"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Carter",
+            "line": "Werner Reinhardt."
+        },
+        {
+            "character": "Whitehall",
+            "line": "That was a neat trick."
+        },
+        {
+            "character": "Carter",
+            "line": "I'm sorry. I don't follow, doctor."
+        },
+        {
+            "character": "Whitehall",
+            "line": "It's a pen. You wanted to see what I would do with it. After all, there are so many uses, no? Escape, confession, homicide... suicide."
+        },
+        {
+            "character": "Carter",
+            "line": "It's true. I wanted to find out what kind of man you were. You didn't use the pen, so now I know."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Pens are also used for signatures."
+        },
+        {
+            "character": "Carter",
+            "line": "You want a deal. How terribly shocking."
+        },
+        {
+            "character": "Whitehall",
+            "line": "The U.S. Government has recruited many german scientists."
+        },
+        {
+            "character": "Carter",
+            "line": "They'll send rockets into space. Maybe they can strap you to one of them."
+        },
+        {
+            "character": "Whitehall",
+            "line": "They'll show you parlor tricks. Giving me a second chance could save all of humanity."
+        },
+        {
+            "character": "Carter",
+            "line": "I've seen all of your home movies, the bodies left in your wake, the girl you caged up. There'll be no second chances for you."
+        },
+        {
+            "character": "Whitehall",
+            "line": "You must be dying to understand all the items you recovered. They're fascinating, no?"
+        },
+        {
+            "character": "Carter",
+            "line": "I don't suppose you'll tell me where they came from."
+        },
+        {
+            "character": "Whitehall",
+            "line": "There's a story. A myth from the East of a star that fell from the heavens... of blue angels who came bearing a gift for all mankind, meant to save the world."
+        },
+        {
+            "character": "Carter",
+            "line": "You don't strike me as a believer."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Oh, I've based my whole life on it. History just has the details wrong."
+        },
+        {
+            "character": "Carter",
+            "line": "Then set history straight."
+        },
+        {
+            "character": "Whitehall",
+            "line": "These visitors... they didn't come to save the world. They came to conquer it."
+        }
+    ]
+}

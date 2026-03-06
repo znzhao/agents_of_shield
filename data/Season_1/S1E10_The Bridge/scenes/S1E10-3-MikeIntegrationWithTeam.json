@@ -1,0 +1,264 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 3,
+    "scene_name": "MikeIntegrationWithTeam",
+    "description": "Mike Peterson returns to the S.H.I.E.L.D. team, facing varied reactions. He thanks Fitz, Simmons, and Skye for their support at Union Station, acknowledging his second chance at redemption after being stabilized by the night-night gun. Fitz and Simmons, excited and awkward, start to probe him about his abilities and outfit him for the mission ahead, while Mike describes his physical changes. The team begins to formulate a plan for tracking the Centipede soldiers.",
+    "roles": [
+        "phil_coulson",
+        "michael_peterson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mike",
+            "line": "Agent Coulson, Agent May."
+        },
+        {
+            "character": "Coulson",
+            "line": "Last time you saw her, you threw her into a brick wall."
+        },
+        {
+            "character": "Mike",
+            "line": "Right. First time around, I wasn't who I wanted to be, but now I get it. Having all this... it's a privilege. And training to be an agent, working with S.H.I.E.L.D., it's me trying to do better, trying to be better. I just need you to give me a shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone deserves a second chance. But let me be clear... there will not be a third."
+        },
+        {
+            "character": "Mike",
+            "line": "Understood, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good."
+        },
+        {
+            "character": "Ward",
+            "line": "It's not good. At all. The guy was a ticking time bomb... literally."
+        },
+        {
+            "character": "Fitz",
+            "line": "H.Q. wouldn't have sent him if he was still combustible. They must have found a way to stabilize him somehow."
+        },
+        {
+            "character": "Ward",
+            "line": "They stabilize his attitude? 'Cause he was pretty hostile in Union Station."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it's not like we haven't opened up our doors to other people... people with questionable track records."
+        },
+        {
+            "character": "Skye",
+            "line": "Not cool, but true. And don't worry about Mike. He's a good guy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Who's been in the Centipede program."
+        },
+        {
+            "character": "Skye",
+            "line": "Exactly. He can give us some superpower backup."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "Just saying, this could easily go sideways. I mean, the last time we saw this guy, he was a raging homicidal maniac... He's standing right behind me, isn't he?"
+        },
+        {
+            "character": "Skye",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Peterson, this is Agent Grant Ward. He's the man who shot you at Union Station. Fitz-Simmons designed the weapon he used, and I think you remember..."
+        },
+        {
+            "character": "Skye",
+            "line": "Kidnap victim."
+        },
+        {
+            "character": "Mike",
+            "line": "You joined S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Turns out, guys in suits ... not so bad."
+        },
+        {
+            "character": "Mike",
+            "line": "Look, I know Union Station could have gone another way. Another team might not have let me out of there alive. I owe you... all off you."
+        },
+        {
+            "character": "Skye",
+            "line": "That's bygones and water under a distant bridge far away. How's your son?"
+        },
+        {
+            "character": "Mike",
+            "line": "Still with my sister. He thinks I'm working construction, but he's good, happy."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what do we have?"
+        },
+        {
+            "character": "Skye",
+            "line": "Not much on Po. I checked his previously known addresses and old military contacts... came up empty."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been looking for where Po might be on the outside. Let's look at his life on the inside... at the prison. See if that gets us any leads. Anything on the Centipede soldiers?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We found a facial recog match on one of them."
+        },
+        {
+            "character": "Ward",
+            "line": "Name's Brian Hayward. Stationed in Afghanistan for three years, then fell of the radar when he got back."
+        },
+        {
+            "character": "Skye",
+            "line": "Only living relative... sister, Laura, Sophomore at the University of Ohio."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's our best shot at finding Hayward. You and I will go talk to her. Have May set a course for Cleveland."
+        },
+        {
+            "character": "Coulson",
+            "line": "With all the high-tech gadgets and gizmos at our disposal, it's easy to forget about the simple tools of the past. What can I do for you?"
+        },
+        {
+            "character": "Mike",
+            "line": "I'm just curious about what you want me to do, where you need me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Here, on the plane."
+        },
+        {
+            "character": "Mike",
+            "line": "But shouldn't I be out in the field? I mean, that's why you brought me here, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You'll get your chance. Right now I need you to go down to the lab for some tests."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm stable. They already tested me at Sci-Ops."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. I also know that using your powers takes a toll. I need to understand your limits, for your sake as well as my team's. The lab's downstairs."
+        },
+        {
+            "character": "Mike",
+            "line": "I have to put away four times what I used to just to keep my energy up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, and after you use your strength?"
+        },
+        {
+            "character": "Mike",
+            "line": "Maybe 10 times the food? And I usually crash afterwards. It's really hard on my body."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hard body. Got it."
+        },
+        {
+            "character": "Fitz",
+            "line": "You do know we have equipment that can take measurements. No need to do it manually."
+        },
+        {
+            "character": "Simmons",
+            "line": "My mistake. Well, no matter. I'll send the numbers to you straight away."
+        },
+        {
+            "character": "Fitz",
+            "line": "I need measurements to build you a diagnostic suit so we can monitor your vitals in the field. As for fabrics, how does a polymer blend with 10 layers of treated composite material sound?"
+        },
+        {
+            "character": "Mike",
+            "line": "Sounds great?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, it does, doesn't it? Uh... Sorry. I'm sorry. I was... I was just looking at it, and..."
+        },
+        {
+            "character": "Mike",
+            "line": "Oh, no, it's okay. I'm used to it. They tried to take it off me at the Sci-Ops facility. Realized they couldn't do it without killing me."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm afraid we're terribly curious. How did they stabilize the Extremis in you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And keep you from exploding?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mike",
+            "line": "Oh, that wasn't them. That was you two."
+        },
+        {
+            "character": "Fitz",
+            "line": "Come again?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What's that?"
+        },
+        {
+            "character": "Mike",
+            "line": "Your gun. It somehow froze me right at the moment I was about to explode, helped my body absorb the serum, stabilize. Your weapon saved my life."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well..."
+        },
+        {
+            "character": "Mike",
+            "line": "All that, and it didn't even leave a scar, so..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I should think not."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, we couldn't have that, could we? It would be a shame, especially when you're so, well, formed and symmetrical. And wh... when did you stop talking?"
+        },
+        {
+            "character": "Fitz",
+            "line": "About three embarrassing sentences ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, right."
+        }
+    ]
+}

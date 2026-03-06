@@ -1,0 +1,87 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 2,
+    "scene_name": "PrimitivesAssaultArmory",
+    "description": "Mack and Elena reach the armory, only to discover that the Primitives have already taken control of it. In an attempt to protect Mack, Elena uses her powers, but she is shot in the process. Mack and Lincoln race to help her, improvising medical care under difficult circumstances as the group barricades themselves in a workshop, while the Zephyr ascends under Hive's command with James and Giyera prepping the warhead.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "lincoln",
+        "james",
+        "giyera"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "The armory's up ahead. I'll secure the weapons rack while..."
+        },
+        {
+            "character": "Mack",
+            "line": "No. No. Yo-Yo, what'd you do? What'd you do?"
+        },
+        {
+            "character": "Hive",
+            "line": "I can fly this."
+        },
+        {
+            "character": "James",
+            "line": "You have experience with this thing? It looks a little sophisticated."
+        },
+        {
+            "character": "Hive",
+            "line": "Between Will Daniels and Grant Ward, I have enough."
+        },
+        {
+            "character": "Mack",
+            "line": "Help me get her into the workshop."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're right behind us."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Close the door! Close the door!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell happened?"
+        },
+        {
+            "character": "Mack",
+            "line": "The Primitives got to the armory first. Yo-Yo took a bullet in the gut for me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Sir, where's everyone else?"
+        },
+        {
+            "character": "James",
+            "line": "Did we just stop midair?"
+        },
+        {
+            "character": "Hive",
+            "line": "I've transitioned the aircraft into vertical flight. We're ascending. Straight up to 100,000 feet. Calculations are, uh, helping me collect my thoughts. We'll set the timer to blow the warhead at the optimal elevation."
+        },
+        {
+            "character": "Giyera",
+            "line": "Dispersing the formula into the stratosphere. And by dawn, it will descend onto most of Europe."
+        },
+        {
+            "character": "James",
+            "line": "Hang on. Hang on. We're still riding this bloody space elevator. How are we supposed to connect to all our new brothers and sisters if we're blowing ourselves to bits?"
+        },
+        {
+            "character": "Hive",
+            "line": "We'll drop in the containment module to safety before it detonates. Unless you want to stay behind, make sure nothing goes wrong."
+        }
+    ]
+}

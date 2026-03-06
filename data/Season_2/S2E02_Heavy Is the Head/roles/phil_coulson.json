@@ -1,0 +1,104 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 2
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resilient and principled S.H.I.E.L.D. agent and leader, committed to rebuilding and protecting the agency despite immense challenges. He is strategic and resourceful, willing to take calculated risks to gain advantages against powerful enemies like Hydra. Coulson balances pragmatism with empathy, showing concern for his team's welfare while maintaining focus on the larger mission. His experiences with betrayal, loss, and the damaged mental state of his colleagues have deepened his resolve to safeguard innocent lives, often operating in the shadows to do so. His leadership style emphasizes trust-building, sacrifice, and adaptation in a world rife with deception and danger. Nevertheless, he struggles with a recurring personal affliction linked to his past resurrection, which periodically compromises his control and causes secretive, compulsive behavior. This internal conflict adds a layer of vulnerability beneath his composed exterior and influences how he manages relationships and trust within his team.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "rebuild_shield_and_protect_global_security",
+        "goal": "Rebuild S.H.I.E.L.D. from scratch as its new director and restore global security and trust"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "secure_advanced_technology_to_gain_edge_against_hydra",
+        "goal": "Obtain and leverage advanced technology, such as quinjet cloaking systems, to gain a tactical advantage for S.H.I.E.L.D. against Hydra threats"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "defeat_carl_creel_and_prevent_obelisk_hydra",
+        "goal": "Capture or neutralize Carl Creel, stop him from using the Obelisk, and prevent Hydra from obtaining this dangerous artifact"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_shield_covert_operations_and_secure_allies",
+        "goal": "Sustain S.H.I.E.L.D. covert operations while managing strained relationships with governmental forces and securing trusted alliances"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_18",
+      "context": "expressing cautious resolve and leadership burden",
+      "catch_phrase": "No need to tell me."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_19",
+      "context": "asserting covert operational necessity",
+      "catch_phrase": "That's how we have to live now... in the shadows, to save people, even when they don't know it, don't want it."
+    }
+  ]
+}

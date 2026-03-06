@@ -1,0 +1,86 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 2,
+    "scene_name": "CoulsonAssignsTeams",
+    "description": "At the Playground, Coulson debriefs Daisy, Fitz, and Lincoln about the Watchdogs' attack. Discussion touches on the Watchdogs' growing boldness and their use of dangerous rhetoric online. Coulson assigns Daisy and Fitz to meet up with Mack in Indiana, while Lincoln is told to sit out for now.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Were there casualties?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The building had a staff. When you get to South Bend, rendezvous with Mack at the ATCU site. Report back what you got."
+        },
+        {
+            "character": "Daisy",
+            "line": "I've been following the Watchdogs online for a while now. Some pretty nasty hate speech, but up until now, it's all been rhetoric."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's a bark/bite joke I could make here, but I don't find these guys all that funny."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, they've had a menacing presence ever since New York. Got even less funny after Sokovia."
+        },
+        {
+            "character": "Fitz",
+            "line": "Not exactly embracing the new changes in the world."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now they're not happy just being the comments section."
+        },
+        {
+            "character": "Daisy",
+            "line": "Something's changed. They're taking action."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to shut them down before more people get hurt. We've got enough on our plate trying to track down Malick."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey!"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Hey."
+        },
+        {
+            "character": "Daisy",
+            "line": "How'd the S.H.I.E.L.D. assessment go?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Fine, I think. I guess we won't know for sure till Coulson gets the evaluation report."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, should we bring Lincoln with us? With Bobbi and Hunter gone, we can use all the help."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln's gonna sit this one out. You and Fitz go ahead. Meet up with Mack, then report back to me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. I will do that."
+        }
+    ]
+}

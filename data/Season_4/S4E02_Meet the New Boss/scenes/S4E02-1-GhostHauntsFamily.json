@@ -1,0 +1,75 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "GhostHauntsFamily",
+    "description": "Late at night, a ghostly woman (Lucy Bauer) appears in a home, terrifying a young boy and his father. She confronts them, demanding to know why they are in her house, and calls for Joseph to help. The encounter ends with the father seeing his son’s face twist into a demonic shape, showing the effects of Lucy’s haunting.",
+    "roles": [
+        "lucy_bauer"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Boy",
+            "line": "Dad! Dad!"
+        },
+        {
+            "character": "Man",
+            "line": "Hey. Buddy, what are you doing up?"
+        },
+        {
+            "character": "Boy",
+            "line": "There was a ghost in there."
+        },
+        {
+            "character": "Man",
+            "line": "There was? Friendly or not friendly?"
+        },
+        {
+            "character": "Boy",
+            "line": "Not friendly."
+        },
+        {
+            "character": "Man",
+            "line": "Yeah? Well... it seems like he's gone now."
+        },
+        {
+            "character": "Boy",
+            "line": "She. It was a girl."
+        },
+        {
+            "character": "Man",
+            "line": "Okay. Still, bed."
+        },
+        {
+            "character": "Boy",
+            "line": "Dad, don't!"
+        },
+        {
+            "character": "Bauer",
+            "line": "What are you doing in my house?"
+        },
+        {
+            "character": "Man",
+            "line": "Oh, my God! Who the hell are you?"
+        },
+        {
+            "character": "Bauer",
+            "line": "Joseph! Joe, come here! Hurry!"
+        },
+        {
+            "character": "Man",
+            "line": "There's no Joe. We lived here for years. This is our house."
+        },
+        {
+            "character": "Boy",
+            "line": "Dad, I'm scared."
+        },
+        {
+            "character": "Man",
+            "line": "No. No. No. No!"
+        }
+    ]
+}

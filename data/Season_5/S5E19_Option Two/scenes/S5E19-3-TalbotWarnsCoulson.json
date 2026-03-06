@@ -1,0 +1,149 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 3,
+    "scene_name": "TalbotWarnsCoulson",
+    "description": "Talbot, locked in a holding cell, frantically recites coordinates and demands to speak with Coulson. Coulson visits him, where Talbot confesses that Hydra compelled him to broadcast their location, inadvertently betraying the team. May and Coulson quickly realize outside communications and surveillance have been cut off—both the Lighthouse and the surrounding area are isolated. Stoner’s recorded doomsday protocol message broadcasts, offering the team grim comfort, and Coulson accidentally initiates a full lockdown for a nuclear event, trapping everyone inside.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Four-three point nine-four-six-two dash seven-six point one-one-nine-one. Coulson! Coulson! Coulson! Coulson! Four-three point nine-four-six-two dash seven-six point one-one-nine-one."
+        },
+        {
+            "character": "Thomas",
+            "line": "He's been yelling for you."
+        },
+        {
+            "character": "Talbot",
+            "line": "I can fix this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait by the door."
+        },
+        {
+            "character": "Talbot",
+            "line": "Four-three... Four-three point nine-four-six-two... Phil. It's like a record that just keeps skipping in my head, the numbers. I was with Robin."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Calm down."
+        },
+        {
+            "character": "Talbot",
+            "line": "But I was at the control box. Why? What was I doing there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Trying to get the doors open?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm Air Force, Phil. I know enough about navigational aids to know that every hangar has a landing assist. I had to comply."
+        },
+        {
+            "character": "Coulson",
+            "line": "The landing-assist beacon. The only way to get a signal out."
+        },
+        {
+            "character": "Talbot",
+            "line": "Four-three point nine-four-six-two point one-one-nine-one. Phil, tell me that's not what I think it is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our location."
+        },
+        {
+            "character": "May",
+            "line": "It came out of nowhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any word from outside?"
+        },
+        {
+            "character": "May",
+            "line": "They jammed our communications and exterior cameras. As far as we can tell, both the Lighthouse and River's End have been cut off from the rest of the world."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not reassuring."
+        },
+        {
+            "character": "Stoner",
+            "line": "Greetings, elite citizens of the Lighthouse. Project Reclamation has been triggered. It appears you're experiencing an apocalypse-level event."
+        },
+        {
+            "character": "May",
+            "line": "This guy again?"
+        },
+        {
+            "character": "Stoner",
+            "line": "Please remain calm. This moment in human history is what this bunker was designed for."
+        },
+        {
+            "character": "Coulson",
+            "line": "That actually is kind of reassuring."
+        },
+        {
+            "character": "Stoner",
+            "line": "Please go to the main computer terminal and choose from the following options. If the Lighthouse is experiencing an extreme-weather event, press one."
+        },
+        {
+            "character": "Kim",
+            "line": "Agent Coulson, I can't silence the alarms."
+        },
+        {
+            "character": "Stoner",
+            "line": "If you're experiencing a nuclear attack, press two."
+        },
+        {
+            "character": "Coulson",
+            "line": "Screw it."
+        },
+        {
+            "character": "Stoner",
+            "line": "For an alien invasion, press three. You have selected nuclear attack. For your own health, safety, and radiation protection, all outer doors will remain sealed for 15 years."
+        },
+        {
+            "character": "May",
+            "line": "Did he just say 15 years?"
+        },
+        {
+            "character": "Coulson",
+            "line": "How was I supposed to know there would be an “alien invasion” option?"
+        },
+        {
+            "character": "May",
+            "line": "You always listen to the whole menu. Always!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You may be noticing that the Lighthouse is going into lock down mode. This is not a drill. The Lighthouse is keeping us safe. All exits, including the hangar have been sealed to protect us from any outside intrusion. Which is good, ‘cause there is currently a sizeable alien spaceship overhead. Oh, and due to a technical malfunction, the Lighthouse thinks we're under nuclear attack, so we may be trapped inside for 15 years... ish."
+        },
+        {
+            "character": "Deke",
+            "line": "No, no, no. I am so stupid. Why am I still in here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sure there's a way around that. So, in the meantime there's no reason to panic. The Lighthouse survives the Earth cracking apart, so one flying saucer, probably no big deal."
+        },
+        {
+            "character": "Stoner",
+            "line": "All Lighthouse survival systems are operational. Good luck. You're humanity's last hope. Your survival is essential."
+        },
+        {
+            "character": "May",
+            "line": "Oh! Now what?"
+        }
+    ]
+}

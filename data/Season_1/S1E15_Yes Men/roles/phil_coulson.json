@@ -1,0 +1,45 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 15
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership is shaped by profound personal experiences, including his mysterious resurrection through secretive medical procedures involving an alien drug. He is steadfastly dedicated to protecting his team and uncovering dangerous secrets, often wrestling with ethical complexities and the burden of hidden knowledge. Coulson's growing emotional bond with his team, especially Skye, highlights his vulnerability and commitment despite the risks involved. He remains cautious yet determined, balancing tactical decisiveness with a moral complexity that drives him to seek answers about powerful forces affecting their world while protecting those he leads from harm.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_truth_about_TAHTI_and_the_Clairvoyant",
+        "goal": "Uncover the truth behind the T.A.H.I.T.I. program, the mysterious drug GH-325, and the identity and motives of the Clairvoyant"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "investigate_alien_origins_and_secretive_forces",
+        "goal": "Investigate the alien origins and unknown implications of the GH-325 serum and uncover the forces behind it"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 12,
+    "scene_name": "HydraDeploysSimmonsMorocco",
+    "description": "Bakshi instructs Simmons to accompany the Hydra team to confront Donnie Gill, rationalizing the move as Donnie might respond to a familiar face. Simmons’ anxiety is palpable as Bakshi reassures her—ominously—that they will have her back, hinting at the ever-present danger of being exposed as a S.H.I.E.L.D. agent among Hydra loyalists.",
+    "roles": [
+        "jemma_simmons",
+        "sunil_bakshi"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "The asset Skye's been talking to... it's him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Mack was right. You're sounding paranoid. Stop assuming the worst."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're keeping things from me, and I just want to know the truth."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz. You need to be honest with yourself. You're barely holding it together. There's a reason they're keeping things from you. I don't think you should go in there."
+        },
+        {
+            "character": "Fitz",
+            "line": "You are not here."
+        },
+        {
+            "character": "Ward",
+            "line": "I imagine you've got a lot to say to me. Look, despite all of this... it's really good to see you. Fitz? Fitz..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Stop. Stop talking. Stop."
+        }
+    ]
+}

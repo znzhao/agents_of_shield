@@ -1,0 +1,97 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 16,
+    "scene_name": "CoulsonMaceAndTalbotAftermathTruth",
+    "description": "Back at the Playground, Coulson confronts Talbot about the deception surrounding Mace's abilities. Talbot tries to justify the decision, arguing it was necessary for S.H.I.E.L.D.'s image. Mace then dismisses Talbot to confide in Coulson about his accidental 'heroism' in Vienna and his motivations. Coulson encourages Mace to remain director as the public face, while Coulson will handle operational leadership. Their conversation brings closure and a new understanding of leadership roles within S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace",
+        "glenn_talbot"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Really, Glenn?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You should be thanking me. We're in the middle of an arms race. World War III is gonna be decided by whoever has more enhanced assets. You need Inhumans to trust S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "And your plan to earn their trust was to lie to them? If you'd consulted me, I probably would have advised against that..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Which is exactly why I didn't."
+        },
+        {
+            "character": "Coulson",
+            "line": "Keep digging that hole, see how that works out for you."
+        },
+        {
+            "character": "Talbot",
+            "line": "You needed a face for your poster. Fine. Your girl Daisy went rogue. The President tasked me with finding the next Captain America. Not an easy job, but I did it. I delivered a patriot. A bona fide American hero! That man could have done anything after Vienna."
+        },
+        {
+            "character": "Mace",
+            "line": "General? Could we have the room, please?"
+        },
+        {
+            "character": "Talbot",
+            "line": "What? You're taking his side? After everything we've done for you?"
+        },
+        {
+            "character": "Mace",
+            "line": "Please."
+        },
+        {
+            "character": "Talbot",
+            "line": "You'd think a damn spy would understand the need to keep a secret."
+        },
+        {
+            "character": "Mace",
+            "line": "After the explosion, everything was chaos. People were screaming. I had smoke in my eyes. I wanted to get to safety. And I tripped. I didn't even know she was there. Someone snapped a picture."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you just went with it."
+        },
+        {
+            "character": "Mace",
+            "line": "I tried to deflect. Everyone thought I was being modest. But they were treating me like the man I always wanted to be. Few months later, Talbot came to me with an offer. I thought I could be the face to end Inhuman prejudice."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you wanted to help."
+        },
+        {
+            "character": "Mace",
+            "line": "I thought I could. I believe that Inhumans deserve the same rights as anyone else in this country. I'll call a press conference, resign, reinstate you as Director."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not going anywhere."
+        },
+        {
+            "character": "Mace",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. still needs a face. Sure, you lied, but you were good at it, even with a gun pointed at you, and that's not nothing."
+        },
+        {
+            "character": "Mace",
+            "line": "So... So what do you... What do you want me to do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Same thing you've been doing. Defend S.H.I.E.L.D. to the public, play the hero. Keep the title, handle the politics. I never loved that part, anyway. But when it comes to operations, make no mistake. From now on, I'm calling the shots."
+        }
+    ]
+}

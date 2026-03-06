@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 10,
+    "scene_name": "FitzAndSimmonsEncryptedComm",
+    "description": "Fitz sets up an encrypted hard line with Simmons, who is still at the Hub. Their communications are interrupted and become increasingly suspicious as Simmons reports agents rushing into the situation room. Fitz discovers that someone is tapping their communications, further heightening suspicions of betrayal within S.H.I.E.L.D.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't use my name, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why not? I thought you said... going to use... crypted line."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're cutting in and out. Hold on."
+        },
+        {
+            "character": "Simmons",
+            "line": "We... there? What happened... Ward?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, yeah. You said... Ward. Took us all by surprise. Hang... Keep talking, okay? I'm gonna see if I can clear it up."
+        },
+        {
+            "character": "Simmons",
+            "line": "So... no idea... be... been a great deal of commotion on this end."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hang on, now. I think I've found the problem. Looks like someone else is tapping the hard line."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait, fit.. I think some... happening. There's agents rushing to the situation room."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? Jemma? Jemma, can you hear me? Oh... bloody hell."
+        }
+    ]
+}

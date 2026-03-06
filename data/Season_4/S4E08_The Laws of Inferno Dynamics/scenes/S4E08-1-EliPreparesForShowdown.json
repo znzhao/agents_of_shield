@@ -1,0 +1,70 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "EliPreparesForShowdown",
+    "description": "Eli Morrow is alerted by a member of his team that S.H.I.E.L.D. and the police are closing in. He impresses his men with his abilities by creating unrefined diamonds and threatening S.H.I.E.L.D. Eli is determined to reveal his new powers to everyone. Meanwhile, reporters broadcast that S.H.I.E.L.D. is involved with an Inhuman threat in L.A., and Director Mace appears via phone, bravely downplaying the Inhuman connection as he speaks with the press. Mace then turns his attention to his team, asking about Eli's manpower and laying out tactics.",
+    "roles": [
+        "eli_morrow",
+        "jeffrey_mace",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Peng",
+            "line": "Out of my way. I need to see him."
+        },
+        {
+            "character": "Man",
+            "line": "How many are there? How many?!"
+        },
+        {
+            "character": "Peng",
+            "line": "Eli. Eli, we got a problem. Cops, S.H.I.E.L.D., they're everywhere, man."
+        },
+        {
+            "character": "Eli",
+            "line": "Keep them busy. That's why I pay you."
+        },
+        {
+            "character": "Peng",
+            "line": "You guys been paid yet? I haven't been paid. You want us to go to war with S.H.I.E.L.D.? I don't know, man."
+        },
+        {
+            "character": "Eli",
+            "line": "You're right. A hard day's work deserves a hard day's pay. Hope you take diamonds. They're unrefined, but they're priceless once properly cut. Speaking of which, you may have to cut the rest out of his lungs. If S.H.I.E.L.D. wants to see what I'm creating, I'll show them. I'll show them all."
+        },
+        {
+            "character": "Reporter",
+            "line": "We're live in downtown L.A., where several city streets have been blocked off due to what authorities are calling a potential threat. The details are scarce, but when S.H.I.E.L.D. arrives on the scene, it suggests the threat may be an Inhuman one. Joining us on the phone right now is the director of S.H.I.E.L.D. himself, Jeffrey Mace. Director Mace, can you clear up some of the rumors about what's happening here right now?"
+        },
+        {
+            "character": "Mace",
+            "line": "Of course, and thanks for taking my call. The situation is that there is an escaped fugitive on the loose, and S.H.I.E.L.D. is assisting LAPD with the hunt."
+        },
+        {
+            "character": "Reporter",
+            "line": "Is the fugitive you're referring to Quake? There have been reports of seismic activity in the area."
+        },
+        {
+            "character": "Mace",
+            "line": "No, I can assure you the threat is not Quake, and it is not Inhuman."
+        },
+        {
+            "character": "Reporter",
+            "line": "Then why the evacuation? Why is S.H.I.E.L.D. involved?"
+        },
+        {
+            "character": "Mace",
+            "line": "You know, it's still an active scene, so I'm afraid I can't comment. But, uh, once the situation resolves, we'll hold a full press conference. Hey, thanks for your time. It's like a circus out there. And that picture of me on the banner..."
+        },
+        {
+            "character": "Burrows",
+            "line": "Agreed ... not your best side. I'll schedule a reshoot for this week."
+        }
+    ]
+}

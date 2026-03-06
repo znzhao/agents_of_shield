@@ -1,0 +1,81 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 5,
+    "scene_name": "CoulsonPreparesToMoveSkye",
+    "description": "Coulson, Simmons, and Skye share a solemn moment as Coulson decides it's best to move Skye to a secure location. Simmons worries about the consequences, while Skye jokes to ease the tension. Coulson avoids revealing too much, prepares Skye for departure, and shows empathy for her situation, reinforcing the trust and bond within the team.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Come in. It's all there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is there something else?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's just... possible repercussions."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been over this, Agent Simmons, and I'm aware of the consequences, but this is my decision to make."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Skye",
+            "line": "Ah. No."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ankle bone's always the toughest."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Maybe a game of nerves isn't the best idea for me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You and I need to take a ride."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. But why am I suddenly feeling like old yeller right now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Kind of surprised you know the reference."
+        },
+        {
+            "character": "Skye",
+            "line": "I've had a lot of downtime lately. That and Fitz really wants a dog."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thought he wanted a monkey."
+        },
+        {
+            "character": "Skye",
+            "line": "Guess he readjusted his expectations. You can't tell me where we're going, can you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're gonna want to pack a bag."
+        }
+    ]
+}

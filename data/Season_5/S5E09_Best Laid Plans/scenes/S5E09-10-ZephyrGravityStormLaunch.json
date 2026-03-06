@@ -1,0 +1,221 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 10,
+    "scene_name": "ZephyrGravityStormLaunch",
+    "description": "The S.H.I.E.L.D. team, led by Simmons' insight, decides to use the gravity storm to launch Zephyr One from the planet's surface straight into space. The crew faces extreme peril as May pilots the plane and turbulence shakes everyone. Daisy and Deke prepare to cut the anchors, race against time, and soon discover Sinara has secretly boarded the Zephyr, setting up a confrontation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "deke_shaw",
+        "enoch"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Z-One can't take much more of this!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's just hope it's here at all after the storm."
+        },
+        {
+            "character": "Enoch",
+            "line": "The sensation of death is one that I have yet to experience."
+        },
+        {
+            "character": "May",
+            "line": "Maybe I can help you with that!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Almost everyone else is gone. Let's move!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Cut the anchors."
+        },
+        {
+            "character": "Deke",
+            "line": "Did she hit her head?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Cut the ground anchors! Let a gravity wave take us. That's how we get in the air."
+        },
+        {
+            "character": "May",
+            "line": "We can't fly without engines!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe we don't have to."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons!"
+        },
+        {
+            "character": "Simmons",
+            "line": "The upgrades. Zephyr One has Reaction Control System thrusters, meaning capable of maneuvering in space."
+        },
+        {
+            "character": "Fitz",
+            "line": "If we could get high enough, we could break through Earth's diminished gravity. We could fly in space straight to the Lighthouse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Deke",
+            "line": "No, right?! That's a bad idea, right?! Could that actually work?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Assuming we don't get crushed by debris."
+        },
+        {
+            "character": "Simmons",
+            "line": "Slammed back to the ground."
+        },
+        {
+            "character": "Fitz",
+            "line": "Our thrusters don't run out of power."
+        },
+        {
+            "character": "Simmons",
+            "line": "And spin out into the void. We're in!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Same."
+        },
+        {
+            "character": "Deke",
+            "line": "I used to be really good at selfpreservation!"
+        },
+        {
+            "character": "Coulson",
+            "line": "May, can you pilot us through a gravity storm?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Another mom face."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can do this. We can do this."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, okay:"
+        },
+        {
+            "character": "Doyle",
+            "line": "When did you get so soft, Fletcher? Put your back into it! We got to go! Hey! You're going the wrong way. We got to get underground. All right. You're on your own."
+        },
+        {
+            "character": "Kree",
+            "line": "Your messenger has returned."
+        },
+        {
+            "character": "Kasius",
+            "line": "Wonderful. Send them in. Alone? It appears I did not properly detail the consequences of your failure."
+        },
+        {
+            "character": "Tess",
+            "line": "I'm sorry. I told them what you said, but they wouldn't come."
+        },
+        {
+            "character": "Kasius",
+            "line": "Perhaps you should burn along with the rest of your kind, coming to me empty-handed."
+        },
+        {
+            "character": "Tess",
+            "line": "I'm alone but not empty-handed."
+        },
+        {
+            "character": "Kasius",
+            "line": "Where did you get those?"
+        },
+        {
+            "character": "Tess",
+            "line": "I gave them your message. They insisted on sending one back. They're holding your research floor until you come and meet them."
+        },
+        {
+            "character": "Kasius",
+            "line": "Meet them? I will send a battalion to grind their bones to dust."
+        },
+        {
+            "character": "Tess",
+            "line": "But that's the thing. If you don't go and face them, they'll burn your ability to breed another Inhuman. With “the push of a button.” That's how they wanted me to say it."
+        },
+        {
+            "character": "Kasius",
+            "line": "Bring her."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Deke",
+            "line": "Whoa. Yikes. That is definitely gonna get infected."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been worse, but I've been better, too."
+        },
+        {
+            "character": "Enoch",
+            "line": "As the gravitational forces accelerate, our chances of implosion are rapidly increased."
+        },
+        {
+            "character": "May",
+            "line": "Tell me your primary function again?"
+        },
+        {
+            "character": "Enoch",
+            "line": "To observe and record the evolution of your species."
+        },
+        {
+            "character": "May",
+            "line": "More observing, less sharing."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thrusters and artificial gravity are ready! We'll have about 10 minutes of power to both!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't fire the thrusters until we're at the very edge of the atmosphere or we will certainly die!"
+        },
+        {
+            "character": "May",
+            "line": "Great! Everybody buckle in! No! The anchors won't release."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "May",
+            "line": "The anchors are stuck. We can't lift off."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm on it!"
+        }
+    ]
+}

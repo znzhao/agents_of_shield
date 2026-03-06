@@ -1,0 +1,93 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 11,
+    "scene_name": "AftermathAndTeamBonding",
+    "description": "After the crisis, the team relaxes and celebrates their victory with beers. Fitz takes a step toward rebuilding his social confidence, sharing a personal story with Hunter and Mack. The camaraderie and bittersweet mood show the team's resilience and hint at stronger bonds ahead.",
+    "roles": [
+        "leo_fitz",
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Want some help with that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, thank you. I need to learn to do these things by myself."
+        },
+        {
+            "character": "Hunter",
+            "line": "Guys, drop everything."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, this is worth a fortune. I'm not gonna drop it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Just put it down."
+        },
+        {
+            "character": "Mack",
+            "line": "What's all this?"
+        },
+        {
+            "character": "Hunter",
+            "line": "We survived a HYDRA attack, saved the bus. I turned out to be a genius at mechanical engineering. Calls for a celebration."
+        },
+        {
+            "character": "Mack",
+            "line": "I like the way you think."
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, no, actually, I should probably, um..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Fitz, this team wouldn't be here if it weren't for you. This is big. Let me buy you a beer, mate."
+        },
+        {
+            "character": "Hunter",
+            "line": "We haven't gotten to work together much yet, but I thought this was a successful mission. And if we keep up with this teamwork, there will be more successful missions and plenty more beer, plenty more..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, hey, so, um, I don't have an ex. But there was this girl that I like, and I told her how I felt, but she doesn't feel the same way as I do, so she left."
+        },
+        {
+            "character": "Hunter",
+            "line": "Her loss, then, mate. From what I can see, she's missing out. To moving on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Moving on."
+        },
+        {
+            "character": "Triplett",
+            "line": "Still digging? What are you doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah. Nothing?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing."
+        },
+        {
+            "character": "Triplett",
+            "line": "Okay, well, if you need any help with the nothing, you just let me know. Okay?"
+        }
+    ]
+}

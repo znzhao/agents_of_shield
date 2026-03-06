@@ -1,0 +1,59 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 6,
+    "scene_name": "CoulsonConfrontsRosalindBreakIn",
+    "description": "Coulson is picked up by Rosalind Price for their scheduled ATCU visit, but she detours to her home due to an alleged break-in. Coulson quickly deduces the break-in may be staged to manipulate him emotionally and insists on seeing the ATCU facility instead. The scene heightens tension between the two leaders, as each tries to outmaneuver the other.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Nice of you to pick me up."
+        },
+        {
+            "character": "Price",
+            "line": "Yes. On the corner, since you won't tell me where your base is."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know I run a spy organization, right?"
+        },
+        {
+            "character": "Driver",
+            "line": "Yes, madam."
+        },
+        {
+            "character": "Price",
+            "line": "I'm sorry. It's an emergency I need to handle. We'll reschedule. So, this is the part where you get out of the car."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think so."
+        },
+        {
+            "character": "Price",
+            "line": "Do you not get how this works?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What I get is that it's time to see this facility. No more delays. I'll stay with you. When the emergency's done, then we can go."
+        },
+        {
+            "character": "Price",
+            "line": "You can't. Not where I'm going."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. So we're not sharing information, then? ‘Cause you kind of just made a whole thing about that."
+        },
+        {
+            "character": "Price",
+            "line": "Okay. Director Coulson will be joining us. Take me home."
+        }
+    ]
+}

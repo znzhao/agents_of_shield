@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 4,
+    "scene_name": "SkyeWorriesForJiaying",
+    "description": "Skye and Lincoln are with the wounded Jiaying at Afterlife. Lincoln reassures Skye that her mother's healing powers require time and effort, and both express doubts about the recent events. Jiaying thanks Skye for her support but asks everyone to leave so she can rest and recover, deepening Skye's unease.",
+    "roles": [
+        "skye",
+        "jiaying",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "SKye",
+            "line": "I thought that with her healing powers, the pain..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wouldn't be there? No such luck. Her gift can heal the tissue damage with time, but she feels all of it."
+        },
+        {
+            "character": "Skye",
+            "line": "Does she need any blood? I can... I-I can donate or... or what..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I think you've helped enough."
+        },
+        {
+            "character": "Skye",
+            "line": "What is that supposed to mean?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "It means Jiaying was right. S.H.I.E.L.D. couldn't be trusted. But you convinced her otherwise. Why?"
+        },
+        {
+            "character": "Skye",
+            "line": "You think I knew about any of this?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Lincoln. Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "I never meant for this to happen I swear."
+        },
+        {
+            "character": "Jiaying",
+            "line": "I should have been more careful. S.H.I.E.L.D. has done this before. I hoped they had changed. Skye feels as betrayed as we do, Lincoln, maybe more."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't think we know the full story. Coulson wouldn't do any..."
+        },
+        {
+            "character": "Jiaying",
+            "line": "I can't do this right now. I'd like everyone to leave. I need rest if I'm going to heal."
+        }
+    ]
+}

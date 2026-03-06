@@ -1,0 +1,50 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 15,
+    "scene_name": "SHIELDSeizesBakshiStudio",
+    "description": "Coulson and Ward lead a raid on Bakshi’s studio, subduing the broadcaster and preparing to air S.H.I.E.L.D.’s message to the world. Ward promises Daisy that he will do what he can to defend their broadcast against Hydra until the last second. There’s a bittersweet goodbye as Ward accepts he won’t join Skye in the real world, but hopes the version of Skye he knew will return when she leaves.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "hopeful",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "That's very kind of you, Mr. Bakshi, but I couldn't possibly impose..."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I'm just saying, if you need to shop for furniture, I'll take you. I know just the place."
+        },
+        {
+            "character": "Coulson",
+            "line": "Heard you were looking for some enemies of the state."
+        },
+        {
+            "character": "Ward",
+            "line": "Stay quiet and we won't have a problem."
+        },
+        {
+            "character": "Skye",
+            "line": "May and Coulson are getting everything set."
+        },
+        {
+            "character": "Ward",
+            "line": "We're good to go out here. No one's putting up a fight."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Yes, but we will. If you think you can force me, Sunil Bakshi, to go on air and slander HYDRA, then you're delusional. I am the most trusted voice in journalism. Just, uh, put it in the teleprompter, then."
+        },
+        {
+            "character": "Skye",
+            "line": "We don't need you to say a damn thing. The facts will speak for themselves."
+        }
+    ]
+}

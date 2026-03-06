@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 4,
+    "scene_name": "InvestigationAtCrimeScene",
+    "description": "The team investigates the scene of Adam Cross's death, discussing the strange electrostatic anomaly. Despite initial theorizing, they are stumped by the unprecedented effects. Skye tries to understand why S.H.I.E.L.D. was called in, and Simmons expresses both scientific awe and sadness over the loss of life.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "grant_ward",
+        "skye",
+        "melinda_may",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Troop leader's name was Adam Cross. Apparently, he said he heard something in the woods, went to check it out. That's where the electrostatic anomaly occurred."
+        },
+        {
+            "character": "Fitz",
+            "line": "What I don't understand is, usually, they're caused by a massive electrical storm."
+        },
+        {
+            "character": "Simmons",
+            "line": "But there wasn't a storm within a thousand miles of here last night."
+        },
+        {
+            "character": "Coulson",
+            "line": "This anomaly's different. It has a side effect we've never seen before."
+        },
+        {
+            "character": "May",
+            "line": "The battery blew straight up through the hood."
+        },
+        {
+            "character": "Ward",
+            "line": "Landed over here. Hell of a force to create that kind of trajectory. Huh. What are you doing?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm shadowing my supervising officer."
+        },
+        {
+            "character": "Ward",
+            "line": "Shadowing, not smothering. There's scorch marks all over that tree. Lucky the whole forest didn't burn down."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't get it. Seems to me like this electroshock thingy was some freak lightning strike. I mean, why call us? What's the big... Oh. Never mind."
+        },
+        {
+            "character": "Simmons",
+            "line": "So sad a man died this way... and yet, so amazing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz-Simmons, any idea what could cause an effect like this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "There's the soliton hypothesis."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, okay, judging by the horizontal..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Perhaps, nanobatteries..."
+        },
+        {
+            "character": "Fitz",
+            "line": "... electrical discharge, it could be..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time. Let's try that again. Any idea what could cause an effect like this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The hell if I know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, no, no clue."
+        },
+        {
+            "character": "Ward",
+            "line": "Seems to me like we're either dealing with some freak natural event or a new high-tech weapon."
+        },
+        {
+            "character": "Skye",
+            "line": "Or could it be someone from your uber-secret Index?"
+        },
+        {
+            "character": "May",
+            "line": "There's no one on the Index with this type of power."
+        },
+        {
+            "character": "Coulson",
+            "line": "That we know of. I'll contact agent Blake at S.H.I.E.L.D. H.Q., have him check it out. Whoever or whatever's responsible, we can't let this happen again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, see his forehead? Look at that endothelial discoloration."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, same dispersal pattern as the strike on the truck."
+        },
+        {
+            "character": "Simmons",
+            "line": "Could be an entry wound cauterized immediately."
+        },
+        {
+            "character": "Fitz",
+            "line": "Freaky."
+        },
+        {
+            "character": "Simmons",
+            "line": "Freaaa-ky."
+        }
+    ]
+}

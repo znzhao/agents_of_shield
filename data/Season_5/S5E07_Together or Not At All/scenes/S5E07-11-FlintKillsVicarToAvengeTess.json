@@ -1,0 +1,51 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "FlintKillsVicarToAvengeTess",
+    "description": "Flint, determined to stop the deaths, confronts the Kree Vicar and kills him with his powers in a display of newfound resolve. Sinara decides to use Flint as bait, setting up the next confrontation with S.H.I.E.L.D.",
+    "roles": [
+        "flint"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Vicar",
+            "line": "You. You know the whereabouts of the escaped Inhuman?"
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah. I do. Too many people have died. Good people."
+        },
+        {
+            "character": "Vicar",
+            "line": "You were offered the highest honor a human could hope for, to join Kasius below and see others rewarded in kind. Now they'll get nothing. But good you turned yourself in."
+        },
+        {
+            "character": "Flint",
+            "line": "I won't let any more innocent lives be lost. Not for me."
+        },
+        {
+            "character": "Vicar",
+            "line": "Unh!"
+        },
+        {
+            "character": "Flint",
+            "line": "That was for Tess."
+        },
+        {
+            "character": "Kree",
+            "line": "I'll alert command."
+        },
+        {
+            "character": "Kree",
+            "line": "But he's an Inhuman."
+        },
+        {
+            "character": "Sinara",
+            "line": "He's bait."
+        }
+    ]
+}

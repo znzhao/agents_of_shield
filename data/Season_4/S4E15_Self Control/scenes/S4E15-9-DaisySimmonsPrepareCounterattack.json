@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 9,
+    "scene_name": "DaisySimmonsPrepareCounterattack",
+    "description": "Daisy and Simmons quickly strategize, realizing they need to enter the Framework to save their friends, since tracking its origin is impossible. Despite Simmons' crisis of confidence without Fitz, Daisy encourages her and vows to fight the LMDs, setting up the episode's climactic confrontation.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "What do you mean, hope? They'll say we're Life Model Decoys, turn all of H.Q. against us, and have us killed."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Well, maybe there's not a lot of hope that we're gonna get out of here, but there is hope that our team is still alive. Which means we have to try. From what Fitz told you, it seems Radcliffe, in his twisted logic, is keeping them alive in this Framework thing. Which means they can be rescued."
+        },
+        {
+            "character": "Simmons",
+            "line": "How? The Framework's origin signal is untraceable. They could be anywhere on the planet."
+        },
+        {
+            "character": "Daisy",
+            "line": "Which is why we have to go in."
+        },
+        {
+            "character": "Simmons",
+            "line": "You mean go in? Hack in..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hack in. Plug ourselves into the Framework so we can find our people, and we can wake them up and figure out where their bodies are being kept. I don't know. Really, what's our other option?"
+        }
+    ]
+}

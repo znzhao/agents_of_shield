@@ -1,0 +1,105 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 6,
+    "scene_name": "FitzSimmonsMackPlanInvestigateMomentum",
+    "description": "Back in the lab, Fitz, Mack, and Simmons develop a plan to track the ghostly threat to Pasadena after identifying the Momentum Energy Lab as a source of the mysterious alloy. Mack and Fitz prepare to travel while Simmons is assigned to support the Director’s upcoming tour of the base.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Wait, wait, wait. So, this woman caused a disturbance in Chen and his people with a touch?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, it seems there's something to do with physical contact, but how is she incorporeal?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe a multidimensional event caused it. Like Tobias Ford."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah? Or perhaps a matter-energy phase shift. You know, if the box is utilizing phase shifting..."
+        },
+        {
+            "character": "Mack",
+            "line": "Ma-Maybe she's just a ghost."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's also a theory."
+        },
+        {
+            "character": "Fitz",
+            "line": "Look, the alloy in the box itself is very rare. It's only made at Momentum Labs in three locations around the world."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or was. All three have been shut down for years."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, so you've got New York, Pasadena..."
+        },
+        {
+            "character": "Mack",
+            "line": "Pasadena, California. Hold on. Yeah. The family that checked in to the ER? They live in Pasadena. I'll requisition a Quinjet for us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'll come, too. Simmons can't."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm stuck. Assignment for the Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Seriously?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, you know, “a team that trusts is a team that triumphs.”"
+        },
+        {
+            "character": "Mack",
+            "line": "W-What's he got you doing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, well, that's the best bit. “My expertise is needed here for a tour.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "A what?"
+        },
+        {
+            "character": "Mace",
+            "line": "It'll be fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not my job anymore, Jeffrey. And wouldn't my time be better spent in the field instead of..."
+        },
+        {
+            "character": "Mace",
+            "line": "Instead of walking some overly pampered U.S. Congress people around your private base? Maybe. You love this stuff. History, SSR trivia, that's where you shine."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're just complimenting me so I'll do this."
+        },
+        {
+            "character": "Mace",
+            "line": "I'm complimenting you because it's true. Look, you're the expert on all things S.H.I.E.L.D., not me. And we both know why I have this job. But what I don't have is the anonymous, unlimited funding you seemed to have before. To build billion-dollar airplanes? No. Our budget hinges on the U.N. and the Sokovia Accords and on impressing the House Appropriations Committee. I can't do that myself. Please."
+        }
+    ]
+}

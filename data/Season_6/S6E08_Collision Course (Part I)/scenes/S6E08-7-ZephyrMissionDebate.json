@@ -1,0 +1,89 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 7,
+    "scene_name": "ZephyrMissionDebate",
+    "description": "Mack, Elena, and Davis keep watch from the Zephyr and discuss their ongoing conflict with Sarge and his crew. Benson's research comes in, shedding some light on the myth of Izel and the Di'Allas, hinting at the monstrous nature of their foe. Mack's uncertainty and suspicion about Sarge's intentions are reinforced.",
+    "roles": [
+        "alphonso_mackenzie",
+        "davis",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Our guests are all set. Any word from May and Daisy?"
+        },
+        {
+            "character": "Davis",
+            "line": "Not yet, but we'll have no problem tracking them. Agent May has a sat phone if she needs to contact us, so..."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. Let's get this bird in the air."
+        },
+        {
+            "character": "Davis",
+            "line": "Roger that."
+        },
+        {
+            "character": "Elena",
+            "line": "Prisoners give you any trouble?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, the big man seemed content on breathing his home planet's air, but the, uh... the twitchy dude wasn't too thrilled to find out, uh, we were tracking the Sarge."
+        },
+        {
+            "character": "Elena",
+            "line": "That's the first time I've ever heard you say that."
+        },
+        {
+            "character": "Mack",
+            "line": "What? Twitchy?"
+        },
+        {
+            "character": "Elena",
+            "line": "Call somebody a “big man.”"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not used to going up against giants."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, now you know how the rest of us feel when we're talking to you. It involves a lot of looking up."
+        },
+        {
+            "character": "Mack",
+            "line": "You know, I don't feel like a lot of people have been looking up to me lately."
+        },
+        {
+            "character": "Elena",
+            "line": "You can't let Sarge get to you, Mack. Everybody at S.H.I.E.L.D. believes in you."
+        },
+        {
+            "character": "Mack",
+            "line": "Wish I could say the same."
+        },
+        {
+            "character": "Elena",
+            "line": "Look, I know it was a risk letting him take point on the mission, but I think it was the right decision."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. I hope so. But my gut tells me there's a part of the plan that Sarge hasn't revealed."
+        },
+        {
+            "character": "Elena",
+            "line": "It's Benson. He's sending a report."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's hope it sheds some light onto what we're chasing."
+        }
+    ]
+}

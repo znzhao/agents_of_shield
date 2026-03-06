@@ -1,0 +1,121 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 5,
+    "scene_name": "RemorathInvasionBegins",
+    "description": "Strange power fluctuations are detected, and Deke identifies the alien invaders as Remorath, a terrifying race able to see in total darkness. Coulson realizes a siege has begun and orders the team to go into evacuation mode. The team splits responsibilities: Elena is tasked with retrieving Talbot, Fitz and Simmons hunt for a lockdown override, and Deke, Mack, and May prepare for technical and defensive support. The threat of isolation and overwhelming enemy presence drives the urgency.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Sensors, the cameras, everything's glitchy."
+        },
+        {
+            "character": "Mack",
+            "line": "You getting the same thing I am?"
+        },
+        {
+            "character": "May",
+            "line": "Energy fluctuations all over the Lighthouse? Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which could mean they're already inside."
+        },
+        {
+            "character": "Deke",
+            "line": "God. They're already inside!"
+        },
+        {
+            "character": "Mack",
+            "line": "We don't even know who “they” are."
+        },
+        {
+            "character": "Deke",
+            "line": "I do. The Remorath are marauders. They're intergalactic scavengers with no planet of their own, so they just take from others, and... and wherever they go, darkness follows."
+        },
+        {
+            "character": "May",
+            "line": "Darkness? That's a little vague."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, it's not the concept of darkness, it's literal darkness. It follows them, because they're magic, and they can see in the dark, and we can't, so it makes them kill us better with... with their claws."
+        },
+        {
+            "character": "Kim",
+            "line": "Did you say, “claws?”"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. Did I not mention the foot-long razor claws? Because, yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, people in the future survive. There must be a way to stop them."
+        },
+        {
+            "character": "Deke",
+            "line": "No, we didn't stop them. We just gave them whatever they wanted, and then said thank you and cleaned up the bodies after they left."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, this is no longer a siege, this is an evacuation. Fitz, Simmons, see if you can find a way to override the whole nuclear-contamination protocol. We need to get the Zephyr airborne and out of here, preferably with the gravitonium and our people on board. How are your arms feeling?"
+        },
+        {
+            "character": "Elena",
+            "line": "Fitz recalibrated them, so I'm like new."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good, because we also need to get Talbot out of lockup, and we have no idea what kind of influence he's under."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, if he makes a move, I'll make a faster one."
+        },
+        {
+            "character": "Coulson",
+            "line": "Great. Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson, I think we might have something. There's a... it's an analogue override on floor 17. It's the system I check after the beacon explodes, so I can rig up a bypass."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. If we can get the hangar doors open and Deke and I can get the engines going, we're in business."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll ready the gravitonium for travel. We've got Piper and Davis here to help, and Fitz can take Agent Wahl for backup."
+        },
+        {
+            "character": "Deke",
+            "line": "No, Simmons. You... You are the backup. You guys made a pledge not to leave each other's side, so I feel like..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we don't really have much choice."
+        },
+        {
+            "character": "Deke",
+            "line": "You can get Daisy to give you backup. She's strong, and she's protective and she... Wait, can't... Wait. Can't Daisy just quake us out of here? Why isn't she back yet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Ask May."
+        }
+    ]
+}

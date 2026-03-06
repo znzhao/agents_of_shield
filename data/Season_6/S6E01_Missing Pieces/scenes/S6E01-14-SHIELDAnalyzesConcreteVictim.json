@@ -1,0 +1,94 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 14,
+    "scene_name": "SHIELDAnalyzesConcreteVictim",
+    "description": "At the Lighthouse, Mack, May, Elena, and Dr. Benson examine Tinker, the fused victim from the anomaly. Benson notices unusual technology in Tinker’s body. Suddenly, Tinker revives and warns of \"Pachakutiq\" before dying again, leaving behind coordinates for the next incident. The team sets out to investigate.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "melinda_may",
+        "marcus_benson"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Benson",
+            "line": "Is it too late to turn down this job?"
+        },
+        {
+            "character": "Mack",
+            "line": "What do you make of it?"
+        },
+        {
+            "character": "Benson",
+            "line": "Well, I'd have a theory if he was encased in concrete. But he's partially made of concrete. And that's not all. He has components."
+        },
+        {
+            "character": "Mack",
+            "line": "Cybernetic?"
+        },
+        {
+            "character": "Benson",
+            "line": "Uh, looks like. This on his neck. Tell me that's not a lens of some sort."
+        },
+        {
+            "character": "Tinker",
+            "line": "I got you... I got you... You can't stop it. It's coming."
+        },
+        {
+            "character": "Mack",
+            "line": "Stop what? What's coming?"
+        },
+        {
+            "character": "Tinker",
+            "line": "Pachakutiq. Pachakutiq! Wave goodbye."
+        },
+        {
+            "character": "May",
+            "line": "Hell, Benson. You didn't detect a heartbeat?"
+        },
+        {
+            "character": "Benson",
+            "line": "Heartbeat?! He doesn't have a heart!"
+        },
+        {
+            "character": "Elena",
+            "line": "Tell me that's not a time bomb."
+        },
+        {
+            "character": "Benson",
+            "line": "Bomb, no. Time, yes. And a place."
+        },
+        {
+            "character": "Mack",
+            "line": "We may have our next location. Fox, put in these coordinates. 40-12-14.7 north. 85-24-40.3 west."
+        },
+        {
+            "character": "Fox",
+            "line": "Ha, look at that, right on a Ley Line... Just saying."
+        },
+        {
+            "character": "Mack",
+            "line": "No, you were right. Keller, take Fox with you. May, Yo-Yo, take point."
+        },
+        {
+            "character": "Keller",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Elena",
+            "line": "We'll get on the road. You get on the comms and let us know where we're going."
+        },
+        {
+            "character": "Jaco",
+            "line": "Get out of here, kid."
+        },
+        {
+            "character": "Pax",
+            "line": "Time to make some ripples."
+        }
+    ]
+}

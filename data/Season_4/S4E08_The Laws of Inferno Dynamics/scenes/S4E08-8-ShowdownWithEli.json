@@ -1,0 +1,287 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 8,
+    "scene_name": "ShowdownWithEli",
+    "description": "Robbie and Eli have a heated confrontation. Eli demonstrates his newly-evolved abilities and tries to justify his actions. Coulson enters, challenging Eli’s belief in his own godhood and exposing that Eli is actually stealing energy from another dimension, not creating it. This revelation infuriates Eli, who lashes out. Meanwhile, S.H.I.E.L.D.'s above- and below-ground teams race to contain the imminent threat from Eli’s plutonium device, with Daisy absorbing ever-stronger quakes to prevent disaster. Elena and the others scramble to complete Radcliffe and AIDA's scientific countermeasures.",
+    "roles": [
+        "robbie_reyes",
+        "eli_morrow",
+        "phil_coulson",
+        "skye",
+        "elena_rodriguez",
+        "holden_radcliffe",
+        "jemma_simmons",
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "action-packed",
+    "location": "Momentum Energy Lab (Pasadena / Momentum Labs)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Eli",
+            "line": "See this? This is water."
+        },
+        {
+            "character": "Robbie",
+            "line": "Wow. I'm so impressed."
+        },
+        {
+            "character": "Eli",
+            "line": "Yeah, I forgot you weren't very good at science. You see, water's not a base element, it's a compound. Not just any compound, it's the next step in the evolution of my power, creating life."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, you might want to get a girlfriend first. Sorry to be the one to break it to you, Eli, but you're not a god. Turns out you're still just a petty thief."
+        },
+        {
+            "character": "Man",
+            "line": "We found him outside. No gun on him, just this."
+        },
+        {
+            "character": "Eli",
+            "line": "Agent Coulson, you should be dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "I get that a lot. Never gets old, though. Means I'm still here."
+        },
+        {
+            "character": "Eli",
+            "line": "How? I watched you get vaporized."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just the fact that you're asking, “How?” shows how little you know about what happened... or what's about to."
+        },
+        {
+            "character": "Eli",
+            "line": "I'm not sure if that's an insult or a threat. Either way not a good idea."
+        },
+        {
+            "character": "Man",
+            "line": "Aah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Should be the last of them. How are we doing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're close. The core should be placed here, directly underneath the cell."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Time for you to work your magic, my dear."
+        },
+        {
+            "character": "AIDA",
+            "line": "I don't perform magic, Doctor. Magic involves deception."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, I just meant it's time to start connecting the power cells. I really need to update your cache of common vernacular."
+        },
+        {
+            "character": "Daisy",
+            "line": "You really think the magnet's gonna be strong enough to hold him down?"
+        },
+        {
+            "character": "AIDA",
+            "line": "The neodymium core is no ordinary magnet. It enabled the Watchdogs' EMP device to knock out the power in several cities."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can't believe she's a robot. She's so lifelike."
+        },
+        {
+            "character": "AIDA",
+            "line": "Thank you. I'm learning."
+        },
+        {
+            "character": "Simmons",
+            "line": "What AIDA: neglected to add was that the core is useless unless we get the other half properly placed and we manage to get the rest of the gate up in time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we will... barring an earthquake."
+        },
+        {
+            "character": "Daisy",
+            "line": "Leave those to me, okay? Everyone leaves like we came... in one piece."
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie, can you hear me? How could you do that to your own nephew?"
+        },
+        {
+            "character": "Eli",
+            "line": "You know he's more than that, what he's capable of."
+        },
+        {
+            "character": "Robbie",
+            "line": "I'm still standing, Coulson. Oh, but it's like when we were in the other place something's pulling at me."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's dying in there. We need to get him out."
+        },
+        {
+            "character": "Eli",
+            "line": "What does he mean, “other place?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "You ever heard of the law of conservation of mass?"
+        },
+        {
+            "character": "Eli",
+            "line": "Of course I have. I have a damn PhD in engineering."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, right. Sorry. Then you know matter can't be created or destroyed."
+        },
+        {
+            "character": "Eli",
+            "line": "Except I've proven it's not true. I'm rewriting the laws of nature."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, but you're drunk on power or drinking your own Kool-Aid or drunk on Powerade... I don't know. The point is, you're not creating energy, Eli, you're stealing it."
+        },
+        {
+            "character": "Eli",
+            "line": "Stealing it? From where?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember when you thought I was dead? I was actually right in front of you, trapped between dimensions. Ask Robbie, he was there."
+        },
+        {
+            "character": "Robbie",
+            "line": "It's true."
+        },
+        {
+            "character": "Coulson",
+            "line": "Right now, Robbie's feeling the pull from that other place because he's trapped in a box with a bunch of quantum energy that doesn't belong here, and it sure as hell doesn't belong to you. Thus thief."
+        },
+        {
+            "character": "Eli",
+            "line": "You're lying."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. It gets worse. Every time you steal quantum energy, it causes a seismic rift. The more you take, the bigger the quake, which causes a problem, ‘cause, you know, plutonium."
+        },
+        {
+            "character": "Robbie",
+            "line": "Listen to him, Téo. You don't want to drag them down with you."
+        },
+        {
+            "character": "Eli",
+            "line": "Do you know how hard I had to work to get here, to achieve what I've achieved?! And you call me a thief... a fraud?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Careful, AIDA. Our lives depend on this. Yours in particular."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're getting stronger. It's like riding a choppy wave."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did you get the other magnet to Yo-Yo?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. She's got it."
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't handle another tremor like that."
+        },
+        {
+            "character": "Simmons",
+            "line": "If that beryllium lid drops into place, the plutonium goes nuclear."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not helping, Simmons. I'm... I'm absorbing the quakes as best I can."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How much can those gauntlets take?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not the gauntlets I'm worried about."
+        },
+        {
+            "character": "Coulson",
+            "line": "Eli, wake up. Don't you see what's happening? Don't let your ego blind you to the truth."
+        },
+        {
+            "character": "Eli",
+            "line": "What you call truth, Agent Coulson, I call theory."
+        },
+        {
+            "character": "Coulson",
+            "line": "That bomb goes off, everyone dies, you included!"
+        },
+        {
+            "character": "Eli",
+            "line": "You're wrong! The Darkhold has shown me the way. I can create life, even after death. Can a petty thief do that, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That bomb isn't a fail-safe, is it? It's your end game."
+        },
+        {
+            "character": "Eli",
+            "line": "It's not my end, it's yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, guys? We got to go."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Almost there."
+        },
+        {
+            "character": "Daisy",
+            "line": "Come on."
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie, I need you to fight! Get out of that box!"
+        },
+        {
+            "character": "Robbie",
+            "line": "We had a deal. Well, let's finish it."
+        },
+        {
+            "character": "Coulson",
+            "line": "All teams... go hot."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's too... strong!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Daisy."
+        },
+        {
+            "character": "Man",
+            "line": "Hey!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie!"
+        }
+    ]
+}

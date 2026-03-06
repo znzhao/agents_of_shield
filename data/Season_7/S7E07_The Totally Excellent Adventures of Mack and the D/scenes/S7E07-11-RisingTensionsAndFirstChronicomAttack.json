@@ -1,0 +1,75 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "RisingTensionsAndFirstChronicomAttack",
+    "description": "Mack has a confrontation with Roxy, who points out Deke's loyalty and ongoing efforts to support Mack's younger self and family, misinterpreting them as his children. Suddenly, a Chronicom robot attacks Mack and Roxy, confirming the threat is very real and forcing them into combat.",
+    "roles": [
+        "alphonso_mackenzie"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Roxy",
+            "line": "Hey, hold up. I said “hold up”."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't need a lecture right now."
+        },
+        {
+            "character": "Roxy",
+            "line": "No, you need an ass-kicking. That was not cool."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, that's between me and Deke."
+        },
+        {
+            "character": "Roxy",
+            "line": "Maybe, but he's my buddy, and yours, too, the way he's always going on about you. “Mack's such a great guy. Best leader any team could have.” Man, did he have you pegged wrong."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, sorry to disappoint."
+        },
+        {
+            "character": "Roxy",
+            "line": "It's not me you should feel sorry for. It's that kid of yours."
+        },
+        {
+            "character": "Mack",
+            "line": "What did you say?"
+        },
+        {
+            "character": "Roxy",
+            "line": "Don't play dumb. He looks just like you. Even has your name."
+        },
+        {
+            "character": "Mack",
+            "line": "How do you know about him?"
+        },
+        {
+            "character": "Roxy",
+            "line": "Deke checks in on him every couple weeks, brings him and his brother school supplies, toys, even got 'em a drum kit."
+        },
+        {
+            "character": "Mack",
+            "line": "I didn't know."
+        },
+        {
+            "character": "Roxy",
+            "line": "'Course not. You left that kid. What do you care? What's that robot doing here?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, not again. Take cover!"
+        },
+        {
+            "character": "Robot",
+            "line": "Exterminate!"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "SHEILDLearnsOfKidnapping",
+    "description": "Mack receives news that Fitz and Simmons have been kidnapped by HYDRA. Daisy wants to mount an immediate rescue using Zephyr One, but Mack counsels restraint, refusing to waste resources on a tail chase. He calls Coulson with the update, confirming that Ward manipulated them into a trap. Despite the setback, Coulson insists on continuing the plan to get Ward.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye",
+        "phil_coulson",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "HYDRA's taken Fitz and Simmons."
+        },
+        {
+            "character": "Daisy",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Mack",
+            "line": "There was an ambush at the Distant Star facility."
+        },
+        {
+            "character": "Daisy",
+            "line": "What about Banks and the others?"
+        },
+        {
+            "character": "Mack",
+            "line": "They didn't make it."
+        },
+        {
+            "character": "Daisy",
+            "line": "We got to get on Zephyr One and get there."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't think that's the right move."
+        },
+        {
+            "character": "Daisy",
+            "line": "They took Fitz and Simmons."
+        },
+        {
+            "character": "Mack",
+            "line": "I know that, but HYDRA's long gone by now, and we can't waste every resource we have chasing our own damn tail."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's better than doing nothing."
+        },
+        {
+            "character": "Mack",
+            "line": "I need to call Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Director?"
+        },
+        {
+            "character": "Mack",
+            "line": "Sir, we have a situation. Fitz and Simmons have been kidnapped."
+        },
+        {
+            "character": "Coulson",
+            "line": "What? By who?"
+        },
+        {
+            "character": "Mack",
+            "line": "By HYDRA, by the looks of it. Seems they knew we were coming."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why Ward mentioned the portal. He wanted us to go there."
+        },
+        {
+            "character": "Hunter",
+            "line": "Does this mean we need to make a change of plans?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. It means this better work."
+        }
+    ]
+}

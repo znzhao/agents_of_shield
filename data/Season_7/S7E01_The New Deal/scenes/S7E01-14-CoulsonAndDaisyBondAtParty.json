@@ -1,0 +1,56 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 14,
+    "scene_name": "CoulsonAndDaisyBondAtParty",
+    "description": "At the party, Daisy and Coulson have an emotional conversation. Daisy apologizes for bringing Coulson back against his wishes, and the two acknowledge the surreal circumstances. Coulson is self-aware, referencing memories he never lived, as they share mutual understanding and warmth. Their reconciliation offers a rare moment of personal connection amidst the surrounding mission.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "New York City (1931)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "For what?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You didn't want to be brought back. And I knew that. But then I-I saw you, and then I couldn't help myself. So I pushed the button. I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's pretty weird that there's a button, right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's all surreal. I have data in my head telling me that I died. And that I left you a letter. But I wasn't there. It's a lot. Must've been a lot for you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, not to give you a big head, but it was, um, a very nice letter."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a relief."
+        },
+        {
+            "character": "Daisy",
+            "line": "Maybe I'll let you read it sometime."
+        },
+        {
+            "character": "Coulson",
+            "line": "I would like that."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 8,
+    "scene_name": "MalicksWarning",
+    "description": "Malick warns Coulson that Hive’s parasite can sway Inhumans, implying that one of Coulson’s team might already be under Hive's control. Coulson’s skepticism fades as the gravity of the threat dawns on him. He instructs Mack to lock the base down, and Fitz and Simmons are tasked with developing a test and cure for the possible infection, while Daisy is asked to keep her team contained.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "There is a reckoning coming. You put your faith in the Inhumans like I did. It is a deadly mistake. They will all worship him."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's not a god. As far as we know, he was a slave to the Kree."
+        },
+        {
+            "character": "Malick",
+            "line": "What better beginning for a god?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They called him “Alveus.” Do you know that word? It's Latin. It means “Hive,” which is fitting, because he's a parasite. Swarms, eats, moves from corpse to corpse."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, that's one way to see it. You're not really a religious man, are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have faith in my team."
+        },
+        {
+            "character": "Malick",
+            "line": "That's what he'll destroy first."
+        },
+        {
+            "character": "Coulson",
+            "line": "You said they'll worship him. What did you mean?"
+        },
+        {
+            "character": "Malick",
+            "line": "I'm saying that those that were loyal to me now serve him. He infected them, became a part of them, and they instantly joined the hive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mind control? You're the head of HYDRA. Why would I ever believe you?"
+        },
+        {
+            "character": "Malick",
+            "line": "You don't have to believe. You'll see soon enough. You sent four Inhumans into his lair, and now they're in your base. How many of them do you think he turned? If you trust any of them, stop now."
+        },
+        {
+            "character": "Mack",
+            "line": "Everything okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to quietly lock down the base."
+        },
+        {
+            "character": "Fitz",
+            "line": "Malick has no proof."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have to take this threat seriously."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, then, let's get ahead of it. We can talk to them, scan them."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have no way to test for this."
+        },
+        {
+            "character": "Mack",
+            "line": "If any of them are sick, they could be very dangerous. They need to be in containment now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then what? Simmons said it, there's no test. Are we gonna question them? What do we ask? “Are you infected? No? Great. Thanks.” None of this works if they know we know. I need more."
+        },
+        {
+            "character": "Simmons",
+            "line": "Lucio's body had some abnormal readings. Maybe we could start there."
+        },
+        {
+            "character": "Fitz",
+            "line": "That could help us confirm whether Malick's full of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get me proof. If this is real, any one of them could have been turned or all of them. I need a test and then a cure."
+        },
+        {
+            "character": "Mack",
+            "line": "That's a hell of a gamble."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's our best shot. We keep everyone contained to the base. If anyone's infected, they came for a reason. We monitor them, let them show their hand."
+        },
+        {
+            "character": "Fitz",
+            "line": "They saved our lives, and now we can't trust the lot of them."
+        },
+        {
+            "character": "Daisy",
+            "line": "S-Sorry. I came when I saw the base was on lockdown. What's up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a security precaution while Malick's in custody."
+        },
+        {
+            "character": "Daisy",
+            "line": "Right. Did we get any info on Zombie-Ward?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet, but I'm confident we will."
+        },
+        {
+            "character": "Daisy",
+            "line": "Good. If we get intel, let me know. I'd like my team to get another shot at him. Um, but, you should know Joey crossed off Lucio. I'm not sure he was ready for that already to be back in the field after it."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's hard. I'll check in on him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get me answers."
+        }
+    ]
+}

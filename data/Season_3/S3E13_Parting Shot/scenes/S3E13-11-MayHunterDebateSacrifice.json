@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 11,
+    "scene_name": "MayHunterDebateSacrifice",
+    "description": "Inside the base, May and Hunter debate their values and the difficult choices that come with S.H.I.E.L.D. service. May stresses the importance of sacrifice and putting the greater good above personal feelings. Their philosophical debate is interrupted as Malick's plans unfold and the team prepares to act.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "We need to get out of here. What are those guards doing?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Complaining, avoiding work, taking selfies. It's guard duty. Doesn't seem like an Inhuman power, snapping people's necks. Anyone can do that. As opposed to melting metal or burning holes in people's chests like your ex."
+        },
+        {
+            "character": "May",
+            "line": "You're right, anyone can snap a person's neck."
+        },
+        {
+            "character": "Hunter",
+            "line": "You could've paired up with Mack."
+        },
+        {
+            "character": "May",
+            "line": "Mack I can trust."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, but not me. That's right. I forgot. We're not friends, are we?"
+        },
+        {
+            "character": "May",
+            "line": "You know, friends don't put other people's lives at risk for selfish reasons."
+        },
+        {
+            "character": "Hunter",
+            "line": "Selfish? I'd take a bullet for any one of you, not for the S.H.I.E.L.D. logo on the wall, for you."
+        },
+        {
+            "character": "May",
+            "line": "You were willing to let Andrew die to get revenge. That's not what S.H.I.E.L.D.'s about."
+        },
+        {
+            "character": "Hunter",
+            "line": "No, S.H.I.E.L.D.'s all about the mission, not the person next to you."
+        },
+        {
+            "character": "May",
+            "line": "The person next to you was me. S.H.I.E.L.D. is about sacrifice, not for you or me but for the greater good."
+        },
+        {
+            "character": "Hunter",
+            "line": "Even over the ones you love?"
+        },
+        {
+            "character": "May",
+            "line": "Yes. Even them."
+        },
+        {
+            "character": "Hunter",
+            "line": "I don't know whether I admire you or feel sad for you or both. Either way, I am sorry, May, for all of it."
+        }
+    ]
+}

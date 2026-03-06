@@ -1,0 +1,81 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 6,
+    "scene_name": "CalBreaksIntoPsychFacility",
+    "description": "Cal and his team invade a psychiatric facility, using Francis’ strength to get inside. Meanwhile, Coulson and Morse learn of the break-in and realize the facility houses dangerous individuals on the Gifted Index, including John Bruno and David Angar. They decide to check the secret sub-basement, bracing for what they might face.",
+    "roles": [
+        "calvin_johnson",
+        "phil_coulson",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Cal",
+            "line": "Excuse me, sir. You know, we... we must have made a wrong turn back there. I think we're lost."
+        },
+        {
+            "character": "Man",
+            "line": "Where are you trying to get to?"
+        },
+        {
+            "character": "Cal",
+            "line": "Uh, well, w..."
+        },
+        {
+            "character": "Cal",
+            "line": "Francis, would you be so kind as to let us in?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Dr. Garner, good to see you again. I appreciate you coming back to help."
+        },
+        {
+            "character": "Andrew",
+            "line": "Congrats on the promotion. Or should I offer my condolences?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That depends on what's on the other end of this call. Agent Broyles. Never good to hear from you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just been informed of a break-in at Brynmore psychiatric facility."
+        },
+        {
+            "character": "Morse",
+            "line": "Heard of it. Houses criminally insane types. Federal facility."
+        },
+        {
+            "character": "Coulson",
+            "line": "Except for the secret sub-basement under the North wing. We run that. Mentally unstable people on the index are housed there."
+        },
+        {
+            "character": "Morse",
+            "line": "Is that who they're after?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what we're going to find out."
+        },
+        {
+            "character": "Morse",
+            "line": "I'll prep the Quinjet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Morse, Hunter didn't report in today. I offered him a permanent job. You think that has anything to do with his disappearance?"
+        },
+        {
+            "character": "Morse",
+            "line": "“Permanent” isn't really Hunter's thing. Even the word."
+        },
+        {
+            "character": "Coulson",
+            "line": "Didn't think he scared so easily. Well... Okay. I'll meet you down there."
+        }
+    ]
+}

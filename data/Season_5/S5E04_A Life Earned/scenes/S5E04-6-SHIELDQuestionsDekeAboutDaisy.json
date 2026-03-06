@@ -1,0 +1,21 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 6,
+    "scene_name": "SHIELDQuestionsDekeAboutDaisy",
+    "description": "Coulson and May confront Deke about Daisy's whereabouts. Deke gives them a vague story about seeing Daisy last and mentions the medical floor, further raising suspicions. The team decides to utilize Deke's knowledge to access Level 35, despite their distrust.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "If you can see me, that's me walking casual."
+        }
+    ]
+}

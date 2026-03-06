@@ -1,0 +1,84 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 4,
+    "scene_name": "TrackingTheNextPiece",
+    "description": "Back on the jet, the team sifts through possible locations for the staff's remaining fragments. Skye finds a lead at a church in Seville via analysis of Viking raid routes. May confirms a relevant location and the team prepares their next move. Coulson makes jokes about siestas as they plan their search, and Ward takes point on the investigation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Did you know there's mount Thor on Baffin island?"
+        },
+        {
+            "character": "Ward",
+            "line": "I did not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you know what's not on mount Thor? Anything Asgardian at all. Our agents on the ground haven't found a thing. What about you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nystrom's deep-web message boards are just abuzz with psychos. They believe they're gonna ascend to be the gods of destruction and death. People suck, sir."
+        },
+        {
+            "character": "Ward",
+            "line": "That's your progress? “People suck?”"
+        },
+        {
+            "character": "Skye",
+            "line": "These people do. And there's also chatter about going underground."
+        },
+        {
+            "character": "Ward",
+            "line": "Could mean going incognito or..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or searching for the next piece."
+        },
+        {
+            "character": "Ward",
+            "line": "Randolph said to check Viking routes. Find any others?"
+        },
+        {
+            "character": "Skye",
+            "line": "There's some sites along the Volga river in Russia, some in Kiev, and weirdly, here. Skye taps a location on the map on the holocom."
+        },
+        {
+            "character": "Coulson",
+            "line": "In Seville, Spain?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's a long shot, but Vikings sacked Seville twice."
+        },
+        {
+            "character": "May",
+            "line": "We found one promising location with Viking relics, El Divino Niño. A church built on the ruins of an 8th-century crypt built on Roman ruins from 206 B.C."
+        },
+        {
+            "character": "Ward",
+            "line": "East of a river."
+        },
+        {
+            "character": "Coulson",
+            "line": "And lots of bones. Let's see what we can dig up. See what I did there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Must be nice... have a mandatory nap time."
+        }
+    ]
+}

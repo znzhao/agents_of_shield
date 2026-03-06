@@ -1,0 +1,38 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 9,
+    "scene_name": "HunterFitzDiscoverAgent33",
+    "description": "Fitz confirms via surveillance that Bobbi left the base with someone posing as May—Agent 33. The team discusses Ward’s involvement and the motivations behind the abduction. Hunter and May prepare to follow the Quinjet’s signal to Spain, determined to rescue Bobbi, while Coulson worries Ward’s logic is unpredictable.",
+    "roles": [
+        "leo_fitz",
+        "lance_hunter",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Okay, that's May."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, and that's the woman that once set my 1967 Convertible GTO on fire. The question on the table is not who, but where."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, that's what I'm saying. Facial recognition time-stamped this routine 10 minutes later. See? That's May leaving the base... again."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's Agent 33."
+        },
+        {
+            "character": "Fitz",
+            "line": "What would she want with Bobbi?"
+        }
+    ]
+}

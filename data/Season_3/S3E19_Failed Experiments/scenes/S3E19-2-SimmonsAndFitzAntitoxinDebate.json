@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 2,
+    "scene_name": "SimmonsAndFitzAntitoxinDebate",
+    "description": "At the Playground, Simmons and Fitz argue about testing the new antitoxin meant to free people from Hive’s parasites. Lincoln volunteers as the test subject, insisting his willingness despite Simmons' concerns about the experiment's risks. Their interaction showcases their desperation and uncertainty, as well as Fitz and Simmons' deepening partnership under stress.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This is hopeless."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just hold on, Simmons. The antitoxin appears to be fighting the Hive parasites."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, but first, it would probably destroy the host's immune system, and who even knows how it will react with Inhuman DNA?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I'll admit that it's not ideal, but what other choice do we have? You didn't see Daisy. She acted like we were still best of pals, all while threatening to murder me."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, you're right. I didn't see that. I was much too busy listening to the disgusting face of Grant Ward act like my dead boyfriend."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's true. That does sound worse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right. If this was a competition, I would win. I had to shoot him three times just to shut him up."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bet that felt good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, it did, though it would have felt better had he actually died, instead of just sort of oozing."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if Hive can't be killed? What then? This antitoxin might be the best chance we have to free Daisy of his hold on her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, or it could put her into cardiac arrest or seizures."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, but, then, we find a way to test it."
+        },
+        {
+            "character": "Simmons",
+            "line": "And who's going to volunteer for that? We need an Inhuman, and those who aren't in hiding are already under Hive's sway and would kill us for trying."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'll do it. You can test it out on me."
+        }
+    ]
+}

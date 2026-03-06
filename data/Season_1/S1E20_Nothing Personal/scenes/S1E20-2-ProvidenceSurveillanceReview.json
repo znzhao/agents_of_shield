@@ -1,0 +1,158 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 2,
+    "scene_name": "ProvidenceSurveillanceReview",
+    "description": "Back at Providence base, Coulson and his fractured team anxiously review security footage to piece together the recent departures of May, Skye, and Ward. As Fitz and Simmons grapple with the chaos, Triplett and Coulson discuss whether Koenig was acting on secret orders or if there has been a traitor among them all along. The tension escalates as they note Koenig is missing, setting the stage for Fitz and Simmons to begin their own investigations.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Play it again."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's the same every time, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "As I said, all internal camera feeds were erased, but the hangar's landing assist system is separate. The camera tracks movement. So, after we left, everything's normal until this."
+        },
+        {
+            "character": "Simmons",
+            "line": "An entry log has may leaving the base a few minutes later through the front door... only her."
+        },
+        {
+            "character": "Fitz",
+            "line": "And then this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Holding hands."
+        },
+        {
+            "character": "Fitz",
+            "line": "Soon after, the plane takes off. But that is all we've got."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where are they going? And Koenig?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Koenig must have gotten onto the plane somehow."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no other way in or out."
+        },
+        {
+            "character": "Triplett",
+            "line": "The blast door and the hangar door are the only exits."
+        },
+        {
+            "character": "Coulson",
+            "line": "And both are undamaged. So nobody attacked the place, and they weren't running away. So why?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Maybe Koenig got orders."
+        },
+        {
+            "character": "Fitz",
+            "line": "From who? Not Fury. Is there anyone left to give orders? Aren't we just improvising at this point?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Still wouldn't explain why the communication lines were cut or why they left their phones or why May just... left."
+        },
+        {
+            "character": "Coulson",
+            "line": "May walked away because I told her to. I was mad, and I was mean."
+        },
+        {
+            "character": "Triplett",
+            "line": "Then we don't need her sorry ass."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Triplett",
+            "line": "With all the crap we're facing, this is not the time to pull the ripcord, bail out."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll make us some food. We have to eat."
+        },
+        {
+            "character": "Triplett",
+            "line": "Let me help."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, no, I'll get it, actually. You stay here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons. For a minute there in the field, I thought things were normal again, and then... Why do you think they left us in the dark?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. But something will turn up. We just have to stay positive."
+        },
+        {
+            "character": "Fitz",
+            "line": "For Coulson, yeah. I know. He's had a rough go of it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Between Garrett and May and seeing Audrey and... pancakes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson's upset about pancakes now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's one way to cheer everyone up a bit, don't you think? I'll see if we have any in stock."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'll fire up the griddle."
+        },
+        {
+            "character": "Fitz",
+            "line": "Night? Day."
+        },
+        {
+            "character": "Triplett",
+            "line": "Sir, you're an expert on analysis. I can see you running scenarios in your head, so what do you got?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Best case... Agent Koenig knows something we don't. He took a team, kept us in the dark for our safety."
+        },
+        {
+            "character": "Triplett",
+            "line": "Worst-case scenario?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We've had a wolf in the herd the whole time."
+        }
+    ]
+}

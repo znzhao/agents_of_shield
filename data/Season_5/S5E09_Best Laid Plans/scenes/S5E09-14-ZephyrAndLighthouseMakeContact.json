@@ -1,0 +1,51 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 14,
+    "scene_name": "ZephyrAndLighthouseMakeContact",
+    "description": "Zephyr One regains control after the gravity storm, and Daisy finally establishes radio contact with Mack and Yo-Yo at the Lighthouse. Warm greetings ensue as S.H.I.E.L.D. reunites by radio, cementing the hope that both groups have survived their ordeals and can finally work together to bring down Kasius.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Mack, Yo-Yo, do you copy? Mack, Yo-Yo, do you copy?"
+        },
+        {
+            "character": "Deke",
+            "line": "Really? It's like a family heirloom."
+        },
+        {
+            "character": "Simmons",
+            "line": "That we need in two places at once."
+        },
+        {
+            "character": "Daisy",
+            "line": "Alphonso Mackenzie, do you copy? Mack, can you hear me? Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "Tremors, thank God. You all still in one piece?"
+        },
+        {
+            "character": "Daisy",
+            "line": "More or less. It's good to hear your voice."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, we're on our way to you. Do you have Flint?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yes, we do. You got a plan?"
+        }
+    ]
+}

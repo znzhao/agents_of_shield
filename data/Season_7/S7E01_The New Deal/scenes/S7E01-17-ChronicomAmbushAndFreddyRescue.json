@@ -1,0 +1,62 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 17,
+    "scene_name": "ChronicomAmbushAndFreddyRescue",
+    "description": "The Chronicoms ambush Freddy and his contact. The woman is shot, but Daisy arrives in time to intervene, fighting off the hunters with Coulson. Deke and Mack get Freddy out to safety, while Daisy and Coulson destroy the remaining Chronicoms and escape as the real police arrive to the chaotic scene. The battered contact is taken back to Koenig's speakeasy for medical care.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "action-packed",
+    "location": "New York City (1931)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Hey!"
+        },
+        {
+            "character": "Captain Dole",
+            "line": "Quake. I've been looking forward to this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Huh. Well, sorry... this is just another fight for me."
+        },
+        {
+            "character": "Mack",
+            "line": "Where's Daisy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Dealing with the Chroni-Cops."
+        },
+        {
+            "character": "Freddy",
+            "line": "What is all this?"
+        },
+        {
+            "character": "Deke",
+            "line": "We're saving your life. Let's go."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll keep him safe. Meet back at Koenig's."
+        },
+        {
+            "character": "Freddy's contact",
+            "line": "Freddy..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll be right with you."
+        },
+        {
+            "character": "Daisy",
+            "line": "1930s baseball reference."
+        }
+    ]
+}

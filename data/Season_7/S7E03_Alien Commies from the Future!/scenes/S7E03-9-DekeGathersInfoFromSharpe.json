@@ -1,0 +1,21 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 9,
+    "scene_name": "DekeGathersInfoFromSharpe",
+    "description": "Back on Zephyr One, Deke is sent in to interrogate Sharpe, leveraging his 'white privilege' to try a different approach. He pretends to bond with Sharpe, while cleverly steering the conversation to Project Helius. Sharpe yells Communist insults but lets slip technical details: Helius doesn't currently work without a huge energy source—which Deke realizes could be supplied by a Chronicom, making Helius a bomb threatening all of S.H.I.E.L.D.'s top scientists.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "You, my friend, just lost me a bet. See, I thought you'd crack. Didn't realize who we were dealing with. Pardon the theatrics. Can't be too careful when you're testing your own."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 9,
+    "scene_name": "DaisyAndMaySearchCrashSite",
+    "description": "On Zephyr One, Daisy and May reminisce about past missions and discuss their personal connection to Coulson, as they approach the crash site. Upon arrival, Zephyr's crew reveals there's no Quinjet at the coordinates, indicating their signal has been hijacked and the real location is unknown.",
+    "roles": [
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "So you're allowed to touch Lola? Wanted to let you know we're a few minutes out from the crash site. Did he ever let you drive her?"
+        },
+        {
+            "character": "May",
+            "line": "I have this one image in my head. An early mission of ours. Maybe in Madrid? Coulson had a mustache. He gave me the keys and told me not to let anyone else know."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're gonna find them, you know."
+        },
+        {
+            "character": "May",
+            "line": "I know. I just can't shake this feeling. Something's off."
+        },
+        {
+            "character": "Daisy",
+            "line": "Off how? With the mission or between you and...? Did I miss something while I was gone?"
+        },
+        {
+            "character": "May",
+            "line": "Like what?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You know like what."
+        },
+        {
+            "character": "Davis",
+            "line": "Agent May! We've reached the crash site, but we scanned for 100 square miles and there's no Quinjet. Someone must have hijacked the transponder signal."
+        },
+        {
+            "character": "May",
+            "line": "So where the hell are they?"
+        }
+    ]
+}

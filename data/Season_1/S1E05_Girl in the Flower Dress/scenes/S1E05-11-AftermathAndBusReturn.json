@@ -1,0 +1,94 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 11,
+    "scene_name": "AftermathAndBusReturn",
+    "description": "Having neutralized the threat, the team regroups on the S.H.I.E.L.D. Bus. They debrief and reflect on the day's events, including the difficulty of saving people from themselves. Coulson gives Miles a S.H.I.E.L.D. bracelet restricting his electronic access before releasing him in Hong Kong, using his ill-gotten gains to help a victim’s family. Skye and Miles share a final farewell, both changed by their experiences. The core team processes the personal and ethical fallout in the wake of the mission, including fractured relationships and the weight of difficult choices.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You've got two choices ... take what's in this box, or we put you in a slightly bigger one."
+        },
+        {
+            "character": "Miles",
+            "line": "You want to give me a hint? What's it do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Whatever we tell it to do. I'd try to avoid any unlawful activity, and I think you'll find it hard to use electronic devices for a while. You can go now."
+        },
+        {
+            "character": "Miles",
+            "line": "Cool, but we're still in Hong Kong."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yep."
+        },
+        {
+            "character": "Miles",
+            "line": "I live in Austin, Texas."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. Oh, and Agent Kwan's family thanks you for the anonymous donation. My office."
+        },
+        {
+            "character": "Miles",
+            "line": "So, you plan to stay?"
+        },
+        {
+            "character": "Skye",
+            "line": "If they let me."
+        },
+        {
+            "character": "Miles",
+            "line": "You've changed."
+        },
+        {
+            "character": "Skye",
+            "line": "Good."
+        },
+        {
+            "character": "Miles",
+            "line": "I mean, you're not who you used to be."
+        },
+        {
+            "character": "Skye",
+            "line": "And you're not who I thought you were."
+        },
+        {
+            "character": "Miles",
+            "line": "I hope you find what you're looking for."
+        },
+        {
+            "character": "Ward",
+            "line": "Make it a double."
+        },
+        {
+            "character": "May",
+            "line": "Is there any other kind?"
+        },
+        {
+            "character": "Skye",
+            "line": "So, I'm going to Coulson's office now. I figured you might want to be there, being my S.O. and all."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm off the clock."
+        },
+        {
+            "character": "Skye",
+            "line": "Right. Okay, then."
+        }
+    ]
+}

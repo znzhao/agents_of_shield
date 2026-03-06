@@ -1,0 +1,36 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 16,
+    "scene_name": "BensonShowsDestructionFootage",
+    "description": "Back at S.H.I.E.L.D., Dr. Benson presents Mack with footage recovered from Tinker's lens, revealing catastrophic scenes of a devastated world. He surmises that Sarge's team may have destroyed their origin world. Mack and Benson realize they face a threat beyond their understanding.",
+    "roles": [
+        "marcus_benson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Benson",
+            "line": "This one's not for me. I thought you might need it after you see this. Now, I finally cracked that chip we found on the concrete guy. It's a biological hard drive. Speaking of painful memories."
+        },
+        {
+            "character": "Mack",
+            "line": "So they have advanced tech."
+        },
+        {
+            "character": "Benson",
+            "line": "Yeah, but that's not the alarming part."
+        },
+        {
+            "character": "Sarge",
+            "line": "End of the line! Let's get out while we still can!"
+        },
+        {
+            "character": "Benson",
+            "line": "Wherever these people came from, I think they destroyed it."
+        }
+    ]
+}

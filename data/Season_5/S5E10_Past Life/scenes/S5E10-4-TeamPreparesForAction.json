@@ -1,0 +1,129 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "TeamPreparesForAction",
+    "description": "The S.H.I.E.L.D. team shares personal moments as they prepare to move out and fight for humanity. Mack inspires Flint, offering him a home if he chooses to come back to Earth. The discussion shifts back to building the Monolith, with Fitz and Simmons encouraging Flint about his abilities. Coulson organizes the team to get the Inhumans to safety and confront Kasius.",
+    "roles": [
+        "alphonso_mackenzie",
+        "flint",
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "If we ever get out of here, I'm gonna tour my bike down a very scenic highway till the wheels melt off."
+        },
+        {
+            "character": "Flint",
+            "line": "Isn't that the thing that kids ride?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's a motorcycle. Imagine a... a rocket on two wheels with a place to hold on."
+        },
+        {
+            "character": "Flint",
+            "line": "Sounds crazy."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, you'd dig it. You know, Earth isn't a bad place to grow up. If you want to come, you'd always have a home with me and Yo-Yo."
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah, well, still don't know how I'm supposed to build a time machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a portal, not a time machine."
+        },
+        {
+            "character": "Simmons",
+            "line": "And you'll build it with this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's go! Go, go, go! Get the Inhumans to the trawler!"
+        },
+        {
+            "character": "Deke",
+            "line": "Guns, man! It's like cheating! They shouldn't give these to anyone that's not a really, really good person."
+        },
+        {
+            "character": "May",
+            "line": "You think there'd be a law."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy!"
+        },
+        {
+            "character": "Daisy",
+            "line": "What happened to you?"
+        },
+        {
+            "character": "Tye",
+            "line": "Kasius freed me. I feel no pain. Aah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Feel that? You okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just a wardrobe malfunction. You?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Turns out they have PCP in space."
+        },
+        {
+            "character": "Deke",
+            "line": "I heard you were dead. You look good for dead. I mean, I... You don't look great, but you... I mean, you've been through something, but..."
+        },
+        {
+            "character": "Tess",
+            "line": "It's good to see you, too, Deke."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been where you are right now. Something like this changes you."
+        },
+        {
+            "character": "Tess",
+            "line": "Yeah? I keep questioning what happened, what's real."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's real, and it's worth the cost."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. This trawler's almost ready. We should get to the rendezvous."
+        },
+        {
+            "character": "May",
+            "line": "You okay flying them up to the human levels?"
+        },
+        {
+            "character": "Tess",
+            "line": "I've been watching enough to manage on my own. I'll be back for Flint, anyone else coming up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Now get out of here."
+        },
+        {
+            "character": "Tess",
+            "line": "You were right. We can fight back."
+        }
+    ]
+}

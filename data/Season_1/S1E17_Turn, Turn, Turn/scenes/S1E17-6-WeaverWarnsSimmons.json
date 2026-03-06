@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 6,
+    "scene_name": "WeaverWarnsSimmons",
+    "description": "Simmons manages to contact Agent Weaver at the S.H.I.E.L.D. Academy, who warns her about the Hydra coup sweeping through S.H.I.E.L.D. Triplett and Simmons barricade themselves in a lab, trusting each other under suspicion. The warning not to trust anyone leaves them rattled, underscoring the paranoia and danger of the moment.",
+    "roles": [
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "intense",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You're positive this line is secure?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah, but be quick. Nothing looks more guilty than sneaking around."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I sent her a request. She must not have... Agent Weaver, thank you for joining me. I'd been hop..."
+        },
+        {
+            "character": "Weaver",
+            "line": "Jemma. Thank god you're still alive."
+        },
+        {
+            "character": "Simmons",
+            "line": "What? What's wrong?"
+        },
+        {
+            "character": "Weaver",
+            "line": "The Hub still secure? Are you with your team? Get somewhere safe and lock the door."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Have your commander report that the academy is under sieze. We don't know how long Hydra's been inside S.H.I.E.L.D. They are taking control!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Hydra? What? Where?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Everywhere! Among us! If you survive, you know where to find me. Jemma, don't trust anyone!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Triplett",
+            "line": "What the lady said to do, locking the door."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let me out."
+        },
+        {
+            "character": "Triplett",
+            "line": "Go ahead. This door won't hold if they come looking, but they won't come around this way for a little while. I'm staying."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, how do I... know I can trust you?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Because I'm trustworthy. You're the one who works for the zombie robot back from the dead. Take it. If you try to kill me with it, I'll know I can't trust you. Now fire that thing back up. Let's see if we can get our friends on the line. Can't wait to tell them the good news."
+        }
+    ]
+}

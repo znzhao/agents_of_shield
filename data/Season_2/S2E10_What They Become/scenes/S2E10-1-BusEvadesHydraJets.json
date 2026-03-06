@@ -1,0 +1,97 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "BusEvadesHydraJets",
+    "description": "On the S.H.I.E.L.D. Bus, May, Triplett, Hunter, and the Koenigs navigate an attack by Hydra jets. May expertly uses decoys and cloaking to evade the missiles and redirects the team to San Juan. May then communicates with Coulson, informing him of the situation with Skye and Raina. The team regroups and prepares for the next phase of their mission.",
+    "roles": [
+        "melinda_may",
+        "antoine_triplett",
+        "lance_hunter"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Trip, find some cloud cover."
+        },
+        {
+            "character": "Triplett",
+            "line": "Roger that."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "You think they're coming back? Well, should we cloak?"
+        },
+        {
+            "character": "May",
+            "line": "Not yet."
+        },
+        {
+            "character": "Triplett",
+            "line": "Are you seeing this?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Should we cloak?"
+        },
+        {
+            "character": "May",
+            "line": "Not yet!"
+        },
+        {
+            "character": "Hunter",
+            "line": "I can man the weapons-control pod."
+        },
+        {
+            "character": "May",
+            "line": "Just grab a seat, and lock in. It's gonna get bumpy."
+        },
+        {
+            "character": "Triplett",
+            "line": "Only cloud cover is about 20,000 feet below us."
+        },
+        {
+            "character": "May",
+            "line": "We have about a minute before Hydra opens fire."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "No. Go. Move over. Go!"
+        },
+        {
+            "character": "Triplett",
+            "line": "Okay. You done this before?"
+        },
+        {
+            "character": "May",
+            "line": "Not exactly."
+        },
+        {
+            "character": "Triplett",
+            "line": "19,000. 18,000. 17,000. 16,000. They've locked on us. Weapons are hot. Do you want me to cloak?"
+        },
+        {
+            "character": "May",
+            "line": "Not yet. Now!"
+        },
+        {
+            "character": "Triplett",
+            "line": "Aah!"
+        },
+        {
+            "character": "Triplett",
+            "line": "Whew! Ha ha! The only word for that kind of flying is “fancy.”"
+        },
+        {
+            "character": "May",
+            "line": "Redirect us to San Juan. I'm gonna have to let Coulson know that Hydra has Skye."
+        },
+        {
+            "character": "Triplett",
+            "line": "Copy that."
+        }
+    ]
+}

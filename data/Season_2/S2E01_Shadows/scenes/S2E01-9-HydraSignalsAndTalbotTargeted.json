@@ -1,0 +1,92 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 9,
+    "scene_name": "HydraSignalsAndTalbotTargeted",
+    "description": "Coulson, May, Koenig, Skye, and Triplett detect multiple Hydra signals and learn that General Glenn Talbot is Hydra’s next likely target. As Talbot interacts with his family, the S.H.I.E.L.D. team mobilizes to intervene, feeling the weight of being outnumbered by Hydra’s hidden agents.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "antoine_triplett",
+        "skye",
+        "lance_hunter",
+        "glenn_talbot"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You called it. Talbot hasn't crushed Hydra. Just sent them slithering back to the shadows."
+        },
+        {
+            "character": "Coulson",
+            "line": "I hate being right."
+        },
+        {
+            "character": "Talbot",
+            "line": "The Navy? He said that? You must be kidding me."
+        },
+        {
+            "character": "Carla",
+            "line": "He said he likes boats."
+        },
+        {
+            "character": "Talbot",
+            "line": "He likes messing with his old man is what it is. Don't go far."
+        },
+        {
+            "character": "Triplett",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Talbot",
+            "line": "The Navy."
+        },
+        {
+            "character": "Carla",
+            "line": "Yep."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll tell you what... I'll have something to say about that."
+        },
+        {
+            "character": "Carla",
+            "line": "Sweetheart, he's 11. I'm sure you'll wear him down soon enough. Glenn."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah? Your phone's ringing. That's not my... Take George. Get to the car now."
+        },
+        {
+            "character": "Carla",
+            "line": "What?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Now!"
+        },
+        {
+            "character": "Carla",
+            "line": ". All right. Who is this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "General Talbot, you're in danger. We're here to ensure your safety. Please listen carefully."
+        },
+        {
+            "character": "Talbot",
+            "line": "Agent Coulson, is this you? Show yourself so we can talk about it."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no time. We're here to protect you. Listen to me."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, you listen to me. I have my own protection and a cell for you at Gitmo.  This is Talbot. I need reinforcements at my location now."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 15,
+    "scene_name": "TeamReflectsAndOffersSkyeAPlace",
+    "description": "In the aftermath, back on the S.H.I.E.L.D. Bus, the team reviews what happened and considers the next steps regarding Centipede. Coulson officially welcomes Skye, inviting her to join the team and hinting at the adventure ahead. Ward brings news of a mysterious '0-8-4' case, teasing further missions as Skye debates her future with the team.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Subject is in stable condition. All clear at Union Station."
+        },
+        {
+            "character": "Skye",
+            "line": "I told him his father was coming home."
+        },
+        {
+            "character": "Coulson",
+            "line": "He will. We have some experience with this."
+        },
+        {
+            "character": "Skye",
+            "line": "He almost blew. We almost died."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have some experience with that, too."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't have it all mapped out."
+        },
+        {
+            "character": "Coulson",
+            "line": "True. We didn't cut off the head of the Centipede. Whoever sponsored that little experiment is still out there, among other things."
+        },
+        {
+            "character": "Skye",
+            "line": "It's a brave new world. And a really old car."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lola can keep up. What about you? Have you thought about the offer?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hitching a ride on the crazy plane? I'm not exactly a team player."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not exactly a team. But we're in a position to do some good. You'd be a great help. And you'd be front row center at the strangest show on earth, Which is, after all, what you wanted."
+        },
+        {
+            "character": "Skye",
+            "line": "I was able to hack S.H.I.E.L.D. from my van. You're gonna show me something new?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sir, we've got an 0-8-4."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is that confirmed?"
+        },
+        {
+            "character": "Ward",
+            "line": "They want us to go in and confirm it."
+        },
+        {
+            "character": "Skye",
+            "line": "What's an 0-8-4?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You've got exactly 10 minutes to decide if you really want to know."
+        },
+        {
+            "character": "Skye",
+            "line": "There's no way we can make it to the airfield in... 10 minutes."
+        },
+        {
+            "character": "Coulson",
+            "line": "The tide is rising."
+        }
+    ]
+}

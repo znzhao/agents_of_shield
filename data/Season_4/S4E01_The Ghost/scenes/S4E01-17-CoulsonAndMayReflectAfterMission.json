@@ -1,0 +1,48 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 17,
+    "scene_name": "CoulsonAndMayReflectAfterMission",
+    "description": "After the chaotic events, Coulson and May debrief at the Playground. They discuss the repercussions of their unsanctioned mission, recent losses, and the ongoing search for Daisy. May visibly struggles, though she insists she’s fine, hinting at the lingering effects of her ghostly encounter. The scene ends on a somber note as the agents brace themselves for what challenges tomorrow may bring.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Spent a lot of time in here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Too much. My wallet's starting to get sick of it."
+        },
+        {
+            "character": "May",
+            "line": "Your little side mission didn't go unnoticed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you showed up, so, yeah."
+        },
+        {
+            "character": "May",
+            "line": "The Director will want to have words with you at H.Q. No Daisy, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. But she was tracking these guys, so maybe this is a win. I don't know. The ground team is checking for contagion, but hopefully, whatever messed with these guys' heads is no longer an issue. We're gonna analyze the box it came in. It's good... to have a moment, just us. It's been a long time since we had a moment alone. You okay?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Just a long day."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, take advantage of the down time. Who knows what tomorrow holds?"
+        }
+    ]
+}

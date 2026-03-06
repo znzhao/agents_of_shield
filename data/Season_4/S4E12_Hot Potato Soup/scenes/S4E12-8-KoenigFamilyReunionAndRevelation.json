@@ -1,0 +1,115 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 8,
+    "scene_name": "KoenigFamilyReunionAndRevelation",
+    "description": "S.H.I.E.L.D. tracks down L.T. Koenig at a comedy club and brings her and Thurston Koenig on board Zephyr One, where there's a comedic family reunion. L.T. reveals she passed the Darkhold back to Billy as part of a 'hot potato' operation. Daisy uncovers Anton Ivanov as the mysterious industrialist behind the Russian operations, while the team pieces together that the Labyrinth holds the book.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "sam_koenig",
+        "billy_koenig"
+    ],
+    "vibe": "comedic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Thurston",
+            "line": "Welcome to the inside of my mind, Sheeple. You guys watching any, uh, any good programming lately? You know why they call it “programming,” right? Because you're being programmed through little screens, big screens, little morphine drips of sequels and prequels and zombies and Kanyes, Snapchats and Grumpy Cats, all designed by the media, corporate S.H.I.E.L.D. machine, and you're asleep, binge-watching the Apocalypse! You know what Tony Stark's armor is powered by?"
+        },
+        {
+            "character": "Davis",
+            "line": "What is this? Did these guys come off an assembly line?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Drop your weapon."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stand down!"
+        },
+        {
+            "character": "Thurston",
+            "line": "Hey, hey, hey! What are you doing? You're ruining my set!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's all right. We're with S.H.I.E.L.D.."
+        },
+        {
+            "character": "Thurston",
+            "line": "No! You can't be in here! This is a Peace Palace. Hey, hey, hey. Ho, ho. S.H.I.E.L.D. storm troopers have got to go. Hey..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sam sent us. Billy's in trouble, and you could be in danger, too."
+        },
+        {
+            "character": "May",
+            "line": "And who's this one?"
+        },
+        {
+            "character": "Thurston",
+            "line": "You ICE'd me! She ICE'd me, and now I'm aboard your War Bird!"
+        },
+        {
+            "character": "Sam",
+            "line": "We brought you here for your own protection."
+        },
+        {
+            "character": "Thurston",
+            "line": "My own protec... I don't want your protection. I don't want anything to do with your Agents of Doom."
+        },
+        {
+            "character": "Thurston",
+            "line": "Yeah, that worked out great for Eric. He'd be alive if it wasn't for you!"
+        },
+        {
+            "character": "Sam",
+            "line": "Okay, okay, guys, guys, hey. We're family, okay? Okay? Eric wouldn't have wanted this. So let's bring it in for a little Koenig Krush. Here you go. Oh. Oh, God! What was that for?!"
+        },
+        {
+            "character": "Sam",
+            "line": "We were having a moment."
+        },
+        {
+            "character": "Thurston",
+            "line": "Okay. Can I go home?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry, Thurston. We can't let you leave 'til we know what's going on. These gentlemen will take you to your room. If you need anything, just let them know."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think I have a lead on Billy. Okay, so, after they left the SVR, our Russian bad boys were employed as security officers for a weapons-manufacturing firm linked to this guy, Anton Ivanov, a reclusive industrialist with interests all over the globe. Could be the source of Nadeer's financing. He's also an avid collector of military antiques, so guns, tanks, and a submarine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Bingo. Throw everything you have at it. We find him, we find Billy, maybe a way to bring down Nadeer."
+        },
+        {
+            "character": "Sam",
+            "line": "At least we know the Darkhold's safe. Right, L.T.?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "May",
+            "line": "What's the Labyrinth?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Only the Koenigs know its location. We need to get there before they get the information out of Billy."
+        }
+    ]
+}

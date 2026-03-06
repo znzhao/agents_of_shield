@@ -1,0 +1,156 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 5,
+    "scene_name": "SimmonsDevelopsDonnieTheory",
+    "description": "Simmons is pressed for answers about her research and reluctantly presents her findings on the unique properties of Donnie Gill's cells. She muses about Gill’s powers, and references the challenges of undercover work to Coulson via secure means. Coulson encourages her to develop relationships within Hydra to further their goals, emphasizing the importance of undercover work, while Simmons tries to maintain her spirits in isolation.",
+    "roles": [
+        "jemma_simmons",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Turgeon",
+            "line": "Ms. Simmons, I need everything you have on the samples you're working on."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not done. I'm testing a second set of dn..."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Right. Just whatever you have."
+        },
+        {
+            "character": "Simmons",
+            "line": "What I have is more questions than answers."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Okay, know what? I get it. You don't have time. Neither do I. The time tables have moved up, and I have been called upstairs to fill them in. No prep time, no powerpoint, just me, pants around my ankles, talking out of my butt."
+        },
+        {
+            "character": "Simmons",
+            "line": "If you want, I could accompany you, present my analysis."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Oh, no, y-you don't want to go up there. The higher you go... the scarier it is."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Well, what you can say is that the cells have an abnormal ability to create trace amounts of liquid nitrogen."
+        },
+        {
+            "character": "Turgeon",
+            "line": "That's odd. What about the DNA markers?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Normal. The anomaly appears to be environmental, not genetic. Is that..."
+        },
+        {
+            "character": "Turgeon",
+            "line": "It's just another acquisition."
+        },
+        {
+            "character": "Man",
+            "line": "I thought that was broken for good. You clearly have a gift."
+        },
+        {
+            "character": "Donnie",
+            "line": "A degree. I used to study engineering. You know, I could help out around here. Fix things in exchange for room and board. It's been a while since I've liked being somewhere."
+        },
+        {
+            "character": "Man",
+            "line": "Marrakech has a long history of giving shelter to travelers hiding from their past."
+        },
+        {
+            "character": "Donnie",
+            "line": "Why would you think I'm hiding? Who were you speaking to? Huh?"
+        },
+        {
+            "character": "Man",
+            "line": "They threatened me! They said you were dangerous and..."
+        },
+        {
+            "character": "Agent",
+            "line": "Mr. Gill. We don't want to hurt you. Stand down, agent. Holster your weapon. Mr. Gill... we just want to talk. If you would just hear me out."
+        },
+        {
+            "character": "Donnie",
+            "line": "No. I can't."
+        },
+        {
+            "character": "Donnie",
+            "line": "“Maribel del Mar.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you think I wouldn't find out? Sriracha? Beer? That's all? What kind of diet is that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I also have tea. And if my diet's such a concern, then perhaps dead drops shouldn't involve fast food."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll revisit that protocol. I picked up some groceries. We've got steak, grass-fed, fingerling potatoes, kale, organic. It's basic, but I do good basic. While I cook, you debrief."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you remember Donnie Gill?"
+        },
+        {
+            "character": "Coulson",
+            "line": "From the academy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I mean, I knew he was a gifted scientist, but you're saying he's... a gifted scientist."
+        },
+        {
+            "character": "Simmons",
+            "line": "Gill was struck by lightning while holding the device that created the storm. Perhaps the electrical surge infused his system with a freezing agent? It's just... well, it's just speculation. They're keeping me sequestered in the downstairs lab. I usually advance much more quickly, but they are intent on wasting my talents doing rudimentary biochem and molecular analysis on blind samples."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not about your intellect. Have you made friends?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, sir, you don't need to worry. I mean, it's been a tad lonely, true, but... You weren't asking out of concern of my feelings, were you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Undercover is all about the relationships you make. If you're gonna move up in Hydra, you need to make friends."
+        },
+        {
+            "character": "Simmons",
+            "line": "Be like Ward? I can't lie like he did."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't need to. Selective truths. You're very likable. Use that."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, how is everyone?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz is okay. He's hanging in there."
+        },
+        {
+            "character": "Simmons",
+            "line": "You think they're trying to recruit Donnie Gill as a scientist?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That would be the best-case scenario."
+        }
+    ]
+}

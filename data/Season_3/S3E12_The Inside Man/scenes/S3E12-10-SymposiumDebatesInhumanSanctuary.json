@@ -1,0 +1,95 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 10,
+    "scene_name": "SymposiumDebatesInhumanSanctuary",
+    "description": "At the symposium, Talbot opens the session, and delegates argue about how to treat Inhumans, debating whether to create a Russian \"sanctuary state.\" May and Morse search rooms for evidence, while suspicions about delegates shift. The ideological divisions and paranoia among the attendees quickly become apparent, and Hunter picks up on Creel leaving his assigned post. This political debate raises the stakes for S.H.I.E.L.D.'s mission and hints at deeper Hydra manipulations.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "Symposium on the Alien Contagion (Taiwan)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Have a seat, please. I trust you've all had a chance to recover, freshen up from that reception. I got to say, it's nice to finally put a series of faces to all your unpronounceable names. Uh, okay, well, on behalf of President Ellis, I'd like to thank you all for gathering here. As I'm sure you're all aware, there have been rumors, reports, and sightings of a new breed of alien living among us. Now, it's our hope that, by working together, we can come to a consensus about how to deal with them."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can start by not calling them aliens. They prefer the term “inhumans.”"
+        },
+        {
+            "character": "King",
+            "line": "What kind of a name is that? Is it meant to intimidate us, mock us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not at all. They're just trying to find their place in the world, but they're more human than anything else, and I think it's important that we see them that way."
+        },
+        {
+            "character": "May",
+            "line": "King sounds a little hostile. I'm in. Haruto Yakimura's room."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not a virus or a disease. It can't be spread. It's a genetic anomaly that affects a very, very small percentage of the population, but they're as human as we are, just... with a little something extra."
+        },
+        {
+            "character": "Yakimura",
+            "line": "Unfortunately, this something extra could destroy us all."
+        },
+        {
+            "character": "Coulson",
+            "line": "That depends on whether we make them our friends or our enemies. We should think of them as an opportunity, an opportunity for compassion."
+        },
+        {
+            "character": "Petrov",
+            "line": "I agree. Uh, these inhumans are not our enemies. In fact, should their numbers increase, my country is prepared to establish a home for them within our borders, a sanctuary state, where they could live in peace if they so choose. Build a community, teach us about themselves."
+        },
+        {
+            "character": "Morse",
+            "line": "All the inhumans in one spot? That's one-stop shopping for Malick. I'm putting my money on this guy Petrov."
+        },
+        {
+            "character": "Yakimura",
+            "line": "Whether they are human or alien is not the issue. Their powers are the issue. And let's face it, each of our nations would rather have that power on our side. This is an arms race, and sending any inhumans we may find off to Russia is like sending them our nuclear weapons."
+        },
+        {
+            "character": "Zuma",
+            "line": "They are not weapons."
+        },
+        {
+            "character": "King",
+            "line": "Weapons or not, I think this is a very naive and dangerous proposition. To put them all in one place? They could organize, rise up against us."
+        },
+        {
+            "character": "Yakimura",
+            "line": "There are hardly enough of them to be."
+        },
+        {
+            "character": "King",
+            "line": "Not yet. But who knows how many more are coming?"
+        },
+        {
+            "character": "Morse",
+            "line": "Are you listening to this, Hunter?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm listening."
+        },
+        {
+            "character": "Morse",
+            "line": "The Australian sounds paranoid."
+        },
+        {
+            "character": "Hunte",
+            "line": "I'm in her room now. Whatever she's hiding, I'll find it. Oh, bloody hell. I knew it. Creel's leaving his post. Making a run for it."
+        }
+    ]
+}

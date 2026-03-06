@@ -1,0 +1,33 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 1,
+    "scene_name": "SifArrivesOnPortugueseBeach",
+    "description": "Lady Sif, dressed in civilian clothes, wanders onto a Portuguese beach where she encounters a group of campers. Disoriented and rambling about \"Kava,\" she is unable to recall her own identity and unintentionally displays her immense strength when approached. The locals are confused and increasingly wary of her odd behavior.",
+    "roles": [],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Lady Sif",
+            "line": "Kava. I must find Kava."
+        },
+        {
+            "character": "Tiago",
+            "line": "Sorry. I don't know who that is. Do you guys?"
+        },
+        {
+            "character": "Bruno",
+            "line": "Hey. A pretty lady like you shouldn't be out here all alone. I can help you find Kava. I can help you with anything else that you need."
+        },
+        {
+            "character": "Tiago",
+            "line": "Lady! Who the hell are you?!"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I do not know."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 1,
+    "scene_name": "KoenigBrothersAttackedAtArcade",
+    "description": "Sam and Billy Koenig are attacked by Watchdogs at an arcade while quoting various pop culture lines to one another. Billy is captured by Shockley and his men, despite bravado about withstanding torture. Sam manages to evade capture and calls S.H.I.E.L.D. for help, alerting them to Billy's abduction and setting the plot in motion for the search for the Darkhold.",
+    "roles": [
+        "sam_koenig",
+        "billy_koenig"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sam",
+            "line": "These aren't the droids you're looking for."
+        },
+        {
+            "character": "Billy",
+            "line": "I've got a bad feeling about this."
+        },
+        {
+            "character": "Sam",
+            "line": "Roads? Where we're going, we don't need... roads."
+        },
+        {
+            "character": "Billy",
+            "line": "Curse my metal body! I wasn't fast enough! Help me, Obi-Wan. Ow. God. I think I'm gonna stick with the “one foot in front of the other” method of self-propulsion."
+        },
+        {
+            "character": "Sam",
+            "line": "Just relax. Keep practicing. I'll go get us another round."
+        },
+        {
+            "character": "Billy",
+            "line": "Yeah, fine."
+        },
+        {
+            "character": "Billy",
+            "line": "Who's your zombie-killing daddy now? Bam."
+        },
+        {
+            "character": "Sam",
+            "line": "Sam to Billy. Sam to Billy!"
+        },
+        {
+            "character": "Man",
+            "line": "There's nowhere to go! Surrender, and you will not be harmed! I'll give you to the count of three! 1, 2..."
+        },
+        {
+            "character": "Shockley",
+            "line": "Throw him in! Let's go!"
+        },
+        {
+            "character": "Sam",
+            "line": "Agent Coulson, this is Agent Koenig. They've got Agent Koenig. I repeat they've got Agent Koenig!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Which one?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Billy. He was abducted an hour ago."
+        },
+        {
+            "character": "Daisy",
+            "line": "Any possible motive?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He has the Darkhold. I gave it to him because he knows how to make things disappear."
+        },
+        {
+            "character": "May",
+            "line": "And now someone's made him disappear. Can't be a coincidence."
+        },
+        {
+            "character": "Coulson",
+            "line": "May's the only one who would know I gave it to Billy, so I think we know where to point the finger."
+        },
+        {
+            "character": "Daisy",
+            "line": "Radcliffe."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's been desperate to get his hands on that book, and he's had eyes and ears on this base for God knows how long. But still, kidnapping a Koenig? That's like catching moonlight."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't even find them half the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "If Radcliffe has aligned himself with Nadeer, they'd have the resources to find him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why would he join forces with Public Inhuman Hater number one? He has nothing against us."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's got to be a means to an end. He needs access and protection. Davis?"
+        },
+        {
+            "character": "Davis",
+            "line": "They picked up Agent Koenig. His Quinjet will be docking shortly."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hopefully, Sam will have some more information for us. If we can find who took Billy, we may be able to connect them back to Nadeer."
+        },
+        {
+            "character": "May",
+            "line": "And Radcliffe?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz is working on it."
+        }
+    ]
+}

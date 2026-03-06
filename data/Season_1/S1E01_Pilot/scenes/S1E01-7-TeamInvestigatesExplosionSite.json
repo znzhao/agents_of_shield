@@ -1,0 +1,161 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 7,
+    "scene_name": "TeamInvestigatesExplosionSite",
+    "description": "May, Fitz, and Simmons visit the site of the earlier explosion for evidence. They analyze the lab's remains and collect data with specialized drones. The scene reveals hints of alien material and advanced technology, leading the team to suspect something larger is at play.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This was a lab. Was this leased as a lab?"
+        },
+        {
+            "character": "May",
+            "line": "Mnh-mnh. Self-empowerment center. With a top-of-the-line motion-sensor security system."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah. So a secret lab."
+        },
+        {
+            "character": "May",
+            "line": "And a superhero. Not a coincidence. So, was this explosion sabotage? Was it meant for him? Or were they just in over their heads?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, working the problem. Ladies, if you'll just... Sorry."
+        },
+        {
+            "character": "May",
+            "line": "If you're gonna be in the field, agent Fitz, you have to get your hands dirty."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I don't. ♪ Heigh-ho, off to work you go♪"
+        },
+        {
+            "character": "Skye",
+            "line": "Centipede... it was chatter on the web And then gone. I traced the access-point MAC address to that building."
+        },
+        {
+            "character": "Ward",
+            "line": "What were you after?"
+        },
+        {
+            "character": "Skye",
+            "line": "The truth. What are you after?"
+        },
+        {
+            "character": "Ward",
+            "line": "World peace. You pseudo-anarchist hacker types love to stir things up. But you're never around for the fallout. People keep secrets for a reason, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, just because you're reasonable and... firm... doesn't mean that you're not an evil, faceless government tool bag."
+        },
+        {
+            "character": "Ward",
+            "line": "Just give us your guy's name."
+        },
+        {
+            "character": "Skye",
+            "line": "He's not my guy!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You understand he's in danger."
+        },
+        {
+            "character": "Skye",
+            "line": "Then let me go. Let me talk to him. Me, not the T-1000 here."
+        },
+        {
+            "character": "Ward",
+            "line": "You want to be alone with him. Of course. She's a groupie. All this hacking into S.H.I.E.L.D., tracking powers... she might as well be one of those sweaty cosplay girls crowding around Stark Tower."
+        },
+        {
+            "character": "Skye",
+            "line": "What?! I would... It was one time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is it the girl? She getting under your skin?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Or is it the assignment? Are you so anxious to get out of this that you'd deliberately blow an interrogation?"
+        },
+        {
+            "character": "Ward",
+            "line": "Give me a minute alone with her, you'll have your answers."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's an asset."
+        },
+        {
+            "character": "Ward",
+            "line": "She is such an a... wait... “asset”?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't know anything about her. Do you appreciate how often that happens? That never happens. We need... what she knows."
+        },
+        {
+            "character": "Simmons",
+            "line": "See, we designed each with their own capabilities, so, um, some recording the dimensions and textures of the room, and then some testing the matter density, radiation. I mean, one is basically just smelling."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa, whoa, whoa. I've got something in something."
+        },
+        {
+            "character": "Simmons",
+            "line": "Who's got it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... Bashful."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aww."
+        },
+        {
+            "character": "May",
+            "line": "Surveillance camera. Deep-fried."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, but that model has flash memory in case of brownouts. Now, I could sync that with data from the motion detectors and, with a little luck, get some images from before the blast. And by “luck,” I mean “unappreciated genius.”"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, we'll need it. Snow's reading some compounds that are... [ Whoa. My god."
+        },
+        {
+            "character": "May",
+            "line": "Explosive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not of this earth."
+        }
+    ]
+}

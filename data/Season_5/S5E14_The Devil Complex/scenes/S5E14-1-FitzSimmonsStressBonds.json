@@ -1,0 +1,167 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 1,
+    "scene_name": "FitzSimmonsStressBonds",
+    "description": "Fitz and Simmons discuss the challenges of working with Gravitonium and reminisce about cramming during their academy days. Their banter is laced with stress as Fitz admits he can't crack the problem, and Simmons tries to keep things light to support him. The arrival of Mack and Elena, with Elena testing her new prosthetic arms, adds to the sense of strain and family amidst crisis. Deke later joins, offering his help, but the mounting pressure is clear.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I want Hobnobs."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can search the stock for biscuits."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No. I want the real thing. I want proper British junk food. I want Maltesers, and I want Twiglets!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Remember when care packages were the only way you could get through cramming at the Academy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep, but those were problems we could actually solve. The Gravitonium needs to be compressed to work with this. I've no idea how to do that. I don't know how... Why'd it have to be a fear dimension coming to life? Why couldn't it be dreams or wishes?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What would your wish be?"
+        },
+        {
+            "character": "Fitz",
+            "line": "An extra day between Saturday and Sunday. You?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Speak any language. Or a honeymoon."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, uh, can you grab me the crimpers?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Now, if we had more than one wish, flying wouldn't be bad. Or a pony. Or a flying pony."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma!"
+        },
+        {
+            "character": "Mack",
+            "line": "Good. It's good, but don't push yourself."
+        },
+        {
+            "character": "Elena",
+            "line": "If I'm not pushing myself, then what's the point of this test? Crank it up. Let's see what I can do."
+        },
+        {
+            "character": "Mack",
+            "line": "Right now, you're at 10 percent feedback to your nerves. If just this level's causing you that much pain, then maybe you should... Okay. I think that's enough for today. This arm is just a prototype. Fitz and I only had so much to work with from the salvaged clangers we brought back, but we'll figure something out. In the meantime, I'll get these diagnostics to Fitz, and then, uh, maybe we could add some additional..."
+        },
+        {
+            "character": "Elena",
+            "line": "I don't need any bells and whistles, Mack. I just need to be able to punch things."
+        },
+        {
+            "character": "Mack",
+            "line": "Your arms aren't fully healed yet. What you need is time."
+        },
+        {
+            "character": "Elena",
+            "line": "My arms may not work, but my eyes do. At least let me sit in Control, keep an eye out for anomalies."
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe, but you have to allow yourself to heal. We'll handle the fighting for now. We've already got an op up and running to find the people who did this to you. We'll protect you, mi amor, even if it's from yourself. That's what family does."
+        },
+        {
+            "character": "Fitz",
+            "line": "The Gravitonium from Deke's gravity gizmo was intensely compressed. Refined in a way that I cannot duplicate with the raw element we got from the Principia."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let alone inserting it into this new device."
+        },
+        {
+            "character": "Fitz",
+            "line": "So I was hoping that... that Deke might be able to have some more insight into exactly how it works. Deke? Deke!"
+        },
+        {
+            "character": "Deke",
+            "line": "Okay. Well, I don't know much about the stuff inside. I just know that it's saved... saved my ass like a thousand times."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, well, the short amount of time that we bought ourselves is up. So, what's the plan?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I've temporarily plugged the dam, but it could burst at any minute, releasing more of these anomalies into the base."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or worse, out into the world."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you okay, by the way? That could not have been easy."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm fine. The astronaut isn't even my greatest fear. Goodness knows what else could come crawling out of there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just trust me. I can figure this out. I just... I need... I'll experiment all night if I have to."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. So, what do we do?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe I can find some of Dr. Franklin Hall's original notes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, that could give us some insight into the nature of the element."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll see what I can find on the database."
+        },
+        {
+            "character": "Deke",
+            "line": "And please be careful! Just because we keep putting ourselves in increasingly perilous situations, which is worrisome, and I just don't want anything to happen to you. Your... To your brains. ‘Cause they're so smart that, if... we... we need those to survive."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thanks, Deke. Come on."
+        },
+        {
+            "character": "Deke",
+            "line": "They're okay, right? Like, they're gon... Like, they're gonna be... they're gonna be fine?"
+        },
+        {
+            "character": "Daisy",
+            "line": "They'll figure it out. Have faith. Or a, you know, Xanax."
+        },
+        {
+            "character": "Deke",
+            "line": "Guess I was just super moved by their nuptials. Become very invested in them as a couple. I just want them to, you know, last for, like, a long, long time."
+        }
+    ]
+}

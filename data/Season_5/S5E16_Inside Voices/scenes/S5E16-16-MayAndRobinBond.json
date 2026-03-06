@@ -1,0 +1,48 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 16,
+    "scene_name": "MayAndRobinBond",
+    "description": "On Zephyr One, May comforts Robin and gently seeks information about Coulson. Robin ominously shares that Coulson will die, intensifying the emotional stakes and making May confront her fears for him.",
+    "roles": [
+        "melinda_may",
+        "robin_hinton"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Robin",
+            "line": "I'm glad you're here."
+        },
+        {
+            "character": "May",
+            "line": "Me, too. Robin? Is this why you had stopped drawing before? Because of what it shows? We are going to try to make sure that this future never happens, okay? And to do that, we have to find..."
+        },
+        {
+            "character": "Robin",
+            "line": "Phillip J. Coulson. He can put all the pieces together."
+        },
+        {
+            "character": "May",
+            "line": "Yes. But he's lost, and I'm lost without him."
+        },
+        {
+            "character": "Robin",
+            "line": "Daisy, too. That's why you need each other so much."
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Robin",
+            "line": "He's gonna die."
+        },
+        {
+            "character": "May",
+            "line": "You can see that? Hey. We can save him."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 5,
+    "scene_name": "KasiusDesperationAndSeerPlan",
+    "description": "Kasius, angry at his subordinates' failures, reflects on his lost glory and his inability to see the path forward. He decides to use his \"seer\"—the revived future Yo-Yo—for one final bid to sway events in his favor, setting up the next stage of his plan.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hek-Sel",
+            "line": "The ambush cost us the last of our Inhumans. But there's nowhere to go. They will be caught. Trust me."
+        },
+        {
+            "character": "Kasius",
+            "line": "“Trust,” he says, over and again. Tye, the doctor, my royal guards, failures, all. - Even you, if I'm being honest."
+        },
+        {
+            "character": "Hek-Sel",
+            "line": "Sir. Sir, we need a plan."
+        },
+        {
+            "character": "Kasius",
+            "line": "Silence! Can't you see we're discussing one? I, too, have failed. Lost Inhumans. Lost you. The glory we sought evades us. But if I pledge myself, I could still give my father everything he desired, help elevate the Kasius family name. I know there's a path back to glory. A path back to you. My seer's knowledge has run dry, that, or she has misled us. Either way, it's time I used her to send one last message of my own."
+        }
+    ]
+}

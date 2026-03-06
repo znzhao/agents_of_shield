@@ -1,0 +1,73 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 13,
+    "scene_name": "AftermathAtTheHub",
+    "description": "As S.H.I.E.L.D.'s downfall becomes clear, Hand and Coulson discuss the global fallout and the new Hydra threat. The defeat of the Helicarriers is referenced. Hand prepares to transfer Garrett to the Fridge, with Ward requesting permission to personally escort his former mentor to his cell. Tensions are high as the team processes betrayal and loss, and Coulson acknowledges the need to trust only each other moving forward.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "victoria_hand"
+    ],
+    "vibe": "melancholic",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hand",
+            "line": "We heard... everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who is? How deep does it go?"
+        },
+        {
+            "character": "Hand",
+            "line": "Captain America has defeated the helicarriers at the Triskelion. But his status is unknown."
+        },
+        {
+            "character": "Coulson",
+            "line": "And S.H.I.E.L.D. has fallen."
+        },
+        {
+            "character": "Hand",
+            "line": "Hydra factions have taken control of our East African headquarters and the Treehouse. And those are just the ones we know of."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's gonna be a scramble, a power grab."
+        },
+        {
+            "character": "Hand",
+            "line": "I'll head to the fridge. At least that facility is secure."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't need to remind you how imperative it is that it stay that way."
+        },
+        {
+            "character": "Hand",
+            "line": "And I'll find Agent Garrett the smallest, darkest cell in the icebox."
+        },
+        {
+            "character": "Ward",
+            "line": "I'd like to turn the key on that cell myself... if you don't mind, sir. He was my S.O. I feel I... I should have known. It was my duty to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one knew. I didn't know. That's how he beat us... by being a friend."
+        },
+        {
+            "character": "Ward",
+            "line": "I spent years with that bastard. Looked up to him. I want to see him suffer."
+        },
+        {
+            "character": "Hand",
+            "line": "Don't mind the company, and I can always use a man of your skills. Pick up the pieces here at the Hub if you can, and, uh... Only communicate using one of these. You and I may be the highest-ranking S.H.I.E.L.D. agents who aren't Hydra or dead... not that that means anything now. All we have is each other. So stay in touch, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "I guess you can... call me Phil."
+        }
+    ]
+}

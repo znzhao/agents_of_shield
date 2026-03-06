@@ -1,0 +1,28 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "ian_quinn"
+    ],
+    "aliases": [
+        "Agent Coulson",
+        "May",
+        "Agent Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Ian Quinn"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Rising Tide (hacktivist group)"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "The Fridge (S.H.I.E.L.D. high-security prison)"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 14,
+    "scene_name": "TeamRegroupsAndTruthRevealed",
+    "description": "The S.H.I.E.L.D. team reunites at the Playground. Using the information Bobbi, Hunter, and FitzSimmons have uncovered, the group realizes that the organization behind Will’s original mission was Hydra, and that Malick coordinated the ATCU’s secret agenda. Rosalind reveals everything she knows about Malick and his influence over ATCU, solidifying the realization of the true scope of the Hydra threat.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "lincoln"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "He recruited me in '01. I met him when his company was consulting on a program at..."
+        },
+        {
+            "character": "Simmons",
+            "line": "At NASA."
+        },
+        {
+            "character": "Price",
+            "line": "Yes, how did you..."
+        },
+        {
+            "character": "Malick",
+            "line": "Thousands of years ago, an Inhuman was born on this planet that was destined to rule it, so powerful, so fearsome that others were consumed with dread, and so they banished it from the Earth, sent it through the portal to a distant planet. Hydra was founded with the sole purpose of engineering its return. Over generations, Hydra's taken different shapes. The entity has been given different names. But every generation has sent men through the portal, hoping to save or at least serve our leader on the other side. Now we're building an army for it to command when it returns, and you and I will rule beside it."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay. That's, uh, a lot to take in."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, it's a tall tale. I know."
+        },
+        {
+            "character": "Ward",
+            "line": "And why exactly should I believe a word of it?"
+        },
+        {
+            "character": "Malick",
+            "line": "Because we're closer than ever to the final chapter. We're gonna write it ourselves. But you don't have to believe me. I know you want revenge, to cut the head off of S.H.I.E.L.D., to watch it writhe. I'll help you do that."
+        },
+        {
+            "character": "Ward",
+            "line": "And in return?"
+        },
+        {
+            "character": "Malick",
+            "line": "You'll help me learn how S.H.I.E.L.D. was able to achieve something with the portal that Hydra, in thousands of years, has never been able to accomplish."
+        },
+        {
+            "character": "Ward",
+            "line": "And what is that?"
+        },
+        {
+            "character": "Malick",
+            "line": "They brought someone back."
+        }
+    ]
+}

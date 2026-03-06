@@ -1,0 +1,124 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 4,
+    "scene_name": "CoulsonMayDebriefAndHydraThreat",
+    "description": "Coulson and May discuss recruitment struggles and the looming threat from Hydra. May updates Coulson on the failed tech deal and the assassin's possible origins. Coulson realizes the item in question is the first 0-8-4 and instructs Koenig to cancel his flights, deciding the threat requires their full attention.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Sorry. That's all I can give you. Try to move up with your head down. And, hey, only use the dead drop from now on. There aren't enough pay phones left in this country. Hi."
+        },
+        {
+            "character": "May",
+            "line": "You're the man in charge, but I'm in charge of you, remember? I had two rules."
+        },
+        {
+            "character": "Coulson",
+            "line": "Avoid field operations..."
+        },
+        {
+            "character": "May",
+            "line": "And check in with me every few days. It's been two weeks."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I'm flying back out tonight. I have to focus on recruitment. It's starting to wear me down."
+        },
+        {
+            "character": "May",
+            "line": "The hours?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The numbers. Between the traitors, military detainees, and the sell-outs in the private sector, the people who could possibly be considered loyal to S.H.I.E.L.D. is not impressive. And they're scattered all over the damn globe."
+        },
+        {
+            "character": "May",
+            "line": "Well, you have no choice but to meet them face-to-face, get a read on them."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know, and I prefer it. But flying economy blows. Any progress on the cloaking equipment?"
+        },
+        {
+            "character": "May",
+            "line": "Like I can tell."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, we need it now, badly. Our plane's been gathering dust for months, but I still can't risk a takeoff with this guy trying to throw us on a bonfire, so flying coach it is... Though I did score an exit row on the way back from London."
+        },
+        {
+            "character": "May",
+            "line": "And what was in London?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Allies... ready to be activated, if necessary. It's a decent start, but it's gonna be slow-going without more resources."
+        },
+        {
+            "character": "May",
+            "line": "Bad news on that front. We were hoping agent Browning would be a friend. And if not, at least sell us tech. Negative on both."
+        },
+        {
+            "character": "Coulson",
+            "line": "The assassin... Hydra?"
+        },
+        {
+            "character": "May",
+            "line": "Likely. Possibly gifted. Killed Browning. He wanted the intel. Another 0-8-4, I guess."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's your assessment of Hartley's people?"
+        },
+        {
+            "character": "May",
+            "line": "You know what I think. They're mercenaries, here for the money."
+        },
+        {
+            "character": "Coulson",
+            "line": "But what's your assessment?"
+        },
+        {
+            "character": "May",
+            "line": "They're good mercenaries."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, Hartley spent a lot of years undercover. Those are the kinds of friends you make. If she trusts them..."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.S.R. I just read about this."
+        },
+        {
+            "character": "May",
+            "line": "It's not in any of the history books."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. It's in Fury's toolbox. Koenig, cancel my flights."
+        },
+        {
+            "character": "May",
+            "line": "What did it say about this? An 0-8-4 could be anything... that much we've learned."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not just an 0-8-4. It's the first. And all Fury knew about was the trail of bodies that follows it. Talbot's saying he's beaten both sides, but we're just hiding underground. If Hydra gets their hands on this, they may not have to."
+        }
+    ]
+}

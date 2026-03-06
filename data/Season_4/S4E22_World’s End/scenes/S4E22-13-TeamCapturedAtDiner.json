@@ -1,0 +1,45 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 13,
+    "scene_name": "TeamCapturedAtDiner",
+    "description": "The team gathers at a diner, enjoying a rare calm moment and reflecting on being together again, even as uncertainty looms. Their peace is shattered when soldiers arrive and deploy a freezing device, capturing them as the lights go out. The scene closes with the team's fate uncertain, ending on a suspenseful note.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "Anybody have room for some pie? Okay, so we have apple, strawberry, rhubarb, and chocolate banana cream."
+        },
+        {
+            "character": "May",
+            "line": "Here we go."
+        },
+        {
+            "character": "Enoch",
+            "line": "Phillip J. Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yep, that's me. You got us. Nice job. And hey, congrats on the whole power-outage thing. It was very ominous."
+        },
+        {
+            "character": "Enoch",
+            "line": "the window closes in less than two minutes. Take them."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, Phil, enough sight-seeing. Get back to work."
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 10,
+    "scene_name": "CoulsonSifMayConfrontVinTakInChaves",
+    "description": "At the Chaves site, Coulson, Sif, and the team intercept Vin-Tak as he is leaving a cave with a large crate. After a brief standoff, they successfully detain him and return to the plane, setting up a tense interrogation and the chance to restore Sif’s memory.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Stay right there. Put your hands up."
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "You will not stop me."
+        },
+        {
+            "character": "Hunter",
+            "line": "Want to bet?"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "I am here to help."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Is that why you attacked me, Kree?"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "You were the one who attacked. I had to take your memory to keep you from tracking me. How did you track me?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "You do not ask the questions, Kree. You do not talk."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually... we need him to talk."
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "Look, I-I can prove that... that I'm not a threat and that I'm here to help. Bring me my truncheon."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "How very Kree. He needs a weapon to make a point."
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "My truncheon can restore her memory. Would that not be a-a gesture of my noble intentions?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll consider it once we know that thing does what you say it does. Do you have a name?"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "Vin-tak. And I will earn your trust."
+        },
+        {
+            "character": "Hunter",
+            "line": "Simmons left you with truncheon duty? Funny word... “truncheon.”"
+        },
+        {
+            "character": "Morse",
+            "line": "She wanted to take more precautions before investigating it, but I figured, hell, there's certainly more to it than meets the eye."
+        },
+        {
+            "character": "Hunter",
+            "line": "Been saying the same about you for years."
+        },
+        {
+            "character": "Morse",
+            "line": "Supposedly, the Kree used this to wipe Lady Sif's memory. There's a dial on the bottom, but none of our equipment can detect any electrical or spectrographic signals."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is that your fancy way of saying you don't know how to turn it on?"
+        },
+        {
+            "character": "Morse",
+            "line": "Or if it can."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, I know something else we could try turning on. Hey, careful with that. You don't want to erase my hard drive, do you?"
+        },
+        {
+            "character": "Morse",
+            "line": "Like I said, it doesn't seem to be working."
+        },
+        {
+            "character": "Hunter",
+            "line": "All right, then... well, maybe I can help you with it. The sooner we get it done, the sooner we..."
+        },
+        {
+            "character": "Morse",
+            "line": "How are you gonna help me? Can I just get a little space, please?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Ah. There she is."
+        },
+        {
+            "character": "Morse",
+            "line": "I need time figuring this out."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, it seems like you already have."
+        },
+        {
+            "character": "Morse",
+            "line": "Not at all. I just think that we... should slow things down a little bit."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, okay, I get it. Just a bit of fun, yeah? Though, usually, things get a little more heated before you turn frosty. Okay, sweetheart. Consider it slowed. Don't die out there, yeah?"
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, Hunter."
+        },
+        {
+            "character": "Morse",
+            "line": "It's possible that only he can operate it. We've seen other alien materials react to biology or DNA."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't remind me."
+        },
+        {
+            "character": "Skye",
+            "line": "Or me."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've all been there, done that. Fitz and Simmons will examine the case. If this guy's telling the truth, we might finally get the answers we've been searching for."
+        }
+    ]
+}

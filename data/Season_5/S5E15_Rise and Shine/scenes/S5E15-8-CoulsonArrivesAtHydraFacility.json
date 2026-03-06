@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 8,
+    "scene_name": "CoulsonArrivesAtHydraFacility",
+    "description": "Coulson finds himself at the Hydra facility and spars verbally with Hale about Ruby and Hydra’s offer. Hale invites Coulson to witness her project, hinting at an opportunity for cooperation but demonstrating the subtle threat of her resources and power. The atmospheres of suspicion and unease underpin this key transition.",
+    "roles": [
+        "phil_coulson",
+        "hale",
+        "ruby"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hello? Is this supposed to keep me off balance or something? Having me stumble out to an Econo Lodge continental breakfast? I give this ploy a C-minus. Hey, wait a minute... “Oops! All Berries.” Okay, C-plus. By the way, when Hale's done playing games, I'll be in my room."
+        },
+        {
+            "character": "Coulson",
+            "line": "That girl, the member of your team I haven't met yet. Is she the one responsible for cutting my agent's arms off?"
+        },
+        {
+            "character": "Hale",
+            "line": "That's my daughter, Ruby."
+        },
+        {
+            "character": "Coulson",
+            "line": "Seems like a major strike against home schooling. She's not exactly helping your sales pitch on the merits of teaming up with HYDRA."
+        },
+        {
+            "character": "Hale",
+            "line": "You're right. Why don't you let me show you what I'm working on?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bad idea."
+        },
+        {
+            "character": "Hale",
+            "line": "You don't even know what it does."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't need to. It's got that weird alien writing on the side."
+        },
+        {
+            "character": "Hale",
+            "line": "Longitude, latitude and altitude. You need to elevate your vantage point. Would you grab that handle please?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm good. I've already been to space. Pretty recently, actually."
+        }
+    ]
+}

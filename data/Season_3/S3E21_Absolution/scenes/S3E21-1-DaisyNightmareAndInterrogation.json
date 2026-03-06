@@ -1,0 +1,81 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 1,
+    "scene_name": "DaisyNightmareAndInterrogation",
+    "description": "Daisy awakes from a haunting nightmare where she and Coulson are the last survivors on a devastated Earth at Hive's hand. Simmons enters Daisy's containment unit to discuss her intel and probe for more on Hive's mysterious plan involving 'absolution.' Daisy is emotionally guarded, feeling guilt over her actions under Hive's sway, while Simmons updates her on S.H.I.E.L.D.'s next steps.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How long do you think we can survive in here? We're the last ones. You always find a way to survive, don't you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's in our blood. I knew someone was gonna go. I just didn't know everyone would. Once I connect the wires, I can hack the controls on the module and finally pilot us back to Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy. This is Earth."
+        },
+        {
+            "character": "Lincoln",
+            "line": "The kill switches to our vests, if it comes to it."
+        },
+        {
+            "character": "Mack",
+            "line": "How we holding up?"
+        },
+        {
+            "character": "May",
+            "line": "Not sure. It wasn't designed for this."
+        },
+        {
+            "character": "Daisy",
+            "line": "I've told you everything I know."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm here to provide progress updates based on the intel you gave us, nothing more."
+        },
+        {
+            "character": "Daisy",
+            "line": "And they only send you. Why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "If anything I tell you jogs any memories, any pertinent information at all, I'll ask you to divulge."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's because you're the only one I didn't hurt, personally, I mean. That's why."
+        },
+        {
+            "character": "Simmons",
+            "line": "Have you thought of any new pertinent information?"
+        },
+        {
+            "character": "Daisy",
+            "line": "As I said, Hive's followers tell him everything, but he rarely returns the favor. I'm sorry that's not enough to act on."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, we are acting on a new lead. We've located a U.S. missile silo in the Pacific. Seems like a good fit."
+        },
+        {
+            "character": "Daisy",
+            "line": "If that's where they plan to do it, they'll be there ahead of you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. The silo's staff went silent five hours ago."
+        }
+    ]
+}

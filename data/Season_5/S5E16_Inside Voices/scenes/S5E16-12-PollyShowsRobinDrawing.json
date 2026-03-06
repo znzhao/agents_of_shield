@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 12,
+    "scene_name": "PollyShowsRobinDrawing",
+    "description": "As Daisy and Polly discuss Robin's silence and struggles, Polly shares Robin's last drawing with Daisy, hinting at its significance. Robin suddenly emerges and warmly greets May as 'Mom,' reaffirming her connection to the team and sparking hope for finding Coulson.",
+    "roles": [
+        "skye",
+        "robin_hinton",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "She still won't talk with me."
+        },
+        {
+            "character": "Polly",
+            "line": "I thought I'd have until she was 13 before she completely tuned me out. I'm sorry we're not able to help."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please, do not apologize. This... This cannot be easy for you."
+        },
+        {
+            "character": "Polly",
+            "line": "She can see the future, and I don't even have the power to know what she's feeling. At least when she would draw, I'd have a window into her world."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you remember what her last drawing was?"
+        },
+        {
+            "character": "Polly",
+            "line": "I have it. Do you know what it means?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Robin!"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not sure."
+        },
+        {
+            "character": "Robin",
+            "line": "Mom? Mommy. I missed you. I told you Flint would get you back."
+        },
+        {
+            "character": "May",
+            "line": "You did. You were right."
+        }
+    ]
+}

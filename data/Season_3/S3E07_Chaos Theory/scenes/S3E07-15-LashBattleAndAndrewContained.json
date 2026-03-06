@@ -1,0 +1,37 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "LashBattleAndAndrewContained",
+    "description": "Lash runs rampant in the building, fighting Lincoln, Mack, and Daisy, injuring several ATCU agents. Rosalind narrowly survives due to Daisy’s powers. As fights break out, May confronts Lash, pleading for Andrew to resurface. In a dire moment, May turns on Andrew and sends him flying into the containment unit, effectively capturing him. The outcome is uncertain as May reveals she didn't know if Lash would survive containment.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "skye",
+        "lincoln",
+        "andrew_garner",
+        "gideon_malick"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Go on. Might as well. I've thought about my death enough times, the different ways that I could go. I just never thought it'd be you. I never knew why you married me. I was never as kind and empathetic as you. That's why it was so easy for me to walk away. Why I gave up on you. I lost something when I left you. I won't do it again. But you have to stop this."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda."
+        },
+        {
+            "character": "Coulson",
+            "line": "How'd you know that wouldn't kill him?"
+        },
+        {
+            "character": "May",
+            "line": "I didn't."
+        }
+    ]
+}

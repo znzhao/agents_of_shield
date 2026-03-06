@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 12,
+    "scene_name": "MayAndFitzHuntTheMole",
+    "description": "Back at the Triskelion, May and Fitz meet to address the aftermath of the escape. May maintains her suspicion about a Hydra mole, while Fitz coldly instructs her to eliminate the threat. Their exchange emphasizes the paranoia within Hydra’s ranks and sets the stage for further confrontation.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "One agent was killed. The others lost the vehicle in Bethesda. We're canvassing the area."
+        },
+        {
+            "character": "Doctor",
+            "line": "It was one girl."
+        },
+        {
+            "character": "May",
+            "line": "One girl with help, who knew our tactics. Maybe whoever helped her also made this. It's not a forgery."
+        },
+        {
+            "character": "Doctor",
+            "line": "A mole. Well, that's a serious charge."
+        },
+        {
+            "character": "May",
+            "line": "Someone is betraying us."
+        },
+        {
+            "character": "Doctor",
+            "line": "You know, my father always said you have to have trust to be betrayed. Treat this mole like a cancer."
+        },
+        {
+            "character": "May",
+            "line": "I'll cut it out myself."
+        },
+        {
+            "character": "Doctor",
+            "line": "Well, you failed before. Never forget how it felt at Cambridge. Did the Dwarfs record these people?"
+        },
+        {
+            "character": "May",
+            "line": "The footage was sent straight to the Director. By request."
+        }
+    ]
+}

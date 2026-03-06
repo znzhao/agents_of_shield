@@ -1,0 +1,170 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "SimmonsWarnsMaceAboutSerum",
+    "description": "Simmons informs Mace of the life-threatening risks of using the serum that gives him his super-strength. Fitz interrupts to introduce upgrades to Mace's combat suit, only to learn the serum use is now prohibited. Daisy and Mace discuss the relocation of Inhumans and their protection responsibilities.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "jeffrey_mace",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Oh, for the love of... What now? Oh, that's for me. Dial in that scanner. I can't have it detecting every metal clothes hanger as an LMD. Coulson's a prosthetic hand, for God sakes."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's enough for now."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not good news, I'm afraid. The serum that's been giving you your strength. It is potentially lethal."
+        },
+        {
+            "character": "Mace",
+            "line": "So you're saying it's a little risky."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm saying it's Russian roulette. You've been fortunate so far, but the next injection might cause cardiac arrest. And if it doesn't, the one after is even more likely to kill you, and so on and so on until..."
+        },
+        {
+            "character": "Mace",
+            "line": "Geez. Don't sugarcoat it, Doc. And by that, I mean, please, go ahead and sugarcoat it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry. I know General Talbot was hoping to replicate what was done to Steve Rogers, but... but you'll never be Captain America."
+        },
+        {
+            "character": "Mace",
+            "line": "But, you know, I agreed not to take the serum until you completed the medical tests. I'm even in daily physical conditioning, learning to fight."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and I hear you're doing well."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Piper had me pinned in 10 seconds this morning."
+        },
+        {
+            "character": "Simmons",
+            "line": "Tomorrow, it will be 12."
+        },
+        {
+            "character": "Mace",
+            "line": "No, you don't understand. I need my strength. We're already a man down."
+        },
+        {
+            "character": "Simmons",
+            "line": "We are all doing everything to find Agent May."
+        },
+        {
+            "character": "Mace",
+            "line": "I know. And I'm a team player. I'm willing to play any position that gets us the win. But I already went from head coach to quarterback, and now you're telling me I'm gonna be on the bench for the season?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, I have no doubt you will find your place on the footie squad."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ladies and gentlemen, straight from engineering and complete with all the modifications that you requested. Director Mace, say goodbye to your briefcase, because you now have a serum-delivery device on the belt of your suit. Just one turn, and the injection is delivered directly into the... The tests... The tests didn't go that well, did they? Okay. Well, in that case, it's also good that we added a heart monitor and a GPS, so when you do use the injection..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz. He can't. It's too dangerous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. You could... could've told me that before I did my whole big presentation."
+        },
+        {
+            "character": "Cecilio",
+            "line": "Director, we got to keep you on schedule."
+        },
+        {
+            "character": "Mace",
+            "line": "Oh, thank God."
+        },
+        {
+            "character": "Daisy",
+            "line": "If our friends in Calgary could take asset 63-D94A, that would be better. She's gonna need a cold climate. And remember, the relocation data is for S.H.I.E.L.D.'s eyes only, so if you get any pushback, you know how to find me."
+        },
+        {
+            "character": "Agent",
+            "line": "Copy that, Agent Johnson."
+        },
+        {
+            "character": "Mace",
+            "line": "Inhuman relocation?"
+        },
+        {
+            "character": "Daisy",
+            "line": "The people who want to kill them have the Darkhold. We have to assume that every Inhuman is a potential target."
+        },
+        {
+            "character": "Mace",
+            "line": "Senator Nadeer is gonna fight us on this. The Sokovia Accords give her a right to their locations."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's why you'll make sure the U.N. backs our play, no matter how many grueling bureaucratic conference calls you have to make."
+        },
+        {
+            "character": "Mace",
+            "line": "Phil, how's the fishing expedition?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Turns out Fitz was right. Radcliffe didn't create AIDA out of thin air. He modeled her after someone, a woman named Agnes Kitsworth. Australian expat living in Spain. We've been surveilling her, but she seems uncompromised."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, let's hope she can lead us to Agent May. So how can I help?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're doing it."
+        },
+        {
+            "character": "Mace",
+            "line": "Mm, I want to be here for you, Phil. Radcliffe has the Darkhold, May is missing, Nadeer and her Russians are gunning for the Inhumans. I need to do something more."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. I felt the same way when I started working with the Avengers. It's not easy to find your place when you're working with heroes and gods."
+        },
+        {
+            "character": "Mace",
+            "line": "So what did you do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I did my best to protect the team. Turns out I had a role to play. You'll make the right decision at the right time. Or you'll get an Asgardian staff through the chest. I'd try to avoid that part."
+        },
+        {
+            "character": "Mace",
+            "line": "Goes without saying. Thanks, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a replica, you know. The original's in Majorca."
+        }
+    ]
+}

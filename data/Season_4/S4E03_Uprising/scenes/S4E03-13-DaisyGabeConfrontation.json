@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "DaisyGabeConfrontation",
+    "description": "In the aftermath, Daisy recuperates with Gabe in Los Angeles. Gabe, suspicious and protective of Robbie, confronts Daisy about her true identity, revealing that he knows she is Quake. Though he promises to keep her secret, he warns her to stay away from Robbie, believing that his brother doesn’t need more chaos in his life.",
+    "roles": [
+        "skye",
+        "gabe_reyes"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gabe",
+            "line": "They were saying on the news earlier that the Inhumans caused the blackouts. Think that's true?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No idea. I've never met one. Just know that people don't like them ‘cause they're different."
+        },
+        {
+            "character": "Gabe",
+            "line": "I've been there. That doesn't look so great. I don't know why you're not at the E.R."
+        },
+        {
+            "character": "Daisy",
+            "line": "It won't do any good. There's no power."
+        },
+        {
+            "character": "Gabe",
+            "line": "Looks like someone's watching out for you. That excuse won't work anymore, Daisy, if that's your real name."
+        },
+        {
+            "character": "Daisy",
+            "line": "I've had a few."
+        },
+        {
+            "character": "Gabe",
+            "line": "Yeah? One of them Quake? Look, that guy who had the gun to my head went flying. How did that happen? I felt the earth rumble. Nothing there but you in a lot of pain but so afraid to go to the hospital. Hey, don't worry. Your secret's safe with me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thanks, Gabe."
+        },
+        {
+            "character": "Gabe",
+            "line": "As long as you leave and never come near my brother again. Robbie needs good people around him. And that's not you."
+        }
+    ]
+}

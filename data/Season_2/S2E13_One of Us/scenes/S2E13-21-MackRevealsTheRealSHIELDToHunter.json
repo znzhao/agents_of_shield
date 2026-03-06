@@ -1,0 +1,33 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 21,
+    "scene_name": "MackRevealsTheRealSHIELDToHunter",
+    "description": "Mack escorts Hunter from the safe house to a secret location. Hunter presses for answers, and Mack finally reveals that he and Bobbi are working for \"the real S.H.I.E.L.D.,\" a faction that has risen in the aftermath of Fury's S.H.I.E.L.D. collapse. Hunter is stunned as he realizes the scope of deception and the stakes of the internal conflict.",
+    "roles": [
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Our ride's here. Let's go."
+        },
+        {
+            "character": "Mack",
+            "line": "You were right. For a while there, it all went to hell. It was bad. But now Bobbi and I work for an organization, an outlier that came out of the wreckage from what Fury left."
+        },
+        {
+            "character": "Hunter",
+            "line": "What organization, Mack? Who the hell are you working for?"
+        },
+        {
+            "character": "Mack",
+            "line": "S.H.I.E.L.D. The real S.H.I.E.L.D."
+        }
+    ]
+}

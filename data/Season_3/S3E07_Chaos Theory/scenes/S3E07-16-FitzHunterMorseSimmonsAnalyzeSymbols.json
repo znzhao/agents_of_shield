@@ -1,0 +1,78 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 16,
+    "scene_name": "FitzHunterMorseSimmonsAnalyzeSymbols",
+    "description": "Back at the Playground, Fitz, Morse, and Hunter analyze evidence recovered from Simmons' phone and the English castle. Fitz theorizes about connections between the mysterious symbols and the group that sent Will through the portal. The team discusses the implications, reinforcing the ongoing mystery of the portal and the organization's reach.",
+    "roles": [
+        "leo_fitz",
+        "bobbi_morse",
+        "lance_hunter",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I bloody knew it."
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz, you all right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I think I've, uh... remember this?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah, from the castle chamber."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, is that the other man? Well, I'm just gonna say what we're all thinking, he has a hog face."
+        },
+        {
+            "character": "Fitz",
+            "line": "He does have a hog face. Okay. So, look at the logo of the space program he's with. And if you turn it upside down, they look similar, yeah?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Bit of a stretch, mate."
+        },
+        {
+            "character": "Morse",
+            "line": "Possible."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Well, um... what if the group who carved this symbol into the chamber door is the same group that sent Will through the portal?"
+        },
+        {
+            "character": "Morse",
+            "line": "I thought NASA sent Will through."
+        },
+        {
+            "character": "Fitz",
+            "line": "Could go beyond NASA, way beyond."
+        },
+        {
+            "character": "Hunter",
+            "line": "Please don't tell me you think some ancient order's behind all this, 'cause that's a bit mental even for you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know how it sounds, but we're dealing with a portal that leads to another planet, so..."
+        },
+        {
+            "character": "Morse",
+            "line": "Anything's possible. It's worth checking out, Fitz."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "CoulsonFitzSimmonsDaisyTrawlerEscape",
+    "description": "On the Trawler, Coulson, Fitz, Simmons, Daisy, and Deke scramble to pilot the ship. The escape is bumpy and frantic as they adjust to flying outdated tech. Despite the chaos, Fitz and Simmons reaffirm their bond and find a brief quiet moment amid the escape.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I'm never leaving your side again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, I feel the same way. That's why I asked you to marry me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I a... Mm. Doesn't matter."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know about you, but I could really use a drink right about now."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm just happy for some alone time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay! So not exactly like a flying car!"
+        },
+        {
+            "character": "Deke",
+            "line": "We are so stupid!"
+        },
+        {
+            "character": "Daisy",
+            "line": "So much for smooth sailing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang on!"
+        }
+    ]
+}

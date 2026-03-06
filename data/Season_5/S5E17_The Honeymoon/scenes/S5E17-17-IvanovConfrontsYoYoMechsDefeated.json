@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 17,
+    "scene_name": "IvanovConfrontsYoYoMechsDefeated",
+    "description": "Elena encounters Ivanov and the two battle, culminating with Elena tackling Ivanov through a window. After Ivanov is subdued, the mechs he was controlling all deactivate, indicating his central role in controlling them. This moment provides a breather for the team.",
+    "roles": [
+        "anton_ivanov",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "There you are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh! Please tell me you still believe time can't be changed."
+        },
+        {
+            "character": "Fitz",
+            "line": "You want to debate that now? Isn't... Isn't that why we're here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, Fitz, just tell me it's against the law of physics. I need that right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "The perception of time is an illusion."
+        },
+        {
+            "character": "Simmons",
+            "line": "Last mag."
+        },
+        {
+            "character": "Fitz",
+            "line": "According to Hermann Minkowski, space-time..."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, you know, I was wrong. It's not helping."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I heard what happened to you. Now you are also part machine."
+        },
+        {
+            "character": "Elena",
+            "line": "Not the part that matters."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I no longer feel pain. Unlike you. I have died dozens of times. But you, no second chances."
+        },
+        {
+            "character": "Elena",
+            "line": "Part machine."
+        },
+        {
+            "character": "Elena",
+            "line": "Who's superior now? He was controlling them."
+        }
+    ]
+}

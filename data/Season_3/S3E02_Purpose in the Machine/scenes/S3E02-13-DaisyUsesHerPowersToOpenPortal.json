@@ -1,0 +1,267 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 13,
+    "scene_name": "DaisyUsesHerPowersToOpenPortal",
+    "description": "With the machine partly operational but failing, Fitz deduces that the device was built to create specific vibrations—something Daisy can accomplish using her powers. Risking her safety, Daisy vibrates the room to the correct frequency, successfully opening the portal. Fitz, determined to save Simmons, ties himself to a cable and jumps in, while Daisy, Coulson, Mack, and Bobbi coordinate. Fitz momentarily connects with Simmons on the alien planet, but the strain on Daisy is immense.",
+    "roles": [
+        "bobbi_morse",
+        "skye",
+        "phil_coulson",
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "thrilling",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Mack... Mack, push that lever. No, the one... the one with the stone... the one... the one beside it. Push it."
+        },
+        {
+            "character": "Mack",
+            "line": "Everybody, stay clear!"
+        },
+        {
+            "character": "Morse",
+            "line": ": Fitz, it's working."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's staying open. Light! I need more light!"
+        },
+        {
+            "character": "Mack",
+            "line": "We got a problem!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I need some bloody light!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Mack",
+            "line": "The gears have locked! Bobbi!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye? Hey. Skye, are you okay? Skye?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Morse",
+            "line": "It's Daisy now, sir. You're really having a hard time with this, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it. Yeah. Daisy, hey. You all right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I'm better. That pulsing sound was killing me."
+        },
+        {
+            "character": "Coulson",
+            "line": "What pulsing sound?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you serious? It was deafening."
+        },
+        {
+            "character": "Mack",
+            "line": "Slow down. Slow down. Slow down."
+        },
+        {
+            "character": "Fitz",
+            "line": "It holds the portal open. That flare shot straight through. if we could send a hard-wired probe through, we can see the other side. We can find her."
+        },
+        {
+            "character": "Mack",
+            "line": "We'll fix the machine, Turbo..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We have to fix it."
+        },
+        {
+            "character": "Mack",
+            "line": "But you got to chill... How are we supposed to fix a machine we don't know how it works?"
+        },
+        {
+            "character": "Kebo",
+            "line": "I figured you for a mama's boy. One slap, and you spit out the info. It's been a good run, kid. Now, let's just get to the end. Come on."
+        },
+        {
+            "character": "Strucker",
+            "line": "Okay. You win. Nobody treats me like that and lives. Do you even know who the hell I am? Do you?!"
+        },
+        {
+            "character": "Ward",
+            "line": "You're Werner von Strucker. Your father was Baron Wolfgang von Strucker, one of HYDRA's greatest leaders. A powerful family name doesn't mean you deserve respect. You earn that. I wondered if you had it in you. Your old man would be proud. Come on. Brought tacos."
+        },
+        {
+            "character": "Charlie",
+            "line": "Unfinished business? Is that what you're in hiding from? You and your mother. Silence always means yes. You take after her in that way."
+        },
+        {
+            "character": "May",
+            "line": "In every way."
+        },
+        {
+            "character": "Charlie",
+            "line": "So that's what this visit is all about? Things with you and Andrew did not work out so well, so you feel damaged in some way. But there are worse things to be than your mother's daughter."
+        },
+        {
+            "character": "May",
+            "line": "I just want to have a normal life, Dad, away from S.H.I.E.L.D. I want to see if I can."
+        },
+        {
+            "character": "Charlie",
+            "line": "Normal? With a handgun in your golf bag? Trying to protect me from some unfinished business that follows you like a shadow? You remember the pain when you hit the ice, but I always remember how quickly you would get up."
+        },
+        {
+            "character": "May",
+            "line": "I was a kid. It didn't hurt as much then."
+        },
+        {
+            "character": "Charlie",
+            "line": "My daughter always got back up."
+        },
+        {
+            "character": "Ward",
+            "line": "You needed a push. I had to know you could handle the fall."
+        },
+        {
+            "character": "Strucker",
+            "line": "I should have you killed."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay. First thing, if you're gonna kill someone, don't threaten them. Just do it."
+        },
+        {
+            "character": "Strucker",
+            "line": "Oh, my father would have you..."
+        },
+        {
+            "character": "Ward",
+            "line": "Your father kept you in the dark and then died a meaningless death, leaving you to hide your face with no answers. I know what it's like to come from a complicated family. HYDRA's fractured, in pieces. We're gonna rebuild it, the right way, by force."
+        },
+        {
+            "character": "Strucker",
+            "line": "My father so rarely let me see any of his world."
+        },
+        {
+            "character": "Ward",
+            "line": "It's your world now. And when we put these pieces back together, they'll be stronger than the original."
+        },
+        {
+            "character": "Fitz",
+            "line": "It'll just rattle apart again. We have to reinforce the connections."
+        },
+        {
+            "character": "Mack",
+            "line": "Reinf... look, most of the workings are under the ground. We just can't tear the castle down. And actually, we're lucky the room is shaped this way, or the machine might have shaken it apart on top of us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. Wait. Yeah, yeah, yeah. That's the point. Quantum harmonic oscillation theory, like the professor said."
+        },
+        {
+            "character": "Morse",
+            "line": "I know that look."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a strange shape for this time period because it's made to resonate, uh, to... to... to... uh... create a-a quantized field within the stone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, you're talking, but we're not totally following."
+        },
+        {
+            "character": "Fitz",
+            "line": "The room is a speaker. The machine is an amplifier. Uh, a sub... subsonic frequency to resonate with the Monolith."
+        },
+        {
+            "character": "Mack",
+            "line": "You saying you figured out a way to fix the machine?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. I'm saying I figured out that..."
+        },
+        {
+            "character": "Daisy",
+            "line": "We don't have to. I can do it. I can open the portal myself."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, turns out we're standing in the middle of the world's largest subwoofer."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah."
+        },
+        {
+            "character": "Daisy",
+            "line": "If the point of the machine was to resonate the room at a certain frequency, I can do that."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you can replicate it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Kind of drilled into my brain."
+        },
+        {
+            "character": "Coulson",
+            "line": "And it could kill you. How long do you think you can hold it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Maybe a minute."
+        },
+        {
+            "character": "Coulson",
+            "line": "If it's too much, you pull back. I can't lose you, too."
+        },
+        {
+            "character": "Daisy",
+            "line": "I got this."
+        },
+        {
+            "character": "Morse",
+            "line": "Here we go. Camera and data sensors are hard-lined back to us through a cable. No signal loss that way. If Daisy can hold it, we'll get a visual of the other side."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what we're looking for. All right, you listen to me. You take care of yourself. We lose that probe, nobody cares."
+        },
+        {
+            "character": "Randolph",
+            "line": "Uh, I'm confused. What exactly is she planning to do here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sorry. Still tuning."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hold it open as long as you can."
+        }
+    ]
+}

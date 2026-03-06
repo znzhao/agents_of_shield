@@ -1,0 +1,37 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 16,
+    "scene_name": "DaisyVisitsCalAtClinic",
+    "description": "After undergoing the T.A.H.I.T.I. protocol, Cal begins his new life as 'Dr. Winslow' running a veterinary clinic. Daisy visits him, but he no longer recognizes her, indicating his memory has been wiped. Their brief, hopeful interaction provides closure, while Daisy thanks Coulson for giving her father a second chance.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "calvin_johnson"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Cal",
+            "line": "Oh! Hey, there, little funny face. You coming to see me today, hmm? You come inside. We'll get you a treat. Come on. Can I help you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just passing by. Nice place."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh, thanks. Well, we're just getting up and running. It's gonna be a magical place once we get totally moved in. You know, we already have adoption days every Saturday. Tell your friends. Free spaying and neutering, too. Just ask for Dr. Winslow. I'm sorry. And you are..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Daisy."
+        },
+        {
+            "character": "Cal",
+            "line": "That's a lovely name. Remember, a house is not a home without a pet!"
+        }
+    ]
+}

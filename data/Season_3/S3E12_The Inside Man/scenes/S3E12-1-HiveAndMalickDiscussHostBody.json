@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 1,
+    "scene_name": "HiveAndMalickDiscussHostBody",
+    "description": "Hive, inhabiting Grant Ward's corpse, discusses with Malick the suitability of Ward's body as a host and examines the powers of the Inhuman, Lucio, with Giyera present. Lucio attempts to use his powers but finds them ineffective against Hive. Malick and Giyera obediently serve Hive's requests. This scene establishes the inhuman leader's disturbing power and the beginning of his alliance with Malick and Giyera.",
+    "roles": [
+        "grant_ward",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "Grant Ward. I wish we could have met under different circumstances."
+        },
+        {
+            "character": "Malick",
+            "line": "He was a good soldier. He dedicated his life to HYDRA."
+        },
+        {
+            "character": "Hive",
+            "line": "Thank you for arranging that. He was strong, resilient, a perfect host."
+        },
+        {
+            "character": "Malick",
+            "line": "I made some moves this week to ensure we have all the inhumans we need when the time comes. In fact, I just acquired one you might find useful. Bring him in."
+        },
+        {
+            "character": "Malick",
+            "line": "See if you can get through to him."
+        },
+        {
+            "character": "Hive",
+            "line": "I want to see his eyes."
+        },
+        {
+            "character": "Lucio",
+            "line": "What are you?"
+        },
+        {
+            "character": "Hive",
+            "line": "What are we?"
+        }
+    ]
+}

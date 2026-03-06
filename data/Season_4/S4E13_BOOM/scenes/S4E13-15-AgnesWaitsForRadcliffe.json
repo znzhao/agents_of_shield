@@ -1,0 +1,86 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 15,
+    "scene_name": "AgnesWaitsForRadcliffe",
+    "description": "Agnes grows impatient waiting for Radcliffe but is persuaded by Mack to remain for May's sake. The team monitors her as she is contacted by Radcliffe on the phone. Radcliffe convinces Agnes to follow his instructions and meet him, promising to save her life with the Framework.",
+    "roles": [
+        "agnes_kitsworth",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "holden_radcliffe"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Agnes",
+            "line": "If he hasn't shown up by now, he's not going to. Trust me. I know him. He hates confrontation."
+        },
+        {
+            "character": "Mack",
+            "line": "We've got to give him a chance."
+        },
+        {
+            "character": "Agnes",
+            "line": "Why?"
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Don't give him a chance. Give one to Melinda May. Even though she would've stormed off 20 minutes ago."
+        },
+        {
+            "character": "Agnes",
+            "line": "I like this woman. I'll wait a little longer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Waiter",
+            "line": "For you."
+        },
+        {
+            "character": "Agnes",
+            "line": "I knew Holden was too much of a coward to show his face."
+        },
+        {
+            "character": "Coulson",
+            "line": "Answer it. We can see and hear everything. You're not alone."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Agnes, please, listen..."
+        },
+        {
+            "character": "Agnes",
+            "line": "Hello, Holden. This is not what I had in mind."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm sorry for all the precautions, but I have to be careful. There are people after me, you see. I-I-I've made some scientific breakthroughs as of late, and not everyone agrees with my methods, so..."
+        },
+        {
+            "character": "Agnes",
+            "line": "Holden, stop. I asked you to meet me because I wanted closure, but if you don't have the guts to face me, I'm done."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Agnes, none of that matters right now. I've done it. I can save you."
+        },
+        {
+            "character": "Agnes",
+            "line": "I've heard this before."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This time, it's true. I said I would save you. Let me keep my promise. Please, just follow my instructions. Get up from the table and start walking south."
+        },
+        {
+            "character": "Coulson",
+            "line": "He can see her. He's here. Agnes, do what he says. Try to keep him on the phone."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 9,
+    "scene_name": "TeamDiscoversPiperInStLouis",
+    "description": "The field team reaches the site in St. Louis and is surprised to find Piper already investigating the beacon. Piper explains her actions and how she tracked the event, giving insight into her movements since they last saw her. The group begins investigating the beacon’s operation, unaware of the hidden danger awaiting them.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "mysterious",
+    "location": "St. Louis (site of the Kree beacon)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Still not a soul."
+        },
+        {
+            "character": "Fitz",
+            "line": "Facing no opposition is usually a good thing, but this?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, it's giving me the creeps."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a firewall, an actual firewall. It's a safety protocol."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, signs of life?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. Hang on. There's someone in there, and they're alone."
+        },
+        {
+            "character": "Piper",
+            "line": "Not another step or I'll..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Piper?"
+        },
+        {
+            "character": "Piper",
+            "line": "Hey, guys. I don't know how the exact people I needed to show up just showed up, but, thank you, universe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Feeling's mutual, trust me."
+        },
+        {
+            "character": "May",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Piper",
+            "line": "Same thing as you, probably. That thing's about to fire up again. I don't know how to stop it."
+        }
+    ]
+}

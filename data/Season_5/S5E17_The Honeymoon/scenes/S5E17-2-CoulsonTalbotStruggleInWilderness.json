@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 2,
+    "scene_name": "CoulsonTalbotStruggleInWilderness",
+    "description": "Coulson urges a weakened Talbot to keep moving through the frozen wilderness. Talbot expresses guilt and shame about his actions and the people he's let down, while Coulson tries to encourage him. They share their troubles, highlighting Talbot's trauma and Coulson's determination.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "I got to take five."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, no, no. No, no, no. We could've been followed. We can't stop now. Come on. Come on."
+        },
+        {
+            "character": "Talbot",
+            "line": "What do you care? You left me alone for months, Phil. I'm sure you can manage another couple of minutes, can't you? Don't job down his throat. He's all you got."
+        },
+        {
+            "character": "Coulson",
+            "line": "For what it's worth, I'm sorry we didn't find you sooner. Now come on."
+        },
+        {
+            "character": "Talbot",
+            "line": "Just trying to hold out, Phil. Where were you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We were in the future."
+        },
+        {
+            "character": "Talbot",
+            "line": "You were in the future. What, do you guys live in some fifth-dimension freak show?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd say that's a relatively accurate description of our day-to-day life."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah, well, not mine. If we get out of here, I'm... I'm done! I'm too jumbled as it is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. You gonna let someone like Hale get the best of you? Huh?"
+        },
+        {
+            "character": "Talbot",
+            "line": "She broke me, Phil. I let down the Air Force, my country and I let down my family. I'm not gonna be able to look Carla in the eye again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, hey, hey. I promise you, no one's gonna see it that way."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah? Well, I do. It's kind of a moot point if we freeze to death out here, isn't it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why we got to keep moving."
+        }
+    ]
+}

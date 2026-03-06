@@ -1,0 +1,47 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 3,
+    "scene_name": "Agent33MaskRepairDiscussion",
+    "description": "The kidnapped doctor works on repairing Agent 33's nanomask, giving her the ability to copy faces again. Ward and Agent 33 discuss the effects and limitations of the mask, and the doctor attempts to reassure them about their new abilities. The conversation reveals the psychological struggles of Agent 33 as she contemplates her identity.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Selwyn",
+            "line": "I want you to blink twice for me. Did the facial-scan diagnostic appear?"
+        },
+        {
+            "character": "Selwyn",
+            "line": "Now close your eyes for two seconds, and the change should take effect. Hmm. That reminds me of my Berkeley days. Well, the effect would be far more convincing if you were to replicate the face of another woman. And don't forget... I stabilized your vocal processor. Admittedly, it's not quite as precise as my original nanomask. But regardless, I think you're going to find it extremely useful for any on-the-go S.H.I.E.L.D. or Hydra operations? I see you figured out how to reset the mask. Just remember the program's memory can only store up to three facial scans at a time."
+        },
+        {
+            "character": "Ward",
+            "line": "And you're sure there's no way to remove the mask?"
+        },
+        {
+            "character": "Selwyn",
+            "line": "There's nothing I can do. But if you want your old face, just turn the machine off."
+        },
+        {
+            "character": "Selwyn",
+            "line": "Please, I know this is difficult. But look at the bright side, now you can be anyone you want. Maybe you can find an old photo from before the accident. Use that for the facial scan. Let the mask do the rest."
+        },
+        {
+            "character": "Ward",
+            "line": "Not sure where I'd find one. To be honest, I haven't even seen her face."
+        },
+        {
+            "character": "Selwyn",
+            "line": "Oh. I see. Well, then I guess it's fair to say we all hide our true selves, don't we?"
+        },
+        {
+            "character": "Ward",
+            "line": "Or we just... wait for the right time to reveal the truth."
+        }
+    ]
+}

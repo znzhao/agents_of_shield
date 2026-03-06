@@ -1,0 +1,112 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 2,
+    "scene_name": "TeamDepartsZurichPreppingSkye",
+    "description": "With Skye's condition critical, Coulson orders the team to load her onto the Bus so they can take her to the facility where Coulson himself was revived. He reveals the details of his classified file on his resurrection to Fitz and Simmons, instructing them to read it despite clearance issues. Fitz and Simmons struggle with the contents, discussing the impossible nature of what was done to Coulson, as Coulson hopes they can use this knowledge to save Skye. Tension and uncertainty mount as they take off for Bethesda, defying orders to hand over Quinn.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "grant_ward",
+        "melinda_may",
+        "ian_quinn"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Trauma Center (Zurich)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "She said there was nothing more they could do for her, but there are doctors who brought me back from the dead. If they can do that, I'm betting they can save Skye."
+        },
+        {
+            "character": "Ward",
+            "line": "H.Q. radioed in. They've ordered us to hand over Quinn for interrogation and transport to the fridge. Do you want me to arrange the transfer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Quinn stays in our custody until I say otherwise."
+        },
+        {
+            "character": "Ward",
+            "line": "Yes, sir. Are you sure about this, taking her all the way to Bethesda?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's where my file says I was treated after New York."
+        },
+        {
+            "character": "Ward",
+            "line": "I understand, but what makes you think the doctors there will be able to do anything different? I know they saved you, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "They did a lot more than save me. It's time you know the truth."
+        },
+        {
+            "character": "Simmons",
+            "line": "That can't be. What you're describing... it's medically impossible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Except for the fact that I'm standing here... proof that it's not impossible. And here's more proof... my file, describing how they brought me back... the doctors, the procedures, the drugs."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir... it's against the law for us to read this. Are you sure?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't care about your clearance level. I'm ordering you to read it."
+        },
+        {
+            "character": "Simmons",
+            "line": "“Death and recovery report.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's only recently that director Fury gave me access to this. I've gone over it dozens of times. I need you to decipher the medical parts of it I didn't understand. Feel free to reach out to Dr. Streiten. He should be eager to answer any questions you may have."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, I'm sure I'll have quite a few."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, what about Tahiti?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Turns out, not so magical, just false memories implanted to cover up what was done."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir... it says here your heart was perforated, torn in half."
+        },
+        {
+            "character": "Coulson",
+            "line": "That part of it I understood. And yet, they managed to heal the damaged tissue completely. We need to understand how."
+        },
+        {
+            "character": "Fitz",
+            "line": "So we can do the same for Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what I'm counting on."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll get right on it, sir. Thank you."
+        },
+        {
+            "character": "Ward",
+            "line": "Hurt much?"
+        },
+        {
+            "character": "May",
+            "line": "I'm fine."
+        }
+    ]
+}

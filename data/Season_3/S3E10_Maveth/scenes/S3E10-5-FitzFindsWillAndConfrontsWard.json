@@ -1,0 +1,84 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 5,
+    "scene_name": "FitzFindsWillAndConfrontsWard",
+    "description": "Fitz leads Ward and the Hydra team toward Will's cave, using their need for his navigation skills as leverage. Fitz finds Will alive, but Ward threatens to kill him, only relenting when Fitz insists Will is their only chance to find the exit. Ward interrogates Will about the portal’s location, and Will joins as their guide, wary and clearly changed since Simmons' departure from the planet. The scene is tense as alliances are forced by necessity.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Hey, here's a great idea. Why don't we go to an alien world and summon a hell beast? Yeah, that's a brilliant idea. What could possibly go wrong with that? How are you supposed to find it?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not your concern."
+        },
+        {
+            "character": "Fitz",
+            "line": "You just whisper its name three times into a mirror? Or do you put a saucer of milk outside the door at night?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not milk."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah, yes, you're right. Simmons said it can smell blood. That's not disturbing at all. Who wouldn't want to be on that team? Uh... I think that's the ridge we're looking for. You know, uh, Simmons also said it can drive people crazy."
+        },
+        {
+            "character": "Ward",
+            "line": "You're doing a pretty good job of that yourself. What's that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That's an interesting question. I thought I might check."
+        },
+        {
+            "character": "Ward",
+            "line": "Get away from there!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hello?!"
+        },
+        {
+            "character": "Ward",
+            "line": "Circle it around to make sure there's no exit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Will?! Hey. Hey, Will."
+        },
+        {
+            "character": "Will",
+            "line": "You're Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "I warned you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait, wait!"
+        },
+        {
+            "character": "Ward",
+            "line": "Who the hell is this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "This is Will, okay? He's gonna be our guide."
+        }
+    ]
+}

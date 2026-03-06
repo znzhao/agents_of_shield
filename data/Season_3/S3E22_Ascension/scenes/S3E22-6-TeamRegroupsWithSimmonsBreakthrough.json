@@ -1,0 +1,147 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 6,
+    "scene_name": "TeamRegroupsWithSimmonsBreakthrough",
+    "description": "Back all together in Coulson's office at the Playground, the team benefits from Simmons' heat trick to safely regroup. They check on Elena and discuss evacuating the wounded with an automated Quinjet. Coulson asserts his authority, planning to intercept the Zephyr and stop Hive himself, insisting that the others remain to ensure the team's safety. The others express reluctance but ultimately defer to their director, realizing the stakes are higher than ever.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "lincoln"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I sealed off the stairs. Not sure how long it'll hold, but, hey."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Thank God."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank God you missed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is she okay?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "She's stable for now."
+        },
+        {
+            "character": "Mack",
+            "line": "Have you seen the others?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I checked the containment room. By the looks of it, Fitz and May climbed up into the Zephyr."
+        },
+        {
+            "character": "Mack",
+            "line": "Then there's hope they'll stop them."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or be blown to bits. Did you notice the heat? I increased the temperature because..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We figured it out, yeah."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, I did. Picked up on it straight away. We make a pretty good team here at the Strategic Homeland... What comes after Homeland?"
+        },
+        {
+            "character": "Elena",
+            "line": "Just say S.H.I.E.L.D."
+        },
+        {
+            "character": "Mack",
+            "line": "Are you all right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What happened?"
+        },
+        {
+            "character": "Elena",
+            "line": "Mack lit me on fire."
+        },
+        {
+            "character": "Mack",
+            "line": "It's a long story."
+        },
+        {
+            "character": "Lincoln",
+            "line": "She needs a hospital."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's no way out. Took me a while to open the lock-down window, but it's a 40-foot drop."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What about the underground tunnels?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sealed shut."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have a way."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Hey. Who came up with..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz was inspired by your work, put a few new tricks up my sleeve."
+        },
+        {
+            "character": "Simmons",
+            "line": "Remote Quinjet?"
+        },
+        {
+            "character": "Mack",
+            "line": "Hell yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's on its way, but let's be clear. I'll get you to medical, to safety, we'll contact Talbot, have him authorize military force to take back our base, but then I take the Quinjet to intercept the Zephyr on my own."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, I have to get to Fitz."
+        },
+        {
+            "character": "Mack",
+            "line": "You can't expect us to just..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not up for discussion. You're agents, I'm the director. I brought Hive to this planet. It's on me to stop it."
+        },
+        {
+            "character": "Mack",
+            "line": "Man, if May were here..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She'd give me a very dirty look, yeah. I'll get them out, get them home, but I'm not gonna lose anyone else."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I have to say, I really enjoy the way you do things."
+        }
+    ]
+}

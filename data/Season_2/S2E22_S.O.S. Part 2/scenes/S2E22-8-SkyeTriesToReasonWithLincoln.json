@@ -1,0 +1,141 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 8,
+    "scene_name": "SkyeTriesToReasonWithLincoln",
+    "description": "Skye is confronted by Lincoln as she tries to sabotage the beacon on the Iliad. She attempts to convince him of Jiaying’s manipulations and recent murders, arguing that Jiaying staged everything to push the Inhumans to war. Lincoln is torn, uncertain whether to trust Skye or his leader, until Mack intervenes. The scene highlights Skye's desperation and the ideological split among the Inhumans.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "How did you get out?"
+        },
+        {
+            "character": "Skye",
+            "line": "Lincoln. I-I can explain."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Don't bother."
+        },
+        {
+            "character": "Skye",
+            "line": "You've got this wrong. Very wrong. Listen, please."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I just found you trying to reach out to your S.H.I.E.L.D. friends. You planning the next assault?"
+        },
+        {
+            "character": "Skye",
+            "line": "That attack didn't happen, Lincoln. Jiaying staged the whole thing. She murdered Gonzales, then shot herself to frame S.H.I.E.L.D. so we'd follow her to war."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Do you even hear how crazy that sounds? Shot herself?"
+        },
+        {
+            "character": "Skye",
+            "line": "She's already healed, hasn't she? I'd tell you to ask Raina, she can see the future, but she's not here, is she? She's not here because she had a vision of what happened, what's going to happen. And Jiaying couldn't risk her talking, so she cut her throat."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Why are you doing this, trying to turn us against her?"
+        },
+        {
+            "character": "Skye",
+            "line": "You saw what she did with those crystals, killed unarmed agents. Okay, think. Why would she want the rest of S.H.I.E.L.D. to come here? It's... It's not to hug it out. She wants to execute them. We can stop this. Please, just tell me where she took the crystals."
+        },
+        {
+            "character": "Lincoln",
+            "line": "The fan room... where the ship's air circu..."
+        },
+        {
+            "character": "Mack",
+            "line": "Found a saw."
+        },
+        {
+            "character": "Skye",
+            "line": "I was getting through to him."
+        },
+        {
+            "character": "Mack",
+            "line": "Right now, I'm in a “crack heads first, ask questions later” frame of mind. Here. Hack that beacon or just cut it. I'm gonna make sure those crystals don't hurt anyone else."
+        },
+        {
+            "character": "Skye",
+            "line": "Mack, you know what happens if one breaks near a vent, near you."
+        },
+        {
+            "character": "Mack",
+            "line": "That's why they won't."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda?"
+        },
+        {
+            "character": "May",
+            "line": "I just wanted to hear your voice."
+        },
+        {
+            "character": "Andrew",
+            "line": "You haven't made a call like this since Bahrain."
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Andrew",
+            "line": "Well, then I know it's not good. Do you want to tell me what's going on? How bad are we talking?"
+        },
+        {
+            "character": "May",
+            "line": "There's no way it will end well. Andrew, there's a lot I didn't say that I wish I did."
+        },
+        {
+            "character": "Andrew",
+            "line": "Me, too. Do good, Melinda, and get home safe."
+        },
+        {
+            "character": "Simmons",
+            "line": "You'll be careful?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I won't be careful. I'll get the job done."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, w-watch your back because I just saw Hunter with Bobbi, and it made me realize that... I... well, it's just that w... we never really spoke about... what you said to me at the bottom of the ocean."
+        },
+        {
+            "character": "Fitz",
+            "line": "This? Now? You want to talk about this now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. We... We don't... uh... it means a lot to me that we're friends again, and I, um... maybe when you get back, we could finally just talk about it."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's... There's nothing to discuss, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe there is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Fitz, we're on the move."
+        }
+    ]
+}

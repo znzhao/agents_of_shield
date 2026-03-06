@@ -1,0 +1,132 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 7,
+    "scene_name": "SHIELDDiscoversBeaconPurpose",
+    "description": "Coulson, May, Fitz, and Simmons analyze data about the St. Louis light and realize the beacon is sending signals from Earth using the same frequency Hive used to summon the Kree. As they work the puzzle, the urgency of the situation becomes clear, with Mack and Elena sharing a quiet exchange about their fears for the future. This scene increases the suspense and ties the current crisis to a known threat.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How do you feel?"
+        },
+        {
+            "character": "May",
+            "line": "Like I've never loved gravity more. Hey. Maybe you should have Simmons take a look."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm fine. Just a headache."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir. I think we found something."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got a location where that light is pointing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's an Aerospace Industry's laboratory. Just seemed a bit serendipitous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, so it got me thinking. We were assuming we were seeing a light coming down from the sky."
+        },
+        {
+            "character": "Coulson",
+            "line": "But we're not."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, it looks like that because of the frame rate. It's like how a strobe can make dripping water look like it's moving upwards. So if I adjust the frames per second..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's being sent from Earth."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. So once we saw that, we knew what it was."
+        },
+        {
+            "character": "Simmons",
+            "line": "Noah said the wavelength was unusual. He was right, but it's also familiar. This is the beacon Hive used, sir, to call the Kree to Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "And now someone's using it again."
+        },
+        {
+            "character": "Mack",
+            "line": "I know what's got you worried."
+        },
+        {
+            "character": "Elena",
+            "line": "No, it's just..."
+        },
+        {
+            "character": "Mack",
+            "line": "“How will I ever find job satisfaction without crushing rocks for no good reason?” Am I right?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's like you can read my mind."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. A lot of stuff happened. I mean, Kasius was toying with us. And we don't know what we saw back there."
+        },
+        {
+            "character": "Elena",
+            "line": "I do. She said things, upsetting things."
+        },
+        {
+            "character": "Mack",
+            "line": "Kasius was using her to mess with you. Or he was using her to mess with me. I mean, we can't let it rattle us."
+        },
+        {
+            "character": "Elena",
+            "line": "And what if I can't let it go?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, look at it like this. We're gonna change the future anyway."
+        },
+        {
+            "character": "Elena",
+            "line": "I hope we do."
+        },
+        {
+            "character": "Mack",
+            "line": "He was crazy, but we can't let him in our heads. We need our heads in the game. Both of us, right?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah. Okay. Who knows what's true and what's not, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "That's right. Now, do I need to find a giant rock so you can crush it? Hmm?"
+        },
+        {
+            "character": "Elena",
+            "line": "Baby, I don't need a rock to crush it."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. No, you do not."
+        }
+    ]
+}

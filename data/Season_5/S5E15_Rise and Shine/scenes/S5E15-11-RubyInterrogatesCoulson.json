@@ -1,0 +1,73 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 11,
+    "scene_name": "RubyInterrogatesCoulson",
+    "description": "Ruby confronts Coulson, eager to learn about her supposed failure in the future. Learning that Daisy, not herself, was the \"Destroyer of Worlds,\" Ruby's frustration grows. When Coulson refuses to give up Daisy’s location, Ruby threatens him and demonstrates her ruthlessness by sending in a broken Talbot, hoping to pressure Coulson to talk. Talbot apologizes to Coulson, devastated by his forced betrayal, and the mechs take him away, deepening the sense of despair.",
+    "roles": [
+        "phil_coulson",
+        "ruby",
+        "glenn_talbot"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ruby",
+            "line": "Hey. It's cool. Did you actually travel to the future? ‘Cause my mum doesn't believe that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well aware how crazy it sounds."
+        },
+        {
+            "character": "Ruby",
+            "line": "So, if you really did see the future, then tell me how I fail."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you mean?"
+        },
+        {
+            "character": "Ruby",
+            "line": "You told my mum that the “Destroyer of Worlds” cracks the planet apart, so what did I do wrong?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I hate to burst your apocalyptic bubble, but it wasn't you."
+        },
+        {
+            "character": "Ruby",
+            "line": "Daisy Johnson. Where is she?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a bad idea, Ruby. You can't beat her."
+        },
+        {
+            "character": "Ruby",
+            "line": "Yes, I can. Where is she?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't tell you. But I can recommend some medication, preferably at a high dosage. Other than that, I'm not talking."
+        },
+        {
+            "character": "Ruby",
+            "line": "Why don't I show you how that worked out for the last guy who said that to me."
+        },
+        {
+            "character": "Talbot",
+            "line": "Stay calm. Stay quiet. Stay quiet. Don't even make a sound."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot? What happened?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Phil? I told ‘em you were coming. I tried to hold out. S.H.I.E.L.D. never came. I'm sorry, Phil. I told 'em everything. I held out as long as I could, but S.H.I.E.L.D. didn't show up. Sorry. Phil, Phil! Just... Just... Phil, I'm sorry, Coulson! I'm sorry!"
+        }
+    ]
+}

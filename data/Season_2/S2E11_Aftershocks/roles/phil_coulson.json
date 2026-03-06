@@ -1,0 +1,100 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 11
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. Throughout his journey, he grapples with profound losses and betrayals, yet remains steadfast in his commitment to his team and their mission. His personal struggles and moral dilemmas are tempered by a deep sense of responsibility and hope, as he navigates the complex interplay between alien mysteries, Hydra threats, and the emotional scars borne by those he leads. Coulson's resilience, willingness to confront hard truths, and fierce loyalty continue to underline his role as a central pillar in the ongoing conflict surrounding the Kree city and its consequences.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    },
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "stop_hydra_from_exploiting_alien_city_and_protect_skye",
+        "goal": "Stop Hydra from exploiting the alien city and Obelisk, protect Skye from Hydra and her father Cal's influence, and prevent the unleashing of destructive power within the hidden Kree city"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_meaning_of_alien_carvings_and_find_city",
+        "goal": "Uncover the true meaning of the alien carvings linked to the T.A.H.I.T.I. project and locate the hidden city they blueprint to stay ahead of Hydra"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "contain_and_manage_aftermath_of_alien_terraforming_and_transformations",
+        "goal": "Contain and manage the aftermath of the alien city’s Terrigenesis transformations, including new Inhumans like Skye and the threat posed by Raina’s monstrous change, while rallying the team to counter Hydra’s destabilization efforts"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_23",
+      "context": "defending the reality of his mental state and rallying team for the discovery of the blueprint city",
+      "catch_phrase": "To answer the question on everyone's mind, no, I'm not crazy. I know in the past few months, it may have seemed like I was leading you on some fool's errand, chasing after strange carvings and artifacts. At times, I questioned it myself... wondering if I was chasing windmills, trying to solve some unsolvable puzzle. But the pieces are coming together. The puzzle's taking shape."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_27",
+      "context": "motivating the team to focus and prepare for a high-risk mission against Hydra despite recent losses",
+      "catch_phrase": "If Trip was here, he wouldn't be arguing. He wouldn't be bitching. He would be gearing up to do what needs to be done."
+    }
+  ]
+}

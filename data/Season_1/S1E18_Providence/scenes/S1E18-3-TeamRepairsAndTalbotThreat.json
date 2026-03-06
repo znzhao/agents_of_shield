@@ -1,0 +1,205 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 3,
+    "scene_name": "TeamRepairsAndTalbotThreat",
+    "description": "On the S.H.I.E.L.D. Bus, Fitz and Simmons argue about fixing plane systems as the team preps for possible departure. Coulson learns from Skye that another base has been secured, but the celebration is brief as Colonel Glenn Talbot contacts Coulson to announce his intent to send in a peacekeeping force. The team realizes Talbot is likely hostile, and Coulson enacts Odyssey protocol, preparing for an emergency escape.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "glenn_talbot",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You need to replace the grounding wires."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's no time. Ramp needs to be repaired by the end of the day. Coulson's orders."
+        },
+        {
+            "character": "Simmons",
+            "line": "What? Are they even proper orders? S.H.I.E.L.D.'s been destroyed, Fury's dead. Aren't they just requests?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, either way, I'm in the middle of it. Stator, please."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, he's certainly not taking orders from anyone. We have no jurisdiction now that S.H.I.E.L.D.'s been labeled a terrorist organization."
+        },
+        {
+            "character": "Fitz",
+            "line": "Powers that be will sort it out. All we can do is fix one thing at a time, starting with this servo drive."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. You're right. However, you will need to replace those grounding wires."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's fine. Okay, turn on. Whoa! Whoa! Turn off!"
+        },
+        {
+            "character": "Triplett",
+            "line": "You need to replace the grounding wires."
+        },
+        {
+            "character": "Fitz",
+            "line": "You need to shush. Shush, both of you. Hmm? Honestly, ganging up on me. Think you're so smart? Well, why don't you try to fix it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Skye",
+            "line": "Good news. The Cube has been retaken. All Hydra agents have been flushed out and are on the run."
+        },
+        {
+            "character": "Coulson",
+            "line": "So that makes four."
+        },
+        {
+            "character": "Skye",
+            "line": "See? I told you more would turn up."
+        },
+        {
+            "character": "May",
+            "line": "The Hull's almost completely repaired. Flight systems are back online."
+        },
+        {
+            "character": "Coulson",
+            "line": "And the cargo ramp?"
+        },
+        {
+            "character": "May",
+            "line": "Fitz assures me that it will be operational."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, incoming transmission."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is Colonel Glenn Talbot, U.S. Air force. I need to speak with whoever's in charge over there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Colonel Talbot, I'm Agent Phil Coulson. I'm happy we could..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Mr. Coulson, It's a real mess your boys have gotten us into."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hydra caught us by surprise."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, that's an understatement. It's troubling how deeply embedded Hydra was within your ranks."
+        },
+        {
+            "character": "Coulson",
+            "line": "Especially troubling for us, sir, but I assure you we're going on the offensive. The Hub is secure. All remaining agents stand ready to assist you in whatever..."
+        },
+        {
+            "character": "Talbot",
+            "line": "I think we've had about all the assistance we can handle from S.H.I.E.L.D. I'm sending in a peacekeeping force. They're gonna take control."
+        },
+        {
+            "character": "Coulson",
+            "line": "Understood. What should I tell my men to expect?"
+        },
+        {
+            "character": "Talbot",
+            "line": "We just want to ask a few questions, get the lay of the land. Everything checks out, you and your boys can be on your merry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sounds good. This doesn't sound good."
+        },
+        {
+            "character": "Skye",
+            "line": "He's lying, definitely, for sure."
+        },
+        {
+            "character": "Coulson",
+            "line": "If Talbot's leading the op, there's nothing peacekeeping about it."
+        },
+        {
+            "character": "May",
+            "line": "Base defenses are operational. We could hold out."
+        },
+        {
+            "character": "Coulson",
+            "line": "The last thing S.H.I.E.L.D. needs is to start a war with the U.S. Government."
+        },
+        {
+            "character": "Skye",
+            "line": "What happens when Talbot gets here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Best-case scenario... we all get subpoenas, spend the next six months tied up in court hearings."
+        },
+        {
+            "character": "Skye",
+            "line": "Worst-case scenario?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Means they skip the subpoenas, move straight to bunker busters."
+        },
+        {
+            "character": "Skye",
+            "line": "Bombs. Big bombs."
+        },
+        {
+            "character": "May",
+            "line": "All the while, Hydra's still out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get on the comms. We're enacting Odyssey protocol."
+        },
+        {
+            "character": "Skye",
+            "line": "Odyssey protocol? What does that mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It means Fitz needs to finish his repairs. We're getting the hell out of here."
+        },
+        {
+            "character": "May",
+            "line": "A lot of agents are staying behind to surrender."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wish they'd reconsider. We need all the help we can get to fight Hydra. How's the bus?"
+        },
+        {
+            "character": "May",
+            "line": "Fitz managed to jerry-rig the ramp, but the Hub's fuel reserves were tapped out. We're running low."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot's landing in less than an hour. Can you get us up in the air or not?"
+        },
+        {
+            "character": "May",
+            "line": "Have us wheels up in 10."
+        }
+    ]
+}

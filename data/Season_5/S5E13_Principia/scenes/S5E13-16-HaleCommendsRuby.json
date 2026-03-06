@@ -1,0 +1,24 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 16,
+    "scene_name": "HaleCommendsRuby",
+    "description": "Ruby reveals to Hale that she succeeded in convincing Werner to stay. Hale, impressed, inquires about Ruby's methods, and Ruby simply states that she told Werner the truth. This sets up future machinations within Hale's camp and solidifies Ruby's role in her mother's plans.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "Nice work. How did you convince him to stay?"
+        },
+        {
+            "character": "Ruby",
+            "line": "I told him the truth."
+        }
+    ]
+}

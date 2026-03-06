@@ -1,0 +1,73 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 10,
+    "scene_name": "WardDisputesWithRainaAndGarrett",
+    "description": "Ward confronts both Raina and Garrett, alarmed at Garrett’s unstable condition and Raina's loyalty. Raina manipulates Ward with talk of Skye’s significance to their plan, pushing Ward further into personal uncertainty and foreshadowing his breakup with Garrett’s cause.",
+    "roles": [
+        "raina",
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "dramatic",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "The compound's been hit. Raina and Quinn took off. We need to take action now. What are my orders?"
+        },
+        {
+            "character": "Garrett",
+            "line": "That's up to you, son."
+        },
+        {
+            "character": "Ward",
+            "line": "Wake up! Come back to reality, John. What do you need me to do?"
+        },
+        {
+            "character": "Garrett",
+            "line": "You've already done it. Oh. It's your handler, probably to tell me what the soldiers are seeing. Yeah?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hi, John. Just calling to catch up."
+        },
+        {
+            "character": "Garrett",
+            "line": "Skye. You sound different on the phone... huskier."
+        },
+        {
+            "character": "Skye",
+            "line": "You curious why I'm calling from your soldier control center?"
+        },
+        {
+            "character": "Garrett",
+            "line": "No, I'm not too concerned. You see, if anyone but the assigned handler gives a directive to one of my men, well, kaboom."
+        },
+        {
+            "character": "Skye",
+            "line": "Ah, darn it. Coulson didn't think of that. You outsmarted us again."
+        },
+        {
+            "character": "Garrett",
+            "line": "Phil's around? Great. We actually have a lot to talk about. Oh, and I wanted you to know... your scientist friends... they were brave until their last breath. Raina told me how special Skye is. I know you've seen that from the start. You want orders? Get her."
+        },
+        {
+            "character": "Ward",
+            "line": "Thank you."
+        },
+        {
+            "character": "Garrett",
+            "line": "He's always been a tender heart. You don't need to be set to default. You haven't left me alone all day."
+        },
+        {
+            "character": "Mike",
+            "line": "I was told to never leave your side, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "I love you, too."
+        }
+    ]
+}

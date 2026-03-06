@@ -1,0 +1,192 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "SimmonsAndDaisyDebateSargeAndIzel",
+    "description": "At the Lighthouse, Daisy, Simmons, Fitz, and Deke discuss Izel's powers and the nature of Sarge. The team struggles with the possibility that Sarge is inhabited by another being, and Daisy expresses frustration about not knowing how to deal with him or Izel. May is preparing to interrogate Sarge.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "deke_shaw",
+        "melinda_may",
+        "piper"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Hey. Monitor our encrypted channels, and let me know if there's any back chatter."
+        },
+        {
+            "character": "Piper",
+            "line": "You're not listening. I said re-task all satellites."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "Piper",
+            "line": "This might as well be Google Maps."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you sure you should be up and about?"
+        },
+        {
+            "character": "Piper",
+            "line": "With all due respect, Agent Johnson, if you make me go back to the infirmary, I'll mutiny."
+        },
+        {
+            "character": "Daisy",
+            "line": "Understood. What do you got?"
+        },
+        {
+            "character": "Piper",
+            "line": "Z1 went dark right after it left the hangar Director's authorization. I'm just hoping Mack only used radar stealth. Maybe he didn't reveal its ability to cloak."
+        },
+        {
+            "character": "Daisy",
+            "line": "And unless we get a visual, there's still nothing to track."
+        },
+        {
+            "character": "Piper",
+            "line": "Not even a blip."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, May's working on another lead."
+        },
+        {
+            "character": "Piper",
+            "line": "And then what? Izel just overwhelms us again?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Team Fitz-Simmons is searching for a way to prevent that. They will come up with something."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please tell me you have something."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're trying."
+        },
+        {
+            "character": "Fitz",
+            "line": "Not yet."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, well, walk me through it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Izel can instantly gain control of a host body's primary motor cortex."
+        },
+        {
+            "character": "Fitz",
+            "line": "While simultaneously placing the brain into an unconscious state. It's actually a very complex piece of neurochemistry."
+        },
+        {
+            "character": "Simmons",
+            "line": "Assuming it's neurochemical at all."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's a good point. That paradigm could be limiting."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, right, we wouldn't want to limit ourselves."
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, maybe it's just tech."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, it could just be a gadget."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think that's doubtful, ‘cause her powers are so innate."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, you're probably right."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, it's not tech."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it could also be..."
+        },
+        {
+            "character": "Daisy",
+            "line": "All right, I-I don't need to ride the roller coaster that is your thought process. Please just tell me how to prevent her from wearing a body like a sock puppet."
+        },
+        {
+            "character": "Fitz",
+            "line": "We'll find something."
+        },
+        {
+            "character": "Deke",
+            "line": "We're on top of it."
+        },
+        {
+            "character": "Daisy",
+            "line": "What about the other problem? The one everyone thought was dead."
+        },
+        {
+            "character": "Simmons",
+            "line": "When he started healing, I didn't know who I could trust or how it was happening. Now we may have some idea, but you know as much as I do."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you believe what she said? That his body's being inhabited by some being?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We've seen it before, with Robbie Reyes."
+        },
+        {
+            "character": "Daisy",
+            "line": "I hope May studied the footage before she went in there, because she'll have to pry the truth out of him. He's been hiding it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, she watched it a few dozen times. I've loaded the room with equipment. I'm running every multi-spectral scan I can think of, trying to understand what's inside him."
+        },
+        {
+            "character": "Daisy",
+            "line": "She'll get him to tell us."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Daisy",
+            "line": "What aren't you saying?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Izel told Sarge that his memories of... of loss, of family..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Heard all about it."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the part May watched over and over. She thinks... Daisy, she thinks he's remembering us."
+        }
+    ]
+}

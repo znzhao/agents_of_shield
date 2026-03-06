@@ -1,0 +1,313 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 9,
+    "scene_name": "FlashbackServerCoreDebate",
+    "description": "Returning to the day of S.H.I.E.L.D.'s fall, Bobbi, Mack, and Gonzales strategize about how to handle the Hydra takeover on their ship. Hartley updates them on the S.H.I.E.L.D. agents’ resistance. They debate following Fury's orders to sink the ship or attempt to retake it and save the remaining agents. Bobbi is convinced to try to save as many as possible instead of sinking the ship outright.",
+    "roles": [
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "robert_gonzales"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Not much of a trainee anymore."
+        },
+        {
+            "character": "Hartley",
+            "line": "Okay, guys, we got to move. Hydra's closing in on both sides."
+        },
+        {
+            "character": "Morse",
+            "line": "His leg's bad. Think you can clear a path to the top deck and ready the chopper?"
+        },
+        {
+            "character": "Hartley",
+            "line": "An opportunity to kill more of these bastards?"
+        },
+        {
+            "character": "Morse",
+            "line": "I love you're whole thing. You know that? Hold out for them as long as you can. They'll be right behind you. And, um, would you mind... Could you give this to Hunter?"
+        },
+        {
+            "character": "Hartley",
+            "line": "Bobbi. He's gonna be pissed. You know that?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. Hartley's gonna clear a path. You think you can carry Gonzales to the top deck?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. What about you?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'll meet you up there."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fury gave me a second mission. I need to get to the server core. Once you get Gonzales off the ship, I'm gonna sink it."
+        },
+        {
+            "character": "Mack",
+            "line": "What the hell you talking about? That disk will detonate every weapon on this ship. There's no way you will make it out before you're 80 feet underwater. Why would the Director do this?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Because of what's on the ship. We're carrying a cargo that we can't let Hydra get their hands on. That's why I can't let you waste your time or your resources trying to get me off of this ship when it's in play. I'm coming with you."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, all due respect, my orders are clear."
+        },
+        {
+            "character": "Mack",
+            "line": "The server core's back at the operation center. Do you know how many Hydra agents there's got to be between here and there now?"
+        },
+        {
+            "character": "Morse",
+            "line": "Mack..."
+        },
+        {
+            "character": "Mack",
+            "line": "If you want to get this job done, you're gonna need all the help you can get."
+        },
+        {
+            "character": "Morse",
+            "line": "I signed up for this. No one else."
+        },
+        {
+            "character": "Mack",
+            "line": "Stop being so damn stubborn, Barbara. You don't need to do this one alone."
+        },
+        {
+            "character": "Susanna",
+            "line": "He's right."
+        },
+        {
+            "character": "Gonzales",
+            "line": "God, help us. I'm still the commander of this ship, Agent Morse, which means you have new orders. We're gonna help you finish this job."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a gift from Fury. A means to rebuild S.H.I.E.L.D."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do you plan to do with her, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That might depend on what she was planning to do with us. Hopefully, May will have some answers soon."
+        },
+        {
+            "character": "May",
+            "line": "They're not trying to get out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't..."
+        },
+        {
+            "character": "Mack",
+            "line": "I need you to get away from that wall right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Stay back, stay back."
+        },
+        {
+            "character": "Mack",
+            "line": "Fitz, you wouldn't understand. Fitz. Fitz! Fitz!"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Mack needs medical."
+        },
+        {
+            "character": "Agent",
+            "line": "Right away, sir."
+        },
+        {
+            "character": "Mack",
+            "line": "You think Hydra destroyed the wall?"
+        },
+        {
+            "character": "Morse",
+            "line": "What wall?"
+        },
+        {
+            "character": "Mack",
+            "line": "Back at the academy. For the fallen S.H.I.E.L.D. agents."
+        },
+        {
+            "character": "Morse",
+            "line": "Not sure. Sorry about Tim. Stay back."
+        },
+        {
+            "character": "Morse",
+            "line": "It's heavier than I thought."
+        },
+        {
+            "character": "Hartley",
+            "line": "Yeah, right?"
+        },
+        {
+            "character": "Morse",
+            "line": "What are you doing back here?"
+        },
+        {
+            "character": "Hartley",
+            "line": "A few S.H.I.E.L.D. agents have gotten a hold of the turret on the top deck. They were fighting back, so I thought, “why the hell not?” It's ours now."
+        },
+        {
+            "character": "Mack",
+            "line": "What, S.H.I.E.L.D. has the top deck?"
+        },
+        {
+            "character": "Hartley",
+            "line": "And I heard from Vic. She's gonna hold the hub."
+        },
+        {
+            "character": "Mack",
+            "line": "Bobbi, what if we can take back the ship?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "There's still 14 more decks. And we're outnumbered three to one. The ship's already lost. And if we want S.H.I.E.L.D. to survive..."
+        },
+        {
+            "character": "Morse",
+            "line": "We need to push on. We're running out of time."
+        },
+        {
+            "character": "Gonzales",
+            "line": "There'll be time to explain everything to him. And if he's as good a man as you say, he'll understand."
+        },
+        {
+            "character": "Morse",
+            "line": "Still no sign of May?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "We'll find her."
+        },
+        {
+            "character": "Weaver",
+            "line": "Agent MacKenzie's stabilized."
+        },
+        {
+            "character": "Morse",
+            "line": "Any others injured?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "None."
+        },
+        {
+            "character": "Calderon",
+            "line": "I'd like to officially withdraw my concerns about using the dendrotoxin gas. It's got style."
+        },
+        {
+            "character": "Weaver",
+            "line": "If only someone were taking minutes."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Where do we stand with Agent Skye?"
+        },
+        {
+            "character": "Calderon",
+            "line": "Our techs found the Quinjet's flight recorder. Looks like Coulson took her to, uh, The Retreat."
+        },
+        {
+            "character": "Morse",
+            "line": "Really?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Bold, taking her to the house that banner built."
+        },
+        {
+            "character": "Calderon",
+            "line": "That's why I'd like to take a team of tactical agents and retrieve her."
+        },
+        {
+            "character": "Bobbi",
+            "line": "Sends a pretty aggressive message, don't you think? Skye doesn't mean anyone harm."
+        },
+        {
+            "character": "Weaver",
+            "line": "It doesn't mean she can't harm anyone."
+        },
+        {
+            "character": "Gonzales",
+            "line": "If Coulson put her at The Retreat, he thinks she's dangerous, too."
+        },
+        {
+            "character": "Morse",
+            "line": "Then I'd like to join. Familiar face couldn't hurt."
+        },
+        {
+            "character": "Weaver",
+            "line": "I'll update Agent Oliver with our status."
+        },
+        {
+            "character": "Morse",
+            "line": "Good. We'll be in touch."
+        },
+        {
+            "character": "Agent",
+            "line": "Yeah, I've got it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Agent Weaver."
+        },
+        {
+            "character": "Weaver",
+            "line": "It's been awhile."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're working with them?"
+        },
+        {
+            "character": "Weaver",
+            "line": "I could ask the same about you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I went to the academy to look for you, but you weren't there. We didn't even know if you were alive."
+        },
+        {
+            "character": "Weaver",
+            "line": "If it weren't for Agent Calderon, I wouldn't be. He co-opted a squadron of Quinjets to come to the academy. He saved us. If it weren't for him, we would have lost even more young, talented minds that day."
+        },
+        {
+            "character": "Fitz",
+            "line": "Then, why are you..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why are you betraying S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Phil Coulson has no right to call this S.H.I.E.L.D. We obviously have a lot to discuss. But right now I need your help, Jemma. Agent MacKenzie's injuries have stabilized, but I need you to take a look, see if we missed anything. There are few whose opinion I value more, and we could use your expertise."
+        }
+    ]
+}

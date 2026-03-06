@@ -1,0 +1,192 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 1,
+    "scene_name": "HydraAttackAtUNAndAftermath",
+    "description": "The episode opens with Glenn Talbot giving a speech at the United Nations about the threat of S.H.I.E.L.D., only for Hydra agents disguised as S.H.I.E.L.D. to attack, causing chaos and turning the global spotlight on S.H.I.E.L.D. In the aftermath, at The Playground, Coulson briefs his agents on the attack, suspects Hydra's involvement, and orders the team to prepare for more fallout. Skye, Simmons, May, Triplett, and Coulson hustle to unravel the situation, while Hunter is recruited for an urgent mission involving Bobbi Morse. The sequence covers initial reports, leadership decisions, and the agents mustering to respond.",
+    "roles": [
+        "glenn_talbot",
+        "skye",
+        "jemma_simmons",
+        "melinda_may",
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "lance_hunter",
+        "bobbi_morse",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "I was here in 2012 when the sky tore open and the Chitauri rained down on us. Aliens. Aliens were running through the streets, and it was then that S.H.I.E.L.D. revealed themselves and stood with the Avengers, leading us to believe that we could put our faith in them, which we did. We stood idly by while they collected super-powered individuals, garnered alien weapons, built bases on virtually every continent. We thought S.H.I.E.L.D. was protecting us, but in truth, they took advantage of our good faith, and they still are."
+        },
+        {
+            "character": "Man",
+            "line": "Italy takes note of your report, general. Now, you say that you've seen S.H.I.E.L.D., even fought against them. But where is the proof? Where is... Aah! Che diavolo! Help!"
+        },
+        {
+            "character": "Officer",
+            "line": "It's S.H.I.E.L.D.! Go! Freeze!"
+        },
+        {
+            "character": "Woman",
+            "line": "It's S.H.I.E.L.D."
+        },
+        {
+            "character": "Man",
+            "line": "Get out! Get out!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Go to the exit in the corner. Go! Come here. Come here."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "S.H.I.E.L.D. is done hiding."
+        },
+        {
+            "character": "Simmons",
+            "line": "5:30 on the dot every morning. But there's no clock, no light, no way he can know what time it is."
+        },
+        {
+            "character": "Skye",
+            "line": "You've been watching him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Every day before I left, every day since I got back. I don't know how you do it, going down there, talking to him."
+        },
+        {
+            "character": "Skye",
+            "line": "Sacrifices we make for valuable intel, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "Jemma Simmons undercover at HYDRA."
+        },
+        {
+            "character": "Simmons",
+            "line": "I thought I was a dead woman at least four times."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm glad you're not."
+        },
+        {
+            "character": "Simmons",
+            "line": "Me too. Be careful with him, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "I am. What's happening?"
+        },
+        {
+            "character": "May",
+            "line": "There's been an attack on the U.N."
+        },
+        {
+            "character": "Reporter",
+            "line": "An attack today of the U.N. left six dead and dozens injured. Among the injured, S.H.I.E.L.D.'s biggest opponent, U.S. air force Brigadier General Glenn Talbot."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sir, this wasn't us, was it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, this is HYDRA looking for revenge. Best guess... Daniel Whitehall had his people impersonate S.H.I.E.L.D. to put the world's attention back on us."
+        },
+        {
+            "character": "Skye",
+            "line": "So much for staying in the shadows."
+        },
+        {
+            "character": "Coulson",
+            "line": "Somebody bring this from home? I want you two scouring government channels, see what we're up against."
+        },
+        {
+            "character": "Triplett",
+            "line": "On it, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "And, Skye, this means the alien writing..."
+        },
+        {
+            "character": "Skye",
+            "line": "Back burner. just until we get this under control."
+        },
+        {
+            "character": "Simmons",
+            "line": "Just saw the news. We're not responsible for this, are we, sir? Didn't think so. Just wanted to triple-check."
+        },
+        {
+            "character": "Morse",
+            "line": "Marcus Scarlotti was behind the attack. An assassin... almost killed Barton a few years back. Runs a team of mercenaries... mostly for HYDRA."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah. The bodies just disintegrate. I saw references to this weapon in HYDRA's lab. Yeah, sent from their demolitions expert, uh, Toshiro..."
+        },
+        {
+            "character": "Morse",
+            "line": "Toshiro Mori. I've crossed paths with him before. He has a lab in Okinawa."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Then that's where you're going. We need to find the location of the next attack and stop it before it happens. May's taking point on this op. You can meet her and Hunter in the hangar."
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter's going? Got it. Thank you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to dig through the hard drive you brought back from Whitehall's lab."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll find out whatever I can about those weapons."
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson, quick question."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, this wasn't us."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, tha... uh, great. Um... May said I'd be going on a mission with Bobbi?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Is that gonna be a problem?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Did she say it was gonna be a problem?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I won't dignify that with a response."
+        },
+        {
+            "character": "Hunter",
+            "line": "So... she... didn't?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think we all know how you feel about your ex-wife, but if it's too complicated, then by all means. Whitehall's on the attack. And instead of using his own forces to destroy S.H.I.E.L.D., he's having the rest of the world do it for him."
+        }
+    ]
+}

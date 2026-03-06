@@ -1,0 +1,261 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 12,
+    "scene_name": "LighthouseTeamStrategizesRescue",
+    "description": "At the Lighthouse, Melinda May, Daisy, Fitz, Simmons, Mack, and Elena regroup after Coulson’s disappearance. They debate their options, confront lingering distrust over Fitz’s previous actions, and struggle with Hydra’s continued threat. Daisy grapples with her responsibilities as leader and decides to consult Robin Hinton for guidance. The team’s fractured unity and determination set the stage for future action.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "robin_hinton"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Daisy? Daisy? Did you hear me?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I heard you. I'm just thinking it through. Strucker's escape, Anton, Creel."
+        },
+        {
+            "character": "May",
+            "line": "And her connection to General Fischer."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hale is HYDRA. Hale HYDRA. Seriously? How are we still fighting Nazis today?"
+        },
+        {
+            "character": "May",
+            "line": "More importantly, why does she need Coulson?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, I don't know even where to start. Yeah, obviously, we have to get ahead of her, but we have no leads because everyone in Hydra's locked up. But we can't question them without false documents which I can't get without more resources. So, there's no... There's..."
+        },
+        {
+            "character": "May",
+            "line": "Hey! Coulson chose you for a reason. Take a breath. This is just another fight."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, it's not. I can't quake this away."
+        },
+        {
+            "character": "May",
+            "line": "Remember combat training. Take what you have, use it to your advantage."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have nothing."
+        },
+        {
+            "character": "May",
+            "line": "We have a super villain."
+        },
+        {
+            "character": "Fitz",
+            "line": "Go on. Let's get it over with. Tell me that I can't be trusted anymore."
+        },
+        {
+            "character": "May",
+            "line": "You forget that I was HYDRA in the Framework too. I know how this works. I made decisions I regret."
+        },
+        {
+            "character": "Fitz",
+            "line": "This isn't the Framework. And truthfully, I don't regret it. Just how it had to be done."
+        },
+        {
+            "character": "May",
+            "line": "Well, I'm not asking you to apologise for it. I'm asking you to embrace it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Just need to calibrate the myoelectric interface. Wouldn't want her suffering any neural distortion."
+        },
+        {
+            "character": "Mack",
+            "line": "No disrespect, but you sure you got this? Or do you need to consult Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No need."
+        },
+        {
+            "character": "Mack",
+            "line": "Listen, I know you went into the Framework, but for those of us who were really plugged in it was... It's hard to explain. It's... It's you but it's not you. Look, I'm sorry, I'm... I'm saying this all wrong."
+        },
+        {
+            "character": "Simmons",
+            "line": "I understand."
+        },
+        {
+            "character": "Mack",
+            "line": "No, no, what I mean is... is that... it's not that Fitz is still a bad guy out here. It's that he was still a good guy in there. Somehow."
+        },
+        {
+            "character": "Simmons",
+            "line": "I understand. And thank you. Okay, moment of truth."
+        },
+        {
+            "character": "Mack",
+            "line": "So, when Yo-Yo wakes up, she's gonna be stronger than before?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Theoretically. Is something wrong?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's just that lately she's been acting like she's bullet-proof, like nothing can stop her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that is not an uncommon attitude for our team."
+        },
+        {
+            "character": "Mack",
+            "line": "No. This is different. Yo-Yo saw herself in the Lighthouse, so now she knows for a fact that she lives far into the future."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, if Yo-Yo subscribes to Fitz's theory that time can't be changed, then..."
+        },
+        {
+            "character": "Mack",
+            "line": "She thinks she can't be killed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Interesting."
+        },
+        {
+            "character": "May",
+            "line": "What's your conclusion?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we know that Hale went after gravitonium. So, unless she's experimenting with artificial gravity, I think she's trying to build a weapon."
+        },
+        {
+            "character": "May",
+            "line": "But why does Hale want Coulson?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. If we can determine Hale's target, then we can infer Coulson's role. We have a lot of intel on file. I just need a few hours access to the computers and the labs, I can figure it out. I can't help when I'm locked up in this cell."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not a chance."
+        },
+        {
+            "character": "Fitz",
+            "line": "I suspected you were listening in."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah and of course your solution involves us letting you out."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm only trying to help, Daisy."
+        },
+        {
+            "character": "May",
+            "line": "He's still on our side."
+        },
+        {
+            "character": "Daisy",
+            "line": "Don't defend him. Not to me."
+        },
+        {
+            "character": "May",
+            "line": "There's not a lot of team left here, so let's hold it together."
+        },
+        {
+            "character": "Fitz",
+            "line": "We had to seal the rift shut."
+        },
+        {
+            "character": "Daisy",
+            "line": "By any means, no matter how sadistic."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, well, would you have agreed to do it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Never."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, then, I didn't have a choice."
+        },
+        {
+            "character": "Daisy",
+            "line": "You didn't have a choice? You drugged me, you restrained me and you cut into me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't feel good about it either. But in a few hours, the town up there would have been affected as well so I'm sorry. I don't need your forgiveness. I just need you to trust me."
+        },
+        {
+            "character": "Daisy",
+            "line": "You are not leaving this room. You are HYDRA."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's an advantage. I saluted the same flag as those people."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but we don't turn on our own here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Do you want me to recount all the times that you did?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We'll figure out another way to track Hale down, we've done it before."
+        },
+        {
+            "character": "May",
+            "line": "And it was a trap."
+        },
+        {
+            "character": "Daisy",
+            "line": "It'll be different this time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, 'cause you've got your powers back and they've got the gravitonium. We already sealed one crack in the Earth. Doesn't take a fortune-teller to see how easy it would be to make another one. Are you listening to me? Daisy?"
+        },
+        {
+            "character": "May",
+            "line": "Daisy? Where are you going?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He's right, it might not take a fortune-teller. But why not ask one anyway."
+        },
+        {
+            "character": "May",
+            "line": "You want to bring Robin out of hiding and risk her getting hurt? Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Our leader is missing. We have to get him back. We need every weapon we can get in this fight."
+        }
+    ]
+}

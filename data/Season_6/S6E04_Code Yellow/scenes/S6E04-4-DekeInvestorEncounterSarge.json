@@ -1,0 +1,68 @@
+{
+    "season": 6,
+    "episode": 4,
+    "num": 4,
+    "scene_name": "DekeInvestorEncounterSarge",
+    "description": "Deke is warned of an investor arriving ahead of schedule and prepares a pitch, only to be shocked when Sarge walks in, posing as Coulson. Deke tries to talk around the situation with his usual charm and humor, but quickly realizes something is off. The banter is laced with unease as Deke pokes at Sarge's memory and ultimately tests him, confirming that Sarge is not Coulson by stabbing his hand and seeing it bleed.",
+    "roles": [
+        "deke_shaw",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "I've been looking all over for you."
+        },
+        {
+            "character": "Deke",
+            "line": "Coulson! Buddy!"
+        },
+        {
+            "character": "Sarge",
+            "line": "That's me."
+        },
+        {
+            "character": "Deke",
+            "line": "Listen... b-before you get all bent out of shape and... and rules-y, this... this stuff is just inspiration for the game. You know, o-o-our actual mission lies in the Corporate Social Responsibility movement. Did you know that one half of 1 percent of all of our profit goes straight to the DSFBFF... the Deke Shaw For a Better Future Foundation?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Can't argue with that."
+        },
+        {
+            "character": "Deke",
+            "line": "See? I knew you'd get it. So... Why didn't you just call ahead like a normal person?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Who wants to be normal?"
+        },
+        {
+            "character": "Deke",
+            "line": "Right. Totally. #Truth."
+        },
+        {
+            "character": "Sarge",
+            "line": "That's what I always say."
+        },
+        {
+            "character": "Deke",
+            "line": "You do? W-What am I... I mean, how... how amazing is it that you're even standing here right now? I mean, you... you look good. A little... rocking a dark vibe, but good. So, I got to know... how did they do it? How did they save your life?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I don't even know. What did they tell you?"
+        },
+        {
+            "character": "Deke",
+            "line": "Uh, I, uh, I've had very little contact since... I... I-I don't really... I mean, but... but you should... Oh, for reals? Dang. They gave you the S.H.I.E.L.D. memory wipe, huh? Yeah, well, that makes sense, I guess."
+        },
+        {
+            "character": "Sarge",
+            "line": "Yeah, I guess. So do me a solid. Fill me in on what you do know."
+        }
+    ]
+}

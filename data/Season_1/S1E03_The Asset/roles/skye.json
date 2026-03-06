@@ -1,0 +1,89 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 3
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult hacker and former Rising Tide member who is evolving into a trusted S.H.I.E.L.D. consultant and aspiring field agent. Despite her rebellious and cunning roots, she is increasingly embracing responsibility, loyalty, and teamwork within S.H.I.E.L.D., motivated by a deep desire to belong and make a meaningful difference. Her skills in hacking, infiltration, and social engineering continue to grow, as does her emotional maturity, highlighted by her openness about her troubled past and striving for connection. Skye navigates complex loyalties and challenges, balancing her hacker idealism with the pragmatic demands of covert operations, gaining respect and mentorship from seasoned agents.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "physical_fitness",
+      "level": 5
+    }
+  ],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": {
+    "arousal": 7
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "find_belonging",
+        "goal": "To find a place where she belongs and is valued, potentially by joining S.H.I.E.L.D."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_loyalty_to_new_team",
+        "goal": "To build trust and loyalty within the S.H.I.E.L.D. team despite past affiliations with the Rising Tide"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "prove_worth_as_field_agent",
+        "goal": "To prove her worth as a capable and loyal field operative within S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_5",
+      "context": "infiltrating a hostile party to gain intel",
+      "catch_phrase": "Well, they wanted me to do whatever it takes to get in here."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_4",
+      "context": "commenting on the rebellions and collective action",
+      "catch_phrase": "Usually, one person doesn't have the solution. But 100 people with 1% of the solution... that'll get it done. I think that's beautiful, pieces solving a puzzle."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "InvestigatingCrimeScene",
+    "description": "The undercover team arrives at the scene of the faceless murder. Coulson and Mack use their cover as Royal Canadian Mounted Police to gain entry while Daisy navigates period sexism from local officers. They find clues linking the crime to bootlegging and spot a swordfish logo on whiskey, prompting Coulson to recall a S.H.I.E.L.D. safe house speakeasy from historical records. The group splits up: Coulson and Mack trace the swordfish lead, while Daisy and Deke work on reconstructing the cops' faces with tech.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "mysterious",
+    "location": "New York City (1931)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Officer",
+            "line": "Whoa, whoa, whoa. Hold up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Royal Canadian Mounted Police. We were asked to assist."
+        },
+        {
+            "character": "Officer",
+            "line": "Mounties? Why'd they call you in?"
+        },
+        {
+            "character": "Mack",
+            "line": "Tell me, uh, did you find some bodies without faces? Happens all the time in Canada."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, don't worry. We can handle it, so..."
+        },
+        {
+            "character": "Officer",
+            "line": "What's a gal like you doing trying to be a Mountie? Can't you find a husband?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Yeah, I mean, I wish that I could hold on to a husband. But for some reason, they just end up with broken ribs whenever they give me lip. Now move, or a gal like me will knock out a guy like you in front of people like them."
+        },
+        {
+            "character": "Officer",
+            "line": "Sorry, ma'am."
+        },
+        {
+            "character": "Mack",
+            "line": "Turns out “erased” is a pretty accurate description after all."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not for this guy. What's different about him?"
+        },
+        {
+            "character": "Deke",
+            "line": "It's whiskey. Pfft. Illegal. I knew you guys were messing with me."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I think he was a bootlegger."
+        },
+        {
+            "character": "Coulson",
+            "line": "Interesting. Swordfish."
+        },
+        {
+            "character": "Mack",
+            "line": "You got something?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Huh. I can't believe I know this. First year at the Academy, history course... right around when the SSR became S.H.I.E.L.D., there was a safe-house near here. It was an old speakeasy, and the password to get in was “swordfish”."
+        },
+        {
+            "character": "Deke",
+            "line": "Maybe it's a coincidence."
+        },
+        {
+            "character": "Mack",
+            "line": "No. This is why he's here. You two work on the erased. Coulson and I will look into swordfish. Now, remember. Ripples, not waves."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm starting to feel very targeted."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where's that thing supposed to go?"
+        },
+        {
+            "character": "Deke",
+            "line": "Anywhere, really."
+        },
+        {
+            "character": "Daisy",
+            "line": "O... kay."
+        }
+    ]
+}

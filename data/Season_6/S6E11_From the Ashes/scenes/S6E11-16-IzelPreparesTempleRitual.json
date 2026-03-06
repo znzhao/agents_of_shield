@@ -1,0 +1,81 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 16,
+    "scene_name": "IzelPreparesTempleRitual",
+    "description": "At the temple, Izel, accompanied by Mack and Elena, describes how the monoliths and the temple harmonize. Izel intends to use their memories and contact with the monoliths to recreate them. Mack and Elena resist, asserting their worst fears have nothing to do with Izel. Suddenly, Flint appears, summoned by Izel’s manipulation, raising the stakes for the impending ritual.",
+    "roles": [
+        "izel",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dark",
+    "location": "Temple (Izel's gateway / portal site in the western United States)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "So far, your doomsday ritual is a bit underwhelming."
+        },
+        {
+            "character": "Izel",
+            "line": "This temple was built from the same stone as the Di'Allas. When they all resonate in harmony, they'll open a gateway to my home."
+        },
+        {
+            "character": "Elena",
+            "line": "So you can go back there and never bother us again?"
+        },
+        {
+            "character": "Izel",
+            "line": "My family will come through and take over the Shrike hosts spread across the galaxy."
+        },
+        {
+            "character": "Mack",
+            "line": "If it were that easy, you would've done it already."
+        },
+        {
+            "character": "Izel",
+            "line": "True. With the Di'Allas destroyed, there isn't a way to complete the ritual. We must rebuild them."
+        },
+        {
+            "character": "Elena",
+            "line": "That sounds like a “you” problem. And maybe you shouldn't tell us your bad-guy plans. That always happens right before the bad guy dies."
+        },
+        {
+            "character": "Izel",
+            "line": "I'm telling you the problem because you're going to solve it for me. The three monoliths, as you call them you've seen them intact. You know what I can do with them. So your minds are going to create them for me."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm. But you can't do it yourself. That's why you need us."
+        },
+        {
+            "character": "Izel",
+            "line": "I've already shown you that humans are incapable of controlling their fears."
+        },
+        {
+            "character": "Elena",
+            "line": "But we're not afraid of you."
+        },
+        {
+            "character": "Mack",
+            "line": "Our worst fears have nothing to do with you or the damn monoliths. It has to do with losing the people we love."
+        },
+        {
+            "character": "Elena",
+            "line": "And we've already faced that fear. We're still here."
+        },
+        {
+            "character": "Mack",
+            "line": "You're not gonna get any help from us."
+        },
+        {
+            "character": "Izel",
+            "line": "Then who's that?"
+        },
+        {
+            "character": "Flint",
+            "line": "How did I get here?"
+        }
+    ]
+}

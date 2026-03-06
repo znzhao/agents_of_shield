@@ -1,0 +1,82 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 11,
+    "scene_name": "TrawlerTransmissionDiscoveryAndDilemma",
+    "description": "With Zev unconscious, Mack, Tess, Coulson, and May intercept a mysterious faint transmission from Earth's surface. Tess, fearing capture, is ready to kill Zev, but Mack talks her down, holding to S.H.I.E.L.D. principles even under threat. Suddenly, they lose fuel, and must scramble to return to the Lighthouse before anyone is exposed.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "tess"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Tess",
+            "line": "We're screwed. I told you, it's a dead rock. We just risked our lives for nothing. How is he?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, he's out cold. For now."
+        },
+        {
+            "character": "Tess",
+            "line": "If we know what's good for us, maybe he stays that way."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you getting at?"
+        },
+        {
+            "character": "Tess",
+            "line": "I'm saying we seal the hatch, and we dump the load. Zev didn't make it out in time. It was an accident."
+        },
+        {
+            "character": "Mack",
+            "line": "That's murder."
+        },
+        {
+            "character": "Tess",
+            "line": "That's math. A life spent is a life earned. That's how it works."
+        },
+        {
+            "character": "Mack",
+            "line": "I got that when you took out a guy with a shotgun."
+        },
+        {
+            "character": "Tess",
+            "line": "I was saving her life!"
+        },
+        {
+            "character": "Mack",
+            "line": "What the..."
+        },
+        {
+            "character": "May",
+            "line": "Is that a voice?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a transmission."
+        },
+        {
+            "character": "Mack",
+            "line": "It's a faint signal, but the source is right in front of us."
+        },
+        {
+            "character": "Tess",
+            "line": "That's impossible. How is anything coming from a lifeless rock?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know. It could be reflecting."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I think you're right. It's only bouncing off of 616. But the, uh, signal's origins... It's coming from the surface of the Earth."
+        }
+    ]
+}

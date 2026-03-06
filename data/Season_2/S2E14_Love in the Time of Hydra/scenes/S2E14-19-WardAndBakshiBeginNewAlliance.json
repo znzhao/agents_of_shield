@@ -1,0 +1,36 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 19,
+    "scene_name": "WardAndBakshiBeginNewAlliance",
+    "description": "Ward, Agent 33, and Bakshi meet following Bakshi's extraction. Ward welcomes Bakshi to their fold and encourages Agent 33, hinting at a new and dangerous alliance. The trio prepares to move forward with their mysterious plans, closing the episode on a suspenseful note.",
+    "roles": [
+        "grant_ward",
+        "sunil_bakshi"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Nice to finally meet you. I'm Grant."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm proud of you, Kara."
+        },
+        {
+            "character": "Ward",
+            "line": "You did this. And it is just the beginning."
+        },
+        {
+            "character": "Ward",
+            "line": "Guess we should get started, then. You really think this'll work?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "If I obey, will my compliance be rewarded?"
+        }
+    ]
+}

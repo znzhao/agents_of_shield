@@ -1,0 +1,100 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 1,
+    "scene_name": "RainasPropheticDreamAndHydraAttack",
+    "description": "Raina wakes up from a vivid and disturbing prophetic dream holding visions of Skye, Hydra, and the Inhumans. Jiaying enters to comfort her and asks what she saw. The commotion is interrupted when Calvin Johnson storms in, agitated and confrontational about his forced banishment, publicly revealing to Afterlife that he, Jiaying, and Skye are a family. Gordon soon enters, bleeding, to deliver the shocking news that Hydra has captured Lincoln and that attempting a rescue is too dangerous.",
+    "roles": [
+        "raina",
+        "jiaying",
+        "calvin_johnson",
+        "gordon",
+        "skye",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "What are ... Were you watching me?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "I didn't mean to startle you. I heard you calling out."
+        },
+        {
+            "character": "Raina",
+            "line": "I was asleep."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Yes. And dreaming. Do you want to tell me about it? Lincoln said you'd been having nightmares."
+        },
+        {
+            "character": "Raina",
+            "line": "Lincoln. He was actually in this dream, being held somewhere, being hurt. It felt... real."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Cal",
+            "line": "Where's my wife?! Ahh! Didn't expect to see me back here so soon, did you, my love? Not after such a well-planned banishing!"
+        },
+        {
+            "character": "Skye",
+            "line": "Where's Lincoln?"
+        },
+        {
+            "character": "Cal",
+            "line": "You took me from my home!"
+        },
+        {
+            "character": "Gordon",
+            "line": "All right, that's enough!"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Cal, this isn't your home."
+        },
+        {
+            "character": "Cal",
+            "line": "I know that now."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey! Lincoln is still out there. Gordon, can you please?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "What happened?"
+        },
+        {
+            "character": "Skye",
+            "line": "There was an attack."
+        },
+        {
+            "character": "Cal",
+            "line": "Can we please get back to what matters here? You tried to take me away from our daughter. It's unacceptable!"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Go calm down, Cal. You and I can discuss this later. There are worse options."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Are you okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm fine. But Coulson was there."
+        },
+        {
+            "character": "Gordon",
+            "line": "It was HYDRA. I tried stopping them. I barely got away. They took Lincoln."
+        }
+    ]
+}

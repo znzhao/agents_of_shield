@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 14,
+    "scene_name": "SimmonsComfortsCoulson",
+    "description": "Simmons and Coulson share a heartfelt discussion about loss and legacy. Simmons insists that while they move forward, they never truly move on from those they've lost, especially Fitz. Coulson entrusts his pride and affection to his team, and Daisy, May, Mack, Elena, and Simmons close ranks in support as the new era for S.H.I.E.L.D. dawns.",
+    "roles": [
+        "jemma_simmons",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I'm just sad I didn't get a chance to say goodbye to Fitz. But you'll tell him for me?"
+        },
+        {
+            "character": "Simmonns",
+            "line": "Of course. I mean, he'll be sad he missed this little memorial."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, I'm not dead yet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry. Retirement party."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not sure this even qualifies as a party, nobody's drinking yet."
+        },
+        {
+            "character": "Simmons",
+            "line": "I want you to have this. A picture of our new home away from home. And to remind you that your team always worked the problem, no matter what the odds."
+        },
+        {
+            "character": "Coulson",
+            "line": "And now he's frozen, out in deep space somewhere, no idea he's already solved it."
+        },
+        {
+            "character": "Simmons",
+            "line": "He'll be a little disoriented but he'll be so happy to know that time is not fixed. It's a fluid, ever-changing, beautiful thing. And he didn't miss much, did he?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have not a single doubt you will find him."
+        },
+        {
+            "character": "Simmons",
+            "line": "None of us do."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. Here's to us. Who's like us? Damn few."
+        },
+        {
+            "character": "Mack",
+            "line": "Smooth."
+        },
+        {
+            "character": "Elena",
+            "line": "Thank you, boss."
+        },
+        {
+            "character": "Mack",
+            "line": "Probably gonna call you every chance I can, for advice."
+        },
+        {
+            "character": "Coulson",
+            "line": "You won't need it. And my phone is going in the ocean."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 13,
+    "scene_name": "CoulsonHunterMorseHeadToCastle",
+    "description": "En route to the castle aboard Zephyr One, Coulson, Hunter, and Morse ready themselves for the assault. Morse warns Coulson about letting personal feelings cloud his actions, but Coulson is resolved and regretful that he hadn't acted more ruthlessly before. They prepare for imminent infiltration of HYDRA's fortress.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How long till we reach HYDRA airspace?"
+        },
+        {
+            "character": "Morse",
+            "line": "We're about 10 minutes out. Sir? About what happened back there."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got what we needed. End of story."
+        },
+        {
+            "character": "Morse",
+            "line": "I understand. But that look on your face. I've seen it before. It's the same look Hunter had when he went after Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not sure I'm getting your point."
+        },
+        {
+            "character": "Morse",
+            "line": "It's dangerous going into a mission that emotional. You need to be able to separate the job from your own feelings."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're wrong. I've been keeping my feelings in check, and look what it got us. Rosalind's dead, Ward has Fitz and Simmons. My only regret is that I didn't kill that son of a bitch when I had the chance."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me know when we're close."
+        }
+    ]
+}

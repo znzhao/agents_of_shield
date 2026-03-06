@@ -1,0 +1,58 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "CoulsonPreparesTAHITIforStrucker",
+    "description": "Coulson outlines his plan to use the T.A.H.I.T.I. technology on Werner von Strucker, hoping to extract information on Gideon Malick. With Fitz, Simmons, and Lincoln providing technical and medical know-how, the team debates the risks involved in using such a dangerous device on a severely damaged subject.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Oh. Uh, sir, I think you're gonna be pretty..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop what you're doing. Come with me. What do you think of Mr. Campbell?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Lincoln? Smart. Obviously most helpful in helping us, Jemma, Understand Inhuman biology. And it's been good for keeping her busy, focusing on something else. Things still feel different, though. But how could they not after what I did to Will?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You did what you had to do. We both did. Sometimes there's no choice but the hard choice. That's the job. Now set up the machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, you're not really think..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not for me. There's one person who might have information about Gideon Malick. I need to get into his head."
+        },
+        {
+            "character": "Mack",
+            "line": "Been waiting for you to come back."
+        },
+        {
+            "character": "Mack",
+            "line": "So you snap back to the same spot like a yo-yo. Good to know. How about you let me... Aah! Damn it! I'm starting to hate you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Von Strucker's in a persistent vegetative state. Significant portions of his brain are damaged. Sir, I'm not sure what you want to do is even possible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's find out. It's worth a shot if it gets us closer to Malick."
+        }
+    ]
+}

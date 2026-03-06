@@ -1,0 +1,67 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 20
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and a vital member of S.H.I.E.L.D., balancing her technical skills with growing emotional complexity and evolving trust dynamics. Having faced deep betrayal and danger multiple times, she has developed a fierce independence, resilience, and a sharp sense of justice, especially towards deception and betrayal. Though initially an outsider with a painful past, she has become integral to the team's survival and mission, navigating fractured loyalties and dangerous infiltrations with courage and cunning. Skye possesses a mix of vulnerability and toughness, and is determined to protect those she cares about while uncovering hidden threats within and beyond the organization.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_Hydra_double_agents_and_preserve_team_cohesion",
+        "goal": "To identify Hydra infiltrators within the team and maintain group cohesion and survival amidst pervasive distrust"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "decrypt_hard_drive_and_support_team_research",
+        "goal": "To decrypt the encrypted hard drive with crucial research data and advance the team’s mission using technical expertise"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_skye_and_support_team_against_Hydra",
+        "goal": "To survive Hydra's betrayal and protect team members, especially by leveraging her hacking skills to thwart Hydra's plans and support Coulson's mission"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "come_to_terms_with_Ward_betrayal_and_build_new_trust",
+        "goal": "To cope with complex feelings of betrayal by Ward while building resilience and forming new trust dynamics within the team"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "confront_project_TAHTI_truths_and_its_consequences",
+        "goal": "To understand the full scope and ethical implications of Project T.A.H.I.T.I., learning from its secrets to guide future decisions and actions"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_10",
+      "context": "taunting Ward upon revealing knowledge of his true allegiance while tipping off authorities",
+      "catch_phrase": "Hail Hydra"
+    }
+  ]
+}

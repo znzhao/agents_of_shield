@@ -1,0 +1,56 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 15,
+    "scene_name": "SkyeReachesOutToCoulsonForHelp",
+    "description": "Skye seeks out Coulson, begging him to remember their true relationship and the real world. Coulson, still under the Framework’s influence, does not recognize her and is confused by the encounter. Skye tries to appeal to Coulson’s subconscious, expressing how much his support has meant to her and hoping that on some level, he still feels the bond they share. The scene ends with a glimmer of connection as Coulson hesitantly says her name.",
+    "roles": [
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hey."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who are you? Are you with the other person? This is not okay."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson, I need you to remember me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. We haven't met."
+        },
+        {
+            "character": "Skye",
+            "line": "We have. Please, remember me."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. This isn't real. You're not here."
+        },
+        {
+            "character": "Skye",
+            "line": "I am. I am. Please. Remember me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. I don't."
+        },
+        {
+            "character": "Skye",
+            "line": "It's not your fault. It's just, you're the person that I go to when things get heavy. And this world is scary, and nothing makes sense, and you're the closest thing I have to family. So I just hope that deep down, you feel it, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy?"
+        }
+    ]
+}

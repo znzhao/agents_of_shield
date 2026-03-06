@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "DebriefOnTheBus",
+    "description": "Safely aboard the Bus, Fitz explains that the 0-8-4 contains Tesseract technology, which is potentially more dangerous than a nuclear weapon. Coulson apologizes to May for involving her in combat. Tensions rise as Ward, Simmons, and Fitz argue over the handling of the device, and Skye tries to understand her role among the group. Coulson assures Reyes she will be returned home after the device is delivered to S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I got to say it. I miss my van."
+        },
+        {
+            "character": "Ward",
+            "line": "Now, what was the problem?"
+        },
+        {
+            "character": "Fitz",
+            "line": "As I said before, this device has a high-frequency, fluctuating, sub-material compression..."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz, in English."
+        },
+        {
+            "character": "Fitz",
+            "line": "The 0-8-4 is fueled by tesseract technology. Hydra. World War II. Captain America. It's full of lethal amounts of gamma radiation."
+        },
+        {
+            "character": "Ward",
+            "line": "Gamma. You're saying it's nuclear?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. He's saying it's much, much worse."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's on board and contains a tesseract fuel cell, so...there's that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Top speed's a priority, May. Obviously. I know you didn't want to see combat. I apologize for that. Do you need anything else before I go check on the device fueled by evil that's sitting in our cargo hold? This was fun."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not to worry. The device is stable. Not that it couldn't explode at any minute, especially if hit with machine-gun fire. But things like this happen from time to time when in the field, and at first, it's very unpleasant, and you regret your decision to leave the lab at all."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you mental? I did explain in great detail exactly what I meant, using the queen's bloody English!"
+        },
+        {
+            "character": "Ward",
+            "line": "I use normal English. Words like “duck” and “run” and “might blow us to pieces.”"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Oh! Well, congratulations, Agent Ward. You managed to string three words together in a sentence."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is everyone all right?"
+        },
+        {
+            "character": "Camilla",
+            "line": "But we lost a lot of men."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll make sure the rest of you get home safe."
+        },
+        {
+            "character": "Camilla",
+            "line": "Are we safe? On a plane with that? There's a PMP airfield in Iquitos. It's a short distance..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll burn as fast as we can for a S.H.I.E.L.D. containment facility. There's no safer place for us to go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Upstairs. I think you'll find it quite comfortable up there."
+        },
+        {
+            "character": "Camilla",
+            "line": "I expect the grand tour."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you do."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm trying to tell you..."
+        },
+        {
+            "character": "Ward",
+            "line": "... don't understand anything you are saying!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Do we have a problem in here?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, sir. Just working on our communication. Not everyone was prepared for a firefight."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got out, didn't lose anyone, saved a few of theirs. I'd say we did all right. Anything else?"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 15,
+    "scene_name": "AftermathAndRenewedResolve",
+    "description": "Mack and Elena share a quiet, faith-filled moment in the aftermath as Daisy rests and the team ponders Hive’s next move. Elena reassures Mack, encouraging him not to give up hope in the fight ahead. The team ends the episode with their resolve renewed, focusing on the looming threat revealed by Talbot: Hive’s plan to deploy a warhead carrying his pathogen.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "It's open. Elena."
+        },
+        {
+            "character": "Elena",
+            "line": "Does this mean you see a future now?"
+        },
+        {
+            "character": "Mack",
+            "line": "Or I need a fast way out of here."
+        },
+        {
+            "character": "Elena",
+            "line": "Daisy's back. That's a good thing, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Elena",
+            "line": "Do you still think we can't win?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know, but I'm ready to stand and fight."
+        },
+        {
+            "character": "Elena",
+            "line": "Give me your hands. Close your eyes. Don't open them until I leave. Keep the faith, Alphonso Mackenzie."
+        }
+    ]
+}

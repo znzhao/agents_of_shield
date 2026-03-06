@@ -1,0 +1,36 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 12,
+    "scene_name": "GarrettRevealsHydraToWard",
+    "description": "In another flashback, Garrett tells Ward the truth about Hydra, emphasizing the need for ruthless survival and warning against personal attachment. This forms a crucial moment in Ward’s transformation and solidifies his purpose within Hydra, further distancing him from S.H.I.E.L.D. values.",
+    "roles": [
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Long time, no see."
+        },
+        {
+            "character": "Garrett",
+            "line": "You know he's not human, right?"
+        },
+        {
+            "character": "Ward",
+            "line": "Of course I know. No, he's better than human. Smart, loyal, trustworthy."
+        },
+        {
+            "character": "Garrett",
+            "line": "Yeah. Where does all that trust and loyalty lead? Abandoned in the woods or dumped at the pound? I learned that lesson the hard way. I know you've never asked, but I'm sure you're curious. Nickel version? I got fragged by an I.E.D. outside of Sarajevo. When I radioed for medevac, I got nothing but an earful of excuses. That's when I realized I was more loyal to S.H.I.E.L.D. than S.H.I.E.L.D. was to me. So I decided if I made it out, if I survived, I was gonna treat them the way they treated me. Then I stuffed my intestines back inside, duct-taped myself shut, and humped my way out. You remember when we first met? I told you I worked for a secret organization? Well, it's more like I work for a secret organization inside another secret organization. You ever heard of Hydra? Huh. Hydra understands the importance of survival."
+        },
+        {
+            "character": "Ward",
+            "line": "Here they are."
+        }
+    ]
+}

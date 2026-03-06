@@ -1,0 +1,98 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "SHEILDTeamWorriesAboutDaisy",
+    "description": "Coulson, May, Mack, and Elena discuss Daisy's disappearance and the mounting dangers in the Lighthouse. Grill interrupts the group and gives Mack an assignment to rough up a scavenger named Gunner and retrieve a mysterious package, pushing the team into more morally gray territory.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "May",
+            "line": "They shut down all the Trawler flights. No idea why."
+        },
+        {
+            "character": "Coulson",
+            "line": "So now they even have the pilots working as crushers, I guess. That's a little slang I picked up here. “Crusher.” It's when you..."
+        },
+        {
+            "character": "May",
+            "line": "Phil. I get “crusher.” Anything on Daisy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing. Just when we have a chance of getting answers on the surface, two of our people go missing."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey."
+        },
+        {
+            "character": "Coulson",
+            "line": "Anything?"
+        },
+        {
+            "character": "Mack",
+            "line": "Been checking with the guys working the docking bays to see if maybe Daisy hopped a ship to move between levels, but I don't know."
+        },
+        {
+            "character": "May",
+            "line": "I assume she didn't."
+        },
+        {
+            "character": "Mack",
+            "line": "Is it time to panic yet?"
+        },
+        {
+            "character": "Elena",
+            "line": "Possibly. I've covered every square inch of this floor. No sign of Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't like this. She could be captured. She could..."
+        },
+        {
+            "character": "Grill",
+            "line": "You're not here to stand around and gossip."
+        },
+        {
+            "character": "Mack",
+            "line": "We were all talking. Why me?"
+        },
+        {
+            "character": "Grill",
+            "line": "‘Cause you're bigger. Makes it funnier. Keep working! Big man downstairs is entertaining. An intergalactic auction means that we have to provide more iron for Kasius to sell off. So we are working triple shifts. Hey, I answer to the fat cat Blues, same as you. Only I have to go and explain to them why we are not meeting our quotas. So make sure we do by the end of today. Except you. You're with me."
+        },
+        {
+            "character": "Grill",
+            "line": "Guy's name is Gunner. Thinks he's a tough guy. Owes me a lot of tokens. I need you to rough him up."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh. You need me to do what?"
+        },
+        {
+            "character": "Grill",
+            "line": "Beat his ass. Look, I got it on good authority that Gunner is waiting on a package from Level 35. Now, that is a high-security, Kreepers-only technology floor. He's in debt to me and getting tech from the Blues? I don't like that."
+        },
+        {
+            "character": "Mack",
+            "line": "But you already got enforcers. Why do you need me to do it?"
+        },
+        {
+            "character": "Grill",
+            "line": "Well, I had Zev. He was a snake. Now he's roach food. And have you looked in a mirror? You're a beast. Go be one."
+        }
+    ]
+}

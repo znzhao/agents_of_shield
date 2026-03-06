@@ -1,0 +1,167 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "CoulsonRecruitsMayAndFitzSimmonsIntroduced",
+    "description": "Coulson asks Melinda May to join the new operation, assuring her she only needs to 'drive the bus.' May is reluctant but ultimately agrees. Meanwhile, Fitz and Simmons are introduced on the S.H.I.E.L.D. Bus, engaging in witty banter about their gadgets and the 'night-night' gun. Ward also meets the team and is skeptical about May's role.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Agent May."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you've been briefed."
+        },
+        {
+            "character": "May",
+            "line": "I'm not going back in the field."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. You've got such a nice setup here. You ever thought about adding a moat? I just need you to drive the bus, liaise ground transpo, some on-site supervision. This isn't a combat op."
+        },
+        {
+            "character": "May",
+            "line": "Then you don't need me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I do. 'Cause we'll be running ourselves. Picking the ops... Making the calls... No red tape. This is where they actually make the red tape, isn't it? I always wondered. Melinda."
+        },
+        {
+            "character": "May",
+            "line": "You're really just asking me to drive the bus?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not asking. But it's a really nice bus."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa, whoa, whoa, whoa, whoa! Watch it! That's the night-night gun."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it's on my stuff, and it doesn't work, and there's no way we're calling it the night-night gun."
+        },
+        {
+            "character": "Fitz",
+            "line": "The bullets work. Nonlethal, heavy stopping power, Break up under the subcutaneous tissue..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, with a dose of only .1 microliters of dendrotoxin. I'm not Hermione. I can't create instant paralysis with that. You should have run the specs by me before building the molds."
+        },
+        {
+            "character": "Fitz",
+            "line": "The bullets are hollow! It's a marvel I can keep them from breaking apart in the chamber!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Or used a higher-caliber round. Or read a book."
+        },
+        {
+            "character": "Fitz",
+            "line": "Have you ever heard of physics or... What's the other one? Inertia?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not particularly difficult!"
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz-Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons. I'm engineering. She's biochem. Agent Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "Coulson said I'd need my comm receiver encoded. Don't know if you've worked with that model before. It's... brand-new."
+        },
+        {
+            "character": "Simmons",
+            "line": "He'll repurpose the I.D.I.S. chip."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't need the external receiver for the inner-ear comms anymore."
+        },
+        {
+            "character": "Ward",
+            "line": "So, uh, how does it..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Embedded sensorineural silicone matched to your DNA. It's very posh. So, are you excited to be coming on our journey into mystery?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's like Christmas."
+        },
+        {
+            "character": "Fitz",
+            "line": "One of Coulson's old S.H.I.E.L.D. collectibles. Flamethrowers, world's first GPS. He's mad for this crap."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't touch Lola."
+        },
+        {
+            "character": "Fitz",
+            "line": "And he calls it a girl's name."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lola's not just a collectible, you know. People tend to confuse the words “new” and “improved.” This mobile command, they were in heavy rotation back in the '90s, but then we got a heli-carrier. Hey. Did you hear the one about the guy who's afraid of flying?"
+        },
+        {
+            "character": "Ward",
+            "line": "I've done a night jump into a drop zone under heavy fire, sir. I can handle it."
+        },
+        {
+            "character": "Coulson",
+            "line": "That was a... joke. The first part of a... I'm not gonna tell it now."
+        },
+        {
+            "character": "May",
+            "line": "If you plan to unpack, make it quick. Wheels are up in five. We may have a hit on one of The Rising Tide's routing points."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. We need to do some catching up."
+        },
+        {
+            "character": "Ward",
+            "line": "Is that... who I think it is?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's just the pilot."
+        },
+        {
+            "character": "Ward",
+            "line": "Melinda May is “just the pilot.” Come on, sir. What game are you really playing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Better stow your gear."
+        }
+    ]
+}

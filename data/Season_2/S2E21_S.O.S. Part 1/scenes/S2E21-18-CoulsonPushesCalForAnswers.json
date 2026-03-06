@@ -1,0 +1,290 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 18,
+    "scene_name": "CoulsonPushesCalForAnswers",
+    "description": "Coulson interrogates Cal about Jiaying's actual motives. Cal, emotionally conflicted, reveals he developed unstable powers to protect Daisy but resents being used as a weapon. Their confrontation intensifies as Cal's transformation overtakes him, and Simmons and Fitz realize the danger he now poses as he goes berserk.",
+    "roles": [
+        "phil_coulson",
+        "calvin_johnson",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What is her plan?"
+        },
+        {
+            "character": "Cal",
+            "line": "Could... Could I get a glass of that water?"
+        },
+        {
+            "character": "Cal",
+            "line": "Ohh. May I have another one to drink?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That depends on your cooperation."
+        },
+        {
+            "character": "Cal",
+            "line": "They just want to live in peace. Is that such a crime?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Your wife assassinated a high-ranking SHIELD officer, then staged it to look like we attacked them. Wake up, Cal. She's trying to start a war, and your daughter's gonna be caught in the middle of it."
+        },
+        {
+            "character": "Cal",
+            "line": "I don't believe you. Neither of us would ever do anything to hurt our daughter."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. But you'd do anything to protect her. Look at yourself. Whatever was in these, it's killing you. Was getting rid of you part of her peace plan?"
+        },
+        {
+            "character": "Cal",
+            "line": "You got it all wrong, Phil. That little concoction is my own special formula. I took it of my own free will. You see, when my Daisy was stolen, I wasn't strong enough to protect her, so I started experimenting. If I wasn't born with Inhuman powers, then I would make my own. Best-laid plans. C'est la vie. I never got it quite right, always missing something. Highly unstable. Made me a little moody. Could it kill me? Sure. But it was worth the risk."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're here to take out some S.H.I.E.L.D. agents."
+        },
+        {
+            "character": "Cal",
+            "line": "No. I'm here to take out as many as I can."
+        },
+        {
+            "character": "May",
+            "line": "At least they didn't crash."
+        },
+        {
+            "character": "Hunter",
+            "line": "Maybe they both just needed a holiday. Bobbi always liked Spain. Probably sitting on a beach, telling 33 what a lousy husband I was. I did have my faults."
+        },
+        {
+            "character": "May",
+            "line": "Hunter."
+        },
+        {
+            "character": "Hunter",
+            "line": "That's my Bob. Never goes down without a fight. What the hell does Ward want with her?"
+        },
+        {
+            "character": "May",
+            "line": "No idea. But if anyone can handle him, it's Bobbi."
+        },
+        {
+            "character": "Ward",
+            "line": "Gonna be a long night. I knew you'd be tough. Coulson's got a good eye for talent, though he's a little blind when it comes to spies in his own house. You know, you and I are a lot alike, both of us living one life on the outside. But who we really are, we keep that buried deep inside where no one can ever find it. That's why Coulson never saw us coming. That's why you never saw me coming."
+        },
+        {
+            "character": "Morse",
+            "line": "Where's Kara?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sleeping. Oh, but don't worry. I can go all night. I need you to help me help her. Kara needs closure. Admit that you betrayed her, and we can end this. You're such a hypocrite. You say I betrayed her? You betrayed your entire team. How many people who trusted you have died? Yeah, I've seen the real Grant Ward, the one buried deep inside. He's a coward who always has an excuse or someone else to blame."
+        },
+        {
+            "character": "Ward",
+            "line": "You don't know me."
+        },
+        {
+            "character": "Morse",
+            "line": "Sure, I do."
+        },
+        {
+            "character": "Ward",
+            "line": "Now, is there anything you'd like to say to Kara?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. I'd do it all again."
+        },
+        {
+            "character": "Kara",
+            "line": "This isn't right. I'm not feeling it. She doesn't care if she dies, and she's not sorry."
+        },
+        {
+            "character": "Ward",
+            "line": "It's okay, baby. I know what to do."
+        },
+        {
+            "character": "Oliver",
+            "line": "Hey, Mack, everything checking out?"
+        },
+        {
+            "character": "Mack",
+            "line": "What can I say? I do good work. I'm headed down to machine room 2 to run a systems test."
+        },
+        {
+            "character": "Oliver",
+            "line": "Copy that. Keep me posted."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Where are the others?"
+        },
+        {
+            "character": "Gordon",
+            "line": "Already in their places."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you hurt anyone here, Daisy will never forgive you."
+        },
+        {
+            "character": "Cal",
+            "line": "Stop calling her that!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. I thought th... never mind."
+        },
+        {
+            "character": "Cal",
+            "line": "She's “Daisy” to me and her mother, not you, not anyone else."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fair enough, but my point is she's been led to believe that you're a monster."
+        },
+        {
+            "character": "Cal",
+            "line": "Innuendos! Lies!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you did wipe out an entire village."
+        },
+        {
+            "character": "Cal",
+            "line": "They were trying to hide her from me!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It was Jiaying's idea to destroy that village, wasn't it? Just like this was her idea. She told you to take this. She didn't care if it killed you. She's using you to do her dirty work."
+        },
+        {
+            "character": "Cal",
+            "line": "No! No! More lies!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You've always done her dirty work. She's the real monster."
+        },
+        {
+            "character": "Cal",
+            "line": "She's not like me."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. She's worse."
+        },
+        {
+            "character": "Cal",
+            "line": "She's not a monster!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Clear."
+        },
+        {
+            "character": "Fitz",
+            "line": "No response."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't lose him."
+        },
+        {
+            "character": "Fitz",
+            "line": "I thought you said he wanted to kill us!"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's Skye's father. We have to try."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm doing what I can. Get me an adrenaline injector, one milligram. Fitz, I need it now."
+        },
+        {
+            "character": "Cal",
+            "line": "You were looking for a monster?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everybody, out."
+        },
+        {
+            "character": "Cal",
+            "line": "Hmm. This is what I was missing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cal? Cal, listen to me. Cal, I can take you to Daisy, but you need to calm down."
+        },
+        {
+            "character": "Cal",
+            "line": "This is me calm, Phil. Aah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, I'm open to suggestions."
+        },
+        {
+            "character": "Fitz",
+            "line": "ICERs are a good start."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agreed. Got to admit, I'm not hopeful these will do anything but piss him off."
+        },
+        {
+            "character": "Simmons",
+            "line": "There are more lethal solutions."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet. He's Skye's father. Or at least, he was. I'm hoping there's still a sliver of the man who... Uh-oh."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh. And there goes the feeling in my legs."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get out of here."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now, go! Cal."
+        },
+        {
+            "character": "Cal",
+            "line": "Phil. Time for you to go night-night. Time for the big sleep. Time to die. For everyone in S.H.I.E.L.D. to die!"
+        },
+        {
+            "character": "Coulson",
+            "line": "This is Jiaying's plan, not yours."
+        },
+        {
+            "character": "Cal",
+            "line": "So what? I've always done whatever she asks. It makes me happy. It's why she loves me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Careful with her. She's unconscious, not dead. Just lock her up. We have to move fast."
+        }
+    ]
+}

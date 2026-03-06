@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 17,
+    "scene_name": "DaisySeeksLandmarkClues",
+    "description": "Daisy and Deke discuss the burden of time travel and Robin's cryptic visions. As they realize a possible clue to Coulson's location, the team begins searching for matching landscape features, setting up the hunt for Coulson.",
+    "roles": [
+        "skye",
+        "deke_shaw",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Well, once again, my life depends on a crayon drawing of a crazy person, which is great for me. Is May still with her?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I just cannot imagine bouncing back and forth between the past and the future like that. It sounds terrible."
+        },
+        {
+            "character": "Deke",
+            "line": "God, finally, someone gets it. Thank you for saying that, ‘cause it's been like a pretzel up here ever since I met up with you time travelers."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I was talking about Robin. I'm sorry about your brain."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, she's seen him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, let's start searching for landmarks that might match."
+        },
+        {
+            "character": "May",
+            "line": "It won't be easy. But that might be where he is."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 14,
+    "scene_name": "FitzAndHunterSayGoodbye",
+    "description": "With everything in place, Fitz and Hunter share an emotional farewell. Enoch assures Hunter that Fitz will be cared for during the long sleep. Hunter promises to look after Robin and her mother. The gravity of Fitz's sacrifice and the uncertainty for all weigh heavily as the friends part ways.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Oh, great. That's brilliant."
+        },
+        {
+            "character": "Enoch",
+            "line": "Are you ready?"
+        },
+        {
+            "character": "Hunter",
+            "line": "We'll look after those two. Bobbi could use a good cause."
+        },
+        {
+            "character": "Enoch",
+            "line": "Thank you, Lance Hunter."
+        },
+        {
+            "character": "Hunter",
+            "line": "Just make sure he gets back okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I guess this is it."
+        },
+        {
+            "character": "Hunter",
+            "line": "I've had a hell of a time, as always. I guess I underestimated your odds. Don't die out there, mate."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right. Yep. Okay. Yep."
+        },
+        {
+            "character": "Hunter",
+            "line": "I love you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 11,
+    "scene_name": "TeamDiscoversEndotexLeadAndHeadsOut",
+    "description": "Daisy, Mack, and Hunter rifle through Banks' belongings, finding a lead on Endotex Labs. They debate whether to bring Banks with them and decide to check out the facility themselves, leaving Banks behind. This pivots the team's focus from Banks to the mysterious ATCU lab site.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Guy shops at Costco."
+        },
+        {
+            "character": "Daisy",
+            "line": "Anything useful?"
+        },
+        {
+            "character": "Hunter",
+            "line": "There's not even any selfies. Banks, you are boring. Well, apart from the fact that he might be a giant beast who blows holes in people's chests, but... I-I-I didn't do it. I-It wasn't me. I..."
+        },
+        {
+            "character": "Mack",
+            "line": "We know. It's a phone. “Subject en route to Endotex.” No caller I.D."
+        },
+        {
+            "character": "Daisy",
+            "line": "Something called Endotex Labs in Gaithersburg? We could check it out. What do you think?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we've got time before Simmons comes back with results."
+        },
+        {
+            "character": "Hunter",
+            "line": "What about him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We could take him with us."
+        },
+        {
+            "character": "Mack",
+            "line": "I've been trapped in a moving vehicle with Lash before. Don't love the idea of it happening again."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, if he has the DNA markers, we know where to find him. Let's go."
+        }
+    ]
+}

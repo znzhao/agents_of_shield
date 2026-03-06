@@ -1,0 +1,59 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 14,
+    "scene_name": "CoulsonFindsTessDead",
+    "description": "Coulson and Mack discover that Tess has been killed and left as a warning for protecting Flint. The reality of the Kree's brutality becomes painfully personal, and they resolve to protect Flint at any cost.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Flint",
+            "line": "No. I can't be here anymore."
+        },
+        {
+            "character": "Mack",
+            "line": "Hold on. It's too dangerous out there."
+        },
+        {
+            "character": "Flint",
+            "line": "It's better than staring at the guy I just killed! I knew him! He was one of my best customers! Even gave me spare tokens from time to time."
+        },
+        {
+            "character": "Elena",
+            "line": "What happened to Grill is not your fault."
+        },
+        {
+            "character": "Coulson",
+            "line": "You had no choice. He was gonna kill us. Now, Mack and I, we're gonna go find Tess, and we're gonna get you on a Trawler, okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Kid should be playing ball or running for student council."
+        },
+        {
+            "character": "Mack",
+            "line": "Or class treasurer."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's pretty specific."
+        },
+        {
+            "character": "Mack",
+            "line": "Ah, served three terms. I'm a pretty financially responsible dude."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tess. They killed her because she wouldn't give up Flint."
+        },
+        {
+            "character": "Mack",
+            "line": "She's already dead. The only thing we can do now is try to keep Flint from meeting that same end. Come on."
+        }
+    ]
+}

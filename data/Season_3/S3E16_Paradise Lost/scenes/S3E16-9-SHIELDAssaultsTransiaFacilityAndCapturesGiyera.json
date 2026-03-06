@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 16,
+    "num": 9,
+    "scene_name": "SHIELDAssaultsTransiaFacilityAndCapturesGiyera",
+    "description": "May, Coulson, Mack, Fitz, and Simmons infiltrate the Transia Corporation facility in Michigan. They search for clues and set a trap for Giyera, who possesses telekinetic powers. May faces off against Giyera in close combat and, despite his formidable skills, manages to defeat and capture him for S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "giyera"
+    ],
+    "vibe": "action-packed",
+    "location": "Transia Corporation facility (Michigan / corporate sites)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "My friends, it's time to begin. I know you're wondering why we're here. It's been a long time, but today, we're not here for a ceremony, but a celebration. We've devoted our lives to bringing the HYDRA God back from exile, and I know some in this room have doubted that he'd ever return. You doubted me. Well..."
+        },
+        {
+            "character": "Hive",
+            "line": "They were wrong. My exile's over."
+        },
+        {
+            "character": "Vogel",
+            "line": "What is this? You're Grant Ward."
+        },
+        {
+            "character": "Hive",
+            "line": "Yes, I am. But this body is only a vessel, one of many who gave their life so that I could survive. As promised, all of the Travelers, the brave men who sacrificed for me, have finally returned. Thanks to the Malick family. You'll all get what you deserve. And for those of you still having doubts, see and believe."
+        },
+        {
+            "character": "Man",
+            "line": "The area's clear, Director. Scanning the building for Giyera."
+        },
+        {
+            "character": "May",
+            "line": "Most of the lab equipment's been taken away. Files, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "What hasn't been taken away has been destroyed."
+        },
+        {
+            "character": "Mack",
+            "line": "Nope. Nothing sinister about that."
+        }
+    ]
+}

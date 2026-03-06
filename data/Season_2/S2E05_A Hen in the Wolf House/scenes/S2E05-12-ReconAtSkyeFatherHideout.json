@@ -1,0 +1,131 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 12,
+    "scene_name": "ReconAtSkyeFatherHideout",
+    "description": "Armed with the address provided by Raina, Coulson, May, Skye, Hunter, and Triplett reconvene and run surveillance on Skye's father's location. Skye enters alone but finds only evidence of his rushed departure and a photograph. The team finds murdered bodies, and Skye is left shaken, calling her father a monster as he watches from afar and departs, devastated.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "lance_hunter",
+        "antoine_triplett"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "The address Raina gave us is only a few blocks away."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I thought she chose this place for the ambiance."
+        },
+        {
+            "character": "May",
+            "line": "Remember what Lumley said about Skye?"
+        },
+        {
+            "character": "Coulson",
+            "line": "“Wherever she goes, death follows?” Yeah, that was a memorable quote."
+        },
+        {
+            "character": "May",
+            "line": "Look, we know Skye's father has been searching for her all this time. What if he's what Lumley is so afraid of?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Probably a trap, isn't it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Could be. I'll need you running surveillance. May, check the scanners. Make sure local P.D. aren't patrolling the area. And, Skye... Where's Skye?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hello? Anyone here? You wanted to meet. Well, here I am. Where did you go?"
+        },
+        {
+            "character": "Coulson",
+            "line": "So he was here."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. I just wanted a glimpse."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're having one hell of a day, huh? We'll find him. It's okay. It's okay."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, is this a group-hug-type situation?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You find anything?"
+        },
+        {
+            "character": "Hunter",
+            "line": "The place has been cleared out... Must have left in a hurry. Agent May's checking the back room."
+        },
+        {
+            "character": "Skye",
+            "line": "Have you been drinking?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I was working. Had to maintain my cover."
+        },
+        {
+            "character": "Skye",
+            "line": "Your cover as what... Ron Burgundy?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I can see why she frustrates you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May, any sign of him?"
+        },
+        {
+            "character": "May",
+            "line": "No. But there's something you need to see."
+        },
+        {
+            "character": "May",
+            "line": "Looks like a small blade, probably a scalpel. And this is just pure strength. Whoever did this..."
+        },
+        {
+            "character": "Skye",
+            "line": "We all know who did this."
+        },
+        {
+            "character": "Skye",
+            "line": "Look at what he did. I can't believe it."
+        },
+        {
+            "character": "Cal",
+            "line": "No, no, no...."
+        },
+        {
+            "character": "Skye",
+            "line": "He's a..."
+        },
+        {
+            "character": "Cal",
+            "line": "Monster."
+        },
+        {
+            "character": "Triplett",
+            "line": "This is SHIELD-218, asking permission to land."
+        },
+        {
+            "character": "Man",
+            "line": "You're cleared for landing, SHIELD-218."
+        }
+    ]
+}

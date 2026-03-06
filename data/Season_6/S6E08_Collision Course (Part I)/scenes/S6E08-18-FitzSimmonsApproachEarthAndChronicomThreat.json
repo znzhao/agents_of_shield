@@ -1,0 +1,94 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 18,
+    "scene_name": "FitzSimmonsApproachEarthAndChronicomThreat",
+    "description": "Izel's ship appears to be landing as Fitz and Simmons notice the crew's absence. On the Zephyr, the team stands by for the next move. Meanwhile, on Chronica II, Enoch speaks with a Chronicom ally about rallying survivors, while Malachi and another Chronicom discuss the pursuit of Fitz and Simmons, setting up the next threat.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "enoch",
+        "malachi"
+    ],
+    "vibe": "suspenseful",
+    "location": "Chronica II (Chronicom homeworld)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I think the ship's landing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where is everyone?"
+        },
+        {
+            "character": "Davis",
+            "line": "What's the call, sir? Standing by."
+        },
+        {
+            "character": "Enoch",
+            "line": "Isaiah. Thank you for getting back to me."
+        },
+        {
+            "character": "Isaiah",
+            "line": "Enoch, hello. It's been a long time. You look the same."
+        },
+        {
+            "character": "Enoch",
+            "line": "As do you. How are things on planet Leitner? Has the population progressed?"
+        },
+        {
+            "character": "Isaiah",
+            "line": "No. Still cooking with feces, living in caves. But at least I have a home."
+        },
+        {
+            "character": "Enoch",
+            "line": "So you've heard?"
+        },
+        {
+            "character": "Isaiah",
+            "line": "Yes, unfortunately."
+        },
+        {
+            "character": "Enoch",
+            "line": "Then you know why I contacted you. I am hoping to organize our fellow anthropologists, who were safely stationed away from home."
+        },
+        {
+            "character": "Isaiah",
+            "line": "Are we all that is left?"
+        },
+        {
+            "character": "Enoch",
+            "line": "A few others made it out, but I am... avoiding them at the moment."
+        },
+        {
+            "character": "Isaiah",
+            "line": "Yes, I've seen your name on the data-streams. You've always been very reckless."
+        },
+        {
+            "character": "Enoch",
+            "line": "And you, cautious. But we must gather the fragments of our broken civilization and repair."
+        },
+        {
+            "character": "Isaiah",
+            "line": "I agree. There must be a plan."
+        },
+        {
+            "character": "Baal-Gad",
+            "line": "I will hunt Enoch down and tear him apart piece by piece. The traitor."
+        },
+        {
+            "character": "Malachi",
+            "line": "Earth made him soft. It is unlikely he will survive anywhere else. We have more pressing concerns."
+        },
+        {
+            "character": "Baal-Gad",
+            "line": "Leopold Fitz and Jemma Simmons. I will gather a force to find them and bring them back."
+        },
+        {
+            "character": "Malachi",
+            "line": "That is not necessary. We do not need their bodies. We have their brains. And I'm going in."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "enoch",
+        "elena_rodriguez",
+        "nathaniel_malick",
+        "sibyl",
+        "sousa"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Daisy Johnson",
+        "Simmons",
+        "Mack",
+        "Deke",
+        "Enoch",
+        "Yo-Yo",
+        "Sousa",
+        "Nathaniel Malick",
+        "Sibyl",
+        "Agent Johnson"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Chronicoms"
+    ],
+    "locations": [
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Chronicom warship (spacefaring vessel)"
+    ]
+}

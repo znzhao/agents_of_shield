@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 13,
+    "scene_name": "SimmonsAndBobbiBond",
+    "description": "Simmons and Bobbi talk in the lab about injuries and trauma. Simmons apologizes for her earlier outburst, and Bobbi encourages her to talk about her desire to return to the alien world, referencing Fitz's ongoing concern for her. Their empathetic exchange strengthens their friendship and highlights Simmons' unresolved struggle.",
+    "roles": [
+        "jemma_simmons",
+        "bobbi_morse"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Looks like your rehab's going well."
+        },
+        {
+            "character": "Morse",
+            "line": "Can't lie. Doesn't feel like it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I understand. I read up on your surgeries, two on the knee, three on the lung."
+        },
+        {
+            "character": "Morse",
+            "line": "What's left of it. Don't forget those fun-loving abscesses."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, knowing you, I'm sure you'll be 100% in no time. I'm sorry I snapped before."
+        },
+        {
+            "character": "Morse",
+            "line": "No apology necessary."
+        },
+        {
+            "character": "Simmons",
+            "line": "I thought you told Fitz what I told you, and I..."
+        },
+        {
+            "character": "Morse",
+            "line": "Jemma, seriously, stop. I mean, here I am, complaining to you, after what you've been through. Have you told anyone else that you want to go back? You might want to. There's someone in particular who's really worried about you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I wonder who that might be."
+        },
+        {
+            "character": "Morse",
+            "line": "He's driving me nuts, you know? The other day, he snapped at me just because I put a bio sample into a clear specimen bag."
+        },
+        {
+            "character": "Simmonss",
+            "line": "Clear? Well, “B” is for “blue” is for “biological.” And now I see how that would drive you out of the lab."
+        },
+        {
+            "character": "Morse",
+            "line": "Actually, um... it's not all Fitz's fault. I just got this old, familiar feeling in my gut and had to run."
+        },
+        {
+            "character": "Simmons",
+            "line": "What feeling is that?"
+        },
+        {
+            "character": "Morse",
+            "line": "Like Hunter's in trouble."
+        }
+    ]
+}

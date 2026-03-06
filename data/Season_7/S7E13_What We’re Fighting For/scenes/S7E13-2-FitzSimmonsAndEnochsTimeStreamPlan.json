@@ -1,0 +1,175 @@
+{
+    "season": 7,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "FitzSimmonsAndEnochsTimeStreamPlan",
+    "description": "Fitz gently helps Simmons recover her memories while recounting their period in hiding, how Enoch rescued them with a copy of the Time Stream, and their escape with Piper and Flint's help. Using Flint's powers, they make a piece of the Time Monolith crucial to their later time drive. FitzSimmons and Enoch escape into space, using the time away to build their device and have a life together, even as Simmons struggles with guilt for leaving her friends.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "enoch",
+        "piper",
+        "flint"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Okay. Okay, I need to... I need to take it slow with her, or her mind might collapse."
+        },
+        {
+            "character": "Mack",
+            "line": "Just get her to remember you. That's the most important thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, it's not. I need to take something small that she does remember, and I'm gonna draw a line from that to all of the rest. Okay. Jemma. I-I was gonna tell your friends a story, and I was wondering if you could help me fill in some of the blanks."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's okay. We know him."
+        },
+        {
+            "character": "FItz",
+            "line": "Yeah. And I... I know some things about you, too. Like, when you were younger, you had scoliosis. Yeah? And y-you would spend your nights lying on your back with your father..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Looking up at the stars."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. And do you remember what your favorite star was?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Theta Serpentis. Though, technically, it was a... a triple star system in the constellation, uh, Serpens."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, that's right. That's right. What was the traditional name of it? The biggest star in that system?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Alya."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Okay. I want you to lock on to that name, because that's where we went."
+        },
+        {
+            "character": "Fitz",
+            "line": "Enoch saved us, wearing another skin."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do we have to do?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Change the natural course of your lives forever."
+        },
+        {
+            "character": "Fitz",
+            "line": "And he got us out of there."
+        },
+        {
+            "character": "Flint",
+            "line": "Hey."
+        },
+        {
+            "character": "Enoch",
+            "line": "Turn this Quinjet around."
+        },
+        {
+            "character": "Piper",
+            "line": "What the hell are you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Enoch, put your face on. You're freaking everybody out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Listen, Piper. We need to head back into the jungle, to Zephyr One."
+        },
+        {
+            "character": "Piper",
+            "line": "What, to help take out Izel?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, Izel... right. No, we have bigger problems than that."
+        },
+        {
+            "character": "Flint",
+            "line": "Uh, is that a normal thing around here?"
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "How did you know the jet would be here? How are you predicting these things?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It's called the Time Stream. I stole a copy of it. My time with Fitz taught me how to be an outlaw, and I've gotten quite good at it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Flint made us a piece of the Time Monolith to help us do what had to be done."
+        },
+        {
+            "character": "Enoch",
+            "line": "Thank you. Now, wait here a moment. We'll be right back."
+        },
+        {
+            "character": "Enoch",
+            "line": "We need to get away from here and head to space. So pick a star system."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know just the one."
+        },
+        {
+            "character": "Fitz",
+            "line": "We arrived safely in that distant solar system, and I began to study the Time Stream. Jemma, you were afraid it would drive me mad or give me radiation poisoning to interact with it. But we had no choice. We needed solutions. And there was only one path that gave us a chance to succeed. We knew it would take a while to complete our designs."
+        },
+        {
+            "character": "Enoch",
+            "line": "It's a good thing we are building a time machine, as it does not matter how long it takes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Could just take some time to... live."
+        },
+        {
+            "character": "Simmons",
+            "line": "And we did."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. We did. For years. We had our happily ever after. We knew our friends needed us, not to mention mankind. But we didn't want to say goodbye. So we put it off. But we couldn't stay forever."
+        },
+        {
+            "character": "Simmons",
+            "line": "But I feel the guilt inside... the guilt for having left. A part of me being torn away! No, I don't want to forget!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, hey."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't want to forget!"
+        },
+        {
+            "character": "Fitz",
+            "line": "So we jumped back to the moment we left."
+        }
+    ]
+}

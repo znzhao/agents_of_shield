@@ -1,0 +1,104 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 11,
+    "scene_name": "PiperSetsTrapForSHIELD",
+    "description": "The S.H.I.E.L.D. team is confronted by Piper holding them at gunpoint, revealing she has cut a deal with General Hale in exchange for her freedom and the team's safety. The team is shocked by her betrayal as armed agents storm in. Tension escalates when it's revealed the beacon was a trap to lure them out, and when the masked woman (Ruby) orders the team’s execution, Piper realizes she's been deceived.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "St. Louis (site of the Kree beacon)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I think I've got it."
+        },
+        {
+            "character": "Piper",
+            "line": "Makes me look like an idiot."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've taken on a lot alone."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, well, you guys don't look like you've been on vacation. When do I get the download?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The power source was being set off by this. It's a bimetallic thermal expansion trigger. Well, that... basically, it's a timer."
+        },
+        {
+            "character": "Simmons",
+            "line": "It looks manmade."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, it is. Everything else in here is new to me. This was installed by hand. A little sloppily, if you ask me."
+        },
+        {
+            "character": "Piper",
+            "line": "I told you, I don't do science. Relax. No one needs to get hurt."
+        },
+        {
+            "character": "Elena",
+            "line": "What is this?"
+        },
+        {
+            "character": "Piper",
+            "line": "I'm sorry. I'm most wanted, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "You cut a deal?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You're saying the beacon..."
+        },
+        {
+            "character": "Piper",
+            "line": "The beacon wasn't meant to call aliens. It was meant to call you."
+        },
+        {
+            "character": "Man",
+            "line": "Drop your weapons."
+        },
+        {
+            "character": "Piper",
+            "line": "The guns are just so nobody does anything stupid."
+        },
+        {
+            "character": "Fitz",
+            "line": "Too late for that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Piper, why?"
+        },
+        {
+            "character": "Piper",
+            "line": "I followed your orders. Truthfully, I thought you were dead. When they nabbed me, I told your story."
+        },
+        {
+            "character": "Coulson",
+            "line": "To General Hale."
+        },
+        {
+            "character": "Piper",
+            "line": "Everything. Ivanov, Radcliffe, LMDs, Framework. Look, Hale knows you're not guilty. She guaranteed your safety. She just... She wanted to bring you in. Okay? You don't have to run anymore."
+        },
+        {
+            "character": "Man",
+            "line": "Your orders?"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "season": 6,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "SimmonsDiscoversSargeAlive",
+    "description": "FitzSimmons continue their analysis and are shocked to discover that Sarge’s wounds have mysteriously and completely healed. Mack checks on their progress, worried about the potential threat Sarge still poses if alive. The scientists agree Sarge is dangerous and must remain contained while they work on answers.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "You called for me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Thought you'd want to see this."
+        },
+        {
+            "character": "Mack",
+            "line": "Why are you hiding Sarge down here? Is he still hanging on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You could say that."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I thought for sure he'd bleed out by now with... all those wounds."
+        },
+        {
+            "character": "Simmons",
+            "line": "What wounds? They've all healed... Completely."
+        },
+        {
+            "character": "Mack",
+            "line": "That doesn't make any sense."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. We expect things around here to make sense now?"
+        },
+        {
+            "character": "Mack",
+            "line": "What is he?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz and I asked the exact same question. We're working on it."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you did the right thing hiding him down here till we know what's going on. In the meantime, I'm gonna post a guard down here with you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Absolutely not. The fewer people that know about Sarge, the better."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not gonna leave you down here alone. If he's alive, he's dangerous."
+        },
+        {
+            "character": "Simmons",
+            "line": "With respect, sir, I'll be fine. He's restrained."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not gonna take that chance. I fought him. I know how strong he is."
+        }
+    ]
+}

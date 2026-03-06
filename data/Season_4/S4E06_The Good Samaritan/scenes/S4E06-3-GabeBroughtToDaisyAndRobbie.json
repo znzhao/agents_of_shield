@@ -1,0 +1,106 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 3,
+    "scene_name": "GabeBroughtToDaisyAndRobbie",
+    "description": "Gabe Reyes receives a call from Daisy Johnson, who comes to escort him to his brother. Daisy is careful and doesn’t reveal all, helping ensure his safety. Meanwhile, Simmons is reluctantly sent on a classified government mission by Director Mace, who refuses to share any specifics, foreshadowing increased stakes and secrecy in their operations.",
+    "roles": [
+        "jemma_simmons",
+        "jeffrey_mace",
+        "gabe_reyes",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gabe",
+            "line": "Hey, Mr. Canelo, it's, uh, Gabriel Reyes. I was just wondering if Robbie showed up to work this morning. No, he... he took the Charger a few days ago. I haven't heard from him. Oh, no, I... I-I-I tried. I just..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Gabe? It's Daisy Johnson."
+        },
+        {
+            "character": "Gabe",
+            "line": "Can I call you back?"
+        },
+        {
+            "character": "Gabe",
+            "line": "Where's my brother?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm here to take you to him."
+        },
+        {
+            "character": "Gabe",
+            "line": "How come he didn't come? Or call?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I think it'd be better if you heard it from him."
+        },
+        {
+            "character": "Gabe",
+            "line": "Okay, if you think I'm just gonna get in some car and..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Who said anything about a car?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can't you just send Nathanson?"
+        },
+        {
+            "character": "Mace",
+            "line": "Mm, it's not so much a request as an assignment. A top-secret, very classified, “for your eyes and ears only” assignment."
+        },
+        {
+            "character": "Simmons",
+            "line": "But I thought the new S.H.I.E.L.D. was transparent, limited only by your colorful spectrum of security."
+        },
+        {
+            "character": "Mace",
+            "line": "That's mostly true, uh, but this assignment isn't coming from me or anyone else within S.H.I.E.L.D. It's a favor for the United States government."
+        },
+        {
+            "character": "Simmons",
+            "line": "Could you be more specific about the details of this assignment?"
+        },
+        {
+            "character": "Mace",
+            "line": "Only that, as the leading scientific authority on Inhumans, your expertise has been requested by people at the very highest levels. Agent Simmons, I'm sure you can appreciate that cooperation with the U.S. government is crucial as we begin a new era here at S.H.I.E.L.D. So please, help me, help the U.S.A., help us."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fine. I'll go. Just give me a few hours to pack, gather my equipment, and tie up some loose ends."
+        },
+        {
+            "character": "Mace",
+            "line": "Uh, I guess I wasn't clear. You have to leave now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can you at least tell me where..."
+        },
+        {
+            "character": "Burrows",
+            "line": "The Quinjet is ready, sir."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. We're going together."
+        },
+        {
+            "character": "Mace",
+            "line": "No. The Quinjet's for me. I have my own mission. Uh, but this is for you. “A team that trusts is a team...”"
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't."
+        }
+    ]
+}

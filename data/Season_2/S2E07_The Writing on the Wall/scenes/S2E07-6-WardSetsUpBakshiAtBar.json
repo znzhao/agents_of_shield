@@ -1,0 +1,229 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "WardSetsUpBakshiAtBar",
+    "description": "Ward manipulates a Hydra contact and meets Bakshi at a bar. He's trying to orchestrate a meeting to get Bakshi close to Coulson, while Hunter tracks the exchange. Ward's cunning and negotiation skills are on display as he outmaneuvers both HYDRA and S.H.I.E.L.D., setting up his larger plan.",
+    "roles": [
+        "grant_ward",
+        "lance_hunter",
+        "sunil_bakshi"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Need some help with those?"
+        },
+        {
+            "character": "Eliza",
+            "line": "I'm okay."
+        },
+        {
+            "character": "Ward",
+            "line": "It's no problem, really. I promise... I don't bite. I'm Zack."
+        },
+        {
+            "character": "Eliza",
+            "line": "Eliza. This is Graham."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey, Graham. So... want to give me a hand with this?"
+        },
+        {
+            "character": "Graham",
+            "line": "Sure."
+        },
+        {
+            "character": "Ward",
+            "line": "Alright. Looks like you don't need my help after all. Graham here is doing all the heavy lifting. You mind if I tag along with you anyway? Where you heading?"
+        },
+        {
+            "character": "Eliza",
+            "line": "Dallas."
+        },
+        {
+            "character": "Ward",
+            "line": "Must be fate."
+        },
+        {
+            "character": "Eliza",
+            "line": "Here you go, sweetie. Thank you. You're a real savior. Join us for the ride?"
+        },
+        {
+            "character": "Ward",
+            "line": "I prefer the back. Excuse me. Is that seat taken?"
+        },
+        {
+            "character": "Morse",
+            "line": "All yours."
+        },
+        {
+            "character": "Ward",
+            "line": "Thanks. Don't like to fly, huh?"
+        },
+        {
+            "character": "Morse",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Ward",
+            "line": "I never understood why people would take the bus when they can fly."
+        },
+        {
+            "character": "Morse",
+            "line": "Says the man on the bus."
+        },
+        {
+            "character": "Ward",
+            "line": "Uh, last-minute trip. Didn't have a choice. You here by choice?"
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, I like the scenery. Can't see the world with your head in the clouds."
+        },
+        {
+            "character": "Ward",
+            "line": "Can't see it with your face in a book, either."
+        },
+        {
+            "character": "Morse",
+            "line": "It's a long trip. There's plenty of time for everything."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, you could just skip to the end."
+        },
+        {
+            "character": "Morse",
+            "line": "And miss all the good parts in between?"
+        },
+        {
+            "character": "Ward",
+            "line": "Can't be that interesting."
+        },
+        {
+            "character": "Morse",
+            "line": "Why do you say that?"
+        },
+        {
+            "character": "Ward",
+            "line": "Because you were on page 117 when you were waiting outside. And you're still on page 117. So either you're a really slow reader... or you're working for Coulson."
+        },
+        {
+            "character": "Morse",
+            "line": "Who?"
+        },
+        {
+            "character": "Ward",
+            "line": "I am impressed. You can tell him I said that. I almost missed you."
+        },
+        {
+            "character": "Morse",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sure they told you about this. If you try or say anything... everyone in this bus will be flying. So, just keep reading your book and hope for a happy ending. Driver."
+        },
+        {
+            "character": "Driver",
+            "line": "Yes, sir?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm on the wrong bus. Guess I, uh... need to pay closer attention to things."
+        },
+        {
+            "character": "Ward",
+            "line": "Sorry. Had to get rid of some excess baggage."
+        },
+        {
+            "character": "Morse",
+            "line": "You were right, May. He's good. Very good. Hunter, if you're in position, he's all yours."
+        },
+        {
+            "character": "Hunter",
+            "line": "Copy that, darlin'. Happy to oblige."
+        },
+        {
+            "character": "Simmons",
+            "line": "The cuts were all quite deep, but the cause of death was cardiac arrest. She died from shock due to the pain, not from the wounds. Very common in this type of ritualistic murder."
+        },
+        {
+            "character": "Skye",
+            "line": "Ritualistic?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It has all the characteristics. The cuts are very precise, and the killer continued to carve on her long after she died, as if there were some need to complete the work. My hunch is that it wasn't the first time, either. It's also not the first time we've seen these carvings. They're the same ones Garrett was making, correct?"
+        },
+        {
+            "character": "Woman",
+            "line": "Dr. Simmons, here are the reports you requested."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you. It's the analysis from the subjects."
+        },
+        {
+            "character": "Coulson",
+            "line": "Subjects, plural?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We found blood and tissue samples from a secondary source under her nails. She put up a fight. Oh, no. Just as I suspected. She had GH-325 in her blood."
+        },
+        {
+            "character": "Coulson",
+            "line": "A Tahiti patient."
+        },
+        {
+            "character": "Simmons",
+            "line": "Whoever killed her also had GH-325 in their blood."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't look at me. I didn't do it."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, of course, but you both had GH-325 injections. Hypergraphia was one of the side effects they tried to treat with memory replacement. Garrett suffered from it. Apparently, so does our killer, and they both turned into dangerous psychopaths. Have either of you been experiencing a compulsion to write or carve?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're fine. But somewhere out there is a Tahiti patient who may be targeting all the others. We need to find him."
+        },
+        {
+            "character": "Simmons",
+            "line": "The patient files were all destroyed. How would anyone be able to locate them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Skye",
+            "line": "How many Tahiti patients were there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you think the killer will come after the two of you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Skye",
+            "line": "If you don't know anything, then how are we gonna find them?"
+        }
+    ]
+}

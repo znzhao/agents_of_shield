@@ -1,0 +1,80 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 12,
+    "scene_name": "HiveTestsDaisysAllegiance",
+    "description": "Hive and Daisy discuss S.H.I.E.L.D. and loyalty, with Hive questioning Daisy's willingness to fight her former friends if necessary. Daisy declares her readiness to convert the team by force if needed, assuring Hive of her commitment to his cause right before Hive’s plan takes a sudden turn with the imminent arrival of the Kree.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Alisha said you wanted to see me."
+        },
+        {
+            "character": "Hive",
+            "line": "You and I share similar paths. We were both created by outside forces."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not sure I'm following."
+        },
+        {
+            "character": "Hive",
+            "line": "My powers were given by the Kree, yours by S.H.I.E.L.D. They're the ones who made us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why are you worried about S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Hive",
+            "line": "Because I'm curious if you can defeat what made you."
+        },
+        {
+            "character": "Daisy",
+            "line": "The people at S.H.I.E.L.D. are my friends."
+        },
+        {
+            "character": "Hive",
+            "line": "Friends who will turn on you, who will try and sabotage the connection we share."
+        },
+        {
+            "character": "Daisy",
+            "line": "Only because they don't understand, but they will if we can make them share our connection."
+        },
+        {
+            "character": "Hive",
+            "line": "You want to put your friends through the Kree experiment."
+        },
+        {
+            "character": "Daisy",
+            "line": "Once Radcliffe has worked out the kinks, yeah. Yeah, I do."
+        },
+        {
+            "character": "Hive",
+            "line": "They may not be receptive to that idea."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, I have to at least try. It's the only way we can save them."
+        },
+        {
+            "character": "Hive",
+            "line": "And what if you fail, if they decide to turn on you instead, to come after us with their weapons of war, to kill me, to kill all of us? What then?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Then I would rip their hearts out."
+        },
+        {
+            "character": "Hive",
+            "line": "Hearing that comes as a relief, especially now that our plans have changed."
+        }
+    ]
+}

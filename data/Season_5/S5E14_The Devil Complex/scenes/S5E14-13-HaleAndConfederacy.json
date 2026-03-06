@@ -1,0 +1,47 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 13,
+    "scene_name": "HaleAndConfederacy",
+    "description": "In the aftermath, Hale is seen reporting to the Confederacy, vowing she has acquired the final piece to her plan. The Confederacy reminds her of the consequences of failure, issuing a veiled threat with the Odium. The episode closes on this ominous note, teeing up further threats to come.",
+    "roles": [
+        "hale"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "Apologies for the delay."
+        },
+        {
+            "character": "Qovas",
+            "line": "Still empty-handed. You see how your lack of results could be construed as ineptitude."
+        },
+        {
+            "character": "Hale",
+            "line": "If you thought less of me, I wouldn't be here."
+        },
+        {
+            "character": "Qovas",
+            "line": "You're here because the Confederacy allows it. You want a seat at the table, you must prove you are deserving of it."
+        },
+        {
+            "character": "Hale",
+            "line": "I've secured what I believe to be the final piece. It's all within reach."
+        },
+        {
+            "character": "Qovas",
+            "line": "Always said prior to failure."
+        },
+        {
+            "character": "Hale",
+            "line": "No, I'd die before that happened."
+        },
+        {
+            "character": "Qovas",
+            "line": "Well, before you do that, there's a tradition within the Confederacy. If one faces failure, you drink the Odium. Fight your last in a wave of savage glory. But if your resolve is as strong as you claim, you'll have no need of it. I hope fortune turns your way. And, of course, hail HYDRA."
+        }
+    ]
+}

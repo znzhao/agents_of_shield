@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 19,
+    "scene_name": "HunterAndMaySearchForBobbi",
+    "description": "In Spain, Hunter and May discuss their mission and the dangers ahead as they track down Bobbi’s last known location. Their banter covers personal regrets and what they’re willing to do to save her, highlighting Hunter’s lingering feelings and May’s resolve to stop Ward.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "A day ago, I never wanted to talk to her again. Now she's all I can think about."
+        },
+        {
+            "character": "May",
+            "line": "Love's weird that way."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm not sure it's love. More like a dance of desire, discomfort, and unreliable feelings. Hold on. Bobbi's phone's back in service. Shouldn't be too hard to trace this to a location."
+        },
+        {
+            "character": "May",
+            "line": "Could be a trap."
+        },
+        {
+            "character": "Hunter",
+            "line": "Been there, done that. Most of my marriage to Bobbi felt like a trap. But, we did have our good times. So you up for this?"
+        },
+        {
+            "character": "May",
+            "line": "If it means finding Ward and putting a bullet in his head, I'm all in."
+        },
+        {
+            "character": "Hunter",
+            "line": "Guess love is weird that way."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 2,
+    "scene_name": "TeamDebriefOnDeathlok",
+    "description": "Fitz, Simmons, and Skye watch a news report about Deathlok's actions and speculate on his motives and connections. Coulson calls the team together to outline how Cybertek, Quinn, and Garrett are all linked, revealing Skye's implanted Trojan horse as their route to counterattack. The team resolves to break into Cybertek, assisted by a cache of vintage Howling Commando tech from Triplett, setting the stage for their next mission.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "john_garrett",
+        "raina",
+        "michael_peterson",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "Eyewitnesses claim the assailant smashed through several walls before killing Colombia's most notorious drug lord, Alejandro Castillo, A.K.A. El Dogo. Speculation continues as to whether this superhuman assassination was carried out by a man, monster, or machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "The correct answer is “d,” all of the above. What the hell is Deathlok doing in Bogota?"
+        },
+        {
+            "character": "Simmons",
+            "line": "And why would he kill a drug lord with known ties to Hydra?"
+        },
+        {
+            "character": "Skye",
+            "line": "Well, if they really are in Colombia, then Garrett and our hijacked plane might not be in American airspace. I have to expand our search."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guys... you want to come in here for a minute? This is just about everything we've been dealing with. And this... connects them all. Cybertek built Deathlok, shipped items to Quinn, who was working for the Clairvoyant, who turned out to be Garrett, who planted Ward on our bus because he wanted to know why I didn't stay dead. Should have drawn another chart for this part."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I get it. Garrett's been developing Centipede serum all this time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "And he wants GH-325 as its final ingredient... a way to stabilize and regenerate his Centipede soldiers."
+        },
+        {
+            "character": "May",
+            "line": "And it's why Ward came back for the hard drive. It had all of your research about Coulson and Skye. It's all on there."
+        },
+        {
+            "character": "Coulson",
+            "line": "But that's not the only thing on there. Skye left them a little surprise."
+        },
+        {
+            "character": "Skye",
+            "line": "A trojan horse. It's been slowly mapping every system they've uploaded it to."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's brilliant."
+        },
+        {
+            "character": "Simmons",
+            "line": "Trojan horse."
+        },
+        {
+            "character": "Fitz",
+            "line": "You can wake it up and take over their systems."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well done, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Thanks. Except it doesn't work that way because I didn't have enough time to build it, so we need to plug this into one of their computers to activate it. Spoiler alert... we can't seem to find one."
+        },
+        {
+            "character": "May",
+            "line": "I think we have. Garrett and Cybertek have been working together for years. If it's on Garrett's system..."
+        },
+        {
+            "character": "Skye",
+            "line": "It's on Cybertek's."
+        },
+        {
+            "character": "May",
+            "line": "Which is why we're gonna go into one of their offices."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have no authority to do this. We're no longer S.H.I.E.L.D. agents. We're..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're vigilantes."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was gonna say, “doing this because it's the right thing to do,” but... yeah. So, if you're with me, I'm gonna finish what I started. I'll be damned if I'm gonna let Garrett and Ward get away with murder. And I want my plane back."
+        }
+    ]
+}

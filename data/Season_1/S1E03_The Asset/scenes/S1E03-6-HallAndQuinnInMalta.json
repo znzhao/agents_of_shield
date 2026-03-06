@@ -1,0 +1,135 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 6,
+    "scene_name": "HallAndQuinnInMalta",
+    "description": "In Malta, Dr. Hall awakens as a 'guest' of Ian Quinn, who boasts about his immunity and fortune gained from mining. Quinn shows Hall the miniaturized gravity device powered by 'gravitonium,' based on Hall's theoretical blueprints. Quinn tries to recruit Hall to complete a full-scale device, arguing Hall will want to see his life's work done right. Hall remains wary, aware of the dangers.",
+    "roles": [
+        "ian_quinn"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "We can't just pluck it from the ground like a potato. It needs to be extracted from the ore and enriched. I know. You know, tell him this investment paid for that ridiculous yacht of his and that he'll thank me at the shareholders meeting."
+        },
+        {
+            "character": "Quinn",
+            "line": "Why is he tied up?"
+        },
+        {
+            "character": "Hall",
+            "line": "Quinn."
+        },
+        {
+            "character": "Quinn",
+            "line": "Does he look like a threat? I'm sorry about these guys. Welcome to Malta, Frank."
+        },
+        {
+            "character": "Hall",
+            "line": "You know, it's one thing to steal my ideas, Ian, but stealing me?"
+        },
+        {
+            "character": "Quinn",
+            "line": "First of all, I never stole your ideas. We've always agreed information should be free."
+        },
+        {
+            "character": "Hall",
+            "line": "It's amazing how much money you made off free information."
+        },
+        {
+            "character": "Quinn",
+            "line": "Secondly, think of this as a rescue mission, Frank. In fact, in a moment, I think you'll be thanking me. My staff intercepted a communication about the movement of a certain asset, and when I deduced that asset was you, I couldn't pass up on the opportunity. It's a little out of my comfort zone, sure."
+        },
+        {
+            "character": "Hall",
+            "line": "Malta. You're not stupid. S.H.I.E.L.D. can't come after you here."
+        },
+        {
+            "character": "Quinn",
+            "line": "Not just S.H.I.E.L.D. I am now a naturalized citizen of this fair country. Stunning beaches, beautiful tax laws, and a deep-seated hatred of outside forces telling them what to do."
+        },
+        {
+            "character": "Hall",
+            "line": "Sounds like your dating profile."
+        },
+        {
+            "character": "Quinn",
+            "line": "I moved my entire operation down here. Bought the old prime minister's estate. It's not really my style, but it had this huge underground facility, so I figured, hey."
+        },
+        {
+            "character": "Hall",
+            "line": "Always been a stubborn bastard. Now you've finally found a place where the watchdogs can't touch you."
+        },
+        {
+            "character": "Quinn",
+            "line": "Not without breaking international law. Ahh. But more importantly, old friend, they can't touch you. Recognize the design? We were barely old enough to drink when you sketched the blueprint. That's just a miniature prototype. A theoretical machine powered by a theoretical substance. Frank, you were right."
+        },
+        {
+            "character": "Hall",
+            "line": "You found it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Gravitonium. It's an extremely rare high-atomic numbered element."
+        },
+        {
+            "character": "Simmons",
+            "line": "That powers the device. It's so extremely rare that most people didn't believe it existed, much less the theory that an isolated positive charge..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Would turn the flow from isotropic..."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys, high-school dropout here. How does the device work again?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, Gravitonium distorts gravity fields within itself, causing an undulating, amorphous shape."
+        },
+        {
+            "character": "Fitz",
+            "line": "Which causes these, um... wiggly bits here, but when an electric current is applied, the Gravitonium solidifies. And those gravity fields erupt, randomly changing the rules of gravity around it. Well, so, now you can imagine what would happen to a big rig at 100 kilometers per hour. Or, uh, well, you could just remember, ‘cause we saw it already, didn't we?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and guess which genius published every theory about Gravitonium and possible applications... years go?"
+        },
+        {
+            "character": "Skye",
+            "line": "Dr. Franklin Hall."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Correct. And Dr. Hall attended the University of Cambridge at the same time as Ian Quinn."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson may be off on this. Quinn is a notoriously good guy. His charity endowment's something like $8 billion."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, with money made from leeching the earth of its resources. Looks like he's dug up another."
+        },
+        {
+            "character": "Quinn",
+            "line": "20 years, 12 mines, 6 continents, but, yes, I finally found it. And now we get to play with it."
+        },
+        {
+            "character": "Hall",
+            "line": "Do you remember in all our talks on Orchard Street the part where it's very, very dangerous?"
+        },
+        {
+            "character": "Quinn",
+            "line": "Everything powerful is dangerous. But I'm not gonna convince you with more talk ... talk of 50% shares, talk of Nobel prizes. No, not you. You... will just have to see it. I built a full-size generator, but I need you to tell me how to control the gravity fields. You can complete your life's work. I plan to do this with or without you, but I know you. I know you'd want it done right. Now's the moment when you thank me."
+        }
+    ]
+}

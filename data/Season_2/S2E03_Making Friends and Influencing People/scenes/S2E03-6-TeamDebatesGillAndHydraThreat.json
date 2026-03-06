@@ -1,0 +1,123 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 6,
+    "scene_name": "TeamDebatesGillAndHydraThreat",
+    "description": "The S.H.I.E.L.D. team convenes at the Playground to analyze the implications of Donnie Gill's increasing powers and impending Hydra recruitment. Coulson delegates the mission to retrieve Gill and requests insights from Fitz, who exhibits signs of nervousness and frustration over being left out of the loop. The scene demonstrates the strain across the team as they rush to track Hydra's movements and Gill’s possible whereabouts.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Most likely scenario... Hydra's looking for another weapon. From what we've been able to piece together, Donnie Gill had limited powers when he entered the Sandbox, but..."
+        },
+        {
+            "character": "May",
+            "line": "While there, he was taught to control, amplify those powers."
+        },
+        {
+            "character": "Hunter",
+            "line": "Lovely. And who, exactly, do we have to thank for that? S.H.I.E.L.D. or Hydra?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Your guess is as good as ours. Hydra had scientists embedded at the base. Explains how they took it so quickly."
+        },
+        {
+            "character": "Mack",
+            "line": "A friend of mine was stationed there. He said it got bad fast."
+        },
+        {
+            "character": "Triplett",
+            "line": "Is that when Gill escaped?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. What I do know is Creel wasn't an isolated incident. I've been told Gill's next on Hydra's wish list."
+        },
+        {
+            "character": "Fitz",
+            "line": "Told by who?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have a source."
+        },
+        {
+            "character": "Triplett",
+            "line": "A source you trust?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Very much so. Now, I want us to bring Gill in before Hydra gets their hands on him. Fitz, you know him better than any of us. Got anything to help us narrow the search?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Um... well... the la... the last time that I saw him, he was, um..."
+        },
+        {
+            "character": "Mack",
+            "line": "Angry? On drugs? Uh... friendly? Sleeping?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Sleeping?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. What... the one... the... go back one."
+        },
+        {
+            "character": "Mack",
+            "line": "Friendly?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Friendly. Um... uh... no, he had trouble making friends."
+        },
+        {
+            "character": "May",
+            "line": "Anything else?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. Maybe ask Jemma if you have a contact number for her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. And if you think of anything..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we'll work on it."
+        },
+        {
+            "character": "COulson",
+            "line": "May, you lead the search to find Gill. Let me know as soon as you have something."
+        },
+        {
+            "character": "May",
+            "line": "Scan satellite feeds for any temp..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Shouldn't Skye be here?"
+        },
+        {
+            "character": "May",
+            "line": "She's working another angle."
+        }
+    ]
+}

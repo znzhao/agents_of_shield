@@ -1,0 +1,111 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 5,
+    "scene_name": "InfiltrationOnIliad",
+    "description": "Raina and Gordon teleport onto the Iliad, searching for the mysterious Kree artifact. As they encounter S.H.I.E.L.D. security, Hunter detects their presence and triggers alarms. They find the stone, observing its strange properties before being cornered by May and Morse. Gordon quickly teleports Raina and himself away before agents can intervene.",
+    "roles": [
+        "raina",
+        "gordon",
+        "lance_hunter",
+        "melinda_may",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "This is it. It's here."
+        },
+        {
+            "character": "Gordon",
+            "line": "Does any of this look familiar?"
+        },
+        {
+            "character": "Raina",
+            "line": "No. I remember a red door."
+        },
+        {
+            "character": "Morse",
+            "line": "Thought you'd be happier. Or at least content. Things are getting back to the way they were."
+        },
+        {
+            "character": "May",
+            "line": "You really believe that? Or do you hope that if you forgive Coulson, Hunter will do the same for you?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "You said Raina's manipulative. But is she dangerous?"
+        },
+        {
+            "character": "Cal",
+            "line": "That depends on how you define “dangerous.”"
+        },
+        {
+            "character": "Jiaying",
+            "line": "She convinced Gordon and Skye to go after Lincoln even though they knew it wasn't safe."
+        },
+        {
+            "character": "Cal",
+            "line": "Daisy's strong. She gets that from you. But if she's not okay, I will personally rip out Raina's little, tainted rat heart! Or not. W-Whatever you want."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Who was she when you first met her?"
+        },
+        {
+            "character": "Cal",
+            "line": "She had nothing. No family, no home. Somehow, she convinced this café owner to bring her old pastries, persuaded a tailor to give her leftover fabric so she could make dresses."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Resourceful."
+        },
+        {
+            "character": "Cal",
+            "line": "Selfish. Soon, she demanded the warm, fresh pastries, not the stale ones. If they were willing to give her cotton, why not silk? I've never seen her not want something."
+        },
+        {
+            "character": "Jiaying",
+            "line": "What is it you think she wants now?"
+        },
+        {
+            "character": "Raina",
+            "line": "I've envied you because Jiaying needs you. You bring people in and out of Afterlife. I'm just an annoyance."
+        },
+        {
+            "character": "Gordon",
+            "line": "Oh, that's not true. Your gift is incredible. I've never seen anything like it."
+        },
+        {
+            "character": "Raina",
+            "line": "But I wasn't chosen. Why does she bring so few through the mist?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Stop! Holy..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's the teleporter."
+        },
+        {
+            "character": "Gonzales",
+            "line": "They're going for the cargo on the lower deck."
+        },
+        {
+            "character": "Gordon",
+            "line": "They know we're here. We need to go."
+        },
+        {
+            "character": "Raina",
+            "line": "Gordon, this is it."
+        },
+        {
+            "character": "Gordon",
+            "line": "Wait. It's not safe."
+        }
+    ]
+}

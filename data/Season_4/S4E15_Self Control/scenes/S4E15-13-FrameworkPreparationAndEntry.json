@@ -1,0 +1,97 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 13,
+    "scene_name": "FrameworkPreparationAndEntry",
+    "description": "Aboard the Zephyr One, Daisy and Simmons, joined by Elena, Piper, Davis, and Prince, coordinate preparations to enter the Framework to rescue their friends’ minds. They warn the team not to pull them out under any circumstances and are plugged into the simulation. The stakes and peril are clear as they cross the threshold into the unknown virtual reality.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "What we can decipher from the insane amount of code flying around in there is that it's a duplicate of our world."
+        },
+        {
+            "character": "Elena",
+            "line": "Populated with all the people in the world. How could they build..."
+        },
+        {
+            "character": "Daisy",
+            "line": "The Darkhold."
+        },
+        {
+            "character": "Elena",
+            "line": "[Speaking Spanish]"
+        },
+        {
+            "character": "Simmons",
+            "line": "We've managed to identify the duplicate avatars of myself and Daisy that are running around in there."
+        },
+        {
+            "character": "Piper",
+            "line": "So you just plug yourself into these avatars?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hook up with our people and find out where on Earth their bodies are being held."
+        },
+        {
+            "character": "Elena",
+            "line": "And rescue them."
+        },
+        {
+            "character": "Piper",
+            "line": "That sounds easy. Will it be easy?"
+        },
+        {
+            "character": "Elena",
+            "line": "They have no idea."
+        },
+        {
+            "character": "Prince",
+            "line": "And if they're in there too long, their bodies will give out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that's the hypothesis."
+        },
+        {
+            "character": "Daisy",
+            "line": "So we have to go, now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Meet at the rendezvous right away. That's where I programmed the backdoor to get out. And listen, living in there too long may kill you, but dying in there will definitely kill you, so be careful."
+        },
+        {
+            "character": "Daisy",
+            "line": "You, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "And remember, even if our vitals are going haywire, do not..."
+        },
+        {
+            "character": "Elena",
+            "line": "Do not pull you out or wake you up, I know. It will cook your brains like huevos rotos."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cause permanent damage to the cerebral cortex, yes."
+        },
+        {
+            "character": "Elena",
+            "line": "Just promise me you'll get our guys back, okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I promise."
+        }
+    ]
+}

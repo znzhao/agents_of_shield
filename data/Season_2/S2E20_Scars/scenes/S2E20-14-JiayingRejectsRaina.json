@@ -1,0 +1,50 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 14,
+    "scene_name": "JiayingRejectsRaina",
+    "description": "At Afterlife, Raina tries to warn Jiaying and Gordon of a vision in which S.H.I.E.L.D. attacks. Jiaying, however, interprets Raina’s warnings as manipulative and orders her detained until after S.H.I.E.L.D. leaves, dismissing her pleas and setting up a sense of impending doom.",
+    "roles": [
+        "raina",
+        "gordon",
+        "jiaying",
+        "skye"
+    ],
+    "vibe": "dark",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "I always knew my life was building up to something, that I had a purpose. It's nice to finally see what it is. Where did you take Jiaying? I would hate for her to be someplace uncomfortable."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Some would call your transformation a curse. But at Afterlife, we choose to call it a gift. Why? Because we don't want the way that others see us to define who we are. But you have used your powers to manipulate those around you, and you've taken advantage of my good faith."
+        },
+        {
+            "character": "Raina",
+            "line": "No. You have to listen to me."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't. It's the same with you every time."
+        },
+        {
+            "character": "Raina",
+            "line": "No, it's not! I'm trying to save us!"
+        },
+        {
+            "character": "Jiaying",
+            "line": "There's not a single soul that knows you who trusts you, Raina. Keep her here until S.H.I.E.L.D. is gone. Then we'll decide your fate."
+        },
+        {
+            "character": "Raina",
+            "line": "You have to believe me. Something terrible is going to happen unless you do what I say! You'll regret this."
+        },
+        {
+            "character": "Skye",
+            "line": "Where's Coulson?"
+        }
+    ]
+}

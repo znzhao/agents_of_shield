@@ -1,0 +1,229 @@
+{
+    "season": 7,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "ShieldPlansAtTheLighthouse",
+    "description": "Mack, Coulson, Elena, May, Daisy, Simmons, and Sousa regroup at the Lighthouse, planning how to handle the threat posed by Nathaniel Malick. They discuss the altered timeline, the vulnerability of Jiaying, and their strategy to recover Afterlife and protect existing Inhumans. Tension arises as Daisy learns about Kora and confronts May about keeping secrets regarding her family, further complicating the mission's emotional stakes.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "elena_rodriguez",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "sousa"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Stuck in the 1980s. Used to have nostalgia for them. That is very gone. Roxy. It's good to see you."
+        },
+        {
+            "character": "Roxy",
+            "line": "Likewise, sir. Didn't expect you again so soon."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, couldn't be helped."
+        },
+        {
+            "character": "Roxy",
+            "line": "I know you guys are up to some top-secret stuff. The Lighthouse is all yours. Control is up and running. Wish I could hang with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Congrats on getting into the Academy."
+        },
+        {
+            "character": "Roxy",
+            "line": "Thanks. Yeah. I thought I was in S.H.I.E.L.D., but it turns out Deke wasn't authorized to make me an agent. MACK: Mm-hmm. Rest of the gang signed up, too. Maybe we'll be reunited at the Triskelion after we graduate. Hey. You're not in a TV anymore, Coulson. That's cool."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just don't ask me to explain it."
+        },
+        {
+            "character": "Roxy",
+            "line": "Well, duty calls."
+        },
+        {
+            "character": "Mack",
+            "line": "Good luck, Agent Glass."
+        },
+        {
+            "character": "Coulson",
+            "line": "She mentioned the Triskelion, but it's 1983. Wasn't in use yet."
+        },
+        {
+            "character": "Elena",
+            "line": "It's ahead of schedule."
+        },
+        {
+            "character": "May",
+            "line": "Just like Project Insight."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you thinking?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you're the Director..."
+        },
+        {
+            "character": "Mack",
+            "line": "No, enough with the formalities. We're dead in the water here. I need you to be you. So if you have a mission for us, let us know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Timeline's coming apart. We have to put it back. Nathaniel Malick's out there with quake powers and a new base. You made a promise to Daisy's mom that she wouldn't have to fight him alone. I think it's time to keep that promise."
+        },
+        {
+            "character": "Sousa",
+            "line": "Wow. Well, consider me impressed. A multi-story base under a lighthouse?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, we've just spent a lot of time down here, so maybe we're over it. Any idea why the new countdown didn't start after we fixed the Drive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, the electrochron displacement mechanism did stabilize it, but it is possible the cumulative damage severed our operative transmission receiver's ability to penetrate space-time."
+        },
+        {
+            "character": "Sousa",
+            "line": "Did you understand that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Actually, yes. I did."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm gonna grab some rest."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh, the bunks are down that way."
+        },
+        {
+            "character": "Sousa",
+            "line": "Can I take that off your hands?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Um, I got it. Thanks."
+        },
+        {
+            "character": "Sousa",
+            "line": "Just thought I'd put some weight on the new leg, is all."
+        },
+        {
+            "character": "Daisy",
+            "line": "O... kay. Thank you. What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Say what you will about the ‘50s. At least he doesn't know chivalry is dead."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, anyway..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I wish you'd pulled a solution for this out of my head. I need Fitz's brain now... wherever it is."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, you don't remember anything about where you guys were?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. That's the point."
+        },
+        {
+            "character": "Daisy",
+            "line": "What was the last thing that you... do remember? You were being hunted by Chronicoms, but did it ever get... violent?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Why are you asking? Did I say something when you removed the implant?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Not exactly."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy, I don't want to know. I thought we agreed... no information was supposed to come out."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't have any information. I... You couldn't control yourself."
+        },
+        {
+            "character": "Simmons",
+            "line": "No matter how confused I was, I can't know..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You were not confused. You were... You were devastated. I've never seen you so freaked. Y-Y-You were inconsolable. That's why I asked."
+        },
+        {
+            "character": "Mack",
+            "line": "Johnson, Simmons, report to Control."
+        },
+        {
+            "character": "Mack",
+            "line": "We're not waiting on a broken clock. We're gonna do something."
+        },
+        {
+            "character": "Coulson",
+            "line": "Even if we could leave this time, leaving this Malick unleashed on the world could have irreparable consequences. He's taken control of Afterlife. We have to take it back."
+        },
+        {
+            "character": "Mack",
+            "line": "Starting with his hostages."
+        },
+        {
+            "character": "Coulson",
+            "line": "And protecting Jiaying at all costs."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons, can you send our coordinates to her watch?"
+        },
+        {
+            "character": "Simmons",
+            "line": "On it. Uh..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I-I-I don't think it's a good idea to bring her here."
+        },
+        {
+            "character": "Coulson",
+            "line": "I hear you, but we can't lose any more parents. This is about protecting your existence. Aside from May and Yo-Yo, Jiaying doesn't know us. We could minimize what we tell her. Nothing about her future, her power, or you, her..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Daughter?"
+        },
+        {
+            "character": "May",
+            "line": "Um, Daisy, there's, uh... one other thing. At Afterlife, there was a woman who..."
+        },
+        {
+            "character": "Simmons",
+            "line": "That was fast."
+        },
+        {
+            "character": "Jiaying",
+            "line": "He's hunting us."
+        }
+    ]
+}

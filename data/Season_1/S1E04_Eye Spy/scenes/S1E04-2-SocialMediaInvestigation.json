@@ -1,0 +1,74 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "SocialMediaInvestigation",
+    "description": "Skye leverages social media to review photos from civilians during the Stockholm heist, explaining to the team how online self-surveillance aids investigations. Through these images, Coulson identifies the thief as Akela Amador, his missing former protégé, and reveals her tragic history. The team debates how to proceed and Coulson insists on caution and holding off involvement from HQ.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Yep, I'm getting full bars, which means if I was down here and 55 guys were in scary red masks, you know what I would do? Instagram."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's amazing. Every year, this part of our job gets easier. Between Facebook, Instagram, and Flickr, people are surveilling themselves."
+        },
+        {
+            "character": "Skye",
+            "line": "With many filters to choose from. I could do this pretty well when I was hacking for the Rising Tide, but you guys tag and search in ways the rest of us never dreamed of."
+        },
+        {
+            "character": "May",
+            "line": "I can run facial-recognition software on the photos, cross-reference them with our criminal databases."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't have to. That's the thief. Her name's Akela Amador."
+        },
+        {
+            "character": "May",
+            "line": "You're certain?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I should be. I trained her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Akela Amador was a S.H.I.E.L.D. Agent. Seven years ago, she led a raid on one of Vanchat's gulags. Everyone believed that she and the two other agents on the mission were killed. I had my doubts. So I sent in a second team, just in case. They found a lot of carnage but couldn't confirm that any of it was Amador... left the possibility open."
+        },
+        {
+            "character": "May",
+            "line": "That's why you chose this op... when you heard about the heists."
+        },
+        {
+            "character": "Coulson",
+            "line": "There are only a few women in the world who could pull off something so impossible. Since you're on the bus, I thought it had to be her."
+        },
+        {
+            "character": "Ward",
+            "line": "Swedish customs confirmed that Amador left the country using an alias on a Swedish passport. She flew into Belarus, bought a train ticket to a town called Zloda. I've also put together a list of individuals who could fence that many diamonds. There's been no contact or activity."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe she's saving them for a rainy day, buying something special. Let's focus on finding Amador."
+        },
+        {
+            "character": "May",
+            "line": "I'll let H.Q. know she's alive so they can assist with the manhunt."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd like to hold off on that. Until we know more. Contact Belarus authorities. Find us a place to park the bus. Put together a list of inns, hotels, and pensions near Zloda. There can't be that many of them. We'll find her."
+        }
+    ]
+}

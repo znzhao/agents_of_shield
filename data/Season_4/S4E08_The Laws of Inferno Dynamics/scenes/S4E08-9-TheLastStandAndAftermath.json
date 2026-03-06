@@ -1,0 +1,231 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 9,
+    "scene_name": "TheLastStandAndAftermath",
+    "description": "As S.H.I.E.L.D. battles Eli's henchmen and tries to neutralize the bomb, AIDA is shot and begins to mimic injury, surprising Fitz and Simmons. Daisy nearly collapses from holding back the seismic energy, while Mace deals with the press and diverts attention from Daisy, admitting to her presence but clearing her name. Robbie, empowered by Ghost Rider, confronts Eli and pulls him into the quantum chamber, apparently destroying him but being lost himself. Coulson assures Daisy there may still be hope for Robbie’s return, and the team celebrates their victory. Mace announces Daisy's reinstatement with an official S.H.I.E.L.D. lanyard, signaling her return to the fold.",
+    "roles": [
+        "aida",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "phil_coulson",
+        "jeffrey_mace",
+        "holden_radcliffe"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "It's all right, Agent Simmons. I won't bleed out. The synthetic blood is mostly for appearances."
+        },
+        {
+            "character": "Simmons",
+            "line": "But you're in pain. I don't understand."
+        },
+        {
+            "character": "AIDA",
+            "line": "Dr. Radcliffe programmed me to be a decoy. I need to exhibit the proper response to human sensations, and I was programmed to feel them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Including pain."
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes. It's quite awful."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm so sorry, AIDA."
+        },
+        {
+            "character": "Daisy",
+            "line": "I got to get outside. It's too much. I got to get out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Daisy?"
+        },
+        {
+            "character": "Reporter",
+            "line": "Is that Quake?"
+        },
+        {
+            "character": "Guard",
+            "line": "Wait, wait."
+        },
+        {
+            "character": "Reporter",
+            "line": "They lied? Have you been here the whole time? Did S.H.I.E.L.D. lie to us all along?"
+        },
+        {
+            "character": "Mace",
+            "line": "Calm down. Quiet, please. Please. You're right. I lied to you. Quake was here the entire time. But she was not responsible for the danger here today. Agent Johnson saved us all. Just go with it. You'll thank me later."
+        },
+        {
+            "character": "Daisy",
+            "line": "We need to get this to Gabe. Belongs to him now."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't count out the previous owner just yet."
+        },
+        {
+            "character": "Daisy",
+            "line": "You think Robbie will make it back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The last Ghost Rider did."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wait a minute. Wait. What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Long story. Regardless, I don't think we've seen the last of Mr. Reyes. Everyone's in the common room, if you want to join us."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think I already did."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry the Director put you on the spot like that in front of the press. He called an audible on me."
+        },
+        {
+            "character": "Daisy",
+            "line": "He can do that, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What I'm saying is, if you don't want to be an agent again, we can work something out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Got to be honest. I... I don't know how I feel about being back, the rules, regulations. But there were a few things I've missed."
+        },
+        {
+            "character": "Coulson",
+            "line": "They missed you, too."
+        },
+        {
+            "character": "Daisy",
+            "line": "Plus, it doesn't hurt that the new face of S.H.I.E.L.D. is an Inhuman. Your idea?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I thought the new face of S.H.I.E.L.D. should be an Inhuman, didn't mean him though."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, right. Maybe in the comic-book version."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. Where you going? I was just gonna grab you a beer."
+        },
+        {
+            "character": "Elena",
+            "line": "Not thirsty."
+        },
+        {
+            "character": "Mack",
+            "line": "Look... I know you're leaving ‘cause of me, and I wish you wouldn't."
+        },
+        {
+            "character": "Elena",
+            "line": "Why?"
+        },
+        {
+            "character": "Mack",
+            "line": "Why? Well, it's because... I recently, uh... I went to a bad place... in my head, I mean, and, uh, I wanted to talk. Unless you're saying that we're not friends anymore."
+        },
+        {
+            "character": "Elena",
+            "line": "Friends? Is that what we are? I can't figure you out, Turtleman. We flirt, we talk on the phone, we go to dinner, and then nothing for weeks. And now you say you're worried about me, you want to protect me."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't call me “Turtleman.”"
+        },
+        {
+            "character": "Reporter",
+            "line": "And according to Director Mace, Quake was never actually a fugitive from S.H.I.E.L.D., she was working on an extended undercover operation to take down the anti-Inhuman group the Watchdogs. More details to come in an official press conference later this week."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sounds like Senator Nadeer lost her trump card."
+        },
+        {
+            "character": "Daisy",
+            "line": "She'll be after us, harder than ever."
+        },
+        {
+            "character": "Mack",
+            "line": "We've faced worse than politicians."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, now that we're all gathered, I'd like to present Agent Johnson with something."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Your official lanyard. It's just a shame Agent Koenig couldn't be here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Level blue."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thrilling, isn't it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We have no idea."
+        },
+        {
+            "character": "Reporter",
+            "line": "So, Officer, were you surprised to see Quake drop out of the sky?"
+        },
+        {
+            "character": "Mace",
+            "line": "That's a good bunch over there."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Mm. They came through with flying colors, didn't they?"
+        },
+        {
+            "character": "Mace",
+            "line": "Including you and AIDA."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Enough to earn her a reprieve?"
+        },
+        {
+            "character": "Mace",
+            "line": "Enough to keep your program alive."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, thank you, sir, truly. You, uh, you won't be disappointed."
+        }
+    ]
+}

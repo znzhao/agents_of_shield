@@ -1,0 +1,133 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 7,
+    "scene_name": "FitzSimmonsStudyTimeMachine",
+    "description": "Fitz and Simmons explore technology salvaged from the Zephyr, learning it was built using old schematics by Deke’s father. Voss and Deke discuss the origins of the monolith machine and ponder its ability to send people through time. Fitz is skeptical, but Simmons insists it might offer them a way home if they can assemble the full device.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It feels good, being back on the Zephyr."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just wish it were in the right time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, well, I'd rather be here than in that silent alien slave bunker."
+        },
+        {
+            "character": "Fitz",
+            "line": "Point taken."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can you believe all these things survived the apocalypse? Well, that looks like an isochronus cyclotron, but..."
+        },
+        {
+            "character": "Fitz",
+            "line": "But with resonant superconducting coils. That's strange."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do you think it does?"
+        },
+        {
+            "character": "Voss",
+            "line": "It opened the portal that brought you here. Take that top box right there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who built that, and how does it work?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That thing controls the monolith? Are you sure?"
+        },
+        {
+            "character": "Voss",
+            "line": "Whoa, whoa. Deke warned me that you scientists would be full of questions."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, and we are also partial to answers."
+        },
+        {
+            "character": "Voss",
+            "line": "Owen put it together. Deke's old man. Tried to explain it to me a dozen times, but I don't think he can even get his own head around it."
+        },
+        {
+            "character": "Simmons",
+            "line": "What, he didn't design it?"
+        },
+        {
+            "character": "Voss",
+            "line": "No. Built it from some old schematics. That damn thing drew a year's battery reserves when he fired it up. Didn't think it did anything, but sure enough, here you are. Heroes from the past. Oh, hey. Suppose I should say welcome home, huh?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe Deke's father will have some more information we can use. But until then, we are on our own."
+        },
+        {
+            "character": "Simmons",
+            "line": "I guess we are."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about Mack and Yo-Yo? Are they in danger? Is Kasius gonna attack? You think Fitz's new friend could help?"
+        },
+        {
+            "character": "May",
+            "line": "Enoch. You spent some time with Robin when she was a little girl. How did you get her to open up?"
+        },
+        {
+            "character": "Enoch",
+            "line": "For the most part, she talked only to her mother, although she would occasionally speak to me if I spent several days by her side. Patience is a Chronicom's greatest tool."
+        },
+        {
+            "character": "Coulson",
+            "line": "And for those of us with a limited life span?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I apologize I cannot be of more help. Robin's gift is powerful, but it cannot be forced. Sometimes all one can do is wait."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not always an option. If we can't get Robin to talk, we have to shift gears. Our people in the Lighthouse need backup."
+        },
+        {
+            "character": "May",
+            "line": "Sure. But Daisy's still powerless. And I'm not winning any fights with this hole in my leg."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. You look pretty spry for someone who was born over a hundred years ago. Hey, we always make it through somehow. And if not..."
+        },
+        {
+            "character": "May",
+            "line": "I'm not willing to lose anyone."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not all on you."
+        },
+        {
+            "character": "May",
+            "line": "Then what is? If I can't protect the team, what? I'm not a scientist, and I can't fly a dead aircraft."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're the one I trust to always have my back... Robin, I'm sorry. We need more than a drawing. We need help."
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 2,
+    "scene_name": "SimmonsFitzCentipedePlan",
+    "description": "Simmons and Fitz discuss Daisy's plan involving the Centipede Serum; they weigh its potential dangers but hope it may hold the key to saving Coulson. Deke, Davis, and Kim deal with technical complications aboard the Zephyr, only to be interrupted by the arrival of Talbot and Remorath soldiers. The growing crisis is evident as Talbot commandeers a Quinjet and Deke attempts to inform Mack of the situation.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "deke_shaw",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's all a bit unpleasant, isn't it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Try not to think about it. Do you think it will work?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy's plan? I don't know. Frankly, the Centipede Serum is terrifying to me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, let's... let's walk through the simulation one more time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. The Centipede Serum forces new cellular pathways, like biological infrastructure. In doing so, it can also carry any element we feed it."
+        },
+        {
+            "character": "Fitz",
+            "line": "For example, Jiaying's healing DNA which we could deliver to, say Coulson's ailing cells."
+        },
+        {
+            "character": "Simmons",
+            "line": "Should work. It's just..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What Yo-Yo said, the danger."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I've been thinking about that, and her warning was that trying to save Coulson ends the world, right? But, what if... what if... what if we don't just try? What happens if we actually succeed? Jemma, what if there's another way to frame this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson wasn't there in the future. You're saying we break the loop, not by allowing someone to die but by making sure they live?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What if all we have to do is not fail?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's quite an audacious leap especially from someone who once believed time cannot be changed."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it's time to be audacious."
+        },
+        {
+            "character": "Deke",
+            "line": "You got to be kidding me. That is totally nuts."
+        },
+        {
+            "character": "Davis",
+            "line": "No, no joke. It really happened. Good thing, too, otherwise, AIDA would've killed me."
+        },
+        {
+            "character": "Kin",
+            "line": "I've had to hear this story enough."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, but that's the most incredible story I've ever heard, and I'm the same age as my grandparents."
+        },
+        {
+            "character": "Kim",
+            "line": "I am done, by the way."
+        },
+        {
+            "character": "Davis",
+            "line": "All right, oxygen's been re-routed from non-essential parts of the plane."
+        },
+        {
+            "character": "Deke",
+            "line": "Then, I guess we can breathe easy, right, wait for the stalwart team to get back?"
+        },
+        {
+            "character": "Kim",
+            "line": "Did you hear that?"
+        },
+        {
+            "character": "Deke",
+            "line": "Damn."
+        },
+        {
+            "character": "Talbot",
+            "line": "I've spent some time on this plane. Quinjet is this way."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, come on. How do I get this thing working?"
+        },
+        {
+            "character": "Mack",
+            "line": "The warnings were right."
+        },
+        {
+            "character": "Deke",
+            "line": "Zephyr to Lighthouse. Mack, anyone? Mack, are you there?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, yeah, I'm here. Talk to me. What's going on?"
+        },
+        {
+            "character": "Deke",
+            "line": "Things have gone a little crazy."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I know. It's all over the news."
+        },
+        {
+            "character": "Deke",
+            "line": "No, no. Talbot. It's... He... He's boarded us. Him and his new Remorath friends."
+        },
+        {
+            "character": "Mack",
+            "line": "Talbot. Did he see you?"
+        },
+        {
+            "character": "Deke",
+            "line": "No. And that's a good thing. Agent Kim wasn't so lucky."
+        },
+        {
+            "character": "Mack",
+            "line": "Talbot killed Kim."
+        },
+        {
+            "character": "Deke",
+            "line": "Very, very much. The general's not on our side anymore, okay? He... Oh, no."
+        },
+        {
+            "character": "Talbot",
+            "line": "Stand down. I don't need the jet so I can fly. I need it so I can breathe."
+        },
+        {
+            "character": "Deke",
+            "line": "He's leaving. And I think he's coming down to you."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't understand. If he's flying the Quinjet, I should be reading its signature somewhere."
+        },
+        {
+            "character": "Elena",
+            "line": "Not if he's figured out a way to go dark. If he's not relying on the quinjet's own power, then that means..."
+        },
+        {
+            "character": "Mack",
+            "line": "Then the signature wouldn't show up. Okay. What if I force it by remote?"
+        },
+        {
+            "character": "Elena",
+            "line": "You can do that?"
+        },
+        {
+            "character": "Mack",
+            "line": "I can do many things. If we can find Talbot, maybe we can talk him down and end this before anyone else gets hurt."
+        },
+        {
+            "character": "Elena",
+            "line": "Yes. Maybe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Prison cells are all the same, no matter what species builds them. If there's a way in, there's got to be a way out."
+        },
+        {
+            "character": "May",
+            "line": "So, we're just not gonna talk about him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "“Him” who?"
+        },
+        {
+            "character": "May",
+            "line": "Phil, come on. Talbot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. That “him.”"
+        },
+        {
+            "character": "May",
+            "line": "Look, I hate it, too, but I've seen a man go rotten overnight. He might be lost. You don't have to feel like you're responsible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course, I do. After all our ups and downs, Talbot got shot in the head, and he waited for us to rescue him from Hale."
+        },
+        {
+            "character": "May",
+            "line": "We were a little busy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, but even after we didn't come, even after Hydra messed with his brain, he still put himself in that machine. He did that for us."
+        },
+        {
+            "character": "May",
+            "line": "We didn't ask him to."
+        },
+        {
+            "character": "Coulson",
+            "line": "We didn't have to. What?"
+        },
+        {
+            "character": "May",
+            "line": "The first time we met him."
+        },
+        {
+            "character": "Coulson",
+            "line": "When he told us about the peacekeeping force he was sending to the Hub?"
+        },
+        {
+            "character": "May",
+            "line": "I mean, imagine back then if someone had told us that someday we'd be worried about Glenn Talbot."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. But things evolve. They change. People change."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, they do. And sometimes, even then, you can't save them."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you still have to try."
+        },
+        {
+            "character": "Coulson",
+            "line": "Back to work."
+        }
+    ]
+}

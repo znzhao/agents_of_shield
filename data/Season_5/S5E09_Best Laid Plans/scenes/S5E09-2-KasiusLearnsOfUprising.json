@@ -1,0 +1,35 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 2,
+    "scene_name": "KasiusLearnsOfUprising",
+    "description": "Kasius is informed by his Kree subordinates about the human uprising and losses suffered by his forces. Furious, he orders the awakening of his 'latest acquisition' to remind the humans of his power, foreshadowing his ruthless retaliation against the rebellion.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "The humans are alive? Impossible."
+        },
+        {
+            "character": "Kree",
+            "line": "They killed the Vrellnexians. And we lost eight soldiers."
+        },
+        {
+            "character": "Kasius",
+            "line": "How can that be?"
+        },
+        {
+            "character": "Kree",
+            "line": "The humans have guns."
+        },
+        {
+            "character": "Kasius",
+            "line": "Where on this cursed rock did they find weapons?! If even one item doesn't make it onto my ship whole, then I fear neither will you! Am I clear? An uprising. Just as I'm on the verge of leaving this place, Destroyer in hand. No matter. Have the doctor awaken our latest acquisition. It's time to remind the humans I am not their enemy. I am their God."
+        }
+    ]
+}

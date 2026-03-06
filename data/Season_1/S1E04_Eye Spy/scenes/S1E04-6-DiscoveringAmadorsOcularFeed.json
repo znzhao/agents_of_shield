@@ -1,0 +1,140 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 6,
+    "scene_name": "DiscoveringAmadorsOcularFeed",
+    "description": "Back on the Bus, the team analyzes the encrypted broadcast from their van attack. They realize the surveillance is from Amador's perspective—an ocular implant feeds everything she sees and even uses x-ray when her eyes are closed. The group debates how to respond, with May urging harsher measures and Coulson advocating for leniency. Skye and Fitz-Simmons begin around-the-clock observation to locate Amador.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I think I can recover the data signature of that encrypted broadcast. I don't understand it yet, but that's how she was watching us. Give me an hour. Maybe we can start watching back."
+        },
+        {
+            "character": "Skye",
+            "line": "Something's wrong. It's the same feed that was watching us in the van. Uh, put it on the big monitor."
+        },
+        {
+            "character": "Simmons",
+            "line": "M-maybe the lens broke when the van rammed us."
+        },
+        {
+            "character": "Skye",
+            "line": "I hope she broke more than that."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a mirror. Are we recording this?"
+        },
+        {
+            "character": "Skye",
+            "line": "Uh... We are now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa."
+        },
+        {
+            "character": "Coulson",
+            "line": "How are we seeing this? Where's the camera?"
+        },
+        {
+            "character": "May",
+            "line": "It's her eye. She's the camera."
+        },
+        {
+            "character": "Fitz",
+            "line": "It switches to backscatter when she closes her eyes."
+        },
+        {
+            "character": "Skye",
+            "line": "You're a robot. Can you do that?"
+        },
+        {
+            "character": "Ward",
+            "line": "Who has tech like this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't... not like this. That's not small and internal. That's at least a decade ahead of anything I've seen. Though, now that I've seen it, I could maybe approximate it... the backscatter x-ray, a micro-transceiver that somehow doesn't fry her brain, an internal power source..."
+        },
+        {
+            "character": "Simmons",
+            "line": "All miniaturized. Honestly, it's..."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's genius."
+        },
+        {
+            "character": "Simmons",
+            "line": "... genius."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to bring her in."
+        },
+        {
+            "character": "May",
+            "line": "We have to take her out. She's a weapon. I'll call H.Q., see if we can bring a task force in to help us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our team can handle this."
+        },
+        {
+            "character": "May",
+            "line": "I get it. You feel responsible... maybe you pushed her too hard. But she tried to kill three members of our team."
+        },
+        {
+            "character": "Coulson",
+            "line": "If she wanted us dead, we'd be dead."
+        },
+        {
+            "character": "May",
+            "line": "We got lucky. You want to risk our lives again?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You told me you were ready for combat, that you had my back."
+        },
+        {
+            "character": "May",
+            "line": "Don't ever doubt it. But you are defending this girl at the expense of the team."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because we protect our own."
+        },
+        {
+            "character": "Ward",
+            "line": "With all due respect, sir, she's not one of our own."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why does she have to ask for permission?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's not being watched. She's being controlled. We have to find her. We'll take shifts watching the feed. Sooner or later, she'll look at something that will clue us into her location."
+        },
+        {
+            "character": "May",
+            "line": "I'll take the first watch."
+        }
+    ]
+}

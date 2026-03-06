@@ -1,0 +1,62 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 6,
+    "scene_name": "SimmonsFitzDaisyMaceInvestigateBombing",
+    "description": "Back at the Playground, Mace, Daisy, Fitz, and Simmons review news of the explosion at Nadeer's office. They discuss the possibility of an Inhuman or a false flag attack, and learn of Nadeer's death. The team resolves to investigate and represent S.H.I.E.L.D. in the aftermath.",
+    "roles": [
+        "jeffrey_mace",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "Details are scarce, but it appears that Senator Ellen Nadeer's office was ground zero in an explosion that looks deliberately set. Many are asking if Nadeer's outspoken anti-Inhuman stance made her a target. Currently, there are no suspects, but the FBI is..."
+        },
+        {
+            "character": "Mace",
+            "line": "Is it possible? Could an Inhuman have done this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No way. They've all been accounted for by me."
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't account for the Inhumans that we don't know about or the sympathizers."
+        },
+        {
+            "character": "Daisy",
+            "line": "Come on, you guys. This is just another setup. Nadeer's furious about the relocations, and she wants people riled up against Inhumans."
+        },
+        {
+            "character": "Simmons",
+            "line": "Would Nadeer go so far as to bomb her own office?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Trust me, she's gonna show up on the news having just missed the blast, and she's gonna pin it all on S.H.I.E.L.D. That's what she does."
+        },
+        {
+            "character": "Mace",
+            "line": "Daisy."
+        },
+        {
+            "character": "Reporter",
+            "line": "We're just getting confirmation from the FBI. We have four confirmed casualties and one positive identification. We are sad to confirm that Senator Ellen Nadeer, leader in the Humans First movement, is among the dead. Reporting live for CNB, we'll send it back..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Well, we can't be too sad. She did try to have you killed."
+        },
+        {
+            "character": "Mace",
+            "line": "She could've been brought to justice. Now we won't get that chance. But it's not too late to do the right thing. Grab what you need. It's time to show the world what S.H.I.E.L.D. stands for."
+        }
+    ]
+}

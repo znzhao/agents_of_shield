@@ -1,0 +1,145 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 12,
+    "scene_name": "TrackingAIDAAtThePlayground",
+    "description": "Back at the Playground, Coulson, May, Mack, Fitz, Radcliffe, and Elena prepare to defend the base against AIDA. They realize AIDA is targeting the Darkhold and can manipulate the base systems, even hijacking a quinjet for an assault. Elena and Mack exchange banter about robot apocalypses as they gear up for battle.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "holden_radcliffe",
+        "leo_fitz",
+        "elena_rodriguez",
+        "aida"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Just sent AIDA's photos out to local authorities."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks like your creepiness finally works in our favor. Shouldn't be too hard to find your beautiful “Weird Science” sex-bot."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "That's unfair, Mack. I've never had sex with AIDA. We're just good friends."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good to know. So, AIDA's basically a walking smartphone, right? If a person loses their phone, they can track it. Why can't we do the same with her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, normally, we can, only AIDA's somehow managed to take control of her entire operating system."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Which unfortunately includes her tracking program."
+        },
+        {
+            "character": "Coulson",
+            "line": "Meaning AIDA can read her GPS history? That's not good. That's bad."
+        },
+        {
+            "character": "May",
+            "line": "How bad?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Looks like we're about to find out. Hello, AIDA."
+        },
+        {
+            "character": "AIDA",
+            "line": "It's nice to hear your voice, Agent Coulson."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. This right here... it's exactly how “The Lawnmower Man” ends."
+        },
+        {
+            "character": "Coulson",
+            "line": "What is it you want, AIDA?"
+        },
+        {
+            "character": "AIDA",
+            "line": "The thing that gave me a soul."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Darkhold? Yeah, I'm sorry, AIDA. You've been acting a little off lately, so that's not gonna happen."
+        },
+        {
+            "character": "AIDA",
+            "line": "I was afraid you'd say that."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's in the system. Fitz, any bright ideas?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, Simmons and I have built a... a non-Internet server to power the base in case we ever got hacked again, which seems to happen all the bloody time, doesn't it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "At least once a year. Go. How's Yo-Yo recovering from L.A.?"
+        },
+        {
+            "character": "Mack",
+            "line": "She knows her limitations, but I'm sure she'll want to help."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Then take Agents Navarro and Flynn and go get Yo-Yo. You four will be the first line of defense if AIDA gets into the base."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you and May gonna do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Try to keep AIDA from getting into the base."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. Let's go."
+        },
+        {
+            "character": "Elena",
+            "line": "I was hoping you'd pay me a visit."
+        },
+        {
+            "character": "Mack",
+            "line": "Unfortunately, it's not that type of visit."
+        },
+        {
+            "character": "Elena",
+            "line": "This have something to do with the power being out?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Radcliffe built a humanoid robot that's about to attack the base."
+        },
+        {
+            "character": "Elena",
+            "line": "Why would he do that? Has he watched no American movies from the '80s? Robots always attack."
+        },
+        {
+            "character": "Mack",
+            "line": "I've been saying that all day."
+        },
+        {
+            "character": "Elena",
+            "line": "Smart people are stupid."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, gear up. The robot apocalypse is finally here."
+        }
+    ]
+}

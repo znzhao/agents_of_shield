@@ -1,0 +1,72 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 7,
+    "scene_name": "FitzAndSimmonsReuniteDiscussWard",
+    "description": "Fitz and Simmons reunite at the base, discussing Ward’s presence on the plane and their recent disagreements. Fitz jokes about attacking Ward and Simmons, more seriously, discusses developing splinter bombs, indicating her willingness to take extreme measures against Ward for the good of the team.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "You look upset. Is everything okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I feel sorry for her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, should've seen her back on the plane with Ward. Seems the two of them are in love with each other."
+        },
+        {
+            "character": "Simmons",
+            "line": "Whatever that is, it's not love."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. Of course not. Hey, thank you for packing the sandwich before I left. It was really delicious."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. You're quite welcome. But I just don't understand why Coulson would take Ward on a mission. It's simply too dangerous!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. For Ward, maybe. I attacked him back on the Quinjet. Hunter had to pull me off him, so..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Really?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, yeah. Lucky for him. You know, what I should've done is tossed him from the plane."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, that would've been fitting, but perhaps there's a better way still."
+        },
+        {
+            "character": "Fitz",
+            "line": "Splinter bombs."
+        },
+        {
+            "character": "Simmons",
+            "line": "Simply find Ward alone, stick one of these on, and poof... no more Ward."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, that probably would be quite a fitting way for, um... Wait. You're serious."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ward is a threat to every agent working in SHIELD. Isn't it our responsibility to at least arm ourselves against him?"
+        }
+    ]
+}

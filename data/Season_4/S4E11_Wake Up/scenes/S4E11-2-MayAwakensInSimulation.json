@@ -1,0 +1,77 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "MayAwakensInSimulation",
+    "description": "May finds herself in a disorienting, surreal spa scenario that repeatedly restarts whenever she questions its reality. She eventually discerns that something is wrong, realizes she is being manipulated, and tries to break out. Radcliffe and AIDA subdue her, sedating her for a new scenario.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "What's a neural-assessment gauge?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Right this way."
+        },
+        {
+            "character": "Man",
+            "line": "Hope you liked your facial, Melinda. It's time for your massage. Ready?"
+        },
+        {
+            "character": "May",
+            "line": "I don't remember coming here."
+        },
+        {
+            "character": "Man",
+            "line": "You dozed off. Obviously, you're very relaxed. That's good."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I don't think I have time for this. Thanks."
+        },
+        {
+            "character": "Man",
+            "line": "Hope you liked your massage, Melinda. It's time for your facial."
+        },
+        {
+            "character": "May",
+            "line": "Look, I-I don't think I want this. I don't want to be here."
+        },
+        {
+            "character": "Man",
+            "line": "Hope you liked your facial, Melinda."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA, no!"
+        },
+        {
+            "character": "May",
+            "line": "I knew it wasn't real."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The syringe, AIDA. You have to sedate her."
+        },
+        {
+            "character": "May",
+            "line": "You bastard."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "We may have misjudged what it takes to keep Agent May comfortable."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Heart rate normal, vitals stable. Seems to be working."
+        }
+    ]
+}

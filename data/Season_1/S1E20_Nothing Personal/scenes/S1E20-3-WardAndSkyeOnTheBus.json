@@ -1,0 +1,84 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 3,
+    "scene_name": "WardAndSkyeOnTheBus",
+    "description": "Aboard the S.H.I.E.L.D. Bus, Ward tries to maintain his cover as Skye feigns ignorance about his true allegiance. The two discuss their destination and Skye's encrypted drive, with Ward pressing her for information. Skye recalls the significance of their destination—a diner in L.A., tying it back to Mike Peterson and the start of their journey. The scene is loaded with undercurrents of mistrust as Skye subtly tests Ward's intentions.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Fitz keeps the candy under his bunk. What are you up to?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just looking for the sat-phone to call the team, make sure everyone's all right, no one's blown up."
+        },
+        {
+            "character": "Ward",
+            "line": "I've got the phone. I just talked to Coulson a little while ago."
+        },
+        {
+            "character": "Skye",
+            "line": "You did?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, sorry. Should have told you. They're okay, but the sooner we get to the location, decrypt that drive..."
+        },
+        {
+            "character": "Skye",
+            "line": "The sooner we can rendezvous with the team."
+        },
+        {
+            "character": "Ward",
+            "line": "Exactly."
+        },
+        {
+            "character": "Skye",
+            "line": "Seemed like a smart play at the time, geo-locking the drive. I didn't think it would backfire on us."
+        },
+        {
+            "character": "Ward",
+            "line": "It hasn't backfired. The drive is supposed to be impossible to crack. Pretty specific coordinates, though. You could have picked anywhere in the world. Why a random diner in L.A.?"
+        },
+        {
+            "character": "Skye",
+            "line": "It was already built into my encryption. Never changed it. But it's fitting. It's where I met Mike Peterson. It's where this whole S.H.I.E.L.D. roller coaster started. Plus, tactically, what do you look for in a drop site?"
+        },
+        {
+            "character": "Ward",
+            "line": "Public place, lots of people, multiple exits."
+        },
+        {
+            "character": "Skye",
+            "line": "Yep. Figured if I ever got in trouble, I'd be safe there."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, you'll be plenty safe. This, however, is not the answer."
+        },
+        {
+            "character": "Skye",
+            "line": "What's the matter? A girl can't defend herself?"
+        },
+        {
+            "character": "Ward",
+            "line": "In this situation, the last thing we can afford is to get pinched on a concealed-weapons charge."
+        },
+        {
+            "character": "Skye",
+            "line": "You're right. Again. Couldn't find any rounds anyway."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. We are gonna be okay. I promise, until this thing is over, I'm not gonna let you out of my sight."
+        }
+    ]
+}

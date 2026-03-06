@@ -1,0 +1,88 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "CoulsonWardOhioMission",
+    "description": "Coulson and Ward travel together to Ohio to investigate Brian Hayward's sister at a university. Their journey features personal conversation, with Coulson reflecting on a past romantic relationship with a cellist, regretfully recounting his experiences after being declared dead post-Avengers. Ward listens, showing a rare moment of understanding between the two agents. This scene provides insight into Coulson's character and past sacrifices.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "“Psychology of women: Unraveling the female psyche.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's an actual book?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's a whole course. Hayward's sister's in there now."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll be at the school in 10. We'll catch her on her way out."
+        },
+        {
+            "character": "Ward",
+            "line": "Whole class... on women."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time was, you just had to figure them out. Solving the puzzle was half the fun."
+        },
+        {
+            "character": "Ward",
+            "line": "You solve a lot of puzzles in your day?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A few. Some more worth it than others. One was... especially rewarding."
+        },
+        {
+            "character": "Ward",
+            "line": "What happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I died."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh. I guess she wasn't level 7, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She was a cellist, second chair, Portland symphony. Saw her play whenever I was in town. Ever see a beautiful woman play the cello? It's something else. She laughed at my jokes, too, which was a very nice bonus."
+        },
+        {
+            "character": "Ward",
+            "line": "You know where she is now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course I do."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sorry, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was gone for months. The Avengers thought I was dead, so I had to keep that up... S.H.I.E.L.D. protocol. It's probably better this way."
+        },
+        {
+            "character": "Ward",
+            "line": "Maybe if she'd been part of the agency..."
+        },
+        {
+            "character": "Coulson",
+            "line": "In my experience, that's just asking for trouble."
+        }
+    ]
+}

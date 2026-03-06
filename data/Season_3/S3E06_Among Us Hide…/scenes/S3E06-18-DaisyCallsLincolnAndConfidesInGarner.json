@@ -1,0 +1,93 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 18,
+    "scene_name": "DaisyCallsLincolnAndConfidesInGarner",
+    "description": "Daisy checks in on Lincoln, making sure he’s safe after the Lash investigation yields no further leads. She tells Dr. Garner they're back to square one, but Garner’s hidden knowledge looms as he assures Daisy she’ll figure things out soon. The episode ends with a lingering sense of mystery, casting suspicion on Andrew Garner after Strucker's confession.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "andrew_garner"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I told you, you don't have to worry about me. Are you all right? Staying safe?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Safe as houses."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's an expression. People say that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sure. And someday, you can tell me how you survived the dust bowl and the Hoover administration, grandpa."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's an ugly side of you, Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's too bad. You know the deal. I stop making fun of you when you tell me where you are."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Yeah."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just... keep your head down, okay? I don't want this thing to find you. Do you have any friends out there, at least?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not as many as I used to. How much longer till the call is traceable?"
+        },
+        {
+            "character": "Daisy",
+            "line": "15 seconds."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'll reach out soon."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hope so."
+        },
+        {
+            "character": "Daisy",
+            "line": "Dr. Garner, hey."
+        },
+        {
+            "character": "Andrew",
+            "line": "Was that Lincoln? He have anything to help us with Lash?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Nope. Back to square one."
+        },
+        {
+            "character": "Andrew",
+            "line": "Hmm. Don't worry. You'll figure it out soon. Hey, did Lincoln tell you where he is? I mean, he'd be safer here, under our protection."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know, but he doesn't believe me. He won't tell me. But I'll let you know when he does."
+        },
+        {
+            "character": "Andrew",
+            "line": "Great."
+        }
+    ]
+}

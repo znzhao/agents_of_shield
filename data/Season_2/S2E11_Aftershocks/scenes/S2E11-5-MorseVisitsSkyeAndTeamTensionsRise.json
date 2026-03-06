@@ -1,0 +1,131 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "MorseVisitsSkyeAndTeamTensionsRise",
+    "description": "Back at the Playground, Morse tries to lift Skye's spirits in quarantine, joking about Skye's resilience. Meanwhile, Fitz and Mack discuss Mack's struggles with his recent possession, and Mack expresses his anger over recent losses. The team's mood remains fragile, with grief and blame simmering beneath the surface.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "bobbi_morse"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Hey. Quarantine survival kit. Got a deck of cards for solitaire, bag of homemade trail mix if you want to eat healthy, a couple candy bars if not, headphones, a few trashy magazines. Cactus cooler. I keep a stash. I mean, you can only get it in California... it's the best. Anyway... I've been in quarantine before, and I know it can drive you absolutely nuts."
+        },
+        {
+            "character": "Skye",
+            "line": "Thanks. I was beginning to feel like a leper."
+        },
+        {
+            "character": "Morse",
+            "line": "Are you kidding? You managed to be taken hostage by three known murderers, you gunned Ward down, then were blasted by an alien chemical weapon and walked out unscathed. Leper? I think you're a rock star."
+        },
+        {
+            "character": "Mack",
+            "line": "Staring off into space there, turbo."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, i-it's Skye's bio-meter watch. It was damaged in the cave-in."
+        },
+        {
+            "character": "Mack",
+            "line": "Records her heart rate?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And skin temp... lots of data. If I can fix it, I might be able to get a better, uh, like a... a snapshot of what happened down there. Can't make any sense of it just now, anyway. The... data in my brain is jumbled today."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll get my small electronics kit. You know, you can start tinkering. You know, working with my hands always cleared my head."
+        },
+        {
+            "character": "Fitz",
+            "line": "How is it... your head, since..."
+        },
+        {
+            "character": "Mack",
+            "line": "I told you. It's not gonna help to give you a play-by-play."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've never known you to be afraid to talk about anything."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, you didn't feel it. And I can't describe it, so..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, it's not good to keep things to yourself, Mack. I know what you're going through."
+        },
+        {
+            "character": "Mack",
+            "line": "Really? You know what it's like to lose control, to be trapped inside your own body, unable to tell it what to do, to watch yourself hurt the people that you care about?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry, buddy."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's okay."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm a little on edge. I guess I... I need to keep myself busy. Hey, can you request access to the schematics of the base? I want to double-check the ventilation systems and make sure the quarantine is fully isolated. I don't want anyone else falling prey to this alien crap."
+        },
+        {
+            "character": "Coulson",
+            "line": "How many victims were there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Two dead, three in critical condition."
+        },
+        {
+            "character": "May",
+            "line": "How did Raina do this? She had no weapon."
+        },
+        {
+            "character": "Simmons",
+            "line": "She was covered in thorns. It's hard to comprehend. I shot her a few times."
+        },
+        {
+            "character": "May",
+            "line": "Good."
+        },
+        {
+            "character": "Simmons",
+            "line": "But none a fatal hit, it seems. I did manage to gather some tissue from the ground... blood and such."
+        },
+        {
+            "character": "Coulson",
+            "line": "How long till you can blow the shaft on the ocean floor?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're preparing the charges now. That place will be underwater and sealed up for good. Sir, as much as I'd like to join the manhunt for Raina, I'd much rather come back to H.Q., see... everyone, to study Raina's tissue and check on Skye."
+        },
+        {
+            "character": "May",
+            "line": "Whatever transformed Raina..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She was exposed, as well. We have enough boots on the ground in Puerto Rico to hunt down Raina. Come home, Jemma. Gather everyone. We're going after HYDRA now."
+        }
+    ]
+}

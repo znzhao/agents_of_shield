@@ -1,0 +1,176 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 3,
+    "scene_name": "ConfrontationWithReyes",
+    "description": "Ward and May patrol the area, encountering hostile soldiers who are quickly revealed to be led by Camilla Reyes, an old associate of Coulson. After initial tension, Coulson and Reyes share professional greetings, and he introduces her to the team, confirming S.H.I.E.L.D.'s authority over the artefact. Inside, Fitz and Simmons discover the device is alive and possibly dangerous, upping the stakes for the team.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Camilla",
+            "line": "Phillip?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Camilla? Do you mind?"
+        },
+        {
+            "character": "Camilla",
+            "line": "After you."
+        },
+        {
+            "character": "Camilla",
+            "line": "And now for a proper hello."
+        },
+        {
+            "character": "Coulson",
+            "line": "Comandante. A promotion. Congratulations."
+        },
+        {
+            "character": "Camilla",
+            "line": "Three years ago. But thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Melinda May, Agent Grant Ward, this is comandante Camilla Reyes. She's with the Policía Militar del Perú. We used to work together back in the day. Let the team know everything's okay."
+        },
+        {
+            "character": "Camilla",
+            "line": "I know you've found a strange object on Peruvian soil. We should have a conversation about how to proceed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course. But an 0-8-4 supercedes all national claims."
+        },
+        {
+            "character": "Camilla",
+            "line": "You look good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, I work out."
+        },
+        {
+            "character": "Camilla",
+            "line": "Come, let me show you something."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you seeing this? It's alive."
+        },
+        {
+            "character": "Skye",
+            "line": "Wha... alive alive?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It has a functioning power source."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sleepy's reading radionuclides, but they don't match any known isotope."
+        },
+        {
+            "character": "Fitz",
+            "line": "I get temporal matches, but even then, they seem to shift. Is that even possible?"
+        },
+        {
+            "character": "Skye",
+            "line": "Depends on the shifting of the temporal radio stuff, so... It's totally weird, right? I'm gonna go check on Coulson."
+        },
+        {
+            "character": "Ward",
+            "line": "We've got company. National police."
+        },
+        {
+            "character": "Simmons",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Why are they here?"
+        },
+        {
+            "character": "Ward",
+            "line": "They heard about this object. They're probably here to protect it. This area has lots of rebel uprisings."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, people are fighting back against the government's mining policies. It's pretty kick-ass."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, it's kick-ass, all the violence."
+        },
+        {
+            "character": "Skye",
+            "line": "That's not what I'm saying."
+        },
+        {
+            "character": "Ward",
+            "line": "No, it's what you're typing. In your van, alone... where it's safe. How much longer?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What's the hurry?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Are we in danger?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not if everyone does their job. What is yours, exactly?"
+        },
+        {
+            "character": "Camilla",
+            "line": "The cacao is from a secret valley in Peru. Very special. The best chocolate in the world."
+        },
+        {
+            "character": "Coulson",
+            "line": "Could use some sugar."
+        },
+        {
+            "character": "Camilla",
+            "line": "Americans."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know me, Camilla. I'm a pretty simple guy."
+        },
+        {
+            "character": "Camilla",
+            "line": "There was nothing simple about your last mission here."
+        },
+        {
+            "character": "Coulson",
+            "line": "I had some great help."
+        },
+        {
+            "character": "Camilla",
+            "line": "There isn't any chance we get to keep the device, is there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not mine to give, but I'm sure we can find a way to resolve this respectfully in a way that gives your coun..."
+        },
+        {
+            "character": "Camilla",
+            "line": "Rebels."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stay close. On my six."
+        }
+    ]
+}

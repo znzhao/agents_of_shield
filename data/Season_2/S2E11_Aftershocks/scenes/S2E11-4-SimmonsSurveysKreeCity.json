@@ -1,0 +1,27 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 4,
+    "scene_name": "SimmonsSurveysKreeCity",
+    "description": "In Puerto Rico, Simmons and her team investigate the underground Kree city, gathering data and preparing to destroy it. The dangers of their mission are underscored when Simmons discusses the potential for electromagnetic anomalies and her urgency to flood the temple, preventing future threats. The scene sets the stage for the team's scientific and emotional struggles.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "Underground Kree city / temple (beneath San Cristobal Fort, Puerto Rico)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "These are the last sections, ma'am."
+        },
+        {
+            "character": "Simmons",
+            "line": "Same conclusion... cavities are carved from lava rock. Therefore, these walls are not load-bearing. Alien stone lining to create electromagnetic flux field... at least, I imagine. I can't measure the bloody thing without electronic equipment. I could spend a year down here answering these questions. Photograph it, mark it off, and let's flood this cursed place."
+        },
+        {
+            "character": "Man",
+            "line": "Yes, ma'am. Aah!"
+        }
+    ]
+}

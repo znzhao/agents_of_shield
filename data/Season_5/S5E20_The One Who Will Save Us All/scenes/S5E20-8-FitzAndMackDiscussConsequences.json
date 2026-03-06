@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 8,
+    "scene_name": "FitzAndMackDiscussConsequences",
+    "description": "Fitz and Mack have a difficult discussion regarding the team's recent moral compromises, particularly concerning Ruby and the decision to have Mack detained. Mack challenges Fitz on whether such methods are justifiable under S.H.I.E.L.D.'s ethos, underscoring the crisis of faith felt by many in the team.",
+    "roles": [
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Good job getting this assembled."
+        },
+        {
+            "character": "Mack",
+            "line": "That it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Guess we just built S.H.I.E.L.D.'s first space ship. Mack. I just wanted to apologise, for locking you up before. Really wasn't my idea. I actually... I..."
+        },
+        {
+            "character": "Mack",
+            "line": "You went along with it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, we were trying to get ahead of the problem."
+        },
+        {
+            "character": "Mack",
+            "line": "By having Yo-Yo execute a kid."
+        },
+        {
+            "character": "Fitz",
+            "line": "Things got messy. But, uh... I mean, it was the only way that Yo-Yo..."
+        },
+        {
+            "character": "Mack",
+            "line": "When does killing become the only way? We're S.H.I.E.L.D. Aren't we supposed to be better than that? None of this would've happened if you would have just said this invincible nonsense wasn't real. But instead, you and Simmons lit the match and now Yo-Yo's responsible for a girl's death."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm sorry, Mack. I really am. But it's not that simple."
+        },
+        {
+            "character": "Mack",
+            "line": "Simple is how you live a good life. Not with your theories, or prophecies. It's following the good word and doing the right thing every time. Simple as that."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. Not always. Because there are lots of instances in history where... where it was necessary to sacrifice the few, in order to save the lives of many."
+        },
+        {
+            "character": "Mack",
+            "line": "Of course, you'd say that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ruby was dangerous, and it got complicated and that is just the way it was. So, I'm sorry, if that doesn't fit whatever narrative that you've built for yourself."
+        },
+        {
+            "character": "Mack",
+            "line": "You need to look inside yourself and figure out what kind of man you want to be. 'Cause lately, what you've been? It needs fixing."
+        }
+    ]
+}

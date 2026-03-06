@@ -1,0 +1,37 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 8,
+    "scene_name": "MaySparedMaySentToSurface",
+    "description": "Fitz persuades Kasius to spare May and send her to the surface as Vrellnexian bait, while Ben realizes the danger is far from over. May is forcibly removed, and the human cost of Kasius' games is made clear.",
+    "roles": [
+        "leo_fitz",
+        "melinda_may",
+        "kasius"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Send the Agent of S.H.I.E.L.D. to the surface. The Vrellnexians will have much more use for her than your weary audience."
+        },
+        {
+            "character": "Kasius",
+            "line": "Guards! Escort the human woman to the surface lift."
+        },
+        {
+            "character": "May",
+            "line": "Thank you."
+        },
+        {
+            "character": "Ben",
+            "line": "Unfortunately, your friend just delayed the inevitable. No one can escape the Roaches."
+        },
+        {
+            "character": "May",
+            "line": "Aah! Aah."
+        }
+    ]
+}

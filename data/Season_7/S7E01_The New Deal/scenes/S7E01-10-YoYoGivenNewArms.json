@@ -1,0 +1,68 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "YoYoGivenNewArms",
+    "description": "On Zephyr One, Simmons checks up on Elena's progress after providing her with new, advanced prosthetic arms. Elena initially resists, not wanting to hide her disability or forget her experiences, but Simmons gently encourages her to accept the improvements for their mission's sake. The two share a moment of trust, discussing their worries about Fitz and the hardships of being separated by time and danger.",
+    "roles": [
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "How are your arms feeling?"
+        },
+        {
+            "character": "Elena",
+            "line": "Strange. But better. Thank you. How about you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz said he'd try to send me a message, but I'm not entirely sure how to find it."
+        },
+        {
+            "character": "Elena",
+            "line": "You must be worried about him."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's safe. But I do miss him."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, it's not exactly your first go at being separated by space and time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Practice makes perfect, I suppose."
+        },
+        {
+            "character": "Elena",
+            "line": "Are you gonna try to reach out to him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Never. We have to assume the Chronicoms are listening. It's more important to keep a low profile. You stole a truck?! That is the opposite of “low profile”, Deke."
+        },
+        {
+            "character": "Deke",
+            "line": "Why me? There's two of us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, we didn't exactly have a choice."
+        },
+        {
+            "character": "Elena",
+            "line": "You killed a cop?"
+        },
+        {
+            "character": "Simmons",
+            "line": "A Chronicom. Motor functions are coming back online. Tie him up. Let's get some answers."
+        }
+    ]
+}

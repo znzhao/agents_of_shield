@@ -1,0 +1,220 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 9,
+    "scene_name": "MalickQuestionsAndrew",
+    "description": "Gideon Malick privately meets with Andrew Garner at an undisclosed location. Malick manipulates Andrew with offers of understanding and potential help, aiming to extract secrets about S.H.I.E.L.D.'s practices and the broader Inhuman problem. The conversation reveals Malick’s interest in S.H.I.E.L.D.’s deeper secrets.",
+    "roles": [
+        "gideon_malick",
+        "andrew_garner"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Dr. Garner, I'm so sorry about everything."
+        },
+        {
+            "character": "Andrew",
+            "line": "No one warned me there'd be a flight. Who are you?"
+        },
+        {
+            "character": "Malick",
+            "line": "I'm Gideon Malick. I advise the president's staff, And I want to assure you that we're working with S.H.I.E.L.D. to do everything we can to help you."
+        },
+        {
+            "character": "Andrew",
+            "line": "With what? A cure? I know how pharmaceuticals work. What are you? A decade away from treatment?"
+        },
+        {
+            "character": "Malick",
+            "line": "It strikes me that no one's asked if you even want treatment. They haven't asked your opinion on the situation at all, have they?"
+        },
+        {
+            "character": "Andrew",
+            "line": "No. But, then, all they see is a killer."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, surely, you have taken a hard stance, but, then, this is an invading alien contagion which S.H.I.E.L.D. has known about for quite some time."
+        },
+        {
+            "character": "Malick",
+            "line": "They protected no one, including you."
+        },
+        {
+            "character": "Andrew",
+            "line": "There's more nuance to S.H.I.E.L.D. than that. Why worry about them?"
+        },
+        {
+            "character": "Malick",
+            "line": "S.H.I.E.L.D. has good intentions but questionable methods."
+        },
+        {
+            "character": "Andrew",
+            "line": "That much is true. They can't help themselves from jumping into the deep end of dangerous waters."
+        },
+        {
+            "character": "Malick",
+            "line": "We agree on more than we don't. I can help you, Dr. Garner. But first, I need to know what else S.H.I.E.L.D. has been hiding from us."
+        },
+        {
+            "character": "Morse",
+            "line": ": Andrew isn't here. Guys, are you sure this is the right area?"
+        },
+        {
+            "character": "Daisy",
+            "line": "That's the place."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, there are no Inhumans being held here. Let Coulson know. And as far as a cure, it doesn't look like they're taking tissue samples, studying cell response. Not in here, anyway."
+        },
+        {
+            "character": "Mack",
+            "line": "If they're not working on a cure in there, then what are they doing?"
+        },
+        {
+            "character": "Morse",
+            "line": "Wait. Daisy, anything on medications they've compiled for study? Because I'm not positive, but those look an awful lot like fish-oil pills."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll look."
+        },
+        {
+            "character": "Hunter",
+            "line": "There's no better time to be a hacker, really. I mean, nowadays, every human on the planet, kids have computers in their pockets, you know? Instead of stealing candy from a baby, you're stealing their parents' credit-card information."
+        },
+        {
+            "character": "Wilson",
+            "line": "Okay, I'm gonna grab some coffee."
+        },
+        {
+            "character": "Hunter",
+            "line": "Mm-hmm. I'll have a cup of tea, please. Thanks. Oh, bollocks. Uh, people, it's time to download everything we can and make our getaway. Our friend Mr. Banks has just showed up, and I do not have a handkerchief to cover my face. And that would be weird, anyhow."
+        },
+        {
+            "character": "Mack",
+            "line": "Copy that."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're not studying medication, Bobbi. They're administering them, giving mandatory supplements to all their employees."
+        },
+        {
+            "character": "Mack",
+            "line": "“To prevent infection”, uh, soldiers, office workers. And it says, “any public witnesses.” Oh, no."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're playing the odds, giving Terrigen to as many people as they can. They're not trying to cure Inhumans, they're..."
+        },
+        {
+            "character": "Morse",
+            "line": "They're turning them."
+        },
+        {
+            "character": "Price",
+            "line": "Hmm. Do you expect me to stay in this room overnight, Phil? 'Cause I might need a little persuading."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, it's you who needs to convince me."
+        },
+        {
+            "character": "Price",
+            "line": "Convince you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That you're not HYDRA. Otherwise, you're never leaving this room again."
+        },
+        {
+            "character": "Price",
+            "line": "What a hell you're doing, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Getting the truth out of you once and for all."
+        },
+        {
+            "character": "Price",
+            "line": "Is this a joke?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not laughing."
+        },
+        {
+            "character": "Price",
+            "line": "What, you think there's some hidden secret you can just scare out of me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have my people infiltrating your facility. I'm getting the truth regardless, so this is your final chance to come clean."
+        },
+        {
+            "character": "Price",
+            "line": "They won't find anything out that I wouldn't happily tell them."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's wrong with you? Stop lying. Why don't you tell me who you really are, who you work for, and what you're hiding?"
+        },
+        {
+            "character": "Price",
+            "line": "What the hell is wrong with you? Look at you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm done playing games."
+        },
+        {
+            "character": "Price",
+            "line": "I wasn't playing games. I thought... I thought there was something between us, something real that wasn't just based in this spycraft-manipulation crap."
+        },
+        {
+            "character": "Coulson",
+            "line": "You really think this emotional appeal's gonna work right now?"
+        },
+        {
+            "character": "Price",
+            "line": "No, because you have no emotions. This was all a plan? To sleep with me, gain trust, and take advantage?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't try to talk your way out of this."
+        },
+        {
+            "character": "Price",
+            "line": "Or even sadder, you didn't plan to sleep with me, but you just have such deep issues that you stopped trusting me as soon as you did."
+        },
+        {
+            "character": "Coulson",
+            "line": "You lied to me. Andrew isn't being kept at your ATCU facility, is he?"
+        },
+        {
+            "character": "Price",
+            "line": "Of course not."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Are you torturing me? Is that the idea? Drag me around, waiting for the other shoe to drop? I know how dangerous you are. But if you blame me for bringing out the monster in that man, I'm not apologizing for that."
+        },
+        {
+            "character": "May",
+            "line": "I've been trying to figure out what to say, because I do want to apologize, to you. For Andrew. He killed your friends in cold blood, tried to kill you. I'm sorry. I should've known."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I should be thanking you for being willing to put those bullets in him when you did."
+        },
+        {
+            "character": "Daisy",
+            "line": "May, Bobbi and Hunter may need extraction sooner than we thought."
+        }
+    ]
+}

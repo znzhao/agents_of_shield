@@ -1,0 +1,256 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 11,
+    "scene_name": "CoulsonMeetsSibylInChronicomShip",
+    "description": "Coulson discovers the buried Chronicom warship under the Lighthouse and enters a digital interface where he meets Sibyl. They debate the philosophical differences between humans and Chronicoms—sacrifice, mortality, and value. Coulson learns about Daisy's abduction and Mack's parents’ importance, then primes the ship for destruction, showing defiance even in the face of death.",
+    "roles": [
+        "phil_coulson",
+        "sibyl"
+    ],
+    "vibe": "mysterious",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Where am I?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "In a virtual space. Advantage of a digital mind."
+        },
+        {
+            "character": "Coulson",
+            "line": "I mean, where's my body?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Surrounded by Hunters in our time ship. It appears underground, which is why you've had difficulty finding it."
+        },
+        {
+            "character": "Coulson",
+            "line": "And who are you?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Sibyl. They call me the Predictor, but I simply read the Time Streams."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you saying you see the future?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "I see the past as written by a single future... a tree grown, but also the many trees it could've grown to be."
+        },
+        {
+            "character": "Coulson",
+            "line": "A predictor and a poet. Sweet. Definitely not like any Chronicom I've met."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Nor are you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Again, I'm not a... You know, people keep making that mistake today."
+        },
+        {
+            "character": "Sibyl",
+            "line": "But you're not a person. What do you think you are?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One of many pressing questions. But you seem to answer anything I ask."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I see no reason not to."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then this should be interesting."
+        },
+        {
+            "character": "Deke",
+            "line": "Enoch had you unconscious and was implanting something in your brain. All of my actions were completely on the up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and completely misguided. Forget what you saw. Enoch is a friend."
+        },
+        {
+            "character": "Deke",
+            "line": "No, no, what I just saw was Creepytown, USA, population... the... the two of you. No, no. I want answers... real ones."
+        },
+        {
+            "character": "Simmons",
+            "line": "He was fixing my memory so we can fix the ship."
+        },
+        {
+            "character": "Deke",
+            "line": "Wait a second. Do you... Do you not know how to fix the time machine that you are currently ripping apart?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You cannot imagine how impossible it was to track the Chronicoms through time. But Fitz and I found a place where all their moves could be observed. And to guide us, Fitz stayed there. He is completely exposed, and they will kill him if they find him, so no one can know his location."
+        },
+        {
+            "character": "Deke",
+            "line": "But you knew."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. I designed a biological implant to suppress my memories. I named her Diana. She's adorable, and we're inseparable. Literally. Ohh. You need to replace the capacitors."
+        },
+        {
+            "character": "Deke",
+            "line": "But then you won't remember how to find Fitz again."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm worried I might. Diana is acting up, and I'm... I'm forgetting the things I'm supposed to know, and more dangerously, I'm remembering the things I'm not."
+        },
+        {
+            "character": "Deke",
+            "line": "We'll fix the implant."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't worry. We're far more likely to blow a hole through space-time, then Diana won't matter, anyway. Duct tape?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Hey, buddy, she's not doing good. You need to get some help. Leave me alone. Help her. No?"
+        },
+        {
+            "character": "Man",
+            "line": "Aah!"
+        },
+        {
+            "character": "Sousa",
+            "line": "Okay. I got you. Come on. Here we go. Is that you?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "My bones... are cracking."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's Daisy?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Abducted by Nathaniel Malick. He wants to take her power."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are the chances he'll succeed?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "22%."
+        },
+        {
+            "character": "Coulson",
+            "line": "Will Daisy survive?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "86%."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's my girl. And what do you want from Mack's parents?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Mack."
+        },
+        {
+            "character": "Coulson",
+            "line": "To get to us? So you can have Earth?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "You know the answer to that one."
+        },
+        {
+            "character": "Coulson",
+            "line": "And why do you want it?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "To ensure the survival of my species."
+        },
+        {
+            "character": "Coulson",
+            "line": "See? Me too. We should talk more. So much in common."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Neither one of us is actually speaking."
+        },
+        {
+            "character": "Coulson",
+            "line": "And a great sense of humor, too. So, why you and not us?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Clarify."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's the difference between a Chronicom and a human?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "Time. Humans have a limited amount of it and therefore fear death. They act irrationally to prevent themselves or others from experiencing death. Chronicoms cannot die. Time has no consequence. You should ask yourself which category you fall into."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, that's the difference that makes your species more valuable."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Less fleeting. With a home planet intact, we will exist long after you're gone. Once you realize that, you'll give up. Or... you'll run out of..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time. Yeah, you said that. I would argue that you're wrong about three things, if you don't mind."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Please."
+        },
+        {
+            "character": "Coulson",
+            "line": "First... the difference is sacrifice. Yeah, time is limited... which means sacrifice comes at a real cost... not just data. Heart and pain and blood and sweat and tears... all the good human stuff. And we will never give up."
+        },
+        {
+            "character": "Sibyl",
+            "line": "You said I was wrong about three things. What's the third?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Me. You see, I haven't feared death for a long time."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Is that so?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. The fact is, dying... it's kind of my super power."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Someone's in the Hive. Get down there immediately."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, if you're out there, I found the ship. I just hope you're right about this next part."
+        }
+    ]
+}

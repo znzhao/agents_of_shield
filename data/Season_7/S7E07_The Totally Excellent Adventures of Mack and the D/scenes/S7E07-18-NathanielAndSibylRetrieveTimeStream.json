@@ -1,0 +1,32 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 18,
+    "scene_name": "NathanielAndSibylRetrieveTimeStream",
+    "description": "Nathaniel Malick and Sibyl meet at the end of the episode. Sibyl, now once again a key Chronicom figure, presents Nathaniel with the Time Stream, granting him powerful tools for shaping the future. Their sinister partnership is cemented, setting the stage for future conflict.",
+    "roles": [
+        "nathaniel_malick",
+        "sibyl"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "It's smaller than I imagined."
+        },
+        {
+            "character": "Sibyl",
+            "line": "You now have the one tool necessary to control your world's future."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Well, lucky me. Aren't you just full of neat tricks, digital lady."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I'm confident we'll make a perfect pair."
+        }
+    ]
+}

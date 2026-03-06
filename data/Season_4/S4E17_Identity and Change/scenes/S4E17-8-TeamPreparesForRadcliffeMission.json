@@ -1,0 +1,190 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 8,
+    "scene_name": "TeamPreparesForRadcliffeMission",
+    "description": "At the Playground, with Mace’s support, Simmons, Coulson, and Ward prepare to leave for Ogygia to find Radcliffe. There is a moment of camaraderie and reflection, as the group discusses past memories, the reality of their world, and the risks ahead. Ward expresses guilt over leaving Skye behind, Simmons reassures him, and Coulson shares his misgivings about his own qualifications. Ward announces that they’re 30 minutes out from Radcliffe’s position as they board the Quinjet.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "jeffrey_mace"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "The hangar was in total disrepair when we first found it."
+        },
+        {
+            "character": "Ward",
+            "line": "We've had to steal what vehicles we could."
+        },
+        {
+            "character": "Mace",
+            "line": "Someday, this could really be special. Imagine a fleet of Quinjets launching from here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Imagine that."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir."
+        },
+        {
+            "character": "Mace",
+            "line": "Good luck out there."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why didn't you tell them this reality's fake?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Keep your voice down."
+        },
+        {
+            "character": "Coulson",
+            "line": "You lied to them."
+        },
+        {
+            "character": "Simmons",
+            "line": "It wasn't a lie. It was an omission. Not everyone is ready for that truth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, but I am?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. So far, you're the only one who remembers the way things should be."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's only fragments."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fragments have got you this far."
+        },
+        {
+            "character": "Ward",
+            "line": "We liberated this guy last year."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is a Quinjet?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. And that fleet Mace described? You commanded it. Except yours were loads nicer, and you wouldn't believe Zephyr One."
+        },
+        {
+            "character": "Mack",
+            "line": "This has to be a mistake. We didn't do anything. We... We shouldn't be here."
+        },
+        {
+            "character": "May",
+            "line": "You're in a lot of trouble."
+        },
+        {
+            "character": "Mack",
+            "line": "But we're innocent. We keep our heads down, we obey the rules..."
+        },
+        {
+            "character": "May",
+            "line": "People who haven't done anything don't end up here."
+        },
+        {
+            "character": "Mack",
+            "line": "We don't want to cause any trouble. And Hope, she's just a kid."
+        },
+        {
+            "character": "May",
+            "line": "That doesn't mean she's innocent."
+        },
+        {
+            "character": "Mack",
+            "line": "Please, I'll do anything."
+        },
+        {
+            "character": "Ward",
+            "line": "So, this Radcliffe, is he dangerous?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe not physically. But sometimes the greatest threats are the ones right in front of you."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Ward",
+            "line": "I should've never left Skye."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. I'm sure she'll be okay."
+        },
+        {
+            "character": "Ward",
+            "line": "Which I keep telling myself, but if anything happens, I'd never forgive myself. I'd die for her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why don't I give you a minute?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Everything all right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's been years since I've even been on a plane."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's perfectly normal to be nervous."
+        },
+        {
+            "character": "Coulson",
+            "line": "For the longest time, I just wanted someone to believe me and tell me I wasn't crazy."
+        },
+        {
+            "character": "Simmons",
+            "line": "You are not crazy."
+        },
+        {
+            "character": "Coulson",
+            "line": "I live alone and make my own soap."
+        },
+        {
+            "character": "Simmons",
+            "line": "I... Uh... It's quaint. Hipster, even."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not how my ex-wife saw it. Who am I kidding? I'm not remotely qualified to be here."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know the real Coulson, and I believe in you, even if you don't just now. You're exactly where you're meant to be."
+        },
+        {
+            "character": "Ward",
+            "line": "30 minutes out."
+        }
+    ]
+}

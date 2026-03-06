@@ -1,0 +1,70 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 4,
+    "scene_name": "PrepForDanielsMission",
+    "description": "Coulson briefs Fitz, Simmons, and Triplett on Daniels' powers and the mission ahead. The team discusses the Darkforce origin of Daniels’ abilities, concluding pure light overloaded his system before. Triplett agrees to join the mission as the specialist, while Fitz and Simmons prepare to improvise tech solutions en route.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "dramatic",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Marcus Daniels was an assistant at a physics lab where they were trying to harness the electrical power of something called Darkforce. And nothing bad ever happens when you work with something called “Darkforce.”"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a form of cosmic radiation, pure negative energy. Unstable but powerful. You knew that already, didn't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daniels was exposed, ended up being able to absorb energy... all types."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, the human brain, the heart, run on electrical impulses."
+        },
+        {
+            "character": "Coulson",
+            "line": "Exactly. He can kill with one touch."
+        },
+        {
+            "character": "Triplett",
+            "line": "And I'm guessing he likes to. Do we need to put a bullet in him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Unfortunately, it's not that simple. He can absorb the energy of most conventional weapons."
+        },
+        {
+            "character": "Simmons",
+            "line": "He sounds unstoppable."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like Fitz said, his power's unstable. Last time, we managed to capture him by overloading his system with pure light."
+        },
+        {
+            "character": "Fitz",
+            "line": "Exposing him to more energy than he could absorb at once. I'm sure we could engineer some sort of delivery mechanism en route."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what I was hoping you were gonna say. You mind flying, being the specialist on mission?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Sir, I'll be whatever you want me to be."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what I was hoping you were gonna say."
+        }
+    ]
+}

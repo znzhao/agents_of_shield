@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 21,
+    "scene_name": "DaisyHelpsTalbotContactFamily",
+    "description": "Back at the Lighthouse, Daisy helps Talbot call his family with a secure, trace-proof method. Talbot speaks to his wife, apologizing and reaffirming his love for his son. However, as the conversation ends, it's clear that Talbot has been further brainwashed and is about to comply with programming, ending on an ominous note.",
+    "roles": [
+        "skye",
+        "glenn_talbot"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Hey."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey."
+        },
+        {
+            "character": "Daisy",
+            "line": "I thought you'd like to know that we got a lead on Hale. You really helped."
+        },
+        {
+            "character": "Talbot",
+            "line": "I wouldn't go that far."
+        },
+        {
+            "character": "Daisy",
+            "line": "I also thought about what you said about your son. And, um, if... if I would've known that my dad cared growing up, it would've made a big difference. So, it took some doing, uh, but this phone was set to bounce through a dozen foreign relays. We only have one shot, and even then, just a few minutes. But you can call them without Hale tracing us."
+        },
+        {
+            "character": "Talbot",
+            "line": "Thank you."
+        },
+        {
+            "character": "Carla",
+            "line": "Hello?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Hi, honey. It's Glenn."
+        },
+        {
+            "character": "Carla",
+            "line": "I was so worried."
+        },
+        {
+            "character": "Talbot",
+            "line": "I know. I'm... I'm so sorry."
+        },
+        {
+            "character": "Carla",
+            "line": "Once the Air Force took you, I-I got a few progress reports, but then you never called. I thought I'd never see you again."
+        },
+        {
+            "character": "Talbot",
+            "line": "Honey, I'm sorry. I only have a few minutes. I-I just want you to tell George that his dad's okay and his father loves him very much. And I'm getting better. I'm getting stronger, and I'm... I'm not yelling as much."
+        },
+        {
+            "character": "Carla",
+            "line": "Glenn."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Carla",
+            "line": "The doctors said you should take a deep breath. Calm your mind. You know what is best. What is best is you comply. Remember, your compliance will be rewarded. Glenn, are you ready to comply?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm happy to."
+        }
+    ]
+}

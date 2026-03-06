@@ -1,0 +1,97 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 3,
+    "scene_name": "FitzAndDekeFamilyChatter",
+    "description": "In the Lighthouse holding area, Fitz and Deke bond in their own awkward way, discussing S.H.I.E.L.D.'s troubled past and their family ties. Simmons joins, probing Deke for hints about her and Fitz's fate in the future but gets few answers.",
+    "roles": [
+        "leo_fitz",
+        "deke_shaw",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I don't see it. None of you looks like me."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I don't know what to tell you, Grandpappy. I guess your daughter found a real man."
+        },
+        {
+            "character": "Fitz",
+            "line": "Of all people. Why couldn't it be Flint? I liked Flint."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's a lovely sentiment. That's almost as loving as when you had a robot point a gun to my head."
+        },
+        {
+            "character": "Fitz",
+            "line": "I didn't want to hurt anybody."
+        },
+        {
+            "character": "Deke",
+            "line": "It's fine. It's the first move you made that actually made me respect you a little bit. It's my kind of move. And this place, 80 years from now, I'd survived on moves like that. ‘Cause it was kill or be killed. I know Johnson's still mad at me about the whole “selling her into slavery” thing, but you got to play the long game, or else the whole world is gonna be a vacancy, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe."
+        },
+        {
+            "character": "Deke",
+            "line": "And you say you don't see the resemblance? Okay. Well, quality time was fun, but I'm late. I don't know if you noticed, but ever since she's been in charge, Daisy's kind of a hard-ass."
+        },
+        {
+            "character": "Fitz",
+            "line": "I noticed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can I pick your brain for a minute?"
+        },
+        {
+            "character": "Deke",
+            "line": "That's a weird saying."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was hoping you could tell me more about our future."
+        },
+        {
+            "character": "Deke",
+            "line": "I mean, you saw it. It sucked."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I mean Fitz and me. Do you recall any evidence of major injury, any noticeable scarring, perhaps?"
+        },
+        {
+            "character": "Deke",
+            "line": "I don't remember you guys at all. I didn't even know your real names. Everyone in S.H.I.E.L.D. changed them when they were getting hunted down. I just knew you as Nana and Bobo. But you guys made it to the Lighthouse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Good to hear."
+        },
+        {
+            "character": "Deke",
+            "line": "Mom talked about you a lot but never mentioned any health stuff. I'm pretty sure you were tiptop. You remind me of her. If you want, I could tell you stories about what you..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think it's best not to know too much. It's enough to know Fitz and I live long enough to create her."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, you certainly will, as long as you guys... you know... Uh, but anyway, I-I don't know how much longer I'm gonna make it if I don't get a move on, because I don't know if you noticed, but ever since she's been in charge, Daisy has really just become a hard-ass."
+        },
+        {
+            "character": "Simmons",
+            "line": "I noticed."
+        }
+    ]
+}

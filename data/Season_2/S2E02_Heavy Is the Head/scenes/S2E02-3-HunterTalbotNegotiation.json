@@ -1,0 +1,24 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 3,
+    "scene_name": "HunterTalbotNegotiation",
+    "description": "Hunter awakens having been captured by the army and is approached by Brigadier General Talbot, who tries to bribe him into betraying Coulson in exchange for money and favors. Hunter negotiates for Hartley to receive a proper burial, showing his loyalty and grief for his fallen comrade. He reluctantly accepts Talbot's deal on those terms.",
+    "roles": [
+        "lance_hunter",
+        "glenn_talbot"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Oh, just as I was dropping off to sleep. Thank you very much. Uh... Excuse me, gents. Can I get a glass of... water?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Mr. Hunter, I don't believe we've had the pleasure! Brigadier General Glenn Talbot. Looks like you need a lift, soldier."
+        }
+    ]
+}

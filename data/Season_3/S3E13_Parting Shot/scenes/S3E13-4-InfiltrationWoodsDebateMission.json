@@ -1,0 +1,192 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "InfiltrationWoodsDebateMission",
+    "description": "Bobbi and Hunter make their way through the Siberian woods, debating the ongoing challenges of their work with S.H.I.E.L.D. and discussing past missions and personal sacrifices. They spot an Inhuman being held captive at the facility, indicating the seriousness of Malick's operation before getting caught by a Russian patrol.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Zephyr, we're in sight, but no visuals on the target. Can we get thermals?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep. We've got eyes on you, Bird, but we can't see inside the plant. Internal lining must be blocking thermal or ground-penetrating radar. They're hiding something."
+        },
+        {
+            "character": "Hunter",
+            "line": "Malick's SUV is inside, parked in the loading-bay area, along with several military vehicles. Must be their base of operations during construction."
+        },
+        {
+            "character": "Fitz",
+            "line": "They've wiped out almost 30 square kilometers of forest just to make room for this place. You wonder why the planet's dying."
+        },
+        {
+            "character": "Hunter",
+            "line": "Got that right, mate. You and Jemma watch that documentary I mentioned?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, yes! The one about the Amazon? It..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you'll talk about it later. We need eyes and ears down there. Malick told me point-blank he's putting together an Inhuman army, so he's either here to add more soldiers or to set up shop."
+        },
+        {
+            "character": "Morse",
+            "line": "Copy that. If we're gonna infiltrate, a surveillance package would help, sir."
+        },
+        {
+            "character": "Hunter",
+            "line": "And guns. Don't forget those."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll send a backup team your way."
+        },
+        {
+            "character": "Hunter",
+            "line": "If we can get to Malick, have we got the green light?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to assassinate a former member of the World Council on Russian soil, knowing that if we get caught or our actions are tied to the U.S. government in any way, that it'll be considered an act of war."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, you're saying...?"
+        },
+        {
+            "character": "Fitz",
+            "line": "P-Pretty sure that's gonna be a no."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a big no. Find out what Malick's up to and get back to me. And keep a low profile."
+        },
+        {
+            "character": "Morse",
+            "line": "Copy. Over and out."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hi. Kind of nice, isn't it? The two of us, alone in the woods."
+        },
+        {
+            "character": "Morse",
+            "line": "No. Not here, not now. Though I love the way you think."
+        },
+        {
+            "character": "Hunter",
+            "line": "Get your mind out of the gutter, woman. I was just trying to recall the last time we went away together on a proper vacation."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, let's see. Rio, Caesar Park Hotel."
+        },
+        {
+            "character": "Hunter",
+            "line": "On a mission. Stakeout."
+        },
+        {
+            "character": "Morse",
+            "line": "San Diego."
+        },
+        {
+            "character": "Hunter",
+            "line": "Visiting your mum doesn't count."
+        },
+        {
+            "character": "Morse",
+            "line": "Florence?"
+        },
+        {
+            "character": "Hunter",
+            "line": "That wasn't me. The word you're looking for is “never.”"
+        },
+        {
+            "character": "Morse",
+            "line": "No, not never. You're exaggerating."
+        },
+        {
+            "character": "Hunter",
+            "line": "Fine. I'm exaggerating."
+        },
+        {
+            "character": "Morse",
+            "line": "This is the job. We have to make certain sacrifices, like free time."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where do you draw the line? The sacrifices we've made, the compromises we've made."
+        },
+        {
+            "character": "Morse",
+            "line": "Where's this coming from?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Carl Creel killed two of our friends, and we go on a mission with him."
+        },
+        {
+            "character": "Morse",
+            "line": "To be fair, Talbot brought him in."
+        },
+        {
+            "character": "Hunter",
+            "line": "And Coulson approved it. Like we made peace with Ward last year to go on a mission, and he almost killed you."
+        },
+        {
+            "character": "Morse",
+            "line": "Ward's dead."
+        },
+        {
+            "character": "Hunter",
+            "line": "And here we are, chasing a man who may be the last head of HYDRA, and our orders are to surveil him? Why? So he can come back to haunt us later? There's a pattern emerging, and it always ends badly. Oh, forget it. I just need a break."
+        },
+        {
+            "character": "Morse",
+            "line": "Are you talking about a vacation or something else?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Hold on. We've got movement."
+        },
+        {
+            "character": "Morse",
+            "line": "What's that tech wrapped around his head? It's got to be an Inhuman."
+        },
+        {
+            "character": "Hunter",
+            "line": "They're holding him prisoner."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson needs to see this."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, that's one way to infiltrate the premises."
+        },
+        {
+            "character": "Morse",
+            "line": "Please, don't shoot. Oh, my gosh. We are so sorry."
+        },
+        {
+            "character": "Hunter",
+            "line": "We were just looking for the main road. Out for a spot of mushroom picking. Y-Y-You see? Mush-rooms?"
+        },
+        {
+            "character": "Morse",
+            "line": "My... My phone battery died, and we got lost. Do you guys have a map?"
+        }
+    ]
+}

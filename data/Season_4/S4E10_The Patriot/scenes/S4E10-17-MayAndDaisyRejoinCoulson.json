@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 17,
+    "scene_name": "MayAndDaisyRejoinCoulson",
+    "description": "May, wounded but resilient, is approached by Daisy, who offers her help. May assures her she's fine, as Daisy invites her to join the others gathering in the Director's office. There's a sense of camaraderie and relief as the team regroups, setting the stage for the next phase.",
+    "roles": [
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Aah."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. Hey, you need help with that?"
+        },
+        {
+            "character": "May",
+            "line": "Uh, no, it's, uh... It's just a scratch."
+        },
+        {
+            "character": "Daisy",
+            "line": "Um, Coulson's gathering everyone in the Director's office."
+        },
+        {
+            "character": "May",
+            "line": "I'll see you in there."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you sure you're okay?"
+        },
+        {
+            "character": "May",
+            "line": "Never better."
+        }
+    ]
+}

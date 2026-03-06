@@ -1,0 +1,78 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "DebateAboutRecruitingLincoln",
+    "description": "Daisy appeals to Coulson to recruit Lincoln for his expertise in helping new Inhumans adapt. Although Mack voices his reservations, both agents are ultimately sent by Coulson to contact Lincoln, hoping he will help Joey adjust. Meanwhile, Bobbi informs Coulson that they've found the black ops leader’s routine, providing an opportunity for an encounter.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "bobbi_morse"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "He's going nuts. Joey's having a tough time. The change is hard enough physically. But emotionally, it's a whole other thing. I tried talking him down, but I blew it in there. And Mack is not exactly coming off as a teddy bear."
+        },
+        {
+            "character": "Mack",
+            "line": "You just told the guy I'm a teddy bear."
+        },
+        {
+            "character": "Daisy",
+            "line": "And then you told him the best-case scenario was his head blown off."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm."
+        },
+        {
+            "character": "Daisy",
+            "line": "I need help, and there's one person who's better at that than anyone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln? You really want to go there again?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He could help with intake. Plus, he understands the physical change. He's a doctor, whereas we don't even know what medical treatments to give."
+        },
+        {
+            "character": "Coulson",
+            "line": "Last time you tried to sell him on it, he wasn't exactly buying."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'd like to try again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, what's your take?"
+        },
+        {
+            "character": "Mack",
+            "line": "I voiced my feelings about letting Lincoln roam free. I'd gladly drag him in here where he can't hurt anyone, but if Daisy can talk him in, He might actually do some good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Both of you go. Requisition a flight team and a Quinjet."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, Coulson, got her. Weapon is a DARPA prototype. We tapped surveillance at multiple DARPA facilities, got a hit. The D.C. branch office. She visits every few days."
+        },
+        {
+            "character": "Coulson",
+            "line": "A routine. Tell me there's a window where we can get to her."
+        },
+        {
+            "character": "Morse",
+            "line": "It's a small one. Every night she visits, she leaves at approximately 9:00 P.M. With a small security detail. They're all three dropped at the metro station on 12th half an hour later. Her escorts buy her a coffee on the walk to the platform. But she boards the 9:35 train alone. Sits in the middle, drinks her coffee, and answers e-mails. It's the only time she's alone all day."
+        }
+    ]
+}

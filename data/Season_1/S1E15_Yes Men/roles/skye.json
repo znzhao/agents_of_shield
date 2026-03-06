@@ -1,0 +1,58 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 15
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and vital member of S.H.I.E.L.D., known for her resilience, determination, and loyalty to her team who she considers her true family. Her background as an 0-8-4, someone with mysterious origins, deeply influences her quest for identity and purpose, often driving her to take risks to protect others and uncover hidden truths. She balances vulnerability with tenacity, continuing to evolve as she navigates the complex moral and ethical challenges posed by S.H.I.E.L.D.'s secretive projects and alien encounters, embodying hope, courage, and pragmatism in a world of shadows and advanced technology.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "stop_ian_quinn_and_cybertek_operations",
+        "goal": "To halt Ian Quinn's Cybertek operations to prevent misuse of advanced technology and protect others"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_truth_about_GH325_and_Fury",
+        "goal": "To discover the full truth about the GH-325 drug, its origins, and the reasons behind Fury's secrets"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_4",
+      "context": "expressing excitement and curiosity about Asgardians as alien beings",
+      "catch_phrase": "So we could go inside, take a peek under the hood, maybe take it for a spin. Come on, you're telling me piloting an alien ship isn't on your bucket list?"
+    }
+  ]
+}

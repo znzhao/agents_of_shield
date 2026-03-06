@@ -1,0 +1,83 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 7,
+    "scene_name": "LincolnSeeksHelpFromJohn",
+    "description": "Fleeing capture, Lincoln turns to his old friend John for refuge. He is welcomed with hospitality and emotional support, as they discuss trust and Lincoln's desperate situation. The mood soon darkens as John discovers Lincoln's wanted status and turns against him, resulting in tragic unintended consequences when John goes into cardiac arrest amid the confrontation.",
+    "roles": [
+        "lincoln"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "John",
+            "line": "Hey."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Hey."
+        },
+        {
+            "character": "John",
+            "line": "Have you been drinking?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I wanted to. Instead, I called you. You're the only one I trust."
+        },
+        {
+            "character": "John",
+            "line": "Get in. It's a hell of a long way for a ride."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know. I'll take care of the tolls on the way back."
+        },
+        {
+            "character": "John",
+            "line": "You slept the whole drive."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I was pretty wiped out."
+        },
+        {
+            "character": "John",
+            "line": "Yeah, I was kind of hoping for the hilarious tale of why. You didn't call to have me talk you off a ledge. Not this time, anyway. Lincoln, what's going on?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Uh, I'm in a little bit of trouble."
+        },
+        {
+            "character": "John",
+            "line": "You are killing me with these details."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You don't want to know. Look, it's a misunderstanding. I promise you, I haven't done anything wrong."
+        },
+        {
+            "character": "John",
+            "line": "Okay, that is all I need to hear. I know what kind of man you are. Just tell me what you need."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I was hoping, uh... You'd let me buy your car off of you. I know it's a lot to ask. Uh, I'll pay cash."
+        },
+        {
+            "character": "John",
+            "line": "Done."
+        },
+        {
+            "character": "Lincoln",
+            "line": "John, I don't know what to say."
+        },
+        {
+            "character": "John",
+            "line": "All right, now, wait a minute. You're... you're doing me a favor. It's a pile of rust. All right? I'll make us some dinner. I don't know. Take a nap, or the shower's over there, if you want to take a shower. Mi casa, su casa. It's gonna be okay."
+        }
+    ]
+}

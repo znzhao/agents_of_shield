@@ -1,0 +1,46 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 8,
+    "scene_name": "TeamHeadsToPortland",
+    "description": "Coulson, Fitz, Simmons, and Triplett head out to Portland via the Bus, targeting Daniels' next likely move. Coulson reveals Daniels' obsession with Audrey Nathan to the team, and they solidify their plan to protect her.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "How can you be sure he's going to Portland?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daniels was obsessed with a woman there. He called her his only light in the darkness."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's almost romantic! Almost."
+        },
+        {
+            "character": "Fitz",
+            "line": "The man's been locked up in the Fridge for years. He must be over her by now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Some people are hard to get over. Besides, Daniels is pathologically insane, single-minded, obsessive. His powers not only robbed him of a normal life, they also pretty much fried his brain."
+        },
+        {
+            "character": "Fitz",
+            "line": "What about the woman?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Audrey Nathan. She's how we tracked him the first time. We find Ms. Nathan, we find Daniels."
+        }
+    ]
+}

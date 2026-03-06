@@ -1,0 +1,76 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 6,
+    "scene_name": "TalbotAndHillTakeProvidence",
+    "description": "Colonel Talbot and his special forces team invade Providence, overwhelming Coulson and his remaining agents. Maria Hill is revealed to have led Talbot to the base as part of a deal, and she tries to get Coulson to cooperate, suggesting they could cut favorable terms by surrendering abandoned resources. Coulson and Hill have a heated confrontation about secrets, T.A.H.I.T.I., and the agency's collapse, with both expressing regret and frustration.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "victoria_hand",
+        "glenn_talbot",
+        "michael_peterson"
+    ],
+    "vibe": "tense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I wish this bunker had a bunker."
+        },
+        {
+            "character": "Coulson",
+            "line": "These doors should hold. It'll some major artillery to make a dent. Hangar door deactivated."
+        },
+        {
+            "character": "Simmons",
+            "line": "How?! That's impossible!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Take cover. Let's go."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not Hydra. It's special forces."
+        },
+        {
+            "character": "Talbot",
+            "line": "On behalf of the United States armed forces, I order you to stand down. I repeat, stand down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Colonel Talbot? There have to be better things for you to do than chase four S.H.I.E.L.D. agents."
+        },
+        {
+            "character": "Talbot",
+            "line": "I wasn't a huge fan before chasing you to the damn tundra, Coulson. I wouldn't push it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm flattered you came in person."
+        },
+        {
+            "character": "Talbot",
+            "line": "Fury's private base on North American soil? I just had to see it for myself."
+        },
+        {
+            "character": "Coulson",
+            "line": "If I come out, will you shoot me? ‘Cause then I won't come out."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hold your fire, soldiers."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is one of the most classified facilities on the planet, Colonel. How the hell did you find it?"
+        },
+        {
+            "character": "Hill",
+            "line": "I told them."
+        }
+    ]
+}

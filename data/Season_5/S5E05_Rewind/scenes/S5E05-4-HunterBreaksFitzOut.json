@@ -1,0 +1,180 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "HunterBreaksFitzOut",
+    "description": "Hunter arrives at the facility posing as Fitz's lawyer. Using a well-timed explosion, he facilitates Fitz's escape from the military installation. Fitz and Hunter banter about the plan's details and quickly make their getaway, leaving the confused staff in their wake.",
+    "roles": [
+        "leo_fitz",
+        "hale"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Hey, you can't go in there without authorization."
+        },
+        {
+            "character": "Hale",
+            "line": "Your attorney is here."
+        },
+        {
+            "character": "Hunter",
+            "line": "Get those cuffs off my client and get the hell out of here."
+        },
+        {
+            "character": "Fitz",
+            "line": "They printed my letters in the last six issues of Ballbuster Hooligans."
+        },
+        {
+            "character": "Hunter",
+            "line": "And how many copies do you think are available in Bangladesh? None. As in zero. Soon as I heard you were missing, I got hold of some. Where do you get off on calling Liverpool a bunch of wankers?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, if you never win anything, then how do..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, at least we're not trying to buy our way back to glory."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. Do not talk crap about Man U."
+        },
+        {
+            "character": "Hunter",
+            "line": "Me talking crap? Your letters were nothing but crap. All that stuff about the... How many European Cups have you won?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, got your attention, didn't it? Finally. After six months!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, maybe I should've just thrown them out and left you here."
+        },
+        {
+            "character": "Fitz",
+            "line": "I missed you."
+        },
+        {
+            "character": "Hunter",
+            "line": "You, too, mate."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's good to see you. Mm-hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay. Okay. There... There'll be times for more hugs later. Okay. Okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, uh, where are we?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You're in a secure military installation. One of those “doesn't exist” places. But the law's the law, so they had to let me in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Well, at least you gave me enough time to come up with a good escape plan. So, it's a mechanism that, um, I can slowly assemble, but I'm gonna need you to smuggle it in piece by piece. Um, so, if... if you could visit three times a week for a month, then, uh, then I should have everything I need. What are you doing?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm gonna need you to move two meters to your left. Mm-hmm. And come forward. There we go."
+        },
+        {
+            "character": "Fitz",
+            "line": "What the bloody hell?!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Your coded message didn't have an escape plan, so I had to come up with one of my own. Come on. Let's go. There's our way out!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Who's flying it?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Rusty. The best getaway pilot money can buy. Well, the best getaway pilot my money could buy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Please tell me your escape plan involves an actual escape."
+        },
+        {
+            "character": "Hunter",
+            "line": "He was supposed to draw their attention, lead them on a wild goose chase up in the air, while we were getting away on the ground."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, he's definitely got their attention."
+        },
+        {
+            "character": "Hunter",
+            "line": "Come on."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. That piece of junk is our ride?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, it's Rusty's, God bless his cold, black soul. And it's the last thing they'll be looking for. The last thing they'll be thinking is that two ex-S.H.I.E.L.D. agents would be stupid enough to try and escape in this whale."
+        },
+        {
+            "character": "Fitz",
+            "line": "Apparently, we are."
+        },
+        {
+            "character": "Hunter",
+            "line": "There you go. Your phone. You're welcome. Now, Rusty kitted this thing out with all sorts of bells and whistles."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is one of those bells an engine?"
+        },
+        {
+            "character": "Hunter",
+            "line": "There we go. See? It's even got cloaking."
+        },
+        {
+            "character": "Hale",
+            "line": "How the hell did he contact an attorney without any outside communication?"
+        },
+        {
+            "character": "Evans",
+            "line": "He mailed some letters."
+        },
+        {
+            "character": "Lucas",
+            "line": "We mailed them. Rants to a magazine. I had them analyzed and cleared. There was nothing there."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, obviously, there was. Analyze them again. If you crack the code, you find out who he's talking to."
+        },
+        {
+            "character": "Man",
+            "line": "We checked all the surveillance footage within a two-mile radius. Everything checks out except this."
+        },
+        {
+            "character": "Hale",
+            "line": "Are they the idiots, or are we?"
+        },
+        {
+            "character": "Evans",
+            "line": "They won't get far in that thing."
+        },
+        {
+            "character": "Hale",
+            "line": "Well, if you find them, don't engage. They could lead us to the others."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "KasiusTradesWithDeke",
+    "description": "Kasius rewards Deke for delivering Daisy and questions him about the prophecy and the potential presence of other time travelers. Deke is paid in rhodium and is subtly threatened to betray any S.H.I.E.L.D. agents he encounters, highlighting his precarious alliance.",
+    "roles": [
+        "kasius",
+        "deke_shaw"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "That's Gunner. Try to walk casual."
+        }
+    ]
+}

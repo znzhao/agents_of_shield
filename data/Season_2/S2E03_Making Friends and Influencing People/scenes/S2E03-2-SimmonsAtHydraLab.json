@@ -1,0 +1,39 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "SimmonsAtHydraLab",
+    "description": "Jemma Simmons continues her daily routine undercover in the Hydra laboratory. She has cordial exchanges with her coworkers while being subtly questioned about her research into Donnie Gill's unusual cellular samples. The tension of her cover and her scientific curiosity are highlighted as she struggles to complete her assigned reports and navigate workplace suspicions.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Morning, Theo."
+        },
+        {
+            "character": "Theo",
+            "line": "That smile. A breath of sunshine in an otherwise dreary morning."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, you're too sweet. And you mix your metaphors. Have a good day."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Ms. Simmons, you're here early."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. You see, those samples you gave me are quite fasc..."
+        },
+        {
+            "character": "Turgeon",
+            "line": "I'll read all about it once you finish your report. Have it on my desk as soon as possible."
+        }
+    ]
+}

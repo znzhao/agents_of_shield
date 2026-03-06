@@ -1,0 +1,191 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 1,
+    "scene_name": "PlaygroundAftermathBriefing",
+    "description": "At The Playground, Alphonso Mackenzie, Lincoln, Melinda May, and Phil Coulson discuss the aftermath of Daisy's betrayal and the state of the base. The team struggles with the reality of Daisy being under Hive's control and debates their best course of action to save her. Coulson rallies the team, emphasizing their determination to protect one of their own and hints at a risky plan to get Zephyr One in the air. Meanwhile, Daisy talks with Hive at an unknown location, reflecting on her past and her feeling of belonging.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "phil_coulson",
+        "lincoln",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "How's it coming?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Just needs a quick reboot."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you."
+        },
+        {
+            "character": "May",
+            "line": "Tests come back?"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy's the only one infected."
+        },
+        {
+            "character": "May",
+            "line": "So Joey and Elena..."
+        },
+        {
+            "character": "Mack",
+            "line": "Touched down at the Cocoon. But Lincoln..."
+        },
+        {
+            "character": "May",
+            "line": "Refused to leave. I know."
+        },
+        {
+            "character": "Mack",
+            "line": "How's he holding up?"
+        },
+        {
+            "character": "May",
+            "line": "No one comes to me with their feelings."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that makes sense. What about the base?"
+        },
+        {
+            "character": "May",
+            "line": "Still working on fortifying it. In the meantime, all vital data's been transferred to Zephyr One."
+        },
+        {
+            "character": "Mack",
+            "line": "And we're easy prey. Daisy could lead that giant maggot here any second."
+        },
+        {
+            "character": "May",
+            "line": "I thought he was a parasite."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but aren't maggots..."
+        },
+        {
+            "character": "May",
+            "line": "I don't really..."
+        },
+        {
+            "character": "Mack",
+            "line": "Me either."
+        },
+        {
+            "character": "May",
+            "line": "My take? That thing could care less about S.H.I.E.L.D."
+        },
+        {
+            "character": "Mack",
+            "line": "You think this because...?"
+        },
+        {
+            "character": "May",
+            "line": "No one's digging any graves. We both know Daisy's strength, what she could've done."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, she took the Terrigen and that ancient Kree whatever it is."
+        },
+        {
+            "character": "May",
+            "line": "And then she left."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but not before she busted the hydraulics on the hangar doors. We lost our exit."
+        },
+        {
+            "character": "May",
+            "line": "Because she doesn't want us to follow her."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy's my partner. I should've known. I should've seen..."
+        },
+        {
+            "character": "May",
+            "line": "Don't. We've all taken enough beatings as it is."
+        },
+        {
+            "character": "Mack",
+            "line": "I noticed Coulson wasn't in the med bay. He shouldn't be up and around."
+        },
+        {
+            "character": "May",
+            "line": "He's readying the Zephyr."
+        },
+        {
+            "character": "Mack",
+            "line": "You saw the bone sticking out of his leg, right? I mean, he should be..."
+        },
+        {
+            "character": "May",
+            "line": "Resting? I told him that. Didn't sit well. He said he needs everyone in the air."
+        },
+        {
+            "character": "Mack",
+            "line": "The hangar doors are still jammed. We managed to pry them open halfway, but until I get a new feed pump, we're grounded."
+        },
+        {
+            "character": "May",
+            "line": "Not necessarily. Coulson has another way. But it's risky and irresponsible."
+        },
+        {
+            "character": "Mack",
+            "line": "Then, why are you smiling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy's still one of us. What she did here was not of her own free will. Hive infected her. She's his hostage. We need to remember that. But this alien creature messed with the wrong team. It thinks if it breaks our legs, we'll stop fighting, but it doesn't know how damn stubborn we are, especially when it comes to protecting our own. Hive is building an Inhuman army, but we're not gonna let that happen. So strap in. Because you might feel a little sick after this."
+        },
+        {
+            "character": "Hive",
+            "line": "You came here often. I see why."
+        },
+        {
+            "character": "Daisy",
+            "line": "I was a different person the last time I was here. That's how you know about this place, right? ‘Cause I told my S.O.?"
+        },
+        {
+            "character": "Hive",
+            "line": "You used to drive your van up here to sleep."
+        },
+        {
+            "character": "Daisy",
+            "line": "You don't just have his face. You have his memories."
+        },
+        {
+            "character": "Hive",
+            "line": "He was fond of you, Grant Ward."
+        },
+        {
+            "character": "Daisy",
+            "line": "And I'm glad he's dead."
+        },
+        {
+            "character": "Hive",
+            "line": "He is, too. In a way. Grant was a thirsty soul. And he suffered for it."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're so different from him. Just being around you, I can feel it. It's like this emptiness I've always had is gone."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're saying Daisy's addicted to this thing?"
+        }
+    ]
+}

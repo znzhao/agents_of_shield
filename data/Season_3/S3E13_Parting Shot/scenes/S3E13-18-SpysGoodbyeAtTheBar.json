@@ -1,0 +1,77 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 18,
+    "scene_name": "SpysGoodbyeAtTheBar",
+    "description": "Now separated from S.H.I.E.L.D., Bobbi and Hunter sit together at a bar, pondering their uncertain future. Drinks arrive anonymously, and they see Simmons, Fitz, Mack, Daisy, and May subtly present nearby, offering a silent, heartfelt goodbye to their friends. It's a moving, wordless farewell among the found family of S.H.I.E.L.D.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "skye",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "What about Trinidad and Tobago?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Always loved the name, but I once had a bad run-in there with a Nigerian drug dealer, so... Maybe Bora Bora?"
+        },
+        {
+            "character": "Morse",
+            "line": "Ooh."
+        },
+        {
+            "character": "Hunter",
+            "line": "Think we'll be followed there?"
+        },
+        {
+            "character": "Morse",
+            "line": "I don't know. Think it'll be a long time before anybody in the intelligence business trusts us."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm afraid they never will, luv. Should get the check."
+        },
+        {
+            "character": "Morse",
+            "line": "I didn't order that."
+        },
+        {
+            "character": "Waitress",
+            "line": "I know. You've got an admirer."
+        },
+        {
+            "character": "Hunter",
+            "line": "Who?"
+        },
+        {
+            "character": "Waitress",
+            "line": "They asked me not to say."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, that's Jemma. Why doesn't she...? She can't, can she."
+        },
+        {
+            "character": "Waitress",
+            "line": "You guys must be popular."
+        },
+        {
+            "character": "Hunter",
+            "line": "Fitz is here."
+        },
+        {
+            "character": "Morse",
+            "line": "It's a spy's goodbye."
+        }
+    ]
+}

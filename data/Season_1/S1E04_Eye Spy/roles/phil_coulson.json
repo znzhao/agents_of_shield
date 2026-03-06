@@ -1,0 +1,69 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 4
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resourceful and pragmatic S.H.I.E.L.D. agent with a strong sense of loyalty and protective instincts. He is a calm and strategic leader who values teamwork and second chances, believing in extending opportunities for redemption even to those who have betrayed or endangered the team. His near-death experience and resurrection continue to influence his openness and soften past rigidity, fostering trust and hope within his team. His experience as a trainer and leader weighs on him, especially when confronted with failures or losses related to his protégés. Coulson balances empathy with pragmatic decision-making and remains dedicated to uncovering and neutralizing threats at both personal and global levels.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "manage_high_risk_rescues_and_ethical_dilemmas",
+        "goal": "Manage high-risk rescue operations involving complex ethical decisions and potential collateral damage"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_6",
+      "context": "expressing belief in second chances and redemption",
+      "catch_phrase": "I got one. Seems only fair I extend the same opportunity to others."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_7",
+      "context": "emphasizing protection of his own team",
+      "catch_phrase": "Because we protect our own."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_1",
+      "context": "casual remark about Tahiti",
+      "catch_phrase": "It's a magical place."
+    }
+  ]
+}

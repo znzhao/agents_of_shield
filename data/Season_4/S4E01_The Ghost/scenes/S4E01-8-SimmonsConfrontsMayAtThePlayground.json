@@ -1,0 +1,20 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "SimmonsConfrontsMayAtThePlayground",
+    "description": "Back at the Playground, Simmons questions May’s decision to pass along information about Daisy informally. The two women debate loyalty, protocol, and trust in S.H.I.E.L.D.'s new regime. Simmons reveals she must now order May’s team to forcibly extract Coulson and Mack from the field, highlighting growing tension inside S.H.I.E.L.D.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Daisy's in Los Angeles. There was an eyewitness, now dead, and I just received Yo-Yo's check-in report a week early, which means Coulson and Mack are there, too, no doubt, trying to track Daisy down."
+        }
+    ]
+}

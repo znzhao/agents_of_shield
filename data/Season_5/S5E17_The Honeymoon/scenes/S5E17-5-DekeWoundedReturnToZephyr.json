@@ -1,0 +1,70 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 5,
+    "scene_name": "DekeWoundedReturnToZephyr",
+    "description": "The team rushes the injured Deke onto Zephyr One. Daisy struggles to stabilize him with May and Coulson's help, realizing they're in a dire medical situation. Daisy asks for Simmons via comms, but there's no answer. They race toward the Lighthouse for help.",
+    "roles": [
+        "skye",
+        "deke_shaw",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Get this plane in the air. We got you."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can't stop the bleeding. Grab the hemostatic granules. It's okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, come on."
+        },
+        {
+            "character": "Daisy",
+            "line": "Scissors."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hope this thing has instructions."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, hold him still."
+        },
+        {
+            "character": "Deke",
+            "line": "That's not a good sign."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's working."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is only a temporary fix. He's gonna need actual medical attention."
+        },
+        {
+            "character": "Daisy",
+            "line": "Call ahead to Simmons. Give her a heads-up."
+        },
+        {
+            "character": "May",
+            "line": "No one's answering. Can you hold on until we make it to the Lighthouse?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just get us there as fast as you can."
+        }
+    ]
+}

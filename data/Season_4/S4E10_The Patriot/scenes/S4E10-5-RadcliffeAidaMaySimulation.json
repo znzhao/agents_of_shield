@@ -1,0 +1,88 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 5,
+    "scene_name": "RadcliffeAidaMaySimulation",
+    "description": "Radcliffe and Aida closely monitor the real May, who is trapped in their simulated reality to keep her subconscious docile. Aida discusses her priorities and actions, while Radcliffe focuses on calibrating her programming toward less lethal outcomes. They debate the best way to keep the LMD May's identity viable and covert, aiming for their longer-term goal of accessing the Darkhold.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I thought this scenario was supposed to keep her calm."
+        },
+        {
+            "character": "AIDA",
+            "line": "It's unclear why her neocortical activity is so erratic. The environment is quite peaceful. We're gathering very useful data."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, as long as we're not causing the poor woman any undue harm. There's been enough of that around. Last thing we need is another incident."
+        },
+        {
+            "character": "AIDA",
+            "line": "You're referencing the actions I took to protect your secret?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, the protection I appreciate. The homicide was a bridge too far."
+        },
+        {
+            "character": "AIDA",
+            "line": "My parameters place your security above all others. You would have been exposed."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I was exposed when they found a corpse!"
+        },
+        {
+            "character": "AIDA",
+            "line": "If I terminate anyone else for your protection, I will dispose of the body more discreetly."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. Don't terminate anyone. I have to calibrate your settings down to something a little less lethal."
+        },
+        {
+            "character": "AIDA",
+            "line": "My apologies. I only follow your directives."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, well, sometimes you follow them a little too well. Agent Simmons knew what you were immediately. Agent May's decoy will be more convincing."
+        },
+        {
+            "character": "AIDA",
+            "line": "She's more advanced than I am."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, and you know what you are. She doesn't. Her programming operates on a subconscious level."
+        },
+        {
+            "character": "AIDA",
+            "line": "And you believe this will keep her from being noticed?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "If Agent May isn't aware of her mission to retrieve the Darkhold, then she won't be able to reveal herself. Her programming will present as human emotion. She'll instinctively climb the ranks, gain access, and get closer to Agent Coulson, the man who knows just where this book is."
+        },
+        {
+            "character": "AIDA",
+            "line": "It might be quicker for me to search the base myself."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, I've tried the quick way. Now we're playing a longer, more nuanced game, hopefully with less violence."
+        },
+        {
+            "character": "AIDA",
+            "line": "But isn't the real Agent May already prone to violence?"
+        }
+    ]
+}

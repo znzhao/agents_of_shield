@@ -1,0 +1,32 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 10,
+    "scene_name": "FitzRecoversSimmonsMemories",
+    "description": "Fitz works to recover data from Simmons’ phone and listens to her emotional recordings. In the recordings, Simmons confides her fears, hopes, and feelings about Fitz, exposing her vulnerability and deepening their relationship. Fitz quietly reassures her despite the distance and circumstances.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's been three weeks, Fitz. If I don't find something, if I don't eat, I won't make it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, hi. I don't know why I'm still talking with you, why I'm recording myself. You're never gonna see this, are you? I still haven't found water, and it's, um... I just... I'm having trouble focusing, and I'm trying to stay positive. But I'm scared. I'm scared, Fitz. Do you remember when we first met? I do. You were so quiet and pasty, and so incredibly smart, handsome... Quite a strange feeling, isn't it? Never wanting to be without someone. You must have been so annoyed, me following you around all the time."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. Never."
+        },
+        {
+            "character": "Simmons",
+            "line": "I imagine our dinner sometimes, where we'd go, what we'd eat. I wonder about us a lot, actually. There's this small cottage in Perthshire we drove by once when I was a girl, some... some... family holiday, and I don't know why, but I... I found it so lovely. I still think about it, a place where you and I could've... But that's that, I suppose. I'm not sure how long this battery will last. I should save it, just in case, for more important things, if there's anything. But I'll still talk to you on my own, if that's all right. I'll always be with you, Fitz."
+        }
+    ]
+}

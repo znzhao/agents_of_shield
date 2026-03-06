@@ -1,0 +1,170 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 15,
+    "scene_name": "TheBridgeFinalExchangeBetrayal",
+    "description": "At the arranged bridge location, Coulson escorts Mike to the trade, watched by May, Ward, Skye, Fitz, and Simmons. Raina arrives, revealing that the real demand was for Coulson himself, stunning everyone. Mike, desperate to save Ace, has no choice but to betray Coulson to Centipede. Amidst chaos, Coulson is taken by the enemy as Mike tries to make things right for his son, and the team is left reeling by the betrayal. Their covert tracker is activated too late. The outcome is tragic and unresolved, setting the stage for continuing conflict.",
+    "roles": [
+        "phil_coulson",
+        "michael_peterson",
+        "skye",
+        "raina",
+        "grant_ward",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Time to go."
+        },
+        {
+            "character": "Coulson",
+            "line": "My team won't let you down."
+        },
+        {
+            "character": "Mike",
+            "line": "It wasn't supposed to go down like this. I'm gonna make this right, I swear."
+        },
+        {
+            "character": "Ward",
+            "line": "Damn it."
+        },
+        {
+            "character": "Raina",
+            "line": "Hello, Mike. It's been awhile. Your son is adorable, and he looks just like you. I don't believe I've had the pleasure."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lucky for you."
+        },
+        {
+            "character": "Raina",
+            "line": "I have to thank you, Mike, for holding up your end of the deal."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's just make the trade. Give us Ace, and you can have him."
+        },
+        {
+            "character": "Raina",
+            "line": "Oh, that wasn't the deal."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm so sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let me know when I can activate comms and the tracker."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's happening here, Mike?"
+        },
+        {
+            "character": "Raina",
+            "line": "Well, in exchange for his son, we asked Mike to deliver you."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm not at full strength, but I can still crush your throat. New deal! My son for your life!"
+        },
+        {
+            "character": "Raina",
+            "line": "Sadly, my employer cares no more for my life than your son's. If I die, so does he, and his death will be so much worse."
+        },
+        {
+            "character": "Coulson",
+            "line": "You need to let her go."
+        },
+        {
+            "character": "Mike",
+            "line": "I told them they could have me. But they want you. Why do they want you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, but if you kill this woman, you'll never see your son again."
+        },
+        {
+            "character": "Mike",
+            "line": "But how will I look him in the eye? How will I explain what I did?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We talked about this."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm so sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's finish this."
+        },
+        {
+            "character": "Ace",
+            "line": "Dad!"
+        },
+        {
+            "character": "Skye",
+            "line": "There's his son."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, thank god. I have no stomach for this."
+        },
+        {
+            "character": "May",
+            "line": "On my mark, activate comms and tracker."
+        },
+        {
+            "character": "Mike",
+            "line": "If there had been any other way..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You made the only choice you had."
+        },
+        {
+            "character": "Ward",
+            "line": "What happened? They've taken Coulson. All right, call it in. We need backup. I have a shot."
+        },
+        {
+            "character": "May",
+            "line": "Do not engage. They'll kill Coulson. Stand down. I'll contact H.Q."
+        },
+        {
+            "character": "Mike",
+            "line": "You okay?"
+        },
+        {
+            "character": "Ace",
+            "line": "I'm fine, Dad."
+        },
+        {
+            "character": "May",
+            "line": "S.H.I.E.L.D. H.Q., this is S.H.I.E.L.D. RG422. We need immediate satellite support."
+        },
+        {
+            "character": "Mike",
+            "line": "Ace, I've got to make something right. Daddy loves you so much, okay? Stay with Skye. You remember Skye, right? Keep him safe. Take care of my boy!"
+        },
+        {
+            "character": "Skye",
+            "line": "No!! Mike!"
+        },
+        {
+            "character": "Ward",
+            "line": "Where's Coulson?"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, my god. Coulson."
+        }
+    ]
+}

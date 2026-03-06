@@ -1,0 +1,130 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 4,
+    "scene_name": "HydraBriefingAndInterrogation",
+    "description": "Back at the Triskelion, May leads a Hydra briefing, assigning Skye and Ward to interrogate 'Jason Rajan,' actually Vijay Nadeer. Skye tries to help Vijay by exposing his false identity, warning him that someone inside Hydra is helping Inhumans. The interrogation turns violent when Ward assaults Vijay, and May decides to escalate, referencing the infamous Bahrain incident. Skye tries to appeal to May’s better nature, but fails. Vijay is about to be sent to 'the Doctor'—Fitz, now Hydra’s ruthless scientist.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Pinsky",
+            "line": "I warned you not to be late."
+        },
+        {
+            "character": "Skye",
+            "line": "Shut up, Pinsky."
+        },
+        {
+            "character": "May",
+            "line": "Let's start. We've got an Inhuman gene-positive detainee, possibly linked to subversive groups. The Doctor wants this fast-tracked. Don't disappoint him. Subject is Jason Rajan of Deanwood. We believe he's funneling Terrigen to subversives. Look who's perking up. You know this guy?"
+        },
+        {
+            "character": "May",
+            "line": "Then get to know him. You and Ward take point. I want this intel at any cost."
+        },
+        {
+            "character": "Ward",
+            "line": "You're in a very precarious position, Mr. Rajan. Inhuman status isn't a crime. But lying about it is."
+        },
+        {
+            "character": "Vijay",
+            "line": "I never lied."
+        },
+        {
+            "character": "Ward",
+            "line": "We'll see about that. Hydra cares more about what you've done than what you are. So when my partner here asks you about smuggling charges, I highly suggest you cooperate."
+        },
+        {
+            "character": "Skye",
+            "line": "Your name is Jason Rajan, born in Edison, New Jersey?"
+        },
+        {
+            "character": "Vijay",
+            "line": "Yes."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you know that you were an Inhuman before today?"
+        },
+        {
+            "character": "Vijay",
+            "line": "Yes."
+        },
+        {
+            "character": "Skye",
+            "line": "And it says that you own an import business, but Hydra surveillance says one of your trucks is missing. Where is it?"
+        },
+        {
+            "character": "Vijay",
+            "line": "I don't know. It was stolen."
+        },
+        {
+            "character": "Skye",
+            "line": "Was stolen, but you didn't file a police report."
+        },
+        {
+            "character": "Vijay",
+            "line": "I'm an Inhuman. I was afraid to talk to the authorities."
+        },
+        {
+            "character": "Ward",
+            "line": "What was stored in the truck, Mr. Rajan?"
+        },
+        {
+            "character": "Vijay",
+            "line": "I don't know. I don't deal directly with those kinds of shipments."
+        },
+        {
+            "character": "Ward",
+            "line": "Bull. Where is the truck?"
+        },
+        {
+            "character": "Skye",
+            "line": "Forget about the truck. This guy's never seen Terrigen before in his life. Hydra-issued citizen's card. But I know for a fact that your name isn't Jason Rajan, so I wonder, who made it?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's not possible."
+        },
+        {
+            "character": "Skye",
+            "line": "Exactly. Unless someone within Hydra provided it. I am trying to save your life. So tell me, is there a threat within Hydra?"
+        },
+        {
+            "character": "Vijay",
+            "line": "You never helped anyone, you bitch! Give me the Terrigen, and I'll show you a threat."
+        },
+        {
+            "character": "Ward",
+            "line": "Someone in Hydra make this for you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Your name is Vijay Nadeer. Don't deny it."
+        },
+        {
+            "character": "Vijay",
+            "line": "My DNA is not a crime. I'm not a criminal."
+        },
+        {
+            "character": "Ward",
+            "line": "You should know..."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward! What..."
+        },
+        {
+            "character": "Ward",
+            "line": "At least we broke him."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 12,
+    "scene_name": "RobbieDepartsWithDarkhold",
+    "description": "Coulson and Robbie have a quiet conversation about the deal Coulson made with the Rider, agreeing to keep its details secret for now. Robbie takes the Darkhold and uses his chain to open a portal, transporting himself and the book back to the dark world. The S.H.I.E.L.D. team reconvenes, acknowledging Talbot’s survival and the coming threat of arrest, then agrees to face it together.",
+    "roles": [
+        "phil_coulson",
+        "robbie_reyes",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You know, I think this is the first time we've all been together in a really long time."
+        }
+    ]
+}

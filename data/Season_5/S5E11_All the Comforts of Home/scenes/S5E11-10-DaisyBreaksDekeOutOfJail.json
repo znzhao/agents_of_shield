@@ -1,0 +1,264 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 10,
+    "scene_name": "DaisyBreaksDekeOutOfJail",
+    "description": "Daisy arrives at the police station, posing as Deke’s social worker to secure his release. Her quick thinking and improvisation convince the officers, and she manages to get Deke out before any secrets are revealed. Deke’s enthusiasm about the present and Daisy's warnings about caution reinforce their dynamic and the risks of their current situation.",
+    "roles": [
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "comedic",
+    "location": "River's End (small town near the Lighthouse)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "You're saying that it's impossible to imagine anything that you can't imagine. Like, I couldn't imagine food that was shaped like animals. Like, that was a totally caught me by surprise. That... Look, I get that you're not believing my story, sure, but I... I've got friends. I've got friends in really high government places. We just need to get to them, and then they can smooth this all out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hi, there."
+        },
+        {
+            "character": "Wellins",
+            "line": "Yes?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Um, Chief Wellins, is it? I'm here for Deke Shaw over there. I'm his state-assigned social worker."
+        },
+        {
+            "character": "Wellins",
+            "line": "Well, he didn't mention a social worker was supervising him. Your name?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sinara. Sinara Smith. It's Portuguese, Sinara, not Smith. Uh, he wandered off during a day trip. My apologies."
+        },
+        {
+            "character": "Wellins",
+            "line": "He was out of control."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Says you. He's not even my toughest customer, believe me. Just a little slippery. If you check online, you'll see that I sent out an alert when I lost him."
+        },
+        {
+            "character": "Wellins",
+            "line": "What are Mr. Shaw's issues?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I mean, how much time do you have, sir? Uh, complex neurological deficiencies, low... low I.Q., poor motor skills. Oh, he hasn't, uh, soiled himself today, has he?"
+        },
+        {
+            "character": "Wellins",
+            "line": "No, but he was quite inebriated. He told us he was saving the world."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mm. Imagine that."
+        },
+        {
+            "character": "Wellins",
+            "line": "Not the first guy we picked up who's made big claims. Seems like you've got your work cut out for you with this one."
+        },
+        {
+            "character": "Daisy",
+            "line": "Chief, you have no idea."
+        },
+        {
+            "character": "Hale",
+            "line": "You look like you're ready to suit up for battle."
+        },
+        {
+            "character": "Lee",
+            "line": "We just got a call, ma'am. S.H.I.E.L.D. has been spotted. Orders?"
+        },
+        {
+            "character": "Hale",
+            "line": "Keep them there."
+        },
+        {
+            "character": "Piper",
+            "line": "I can't tell you how relieved I am to see you all in one piece."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what happened? How did you end up here?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah, last we saw you, you HALO'd out of the Zephyr."
+        },
+        {
+            "character": "Piper",
+            "line": "With instructions, if the fight didn't go your way, I tell your story. Make sure AIDA and The Russian didn't get away with it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ivanov."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, but I never heard which way it went. No news, no confirmation if..."
+        },
+        {
+            "character": "Coulson",
+            "line": "If we were dead?"
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, that. So, I looked for you everywhere, safe houses, any S.H.I.E.L.D. contacts I could find. I even had eyes on your families."
+        },
+        {
+            "character": "May",
+            "line": "Oh, great. One more thing for my mother to be paranoid about."
+        },
+        {
+            "character": "Piper",
+            "line": "I was stealth. Hey, let's not forget I'm most wanted, too, you know. So, where on Earth were you hiding?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, technically, it was Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Story for another time. Go on."
+        },
+        {
+            "character": "Piper",
+            "line": "I had my eye on every news outlet, anything that looked like you guys getting into trouble or out of it. Saw a report about a light coming from the sky."
+        },
+        {
+            "character": "Mack",
+            "line": "You recognized the beacon? Mm. Even took Fitz-Simmons a few hours."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, well, let's not forget, that was my first mission to Union City with you all. Called up from the minors. It was a big day for me. Plus, aliens. You know, they leave an impression."
+        },
+        {
+            "character": "Elena",
+            "line": "You have no idea."
+        },
+        {
+            "character": "May",
+            "line": "So, you came here to warn the staff."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, and to kick the blue ass of anything that showed up. I was trained well. They have the beacon here on government contract. Just examining it, and it turned on. Totally random."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did they try to shut it down?"
+        },
+        {
+            "character": "Piper",
+            "line": "No. They couldn't. And I don't do science, so I sent everyone away."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, Fitz-Simmons will figure it out, eventually."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, question is, how long is “eventually?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Could be too late."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, yeah, if you check River's End P.D. online account, you'll see that I went ahead and took care of Mr. Shaw's bail. What did we discuss about wandering off without permission? Don't..."
+        },
+        {
+            "character": "Deke",
+            "line": "“Don't wander off without permission.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "Exactly. We went over this. Uh, I also went ahead and made a small contribution to the department's charity fund to thank you for your trouble."
+        },
+        {
+            "character": "Wellins",
+            "line": "Truth is, I have no desire to keep drunks here in the office. You should go, but take better care of your charges, Ms. Smith."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, Chief. Thank you. Of course."
+        },
+        {
+            "character": "Officer",
+            "line": "Hold on!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Officer",
+            "line": "There's still paperwork you need to fill out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Of course. Whatever you need."
+        },
+        {
+            "character": "Daisy",
+            "line": "Dude."
+        },
+        {
+            "character": "Deke",
+            "line": "I know. There's just so much paperwork, right? Oh. You probably meant how did I get here. Well, I don't know. I was with the Monolith and there was a shard and I turned the machine on and then the rock turned all liquid. And then it was, like, buzzing, dizzy, and pushing and pulling, but then bang, Zima."
+        },
+        {
+            "character": "Daisy",
+            "line": "How do you show up in another time and, like, immediately get arrested?"
+        },
+        {
+            "character": "Deke",
+            "line": "Have you even tried Zima?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I thought they might have gotten you to talk about us or something."
+        },
+        {
+            "character": "Deke",
+            "line": "What? No. I know you guys are covertness. I'm not gonna talk about you. You forget, I survived the Kree."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, by ratting people out."
+        },
+        {
+            "character": "Deke",
+            "line": "Yes, true, that did happen. But not this time."
+        },
+        {
+            "character": "Daisy",
+            "line": "I thought you'd be, like, emotionally distraught or something."
+        },
+        {
+            "character": "Deke",
+            "line": "Emotionally distraught? This is awesome! I thought that I was gonna die. But instead, I'm about to go for a walk outside. Also, there is an outside. I was walking here, and, yes, I was pretty drunk, but I... I saw in a store window there was these green apples and steaks and these... and these things called gummy bears. You know what people aren't eating here is sterilization pellets. I love this place so much."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, yeah, but it's not all fun and games, okay? Great. So just this, and then we're free to go?"
+        },
+        {
+            "character": "Officer",
+            "line": "That, and I'll need a number where I can reach you so we can follow up."
+        },
+        {
+            "character": "Daisy",
+            "line": "No problem."
+        }
+    ]
+}

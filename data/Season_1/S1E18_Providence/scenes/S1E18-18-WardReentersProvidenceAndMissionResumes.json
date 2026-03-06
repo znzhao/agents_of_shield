@@ -1,0 +1,101 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 18,
+    "scene_name": "WardReentersProvidenceAndMissionResumes",
+    "description": "Back at Providence, Ward gains entrance by identifying himself to the security system just like Coulson. He feigns injury with Skye and prepares to renew his infiltration, seeking the password from her. Meanwhile, Garrett gives Ward 24 hours to succeed in the ploy and warns that if infiltration fails, the team must be eliminated, underlining the high stakes and duplicity ahead.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "All right. See you soon."
+        },
+        {
+            "character": "Garrett",
+            "line": "Secret base, huh? Sounds just like Fury."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye confirmed. Fury's out of the picture."
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, that is good news. Gives us one less thing to worry about. Listen, about the girl..."
+        },
+        {
+            "character": "Ward",
+            "line": "Look, I know how much it means to you. I'll get it done."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hey, we all have our weaknesses. The heart wants what it wants. Can't control everything. So, if you can do it the easy way without blowing your cover, then by all means."
+        },
+        {
+            "character": "Ward",
+            "line": "I just need some time alone with her to get the information."
+        },
+        {
+            "character": "Garrett",
+            "line": "You'll have it. Coulson will be busy. I'll give you 24 hours to get the password and get out. After that, well... cross off the team and bring the girl to me. You got your story straight?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. We just need to make it believable."
+        },
+        {
+            "character": "Garrett",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Ward",
+            "line": "Grant Ward, agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Garrett",
+            "line": "Who? Make me believe."
+        },
+        {
+            "character": "Ward",
+            "line": "Grant Ward, agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Computer",
+            "line": "Identify yourself."
+        },
+        {
+            "character": "Ward",
+            "line": "Grant Ward, agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Computer",
+            "line": "Welcome, Agent Ward. We've been expecting you."
+        },
+        {
+            "character": "Ward",
+            "line": "Thought you might have given me bad directions."
+        },
+        {
+            "character": "Skye",
+            "line": "At least the machine gun didn't start shooting at you. You okay?"
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, it's just a scratch. Maybe a broken rib or two."
+        },
+        {
+            "character": "Skye",
+            "line": "Come on. Simmons should take a look at you. Then maybe we can get that drink."
+        },
+        {
+            "character": "Ward",
+            "line": "Deal."
+        }
+    ]
+}

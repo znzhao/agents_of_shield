@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 9,
+    "scene_name": "FitzDiscoversSimmonsIdentity",
+    "description": "Back at Hydra, Fitz shares with Ophelia that Simmons was executed at the Academy, realizing that she is not from their world. Ophelia reveals the truth about the alternate reality and hints at Project Looking Glass. This exchange adds further depth and urgency to their joint campaign to maintain Hydra’s dominance and sets up the collision of worlds.",
+    "roles": [
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "suspenseful",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ophelia",
+            "line": "Leopold? What's wrong?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Turns out your new subversive was executed at the Academy. But I suppose you knew that already, didn't you?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "I can explain."
+        },
+        {
+            "character": "Doctor",
+            "line": "So, she's an Inhuman, then? What else have you been keeping from me?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "This woman is not from here. She crossed over from the other side."
+        },
+        {
+            "character": "Doctor",
+            "line": "I thought that was impossible."
+        },
+        {
+            "character": "Ophelia",
+            "line": "As did I."
+        },
+        {
+            "character": "Doctor",
+            "line": "So this is why you've been so keen on finishing Project Looking Glass."
+        },
+        {
+            "character": "Ophelia",
+            "line": "The people from that world want to destroy what we've built. I was only trying to protect you."
+        },
+        {
+            "character": "Doctor",
+            "line": "You never talk about your time there. Why? Tell me the truth. You owe me that much."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Over there, the worst thing happened. S.H.I.E.L.D. won the war. Hydra lost. I was their slave. Treated as less than human. When I escaped, I hoped they couldn't follow me, but..."
+        },
+        {
+            "character": "Doctor",
+            "line": "Here they are."
+        },
+        {
+            "character": "Ophelia",
+            "line": "If I can't return there and defeat my enemies, we'll never be safe. Everything I do is so that you and I can be together."
+        },
+        {
+            "character": "Ophelia",
+            "line": "We'll finish this later. Come."
+        }
+    ]
+}

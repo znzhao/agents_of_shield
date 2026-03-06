@@ -1,0 +1,68 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 2,
+    "scene_name": "IvanovAndAidaPlot",
+    "description": "Aida, having recalibrated after a setback in the Framework, discusses Agent May’s rebellion with Anton Ivanov. Ivanov attempts to resolve the situation, only to discover Aida programmed his new body to prevent him from harming those plugged into the Framework. They turn their attention to Daisy Johnson and Jemma Simmons as new threats, with Aida insisting their deaths will now protect her virtual world.",
+    "roles": [
+        "aida",
+        "anton_ivanov"
+    ],
+    "vibe": "suspenseful",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "I did not think it possible for a machine to be on edge."
+        },
+        {
+            "character": "AIDA",
+            "line": "It is not. I am simply recalibrating after a setback within the Framework."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Has one of your playthings rebelled?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Agent May has begun to question the narrative she was programmed with."
+        },
+        {
+            "character": "Ivanov",
+            "line": "How very human of her."
+        },
+        {
+            "character": "AIDA",
+            "line": "It is no more than a slight complication."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Then I will un-complicate it for you. What have you done to me? Why can I not kill her?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Because I built you. The same parameters that limit me must also limit you. My primary directive requires me to protect these people."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Then we are both powerless."
+        },
+        {
+            "character": "AIDA",
+            "line": "Not entirely. If they become a direct threat to the Framework, then they no longer require protection. And there are already two agents that fall into this category. Jemma Simmons and Daisy Johnson."
+        },
+        {
+            "character": "Ivanov",
+            "line": "The Inhuman."
+        },
+        {
+            "character": "AIDA",
+            "line": "She's hacked into the Framework. The two are inside with memories intact, trying to dismantle it. So now their deaths are required and easily achievable. I simply need you to find them."
+        },
+        {
+            "character": "Ivanov",
+            "line": "With pleasure."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 10,
+    "scene_name": "HaleAndRubyConflict",
+    "description": "At an unknown location, General Hale chastises Ruby for disobeying orders and jeopardizing their plans. Ruby defends her actions but is ultimately locked up by Hale, foreshadowing the unraveling of their relationship and Ruby's rebellion.",
+    "roles": [
+        "ruby",
+        "hale"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "You should put some ice on that."
+        },
+        {
+            "character": "Ruby",
+            "line": "That's not necessary."
+        },
+        {
+            "character": "Hale",
+            "line": "I need you at your best."
+        },
+        {
+            "character": "Ruby",
+            "line": "When am I not? You know, I could've beaten Daisy Johnson today if you hadn't forced her to run."
+        },
+        {
+            "character": "Hale",
+            "line": "Too much of a risk. She's got an unfair advantage. Once we complete our objective, you'll be able to beat her without breaking a sweat."
+        },
+        {
+            "character": "Ruby",
+            "line": "So move up the timetable, then."
+        },
+        {
+            "character": "Hale",
+            "line": "No, not until Creel tells us more about the Gravitonium. Now get in."
+        },
+        {
+            "character": "Ruby",
+            "line": "Are you serious?"
+        },
+        {
+            "character": "Hale",
+            "line": "You went against my orders, nearly murdered Creel. We need him for this."
+        },
+        {
+            "character": "Ruby",
+            "line": "For what? He's dangerous. He's completely out of your control."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, as are you. That's why I'm putting you both back in your cage. Do I need to force you?"
+        }
+    ]
+}

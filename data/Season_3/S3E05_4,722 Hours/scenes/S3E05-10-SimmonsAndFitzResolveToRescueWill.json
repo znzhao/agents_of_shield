@@ -1,0 +1,40 @@
+{
+    "season": 3,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "SimmonsAndFitzResolveToRescueWill",
+    "description": "Back in the present, Simmons finishes recounting her ordeal to Fitz. Deeply emotional and weighed by everything she experienced, she pleads with Fitz to understand. After a moment of tension, Fitz silently storms out, only for Simmons to find him already starting research, resolved to help her rescue Will from the alien planet.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I don't know what happened to him..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "... if he's alive or dead. But I never would have survived without him. Talk to me, Fitz. Please. Oh, God. Please, Fitz, I need you to understand."
+        },
+        {
+            "character": "Fitz",
+            "line": "I understand everything, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, then why won't you talk to me? What are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We're gonna get him back."
+        }
+    ]
+}

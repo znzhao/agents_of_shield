@@ -1,0 +1,60 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "RobbieAtGarageAndDaisyArrives",
+    "description": "At Canelo’s Auto and Body, Robbie Reyes arrives for work and is teased by coworkers about his night out. Daisy approaches Robbie, pretending to be an old friend, while subtly probing him about his abilities. Their conversation is tense as Daisy hints she knows his secret, and Robbie makes it clear she is stepping into dangerous territory.",
+    "roles": [
+        "robbie_reyes",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ignacio",
+            "line": "Jefe, no way, no. The ball touched the ground. You could see it."
+        },
+        {
+            "character": "Canelo",
+            "line": "No, no, no, no, no, no. Listen, Robbie will settle this. Hey, Reyes, did you see the game last night?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Oh, missed it. I was out."
+        },
+        {
+            "character": "Canelo",
+            "line": "Out? Oh, I know your code, man."
+        },
+        {
+            "character": "Robbie",
+            "line": "Oh, you do, huh?"
+        },
+        {
+            "character": "Canelo",
+            "line": "Sure. I was young once. Did you at least get her name?"
+        },
+        {
+            "character": "Ignacio",
+            "line": "Oh-ho."
+        },
+        {
+            "character": "Robbie",
+            "line": "Nah, it wasn't like that."
+        },
+        {
+            "character": "Ignacio",
+            "line": "Oh, man. We wait this long for a team to come into town, and you don't even watch."
+        },
+        {
+            "character": "Robbie",
+            "line": "If it ain't silver and black, I don't really give a damn."
+        },
+        {
+            "character": "Ignacio",
+            "line": "Silver and black..."
+        }
+    ]
+}

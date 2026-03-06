@@ -1,0 +1,139 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "TheTeamDebatesTheirSituation",
+    "description": "Daisy rejoins the rest of the group, prompting a heated discussion about the nature of their predicament. The team debates whether they could be in another simulation like the Framework and what role magic or science might play. Simmons worries about Fitz, while Daisy reassures her, and the group reluctantly agrees to split up to cover more ground despite Mack's objections.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "So, is there anything you want to fill us in on, Coulson? ‘Cause now's the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know what I know."
+        },
+        {
+            "character": "Daisy",
+            "line": "This doesn't have anything to do with the little bargain that you made with the Ghost Rider?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that thing doesn't ride for free. There has to be some price."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nope. This is all new to me. Sorry. It's... That's just the reality."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, maybe this isn't reality. Maybe someone put us back in the Framework and this is a simulation."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please, we have to shut up about that."
+        },
+        {
+            "character": "Coulson",
+            "line": "My God, if I even think about that, my brain will explode."
+        },
+        {
+            "character": "Simmons",
+            "line": "Again, let's not just postulate. Let's apply scientific principles and consider the evidence we have."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, this is magic, okay? Can we all agree there's some magic at play?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Magic is just science we don't understand yet."
+        },
+        {
+            "character": "Mack",
+            "line": "Ah, please. We just got zapped through space by Stonehenge, and we're trying to rule out the involvement of a flame-headed demon from east L.A.? Science my ass. Now, let me see that gun. Maybe I can try to get it working."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz would agree, but, apparently, he didn't get taken."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. At least, he wasn't in the room with the monolith. I was the last to go through. I saw it all."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that's some relief. He's safe from this, better off than we are."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fine. What, do you think he isn't better off? He has to be."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, that's not what I'm saying."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or that he did something drastic? He wouldn't do that. He was right there with us at the diner."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, I'm not saying any of that. It's just you guys are constantly torn apart."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cursed, as he would say. Well, I'm not afraid that he isn't here. I'm thrilled. He's no doubt working this problem, probably trying to get a message to us right now. Better for everyone he isn't here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, May did get pulled through. I saw it. So we should find her."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should split up."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, hell, no."
+        },
+        {
+            "character": "Elena",
+            "line": "No, no. Yeah, let's not do that."
+        },
+        {
+            "character": "Mack",
+            "line": "We are sticking together 100 percent. Haven't you ever seen an alien movie?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack, it's the best way to cover the most ground."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, you see, you see, that's exactly what they say before they get picked off one by one, and you know who the first one will be."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's your call, boss."
+        },
+        {
+            "character": "Coulson",
+            "line": "This has to be the coolest we've ever looked."
+        }
+    ]
+}

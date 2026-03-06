@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 14,
+    "scene_name": "RadcliffeAidaMaySimulationAdjustment",
+    "description": "Radcliffe and Aida analyze May’s reaction to the combat simulation after her attempted escape. Radcliffe concludes that May's subconscious is calmed by conflict rather than tranquility, prompting him and Aida to adjust her simulation to feature an enemy to fight. This demonstrates their evolving understanding of May’s psychology and the ongoing threat their LMD poses.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "Agent May is resilient. She never stops fighting, yet she showed more distress before she woke than during the fight."
+        },
+        {
+            "character": "AIDA",
+            "line": "That's odd."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. It makes perfect sense. The flaw isn't in the hardware. It was in May herself. The simulation was rejected because Agent May thrives in conflict and chaos, not tranquility. She's a warrior."
+        },
+        {
+            "character": "AIDA",
+            "line": "You're saying fighting against me stabilized her?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Precisely. If we want her to accept the simulation, we need to give her an opponent to fight, an enemy to vanquish, a dragon to slay."
+        },
+        {
+            "character": "AIDA",
+            "line": "Shall I design a dragon?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. I have something else in mind."
+        }
+    ]
+}

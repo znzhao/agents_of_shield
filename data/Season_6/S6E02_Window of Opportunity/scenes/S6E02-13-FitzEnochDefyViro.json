@@ -1,0 +1,76 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 13,
+    "scene_name": "FitzEnochDefyViro",
+    "description": "Fitz argues with Viro, refusing to passively let their fellow engineers die. Enoch and Fitz discuss their options, ultimately deciding to fight back despite daunting odds. Enoch expresses doubt about violent action, but Fitz is resolved that he must help, driven by his love for Jemma and his own moral compass.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I can't let you do this."
+        },
+        {
+            "character": "Viro",
+            "line": "You may be a good engineer, but you do not look like much of a fighter."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Maybe not. But if you listen to me, I can make you a lot more money. No one has to die."
+        },
+        {
+            "character": "Viro",
+            "line": "Hmm. Sounds like more trouble than it's worth."
+        },
+        {
+            "character": "Fitz",
+            "line": "You might not need them... but you need me."
+        },
+        {
+            "character": "Viro",
+            "line": "Is this about being a hero?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's about a woman, being able to look her in the eye again."
+        },
+        {
+            "character": "Viro",
+            "line": "Well, you've shown me that everyone is replaceable. And that woman? She'll have to replace you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Hey. Wait. Trust me you'll regret it. It doesn't have to end like this."
+        },
+        {
+            "character": "Viro",
+            "line": "Yes, it does. You're forcing me to make a point. Enjoy your last few moments of moral superiority. Looks like your friend here made the smarter choice."
+        },
+        {
+            "character": "Fitz",
+            "line": "Come on. Come on, Enoch."
+        },
+        {
+            "character": "Enoch",
+            "line": "The snails may not have fared so well."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, I can live with that."
+        },
+        {
+            "character": "Enoch",
+            "line": "Viro could not be reasoned with. You were right in preparing for the most violent outcome."
+        },
+        {
+            "character": "Fitz",
+            "line": "It wasn't so hard to predict. There's a part of me that knows how uncompromising hateful men can be."
+        }
+    ]
+}

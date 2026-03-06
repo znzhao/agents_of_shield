@@ -1,0 +1,108 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 9,
+    "scene_name": "SimmonsQuarantined",
+    "description": "In the lab, Simmons explains the virus's unique electrical transmission; Coulson realizes she has been infected. The team reckons with the deadly timeline before symptoms become fatal; Simmons only has two hours left. They face the difficult reality that, if she can't be cured in time, she would endanger the whole plane, creating urgency and dread on the team.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Sir, I think I've discovered something. Could you come down to the lab?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll be right there."
+        },
+        {
+            "character": "May",
+            "line": "Phil. The fireman... you did everything you could for him."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what am I looking for exactly?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait for it. A groundbreaking discovery! I believe the firefighters initially contracted the virus when they cleaned the helmet, the friction activating some long-decaying Chitauri organism..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang on. These cells are from the bodies of the firefighters?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Brain cells, yes, the last vestiges of the infection. Some viruses “sleep” inside host cells for years before reproducing, as they did inside the helmet, the initial source. But what those cells tell us is that we're dealing with a propagating virus, which means..."
+        },
+        {
+            "character": "Coulson",
+            "line": "The virus can move from person to person."
+        },
+        {
+            "character": "Simmons",
+            "line": "Exactly! And that's the most exciting part, how it spreads; not through the air or through direct fluid transfer, but through electric static shock. It's like nothing we've ever seen on Earth. I didn't think it possible a virus could alter its host's molecular density and polarity. That explains the floating. I can't wait till the virologists at the CDC and S.H.I.E.L.D. H.Q. see this. Sir, is something wrong?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm so sorry, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons believes she contracted the virus approximately 36 hours ago when she received an electrostatic shock from the first victim."
+        },
+        {
+            "character": "Skye",
+            "line": "How much time does she have?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Based on when the firemen were infected, how quickly their symptoms manifested... two hours at most."
+        },
+        {
+            "character": "Skye",
+            "line": "That's enough time, right? I mean, S.H.I.E.L.D. has dozens of labs and scientists working on this thing, don't they?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They do. How soon can you get us on the ground?"
+        },
+        {
+            "character": "May",
+            "line": "Three hours. Our path to the Sandbox has us right in the middle of the Atlantic."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir, correct me if I'm wrong, but if we can't land in time..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons will release a pulse that will blow this plane right out of the sky."
+        },
+        {
+            "character": "Skye",
+            "line": "We can't just sit here and watch her die. We have to do something."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's only one person on this plane capable of finding a solution for this, and I'm willing to bet my life that she will."
+        },
+        {
+            "character": "May",
+            "line": "She's just a kid."
+        }
+    ]
+}

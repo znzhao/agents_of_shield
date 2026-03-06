@@ -1,0 +1,85 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 7,
+    "scene_name": "CrashSiteSearchAndTruckThreat",
+    "description": "In the wilderness following the crash, Coulson, Mace, and Mack search for Burrows and the missing briefcase. Their discussion reveals Mace's unusually strong determination to recover the briefcase. As they investigate, they spot a Hydra-tech equipped truck jamming communications, concluding that Watchdog-affiliated mercenaries are closing in. The three agents debate their priorities and formulate a plan to either destroy the truck or recover the case.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Burrows should have landed... northwest of here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Director, we may want to consider our options here. Given our altitude when the door blew, the chances that Burrows survived that..."
+        },
+        {
+            "character": "Mace",
+            "line": "I know we're only looking for a body at this point, but it's still the right thing to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or you really need that briefcase."
+        },
+        {
+            "character": "Mace",
+            "line": "All you need to know is it's classified. You know the drill."
+        },
+        {
+            "character": "Coulson",
+            "line": "All too well, but I still don't know..."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait. Hold up, hold up. You hear those engines?"
+        },
+        {
+            "character": "Mack",
+            "line": "That truck must be scrambling our communications."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've seen tech like that when we took out a Hydra stronghold in Argentina."
+        },
+        {
+            "character": "Mace",
+            "line": "Can't be Hydra. I thought you and Talbot put those guys to bed."
+        },
+        {
+            "character": "Coulson",
+            "line": "We dismantled their network, but that just sent the rats scurrying off the sinking ship."
+        },
+        {
+            "character": "Mack",
+            "line": "From squid to rat to mutt. Perfect Watchdog material."
+        },
+        {
+            "character": "Coulson",
+            "line": "Priority one is to destroy that truck so we can call for backup."
+        },
+        {
+            "character": "Mace",
+            "line": "No. Too risky."
+        },
+        {
+            "character": "Mack",
+            "line": "What?"
+        },
+        {
+            "character": "Mace",
+            "line": "We stick to the plan. Find the case."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like it or not, he's in charge."
+        }
+    ]
+}

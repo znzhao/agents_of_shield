@@ -1,0 +1,44 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "SousaAndCoulsonOnTrainWaitingForContact",
+    "description": "Sousa, increasingly suspicious and anxious, waits with Coulson on the train to Los Angeles. Coulson tries to calm Sousa and buy time, but becomes concerned as the team is delayed. He is approached by the Chronicom Luke, who offers Coulson a deal for the Chronicoms to claim Earth, but Coulson bluntly refuses, escalating the tension. Meanwhile, Sousa is drawn away by a mysterious woman in the bar car.",
+    "roles": [
+        "phil_coulson",
+        "sousa"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Final boarding for the 5:10 to Los Angeles, departing track three."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sousa was getting jumpy. I just hoped I'd see a familiar face on the train."
+        },
+        {
+            "character": "Sousa",
+            "line": "Where's your contact?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll be here. Have a seat. Or... go get yourself a drink in the bar car, calm your nerves."
+        },
+        {
+            "character": "Sousa",
+            "line": "I don't need a drink."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing to worry about."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was worried. The team was a no-show. I felt trapped in an hourglass, sand up to my neck. Turns out the person I was looking for was looking for Deke. She wasn't gonna find him. And I wasn't gonna get the package any time soon."
+        }
+    ]
+}

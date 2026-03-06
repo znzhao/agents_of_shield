@@ -1,0 +1,77 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 5,
+    "scene_name": "MayAndSkyeConnectRaina",
+    "description": "Back on the Bus, Skye seeks May's help with her search for her parents but is redirected to focus on the mission. The two analyze Po's prison records and identify Raina as the mysterious woman who visited him, using S.H.I.E.L.D.’s lip-reading tech to uncover a clue about 'The Clairvoyant.' Mike recognizes Raina as his Centipede recruiter, revealing how she changed his life.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "michael_peterson"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hey. Coulson told me you were helping to, you know, find my long-lost folks, so thanks. I'm glad you're in on this with me. It means a lot. Right, I can tell you're really into this. Um, I've done a lot of the heavy lifting already, came up with a short list. I thought you might..."
+        },
+        {
+            "character": "May",
+            "line": "We're on a mission, Skye. Is this why you called me here?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. I was just working on this while I waited for you. Uh, I called 'cause I found something about Po."
+        },
+        {
+            "character": "May",
+            "line": "Show me."
+        },
+        {
+            "character": "Skye",
+            "line": "Po only had one visitor during his prison stint... her. You notice the outfit? Miles said a girl in a flower dress asked him to hack S.H.I.E.L.D. This could be the same girl."
+        },
+        {
+            "character": "May",
+            "line": "Can we hear the conversation?"
+        },
+        {
+            "character": "Skye",
+            "line": "That's the bummer... there was no audio, but it's not a total loss. I was able to use S.H.I.E.L.D.'s lip-reading program, because we have one of those! It didn't work on the girl because she never looks up at the camera, but Po did... once... and it caught this."
+        },
+        {
+            "character": "Computer",
+            "line": "The Clairvoyant does not like to be touched."
+        },
+        {
+            "character": "Skye",
+            "line": "I wrote that down, so we don't have to hear that again... ever."
+        },
+        {
+            "character": "May",
+            "line": "The Clairvoyant."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Does that mean anything to you?"
+        },
+        {
+            "character": "May",
+            "line": "But it means something to them... to Po and whoever that woman is."
+        },
+        {
+            "character": "Mike",
+            "line": "Her name's Raina."
+        },
+        {
+            "character": "Skye",
+            "line": "You know her?"
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah, she recruited me for Centipede, came up to me at the hospital where I did my back therapy out of the blue. Told me she could change my life."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 9,
+    "scene_name": "CoulsonMayDekeLevel35Investigation",
+    "description": "Deke leads Coulson and May into Level 35 in search of technology and information that might help S.H.I.E.L.D. survive. Meanwhile, Daisy discusses what she learned from Ben, including Kasius' plans to destroy the station after selling off the Inhumans, raising the stakes for all captives.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I imagine it's not as simple as taking the elevator down to 35."
+        },
+        {
+            "character": "Deke",
+            "line": "No. We can't access it. But I can get us in below it, find my way in. I'll call the elevator from Level 35 itself. You guys hang tight."
+        },
+        {
+            "character": "Coulson",
+            "line": "You trust him?"
+        },
+        {
+            "character": "May",
+            "line": "You know me better than that."
+        },
+        {
+            "character": "Deke",
+            "line": "Welcome to Level 35. Yeah, well, hold the applause."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hi. What the hell just happened?"
+        },
+        {
+            "character": "Ben",
+            "line": "I covered for you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but how?"
+        },
+        {
+            "character": "Ben",
+            "line": "My Inhuman power, it isn't just reading minds."
+        },
+        {
+            "character": "Daisy",
+            "line": "You can let other people read your mind, too. So you told Simmons what I said."
+        },
+        {
+            "character": "Ben",
+            "line": "Yeah. They don't know I can do that."
+        },
+        {
+            "character": "Daisy",
+            "line": "What about playing the game?"
+        },
+        {
+            "character": "Ben",
+            "line": "Daisy, listen, it wasn't just your minds in there. That was as close as I've ever been to Kasius. My first chance to read his."
+        },
+        {
+            "character": "Daisy",
+            "line": "Right. So, what did you see?"
+        },
+        {
+            "character": "Ben",
+            "line": "Shame. He hates this place. When his gala is all done, Kasius isn't just leaving, he wants it all erased."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's gonna destroy the station?"
+        },
+        {
+            "character": "Ben",
+            "line": "Along with everyone on it. My family. Every family. But I could also see how powerful he thinks you are and how powerful you know you are."
+        },
+        {
+            "character": "Daisy",
+            "line": "Good. Maybe it's time we change the rules on his game."
+        }
+    ]
+}

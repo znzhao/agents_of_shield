@@ -1,0 +1,548 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 7,
+    "scene_name": "CoulsonsHYDRAMeetingSetup",
+    "description": "Coulson discusses the plan and Bakshi's role as their inside man with Hunter, Ward, Mike, and Fitz. Ward and Fitz bicker about trust, and Coulson details how Mike will be shadowing Bakshi and surveilling the meet via his cybernetic eye. Ward reminds everyone of the risks, hinting at the crew's fragile alliance.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "leo_fitz",
+        "grant_ward",
+        "michael_peterson",
+        "sunil_bakshi"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Bakshi reached out, arranged a meeting with Dr. List."
+        },
+        {
+            "character": "Hunter",
+            "line": "And are we sure we trust Stepford Bakshi?"
+        },
+        {
+            "character": "Ward",
+            "line": "“Trust” might be a little strong. Bakshi's been instructed to act exactly as he would have... before."
+        },
+        {
+            "character": "Hunter",
+            "line": "Before the brainwashing. Oh, well, in that case, I feel comforted."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any questions?"
+        },
+        {
+            "character": "Kara",
+            "line": "How much longer?"
+        },
+        {
+            "character": "Mike",
+            "line": "A couple hours."
+        },
+        {
+            "character": "Ward",
+            "line": "So, Fitz. How've you been?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Hey! Hey, hey, hey! Hey, hey, hey!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sit down, Agent Fitz."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hey!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Bakshi, sir. Bakshi. No, he is... he is... he's the exact same as Ward. So he will double-cross us the second that he's with HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, he would... if he was going in alone."
+        },
+        {
+            "character": "Ward",
+            "line": "He's not?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He'll have his bodyguard with him."
+        },
+        {
+            "character": "Mike",
+            "line": "That'd be me."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll monitor the entire meet through Mike's eye."
+        },
+        {
+            "character": "Ward",
+            "line": "Dr. List's instructions were explicit. Bakshi was to come alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Luckily, Bakshi's good at talking his way out of things. Aren't you?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "I've been told it's one of my more useful skill sets, yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "See? No problem."
+        },
+        {
+            "character": "May",
+            "line": "Any luck?"
+        },
+        {
+            "character": "May",
+            "line": "They were going to find out, you know that."
+        },
+        {
+            "character": "Simmons",
+            "line": "You do realize that it was my plan to switch the box, not Fitz's?"
+        },
+        {
+            "character": "May",
+            "line": "We had to get out in front of it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I mean, he carried the plan out to perfection, but I handed him the schematics."
+        },
+        {
+            "character": "May",
+            "line": "I don't care whose plan it was."
+        },
+        {
+            "character": "Simmons",
+            "line": "You threw Fitz to the wolves!"
+        },
+        {
+            "character": "May",
+            "line": "To protect you. They raided the base for that box. You're lucky you're not in a cell right now."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't believe what I'm hearing. You're on their side."
+        },
+        {
+            "character": "May",
+            "line": "It's not about sides. It's about the truth. Coulson left us with a mountain of lies, and the only way to understand his reasoning was inside that box."
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, I don't care what's in it. The only thing I know is that Coulson was just trying to protect Skye."
+        },
+        {
+            "character": "Cal",
+            "line": "Thanks, Gordo. Now beat it."
+        },
+        {
+            "character": "Skye",
+            "line": "Cal."
+        },
+        {
+            "character": "Gordon",
+            "line": "I'll be back when you're ready."
+        },
+        {
+            "character": "Cal",
+            "line": "We'll let you know. Our first father-daughter date! Though “date” might be the wrong word. Is that weird? Is this weird?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. It's weird. It's a little weird. So, did you have an apartment around here or...?"
+        },
+        {
+            "character": "Cal",
+            "line": "Oh, I didn't live her, worked here. My office is, uh, over there."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, then where are we going? I thought you said you had to grab some of your things."
+        },
+        {
+            "character": "Cal",
+            "line": "No, I told you I wanted to show you around. Thought we'd get a pastry, get to know each other a little?"
+        },
+        {
+            "character": "Skye",
+            "line": "Sure. Who doesn't love pastry?"
+        },
+        {
+            "character": "Cal",
+            "line": "Right? Oh, there's this great, little om-and-pop bakery just around the corner, Swedish place, Swiss. I don't know. I mix them up."
+        },
+        {
+            "character": "Skye",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "Cal",
+            "line": "You know what doesn't have the smell of buttery goodness wafting out of it on your way to work?"
+        },
+        {
+            "character": "Skye",
+            "line": "A currency exchange?"
+        },
+        {
+            "character": "Cal",
+            "line": "Got to be someplace to eat around here."
+        },
+        {
+            "character": "Skye",
+            "line": "So, you had a... you had a practice here?"
+        },
+        {
+            "character": "Cal",
+            "line": "Yeah, before I met your mother."
+        },
+        {
+            "character": "Skye",
+            "line": "She was a doctor, too?"
+        },
+        {
+            "character": "Cal",
+            "line": "Studying to be one. She had a natural gift for it. Compassionate, beyond intelligent, wise, always five steps ahead of me. She wanted to finish med school here. Oh, and there was this great, little charter school just around the corner."
+        },
+        {
+            "character": "Skye",
+            "line": "A charter school for medicine?"
+        },
+        {
+            "character": "Cal",
+            "line": "What? Oh, no, not for her, for you. Oh, it was gonna be perfect. I was gonna drop you off every morning and pick you up, help you with your science-fair project, the volcano, because who doesn't love a volcano, right? We'd go to the father-daughter dances together, get ice cream. Ah, the life we could have had, should have had. I'm sorry. Memory lane isn't always that fun to visit."
+        },
+        {
+            "character": "Skye",
+            "line": "It's okay."
+        },
+        {
+            "character": "Cal",
+            "line": "Come on. I've got ice cream on the brain."
+        },
+        {
+            "character": "Fitz",
+            "line": "We are online."
+        },
+        {
+            "character": "List",
+            "line": "It's good to see you alive and well, Mr. Bakshi."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Dr. List, a pleasure. You're a difficult man to find these days."
+        },
+        {
+            "character": "List",
+            "line": "Please."
+        },
+        {
+            "character": "Hunter",
+            "line": "Three men, heavily armed, bet there's more where they came from."
+        },
+        {
+            "character": "Ward",
+            "line": "Does it matter? You got a cyborg on board with rockets in his arm."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's not a cyborg, he's a S.H.I.E.L.D. agent... with rockets in his arm."
+        },
+        {
+            "character": "List",
+            "line": "Our world is much more complicated now after the tragic death of Dr. Whitehall and the ensuing bloodbath that it caused. Thank you. Tell me, Mr. Bakshi, exactly how did you manage to escape unscathed?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "What are you implying, doctor?"
+        },
+        {
+            "character": "List",
+            "line": "Well, most of HYDRA's leaders were wiped out in one fell swoop, but not you. I was just curious if you might know anyone involved."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's see how Bakshi holds up under questioning."
+        },
+        {
+            "character": "Kara",
+            "line": "He's held up to worse than this."
+        },
+        {
+            "character": "Bakshi",
+            "line": "You think I poisoned the baroness? Killed Bloom?"
+        },
+        {
+            "character": "List",
+            "line": "Someone put a bullet in his head."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I assumed it was you... or Strucker. You had the most to gain, and look, here you sit, alive and well, with more money and manpower than ever."
+        },
+        {
+            "character": "Ward",
+            "line": "See? Told you he was good."
+        },
+        {
+            "character": "Bakshi",
+            "line": "The truth is, I didn't escape unscathed. I was captured by the U.S. government. Mr. Peterson helped me escape. You do recognize him, don't you? Well, you should. HYDRA invested quite a bit of funds turning Mr. Peterson into the perfect killing machine. Money well-spent, I might add."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's he doing?"
+        },
+        {
+            "character": "Ward",
+            "line": "He's gaining List's trust."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I know Strucker has been experimenting on powered individuals. I believe that with a compliance upgrade, Mr. Peterson would prove quite useful to him."
+        },
+        {
+            "character": "List",
+            "line": "You're offering him to me?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Consider it a sign of good faith."
+        },
+        {
+            "character": "Coulson",
+            "line": "This wasn't the plan. What are you doing?"
+        },
+        {
+            "character": "Ward",
+            "line": "Getting us to Strucker."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bastard sold us out!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Put the gun down now. Now!"
+        },
+        {
+            "character": "Ward",
+            "line": "It was the only way. Will you just listen to me?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I won't gonna warn you again."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you want to get to Strucker or not?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Fitz, are you all right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'm delightful."
+        },
+        {
+            "character": "Ward",
+            "line": "Strucker wants powered people. Bakshi alone doesn't get you to him. Deathlok does, and he can take care of himself, trust me."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Trust me?” I ought to shoot you just for saying that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, sir."
+        },
+        {
+            "character": "Ward",
+            "line": "What if this goes South? Would you have been willing to sacrifice Mike?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That wasn't your call to make."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, Deathlok is, um..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is that Deathlok's targeting system?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, he's gonna... he's... well, he... he's about to kill everyone."
+        },
+        {
+            "character": "Hunter",
+            "line": "Not a bad idea, actually."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, we need them alive. Fitz, tell Mike to stand down."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no, that's not gonna happen."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let him go, 33."
+        },
+        {
+            "character": "Kara",
+            "line": "My name is Kara, and I don't work for you anymore."
+        },
+        {
+            "character": "Fitz",
+            "line": "Weapons systems are hot."
+        },
+        {
+            "character": "Ward",
+            "line": "On the count of three, we all put our weapons down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Three!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You pull anything like that again, I'll throw your ass off this quinjet at 20,000 feet."
+        },
+        {
+            "character": "Woman",
+            "line": "Doctor, there's been another incident."
+        },
+        {
+            "character": "List",
+            "line": "Excuse me. We're close. Put us in the air. And then we'll see quite how loyal you and your enhanced friend really are."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're taking off."
+        },
+        {
+            "character": "Ward",
+            "line": "If Strucker's overseas, I'd say that's probably where they're going."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then we tail them."
+        },
+        {
+            "character": "Cal",
+            "line": "Bookstores, dead. Video stores, dead. Old-fashioned ice-cream shops, dead. The internet killed everything."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not sure the internet killed ice cream, but, uh, how about we get a 40 ounce of malt liquor instead? I'm kidding, sort of."
+        },
+        {
+            "character": "Cal",
+            "line": "A-ha! I learned something about you. You're funny. That's good."
+        },
+        {
+            "character": "Cal",
+            "line": "Hey. Hey, where are your manners? Apologize to my daughter."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey. Hey. Calm down, okay? I bumped him. Sorry. That was... that was my bad."
+        },
+        {
+            "character": "Cal",
+            "line": "Yeah. It's all cool here."
+        },
+        {
+            "character": "Skye",
+            "line": "You know what? I bet they have ice cream."
+        },
+        {
+            "character": "Cal",
+            "line": "I'll go see."
+        },
+        {
+            "character": "May",
+            "line": "Hello?"
+        },
+        {
+            "character": "Skye",
+            "line": "May, it's Skye. I need to talk to Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Skye, where are you? Are you all right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, I'm okay, but I don't have much time. Where's Coulson?"
+        },
+        {
+            "character": "May",
+            "line": "He's out, looking for you. Where have you been?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm with Cal, but I won't be for long. And when I leave him, he's gonna be pissed. Okay? Dangerous. S.H.I.E.L.D. needs to come get him and make sure he doesn't hurt anyone."
+        },
+        {
+            "character": "May",
+            "line": "Skye, slow down."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, look, there's no time to explain. Please, it's just too complicated. Just don't hurt him."
+        },
+        {
+            "character": "May",
+            "line": "Skye, where are you? Skye?!"
+        },
+        {
+            "character": "Cal",
+            "line": "I got Neapolitan and vanilla. Uh, you pick."
+        },
+        {
+            "character": "Simmons",
+            "line": "She left the line open for us. We'll have the location in a minute."
+        },
+        {
+            "character": "Mack",
+            "line": "She doesn't sound like a hostage."
+        },
+        {
+            "character": "Morse",
+            "line": "More like she's playing along. Mack and I can take a team, go get them."
+        },
+        {
+            "character": "May",
+            "line": "Do it."
+        },
+        {
+            "character": "Cal",
+            "line": "You're bored. Am I boring you?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. You are a lot of things, but boring is not one of them."
+        },
+        {
+            "character": "Cal",
+            "line": "Tell you what. Let's head over to my old office, okay? There's something there I want to show you, something really special."
+        }
+    ]
+}

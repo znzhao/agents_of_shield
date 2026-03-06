@@ -1,0 +1,91 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 11,
+    "scene_name": "AftermathAndIvanovAidaEpilogue",
+    "description": "As Zephyr One evacuates, Fitz is comforted by Simmons over the trauma of recent events. Coulson and Daisy realize that Elena has entered the Framework on her own, creating new risks. Meanwhile, Ivanov and Aida regroup elsewhere, discussing the pain and fury Aida now feels, and planning further retribution against S.H.I.E.L.D. and Inhumans. Talbot oversees his wounded men and the empty base, signaling the devastation Aida has wrought. The episode ends on a tense, foreboding note, setting up future conflict.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez",
+        "aida",
+        "anton_ivanov",
+        "glenn_talbot"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "May needs to keep us on the move."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or AIDA will be on us like a flash. Even Yo-Yo couldn't... Wait a minute. Where was Yo-Yo during that standoff?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. No. Yo-Yo has no idea what she's in for."
+        },
+        {
+            "character": "Coulson",
+            "line": "For that matter, neither do we."
+        },
+        {
+            "character": "Ivanov",
+            "line": "It's called heartbreak, kroshka. Not even your new powers can repair it. Only time can heal that wound. Go on."
+        },
+        {
+            "character": "AIDA",
+            "line": "To be human is to suffer."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You are far from human. I've read that book. We both know there are things beyond this universe. And you may, in fact, be one of them."
+        },
+        {
+            "character": "AIDA",
+            "line": "I am nothing but torn and twisted insides! I can't stand it. I don't want it."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I can make you feel something else. That book helps build worlds. My plan will rebuild the world that you have grown accustomed to, one where Inhumans are hunted."
+        },
+        {
+            "character": "AIDA",
+            "line": "And we control the rest."
+        },
+        {
+            "character": "Ivanov",
+            "line": "It doesn't hurt that both of us are unstoppable."
+        },
+        {
+            "character": "AIDA",
+            "line": "But your plan is flawed. It's too clean. I want them to suffer. Now, make me feel something else."
+        },
+        {
+            "character": "Ivanov",
+            "line": "All better now?"
+        },
+        {
+            "character": "Man",
+            "line": "We lost three men, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "To what?"
+        },
+        {
+            "character": "Man",
+            "line": "I'm not sure. There's nothing else here. The place is empty."
+        },
+        {
+            "character": "Talbot",
+            "line": "All right. Clear out. We'll have Hazmat come in at dawn."
+        }
+    ]
+}

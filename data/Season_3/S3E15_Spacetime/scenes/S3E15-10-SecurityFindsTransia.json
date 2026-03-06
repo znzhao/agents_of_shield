@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 10,
+    "scene_name": "SecurityFindsTransia",
+    "description": "The team at The Playground finishes their tactical preparations, and Fitz reports they have found the building matching Daisy's visions: the Transia Corporation facility. They solidify their plan, agreeing on a surgical strike with May as point, and remind themselves not to use comms to avoid Hydra interception. Tension is high as they prepare for possible confrontation with Charles' fate looming.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Agent",
+            "line": "Sir, we found the building."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "And shocker, the only way in is through their security office on the ground floor."
+        },
+        {
+            "character": "Coulson",
+            "line": "Transia Corporation, I know of it, but what would Malick want in there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I used their nerve-wiring interface in your hand, sir. It's cutting edge, to say the least."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, this is getting crazy."
+        },
+        {
+            "character": "May",
+            "line": "It's been crazy."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, May, surgical strike. And we agree, no comms on this."
+        },
+        {
+            "character": "May",
+            "line": "HYDRA will be listening."
+        },
+        {
+            "character": "Coulson",
+            "line": "And know we're coming if they really have a fortune-teller on hand."
+        },
+        {
+            "character": "Daisy",
+            "line": "And if you see Charles, do not go up to the roof, even if he..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Uh, what does that mean?"
+        }
+    ]
+}

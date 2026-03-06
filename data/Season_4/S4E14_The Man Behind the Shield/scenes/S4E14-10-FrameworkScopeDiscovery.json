@@ -1,0 +1,234 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 10,
+    "scene_name": "FrameworkScopeDiscovery",
+    "description": "Fitz and Simmons continue their search for the Framework by analyzing code and data trails. They realize Radcliffe's Framework is piggybacking on devices worldwide, making it nearly impossible to locate its source. The scope of Radcliffe's project and the challenge it poses become clear, increasing the team's urgency and anxiety.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You have a match?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm searching fragments of code across all lines of communication. Now, it was going slow at first, but once I found the right fragment..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah, there it is. We're going to find them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let's not run before we can walk. But all I need to do is trace the source, and... Server farm in China."
+        },
+        {
+            "character": "Simmons",
+            "line": "China? Makes perfect sense."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hold on a minute. No. That's not right."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It appears to be pinging from multiple sources. Cellphones in Atlanta, a military base in Norfolk..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Does this mean...? Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell is this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's the Framework code, and it's worse than I feared. We traced where the data is being processed. It's everywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you mean “everywhere?”"
+        },
+        {
+            "character": "Fitz",
+            "line": "The code is piggybacking on the processors of devices from all over the world. It's like SETI, only you don't opt in."
+        },
+        {
+            "character": "Daisy",
+            "line": "My God. If Radcliffe is using this much processing power, the Framework reality could be..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Massive."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you can't track its origin?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Not yet. Doesn't stay on any one device long enough."
+        },
+        {
+            "character": "Simmons",
+            "line": "How is all this even possible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "‘Cause Radcliffe has the Darkhold. Anything's possible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, find it. Find something. We don't leave our people behind."
+        },
+        {
+            "character": "Coulson",
+            "line": "We all good here, fellas? What else do you need? Birth certificate? I think I got a membership card to Gold's Gym."
+        },
+        {
+            "character": "Soldier",
+            "line": "You have backup?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think that's the only copy I have on me, but there might be another one in the van."
+        },
+        {
+            "character": "Soldier",
+            "line": "Do you have partner?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh! Eh. She's not really a partner. More of a friend, a co-worker, really. Though, to be honest, I'm starting to feel some tension, sexual and otherwise, so I was actually thinking about taking a shot, but I'm afraid it could go south."
+        },
+        {
+            "character": "Soldier",
+            "line": "You Americans, you talk too much."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's our greatest flaw."
+        },
+        {
+            "character": "Soldier",
+            "line": "Our unit has been made aware that an item was found on the premises. We have been sent to retrieve it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "Soldier",
+            "line": "At any cost."
+        },
+        {
+            "character": "Soldier",
+            "line": "Looks like your partner was asked to retrieve the item at any cost, as well. And the cost was you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, so we think we found the next clue in this fun, little game. Ivanov mentioned his SVR unit being tortured and executed and that he was gonna do the exact same thing to us. So I looked up SVR detention centers connected to the unit number found on the dead agents' uniforms. And this one right here was a front during the Cold War for a submarine base."
+        },
+        {
+            "character": "Mack",
+            "line": "And since we know Ivanov has a submarine, like all good Bond villains..."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're already en route to the base in Krasnoyarsk Krai."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's assume the enemy knows we're coming. They've been baiting us this whole time. We may face strong opposition, trap doors, sharks with lasers, who knows? It doesn't matter. What matters is getting our people back, so let's get ready."
+        },
+        {
+            "character": "Simmons",
+            "line": "We found where they're keeping The Director and May. Already en route to the location. We're going to save them."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if we can't? What if May suffers from permanent cognitive dysfunction or cerebral atrophy? Or she dies?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't know the adverse effects this could have on her brain. I did it to her. AIDA, the Framework, my fingerprints are all over these murder weapons. Mack was right."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack was right. You do need to think about the implications of the things you create. But just because someone uses your ideas for evil does not make it your fault for creating it in the first place. You make things from the genius of your mind and the goodness of your heart to help people. Don't let Radcliffe's actions corrupt that. You are not responsible for the twisted things he's done. Wrongs have been committed. Now we make them right, together."
+        },
+        {
+            "character": "Fitz",
+            "line": "You know, if Radcliffe is operating out of this facility, there may be some Framework hardware there. If I could tap into that directly, then maybe I could find the key to shutting it down for good."
+        },
+        {
+            "character": "Simmons",
+            "line": "There he is. Let's get to it already."
+        },
+        {
+            "character": "Ivanov",
+            "line": "This is your last chance, Director, to denounce S.H.I.E.L.D. and all that it has done. Now I ask you one last time. Do you have any regrets?"
+        },
+        {
+            "character": "Mace",
+            "line": "I believe in Agent Coulson. I believe in S.H.I.E.L.D. Because for all its imperfections, it strives to do the right thing, to protect people. You claim to fight for others, for humanity. I think you lost yours a long time ago. And to answer your question, I do have one regret. That I don't have any superpowers of my own that I could use to kick your ass."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I can respect a man who stands behind his true beliefs, misguided though they may be. You know it is a shame we find ourselves on opposite sides of the board in this game. But you are a pawn. The pawn can only move forward. Personally, I can overlook your sins. But my comrades, well, let's just say they are less forgiving than I am."
+        },
+        {
+            "character": "Coulson",
+            "line": "Communications room at sub-basement, Fitz-Simmons."
+        },
+        {
+            "character": "Fitz",
+            "line": "On it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Davis, you're with them. The rest of us will fan out, search this place top to bottom for Director Mace and Agent May. Stay on comms. Be sharp. Morales, you're with me."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Special Agent Phillip J. Coulson. I have waited a long time for a face-to-face."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, most people would've brought something nice. Flowers."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Ah, humor is the last line of defense you have left. There is no one to stand behind, no one left to protect you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. I'm pretty capable of protecting myself."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You have enhanced yourself, I'm sure. I'd be a fool to expect anything else. Enhanced humans, aliens and their technology. The deeper I dug, I found there was one man at the center of it all. You."
+        },
+        {
+            "character": "Coulson",
+            "line": "I thought the mission came before the man."
+        }
+    ]
+}

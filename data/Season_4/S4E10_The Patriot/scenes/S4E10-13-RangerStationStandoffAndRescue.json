@@ -1,0 +1,151 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 13,
+    "scene_name": "RangerStationStandoffAndRescue",
+    "description": "In a damaged ranger station, Mace, Coulson, and Mack prepare to defend themselves from the heavily armed mercenaries outside. Coulson urges Mace to don his armor and bluff about his still-active powers. The agents coordinate a plan—Mace distracts while Mack destroys the jamming truck. As mercenaries breach the building, the Zephyr arrives with Daisy and May, and together, the S.H.I.E.L.D. team regroups, fights off the attackers, and secures victory.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Won't be long before they find the other guys we ICE'd."
+        },
+        {
+            "character": "Mace",
+            "line": "What's the situation?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We got good news and bad news. The good news is, the transmitter truck's parked out by that tool shed, so we've got a chance to disable it."
+        },
+        {
+            "character": "Mack",
+            "line": "But the bad news is there's a squad of heavily armed mercs guarding it."
+        },
+        {
+            "character": "Coulson",
+            "line": "And it's only a matter of minutes till they bust down that door."
+        },
+        {
+            "character": "Mace",
+            "line": "Should've left me in the woods when you had the chance."
+        },
+        {
+            "character": "Mack",
+            "line": "Not helping. What's the plan, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Time to suit up, Director."
+        },
+        {
+            "character": "Mace",
+            "line": "You heard the part where I don't have powers, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. But they don't know that."
+        },
+        {
+            "character": "Mace",
+            "line": "You know you're being lied to, right? I can only speculate as to who hired you. Probably some burly guys in dog masks. But they're working for Senator Nadeer, and what she really wants is inside this case. It's a cure. For Inhumans. Hold your fire. I don't suppose she told you how much this was worth. Probably a lot more than she's paying you."
+        },
+        {
+            "character": "Orlov",
+            "line": "If you're making me an offer, get on with it."
+        },
+        {
+            "character": "Mace",
+            "line": "Looks like we got two choices here. Either I crush this case down to the size of a baseball and nobody gets what they want, or..."
+        },
+        {
+            "character": "Orlov",
+            "line": "Or we could kill you and take it."
+        },
+        {
+            "character": "Mace",
+            "line": "Try if you want. I'm ready to go toe-to-toe all day. But I'm the only one who can open this case."
+        },
+        {
+            "character": "Mace",
+            "line": "I'd rather end this without any bloodshed. By which I mean yours. So why don't you just put your guns down and, uh... we'll talk this through."
+        },
+        {
+            "character": "Mace",
+            "line": "I don't think they want to talk."
+        },
+        {
+            "character": "Coulson",
+            "line": "You distracted them long enough. Mack made short work of that truck."
+        },
+        {
+            "character": "Mace",
+            "line": "So what do we do now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Survive."
+        },
+        {
+            "character": "Mack",
+            "line": "It's not an axe, but I'll take it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm running out."
+        },
+        {
+            "character": "Mace",
+            "line": "Yeah, I'm running low, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Help me get this table. They're about to breach that door. How's your aim?"
+        },
+        {
+            "character": "Mace",
+            "line": "Talbot ran me through some basic training when I got this job, but I didn't think I'd need it, with the super-strength and all."
+        },
+        {
+            "character": "Coulson",
+            "line": "No better time to practice than when your life depends on it."
+        },
+        {
+            "character": "Mace",
+            "line": "Is that...?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Where's Mack?"
+        },
+        {
+            "character": "Orlov",
+            "line": "I'm gonna make this hurt!"
+        },
+        {
+            "character": "Mack",
+            "line": "About damn time."
+        },
+        {
+            "character": "Mack",
+            "line": "You okay?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Fine."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, let's get the hell out of here."
+        }
+    ]
+}

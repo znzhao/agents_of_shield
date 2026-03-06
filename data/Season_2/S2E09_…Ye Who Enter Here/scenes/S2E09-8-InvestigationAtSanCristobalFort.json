@@ -1,0 +1,159 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "InvestigationAtSanCristobalFort",
+    "description": "Coulson, Morse, Fitz, Simmons, and Mack investigate the garrison beneath San Cristobal Fort, discussing the local legend 'La garita del diablo.' The team examines the structure, prepares equipment, and debates how to locate the temple using dwarf drones. Mack prepares to descend the vertical shaft as electronics begin acting strangely. Tension builds over the unknown dangers below.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Where'd your friend Diego go?"
+        },
+        {
+            "character": "Morse",
+            "line": "He won't go down into the garrison. Turns out he's afraid of the legend."
+        },
+        {
+            "character": "Coulson",
+            "line": "What legend?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They call it “La garita del diablo.” The devil's sentry."
+        },
+        {
+            "character": "Fitz",
+            "line": "Delightful."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. The fort was built in the 18th century and helped repel some of our british ancestors when they tried to invade the island. But this particular guard tower was built in 1634 and is well-known as being haunted."
+        },
+        {
+            "character": "Mack",
+            "line": "Now, that's a deep hole."
+        },
+        {
+            "character": "Fitz",
+            "line": "And haunted, apparently. Not scared of ghosts, though, are you Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "I mean... of course not. But w-what was that story?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The story is, several of the guards went missing in the middle of the night from this tower, never to be seen again. They simply vanished. It's all preposterous, really."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. About as preposterous as an alien city."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's it coming?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... well, um... You should, um... Why don't you..."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it's all right. You go first."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, that's all right."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, this is your..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know, but you..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Someone start talking."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, we are ready to deploy, sir."
+        },
+        {
+            "character": "Simmons",
+            "line": "Would you like me to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no. Um..."
+        },
+        {
+            "character": "Coulson",
+            "line": "How long will it take to survey the tunnel and locate the temple?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, it depends on several factors, like the tec... tec... tect..."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't look at me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... Uh... The, um... The tec..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Tectonic stress levels?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Tectonic stress levels, yes, and the structural..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Structural integrity of the tunnels, how damaged they are."
+        },
+        {
+            "character": "Fitz",
+            "line": "And how deep they go."
+        },
+        {
+            "character": "Coulson",
+            "line": "How will you know what the temple looks like?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we'll know it when we see it, I guess."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll be depending entirely on the data the dwarfs send us."
+        },
+        {
+            "character": "Coulson",
+            "line": "What just happened?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, the tablet's still working."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks like they just went out."
+        }
+    ]
+}

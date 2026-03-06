@@ -1,0 +1,101 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 13,
+    "scene_name": "CoulsonAndCreelFindTalbot",
+    "description": "Creel leads Coulson through the base’s labyrinthine corridors to find Talbot. They locate him in poor shape but determined to escape. The three men agree to break out together, highlighting trust and desperation.",
+    "roles": [
+        "carl_creel",
+        "phil_coulson",
+        "glenn_talbot"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This base is a labyrinth. Is this the right place?"
+        },
+        {
+            "character": "Creel",
+            "line": "It's the only wing Hale made off-limits. Maybe there's a reason for that."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you can open these doors?"
+        },
+        {
+            "character": "Creel",
+            "line": "Yeah. Just need to know which one Talbot's in. If what you said is true..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Straighten up and fly right, Hammond! You look like a damn hobo!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Pretty sure that's our man."
+        },
+        {
+            "character": "Talbot",
+            "line": "You are in violation... Major violation of dress code 36-2903. Non-compliance. Get it together."
+        },
+        {
+            "character": "Coulson",
+            "line": "General?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Good God, man! You sneak up on a man like that, that's not right. That's not right. Carl? What the hell are you doing here? Coulson, what the hell is Carl doing here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He can explain it to you later. Are you okay to travel?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Oh, no, I'm not in the best shape."
+        },
+        {
+            "character": "Creel",
+            "line": "If your robot hadn't have shot him in the head."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you still want to buy Hale's story about that, too, fine. But can we agree this man needs to get out of here?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Listen to him, son. He's an ally. I'd like to get back and see my wife and child."
+        },
+        {
+            "character": "Coulson",
+            "line": "We good?"
+        },
+        {
+            "character": "Creel",
+            "line": "Yeah, let's get going."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, Glenn, come on. Perfect. Let's go. Let's get out of here."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey, you quit it! Quit being so handsy!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Glenn, I know we're under a bit of strain here, but I'm gonna need you to use your inside voice."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is my inside voice!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Then your softer inside voice."
+        }
+    ]
+}

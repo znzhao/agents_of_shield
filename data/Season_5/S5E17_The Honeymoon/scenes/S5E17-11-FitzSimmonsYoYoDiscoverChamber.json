@@ -1,0 +1,66 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 11,
+    "scene_name": "FitzSimmonsYoYoDiscoverChamber",
+    "description": "Within the Hydra facility, Fitz, Simmons, and Elena discuss the encrypted signals and sneak past mechs. Ivanov is on site, while Elena makes witty remarks about the confrontation ahead. They proceed to investigate the Particle Infusion Chamber, intensifying the stakes.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "anton_ivanov"
+    ],
+    "vibe": "suspenseful",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Power's being diverted to a space on the second floor, but according to this plan, there's nothing there."
+        },
+        {
+            "character": "Simmons",
+            "line": "Bad guys rarely mark their evil lairs on blueprints. We'll find a way to locate it once we get inside."
+        },
+        {
+            "character": "Fitz",
+            "line": "We may have to improvise that bit."
+        },
+        {
+            "character": "Elena",
+            "line": "We're improving all the bits. Any idea what the weapon in there is?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll blow it up regardless."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hold on. I'm reading an encrypted radio signal."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coming from where?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coming here. Move."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Inside."
+        },
+        {
+            "character": "Simmons",
+            "line": "Anton Ivanov is providing security. Means we're in the right place."
+        },
+        {
+            "character": "Fitz",
+            "line": "And that we've lost our advantage."
+        },
+        {
+            "character": "Elena",
+            "line": "A man who can't die, huh? Maravilloso."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "CoulsonMonologueWithSousa",
+    "description": "Coulson, struggling with the effects of his damaged internal systems, narrates in black and white as he meets with Sousa on the critical day of Sousa's supposed death. Coulson tries to reassure the suspicious Sousa and improvises a story about being his new contact, gaining his trust with references to the mission and Howard Stark. The two discuss the plan to deliver the device and make arrangements to retrieve it while keeping up their cover.",
+    "roles": [
+        "phil_coulson",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Fate. I don't believe in it. But I know history. I know how the story goes. And when it's playing out right in front of you, it feels like you can't escape it. That fate's gonna catch up to you, tap you on the shoulder, whisper in your ear that your time's up."
+        },
+        {
+            "character": "Sousa",
+            "line": "I thought I shook you."
+        },
+        {
+            "character": "Coulson",
+            "line": "And then your story ends. Sometimes the hero has to die, and there's nothing you can do about it. That day started in a fog. My circuits were crossed up. Color had bled from the world, and I could hear my thoughts pinging around my head. I could break those cuffs easy... but something told me to hold off."
+        },
+        {
+            "character": "Sousa",
+            "line": "Right after everyone arrived, everything went haywire. The base was infiltrated, my test was sabotaged. And my contact... the scientist... he's dead. Niles Lindmore turned out to be a hostile."
+        },
+        {
+            "character": "Coulson",
+            "line": "July 22, 1955. My head was ringing like a bell, but that date rang a louder one. That was the day that made Daniel Sousa a legend. Every recruit learned about it. His final mission. He delivered a groundbreaking S.H.I.E.L.D. device to Howard Stark, kept it from falling into Russian hands. And then he was killed. This was the day Daniel Sousa became the first fallen Agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Sousa",
+            "line": "He lives."
+        },
+        {
+            "character": "Coulson",
+            "line": "I heard enough to know that this day had been knocked off course."
+        },
+        {
+            "character": "Sousa",
+            "line": "Time for some answers. Start with your name."
+        },
+        {
+            "character": "Coulson",
+            "line": "I had to cook up a story to get things on track. Fortunately, I'd already read this one in the history books. Name's not important. What's important is I'm your contact. Remember I kept telling you what a fan I was? That was me waving a hand in your face."
+        },
+        {
+            "character": "Sousa",
+            "line": "First, you're a big shot from the DOD, now you're a brilliant scientist? Pardon me if I don't believe a word you say."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then why don't you ask the dead guy? He and I helped develop the gadget you're supposed to deliver, but then he turned traitor, sold it to the Russkies. I came to the base to track him down. You saw the moment he found out I was onto him."
+        },
+        {
+            "character": "Sousa",
+            "line": "Those weren't your everyday fisticuffs. That typical for a couple of scientists?"
+        },
+        {
+            "character": "Coulson",
+            "line": "These aren't typical times."
+        },
+        {
+            "character": "Sousa",
+            "line": "Lindmore would agree, seeing as he melted like the Wicked Witch of the East."
+        },
+        {
+            "character": "Coulson",
+            "line": "You mean West. And I can't answer for Lindmore. I didn't see it. Now, you want to play Twenty Questions, or should we get this package to Howard Stark?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe the mention of Stark sold him, or maybe he heard the clock ticking."
+        },
+        {
+            "character": "Sousa",
+            "line": "Where is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The package? I didn't bring it to the base. Too many variables in play."
+        },
+        {
+            "character": "Sousa",
+            "line": "Well, time is one of them. I got to get it on a train."
+        },
+        {
+            "character": "Coulson",
+            "line": "To Los Angeles. I know. Tell me what train and let me make a call. My contact will bring it to us."
+        },
+        {
+            "character": "Sousa",
+            "line": "Us? The plan was for me to chaperone the gadget, not a scientist."
+        },
+        {
+            "character": "Coulson",
+            "line": "It seems like you got a new plan now."
+        },
+        {
+            "character": "Coulson",
+            "line": "I couldn't use a s phone to dial a st-century airplane. There was only one number I knew to dial."
+        }
+    ]
+}

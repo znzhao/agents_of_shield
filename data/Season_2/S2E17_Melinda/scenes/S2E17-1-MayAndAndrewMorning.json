@@ -1,0 +1,108 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 1,
+    "scene_name": "MayAndAndrewMorning",
+    "description": "Melinda May and Andrew share a quiet early morning, discussing family planning and their hopes for the future. Phil Coulson arrives to pick up May for a mission, and the trio exchange light banter before May and Coulson set out. The mood is warm and intimate, highlighting May's life outside of S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Mmm, you're up early."
+        },
+        {
+            "character": "Andrew",
+            "line": "Hey, we got a family to make, and there's only one way to do that. And I'm dedicated to the cause."
+        },
+        {
+            "character": "May",
+            "line": "Hmm, so thoughtful."
+        },
+        {
+            "character": "Andrew",
+            "line": "When you get back, maybe you and I can take a trip."
+        },
+        {
+            "character": "May",
+            "line": "Hmm."
+        },
+        {
+            "character": "Andrew",
+            "line": "Somewhere warm. Focus our efforts to expand. He's gonna be a hell-raiser."
+        },
+        {
+            "character": "May",
+            "line": "Uh, not in my house. My house has rules."
+        },
+        {
+            "character": "Andrew",
+            "line": "Oh, so you plan on being exactly like your own mother?"
+        },
+        {
+            "character": "May",
+            "line": "What... with a few modifications, yes. He's always early. Stall him."
+        },
+        {
+            "character": "Andrew",
+            "line": "Come on in! It's open!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Andrew?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Good morning. You really leave your front door unlocked?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Uh, got the best security system in the world. And you're early. This is my time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry."
+        },
+        {
+            "character": "Andrew",
+            "line": "So, who you going after? Am I about to get a new patient?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't know yet. But yeah, maybe."
+        },
+        {
+            "character": "May",
+            "line": "Hey, no leaking operational secrets. Come on, Coulson. We're gonna be late."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm early."
+        },
+        {
+            "character": "Andrew",
+            "line": "Keep her safe out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's supposed to keep me safe."
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Andrew",
+            "line": "Hey. You be careful."
+        },
+        {
+            "character": "May",
+            "line": "I will. And when I come back, we've got work to do. Come on. I got to go."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 12,
+    "scene_name": "RescueOfTriplettAndDiscoveryOfKids",
+    "description": "Inside the Enlightenment Center, Coulson and Mace rescue prisoners, discovering the S.H.I.E.L.D. operative is Antoine Triplett. Triplett reveals his boots have valuable Hydra intel stashed in them. When one of Coulson's students, Chris, is seen being taken elsewhere, Coulson rushes off to save him, while Triplett searches for his boots.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "What are these? You know, disposal's on the other side of the grounds."
+        },
+        {
+            "character": "Coulson",
+            "line": "Disposal? It's an ugly way of putting it. Hydra really ought to have a little more respect for the dead. And the living, while you're at it."
+        },
+        {
+            "character": "Mace",
+            "line": "Guy we're looking for has some important intel, so we get in, find them, get out quick and quiet."
+        },
+        {
+            "character": "Burrows",
+            "line": "Hopefully we got the right place."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pretty sure this is it. Branding is everything."
+        },
+        {
+            "character": "Mace",
+            "line": "“Enlightenment Cultivation Center.” And everybody buys it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I sold their lies every day, watched kids get taken out of my classroom because they were different, because they asked questions."
+        },
+        {
+            "character": "Mace",
+            "line": "And it forced you into action. Burrows, keep an eye out for Security. Agent Flugelman and I have a friend to find."
+        },
+        {
+            "character": "Coulson",
+            "line": "They call this rehab?"
+        },
+        {
+            "character": "Mace",
+            "line": "Let's get them out. Okay, time to go."
+        },
+        {
+            "character": "Triplett",
+            "line": "Thought I was done for. It's good to see you guys."
+        },
+        {
+            "character": "Mace",
+            "line": "Phil Coulson, meet Antoine Triplett, my good friend and inside man."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice to meet you, Trip."
+        },
+        {
+            "character": "Triplett",
+            "line": "Trip? Haven't heard that nickname since high school. How'd you know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Felt right."
+        },
+        {
+            "character": "Mace",
+            "line": "Everyone on the bus. Let's go."
+        },
+        {
+            "character": "Triplett",
+            "line": "As soon as I find my boots."
+        },
+        {
+            "character": "Mace",
+            "line": "We'll get you another pair."
+        },
+        {
+            "character": "Triplett",
+            "line": "It's not about the boots. It's what's in them."
+        }
+    ]
+}

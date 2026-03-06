@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 2,
+    "scene_name": "CoulsonAndMayMissionBriefing",
+    "description": "May and Coulson are briefed by Agent Hart in Bahrain regarding Eva Belyakov, an enhanced individual. They discuss the public nature of the approach, the importance of not spooking Eva, and the threat of her Russian pursuers. The team is prepared to handle things peacefully, but backup is ready in case things go sour.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "O'Brien, thanks for the tunes."
+        },
+        {
+            "character": "O'Brien",
+            "line": "Anytime. It's one dull flight."
+        },
+        {
+            "character": "May",
+            "line": "This really gifted individual? What do we know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not much yet. You know they're retiring this fleet?"
+        },
+        {
+            "character": "May",
+            "line": "About time. S.H.I.E.L.D.'s putting every dime into the triskelion."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well... not all the dimes. Fury's quietly started a new initiative. Instead of this catch-and-release with powered people, we form a team, take Earth's mightiest to find out if they're heroes."
+        },
+        {
+            "character": "May",
+            "line": "And you mention this because you want my help?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I know you got the family-planning thing going on."
+        },
+        {
+            "character": "May",
+            "line": "I'm staying in the field."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good, ‘cause you'd be great. And that way, we could keep working together."
+        },
+        {
+            "character": "May",
+            "line": "Mm-hmm. Uh, one mission at a time. Look alive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Hart."
+        },
+        {
+            "character": "Hart",
+            "line": "We've got her, Phil. Gather up! Meet Eva Belyakov, 35, index candidate. Russian intelligence has been pursuing her. Agents Coulson and May have been brought in to advise and make the approach."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you. We believe miss Belyakov possesses enhanced strength. This is what happened when a Russian officer tried to stop her with his car. She fled Russia unharmed. Looks pretty strong to me, so it's important we don't spook her. Just a friendly chat to bring her in for evaluation. And if all goes really well, we'd gain an asset before the Russians find her."
+        },
+        {
+            "character": "Hart",
+            "line": "The approach will be public. It's not ideal, but we go in now, we lose our window. Local military's not used to standing down. Welcome to Bahrain. Let's hope Belyakov cooperates."
+        },
+        {
+            "character": "May",
+            "line": "And if she doesn't?"
+        },
+        {
+            "character": "Hart",
+            "line": "Then I call in the Cavalry."
+        }
+    ]
+}

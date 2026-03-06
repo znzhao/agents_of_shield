@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 6,
+    "scene_name": "RainaPoClairvoyantStrategy",
+    "description": "Meanwhile, Raina and Po regroup after the prison break. Raina serves steak in a temporary hideout, expressing frustration over S.H.I.E.L.D.'s interference, Centipede's frequent relocations, and the toll on their enhanced soldiers. She asks Po to consult 'The Clairvoyant' for guidance to achieve 'stage three' in their project, discussing the limits of The Clairvoyant’s vision and the organization's need to stop running.",
+    "roles": [
+        "raina",
+        "michael_peterson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Po",
+            "line": "Nice to cut my own meat again."
+        },
+        {
+            "character": "Raina",
+            "line": "The steak was to your liking?"
+        },
+        {
+            "character": "Po",
+            "line": "Overcooked, and the ambience..."
+        },
+        {
+            "character": "Raina",
+            "line": "We're not here for the decor. We've stabilized the serum, added the implant, and now we need the Clairvoyant's help in finding the key to stage three."
+        },
+        {
+            "character": "Po",
+            "line": "I've asked before. The Clairvoyant has trouble seeing the man you're looking for and his weaknesses. I don't mean to upset you. It's the way of things."
+        },
+        {
+            "character": "Raina",
+            "line": "This is what's upsetting me. This S.H.I.E.L.D. teams has destroyed two of our operations. We move every few days now to be safe. Which causes challenges for our maintenance problems. We can't overstate the toll this takes on our soldiers. They are drained after every mission. Our men need regular injections, constant upkeep. Difficult when S.H.I.E.L.D. has us on the run."
+        },
+        {
+            "character": "Po",
+            "line": "Then it's time to stop running."
+        }
+    ]
+}

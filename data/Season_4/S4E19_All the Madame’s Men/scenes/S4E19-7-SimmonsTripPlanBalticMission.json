@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 7,
+    "scene_name": "SimmonsTripPlanBalticMission",
+    "description": "Simmons and Triplett examine the blueprints uncovered from Hydra, identifying components of a device even more advanced than what Eli Morrow built. Simmons deduces that the device requires a massive power source, likely Ivanov's platform in the Baltic Sea. With few people left at the Resistance base, they prep the Quinjet for a recon mission.",
+    "roles": [
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "mysterious",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It must've been difficult to recover these."
+        },
+        {
+            "character": "Triplette",
+            "line": "Hey, it's what I do. I'm just bummed I lost my granddad's camera."
+        },
+        {
+            "character": "Simmons",
+            "line": "Howling Commandos, right? I always meant to ask you about that."
+        },
+        {
+            "character": "Triplette",
+            "line": "What do you mean, “always?”"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, I I just I'd heard. You're quite popular within the Resistance."
+        },
+        {
+            "character": "Triplette",
+            "line": "You know it."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. No, no, no This is quantum-energy manipulation. Darkhold tech."
+        },
+        {
+            "character": "Triplette",
+            "line": "Dark-who now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I've seen this machinery before. It was designed to build elements from thin air. This... This looks like it's creating something even more complex. That machine required an immense amount of energy. It was powered by a hydroelectric dam. No doubt, this device would need a more substantial energy source. Did you hear anything like that mentioned when you were undercover?"
+        },
+        {
+            "character": "Triplette",
+            "line": "Nothing about a dam, but I heard someone talking about shipping parts East to some oil-drilling platform."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ivanov's base in the Baltic Sea. Of course AIDA's using his assets here. She's probably working with him on this side, too."
+        },
+        {
+            "character": "Triplette",
+            "line": "Wait. What are you talking about?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I think I know where the machine is being built. Can we take the Quinjet on a recon mission?"
+        },
+        {
+            "character": "Triplette",
+            "line": "Nobody here to tell us “no.” I'll grab a team."
+        }
+    ]
+}

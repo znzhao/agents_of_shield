@@ -1,0 +1,71 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 4,
+    "scene_name": "BusArrivesAtPlayground",
+    "description": "Mace, Coulson, Ward, Mack, and Simmons regroup at the Playground, bringing the intercepted bus. Mack prepares the bus for further use, while the team discusses next steps. Simmons voices her view that their situation is artificial, but Mace and Ward are dismissive, highlighting their struggle to process the Framework's reality.",
+    "roles": [
+        "jeffrey_mace",
+        "phil_coulson",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "grant_ward"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Where did they come from?"
+        },
+        {
+            "character": "Mace",
+            "line": "We intercepted a bus on the way to a Hydra Enlightenment Center."
+        },
+        {
+            "character": "Mack",
+            "line": "Your girlfriend, Skye?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, thankfully."
+        },
+        {
+            "character": "Mace",
+            "line": "Where's your daughter? How is she doing?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know. She's still rattled. She hides it, but they came into our home, you know?"
+        },
+        {
+            "character": "Ward",
+            "line": "Well, she's definitely safer here than there. You both are."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, this This is all new to me, but I want to help. I owe you that."
+        },
+        {
+            "character": "Mace",
+            "line": "You can start with the bus outside. We need to switch the plates, the digital tags, and wipe the GPS."
+        },
+        {
+            "character": "Mack",
+            "line": "You're gonna put it to use?"
+        },
+        {
+            "character": "Ward",
+            "line": "One of our operatives got caught trying to smuggle out intel on a new Hydra weapon. They've got him locked up at the Center."
+        },
+        {
+            "character": "Mace",
+            "line": "The bus is our way in."
+        },
+        {
+            "character": "Mack",
+            "line": "‘Nuff said. I'm on it."
+        }
+    ]
+}

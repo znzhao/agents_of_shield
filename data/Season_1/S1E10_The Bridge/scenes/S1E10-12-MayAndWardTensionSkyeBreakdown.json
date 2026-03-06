@@ -1,0 +1,73 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "MayAndWardTensionSkyeBreakdown",
+    "description": "Ward tries to show concern for May after the field fight, but May insists on total professionalism and rebuffs his gesture, causing friction between them. Skye overhears and later confronts May about her own investigation into her past. May, in a tough love moment, harshly tells Skye to focus on the mission instead of personal matters, leading to Skye breaking down in frustration over her unresolved family issues.",
+    "roles": [
+        "grant_ward",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I'll pour you a Scotch."
+        },
+        {
+            "character": "May",
+            "line": "Don't ever do that again."
+        },
+        {
+            "character": "Ward",
+            "line": "Brandy, then?"
+        },
+        {
+            "character": "May",
+            "line": "When we're out in the field, your head needs to be on the op, not on me."
+        },
+        {
+            "character": "Ward",
+            "line": "Time-out. Still playing catch-up here. What are you talking about?"
+        },
+        {
+            "character": "May",
+            "line": "You taking a punch for me? I don't need your protection."
+        },
+        {
+            "character": "Ward",
+            "line": "You think I don't know that? I took that punch 'cause you're faster than me. You could do more good on your feet. It was tactical, not personal."
+        },
+        {
+            "character": "May",
+            "line": "My mistake."
+        },
+        {
+            "character": "Ward",
+            "line": "I am not some recruit who can't separate church from state. I'm on the same page as you. So don't flatter yourself."
+        },
+        {
+            "character": "Skye",
+            "line": "Sorry. I didn't mean to crash."
+        },
+        {
+            "character": "May",
+            "line": "What do you want? This about that thumb drive again?"
+        },
+        {
+            "character": "May",
+            "line": "Good."
+        },
+        {
+            "character": "Skye",
+            "line": "Look, I get that you don't want to help with that loud and clear, big neon, flashing lights. But I didn't ask, okay? Coulson..."
+        },
+        {
+            "character": "May",
+            "line": "Coulson doesn't want to tell you the truth. The truth is... You have to decide why you're here. We have a mission, and it's not to find your parents. If you can't put aside your personal attachments, then you shouldn't be here!"
+        }
+    ]
+}

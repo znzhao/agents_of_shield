@@ -1,0 +1,78 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 15,
+    "scene_name": "CoulsonInterrogatesCal",
+    "description": "Cal, locked in a cell, banters with Coulson and reveals the concoction he imbibed to gain super strength. Simmons and Fitz analyze the drugs, concluding they're dangerously unstable. Cal admits his actions are driven by a desperate need to protect Daisy and his family, but Coulson is suspicious that Jiaying is using him for her own plans.",
+    "roles": [
+        "calvin_johnson",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Cal",
+            "line": "I'm not a polar bear, Phil. So why is it colder than bloody blue hell down here, huh? And, uh, what's with the, uh... the doodad on my wrist, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That doodad monitors your vitals. I'll get you another blanket if you'd like, or maybe some hot cocoa."
+        },
+        {
+            "character": "Cal",
+            "line": "Are you mocking me? Torturing me after I willingly turned myself in?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Torture isn't my thing, Cal, and surrender doesn't really seem like yours. Why did Jiaying send you?"
+        },
+        {
+            "character": "Cal",
+            "line": "Do you have children, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I do not."
+        },
+        {
+            "character": "Cal",
+            "line": "Well, then, you'll never understand what a father will do for his child. Never imagine my pain when SHIELD stole my daughter."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been over this. It wasn't S.H.I.E.L.D., it was HYDRA. And didn't you get your vengeance back in the day? My understanding is you single-handedly killed a whole lot of people."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh! I suppose that's true."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm curious how you did it."
+        },
+        {
+            "character": "Cal",
+            "line": "With style."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell me you figured out what drugs Cal took, because my gut's saying everything ever made."
+        },
+        {
+            "character": "Simmons",
+            "line": "I haven't fully sequenced the formula yet, if only for the multitude of trace drugs found, but my initial list includes anabolic-androgenic steroids, a liver enzyme blocker, various metabolic enhancers, methamphetamines, what appears to be gorilla testosterone, and, no lie, a drop of peppermint. I think it's an ill-conceived attempt at super strength."
+        },
+        {
+            "character": "Coulson",
+            "line": "Other than cap, every attempt has been ill-conceived. Will he survive it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "A single vial would send any normal man to the hospital. Skye's father took three. He should be dead."
+        }
+    ]
+}

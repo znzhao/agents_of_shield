@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 14,
+    "scene_name": "SkyeMakesPactWithCoulson",
+    "description": "Skye and Coulson have a private conversation in his office. Skye expresses her resolve to focus on stopping her father, rather than understanding him, after the traumatic events. She insists there be no more secrets between them going forward, and Coulson agrees. Skye proposes a theory about the alien writing—it could be a map.",
+    "roles": [
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "It's good to have Simmons back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is why you should be down there."
+        },
+        {
+            "character": "Skye",
+            "line": "I know you're gonna go after him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye..."
+        },
+        {
+            "character": "Skye",
+            "line": "No, it's okay. I get it. He's a bad guy. And right now he has the Obelisk, which is a bad thing. You know, I've spent all my life wondering who he was and why he left. But after today, I-I just don't care anymore. All I care about is that we stop him, and I just wanted to let you know that whatever it takes to do that, I'm in."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's good to know."
+        },
+        {
+            "character": "Skye",
+            "line": "If we're gonna do this, you have to be completely honest with me from now on... no more secrets, no more compartmentalization, and definitely no more hidden cameras. Whatever's going on, you bring me in... no exceptions."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should probably get started."
+        },
+        {
+            "character": "Skye",
+            "line": "So, this is what you've been doing up here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, it's what I did yesterday."
+        },
+        {
+            "character": "Skye",
+            "line": "You're kidding."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know how else to explain it, but it needs to be carved."
+        },
+        {
+            "character": "Skye",
+            "line": "Does... does it just appear in your mind, like some sort of vision?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. It just... kind of happens, which is really frustrating because no matter how much I carve, it still means nothing to me. I don't even have a theory."
+        },
+        {
+            "character": "Skye",
+            "line": "I do. It's a map."
+        }
+    ]
+}

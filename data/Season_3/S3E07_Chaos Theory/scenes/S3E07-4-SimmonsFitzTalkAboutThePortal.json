@@ -1,0 +1,84 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "SimmonsFitzTalkAboutThePortal",
+    "description": "Simmons visits Fitz, struggling with guilt over keeping secrets. She gives Fitz her damaged phone from her time on the alien planet, asking for his help to recover the data. Fitz provides reassurance, showing the close friendship between the two as he agrees to try to recover her memories.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Dr. Garner."
+        },
+        {
+            "character": "Andrew",
+            "line": "Hey. Looks like you're heading to the lab. That's a good sign, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm trying. We're trying. Sometimes it just feels like it would've been best if I hadn't told Fitz everything."
+        },
+        {
+            "character": "Andrew",
+            "line": "You did the right thing in telling the truth, Jemma. Secrets can eat you up from the inside."
+        },
+        {
+            "character": "Simmons",
+            "line": "You busy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, no. No."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry I haven't been in here more."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's... There's no need to explain. What's that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's my phone. I had it with me. Uh, I took pictures, made some recordings to document my time there. It's quite damaged, but I kept it on me as a remembrance. I was hoping you could..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Recover the data."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's probably pointless."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no. Maybe not."
+        },
+        {
+            "character": "Simmons",
+            "line": "Just thought if you saw it for..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Myself, yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "I always felt better having you as my second pair of eyes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, couldn't hurt to try. I'll get right on it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you, Fitz."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 13,
+    "scene_name": "CoulsonContactsMalick",
+    "description": "Using intel gained from Strucker, Coulson contacts Malick through a secure phone line as part of a sting operation to track Hydra's communication routes. The exchange between Coulson and Malick is fraught with veiled threats and mutual warnings, as both men stake out their positions in the war to come.",
+    "roles": [
+        "phil_coulson",
+        "gideon_malick"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Perizad sent me. We went to Princeton together."
+        },
+        {
+            "character": "Man",
+            "line": "Hold, please."
+        },
+        {
+            "character": "Malick",
+            "line": "Werner?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, he's in no shape to make phone calls these days. You made sure of that, if I'm talking to Gideon Malick. I'll take that as a yes. Phil Coulson here."
+        },
+        {
+            "character": "Malick",
+            "line": "Is this about Rosalind Price? The man who took her is gone."
+        },
+        {
+            "character": "Coulson",
+            "line": "As will be everything you value. It's started to unravel, hasn't it? Your portal gone, the Inhumans you stockpiled murdered. It wasn't easy to get this number, but this call will cost you. We're tracking this line everywhere it connects."
+        },
+        {
+            "character": "Malick",
+            "line": "It'll cost me millions, to be sure. I'll have to shut down a few offices, but don't get too far ahead of yourself, Mr. Coulson. My influence reaches a little bit farther than that."
+        }
+    ]
+}

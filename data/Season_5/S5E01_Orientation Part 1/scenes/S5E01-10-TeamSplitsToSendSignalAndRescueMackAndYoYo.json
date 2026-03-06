@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "TeamSplitsToSendSignalAndRescueMackAndYoYo",
+    "description": "May and Simmons follow Deke's directions to a ship, aiming to use it to send a rescue signal to Fitz. Daisy decides to find and rescue Mack and Yo-Yo, who are still held captive. Coulson stays behind to interrogate Deke for more information about the Kree's intentions and the outpost, determined to uncover the team's true situation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "May, take Simmons. Get that spacecraft in the air. Send out the signal. Daisy and I will find Mack and Yo-Yo."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, no, wait. You stay here. What? I've got two good fighters down there once I get the restraints off. I'll be fine. We can't lose our leader again. We need answers."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want me to stay here and grill this guy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Find out where the hell and what the hell, sir."
+        },
+        {
+            "character": "Deke",
+            "line": "Good plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do the Kree want with us, Deke?"
+        },
+        {
+            "character": "Deke",
+            "line": "All they ever want, submission."
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 9,
+    "scene_name": "DaisyMackHunterStakeoutBanks",
+    "description": "Daisy, Mack, and Hunter surveil Banks, debating strategy and Hunter's impulsiveness. When Banks returns, Hunter impulsively ices him, much to Daisy and Mack's frustration. They decide to test Banks' blood for Inhuman markers to assess if he might be Lash, revealing the team's differing approaches to undercover work and morality.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "No one yet. Banks still not back."
+        },
+        {
+            "character": "Mack",
+            "line": "He wasn't back 37 seconds ago, either, but thanks for the regular updates."
+        },
+        {
+            "character": "Daisy",
+            "line": "This guy is bad news. Got discharged from the marines."
+        },
+        {
+            "character": "Mack",
+            "line": "With cause."
+        },
+        {
+            "character": "Daisy",
+            "line": "And Rosalind hired him anyway."
+        },
+        {
+            "character": "Mack",
+            "line": "He was part of an elite anti-alien task force after New York."
+        },
+        {
+            "character": "Daisy",
+            "line": "Of course he was."
+        },
+        {
+            "character": "Hunter",
+            "line": "So what's the plan when he gets back? Is this a grab-and-torture kind of deal? Chokehold might not work if he turns out to be Lash. But we could..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Whoa, whoa, whoa. Slow down, gitmo. I thought you just wanted to drive."
+        },
+        {
+            "character": "Hunter",
+            "line": "Just offering helpful suggestions."
+        },
+        {
+            "character": "Mack",
+            "line": "Helpful in what way, exactly?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Um... stopping bad guys?"
+        },
+        {
+            "character": "Mack",
+            "line": "How about professionalism? Doing your job smart, not getting people killed?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Hmm. Wild guess, this isn't about following Banks."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hunter, come on. Andrew almost died."
+        },
+        {
+            "character": "Hunter",
+            "line": "And there we have it. Look, it's not like I just handed over Andrew and said, “hey, please kill our friend.”"
+        },
+        {
+            "character": "Mack",
+            "line": "Right. “I had no choice.”"
+        },
+        {
+            "character": "Hunter",
+            "line": "I had no choice. I..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys, guys."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks like we're following him home. At a safe distance!"
+        },
+        {
+            "character": "Price",
+            "line": "Rosalind price, ATCU."
+        },
+        {
+            "character": "Officer",
+            "line": "Yes, ma'am. Sorry about the circumstances. We'll do our best to make sure we find whoever broke in here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Someone broke into your home?"
+        },
+        {
+            "character": "Price",
+            "line": "Any leads?"
+        },
+        {
+            "character": "Officer",
+            "line": "Not yet. Looks like the guy was scared away by your, uh... very impressive security system. All right if we take a look around?"
+        },
+        {
+            "character": "Price",
+            "line": "Of course. Not you. This way."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice place, huh? Can tell a lot about a woman from her books. Okay, I didn't actually know that there were this many biographies of Margaret Thatcher. New furniture. Brand new. Holy... Where did you get..."
+        },
+        {
+            "character": "Price",
+            "line": "Don't touch my things."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. Anything missing?"
+        },
+        {
+            "character": "Price",
+            "line": "You weren't listening in when I talked to the cop? You're slipping, Phil. I thought you'd definitely be scoping things out."
+        },
+        {
+            "character": "Hunter",
+            "line": "He's gonna go back inside when he finishes his call."
+        },
+        {
+            "character": "Mack",
+            "line": "What's our next move? He goes in his house, we're done for the day."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't want to give up on him yet."
+        },
+        {
+            "character": "Mack",
+            "line": "I could break into his car, drop a spot cam in his speedometer."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have to be stealthy. If he catches you, we're toast. Coulson is in the belly of the beast. We can't tip off the ATCU that we're on to them."
+        },
+        {
+            "character": "Mack",
+            "line": "There must be some way we can keep..."
+        },
+        {
+            "character": "Daisy",
+            "line": "What..."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Banks",
+            "line": "Hey!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Come on!"
+        },
+        {
+            "character": "Mack",
+            "line": "So much for stealthy."
+        },
+        {
+            "character": "Hunter",
+            "line": "Here we go."
+        },
+        {
+            "character": "Mack",
+            "line": "And this is a good idea how?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I didn't kill him, I-I just iced him."
+        },
+        {
+            "character": "Daisy",
+            "line": "And screwed Coulson. He's working Rosalind, and you just shot her number two. When she finds out..."
+        },
+        {
+            "character": "Hunter",
+            "line": "She won't. That's what the bandana's for. Lash is an Inhuman. Inhumans have markers in their DNA. If we test Banks' blood for markers, we'll know if he's Inhuman or not."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's actually kind of smart."
+        },
+        {
+            "character": "Hunter",
+            "line": "Thank you."
+        },
+        {
+            "character": "Daisy",
+            "line": "But I still think you need to talk about your anger issues."
+        },
+        {
+            "character": "Mack",
+            "line": "And this isn't the med lab. We don't have the equipment to draw banks' blood."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay."
+        },
+        {
+            "character": "Hunter",
+            "line": "There you go, blood. Okay, there might be a small anger issue."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just pass me the swab."
+        }
+    ]
+}

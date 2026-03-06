@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 18,
+    "scene_name": "FitzSimmonsDinnerProposal",
+    "description": "In a quiet moment at the Playground, Fitz awkwardly asks Simmons out to dinner, suggesting they move beyond their fraught history and start something new. Simmons, flustered but clearly affected, accepts, setting up their relationship for future developments. The tone is lighthearted but tinged with emotion, ending the episode on a softer note.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "No, I don't. You keep rambling on and on, and I still don't know what you mean."
+        },
+        {
+            "character": "Fitz",
+            "line": "Dinner."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fast approaching, yes, and we'll eat it, I'm sure."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no, no, no. But, uh, me and you... maybe we could eat somewhere else, you know, somewhere... nice."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good. Okay. Uh, well, y... uh, you should come find me when you're finished here, and... and I'll ... I'll start working on options to run by you... for that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ugh, what... Aah!"
+        }
+    ]
+}

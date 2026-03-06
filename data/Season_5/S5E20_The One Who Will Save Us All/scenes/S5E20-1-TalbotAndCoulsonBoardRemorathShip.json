@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 1,
+    "scene_name": "TalbotAndCoulsonBoardRemorathShip",
+    "description": "Talbot uses his gravitonium powers to take himself and Coulson onto the Remorath mothership. There, they are confronted by Qovas and his guards. Talbot quickly establishes his dominance, demanding the Remorath kneel to him, and demonstrates his new abilities, forcing a surrender. Coulson tries to keep Talbot's aggression in check, setting the stage for their negotiations.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "hale"
+    ],
+    "vibe": "intense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Uh, Glenn?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Chin up. Almost there."
+        },
+        {
+            "character": "Qovas",
+            "line": "Still no word from our forces below?"
+        },
+        {
+            "character": "Qovas",
+            "line": "Then ready the missiles."
+        },
+        {
+            "character": "Qovas",
+            "line": "A terran ship?"
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what's our play?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You and I are gonna show these ETs who's boss. Don't worry. I can fix this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I really wish you'd stop saying that."
+        }
+    ]
+}

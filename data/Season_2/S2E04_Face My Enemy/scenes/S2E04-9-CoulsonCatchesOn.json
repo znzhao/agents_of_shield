@@ -1,0 +1,41 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 9,
+    "scene_name": "CoulsonCatchesOn",
+    "description": "Coulson starts to notice off behavior from the imposter May, testing her by suggesting coffee—a suggestion the real May would decline. Realizing the ruse, Coulson attacks the deception, leading to a confrontation. The real May breaks free from Bakshi’s clutches and rushes to intervene, culminating in a dramatic showdown where May fights her duplicate while Coulson faces Bakshi.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "sunil_bakshi"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hopefully, this isn't some kind of trap Talbot's set for us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. It's been nice working together again, hasn't it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just you and me, like the old days."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know... all this nostalgic talk has me thinking... maybe this will sound weird, but how about when this is over, you and I finally go get that cup of coffee we were supposed to get all those years back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "May hates coffee."
+        },
+        {
+            "character": "Fitz",
+            "line": "See? So it's like a... a small disease."
+        }
+    ]
+}

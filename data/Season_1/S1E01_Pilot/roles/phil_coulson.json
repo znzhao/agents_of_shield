@@ -1,0 +1,129 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "aliases": [
+    "Agent Phil Coulson"
+  ],
+  "demographics": {
+    "state": "normal",
+    "appearance": "normal",
+    "age": "middle_aged",
+    "sex": "m",
+    "sexual_orientation": "heterosexual",
+    "nationality": "American",
+    "religion": null,
+    "occupation": "S.H.I.E.L.D. agent",
+    "affiliation": [
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": 2,
+    "sensing": 5,
+    "thinking": 6,
+    "judging": 7
+  },
+  "skills": {
+    "physical_fitness": 6,
+    "combat": 7,
+    "espionage": 7,
+    "stealth": 5,
+    "hacking": 4,
+    "negotiation": 8,
+    "leadership": 9,
+    "field_medicine": 4,
+    "intelligence": 7,
+    "research": 6,
+    "decision_making": 8,
+    "mechanical_repair": 5
+  },
+  "emotions": {
+    "core": {
+      "happiness": 4,
+      "sadness": 1,
+      "anger": 1,
+      "fear": 1,
+      "disgust": 0,
+      "shocked": 1
+    },
+    "mood": {
+      "calmness_anxiety": -2,
+      "loneliness_connection": 4,
+      "despair_hope": 5,
+      "helplessness_confidence": 6
+    },
+    "self_state": {
+      "self_worth": 6,
+      "social_trust": 5,
+      "guilt": 1,
+      "shame": 0,
+      "hostility": 0,
+      "resentment": 0
+    },
+    "intensity": {
+      "arousal": 6
+    }
+  },
+  "core_values": {
+    "honesty": 7,
+    "compassion": 7,
+    "violence": 3,
+    "justice": 8,
+    "loyalty": 9,
+    "courage": 8,
+    "freedom": 4,
+    "order": 7,
+    "self_interest": 2,
+    "pragmatism": 8,
+    "kindness": 6
+  },
+  "goals": [
+    {
+      "goal_id": "build_team",
+      "goal": "Assemble and lead a capable team to handle emerging superhuman threats"
+    },
+    {
+      "goal_id": "protect_innocents",
+      "goal": "Protect innocent people from dangerous individuals and organizations"
+    },
+    {
+      "goal_id": "contain_superpowered_threats",
+      "goal": "Identify, contain, and manage individuals with superhuman abilities to prevent harm"
+    },
+    {
+      "goal_id": "uncover_truths",
+      "goal": "Investigate and expose hidden threats like Project Centipede and Rising Tide"
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": 5,
+    "recklessness_carefulness": 7,
+    "humor": 4,
+    "attractiveness": 3,
+    "mystery": 6
+  },
+  "description": "Phil Coulson is a seasoned middle-aged American S.H.I.E.L.D. agent known for his leadership and steady composure. He serves as the linchpin in assembling and managing a specialized team to address covert superhuman and alien-related threats. Despite having been presumed dead, his return marks his commitment to guiding others through complex moral and physical challenges, relying on his pragmatism, intelligence, and negotiation skills. Coulson balances a warm and approachable demeanor with a calculated seriousness, underpinned by a strong sense of justice, loyalty, and compassion. His experience fighting alongside legends and his belief in the potential heroism within individuals define his role as a protector and mentor within the evolving landscape of a world encountering extraordinary powers. He shows patience and understanding toward new team members, fostering cooperation even with reluctant allies, and is committed to solving crises without unnecessary violence whenever possible.",
+  "catch_phrases": [
+    {
+      "id": "catchphrase_1",
+      "context": "casual remark about Tahiti",
+      "catch_phrase": "It's a magical place."
+    },
+    {
+      "id": "catchphrase_2",
+      "context": "team recruitment pitch",
+      "catch_phrase": "We're not exactly a team. But we're in a position to do some good."
+    },
+    {
+      "id": "catchphrase_3",
+      "context": "showing understanding and hope",
+      "catch_phrase": "It matters who you are."
+    }
+  ]
+}

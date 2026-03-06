@@ -1,0 +1,84 @@
+{
+    "season": 7,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "NathanielRecruitsGarrettAtSpeakeasy",
+    "description": "Nathaniel Malick meets John Garrett at Koenig's speakeasy, engaging him in a conversation that hints at Garrett's future. Nathaniel impresses Garrett with his knowledge of future events and offers him the temptation of a superpower. Their dynamic is tense, as Garrett is skeptical yet intrigued by Nathaniel's revelations and abilities.",
+    "roles": [
+        "nathaniel_malick",
+        "john_garrett"
+    ],
+    "vibe": "mysterious",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "You care for a challenge?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Sure. A good challenge makes life worth living."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Sounds like someone's a philosopher. That's pretty rare for a S.H.I.E.L.D. hangout."
+        },
+        {
+            "character": "Garrett",
+            "line": "I don't know about all that, but I am a damn good dart thrower. Fair warning. How about we add a little wager? Make it fun?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Oh, I'm not sure I want to lose all my money to the hottest recruit."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hmm?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Well, top test scores and an ace pilot. You know, I need a pilot on my team."
+        },
+        {
+            "character": "Garrett",
+            "line": "I appreciate you blowing smoke up my ass, but I don't think we've met."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "We haven't. But I know a lot about you. Like how your relationship with S.H.I.E.L.D. is headed for a very, very sad breakup."
+        },
+        {
+            "character": "Garrett",
+            "line": "What the hell are you talking about?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Seven years from now, in the Balkans, you get wounded real ugly, lying there with your guts out. You call for an extract, but they refuse. You survive, but you and S.H.I.E.L.D. are over with, and you fall right into the loving arms of Hydra."
+        },
+        {
+            "character": "Garrett",
+            "line": "Wow. The future. Why don't I call the psych ward and tell them you wandered off?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Damn. That's a neat trick."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Yeah, that's called a superpower. Would you like one?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Sweetheart. Two more beers on my tab."
+        },
+        {
+            "character": "Woman",
+            "line": "Okay."
+        },
+        {
+            "character": "Garrett",
+            "line": "Under the name John Garrett."
+        }
+    ]
+}

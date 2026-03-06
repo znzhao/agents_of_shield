@@ -1,0 +1,235 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 11,
+    "scene_name": "RadcliffeConfrontationOnOgygia",
+    "description": "On Dr. Radcliffe’s private island of Ogygia, Coulson, Simmons, and Ward confront Radcliffe at his estate. Simmons demands his cooperation to save their friends, but Radcliffe insists that there is no escape from the Framework. During their tense standoff, Ward notices Agnes in the distance, and Simmons learns about her fate and Radcliffe’s own death at Aida’s hands. Radcliffe reveals Aida's location and the existence of a drilling platform in the Baltic Sea, but laments that all exits have been shut, meaning they are now trapped in the Framework.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "holden_radcliffe",
+        "agnes_kitsworth"
+    ],
+    "vibe": "dramatic",
+    "location": "Ogygia (Dr. Holden Radcliffe's private island / Framework access site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Simple extraction. We grab him and go. Keep your eyes open."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll do the talking."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about me? What should I do?"
+        },
+        {
+            "character": "Ward",
+            "line": "Just try to not to get yourself killed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Consider it a precaution. A “break glass in case of emergency.”"
+        },
+        {
+            "character": "Ward",
+            "line": "Drop it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Hive? No. It can't be."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hello, again, traitor."
+        },
+        {
+            "character": "Coulson",
+            "line": "Surprise."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You shouldn't be here. None of you."
+        },
+        {
+            "character": "Ward",
+            "line": "Unh-unh. That's close enough, pal."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, but... No, you're not Hive at all. You're the one who came before. I never did meet him."
+        },
+        {
+            "character": "Simmons",
+            "line": "This is not a social visit."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, Jemma, if only you knew the trials and tribulations I've endured."
+        },
+        {
+            "character": "Simmons",
+            "line": "I am fresh out of sympathy for liars who kidnap my friends and replace them with killer androids."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't forget about implanting bogus memories and letting me think I'm off my gourd. Not cool, bro."
+        },
+        {
+            "character": "Ward",
+            "line": "Catch up later. We need to move."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's all become so very complicated. I never meant to hurt anyone."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right now, I don't give a damn about what you meant. You're going to help us find our friends and escape."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "My dear, I'm afraid there is no escape from this place."
+        },
+        {
+            "character": "Man",
+            "line": "Sector 7 clear. We'll be going on to the next floor."
+        },
+        {
+            "character": "Skye",
+            "line": "Going down?"
+        },
+        {
+            "character": "May",
+            "line": "There's no way out. It's over."
+        },
+        {
+            "character": "Man",
+            "line": "Don't move. Give me your hands. Get down."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This isn't the world I'd intended. Things have gone dreadfully wrong."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe not so much for you."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I promise you, this is a gilded cage. One can only drink so many mai tais, watch so many sunsets..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, stuff it. You're in early retirement while the rest of your world tears itself apart."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I assure you, my intentions were pure. The Framework was to be a paradise, a-a pleasant forever-after."
+        },
+        {
+            "character": "Ward",
+            "line": "All right, story time is over. You're coming with us."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm afraid that's not possible."
+        },
+        {
+            "character": "Ward",
+            "line": "That wasn't a request. Who is that?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No one. It's unimportant."
+        },
+        {
+            "character": "Ward",
+            "line": "You guys watch him. I'll go and get her."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, you can't drag her into this! It'll only confuse her. She doesn't remember the other world."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's Agnes."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Agnes was dying. In order to save her, I had to bring her consciousness into the Framework."
+        },
+        {
+            "character": "Simmons",
+            "line": "And her body?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Deceased, I'm afraid. We gave her a burial at sea. It was very emotional. The Framework is all Agnes has left."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay, what the hell is he talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "To be honest, he lost me there, too."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "As a matter of fact, she's not the only one in that particular boat. AIDA sort of killed me, as well."
+        },
+        {
+            "character": "Simmons",
+            "line": "What?! How did she go against her programming?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "She found a loophole. I mean, it was really rather clever. If I weren't dead already, I'd be impressed."
+        },
+        {
+            "character": "Ward",
+            "line": "We're getting that woman, and we're going. We can sort this out at H.Q."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I never wanted any of this to happen. I only wanted to do good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then actually do good. Tell me where AIDA is keeping our friends."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The Russian has a base under a drilling platform in the Baltic. Go and save them, and leave us in peace."
+        },
+        {
+            "character": "Coulson",
+            "line": "How do we get out? Did you build an exit back to the real world?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Of course I did, but I suspect AIDA's discovered it by now. You'll just have to go however you came in."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the problem. Ours isn't working."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, but that means... Oh, dear God. Then she knows you're here."
+        },
+        {
+            "character": "Ward",
+            "line": "Who?! Who?! Who is “she?”"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, my... Go! Hide! Hide! All of you!"
+        }
+    ]
+}

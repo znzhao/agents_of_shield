@@ -1,0 +1,139 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 9,
+    "scene_name": "MalickPetrovMeetingExplained",
+    "description": "Malick meets with Petrov and other Russian officials, discussing the establishment of an Inhuman sanctuary. The strategic conversation reveals Petrov's intent to use Malick's influence in response to political complications stemming from the Prime Minister's opposition. The existence and powers of General Androvich, an Inhuman, are divulged during the meeting.",
+    "roles": [
+        "gideon_malick"
+    ],
+    "vibe": "dramatic",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Just think what the United States did for the Native American populations. If we hadn't created the reservations, they would've been wiped out entirely."
+        },
+        {
+            "character": "Petrov",
+            "line": "Yes, and this is exactly what we wish to propose to the Kremlin, a kind of a reservation for Inhumans. Uh, let us gather, please. Mr. Malick, Gideon, on behalf of the Minister of Internal Affairs and the Minister of Emergency Situations, we all welcome you."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're up, sir."
+        },
+        {
+            "character": "Petrov",
+            "line": "And we would be very grateful for your assistance because I'm afraid our shared vision of sanctuary for these Inhumans is in jeopardy."
+        },
+        {
+            "character": "Malick",
+            "line": "How so?"
+        },
+        {
+            "character": "Petrov",
+            "line": "The Prime Minister recently sent his personal attaché, Yuri Krupin, to this site. The reason, to shut down this entire project immediately."
+        },
+        {
+            "character": "Malick",
+            "line": "The Prime Minister is against a sanctuary?"
+        },
+        {
+            "character": "Petrov",
+            "line": "Yes. Because his opposition supports it, namely, the Ministers you see before you."
+        },
+        {
+            "character": "Malick",
+            "line": "And where is Mr. Krupin now?"
+        },
+        {
+            "character": "Petrov",
+            "line": "He... He's dead. At the hands of General Androvich."
+        },
+        {
+            "character": "Coulson",
+            "line": "Minister of Defense, former KGB assassin."
+        },
+        {
+            "character": "Fitz",
+            "line": "And still at it, apparently. Yeah. At least that mystery's solved."
+        },
+        {
+            "character": "Malick",
+            "line": "The General always did have a temper. W-What... What set him off this time?"
+        },
+        {
+            "character": "Petrov",
+            "line": "He found, uh, the attaché's position on Inhumans offensive because the General himself is an Inhuman."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's the world's first Inhuman politician."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. One who happens to have access to nuclear launch codes."
+        },
+        {
+            "character": "Malick",
+            "line": "That does complicate matters, doesn't it?"
+        },
+        {
+            "character": "Petrov",
+            "line": "We know you have a history with the Prime Minister, so we were hoping that..."
+        },
+        {
+            "character": "Malick",
+            "line": "You were hoping that I could help you smooth over this little incident so that our dream of a sanctuary wouldn't die here today."
+        },
+        {
+            "character": "Petrov",
+            "line": "Can you help us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The son of a bitch is loving this. He's got them right in the palm of his hand."
+        },
+        {
+            "character": "Malick",
+            "line": "Where is the General now?"
+        },
+        {
+            "character": "Petrov",
+            "line": "He's, uh, on site, in restraints."
+        },
+        {
+            "character": "Hunter",
+            "line": "Must be the Inhuman Bob and I saw."
+        },
+        {
+            "character": "Malick",
+            "line": "I can help you. But not... not because I'm a fan of powered individuals working for Mother Russia. Truth is, this is bigger than any single country's fate. We are at a tipping point, where humanity is going to make some difficult choices about the preservation of our very existence, and these Inhumans... these Inhumans are the key to our survival. And we must ally with them, build a home for them, a sanctuary, like you're doing here. But they will need a leader, and unfortunately, for all of us, your Prime Minister is not that leader."
+        },
+        {
+            "character": "Coulson",
+            "line": "But I bet Malick knows who is."
+        },
+        {
+            "character": "Petrov",
+            "line": "What do you suggest we do?"
+        },
+        {
+            "character": "Malick",
+            "line": "Well, I... I think the solution is obvious. I mean, why keep a man in restraints when he can single-handedly eliminate the problem for us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't about a sanctuary."
+        },
+        {
+            "character": "Malick",
+            "line": "It is time that we let the General loose."
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick's staging a coup."
+        }
+    ]
+}

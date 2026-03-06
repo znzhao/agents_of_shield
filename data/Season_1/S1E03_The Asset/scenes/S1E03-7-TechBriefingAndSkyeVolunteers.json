@@ -1,0 +1,180 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 7,
+    "scene_name": "TechBriefingAndSkyeVolunteers",
+    "description": "The S.H.I.E.L.D. team debates options for infiltrating Quinn's compound, complicated by diplomatic immunity and deadly laser fencing. Fitz whimsically suggests sending a monkey. Skye volunteers to attend with her hacked invitation, arguing she isn't an agent and thus not subject to the same risks or international policies. After debate, Coulson tentatively agrees, with Ward uneasy about Skye's lack of training.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "skye",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "The man's a prisoner, and it's up to us to get him out."
+        },
+        {
+            "character": "Ward",
+            "line": "We've checked the specs. There's no way into Quinn's compound without a large S.H.I.E.L.D. strike force or a man inside. He's got neodymium laser fencing surrounding the property."
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll never allow a strike force into Malta. Plus, this weekend, Quinn worldwide's got its annual shareholders gathering. We'd risk global outrage, but..."
+        },
+        {
+            "character": "May",
+            "line": "If we go in alone..."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. can disavow us, claim ignorance."
+        },
+        {
+            "character": "May",
+            "line": "Without a man inside, it's impossible, unless you're immune to pulse laser emissions."
+        },
+        {
+            "character": "Fitz",
+            "line": "If we had a monkey, we could get in."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ugh, Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "If we had a small monkey, he could slip through the sensors and disable the fence's power source with his adorable little hands."
+        },
+        {
+            "character": "Skye",
+            "line": "I could go in."
+        },
+        {
+            "character": "Ward",
+            "line": "Drop me in the hills outside of Valletta. I'll spend a few weeks establishing a cover, gathering intel..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hall doesn't have a few weeks."
+        },
+        {
+            "character": "Simmons",
+            "line": "And to restate, any Agent of S.H.I.E.L.D. caught on Maltese soil can be shot to death with bullets..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "... legally."
+        },
+        {
+            "character": "Skye",
+            "line": "Not me. I could go in."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, this is serious."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait. What are you saying?"
+        },
+        {
+            "character": "Skye",
+            "line": "Well, I'm not an Agent of S.H.I.E.L.D., so I can go in without breaking all these stupid rules."
+        },
+        {
+            "character": "Simmons",
+            "line": "International laws."
+        },
+        {
+            "character": "Ward",
+            "line": "This isn't something the Rising Tide can hack, Skye."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did you hear the deadly lasers part? Without a brave monkey..."
+        },
+        {
+            "character": "Skye",
+            "line": "You said you could go in with a man inside."
+        },
+        {
+            "character": "May",
+            "line": "And you want to be that man?"
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz-Simmons loved the guy, and he needs help. They could be torturing him, or worse, making him do strength-training."
+        },
+        {
+            "character": "Ward",
+            "line": "But you don't have the background or clearance or experience with any of this."
+        },
+        {
+            "character": "Skye",
+            "line": "I know. But I've got an invitation. Well, technically, it's an e-vite."
+        },
+        {
+            "character": "Coulson",
+            "line": "I understand your concern, but we don't have a lot of options."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey, I'm impressed. She just wrangled an invitation on her phone using insider back-channel voodoo in minutes. But sending her in with no training, you're taking a huge risk. I know Director Fury felt he owed you after you sacrificed yourself."
+        },
+        {
+            "character": "Coulson",
+            "line": "And my card collection."
+        },
+        {
+            "character": "Ward",
+            "line": "He gave you some autonomy, but Skye on a covert op?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you worried about her safety or her loyalty?"
+        },
+        {
+            "character": "Ward",
+            "line": "Both. The Rising Tide is the reason she got an invite. Who knows how many protocols she violated?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's her job ... ignore protocol, find connections and back doors that nobody else can see. Something else is bothering you."
+        },
+        {
+            "character": "Ward",
+            "line": "She's holding back, sir. She says she wants to be an Agent, but she won't commit. She doesn't listen, makes jokes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Were you hard on her?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sure. I tried playing nice, too. I need a new strategy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Try no strategy. Stop thinking like an operative, start thinking like a person. Maybe Skye will let that person help her."
+        },
+        {
+            "character": "Ward",
+            "line": "Help her what?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Help her think like an operative."
+        }
+    ]
+}

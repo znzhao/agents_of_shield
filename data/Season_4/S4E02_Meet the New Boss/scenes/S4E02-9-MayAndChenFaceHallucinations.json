@@ -1,0 +1,100 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 9,
+    "scene_name": "MayAndChenFaceHallucinations",
+    "description": "At the Playground, May visits Chen who is suffering from hallucinations similar to her own. As they discuss their paranoia and visions, Chen has a meltdown and becomes violent. Simmons intervenes and manages to sedate him, raising further concerns about May’s condition.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons"
+    ],
+    "vibe": "dark",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Piper. Get the squad ready. Training in 10."
+        },
+        {
+            "character": "Piper",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "May",
+            "line": "“Ma'am?”"
+        },
+        {
+            "character": "Piper",
+            "line": "Is there a different title you'd prefer? Commander? Sir?"
+        },
+        {
+            "character": "May",
+            "line": "Let's just stick to “May.”"
+        },
+        {
+            "character": "Piper",
+            "line": "I can do May. I can do that, May."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Carter herself didn't know it all. Oh, but this guy? This guy's our real expert. He actually does know it all."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know some SSR history. It's not a big deal."
+        },
+        {
+            "character": "Mace",
+            "line": "No, no, no, no. He's being modest. Not only does he keep this place running, I bet he could tell us the exact year it was built."
+        },
+        {
+            "character": "Coulson",
+            "line": "1949."
+        },
+        {
+            "character": "Mace",
+            "line": "Told you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, one interesting fact... Peggy Carter herself oversaw construction of this base. Most people know the legend of Peggy Carter, but there's so many stories that were never recorded. I remember one time..."
+        },
+        {
+            "character": "May",
+            "line": "You're seeing their faces, aren't you?"
+        },
+        {
+            "character": "Chen",
+            "line": "Everyone else... what's wrong with them? Why don't they see it?"
+        },
+        {
+            "character": "May",
+            "line": "I do. How do I help them?"
+        },
+        {
+            "character": "Chen",
+            "line": "You can't. It's everywhere."
+        },
+        {
+            "character": "May",
+            "line": "There has to be a way for me to..."
+        },
+        {
+            "character": "Chen",
+            "line": "It's everywhere! It's everywhere! Everywhere! Everywhere! [thuding] Everywhere! Everywhere! Everywhere!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What the hell is happening?"
+        },
+        {
+            "character": "Chen",
+            "line": "Everywhere! Everywhere! Everywhere! Everywhere! Everywhere! Everywhere! Everywhere! Everywhere!"
+        },
+        {
+            "character": "Simmons",
+            "line": "He'll nap for an hour. May, what happened? Did you say something that made him...?"
+        }
+    ]
+}

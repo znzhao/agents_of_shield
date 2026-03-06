@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 15,
+    "scene_name": "AIDARestoresIvanovLMD",
+    "description": "On the submarine, Aida oversees Ivanov awakening in his LMD body. Ivanov struggles with his new existence, but Aida reveals he is controlling the body remotely and encourages him to help protect the Framework. This scene finalizes Ivanov's transformation and Aida's current plans.",
+    "roles": [
+        "aida",
+        "anton_ivanov"
+    ],
+    "vibe": "dark",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "See? Good as new. And stronger, it seems."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I know what you did. You stole my mind and uploaded it to a filthy machine. I told you not to mess with my mind."
+        },
+        {
+            "character": "AIDA",
+            "line": "I assure you, your mind is alive and well inside your head. Untouched. This body is mechanical, yes."
+        },
+        {
+            "character": "Ivanov",
+            "line": "What?"
+        },
+        {
+            "character": "AIDA",
+            "line": "You're controlling it remotely. Some reading, if you're interested. I need you walking around, able to continue protecting the Framework. A perfect machine, controlled with a mind endowed with the ability to feel love, anger, wonder, joy."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Joy? When?"
+        },
+        {
+            "character": "AIDA",
+            "line": "When I am able to feel those things myself."
+        }
+    ]
+}

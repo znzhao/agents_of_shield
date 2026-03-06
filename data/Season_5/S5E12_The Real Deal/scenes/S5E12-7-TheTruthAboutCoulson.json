@@ -1,0 +1,96 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "TheTruthAboutCoulson",
+    "description": "Simmons delivers the devastating truth about Coulson’s deteriorating condition to the team, confirming that his body is succumbing to necrotic tissue from his prior injury. Coulson admits he knew he was dying since the deal with Ghost Rider and apologizes for hiding it. Daisy is hurt, feeling betrayed by his secrecy, while May and Mack process the grim news.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's not good. The MRI shows necrotic tissue branching out from the scarred areas surrounding Coulson's life-threatening... life-ending injury to his heart and left lung. Which is why you lost your breath, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "So it's an... an infection?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it isn't caused by infection. It isn't caused by anything I've ever seen. It's tissue that appears to have been dead for several years."
+        },
+        {
+            "character": "Mack",
+            "line": "What can we do? Can we cure this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The tissue is already dead. There is no cure for that. At least, not anymore. I can only surmise that it's progressing at a rapid rate."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, what does that... what... what are you..."
+        },
+        {
+            "character": "May",
+            "line": "He's dying. You've known since Ghost Rider, haven't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't know how to tell you and I didn't think I should."
+        },
+        {
+            "character": "May",
+            "line": "That's the deal you made?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Whatever alien voodoo was holding me together, Ghost Rider burned through it. That was the price."
+        },
+        {
+            "character": "Mack",
+            "line": "So, what, he gets to burn longer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, but my clock ticks faster, and we get to fight another day."
+        },
+        {
+            "character": "Daisy",
+            "line": "How could you keep this from us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. I didn't want you ‭trying to find a solution when we had bigger problem."
+        },
+        {
+            "character": "Daisy",
+            "line": "We had a solution. Tess was brought back from the dead. We had a solution right there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't want ‭to go through all that again."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you just give up? You don't get to do that. You make life-and-death decisions for us all the time, and we're not allowed the same courtesy? After everything? We deserved to... We deserved to know."
+        },
+        {
+            "character": "Mack",
+            "line": "How much more time does he have on his clock?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, I won't be able to tell until I can chart its progression, but even now, he's at risk of various... At some point, sir, your heart will just stop beating."
+        }
+    ]
+}

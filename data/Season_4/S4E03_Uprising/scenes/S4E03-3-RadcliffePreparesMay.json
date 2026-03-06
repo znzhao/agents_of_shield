@@ -1,0 +1,22 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 3,
+    "scene_name": "RadcliffePreparesMay",
+    "description": "In Dr. Radcliffe's lab, Radcliffe and Aida discuss preparations for May's arrival. Radcliffe expresses his concern for May and, in order to keep Aida's true nature secret from S.H.I.E.L.D., puts her to sleep just before Simmons and May arrive. Simmons and Radcliffe then examine May, diagnosing her dire condition and realizing they have little time left to formulate a plan.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "suspenseful",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "Plug the F1 EEG cables and the ISO-GND cables into the mini-M.E.G. and initiate the CBR sequence. Quickly. AIDA!"
+        }
+    ]
+}

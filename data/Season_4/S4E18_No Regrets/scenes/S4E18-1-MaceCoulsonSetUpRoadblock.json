@@ -1,0 +1,116 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 1,
+    "scene_name": "MaceCoulsonSetUpRoadblock",
+    "description": "Mace and Coulson set up a fake roadblock to intercept a Hydra prison bus, discussing strategy and the risks involved. Their dialogue reveals Mace's real motivation: he wants to rescue a specific S.H.I.E.L.D. operative, not just Skye. The scene also highlights the tension about trusting Simmons and the broader uncertainty within the team.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "I don't know. You think this sells it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Honestly? Feels a little fake."
+        },
+        {
+            "character": "Mace",
+            "line": "You're right. It looks staged. Needs a little something."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was thinking busted headlight."
+        },
+        {
+            "character": "Mace",
+            "line": "You know, I admire you for volunteering for this, Coulson. We need all the fresh faces we can get for undercover work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, yeah, I could do an accent or another language, maybe. My Spanish is mucho bueno."
+        },
+        {
+            "character": "Mace",
+            "line": "Just act natural. Just get them to stop the bus and open up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hopefully, Skye's on board."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, she might be if she's been assigned to reeducation at one of Hydra's prison camps. But rescuing Skye is not the mission. There's another prisoner I want to find."
+        },
+        {
+            "character": "Coulson",
+            "line": "Does Ward know that?"
+        },
+        {
+            "character": "Mace",
+            "line": "Yeah. He didn't take it well. His head hasn't been in the game since the Doctor shot that woman."
+        },
+        {
+            "character": "Coulson",
+            "line": "To be fair, that was rough to watch for all of us."
+        },
+        {
+            "character": "Mace",
+            "line": "That, uh, Jemma Simmons. How well do you know her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well enough to know she's on our side."
+        },
+        {
+            "character": "Mace",
+            "line": "You know, she claims that the Doctor isn't evil, that he's been brainwashed. Do you buy that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I've heard crazier things."
+        },
+        {
+            "character": "Mace",
+            "line": "Hmm. Well, crazy or not, I want to know what else she's hiding."
+        },
+        {
+            "character": "Burrows",
+            "line": "Squid-mobile coming your way."
+        },
+        {
+            "character": "Mace",
+            "line": "Here we go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey! Hey! There's someone trapped in the car! I need help!"
+        },
+        {
+            "character": "Man",
+            "line": "Hands on your head. Down on knee, or you'll be shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, I'm sorry. I didn't see the car, I swear. I think she was drunk or something. She swerved right into me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Little heads-up would be nice. Skye?"
+        },
+        {
+            "character": "Mace",
+            "line": "I hope not."
+        },
+        {
+            "character": "Doctor",
+            "line": "Thank you, gentlemen."
+        }
+    ]
+}

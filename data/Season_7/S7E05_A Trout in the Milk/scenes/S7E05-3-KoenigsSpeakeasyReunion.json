@@ -1,0 +1,150 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 3,
+    "scene_name": "KoenigsSpeakeasyReunion",
+    "description": "The team enters Koenig's speakeasy hoping to find Enoch, only to discover that no one there has seen him in a long time. They observe General Stoner, now top brass at S.H.I.E.L.D., hosting a lavish party, celebrating the launch of Project Insight years ahead of its timeline. Coulson and Sousa recognize HYDRA's influence and discuss the timeline being altered due to the Chronicoms’ interference.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sousa"
+    ],
+    "vibe": "mysterious",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Ohh. Okay. Glad you're enjoying yourself. Any word on Enoch"
+        },
+        {
+            "character": "May",
+            "line": "Oh, uh, negative. Um, you know, I'm worried that it's more serious than we think. Also, I might be drunk."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I think you might have discovered a new form of Contact High."
+        },
+        {
+            "character": "May",
+            "line": "Hmm."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're all three sheets to the wind."
+        },
+        {
+            "character": "May",
+            "line": "I'm at least one sheet to the wind. Give me a moment. I talked to the staff, and, uh, they haven't seen Enoch in at least... over a year. I'm better now."
+        },
+        {
+            "character": "Sousa",
+            "line": "Good to know S.H.I.E.L.D. is going strong. Just wish I knew what they were celebrating."
+        },
+        {
+            "character": "Coulson",
+            "line": "Whatever it is, it seems to be centered on him."
+        },
+        {
+            "character": "Sousa",
+            "line": "No. Is that... Little Ricky?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If by Little Ricky you mean General Rick Stoner, then yes. He's top brass at S.H.I.E.L.D. You knew him?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Yeah. I remember when he was an enlistee. Poor kid couldn't tell a mag from a clip."
+        },
+        {
+            "character": "Stoner",
+            "line": "Alright, thank you. Thank you for coming. Ladies and gentlemen, I would like to thank all of you for being here today. I know that you are all excited to, uh, kick off S.H.I.E.L.D.'s next phase in global security. So please welcome the man responsible, my boss and our friend, Wilfred Malick."
+        },
+        {
+            "character": "May",
+            "line": "Freddy's still alive."
+        },
+        {
+            "character": "Freddy",
+            "line": "Thanks, General. So good to be here. I got my start working in this gin joint, long before it was a S.H.I.E.L.D. asset. Look how far we've come. From hiding underground, keeping vigilant watch, to having eyes in the sky, ensuring the Earth's safety. Using targeting satellites and pinpoint laser telemetry, S.H.I.E.L.D. will now be able to neutralize hostiles anywhere in the world before they pose a threat."
+        },
+        {
+            "character": "Sousa",
+            "line": "This sound familiar to you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Sounds like Hydra's years ahead of schedule"
+        },
+        {
+            "character": "Freddy",
+            "line": "I present to you... Project Insight."
+        },
+        {
+            "character": "Sousa",
+            "line": "So, these folks are secretly squids."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, just a few at the top are Hydra. Most are loyal S.H.I.E.L.D., like Stoner."
+        },
+        {
+            "character": "Sousa",
+            "line": "Seems to me the joint is still pretty jazzed about Insight."
+        },
+        {
+            "character": "Coulson",
+            "line": "They think it'll keep the world safe. Nobody figures it's a Hydra plot. Same happened in my time."
+        },
+        {
+            "character": "Sousa",
+            "line": "So the past is doomed to repeat the present. Any idea how Hydra got Insight so early?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I got a feeling it's the Chronicoms."
+        },
+        {
+            "character": "Sousa",
+            "line": "You sure, or is that just a trout in the milk? Trout in the milk. Is that... Must be old-timey speak."
+        },
+        {
+            "character": "Coulson",
+            "line": "We call it circumstantial evidence, so yes, but I like it. The Chronicoms told me if I didn't take their deal, they'd alter the timeline. Keeping Malick alive past 1970 must be the first thread."
+        },
+        {
+            "character": "Sousa",
+            "line": "You're saying the timeline is already broken. So I died for nothing."
+        },
+        {
+            "character": "Coulson",
+            "line": "You look alive to me."
+        },
+        {
+            "character": "Sousa",
+            "line": "But maybe you should've left me. I could've stopped Hydra back then."
+        },
+        {
+            "character": "Coulson",
+            "line": "No telling how that would've played out, especially with the Chronicoms involved."
+        },
+        {
+            "character": "Sousa",
+            "line": "Looks like we have some work to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's make the rounds, get some intel on Project Insight. Keep an eye out for Enoch. Oh, and one more thing. Keep a low profile. You're kind of famous among S.H.I.E.L.D. agents. You get made, the jig is up."
+        },
+        {
+            "character": "Sousa",
+            "line": "Got it. I'll stay off the radar. Is that a thing? Off the radar?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We still have that."
+        }
+    ]
+}

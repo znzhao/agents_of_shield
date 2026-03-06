@@ -1,0 +1,261 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 7,
+    "scene_name": "TalbotTransferredToHydraFacility",
+    "description": "Six months ago, a brain-damaged General Talbot is moved to the Hydra facility under Hale's supervision. His confused interactions with Ruby and Hale highlight his deteriorated state and the manipulative environment he's entered. Hale tries to persuade Talbot to work with her, citing humanity’s coming crisis, but Talbot resists, recognizing her Hydra allegiance. Ruby and robotic mechs are used to intimidate him, foreshadowing his forthcoming torture.",
+    "roles": [
+        "hale",
+        "ruby",
+        "glenn_talbot"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ford",
+            "line": "General Talbot. Your family's here to see you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Okay, not a train, because the last one was a train. Choo-choo. Choo-choo train. Right? Um... Strawberry? It's not a strawberry. It's a cat."
+        },
+        {
+            "character": "George",
+            "line": "Nice job, Dad. You're on a roll."
+        },
+        {
+            "character": "Talbot",
+            "line": "Okay, we can do this because I got a mind like a steel trap."
+        },
+        {
+            "character": "George",
+            "line": "Hm-mm."
+        },
+        {
+            "character": "Talbot",
+            "line": "We can get through this. All right, so the last one's a train..."
+        },
+        {
+            "character": "Carla",
+            "line": "Wait, I don't understand. He was getting better and now you want to transfer him somewhere..."
+        },
+        {
+            "character": "Hale",
+            "line": "More comprehensive."
+        },
+        {
+            "character": "Carla",
+            "line": "But he's getting better. He's calm."
+        },
+        {
+            "character": "Ford",
+            "line": "Today's a good day, Mrs Talbot. But the damage to his frontal lobe is severe. It's gonna take a lot more time to retrain his brain to control his impulses and think clearly."
+        },
+        {
+            "character": "Talbot",
+            "line": "No! No. That's not a friggin' cat! That's not a cat!"
+        },
+        {
+            "character": "Carla",
+            "line": "Glenn, honey."
+        },
+        {
+            "character": "George",
+            "line": "Mom."
+        },
+        {
+            "character": "Carla",
+            "line": "Honey, everything's okay. George is just trying to help."
+        },
+        {
+            "character": "Talbot",
+            "line": "No. He showed me this... this... this tiger. I said it was a cat and he said I was right, but I'm not right. I'm wrong. How am I gonna get better if nobody is honest with me!"
+        },
+        {
+            "character": "Ford",
+            "line": "Sir, take a moment and breathe."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, you take a moment! Stop it! Stop pumping me full of that junk. You..."
+        },
+        {
+            "character": "George",
+            "line": "Mom!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Let me..."
+        },
+        {
+            "character": "Hale",
+            "line": "I promise we'll take very good care of him."
+        },
+        {
+            "character": "Talbot",
+            "line": "What in the Sam hell? Hello? Hello? Stomach is so hungry, it's about to digest itself. Hmm. Oh. I still outrank you. I don't know you. Hi! You wanna tell me... what we're doing in this God-forsaken place? Hey! Don't you walk away from me, young lady! Hey! I don't appreciate being ignored. You answer me! You answer me, or I will rip those sorry little headphones from your sorry little... Oh!"
+        },
+        {
+            "character": "Hale",
+            "line": "I see you've met my daughter, Ruby."
+        },
+        {
+            "character": "Talbot",
+            "line": "CrossFit Tinkerbell is your daughter? I've known you 20 years, you never once mentioned having a child."
+        },
+        {
+            "character": "Hale",
+            "line": "I never felt it was anything you should be concerned with."
+        },
+        {
+            "character": "Talbot",
+            "line": "General Hale, where the hell am I?"
+        },
+        {
+            "character": "Hale",
+            "line": "All in due time."
+        },
+        {
+            "character": "Talbot",
+            "line": "You don't speak to your commanding officer like that. You don't speak to a superior... You don't speak to a superior officer like that and as such, I'm ordering you to tell me exactly what's going on, because I am not gonna put up with one more second of this..."
+        },
+        {
+            "character": "Hale",
+            "line": "Your Air Force career is over. Your family is afraid of you and your lack of impulse control is a threat to yourself and others."
+        },
+        {
+            "character": "Talbot",
+            "line": "Why are you telling me this?"
+        },
+        {
+            "character": "Hale",
+            "line": "Because there was a time in my life when I felt like everything was out of control and I needed a new purpose. And I see you going through the same ordeal. I think you and I can help each other."
+        },
+        {
+            "character": "Talbot",
+            "line": "How?"
+        },
+        {
+            "character": "Hale",
+            "line": "Let me show you what I'm working on."
+        },
+        {
+            "character": "Talbot",
+            "line": "I don't know what the hell this is? I don't think she knows what the hell this is. What the hell is this thing? What the... What is this thing? What is this contraption?"
+        },
+        {
+            "character": "Hale",
+            "line": "To be honest, I have no idea. They use it to move ships through the galaxies."
+        },
+        {
+            "character": "Talbot",
+            "line": "Galaxies? You're suggesting..."
+        },
+        {
+            "character": "Hale",
+            "line": "Just let me explain. After New York, my predecessors made contact with life beyond this solar system. They gave us this to travel to the stars and meet with them. Face to face. I learned my predecessors hadn't just made contact. They had struck a deal for protection."
+        },
+        {
+            "character": "Talbot",
+            "line": "From what?"
+        },
+        {
+            "character": "Hale",
+            "line": "The war coming to Earth. It's only a matter of time before it reaches us."
+        },
+        {
+            "character": "Talbot",
+            "line": "Mm. This one's nuttier than a Butterfinger. Reaches us... What, war? Why didn't this make it up through the chain of command? How come it didn't get to me?"
+        },
+        {
+            "character": "Hale",
+            "line": "It's not Air Force, Glenn."
+        },
+        {
+            "character": "Talbot",
+            "line": "Then, how did you get a project?"
+        },
+        {
+            "character": "Hale",
+            "line": "From General Fischer. The day that he killed himself."
+        },
+        {
+            "character": "Talbot",
+            "line": "What flag do you fly, General Hale?"
+        },
+        {
+            "character": "Hale",
+            "line": "I think that's irrelevant when you're fighting a common enemy."
+        },
+        {
+            "character": "Talbot",
+            "line": "What flag do you fly?"
+        },
+        {
+            "character": "Hale",
+            "line": "Does it matter?"
+        },
+        {
+            "character": "Talbot",
+            "line": "If you choose those squid billies, it matters."
+        },
+        {
+            "character": "Hale",
+            "line": "I didn't choose HYDRA. I was born into it. Just like you were born and raised and indoctrinated under the stars and stripes."
+        },
+        {
+            "character": "Talbot",
+            "line": "Indoctrinated? No. I wasn't. I am not some wing nut and I stand by my red, white and blue."
+        },
+        {
+            "character": "Hale",
+            "line": "No. You stand by a country founded on oppression. You stand by an eagle on a shield. Even after you saw Daisy Johnson shoot you in the head point blank."
+        },
+        {
+            "character": "Talbot",
+            "line": "That wasn't Daisy! I know you think I've lost my onions, but I've got a feeling it was one of Anton Ivanov's tin cans. Am I wrong?"
+        },
+        {
+            "character": "Hale",
+            "line": "No. You're right. That was an LMD, but it was created by S.H.I.E.L.D. and it was used on you. Don't you see these symbols are irrelevant. We are humans fighting for our survival. We need every weapon we can get in this fight, which is why I need you."
+        },
+        {
+            "character": "Talbot",
+            "line": "You filthy calamari Mata Hari. Weapon? What kind of a weapon exactly?"
+        },
+        {
+            "character": "Hale",
+            "line": "It's an old HYDRA device."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm starting to understand why I might be here but you're not gonna get it from me because I have a mind like a steel trap. That's right. I'm the one that hid the Hydra contraband and you wanna know something else? I'm not talking."
+        },
+        {
+            "character": "Hale",
+            "line": "You gotta let go of these old symbols. You need to let go of the old Talbot. I am giving you new purpose. Help me save humanity."
+        },
+        {
+            "character": "Talbot",
+            "line": "I would rather die on my two legs than slither on eight with you."
+        },
+        {
+            "character": "Ruby",
+            "line": "Actually, squids don't have legs. They have tentacles. They're cephalopods."
+        },
+        {
+            "character": "Talbot",
+            "line": "Let me out of here or I swear I will bust your kraken ass!"
+        },
+        {
+            "character": "Hale",
+            "line": "Let's try this conversation again when you're feeling more reasonable."
+        },
+        {
+            "character": "Talbot",
+            "line": "You can't do this! Let me out! I'll never talk! You'll never break me! S.H.I.E.L.D.'s coming through that door any day now! You just wait and see. Phil Coulson is coming for me!"
+        }
+    ]
+}

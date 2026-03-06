@@ -1,0 +1,302 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 3,
+    "scene_name": "LieDetectorOrdeal",
+    "description": "Koenig administers a highly advanced lie detector test to the team, probing their motives and histories. The agents answer a variety of questions, revealing deep-seated personal truths and fears. Ward is nearly exposed as a Hydra operative but manages to pass by claiming his true reason for being at the base is Skye.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "antoine_triplett",
+        "eric_koenig"
+    ],
+    "vibe": "suspenseful",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Eric Koenig",
+            "line": "No, you're not. Absolutely not. You can't leave. There are protocols."
+        },
+        {
+            "character": "Coulson",
+            "line": "Since the entire agency's pretty much collapsed, maybe now's not the time to stand on protocol."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Okay, fine. Then forget protocols. What part of “secret base” don't you get? Fury said to let you in, and you show up with a bunch of people?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agents!"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Whatever. The point is, they know where this place is now, and I don't know them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hydra just released the entire population of the Fridge into the wild. There's gonna be violence. People will die. And I still consider it my duty to be the shield that protects them."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Moving speech, truly. But nobody leaves until they go through orientation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Orientation?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "All right. Just gonna need you guys to answer a few questions, a few psychoanalytic, non sequitur questions."
+        },
+        {
+            "character": "Coulson",
+            "line": "A lie detector."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "The lie detector, Agent Coulson. This baby measures galvanic skin response, oxygen consumption, micro-expressions, biofeedback brain waves, pupil dilation, voice biometrics... 96 variables in all. Fury designed this himself. He wanted a lie detector Romanoff couldn't beat."
+        },
+        {
+            "character": "Ward",
+            "line": "Did she?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Like Fury would tell!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Sooner we get this done, sooner we can get to work. So who wants to go first?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "We're gonna start with some easy questions and establish a baseline. Can I have your full name?"
+        },
+        {
+            "character": "May",
+            "line": "Melinda Qiaolian May."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Eye color?"
+        },
+        {
+            "character": "May",
+            "line": "Brown."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "You ever been married?"
+        },
+        {
+            "character": "May",
+            "line": "Once."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Have you ever been married?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Please list your immediate family."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just me and my mum."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "So you're not gonna mention your grandfather?"
+        },
+        {
+            "character": "Triplett",
+            "line": "It's not something I advertise. Didn't want to be treated any different because I'm a legacy."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "If I was the grandson of a Howling Commando, I'd have that tattooed on my chest."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "What is your first name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Skye."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "And what is your last name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Only name. No family. No family name to inherit."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "And you gave yourself the name Skye?"
+        },
+        {
+            "character": "Skye",
+            "line": "Well, the name they gave me at the orphanage was Mary Sue Poots, so..."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "When we were kids, my brother and I used to give each other nicknames. He called me “lightning foot.”"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "What's the difference between an egg and a rock?"
+        },
+        {
+            "character": "May",
+            "line": "Edible. Not."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's absurd. The differences are..."
+        },
+        {
+            "character": "Simmons",
+            "line": "... innumerable. If you want, I can start listing them, but then..."
+        },
+        {
+            "character": "Fitz",
+            "line": "... we'll be here all day."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Have you ever heard of project Insight?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Ever had any contact with Alexander Pierce?"
+        },
+        {
+            "character": "May",
+            "line": "I've met him. We shook hands."
+        },
+        {
+            "character": "Triplett",
+            "line": "Garrett would get a call from him once in a while, said they had mutual friends."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "You wash up on a deserted island alone. Sitting on the sand is a box. What is in that box?"
+        },
+        {
+            "character": "May",
+            "line": "Machete."
+        },
+        {
+            "character": "Triplett",
+            "line": "A sat phone so I can call someone to get me off that island."
+        },
+        {
+            "character": "Fitz",
+            "line": "How big is the box?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Just say the first answer that comes into your mind. What's in that box?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's a hard one. Let me think. The tardis."
+        },
+        {
+            "character": "Skye",
+            "line": "I want to say my laptop, fully charged. But I don't want to seem subversive with the Rising Tide and all..."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "You're over-thinking it."
+        },
+        {
+            "character": "Skye",
+            "line": "The laptop would be stupid, anyway. There's no wi-fi."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "S.H.I.E.L.D. no longer exists. The agency has been labeled a terrorist organization. So why are you here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly... I'm not entirely sure."
+        },
+        {
+            "character": "Fitz",
+            "line": "We have to stick together, keep the people we trust close-by. No one else, really."
+        },
+        {
+            "character": "Triplett",
+            "line": "My grandfather fought Hydra back in the day. The good guys won then. We'll do it again."
+        },
+        {
+            "character": "May",
+            "line": "Coulson."
+        },
+        {
+            "character": "Skye",
+            "line": "It's the only home I've ever known."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Congratulations, Agent Skye. Let's go get you a lanyard."
+        },
+        {
+            "character": "Skye",
+            "line": "Got my backstage pass."
+        },
+        {
+            "character": "Ward",
+            "line": "Piece of cake?"
+        },
+        {
+            "character": "Skye",
+            "line": "If you don't mind talking about yourself. So you'll hate it. Have fun."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "What is your full name?"
+        },
+        {
+            "character": "Ward",
+            "line": "My name is Grant Douglas Ward."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Please list your immediate family."
+        },
+        {
+            "character": "Ward",
+            "line": "Two parents, a sister, two brothers. Don't have contact with any of them."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Boy, your baseline's getting a lot of spikes. Are you in pain?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, only when I breathe. Two broken ribs."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Okay, well, try not to move. It may affect the results."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll try my best."
+        }
+    ]
+}

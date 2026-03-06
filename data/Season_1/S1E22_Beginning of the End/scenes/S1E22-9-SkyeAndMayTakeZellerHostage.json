@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 9,
+    "scene_name": "SkyeAndMayTakeZellerHostage",
+    "description": "Inside Cybertek's control room, Skye and May take Zeller hostage, threatening him with a bomb to disrupt the super-soldiers’ programming. Their infiltration triggers an alarm, causing a shift in priorities as the soldiers abandon Coulson to protect Garrett, setting the stage for the coming confrontation.",
+    "roles": [
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Coulson, we've found the dealer. This is a bomb. You know what those do. And you've seen Agent May here through the eyes of your super soldiers, so you know what she does. You don't want to mess with us, is my point."
+        },
+        {
+            "character": "Zeller",
+            "line": "You're not gonna be able to hijack our soldiers. We've thought through every emergency scenario, including this one."
+        },
+        {
+            "character": "May",
+            "line": "Don't tell me you just switched the soldiers to default directive."
+        },
+        {
+            "character": "Zeller",
+            "line": "Yeah, I did. And how did you know about that?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Time for the guns?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Time for the guns. Stay. Stay. Good boy."
+        },
+        {
+            "character": "Triplett",
+            "line": "They're off to defend Garrett."
+        },
+        {
+            "character": "Coulson",
+            "line": "And lead me right to him. Now that we're inside, go contact on forces and make some noise on the way out. Trip, if the rest of us don't make it, I still want this place to burn."
+        },
+        {
+            "character": "Triplett",
+            "line": "I prefer you make it, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Me, too."
+        }
+    ]
+}

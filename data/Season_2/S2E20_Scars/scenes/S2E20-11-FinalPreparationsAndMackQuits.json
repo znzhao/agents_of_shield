@@ -1,0 +1,83 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 11,
+    "scene_name": "FinalPreparationsAndMackQuits",
+    "description": "Fitz and Simmons talk about Ward, with Simmons expressing regret that she couldn't kill him when she had the chance. Morse reports that Mack has quit S.H.I.E.L.D. due to distrust of Coulson's leadership, especially after the revelations of Theta Protocol and his resurrection using alien blood. Coulson wishes Mack well, showing disappointment over the loss of a longtime agent.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sure you don't need any help with the indexing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you actually want to?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You almost died last time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Last time was HYDRA and Ward. And even that worked out mostly okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "You know, you shouldn't feel bad about Ward. I wanted to... kill him, too. And I couldn't. Means we're better than him."
+        },
+        {
+            "character": "Simmons",
+            "line": "I did try to kill him, Fitz, and I'm kicking myself that I failed. The next terrible thing he does is on me."
+        },
+        {
+            "character": "Morse",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack. Aren't you supposed to be down with Gonzales and Weaver?"
+        },
+        {
+            "character": "Mack",
+            "line": "I never minced words with you before, sir, and I'm not going to now. I'm leaving. The fact that Theta Protocol turned out to be a Helicarrier doesn't change things for me. Fury brought you back from the dead, and he used alien blood to do it. And you can't be blamed for what happened to you, but you can't be trusted, either."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm in full control of my actions."
+        },
+        {
+            "character": "Mack",
+            "line": "I had my own brush with something alien, and I know better than to mess with things I can't understand. But it seems like you haven't learned that lesson."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll have you reassigned to the carrier, under Gonzales."
+        },
+        {
+            "character": "Mack",
+            "line": "No. As much as I like and respect you, sir, if you're the Director of S.H.I.E.L.D., I don't want any part in it. I'll go to the carrier, but it'll be to collect my things."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've been with S.H.I.E.L.D., what, 13 years? I'm sorry to lose you. All right, let's get those jets in the air."
+        },
+        {
+            "character": "Woman",
+            "line": "Quinjet-36, final check, clear to go."
+        },
+        {
+            "character": "Man",
+            "line": "Quinjet-36, clear to take off."
+        }
+    ]
+}

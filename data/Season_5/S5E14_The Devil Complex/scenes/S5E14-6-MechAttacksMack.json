@@ -1,0 +1,22 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 6,
+    "scene_name": "MechAttacksMack",
+    "description": "Mack, Elena, and Simmons are attacked by one of General Hale's mechs, which wounds Mack. Fitz arrives to investigate the attack, and the team realizes this is no anomaly—someone reactivated the robot. Fitz recognizes the hand of The Doctor from the Framework, deepening the group's paranoia and urgency.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "What the hell happened?"
+        }
+    ]
+}

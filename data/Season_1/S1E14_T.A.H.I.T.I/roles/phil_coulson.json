@@ -1,0 +1,74 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 14
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership is shaped by his profound personal experiences, including his resurrection through secretive and traumatic medical procedures. He exhibits a steadfast dedication to protecting his team and pushing the limits of S.H.I.E.L.D.'s capabilities to save lives, even when doing so poses ethical risks or compromises operational secrecy. Coulson's growing emotional bond with his team members, especially Skye, reveals a deeper vulnerability and willingness to confront painful truths about his past. He balances tactical decisiveness with a moral complexity, often wrestling with the burden of hidden knowledge and haunted by the traumatic origins of his own survival, which informs his cautious but determined approach to new threats and medical interventions.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_truth_about_TAHTI_and_the_Clairvoyant",
+        "goal": "Uncover the truth behind the T.A.H.I.T.I. program, the mysterious drug GH-325, and the identity and motives of the Clairvoyant"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_Skye_and_team",
+        "goal": "Protect Skye and the team at all costs, including risking exposing classified secrets or defying direct orders"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_8",
+      "context": "revealing hard truths to Skye about her past",
+      "catch_phrase": "That's the thing about Skye. What I told her shattered her world... But somehow, she manages to repair a little piece of mine."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_10",
+      "context": "revealing his fear of Skye suffering like he did and the trauma of his resurrection",
+      "catch_phrase": "Being down there... seeing where I came from... I just got really scared that she would suffer the way that I did. But she didn't. For whatever reason... she didn't."
+    }
+  ]
+}

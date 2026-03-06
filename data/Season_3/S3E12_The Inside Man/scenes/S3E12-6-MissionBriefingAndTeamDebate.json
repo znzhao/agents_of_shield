@@ -1,0 +1,59 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 6,
+    "scene_name": "MissionBriefingAndTeamDebate",
+    "description": "May gathers the team for a mission briefing, where Coulson details their objectives for the symposium: gather intel on foreign Inhumans and expose Malick's inside man. Talbot struggles with his official role, and the team discusses cover identities and plans to access delegates' rooms. Tensions remain high between Hunter, May, and Bobbi over the presence of Creel. The briefing ends as the team departs for Taiwan.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Briefing's about to start. Hunter."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm tempted to throw him off the plane right now. We made a deal with the devil once before, and we all know how that worked out."
+        },
+        {
+            "character": "May",
+            "line": "Mission's more important."
+        },
+        {
+            "character": "Hunter",
+            "line": "Aren't you tired of saying that? ‘Cause I'm tired of hearing it. Certainly didn't apply when your husband's life was on the line. Stating the obvious. I'm just here to make sure my friends don't die. He has a habit of killing them."
+        },
+        {
+            "character": "May",
+            "line": "You're here for Bobbi. Nothing more. She's the only reason why you call yourself an Agent and why you couldn't care less about the mission."
+        },
+        {
+            "character": "Hunter",
+            "line": "Are you saying you'd rather have that guy covering you than me?"
+        },
+        {
+            "character": "May",
+            "line": "Honestly, not so sure."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, that's no way to treat a friend who's just trying to watch your back."
+        },
+        {
+            "character": "May",
+            "line": "We're not friends."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'll carry on watching your back, regardless."
+        }
+    ]
+}

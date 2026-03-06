@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 12,
+    "scene_name": "SimmonsVsHiveAndEscape",
+    "description": "Simmons is attacked by Hive using the memories of Will to manipulate her emotionally. Although shaken, Simmons rejects Hive’s manipulation and shoots him, desperately resisting. The arrival of Mack signals the team’s retreat after a chaotic and dangerous encounter with Hive and his Inhuman followers.",
+    "roles": [
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "Bucharest transhumanist club (black-market for cybernetics / Radcliffe contact)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Malick's intel?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He gave us everything. You mess with a man's family, all bets are off. I don't think aliens get that."
+        },
+        {
+            "character": "May",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're about to take down HYDRA's infrastructure. Want to watch?"
+        },
+        {
+            "character": "Talbot",
+            "line": "All units in position, Director. Two mikes to launch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Roger that. H.Q. has visual."
+        },
+        {
+            "character": "Talbot",
+            "line": "All stations report."
+        },
+        {
+            "character": "Woman",
+            "line": "Red 6, prepping to breach."
+        },
+        {
+            "character": "Talbot",
+            "line": "All operations a go. Commence DECAP."
+        }
+    ]
+}

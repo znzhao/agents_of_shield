@@ -1,0 +1,105 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 15,
+    "scene_name": "HydraDetectsBusBeginsAssault",
+    "description": "Inside the Hydra Arctic facility, Bakshi and List realize S.H.I.E.L.D.’s cloaked transport is approaching and order it shot down. Back on the S.H.I.E.L.D. Bus, May, Coulson, and the team execute a risky maneuver, simulating debris to infiltrate the facility as Hydra shoots them out of the sky. With tension high, the plan moves into action as they crash-land near the target.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "sunil_bakshi"
+    ],
+    "vibe": "action-packed",
+    "location": "Hydra Arctic Research Facility (Arctic Circle)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "I doubt they'll survive."
+        },
+        {
+            "character": "List",
+            "line": "That's a crushing disappointment, really. No one has made it past this stage of our experiments with alien enhancement. Well, no one other than the twins, of course. And Strucker has them in Sokovia. Oh, it would be so nice if they were not our only viable subjects. Well, perhaps he will prove the answer. He's due in surgery about now."
+        },
+        {
+            "character": "Man",
+            "line": "Dr. List. A cloaked plane is on approach."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Cloaked? But how can you see it?"
+        },
+        {
+            "character": "List",
+            "line": "It's the barren location. We see a blip, even a cloaked one."
+        },
+        {
+            "character": "Bakshi",
+            "line": "It must be S.H.I.E.L.D."
+        },
+        {
+            "character": "List",
+            "line": "Shoot them out of the sky."
+        },
+        {
+            "character": "Man",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "May",
+            "line": "We've been spotted. It's time."
+        },
+        {
+            "character": "May",
+            "line": "I've got visuals on the target. Buckle in."
+        },
+        {
+            "character": "May",
+            "line": "They've locked on."
+        },
+        {
+            "character": "Weaver",
+            "line": "Satellite confirms that SHIELD 616 has been hit."
+        },
+        {
+            "character": "Morse",
+            "line": "Any contact from Coulson's team?"
+        },
+        {
+            "character": "Weaver",
+            "line": "I'm afraid not."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Sit tight. This was always the plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm starting to think this wasn't a very good plan! Is there anything you can do about the drop?!"
+        },
+        {
+            "character": "May",
+            "line": "Not if we want HYDRA to believe we're debris!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm really starting to wish I hadn't eaten that hot pocket earlier."
+        },
+        {
+            "character": "May",
+            "line": "Hold on!"
+        },
+        {
+            "character": "Weaver",
+            "line": "SHIELD 218 has eased its decent and is making preparations to land."
+        },
+        {
+            "character": "Gonzales",
+            "line": "That was the easy part."
+        }
+    ]
+}

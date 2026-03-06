@@ -1,0 +1,35 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 4,
+    "scene_name": "HandPreparesAmbush",
+    "description": "At the Hub, Agent Victoria Hand instructs her inner circle to prepare for the incoming Bus. She orders lethal force against Coulson's team, highlighting the new Hydra-aligned order within S.H.I.E.L.D. Agent Shaw hesitates, troubled by the prospect of killing former friends, but Hand reinforces the gravity of the moment, insisting on loyalty or death.",
+    "roles": [
+        "victoria_hand"
+    ],
+    "vibe": "dark",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Barbour",
+            "line": "The drones are down. Agent Garrett's alive and docking with S.H.I.E.L.D. 6-1-6."
+        },
+        {
+            "character": "Jacobson",
+            "line": "I suggest we send more men, shoot that airplane out of the sky."
+        },
+        {
+            "character": "Hand",
+            "line": "No. We couldn't seize automated control of Garrett's jet, so I wrote it off as a loss. But now that he's with Coulson, we can cross him off with the rest when they land. Preserve the aircraft. You got something to say, Agent Shaw?"
+        },
+        {
+            "character": "Shaw",
+            "line": "Apologies, ma'am. I'm just having a hard time killing the people we once called friends."
+        },
+        {
+            "character": "Hand",
+            "line": "Once that encoded transmission went out, everything changed. You understand that, don't you? We swore allegiance to each other. And today, that loyalty will be tested. If you waver... you die."
+        }
+    ]
+}

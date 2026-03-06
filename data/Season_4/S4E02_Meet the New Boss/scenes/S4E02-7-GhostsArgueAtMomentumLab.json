@@ -1,0 +1,43 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 7,
+    "scene_name": "GhostsArgueAtMomentumLab",
+    "description": "Lucy Bauer appears at the abandoned Momentum Energy Lab and frees other ghosts—Hugo, Frederick, and Vincent—from similar boxes. The newly freed ghosts argue about their fate, their connection to the Darkhold, and who is to blame. Tension erupts as they disperse to pursue their goals, with Frederick stating he will destroy the lab.",
+    "roles": [
+        "lucy_bauer"
+    ],
+    "vibe": "dark",
+    "location": "Momentum Energy Lab (Pasadena / Momentum Labs)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bauer",
+            "line": "Hugo."
+        },
+        {
+            "character": "Hugo",
+            "line": "What happened? God, Lucy, look at you. What did he do?"
+        },
+        {
+            "character": "Bauer",
+            "line": "Hugo..."
+        },
+        {
+            "character": "Hugo",
+            "line": "What? Oh, my God. No. Where are the others?"
+        },
+        {
+            "character": "Bauer",
+            "line": "Trapped in these cells, like us. Now, I know this is confusing, but I need you to focus."
+        },
+        {
+            "character": "Hugo",
+            "line": "Focus? Look at us. What did he do to us? He has to pay. We have to find him. We could've been in there for hours."
+        },
+        {
+            "character": "Bauer",
+            "line": "Hugo, we have been in there for years."
+        }
+    ]
+}

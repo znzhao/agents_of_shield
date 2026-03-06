@@ -1,0 +1,76 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 17,
+    "scene_name": "SkyeFakesIgnoranceForEscape",
+    "description": "Skye emerges from hiding, feigning ignorance about Koenig's fate. Ward questions her about her absence, but she convincingly pretends everything is fine. The pair leave the base together for the Bus, with Ward still believing he’s in control. Meanwhile, Coulson and the others return to Providence to discover the team and Bus missing.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hey. Think I'd be hiding in a closet?"
+        },
+        {
+            "character": "Ward",
+            "line": "I was wondering where you went. I went back to the room. You weren't there. Why did you leave?"
+        },
+        {
+            "character": "Skye",
+            "line": "Truth?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'd appreciate it."
+        },
+        {
+            "character": "Skye",
+            "line": "You scared me. Opening up, and that kiss... which... was a very nice kiss, I admit."
+        },
+        {
+            "character": "Ward",
+            "line": "I didn't mean to scare you."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't exactly over-analyze. I just act impulsively, and then I freak out after the fact."
+        },
+        {
+            "character": "Ward",
+            "line": "Are you still?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. I'm good. I want this. And you? What do you want?"
+        },
+        {
+            "character": "Ward",
+            "line": "What I want... is to stay here with you and imagine the world outside doesn't exist. But the world outside does exist. I just got word from Fitz. They need our help. The bus is fueled up, ready to go."
+        },
+        {
+            "character": "Skye",
+            "line": "We should tell Koenig."
+        },
+        {
+            "character": "Ward",
+            "line": "I just did. He's headed outside to open the hangar doors. We're in a hurry."
+        },
+        {
+            "character": "Skye",
+            "line": "I just got to grab a couple things."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. We need to go right now."
+        },
+        {
+            "character": "Skye",
+            "line": "Of course we do. Lead the way."
+        }
+    ]
+}

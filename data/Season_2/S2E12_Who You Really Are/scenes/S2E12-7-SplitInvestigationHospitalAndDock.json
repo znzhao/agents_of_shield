@@ -1,0 +1,242 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "SplitInvestigationHospitalAndDock",
+    "description": "The team splits up to follow leads: Fitz, Hunter, and Mack check the docks for forensics, discovering evidence linked to liquid nitrogen, while Bobbi and Skye canvass the hospital in search of the blue-skinned man. meanwhile, Sif, May, and Coulson continue questioning witnesses for insights about the assailant’s actions and motives.",
+    "roles": [
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "bobbi_morse",
+        "skye",
+        "phil_coulson",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "I can't see any blood. Fitz, isn't there some special light that finds blood?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Not blood."
+        },
+        {
+            "character": "Mack",
+            "line": "What's up, Magnum, P.I.? You enjoying this?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Who doesn't like a good mystery? Guess we're both embracing new challenges."
+        },
+        {
+            "character": "Mack",
+            "line": "That mean you're taking the permanent position that Coulson offered?"
+        },
+        {
+            "character": "Hunter",
+            "line": "He's a man down. I know you have your reservations, but I like the guy. Don't you want to see how this plays out? Huh."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's that?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I don't know. This is about where the big guy was standing When Sif nailed him with the sword, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hunter",
+            "line": "Look at this."
+        },
+        {
+            "character": "Mack",
+            "line": "Ohh!"
+        },
+        {
+            "character": "Hunter",
+            "line": "I-I barely touched it. I swear."
+        },
+        {
+            "character": "Hunter",
+            "line": "Trust me... there is no universe on which I think you did that on your own. Turbo, what do you think?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're uploading some information to you. Whatever came out of that guy's chest... [beeping] ... I'm guessing it wasn't blood."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll give it a look. See?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Who doesn't like a good mystery?"
+        },
+        {
+            "character": "Skye",
+            "line": "You speak Portuguese?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'm no expert. It's a pretty language. It's hard to gauge if someone's lying."
+        },
+        {
+            "character": "Skye",
+            "line": "Are you an expert at that?"
+        },
+        {
+            "character": "Morse",
+            "line": "At lying or telling if someone's lying?"
+        },
+        {
+            "character": "Skye",
+            "line": "I have a feeling you're probably an expert at both."
+        },
+        {
+            "character": "Head Nurse",
+            "line": "Can I help you?"
+        },
+        {
+            "character": "Morse",
+            "line": "Hi, yes, we're looking for anyone who may have been injured in the incident at the pier or may have seen this man."
+        },
+        {
+            "character": "Head Nurse",
+            "line": "Hmm. No, he does not look familiar to me. As far as the injuries, I can ask around. The nurse who was working earlier took ill. So we are short-staffed. It may take a while."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. Well, we'll be here."
+        },
+        {
+            "character": "Morse",
+            "line": "Wait. Is that woman all right? What happened to her?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Yet you do not serve a king?"
+        },
+        {
+            "character": "May",
+            "line": "Not really how it works with us."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I wonder if I serve the king as the great warrior you say I am."
+        },
+        {
+            "character": "May",
+            "line": "Odin? Oh, we know you do. You've met him."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Shut... up."
+        },
+        {
+            "character": "Cardozo",
+            "line": "It's her!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was just conducting my interview with Mr. Cardozo here, asking him what he saw the other day, when..."
+        },
+        {
+            "character": "Cardozo",
+            "line": "You are a dangerous monster."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I am no monster. I am sometimes dangerous, but only toward those who are deserving. I do not actually know. Is it only toward those who are..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, that was right."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Excellent. Answer his question, elderly man."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, just tell us what you saw after they fought."
+        },
+        {
+            "character": "Cardozo",
+            "line": "The man destroyed my booth!"
+        },
+        {
+            "character": "May",
+            "line": "What does he want with balloons?"
+        },
+        {
+            "character": "Cardozo",
+            "line": "He went for my helium, broke off the valves, and took them!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What does he need those for?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, the boys were right. That definitely wasn't blood."
+        },
+        {
+            "character": "Mack",
+            "line": "What are we talking about?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It was liquid nitrogen. The post was frozen solid and cracked. He must have been carrying a supply, and Sif must have damaged his containment hardware."
+        },
+        {
+            "character": "Coulson",
+            "line": "So that's what he needed the tank valves for... to repair it."
+        },
+        {
+            "character": "May",
+            "line": "Why carry nitrogen?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Might have needed it for fuel, might have needed it for a weapon."
+        },
+        {
+            "character": "May",
+            "line": "If he's alien, he might need it to breathe."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Not to breathe. Only seven intelligent species across the known realms require heightened levels of nitrogen gas, none humanoid. I learned this as a child. Did you not?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bobbi, anything?"
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, we have evidence he's here at the hospital. It's a big place, though. He might be hiding anywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, we know he needs nitrogen, and they use it in hospitals to power surgical equipment. Let's start there."
+        }
+    ]
+}

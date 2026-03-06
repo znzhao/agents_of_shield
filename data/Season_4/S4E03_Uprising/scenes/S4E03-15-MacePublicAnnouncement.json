@@ -1,0 +1,99 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 15,
+    "scene_name": "MacePublicAnnouncement",
+    "description": "Director Mace steps in front of cameras at the Playground, delivering a public statement that clears the Inhumans of responsibility for the blackouts and announces S.H.I.E.L.D.'s return as a proactive force for good. Meanwhile, Fitz, Elena, and Coulson reflect on this dramatic shift in strategy and the hope it brings. Mace’s speech sets a new tone for S.H.I.E.L.D. as protector of all, Human and Inhuman alike.",
+    "roles": [
+        "elena_rodriguez",
+        "leo_fitz",
+        "phil_coulson",
+        "melinda_may",
+        "jeffrey_mace"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Hello, everyone. I'm Jeffrey Mace, and the President has asked me to address recent events that have many of you concerned. You all know who I am. You know my work with international affairs, but most importantly, you know I'm a straight shooter. So let's set the record straight. The Inhumans were not responsible for the recent blackouts. They were caused by human extremists hell-bent on spreading fear, fear of these new members of our community. They want to turn us against each other, but I'm here to tell you, that's not gonna work."
+        },
+        {
+            "character": "Robbie",
+            "line": "Where's Daisy?"
+        },
+        {
+            "character": "Gabe",
+            "line": "I don't know. Fell asleep. When I woke up, she was gone."
+        },
+        {
+            "character": "Mace",
+            "line": "And it won't work because there's an old friend back in town, here to deal with this threat and any other threat that comes our way. And last night, that old friend turned all the lights back on, saving countless lives. And that old friend is S.H.I.E.L.D."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hope we're doing the right thing. I liked working in the shadows."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, at least you won't have to live in them anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Mace",
+            "line": "... some of the smartest minds I've had the pleasure of knowing..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. I hear you're a little bit more yourself."
+        },
+        {
+            "character": "May",
+            "line": "I feel cranky."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like I said."
+        },
+        {
+            "character": "May",
+            "line": "That should be you up there."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I'm right where I belong."
+        },
+        {
+            "character": "Mace",
+            "line": "So, let's set the record straight one more time. We're back, and we're here to protect you, all of you, human and Inhuman alike. When others try to tear us apart, it only brings us together. We're all on the same team, because a team that trusts is a team that..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "S.H.I.E.L.D. was a puppet of Hydra, and now they'll be puppets of the Inhumans. I have very credible sources that are telling me the Inhumans were responsible for the blackouts, despite what Jeffery Mace may say."
+        },
+        {
+            "character": "Reporter",
+            "line": "That was Senator Nadeer weighing in on the government announcement of the return of the Strategic Homeland Intervention..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Give me some good news."
+        },
+        {
+            "character": "Man",
+            "line": "Even though S.H.I.E.L.D. managed to turn on all the power, we were able to eliminate 17 Inhumans worldwide."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Good. Good start. I'm at my brother's place, but I'll be heading out now. I'll call you from the car for the play-by-play."
+        },
+        {
+            "character": "Nadeer",
+            "line": "You want me to turn it off? You know what? I'll leave it on. Keep you company. I'll be back in a few days to check in. Love you."
+        }
+    ]
+}

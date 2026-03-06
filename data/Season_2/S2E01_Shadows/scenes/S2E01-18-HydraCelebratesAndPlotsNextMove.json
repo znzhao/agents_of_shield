@@ -1,0 +1,24 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 18,
+    "scene_name": "HydraCelebratesAndPlotsNextMove",
+    "description": "Bakshi contacts Whitehall, reporting Creel successfully escaped with the Obelisk. Bakshi hints at further Hydra plans, while Whitehall muses ominously about their ongoing agenda. The threat from Hydra is more dangerous than ever, setting up the next chapter.",
+    "roles": [
+        "sunil_bakshi",
+        "daniel_whitehall"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Creel has escaped and did indeed make off with the Obelisk. He should contact us shortly. I would have him come in, but I'm being overly discreet with this operation. I know how long you have been searching for this, Dr. Whitehall."
+        },
+        {
+            "character": "Whitehall",
+            "line": "You have no idea."
+        }
+    ]
+}

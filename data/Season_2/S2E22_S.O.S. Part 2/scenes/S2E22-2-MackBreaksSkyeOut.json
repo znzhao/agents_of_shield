@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 2,
+    "scene_name": "MackBreaksSkyeOut",
+    "description": "On the Iliad, Mack breaks Skye out of her holding cell, explaining the dire situation: the Inhumans have taken the ship. Mack tells Skye she's needed not for her powers, but for her hacking skills to stop the distress beacon Jiaying has expanded. Skye laments her mother's manipulation, realizing the catastrophic consequences, while Mack focuses on their immediate plan to disrupt the Inhumans’ plot.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "You want to lend me a hand getting these things off? Or a face? Mack? Thank god. Who's with you?"
+        },
+        {
+            "character": "Mack",
+            "line": "Just you and me, tremors. Your people just took over the ship. About 100 or so prisoners. The rest are dead. Guess they're not as harmless as you say."
+        },
+        {
+            "character": "Skye",
+            "line": "I swear, I never meant for any of this to happen. I..."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we need to stop them. But if you're in here, I'm guessing you figured that out already."
+        },
+        {
+            "character": "Skye",
+            "line": "It's my mother. She's manipulating them. Not all of these people are bad."
+        },
+        {
+            "character": "Mack",
+            "line": "They're using their powers to kill S.H.I.E.L.D. agents, so I don't give a damn about intentions right now. I came here because I need your skills."
+        },
+        {
+            "character": "Skye",
+            "line": "I can't use my powers. They locked these inhibitors on me."
+        },
+        {
+            "character": "Mack",
+            "line": "Not the skills I'm looking for. Heard you have a history of hacking into S.H.I.E.L.D."
+        },
+        {
+            "character": "Man",
+            "line": "That's the fan room, down on the fourth deck. All the ship's air circulates through it."
+        }
+    ]
+}

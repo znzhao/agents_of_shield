@@ -1,0 +1,97 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 5,
+    "scene_name": "MaceBriefsMayAndMackOnLeads",
+    "description": "Mace responds to Mack's investigative ideas regarding Eli and the Chinatown Crew, recalling that Eli and the gang's leader had known each other from prison. The discussion is interrupted as Mace prioritizes caution, directing the group not to act until Simmons studies the tech. The Zephyr is ordered to take off, setting the next phase of their strategy in motion.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "You wanted to speak?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yes, sir, I, uh... I think I've found a workable lead to track down Eli Morrow, from one of May's better ideas."
+        },
+        {
+            "character": "Mace",
+            "line": "Then let's hear it."
+        },
+        {
+            "character": "Mack",
+            "line": "Remember the head of the Chinatown Crew that ordered the heist of these boxes, Chen?"
+        },
+        {
+            "character": "May",
+            "line": "He got infected by Lucy, went through the same thing I did."
+        },
+        {
+            "character": "Mace",
+            "line": "Until his brains hemorrhaged all over the lab."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, before that, he spent two years in South Ridge Penitentiary."
+        },
+        {
+            "character": "Mace",
+            "line": "With Mr. Morrow."
+        },
+        {
+            "character": "Mack",
+            "line": "Exactly. The Chinatown Crew was working with Eli when he was in prison. And now that he's out, they might know his location. Now, I figure, if I find their hideouts, I find Eli, and then I can..."
+        },
+        {
+            "character": "Mace",
+            "line": "Slow down. We're not gonna just go cracking heads."
+        },
+        {
+            "character": "Mack",
+            "line": "It's not cracking heads."
+        },
+        {
+            "character": "May",
+            "line": "Let him go. Someone should."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, my job is to keep people safe."
+        },
+        {
+            "character": "Mace",
+            "line": "Mine, too. So, first we sharpen the ax, and then we chop the tree."
+        },
+        {
+            "character": "Mack",
+            "line": "My ax is plenty sharp and a shotgun."
+        },
+        {
+            "character": "Mace",
+            "line": "We'll follow your leads in due time, after we study this tech. The Zephyr is wheels up in five. Agent Mackenzie, there are four fallen agents who need to be prepped for their... For their last ride home."
+        },
+        {
+            "character": "Mack",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Mace",
+            "line": "You and I will ride ahead in the Quinjet, get this cargo back to base, max speed. Dr. Radcliffe will work on them immediately."
+        },
+        {
+            "character": "May",
+            "line": "Simmons approved it?"
+        },
+        {
+            "character": "Mace",
+            "line": "I talked to her. It'll take her a few hours to return. So, this way, we don't waste any time."
+        }
+    ]
+}

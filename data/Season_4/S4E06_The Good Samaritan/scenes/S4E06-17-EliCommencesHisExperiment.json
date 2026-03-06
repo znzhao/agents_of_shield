@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 17,
+    "scene_name": "EliCommencesHisExperiment",
+    "description": "Eli Morrow, confronted by Coulson, reveals his true intentions and begins the experiment. Using the Darkhold’s designs, he locks himself inside the chamber and brings the machine online. Coulson, Fitz, and Robbie vanish in a flash of white energy, the consequences of which are left as a cliffhanger.",
+    "roles": [
+        "eli_morrow",
+        "phil_coulson",
+        "leo_fitz",
+        "robbie_reyes",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "thrilling",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It was you the whole time."
+        },
+        {
+            "character": "Eli",
+            "line": "It took a lot longer than I had hoped. But all those years in jail, I had to plan very carefully."
+        },
+        {
+            "character": "Coulson",
+            "line": "The attack on Joseph Bauer, that wasn't payback. You just wanted the Darkhold."
+        },
+        {
+            "character": "Eli",
+            "line": "Yeah. He was a lot tougher than he looked. I beat the hell out of him. He never gave up where he hid that book. Listen, if I were you, I'd get the hell out of here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, no."
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 5,
+    "scene_name": "TeamsInTheField",
+    "description": "The three strike teams are in position: Ward and Triplett in the UK investigating Elijah Fordham, May and Blake in Georgia at a care facility for Thomas Nash, and Coulson and Garrett in Indiana on Noriko Sato’s trail. Tension rises as they realize things are not as they seem—guard posts are abandoned and routes are blocked, revealing that the Clairvoyant may have anticipated their strategy. May and Blake fall into Deathlok’s trap. Blake is critically injured defending himself and trying to reach out to Mike Peterson’s humanity.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "john_garrett",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "So, Garrett says your family's like the cable version of the Kennedys."
+        },
+        {
+            "character": "Ward",
+            "line": "Huh. I doubt he said that."
+        },
+        {
+            "character": "Triplett",
+            "line": "Fine. I did my own research. Had to, following in golden boy's footsteps."
+        },
+        {
+            "character": "Ward",
+            "line": "There a point to this?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Just trying to keep things light."
+        },
+        {
+            "character": "Ward",
+            "line": "‘Cause that's what we all need right now?"
+        },
+        {
+            "character": "Triplett",
+            "line": "You know, maybe it is."
+        },
+        {
+            "character": "Ward",
+            "line": "You want to keep it light? The Clairvoyant almost killed Skye."
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah? Well, he did kill my partner... Dan Monroe. Great guy. Had a son. You know what it's like telling a 6-year-old that his dad isn't coming home? So, we find the Clairvoyant, you might want to stay out of my way."
+        },
+        {
+            "character": "Ward",
+            "line": "We all got axes to grind. But we're here to take him in, not out."
+        },
+        {
+            "character": "Triplett",
+            "line": "Ask yourself something, Agent Ward... if Skye hadn't made it, what would you be thinking right now?"
+        },
+        {
+            "character": "Ward",
+            "line": "Elijah Fordham, 32, military background. Here."
+        },
+        {
+            "character": "Triplett",
+            "line": "Serving 18 life sentences for a killing spree in the ‘90s. Sounds more psycho than psychic."
+        },
+        {
+            "character": "Blake",
+            "line": "You a scorpio? I was just wondering why our newest agent paired the two of us together. Must have thought we were compatible in some way."
+        },
+        {
+            "character": "May",
+            "line": "It was random, Blake."
+        },
+        {
+            "character": "Blake",
+            "line": "You seem like a scorpio."
+        },
+        {
+            "character": "May",
+            "line": "You don't believe in the Clairvoyant, but you believe in astrology."
+        },
+        {
+            "character": "Blake",
+            "line": "I have some theories of my own. Please tell me we're here for one of the doctors."
+        },
+        {
+            "character": "Garrett",
+            "line": "So, I dropped down through the skylight, used up my whole mag, and hit the final guy right in the chest with a flare gun. Boy, you should have seen the look on his face when that thing went off. What? I already told you that one?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was there."
+        },
+        {
+            "character": "Garrett",
+            "line": "For which part?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The whole thing."
+        },
+        {
+            "character": "Garrett",
+            "line": "Really? Damn, I must be getting old. Either that or I drank a lot more in my 30s than I remember."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or both. And you didn't go through the skylight."
+        },
+        {
+            "character": "Garrett",
+            "line": "I know, but it makes for a better story."
+        },
+        {
+            "character": "Coulson",
+            "line": "File came in. Noriko Sato, 19, junior at Ball State."
+        },
+        {
+            "character": "Garrett",
+            "line": "The co-ed... I remember. She's got an I.Q. over 200. Ran circles around every agent we sent in to interrogate her. We had no indication she was gifted. Family's got ties to the Yakuza, though."
+        },
+        {
+            "character": "Coulson",
+            "line": "Heads up."
+        },
+        {
+            "character": "Garrett",
+            "line": "Detour."
+        },
+        {
+            "character": "Coulson",
+            "line": "Imagine that."
+        },
+        {
+            "character": "May",
+            "line": "Thomas Nash. Injured in a head-on collision. He's been catatonic for the past four years."
+        },
+        {
+            "character": "Blake",
+            "line": "Great. We're here for a vegetable."
+        },
+        {
+            "character": "May",
+            "line": "I'll find the director's office. You get a room number on Nash."
+        },
+        {
+            "character": "Blake",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "Ward",
+            "line": "Nobody home. Odd."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Convenient timing."
+        },
+        {
+            "character": "Garrett",
+            "line": "Think this'll make a good story someday?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Ah. One behind us. You better hope so."
+        },
+        {
+            "character": "Blake",
+            "line": "Mr. Peterson... stop. You have a son... Ace. He needs you. We can still help you, Mike."
+        },
+        {
+            "character": "Mike",
+            "line": "Mike Peterson's dead."
+        },
+        {
+            "character": "May",
+            "line": "May to Hub... Deathlok's here! Blake's down!"
+        },
+        {
+            "character": "Hand",
+            "line": "All backup teams... move in. We have an agent down. Repeat, Agent Blake is down."
+        },
+        {
+            "character": "Ward",
+            "line": "Lucky the med team got to him when they did."
+        },
+        {
+            "character": "May",
+            "line": "I wouldn't call anyone in critical condition lucky. Deathlok's more dangerous than we thought. Blake fired six shots... didn't seem to faze him."
+        }
+    ]
+}

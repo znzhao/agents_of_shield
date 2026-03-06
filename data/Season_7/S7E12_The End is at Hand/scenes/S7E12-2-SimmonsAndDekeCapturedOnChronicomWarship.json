@@ -1,0 +1,62 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "SimmonsAndDekeCapturedOnChronicomWarship",
+    "description": "On the Chronicom warship, Nathaniel Malick and Sibyl interrogate Simmons, trying to extract the location of Fitz. Simmons is injected with a substance meant to dissolve her brain implant and Deke tries to comfort her as her memories begin to scramble. Meanwhile, Malick and Sibyl discuss their plans and the status of S.H.I.E.L.D.'s destruction.",
+    "roles": [
+        "nathaniel_malick",
+        "sibyl",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "This is your last chance to give up Fitz's location. The Chronicoms won't be so..."
+        },
+        {
+            "character": "Deke",
+            "line": "Amateurish? Pedestrian? Ham-fisted?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "We have a more precise method of retrieving information."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey!"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Well, look at you. I was gonna say “in the flesh”, but I suspect it's more like a space-age polymer... or something. Either way, it's super-impressive. Everything is. And what a triumph. All S.H.I.E.L.D. targets destroyed."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Except for the Lighthouse."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Straight to the point. I like that. You've been inside. You know that the Lighthouse was built to withstand any external attack. Which is why we're taking a different approach."
+        },
+        {
+            "character": "Sibyl",
+            "line": "None of it matters if Leopold Fitz is alive. As long as he lives, our future isn't secure."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Jemma Simmons has effectively erased him from her memory. In fact, based on what I saw, there's a good chance he isn't even alive."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I'm not leaving it to chance. The injection I gave her will dissolve her implant. We'll learn whether she's truly forgotten Leopold Fitz... or whether it's simply masking the truth."
+        }
+    ]
+}

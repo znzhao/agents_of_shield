@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 5,
+    "scene_name": "LeadsAndQuinnConnection",
+    "description": "Skye works through S.H.I.E.L.D. comm logs while Coulson and Ward track down the man who sold equipment to the attackers. They discover gold bars as payment, traced by Fitz and Simmons to a Tanzanian mine owned by Ian Quinn, whom Simmons disdains for his environmental record. The connection to Quinn gives the team their next target, revealing his history with Dr. Hall.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "ian_quinn"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I can do that instead of pull-ups. I can upload an image of the tread pattern, check to see if there's any sort of..."
+        },
+        {
+            "character": "Ward",
+            "line": "Already done. Matched it to a 2010 model. Found a list of purchasers within a 500-mile radius, narrowed down to those with priors, financial troubles, or propensity for risk-taking. Three suspects."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who may have sold their construction equipment to the kidnappers. We'll ask."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, so, Ward said a funny thing. He said that you guys don't have a truth serum."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did he? Ward said that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Interesting."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Hey, wait..."
+        },
+        {
+            "character": "May",
+            "line": "Hey."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you want me to bench press this?"
+        },
+        {
+            "character": "May",
+            "line": "Read it. Every communication out of HQ since they decided to transfer Dr. Hall."
+        },
+        {
+            "character": "Skye",
+            "line": "Hang in there, Doc. It's gonna be a while. Outside, in what the screen tells us is Barnroof Point, Colorado."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Man",
+            "line": "Who the hell are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A concerned citizen who happens to be a member of a giant bureaucratic organization that's tracking your every move."
+        },
+        {
+            "character": "Man",
+            "line": "I haven't done anything wrong."
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course not, but you sold your excavator to some people who did. And you're hiding out here until things cool down because you know it. I just want to know who paid you."
+        },
+        {
+            "character": "Man",
+            "line": "Paid me enough not to answer any questions like that."
+        },
+        {
+            "character": "Ward",
+            "line": "Feels like the old west."
+        },
+        {
+            "character": "Man",
+            "line": "They gave me money for my equipment. That's all. I never saw a face. I never heard a name."
+        },
+        {
+            "character": "Coulson",
+            "line": "And how did you receive this money? They write you a check?"
+        },
+        {
+            "character": "Ward",
+            "line": "Paid you in gold? Now it really feels like the old west."
+        },
+        {
+            "character": "Simmons",
+            "line": "It looks like this because it's a doré bar. It means it was made at the mine rather than in a refinery. It's only about 92% pure. The cowboy got cheated a bit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can you determine the mine based on the impurities?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, yeah, yeah, yeah. We've done that already. It's from the Dacey mine in Tanzania, which is owned by..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Quinn Worldwide. I'm sure you studied the C.E.O. in your chemical engineering classes or saw him on the cover of Forbes... Ian Quinn."
+        }
+    ]
+}

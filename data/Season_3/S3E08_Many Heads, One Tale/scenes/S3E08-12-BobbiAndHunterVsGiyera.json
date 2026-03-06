@@ -1,0 +1,85 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 12,
+    "scene_name": "BobbiAndHunterVsGiyera",
+    "description": "Bobbi and Hunter are cornered by Giyera, who uses his telekinetic powers to launch an attack. With coordination and combat skills, the pair manage to subdue him after a fierce battle. Banks, convinced by messages from Rosalind, helps enable their escape while May and Lincoln prepare for extraction. The threat posed by Giyera highlights the escalation in the ATCU’s activities.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "skye",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "lincoln",
+        "giyera"
+    ],
+    "vibe": "action-packed",
+    "location": "ATCU headquarters / Advanced Threat Containment Unit facilities",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "I'll remind you that we're basically the same height. I just don't wear bloody heels."
+        },
+        {
+            "character": "Hunter",
+            "line": "Aliens. I pine for the days where we didn't have to fight bloody aliens. It's just not a fair fight."
+        },
+        {
+            "character": "Morse",
+            "line": "Let's see if we can level the playing field."
+        },
+        {
+            "character": "Hunter",
+            "line": "Really? Your batons? That's your game-changer?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, all right, then."
+        },
+        {
+            "character": "Price",
+            "line": "Let me make a call to my people."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your people? Yeah, I don't see that happening."
+        },
+        {
+            "character": "Price",
+            "line": "If Malick went to these lengths, your agents are in serious danger. I can get them out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or sell them out."
+        },
+        {
+            "character": "Price",
+            "line": "Phil, look at me. Please believe that I don't know what's going on. We need answers, both of us. And if you don't let me get on the phone right now, we lose everything."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, that'll buy us very little time."
+        },
+        {
+            "character": "Banks",
+            "line": "Come with me. I'll get you out of here. If you're worried you can't trust me, worry on the move."
+        },
+        {
+            "character": "Price",
+            "line": "He'll lead them to the Northwest parking lot."
+        },
+        {
+            "character": "Coulson",
+            "line": "You hear that?"
+        },
+        {
+            "character": "Mack",
+            "line": "May is en route."
+        },
+        {
+            "character": "May",
+            "line": "I don't see them. Got them."
+        }
+    ]
+}

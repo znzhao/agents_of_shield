@@ -1,0 +1,204 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "SimmonsAndMaceLiveDebate",
+    "description": "Simmons, acting as an adviser, supports Mace during his live televised debate with Senator Nadeer about Inhumans. Mace skillfully fields difficult questions until Nadeer presses him about S.H.I.E.L.D.'s actions at the prison, forcing Mace to make a public declaration about his Inhuman status. This bold move shifts public opinion and raises the stakes for S.H.I.E.L.D. leadership.",
+    "roles": [
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "I get it. You and Phil Coulson are close. I'm the new Director, your boss, so you think there are things that I don't need to know. But I do. Agent Simmons, can I trust you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Definitely."
+        },
+        {
+            "character": "Mace",
+            "line": "Great, ‘cause, boy, do I need your help. I'm debating Senator Nadeer on television about the “Inhuman War on Humans.” I hate that the media's calling it that. Burrows says it's terrible branding. But either way, this is a battle for hearts and minds."
+        },
+        {
+            "character": "Simmons",
+            "line": "What can I do?"
+        },
+        {
+            "character": "Mace",
+            "line": "Facts, Simmons. I need cold, hard, scientific facts to back up our case during this debate."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can put together a PowerPoint on, um, Inhuman genetics, biology, sociological impact..."
+        },
+        {
+            "character": "Mace",
+            "line": "Yeah, here's the thing. I think it might be better if I literally had what's in your head... in my head."
+        },
+        {
+            "character": "Simmons",
+            "line": "Even S.H.I.E.L.D. doesn't have that kind of technology."
+        },
+        {
+            "character": "Mace",
+            "line": "Oh, sure it does."
+        },
+        {
+            "character": "Mace",
+            "line": "So, all you need to do is listen in, tell me exactly what to say, and know that any error, slip-up, or mishap could endanger the lives of humans and Inhumans alike."
+        },
+        {
+            "character": "Mace",
+            "line": "Also, we're live in 15 minutes."
+        },
+        {
+            "character": "Mack",
+            "line": "About back there..."
+        },
+        {
+            "character": "Robbie",
+            "line": "Forget it."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, I can't do that. That thing inside you is my responsibility."
+        },
+        {
+            "character": "Robbie",
+            "line": "No, it's mine."
+        },
+        {
+            "character": "Mack",
+            "line": "And if you can't control it?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Look. My uncle can't know what I am. So I'll keep it down. Not for you, for him."
+        },
+        {
+            "character": "Mack",
+            "line": "I need you to do something for me. Duck!"
+        },
+        {
+            "character": "Mack",
+            "line": "Ghost busted."
+        },
+        {
+            "character": "Mack",
+            "line": "Unless your face also does a-a Clown Posse thing, I'm infected. Give me some space. Aah!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can you hear me?"
+        },
+        {
+            "character": "Mace",
+            "line": "Mm. Mm! Yep. You can back off the mike."
+        },
+        {
+            "character": "Simmons",
+            "line": "Copy that, sir."
+        },
+        {
+            "character": "Woman",
+            "line": "Everyone set? Quiet, please. We're about ready to roll."
+        },
+        {
+            "character": "Man",
+            "line": "Our end is live in 4, 3, 2..."
+        },
+        {
+            "character": "George",
+            "line": "Many of you are familiar with Senator Ellen Nadeer. She's head of the Finance Committee and outspoken advocate of the so-called Humans First movement."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Thank you for having me."
+        },
+        {
+            "character": "George",
+            "line": "And of course, our next guest needs little introduction. He is a patriot, a public servant known all over the world. He put his life on the line to save others during the U.N. bombing in Vienna. He's now the Director of the newly reformed S.H.I.E.L.D. Jeffrey Mace."
+        },
+        {
+            "character": "Mace",
+            "line": "It's an honor to be here, George."
+        },
+        {
+            "character": "George",
+            "line": "Let's get started. Director Mace..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "After an intro like that, I think I deserve some equal time. I'd like to ask the Director a question."
+        },
+        {
+            "character": "George",
+            "line": "Go ahead, Senator."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Just what is S.H.I.E.L.D.'s purpose if it's not protecting us from the Inhumans? Why are human lives not S.H.I.E.L.D.'s priority?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Actually, Inhumans and humans share 99.8% of the human genome."
+        },
+        {
+            "character": "Mace",
+            "line": "Inhumans are human, and the science is in agreement with me. In fact, we share 99.8% of the human genome."
+        },
+        {
+            "character": "George",
+            "line": "It really is that close. I had no idea."
+        },
+        {
+            "character": "Mace",
+            "line": "It really is, George..."
+        },
+        {
+            "character": "Nadeer",
+            "line": "Genetics can't explain the blackouts that plunged parts of the world into darkness. People were terrorized. Lives were lost."
+        },
+        {
+            "character": "Simmons",
+            "line": "Two people died in a helicopter crash..."
+        },
+        {
+            "character": "Mace",
+            "line": "Let us never forget..."
+        },
+        {
+            "character": "Simmons",
+            "line": "... while 17 Inhumans were murdered."
+        },
+        {
+            "character": "Mace",
+            "line": "... that more Inhumans than humans were lost during that crisis."
+        },
+        {
+            "character": "Nadeer",
+            "line": "And yet every day, there are reports of disturbances in Hong Kong or blue-skinned killers in Wyoming."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, if I was to respond to every tabloid story and... and... and Sasquatch sighting, I couldn't do my job, which is to protect this great nation."
+        },
+        {
+            "character": "Nadeer",
+            "line": "What about the very real situation happening right now outside of Los Angeles? Is it true that S.H.I.E.L.D. has compromised a prison?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We have... no data on that, do we?"
+        },
+        {
+            "character": "Mace",
+            "line": "It's our policy not to comment on ongoing operations, but I can assure you that S.H.I.E.L.D. has the situation completely under control."
+        }
+    ]
+}

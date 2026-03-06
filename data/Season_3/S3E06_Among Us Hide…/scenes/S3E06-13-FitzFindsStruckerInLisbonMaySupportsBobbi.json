@@ -1,0 +1,85 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 13,
+    "scene_name": "FitzFindsStruckerInLisbonMaySupportsBobbi",
+    "description": "Fitz traces Strucker to a Lisbon penthouse, sharing the intel with May and Bobbi. Meanwhile, May challenges Bobbi to stop hiding behind medical excuses and regain her fighting edge, building up Bobbi’s confidence for the upcoming mission. The scene further cements their partnership and sets up the Lisbon confrontation.",
+    "roles": [
+        "leo_fitz",
+        "bobbi_morse",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Okay, each of those passports has a different fake identity for Von Strucker. Uh... my work is better, just for the record."
+        },
+        {
+            "character": "Morse",
+            "line": "We know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Right. Well, one I.D. matches the name on one Strucker real estate holding, a penthouse in Lisbon, Portugal. So I did a sweep of passengers arriving at the Lisbon airport. He went through customs several hours ago."
+        },
+        {
+            "character": "Morse",
+            "line": "Nice work, Fitz. Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're welcome."
+        },
+        {
+            "character": "Morse",
+            "line": "So, we go to a penthouse in Lisbon."
+        },
+        {
+            "character": "May",
+            "line": "You want to talk about what happened at the bank?"
+        },
+        {
+            "character": "Morse",
+            "line": "There's nothing to discuss. I was treating fighting as a last resort. Usually, that's good."
+        },
+        {
+            "character": "May",
+            "line": "Usually. Sometimes it's 'cause you're gun shy."
+        },
+        {
+            "character": "Morse",
+            "line": "Maybe I'm not 100%, but you're the one who dragged me on this mission, in spite of the tests."
+        },
+        {
+            "character": "May",
+            "line": "Stop hiding behind the tests."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm not. I said I wanted back in the field."
+        },
+        {
+            "character": "May",
+            "line": "Sure. After Bahrain, I said I hated my cubicle. Didn't mean it. Coulson says, “stay home,” and you just agree? Why are you keeping yourself locked up? You know, I saw you train at the academy once, scouting you."
+        },
+        {
+            "character": "Morse",
+            "line": "I didn't know that."
+        },
+        {
+            "character": "May",
+            "line": "Strongest recruit I ever saw. Any test would've said you were 100% then. But you're better today because now you have experience."
+        },
+        {
+            "character": "Morse",
+            "line": "What Ward did, you think that was just experience?"
+        },
+        {
+            "character": "May",
+            "line": "That can make you stronger. Let it. 'Cause next time, talking our way out may not be an option."
+        }
+    ]
+}

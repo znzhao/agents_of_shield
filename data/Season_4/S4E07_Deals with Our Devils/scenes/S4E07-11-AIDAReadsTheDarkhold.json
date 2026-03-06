@@ -1,0 +1,95 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "AIDAReadsTheDarkhold",
+    "description": "At the Playground, the team debates the merits and risks of using AIDA to read the Darkhold. Fitz, hopeful and desperate, urges AIDA to process the book, reasoning that her synthetic mind can handle the cosmic knowledge. Despite concerns, AIDA begins reading, and Radcliffe and May supervise as she prepares to use the information to open an inter-dimensional gateway.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "phil_coulson",
+        "aida",
+        "holden_radcliffe"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "May. May, this is lunacy. If the Internet is a garden hose, this book is Niagara Falls, blasting the universe's deepest thoughts through your eyeballs."
+        },
+        {
+            "character": "May",
+            "line": "It's a piece of technology, a tool."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "So's a grenade, until it's in the hands of a child. You can't handle it. You'll hurt yourself."
+        },
+        {
+            "character": "AIDA",
+            "line": "Perhaps I could read the book."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Absolutely not. No, no."
+        },
+        {
+            "character": "May",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Aspirations of a do-gooder."
+        },
+        {
+            "character": "May",
+            "line": "So? She's a scientist and braver than you, apparently."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Here's the thing, AIDA's not exactly my assistant. Or human."
+        },
+        {
+            "character": "May",
+            "line": "What?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "She's an android. So she is my assistant, but she plugs into the wall. So it's like you say, she's a tool. No offense, AIDA."
+        },
+        {
+            "character": "AIDA",
+            "line": "None taken. I was designed to save lives, to be the shield."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Shush! You're developing a catchphrase. May, I can assure you she's as aboveboard as a... secret android could be. Fitz-Simmons helped."
+        },
+        {
+            "character": "May",
+            "line": "Then use her."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What? But... do you think that's a good idea?"
+        },
+        {
+            "character": "May",
+            "line": "You said I can get hurt. Can she?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Only rebooted."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "If her files get corrupted. She's a computer."
+        },
+        {
+            "character": "May",
+            "line": "Perfect. Then it's just a download. She's the tech we need to save them."
+        }
+    ]
+}

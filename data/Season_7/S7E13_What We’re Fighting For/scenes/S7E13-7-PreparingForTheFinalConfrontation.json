@@ -1,0 +1,85 @@
+{
+    "season": 7,
+    "episode": 13,
+    "num": 7,
+    "scene_name": "PreparingForTheFinalConfrontation",
+    "description": "As the teams regroup, Daisy prepares for her fight with Malick aboard the Chronicom ship, urging the others to focus on their respective tasks to retake the Lighthouse and send the signal to stop the Chronicoms. The team splits, each determined to play their part despite overwhelming odds, while Sibyl and Nathaniel Malick proceed with their own schemes.",
+    "roles": [
+        "skye",
+        "nathaniel_malick",
+        "sibyl",
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "sousa",
+        "kora"
+    ],
+    "vibe": "intense",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Go. I got this. Go!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hope this works."
+        },
+        {
+            "character": "Mack",
+            "line": "You hope. I'll pray."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Time for you to be reassigned."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "So, this is it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "This is it."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I've studied your history, know all the enemies you've faced. I am honored to be the last."
+        },
+        {
+            "character": "Sousa",
+            "line": "So, that's what she can do."
+        },
+        {
+            "character": "Sousa",
+            "line": "Anything I can do to help point the antennas in the right direction?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Can you rewire the capacitor connections to bypass the network backbone?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Nope."
+        },
+        {
+            "character": "Simmons",
+            "line": "We were here. He said it'd be the hardest thing we've ever done."
+        },
+        {
+            "character": "Elena",
+            "line": "We know. They'll bang through the door soon enough. Hopefully, not before our friends handle their part."
+        },
+        {
+            "character": "Sousa",
+            "line": "Don't worry too much about Mack."
+        },
+        {
+            "character": "Elena",
+            "line": "Don't worry too much about Daisy."
+        }
+    ]
+}

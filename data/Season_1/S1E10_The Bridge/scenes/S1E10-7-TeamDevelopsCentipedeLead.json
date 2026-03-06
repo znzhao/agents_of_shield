@@ -1,0 +1,54 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 7,
+    "scene_name": "TeamDevelopsCentipedeLead",
+    "description": "The team now focuses efforts on Hayward's sister as their best lead to finding the Centipede base. Skye, May, Coulson, and Ward, back via comms, theorize about Raina's recruiting role, Po's tactical background, and the meaning of 'The Clairvoyant.' Coulson dismisses the idea of real psychics while Skye brings up Thor as evidence the strange is possible. They learn that Hayward is in California and make plans to intercept him.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "grant_ward"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "We're running her through our systems. Maybe we can get an I.D., but we're guessing she's Centipede's recruiter and Po's her latest recruit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Three super soldiers dive-bomb a prison, pluck him out? He's her number-one draft pick."
+        },
+        {
+            "character": "Skye",
+            "line": "But why him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Centipede's making more soldiers. Maybe they want Po to coordinate them, lead them."
+        },
+        {
+            "character": "May",
+            "line": "His background's tactical strategy. He fits the bill."
+        },
+        {
+            "character": "Skye",
+            "line": "So, these guys have super soldiers, an expert military strategist, and a Clairvoyant who can see the future. Anyone else thinking about switching teams?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They couldn't have a psychic. There are none on the index. They're a myth."
+        },
+        {
+            "character": "Skye",
+            "line": "So was Thor."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe it's an alias. Run it through our database and see if anything pops up. Ward is approaching Hayward's sister now."
+        }
+    ]
+}

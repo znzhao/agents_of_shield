@@ -1,0 +1,105 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 10,
+    "scene_name": "MayAndCoulsonReflectAsTrapSprings",
+    "description": "May and Coulson have a reflective conversation about how much they've changed due to their experiences as they personally finish work on the trap for Garrett. Garrett attempts to charm his way out but is ultimately caught by the tech and panels they’ve set up. The clock is ticking as the bombs are set to go off.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "john_garrett"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "That's pretty specific. Hmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's based on the schematics Fitz designed. I think it'll work."
+        },
+        {
+            "character": "May",
+            "line": "I'm still getting used to the idea of you as a techie."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm still getting used to the idea of me as just “tech”."
+        },
+        {
+            "character": "May",
+            "line": "You really believe that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Not really. Still... figuring it out."
+        },
+        {
+            "character": "May",
+            "line": "Me too. We're not the same people we were."
+        },
+        {
+            "character": "Coulson",
+            "line": "Pretty sure everyone would agree on that."
+        },
+        {
+            "character": "May",
+            "line": "I'm wondering if we change the timelines or... if they change us."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Melinda May I know would never ask these philosophical questions."
+        },
+        {
+            "character": "May",
+            "line": "Which is the point. How did I become this me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. But I like this you. And if I'm completely honest... I like this me, as well."
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, hey, buddy. What's with the “X”?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Based on the structural integrity of the Lighthouse, I determined you'd appear right about there to plant one of your bombs."
+        },
+        {
+            "character": "Garrett",
+            "line": "And did you think I was gonna just teleport straight into those?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I thought it'd be way cooler to have them teleported onto you."
+        },
+        {
+            "character": "Garett",
+            "line": "Well, that would be a neat trick. Well... I'd love to stay and chat, but there's some very impressive explosives about to blow, so ta-ta. That hurt."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell us how to deactivate these."
+        },
+        {
+            "character": "Garrett",
+            "line": "I can't. Not from here. I didn't think I'd need to."
+        },
+        {
+            "character": "May",
+            "line": "How many bombs total?"
+        },
+        {
+            "character": "Garrett",
+            "line": "An even dozen. Gonna pancake this whole puppy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Unless you want to get pancaked with us, call it off."
+        }
+    ]
+}

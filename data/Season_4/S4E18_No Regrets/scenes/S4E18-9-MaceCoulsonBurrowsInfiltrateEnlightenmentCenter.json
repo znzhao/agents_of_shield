@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 9,
+    "scene_name": "MaceCoulsonBurrowsInfiltrateEnlightenmentCenter",
+    "description": "Coulson, Mace, and Burrows use the bus, now prepped with false credentials, to infiltrate the Hydra Enlightenment Cultivation Center. Coulson gets them inside using his fake Hydra ID, while Burrows keeps watch and Mace steels himself for the rescue mission. The scene establishes a high-stakes environment as the mission begins.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "I.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Man",
+            "line": "Flugelman?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's Canadian."
+        },
+        {
+            "character": "Man",
+            "line": "I don't have you on the entry logs. You coming from the Triskelion?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, and I'm new, actually. Just filling in for the other guy. How about that story on Bakshi News the other day? That Inhuman they found with lion paws for hands? So weird. Just the paws."
+        },
+        {
+            "character": "Man",
+            "line": "Finally. You're all set."
+        },
+        {
+            "character": "Man",
+            "line": "Hail."
+        },
+        {
+            "character": "Coulson",
+            "line": "Back at ya."
+        }
+    ]
+}

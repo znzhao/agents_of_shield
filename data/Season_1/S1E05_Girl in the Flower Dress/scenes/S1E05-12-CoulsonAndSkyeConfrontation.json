@@ -1,0 +1,76 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 12,
+    "scene_name": "CoulsonAndSkyeConfrontation",
+    "description": "In Coulson’s office on the Bus, Skye is forced to confess the true nature of her secret: a lifelong search for her parents, with only a redacted S.H.I.E.L.D. document to show. Coulson confronts her about her duplicity, but Skye declares her determination to find the truth regardless of obstacles. Coulson shows empathy and offers his help, but imposes probationary measures to maintain trust within the team.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I didn't want anything to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop lying. Since the moment you stepped foot on this plane, you've been lying to my face, to all of us."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I haven't..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're lying now! I stood up for you to my team down there. And some of us started to believe in you, risked our lives for you."
+        },
+        {
+            "character": "Skye",
+            "line": "I..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why are you here?! You've been keeping something from us... this whole time. And it wasn't just a boyfriend. You have a secret, Skye, and one chance to come out with it. That's now, or I'm done with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "What is this?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's everything I have."
+        },
+        {
+            "character": "Coulson",
+            "line": "On us?"
+        },
+        {
+            "character": "Skye",
+            "line": "On me. That's why I learned to crack systems, why I joined the Rising Tide... to find any details I could about my parents.  There's nothing. No records. There's no trace of them. My lifelong search has led to a single document... redacted."
+        },
+        {
+            "character": "Coulson",
+            "line": "By S.H.I.E.L.D."
+        },
+        {
+            "character": "Skye",
+            "line": "No matter what you do, I'll never stop looking."
+        },
+        {
+            "character": "Coulson",
+            "line": "You might not like what you find."
+        },
+        {
+            "character": "Skye",
+            "line": "It can't be worse than what I've imagined."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe I can help."
+        }
+    ]
+}

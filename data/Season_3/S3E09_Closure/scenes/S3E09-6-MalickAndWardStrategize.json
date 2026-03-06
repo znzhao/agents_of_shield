@@ -1,0 +1,96 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "MalickAndWardStrategize",
+    "description": "Ward returns to report to Gideon Malick and receive a dressing down for prioritizing his vendetta over Coulson. Malick stresses the importance of HYDRA's mission and their centuries-long plan involving the monolith stones, urging Ward not to jeopardize everything for personal closure. Ward asserts his deep knowledge of Coulson, believing he can predict his adversary's next move.",
+    "roles": [
+        "grant_ward",
+        "gideon_malick"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Don't go jumping to conclusions just yet. We may still find something to help us bring back Will."
+        },
+        {
+            "character": "Simmons",
+            "line": "We can't bring him back."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, we've already built the program to determine where the portal will open on Maveth. The only thing that's left is getting to the other side."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's not what I meant. It's irresponsible of us to open another portal. HYDRA's been searching for the thing on that planet for centuries."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's an old wives tale Hydra moms tell their goblin babies."
+        },
+        {
+            "character": "SImmons",
+            "line": "But I've seen it. It's real."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, and so is Will, and he's stuck there, and he needs our help."
+        },
+        {
+            "character": "Simmons",
+            "line": "You don't think I want to save him? That it's not tearing me up inside? He saved my life, and... you know how I feel about him. But to put so many other lives in jeopardy would be selfish."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not selfish."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't do this."
+        },
+        {
+            "character": "Banks",
+            "line": "It's not me!"
+        },
+        {
+            "character": "Giyera",
+            "line": "Let's go. Mr. Malick is waiting."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our target's in a public place."
+        },
+        {
+            "character": "Hunter",
+            "line": "Plenty of looky-loos, then, I imagine. You're serious about all options being on the table?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You got something particular in mind?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Ever robbed a bank before?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Can't say that I have. Have you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Piece of advice, never trust a crooked jockey on a doped-up horse. My point is, I have an idea I think should work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good, 'cause time's a luxury we don't have. Ward and Malick are already 10 steps ahead."
+        },
+        {
+            "character": "Ward",
+            "line": "Don't blame me. This was his idea."
+        }
+    ]
+}

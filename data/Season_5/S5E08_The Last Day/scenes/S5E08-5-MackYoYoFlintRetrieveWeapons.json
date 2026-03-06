@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 5,
+    "scene_name": "MackYoYoFlintRetrieveWeapons",
+    "description": "Mack, Elena, and Flint realize the Kree may be trying to end the resistance. Facing hostile and fearful survivors, they recover Fitz’s hidden weapons and argue about how to respond to the Kree and the Vrellnexian threat. Flint faces accusations from survivors who blame him for their worsening conditions, while Elena and Mack stand by him.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "flint"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Well, it's not that someone forgot to pay the electric bill."
+        },
+        {
+            "character": "Flint",
+            "line": "The Kreepers are playing games again."
+        },
+        {
+            "character": "Mack",
+            "line": "It feels more like an endgame. We need to move quickly, get to level 3, where Fitz hid those weapons."
+        },
+        {
+            "character": "Elena",
+            "line": "Had to leave them on the level with the giant space bugs, huh? Have you seen those things?"
+        },
+        {
+            "character": "Flint",
+            "line": "Nope. Still don't want to. The service tunnel's up ahead. It's our way up."
+        },
+        {
+            "character": "Gretchen",
+            "line": "Hey, Flint. This is your fault, so you know!"
+        },
+        {
+            "character": "Elenea",
+            "line": "Hey, he didn't ask for any of this."
+        },
+        {
+            "character": "Gretchen",
+            "line": "They already cut the water. Now the lights? They're punishing us for what you did."
+        },
+        {
+            "character": "Man",
+            "line": "You should be down with the other Inhumans, where you belong!"
+        },
+        {
+            "character": "Gretchen",
+            "line": "Turn yourself in!"
+        },
+        {
+            "character": "Man",
+            "line": "You can't be here!"
+        },
+        {
+            "character": "Mack",
+            "line": "Hey! You don't want to go down this road."
+        }
+    ]
+}

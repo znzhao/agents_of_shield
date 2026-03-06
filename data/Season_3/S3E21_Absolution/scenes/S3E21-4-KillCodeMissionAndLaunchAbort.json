@@ -1,0 +1,225 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 4,
+    "scene_name": "KillCodeMissionAndLaunchAbort",
+    "description": "Fitz and Talbot execute a digital deception to secure the kill codes, with Coulson relaying them urgently to Fitz as the clock ticks down. The launch is narrowly aborted, infuriating Hive, who threatens Radcliffe and pushes him to start the sequence manually. Hive sends Giyera and James after the agents, while S.H.I.E.L.D. regroups and Coulson checks on Daisy, who is wracked with guilt and withdrawn in her cell.",
+    "roles": [
+        "giyera",
+        "james",
+        "phil_coulson",
+        "leo_fitz",
+        "glenn_talbot",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "missile silo (Pacific island launch site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "Launch sequence has begun, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Undersecretary Thomas?"
+        },
+        {
+            "character": "Thomas",
+            "line": "Very good."
+        },
+        {
+            "character": "May",
+            "line": "We're in. Uplink's established. Daisy's intel panned out."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We got security feeds, too."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, bonus. Every time I see his face, I want to punch something."
+        },
+        {
+            "character": "Fitz",
+            "line": "They've got us the uplink. Ready, sir. Did you get it? Read it out to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. It's... Oh."
+        },
+        {
+            "character": "Fitz",
+            "line": "We are at 20 seconds. Give me the code, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, try to keep up. Bravo-5-Hotel-NinerMike-1-Charlie-1. 3-4-2-0-0-Niner. Sierra-Tango-1-3-5. Sierra-Whiskey-0-1-2-0..."
+        },
+        {
+            "character": "May",
+            "line": "Come on. Come on."
+        },
+        {
+            "character": "Simmons",
+            "line": "The only thing you gave us that didn't pan out was that word. You said he mentioned “absolution.” Any idea what he meant?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He thinks he's the savior."
+        },
+        {
+            "character": "Giyera",
+            "line": "Someone shut us down. That can only be done within the building."
+        },
+        {
+            "character": "Hive",
+            "line": "S.H.I.E.L.D. Again. Fix this. Bypass this override!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Me? W-What... What can I do? I'm not a-a flight systems engineer."
+        },
+        {
+            "character": "Hive",
+            "line": "No, you're not. So the only thing that's left to decide is whether to add your mind to my current collection or just consume your flesh."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, I-I can handle it. I'll fix it, I swear. Please, don't do those things."
+        },
+        {
+            "character": "Hive",
+            "line": "You two, escort Dr. Radcliffe to the missile silo while I show S.H.I.E.L.D. something they haven't seen from me yet. Rage."
+        },
+        {
+            "character": "Hive",
+            "line": "Start searching on the main floor and work your way down. Any S.H.I.E.L.D. Agents you find, bring them to me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Well, Fitz came through. That's good, right?"
+        },
+        {
+            "character": "May",
+            "line": "Well, we have pissed-off Inhumans and a pissed-off Hive, so good and bad."
+        },
+        {
+            "character": "Lincoln",
+            "line": "But, I mean, at least Lash... at least Andrew didn't die in vain. The information Daisy brought back has been useful."
+        },
+        {
+            "character": "May",
+            "line": "You're trying to make us feel better. Find meaning in Andrew's death or what Daisy's done."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Maybe."
+        },
+        {
+            "character": "May",
+            "line": "Don't do that."
+        },
+        {
+            "character": "Lincoln",
+            "line": "They know where we are."
+        },
+        {
+            "character": "May",
+            "line": "I need to move fast, make my way up to the silo and secure the warhead."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Good luck."
+        },
+        {
+            "character": "May",
+            "line": "You, too."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Let's see..."
+        },
+        {
+            "character": "Elena",
+            "line": "Your work, it's too slow."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I'm sorry we all don't have superspeed."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, this isn't about superspeed. This is about your turtle speed. You work and then you stare and work and then more staring. We have to go."
+        },
+        {
+            "character": "Mack",
+            "line": "Hurtful."
+        },
+        {
+            "character": "Elena",
+            "line": "Finish. We have to get the hostages."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, if this doesn't work, the hostages won't matter. Neither will we. ‘Cause if Hive gets through here, we're all dead or worse."
+        },
+        {
+            "character": "Elena",
+            "line": "Would you really use these? Good. Because I'd rather die than be anyone's slave."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't even know why you're on this damned mission. It's too dangerous. That's why you should have this."
+        },
+        {
+            "character": "Elena",
+            "line": "What do you think you're doing?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm giving you your cross back. You need it more than I do."
+        },
+        {
+            "character": "Elena",
+            "line": "This isn't a lucky rabbit's foot. This is a symbol of faith. Who would return such a gift? Now hurry. We're running out of time."
+        },
+        {
+            "character": "Coulson",
+            "line": "You walked Mack through the assembly?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep, more times than I can count and gave him written directions. And I think it's out of our hands now. Taking down Hive's up to the field team."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're not just fighting Hive. There's a legion of memories inside him. They're up against every soldier, every genius, every killer he's ever been. That's a lot of people to outsmart."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy's awake."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did she have any more information? Did she remember what “absolution” means?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't think she knows."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it's buried too deep."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to keep digging."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "All right. We don't have much time, so let's just jump right in. Obviously, someone has fed a code into the facility's network, thereby disabling the system. All I have to do is bypass it altogether and manually launch the missile. However, that situation would require a rocket scientist or an engineer, and I am neither. Therefore, we're gonna have to put our heads together and sort this out. I'm gonna call you Ronald and you... Ronald Two. Now, as I'm sure you were both productive, intelligent members of society before you became you. So, tell me, have either of you retained any... any knowledge from your past, any computer skills, engineering, or mechanics? I don't know if you remember what begging is, but this is exactly that, so please give me something, because I don't have the tools to... All right. This is progress. Just keep pushing on."
+        }
+    ]
+}

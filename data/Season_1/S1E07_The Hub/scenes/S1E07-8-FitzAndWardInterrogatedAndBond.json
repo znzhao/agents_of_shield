@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 8,
+    "scene_name": "FitzAndWardInterrogatedAndBond",
+    "description": "Back on the mission, Ward and Fitz are held and interrogated by Marta and the locals, but Fitz manages to turn things around by fixing a blackout he secretly caused, ingratiating himself and gaining border passage. The two then narrowly escape enemy patrols and find an escape route through a drainage pipe.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "What's happening? Why haven't they killed us yet? I mean, I'm glad that they haven't killed us yet."
+        },
+        {
+            "character": "Ward",
+            "line": "They're waiting for their boss, so before he gets here, we need a plan. How long can you hold your breath underwater?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know."
+        },
+        {
+            "character": "Ward",
+            "line": "You familiar with the term “slam and cram?”"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, and I d... I don't think I want to be."
+        },
+        {
+            "character": "Ward",
+            "line": "How attached are you to your pinky?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Very, very attached, and before you ask another terrifyingly vague question, let me be clear. Any plan that involves even one of those scenarios isn't going to work for me. As a matter of fact, I've..."
+        },
+        {
+            "character": "Marta",
+            "line": "I heard you were looking for your friend Uri. And Uri was friends with separatists. Are you separatists?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. We're here to stop them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Definitely here to stop them."
+        },
+        {
+            "character": "Ward",
+            "line": "Trust me. If you could just help us get across the border..."
+        },
+        {
+            "character": "Marta",
+            "line": "You're wasting my time, so let me be clear. You've given me no reason to trust you. And trust is everything to me."
+        }
+    ]
+}

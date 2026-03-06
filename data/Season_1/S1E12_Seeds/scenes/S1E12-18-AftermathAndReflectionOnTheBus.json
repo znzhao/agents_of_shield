@@ -1,0 +1,83 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 18,
+    "scene_name": "AftermathAndReflectionOnTheBus",
+    "description": "Back aboard the Bus, Fitz says goodbye to a despondent Donnie, who blames himself. Coulson and May discuss the impact of secrets and leadership, touching on May’s revelation about her relationship with Ward. Skye’s resilience is highlighted, with Coulson recognizing her ability to find meaning in pain, concluding that her real family has always been S.H.I.E.L.D.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Donnie, I wanted to wish you good luck. And I'm very sorry."
+        },
+        {
+            "character": "Donnie",
+            "line": "Don't say you're sorry. My only friend is dead because of me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know what else to say."
+        },
+        {
+            "character": "Donnie",
+            "line": "Then don't say anything."
+        },
+        {
+            "character": "May",
+            "line": "What will happen to him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're moving him to the Sandbox, but not as a researcher. They want to keep an eye on him."
+        },
+        {
+            "character": "May",
+            "line": "Did, uh, you hear what I said in Mexico?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What, specifically?"
+        },
+        {
+            "character": "May",
+            "line": "A-about Ward and me, um..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, I heard. I trust you know what you're doing, and if it's a problem..."
+        },
+        {
+            "character": "May",
+            "line": "I'll end it. Skye requested a moment alone on campus. You told her, didn't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I had to."
+        },
+        {
+            "character": "May",
+            "line": "It must have destroyed her to hear all that."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's the thing about Skye. What I told her shattered her world. Her lifelong search led to stories of murder, and now it's too difficult to continue. Her search is over. Her story ends here. But you know what she said?"
+        },
+        {
+            "character": "May",
+            "line": "Tell me."
+        },
+        {
+            "character": "Coulson",
+            "line": "She said “no.” Her story started here. Her whole life, she thought she wasn't wanted, that she didn't belong, that every family that took her in didn't want her to stay, didn't care. But all that time, it was S.H.I.E.L.D. protecting her, looking after her. That's what she took away from the story, not the family she'll never have but the one she's always had. Here I am, telling her something that could destroy her faith in humanity. And somehow, she manages to repair a little piece of mine. The world is full of evil and lies and pain and death, and you can't hide from it, you can only face it. The question is, when you do, how do you respond? Who do you become?"
+        }
+    ]
+}

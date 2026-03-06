@@ -1,0 +1,124 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 12,
+    "scene_name": "DaisyAppealsToRobinThenGetsTargeted",
+    "description": "Daisy sits with Robin, trying to persuade her to reveal knowledge about the monolith or their escape. Robin’s response is vague, and Voss interrupts, offering Daisy a flash drive with damning footage. Voss reveals the supposed evidence of her destroying the Earth, intensifying Daisy’s guilt and confusion about her fate. Meanwhile, the threat of violence builds behind the scenes.",
+    "roles": [
+        "skye",
+        "robin_hinton"
+    ],
+    "vibe": "dark",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Robin",
+            "line": "Thank you, Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Your dad would be glad you still have that. I, um, I promised him that I would protect you. And I'm sorry that I couldn't do more. Life in the Lighthouse and then up here, it... it couldn't have been easy."
+        },
+        {
+            "character": "Robin",
+            "line": "My mother always kept me safe. There was something I was supposed to tell her."
+        },
+        {
+            "character": "Daisy",
+            "line": "Could you tell me? You tried to warn Coulson about something. Was it about the piece of the monolith? Robin, do... do you know where we can find the rest?"
+        },
+        {
+            "character": "Robin",
+            "line": "Time, it's... it's... it's running out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Running out for what? What are we supposed to do? What should..."
+        },
+        {
+            "character": "Voss",
+            "line": "I've had my fair share of those conversations. She has important things to say, just doesn't always say them at the right time."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm trying to be patient with her, but it's hard when the last thing she predicted was our imminent doom."
+        },
+        {
+            "character": "Voss",
+            "line": "Let her rest. I might have something that'll give you the answers you're looking for."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's interesting. This bit here, laser vibrometer. So, it... it measures the resonant frequencies of the monolith piece..."
+        },
+        {
+            "character": "Fitz",
+            "line": "And locks onto the frequencies in the monolith through space-time. Yes, you were right. I'll fill in the others. Jemma, did you lock the door?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson?! Coulson?!"
+        },
+        {
+            "character": "May",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson?!"
+        },
+        {
+            "character": "Man",
+            "line": "If you don't put up a fight, you don't have to die."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson, we're stuck in here."
+        },
+        {
+            "character": "Voss",
+            "line": "Must be strange for you to see the world like this after what happened."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look, I know everyone thinks I'm this Destroyer of Worlds, but I'm not that powerful. I couldn't break a planet apart even if I wanted to."
+        },
+        {
+            "character": "Voss",
+            "line": "But somehow, it happened."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, maybe the history books got it wrong."
+        },
+        {
+            "character": "Voss",
+            "line": "Yeah. I'm sorry to say, but they didn't. We found this on the hard drive on the Zephyr. That was the last time anyone saw Daisy Johnson alive."
+        },
+        {
+            "character": "Daisy",
+            "line": "And then?"
+        },
+        {
+            "character": "Voss",
+            "line": "Well, by all accounts, the city had been evacuated. No one there. After Quake walked in, 12.8 on the Richter scale, and the world cracked like an egg."
+        },
+        {
+            "character": "Daisy",
+            "line": "How could I..."
+        },
+        {
+            "character": "Voss",
+            "line": "That's the question. But when you look at this moment and all the suffering that took place after, you can't help but wonder if it could've been prevented."
+        },
+        {
+            "character": "Robin",
+            "line": "It's too late to stop it."
+        },
+        {
+            "character": "Robin",
+            "line": "Too late to stop it! There's so much blood."
+        }
+    ]
+}

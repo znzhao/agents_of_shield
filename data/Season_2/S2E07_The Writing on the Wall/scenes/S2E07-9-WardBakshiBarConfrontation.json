@@ -1,0 +1,80 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "WardBakshiBarConfrontation",
+    "description": "Ward meets face-to-face with Bakshi in a Boston bar, offering to deliver Coulson for Hydra in exchange for a high-level meeting. Hunter continues to observe. After the tense negotiation, May and the rest of the team storm in to find Ward already gone and Bakshi tied up, realizing Ward is still several steps ahead.",
+    "roles": [
+        "grant_ward",
+        "lance_hunter",
+        "melinda_may",
+        "bobbi_morse",
+        "antoine_triplett",
+        "sunil_bakshi"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, what happened... that's not... wasn't his fault."
+        },
+        {
+            "character": "Mack",
+            "line": "I know. Someone jumbled his memories."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, his memories weren't jumbled. They were... replaced. Just some of them."
+        },
+        {
+            "character": "Mack",
+            "line": "You're up."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I'm okay."
+        },
+        {
+            "character": "Mack",
+            "line": "Nah, come on. It's good for you. Helps your brain and hands learn to get their act together. Replaced memories, jumbled memories... how the hell is he supposed to keep everything together? What if he forgets what team he's on? You know, I like my bosses un-jumbled at all times."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, he is, or he will be. He'll recover. He did before. Besides, brains never delete files. They just lose connections. But there's always a backup. Just a matter of digging and finding them."
+        },
+        {
+            "character": "Mack",
+            "line": "So, you've got backup files, too?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Has anyone seen Skye? Oh, no. Guys... quick."
+        },
+        {
+            "character": "Skye",
+            "line": "... you been? It's about time?"
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson did this to you?"
+        },
+        {
+            "character": "Skye",
+            "line": "You think?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Is he going after the killer?"
+        },
+        {
+            "character": "Skye",
+            "line": "Not the killer."
+        },
+        {
+            "character": "Thompson",
+            "line": "Can I help you?"
+        }
+    ]
+}

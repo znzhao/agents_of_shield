@@ -1,0 +1,77 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 10,
+    "scene_name": "DaisyPreparesForSacrifice",
+    "description": "Daisy gets ready to load the warhead onto the Quinjet and sacrifice herself to stop Hive and save the world, feeling this is her predetermined role. Lincoln tries to convince her otherwise but is unable to stop her determination. The team frantically discusses who will stay and fight and who will go with the Quinjet as Hive approaches.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "melinda_may",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "tragic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I'm accepting fate."
+        },
+        {
+            "character": "Lincoln",
+            "line": "No. Don't try to do this yourself."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hive will come down here looking for us. If the others can keep him occupied, I'll be able..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "No, I remember what you said about your vision. Someone will be in that Quinjet with the warhead."
+        },
+        {
+            "character": "Daisy",
+            "line": "Only if I have to."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Do not go in there. That thing will fly itself if nobody touches the controls."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know. I know. I..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know what you're thinking. You said you can't live with what you've done, but you have to. Okay? Promise me you won't... you won't try to atone for your sins with some kind of sacrifice."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now all we have to do is decide who goes and who stays to hold off a wave of Primates and Hive the Terrible."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I'd like to be in a fight. Built this damn thing for a reason."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where's Daisy?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I couldn't stop her."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's here! It's time to finish these guys off!"
+        },
+        {
+            "character": "Mack",
+            "line": "He went for Daisy!"
+        }
+    ]
+}

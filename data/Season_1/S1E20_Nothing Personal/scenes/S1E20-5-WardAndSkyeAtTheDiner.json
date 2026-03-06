@@ -1,0 +1,204 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 5,
+    "scene_name": "WardAndSkyeAtTheDiner",
+    "description": "At a diner in Los Angeles, Skye attempts to play along while subtly plotting her escape. She uses their conversation to probe Ward about his undercover work and tries to get him to lower his guard. As Skye stirs the pot by referencing Garrett and betrayals, Ward grows suspicious. Skye then tips off the police about their location, leading to a tense lead-up to her escape attempt.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I can't remember the last time I sat in a restaurant."
+        },
+        {
+            "character": "Ward",
+            "line": "I know. It's been all tubes, tunnels, and plane food."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe I will get pie for dessert."
+        },
+        {
+            "character": "Ward",
+            "line": "Dessert? I was hoping we'd be done by the time I finished coffee."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you have any idea how long it'll take to decrypt this drive?"
+        },
+        {
+            "character": "Ward",
+            "line": "For you? I figured 10 minutes."
+        },
+        {
+            "character": "Skye",
+            "line": "Not even close. The GPS will take a hot second to calibrate, but I'm working on a laptop. So even at three cycles per byte, there are still terabytes of data..."
+        },
+        {
+            "character": "Ward",
+            "line": "Spare me the details. Give me the timeframe."
+        },
+        {
+            "character": "Skye",
+            "line": "An hour would be a miracle."
+        },
+        {
+            "character": "Ward",
+            "line": "Coulson needs this yesterday."
+        },
+        {
+            "character": "Skye",
+            "line": "My laptop's not a time machine, Ward. That's the science."
+        },
+        {
+            "character": "Ward",
+            "line": "Guess we're having dessert."
+        },
+        {
+            "character": "Triplett",
+            "line": "Can you grab me a cable? Think there's one in the drawer. Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "That seemed to work."
+        },
+        {
+            "character": "Triplett",
+            "line": "Fitz is using the jumpjet's relay to power it. He's like a ninja with this crap."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's he doing?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Freaking out. But focused on the task, which was good advice. And you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Trust me, I'm gonna have a major freak out later. All right. Ward is Hydra. You know what that means."
+        },
+        {
+            "character": "Triplett",
+            "line": "Garrett is alive."
+        },
+        {
+            "character": "Coulson",
+            "line": "And Agent Hand is dead."
+        },
+        {
+            "character": "Triplett",
+            "line": "So they hit the Fridge."
+        },
+        {
+            "character": "Coulson",
+            "line": "It means they've got all the weapons they could possibly want. And we didn't have a clue. So why risk coming back here?"
+        },
+        {
+            "character": "Triplett",
+            "line": "It wasn't to cross us off. What do you have that he wants?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. He had all our intel on that drive. All he had to do was make a cop... He came back for Skye. She must have encrypted that drive, and she was the only one who could crack back into it."
+        },
+        {
+            "character": "Triplett",
+            "line": "So they have to keep her alive."
+        },
+        {
+            "character": "Coulson",
+            "line": "And she can stall for time. Our plane is in Los Angeles. Finally, some good news."
+        },
+        {
+            "character": "Computer",
+            "line": "Perimeter defenses activated."
+        },
+        {
+            "character": "Coulson",
+            "line": "I should have knocked on wood just then."
+        },
+        {
+            "character": "Triplett",
+            "line": "Multiple contacts on the ground. They just triggered the gun turrets."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on."
+        },
+        {
+            "character": "Skye",
+            "line": "You're staring again."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not allowed to do that?"
+        },
+        {
+            "character": "Skye",
+            "line": "I told you, it's a complicated hack."
+        },
+        {
+            "character": "Ward",
+            "line": "Um... you've mistaken my admiration for impatience."
+        },
+        {
+            "character": "Skye",
+            "line": "No, it's impatience."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay. Sorry. Didn't mean to stress you out."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe you should duck outside. Try again on the sat-phone just to make sure."
+        },
+        {
+            "character": "Ward",
+            "line": "No. We stick together and we stick to the plan. The sooner you decrypt this hard drive..."
+        },
+        {
+            "character": "Skye",
+            "line": "The sooner we get to them. I heard you twice the first time."
+        },
+        {
+            "character": "Ward",
+            "line": "Are you all right? You look nervous."
+        },
+        {
+            "character": "Skye",
+            "line": "How can you tell, superspy?"
+        },
+        {
+            "character": "Ward",
+            "line": "Staying unnaturally still to keep from fidgeting, maintaining eye contact to give the impression of confidence. What's wrong?"
+        },
+        {
+            "character": "Skye",
+            "line": "The last time I was in this booth, I was sitting across from Mike Peterson... a good man, and now he's a murderer. And we are FBI's most wanted. It's just... like any moment, something could go horribly wrong."
+        },
+        {
+            "character": "Ward",
+            "line": "Relax. You're doing great."
+        },
+        {
+            "character": "Skye",
+            "line": "Hiding what I'm thinking and feeling... it doesn't come as easy for me as it does for you."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, it comes with experience."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, I guess it does."
+        }
+    ]
+}

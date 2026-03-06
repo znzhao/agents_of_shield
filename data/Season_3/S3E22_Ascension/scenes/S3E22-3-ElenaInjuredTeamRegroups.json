@@ -1,0 +1,95 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 3,
+    "scene_name": "ElenaInjuredTeamRegroups",
+    "description": "The team frantically works to stabilize Elena after she was injured. Tempers flare as Mack blames Radcliffe for their situation, but Coulson forces everyone to focus on saving Elena. The intense scene culminates in Mack having to cauterize Elena's wound with a blowtorch, per her insistence, highlighting the gravity of their isolation and the urgency of their predicament.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "lincoln"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Look. It's really bad. She's bleeding out. I can't see. Hey, Electric Company, can you light things up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I got it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, that's not good. She's bleeding way too fast."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Her metabolism must've increased to compensate for her Inhuman speed."
+        },
+        {
+            "character": "Mack",
+            "line": "Can you fix it?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "If we can get her an injection of Acebutolol from the lab."
+        },
+        {
+            "character": "Mack",
+            "line": "We can't get to the lab ‘cause this idiot turned good agents into kill zombies, so come up with something else."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'd been kidnapped, repeatedly threatened."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, Daisy said you were more than happy to play mad scientist."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I need tools, medicine."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, the alternative was death."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop! We can either argue or we can save her, not both. We're trapped in this room, so we need to stop the bleeding with something in here."
+        },
+        {
+            "character": "Mack",
+            "line": "You gonna be okay."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I didn't say it was a good idea, but it may be our best."
+        },
+        {
+            "character": "Mack",
+            "line": "It could kill her."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can do better."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Not in the time we have."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Hold this."
+        },
+        {
+            "character": "Elena",
+            "line": "No. Mack."
+        }
+    ]
+}

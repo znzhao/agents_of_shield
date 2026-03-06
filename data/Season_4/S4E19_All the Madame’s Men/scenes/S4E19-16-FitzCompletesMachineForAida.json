@@ -1,0 +1,24 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 16,
+    "scene_name": "FitzCompletesMachineForAida",
+    "description": "Fitz finishes the design for Aida’s body-generating machine and discusses the implications with her. He expresses a desire to join her on the 'other side.' This marks his full commitment to Hydra's cause inside the Framework and underscores the existential danger posed by Aida's plan.",
+    "roles": [
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "dark",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "It's done, Ophelia. I've completed the design. You won't have to live like this for much longer. I had my doubts about the project, but I finally see it. Your new body will be stronger. That's who you were meant to be. I just have one request. Take me with you."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I hoped you'd say that."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 7,
+    "scene_name": "TeamPrepsForInfiltrationAndMaceGetsID",
+    "description": "Back at the Playground, Mack finalizes preparations on the bus and Simmons observes the subtle details of the Framework. Mace gives Coulson a forged Hydra ID prepared by Ward, prepping them for their infiltration mission. The team dynamic continues to shift as new tasks are assigned and trust issues remain.",
+    "roles": [
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "phil_coulson",
+        "jeffrey_mace",
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Sir, the plates are switched, the transponder's toast. There's no way Hydra can track the bus."
+        },
+        {
+            "character": "Mace",
+            "line": "Fast work. What's with the sat-radio?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I noticed the bus had a comms system, so I decrypted it and synched it up with this. So now we can listen in on Hydra's transmissions and maybe steal some intel."
+        },
+        {
+            "character": "Mace",
+            "line": "You, my friend, are gonna fit right in here."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I can do more. If you need a driver, I got a lead foot."
+        },
+        {
+            "character": "Mace",
+            "line": "I appreciate the offer, but another lead-footed soul already volunteered."
+        },
+        {
+            "character": "Coulson",
+            "line": "I saw Mace briefly. You told him, didn't you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I knew I was losing him when his complexion changed from oatmeal to water chestnut. Shades of flesh color programmed into the Framework. Fitz believed even empty vessels needed variety."
+        },
+        {
+            "character": "Hope",
+            "line": "You mean Dr. Fitz, the guy from my history book?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Honestly, you really shouldn't pay much attention to what's in there. I taught it for years. It's more fiction than fact."
+        },
+        {
+            "character": "Hope",
+            "line": "Hi, Dad. Did you know that those Hydra books lied to us?"
+        },
+        {
+            "character": "Mack",
+            "line": "I guess you finished doing your homework, huh?"
+        },
+        {
+            "character": "Hope",
+            "line": "Can I go check out the old Quinjet?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, come on, Sparkplug, you know you don't need a Quinjet to fly. Right? You know that, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that's right. I'm sorry. Have we met?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Phil Coulson. I was here when you first came in. This is Jemma Simmons."
+        },
+        {
+            "character": "Mack",
+            "line": "Ah, it's good to meet you. This little girl right here, this is my daughter, Hope."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's lovely to meet you, Hope."
+        },
+        {
+            "character": "Hope",
+            "line": "Nice to meet you, British lady."
+        },
+        {
+            "character": "Simmons",
+            "line": "And is Hope's mother here, as well?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, no, it's just me and Sparkplug. Hey, you hungry? When was the last time you had something to eat? And candy doesn't count. It's good to meet you."
+        },
+        {
+            "character": "Mace",
+            "line": "Excuse me. Coulson, you got a second? Pulled this I.D. off one of the bus crew. Should get you past the gate. Ward just had to swap the photo, change the name."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jamie Flugelman?"
+        },
+        {
+            "character": "Mace",
+            "line": "Well, it's the only one he could clear from Hydra's database, so mount up, Flugelman."
+        }
+    ]
+}

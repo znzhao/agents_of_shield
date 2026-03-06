@@ -1,0 +1,71 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 4,
+    "scene_name": "GhostRiderInterrogatesPrisoner",
+    "description": "Robbie Reyes (Ghost Rider) interrogates one of the captured Aryan Brotherhood men, pressing for the location of the stolen weapon. The thug, terrified, insists he knows nothing but is threatened with far worse if he doesn't talk. The scene establishes the vengeful, supernatural presence stalking the gang members.",
+    "roles": [
+        "robbie_reyes"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "We just stole a box. I don't even know what was inside of it. We... We loaded it onto an 18-wheeler, we parked it in a warehouse, and we just left it."
+        },
+        {
+            "character": "Robbie",
+            "line": "Left it for who?"
+        },
+        {
+            "character": "Man",
+            "line": "The Chinatown Crew. They set the job up and were willing to pay big."
+        },
+        {
+            "character": "Robbie",
+            "line": "Lies. Aryan Brotherhood working with the Chinese?"
+        },
+        {
+            "character": "Man",
+            "line": "I swear! I swear that's all I know."
+        },
+        {
+            "character": "Robbie",
+            "line": "Where's this warehouse?"
+        },
+        {
+            "character": "Man",
+            "line": "I-I can't tell you that, man. My people are gonna be mowed down in the payback ... the ones you didn't already kill."
+        },
+        {
+            "character": "Robbie",
+            "line": "If you don't tell me, you'll have to tell him."
+        },
+        {
+            "character": "Coulson",
+            "line": "This guy's missing. The rest are dead."
+        },
+        {
+            "character": "Mack",
+            "line": "Aryan Brotherhood. They're not my kind of brothers."
+        },
+        {
+            "character": "Coulson",
+            "line": "They've been know to work for cash. Burglary, assault, sort of the value meal of hired guns. They're suspected in the recent theft of this big rig. Probably prepping for a larger score."
+        },
+        {
+            "character": "Mack",
+            "line": "Big, yellow, hard to hide. So, what, are we looking for this thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "And if Daisy's chasing the same angle, maybe we get to the finish line first."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll greet her when she arrives."
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 5,
+    "scene_name": "FitzSimmonsLectureAndDonnieAttack",
+    "description": "At the academy, Fitz and Simmons present a lecture about the ethical dangers of scientific potential to the students. Suddenly, Donnie experiences a freezing attack similar to the previous incident. Fitz and Simmons act quickly to save Donnie, with Skye locating and smashing the device, while Ward coordinates the response.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Weaver",
+            "line": "Today, we're proud to welcome back two of S.H.I.E.L.D. Academy's finest, our youngest graduates to date. You know their names. Please join me in welcoming Agent Leopold Fitz and Agent Jemma Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you, Agent Weaver. It's nice to be back. Unfortunately, it has to be under these circumstances."
+        },
+        {
+            "character": "Fitz",
+            "line": "If you don't know the history of S.H.I.E.L.D. by now, there's no excuse... unless you fell asleep in Professor Vaughn's class... that's a perfectly acceptable excuse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Our instinct as scientists is to move forward, advance quickly, push the envelope. But given recent events, it makes sense to reflect back on our history."
+        },
+        {
+            "character": "Ward",
+            "line": "And you can't think of any reason a top student would want to go after you?"
+        },
+        {
+            "character": "Seth",
+            "line": "No. Um, the top students are my friends. It's competitive here, but we usually don't resort to knocking each other off. This isn't operations, no offense."
+        },
+        {
+            "character": "Ward",
+            "line": "None taken. All these names you would consider friendly?"
+        },
+        {
+            "character": "Seth",
+            "line": "Well, not Donnie Gill. I barely know the kid. He doesn't talk to anyone."
+        },
+        {
+            "character": "Ward",
+            "line": "And he was at the pool."
+        },
+        {
+            "character": "Seth",
+            "line": "Studying, but I don't think he's the guy. He just has trouble communicating with anyone below a 170 I.Q."
+        },
+        {
+            "character": "Fitz",
+            "line": "And S.H.I.E.L.D. was founded after the SSR was able to defeat the nearly indomitable force known as Hydra."
+        },
+        {
+            "character": "Simmons",
+            "line": "We tend to forget that these organizations... Hydra, Centipede, A.I.M.... were also made up of extremely brilliant scientists, men and women who started with the same unlimited potential as you or I."
+        },
+        {
+            "character": "Fitz",
+            "line": "Potential can sometimes be dangerous. Plutonium has the potential to power a city... or to be a nuclear bomb."
+        },
+        {
+            "character": "Simmons",
+            "line": "Today, we'd like to share a few stories from the field in which we learned this lesson up close and faced the consequences when untested technology or biology lands in the wrong hands. And don't worry... we brought pictures."
+        },
+        {
+            "character": "Donnie",
+            "line": "Oh, god. Oh, god! What is this?! Hey, what's happening to me?! Help me! Help me! Get it off! Make it stop! Help me get it off! No! Make it stop!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Find exposed skin. He needs glucose to raise his body's natural freezing point."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons, I need something to break the ice. Jemma. Ready?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz, talk to me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Something's doing this to him. Find it."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, there it is. Fitz, what now?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Smash the damn thing!"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's okay. It's okay. It's okay. It's okay. It's over."
+        }
+    ]
+}

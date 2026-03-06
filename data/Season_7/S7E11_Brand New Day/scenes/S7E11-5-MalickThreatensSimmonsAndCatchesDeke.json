@@ -1,0 +1,74 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "MalickThreatensSimmonsAndCatchesDeke",
+    "description": "On Zephyr One, Malick tries to extract the location of Fitz from Simmons’ memories but is unable to access what he wants due to the mental block. John Garrett brings Deke in as a captive, and Nathaniel threatens to harm Simmons if he doesn’t get answers. The emotional stakes are high as Simmons pleads for Deke's safety, setting up impending memory extraction.",
+    "roles": [
+        "nathaniel_malick",
+        "jemma_simmons",
+        "deke_shaw",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I like to think about the first law of thermodynamics... That no energy in the universe is created..."
+        },
+        {
+            "character": "Simmons",
+            "line": "That means that every bit of energy inside us, every particle, will go on to be a part of something else..."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "As much as I would love to watch you leave Fitz catatonic, I need you to show me where he is now."
+        },
+        {
+            "character": "Simmons",
+            "line": "I miss you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm here. Together. We're..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Professional, and matter of fact, and there's this chasm in the middle of the room of all these things of..."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I'm supposed to be able to see whatever memory I want. You are blocking me. How?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not doing anything. Maybe it's you. Maybe you're not equipped to..."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Tell me how."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "John, bring in the grandson."
+        },
+        {
+            "character": "Simmons",
+            "line": "Deke? He's here?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "And trying to play hero."
+        },
+        {
+            "character": "Simmons",
+            "line": "He doesn't know anything, please, you can't..."
+        },
+        {
+            "character": "Deke",
+            "line": "Hi, Nana. How's your day been?"
+        }
+    ]
+}

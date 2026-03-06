@@ -1,0 +1,94 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 4,
+    "scene_name": "AndrewAssessesJoeyWithDaisyAndMack",
+    "description": "Back at the Playground, Dr. Andrew Garner arrives to evaluate Joey Gutierrez as a candidate for Daisy's new team. Daisy tries to make Andrew comfortable, and the pair exchange light banter. Andrew, however, maintains a professional stance, reminding Daisy and Mack that Joey's safety and mental health take precedence. The scene highlights the internal pressures on Daisy and her complicated dynamic with Andrew, particularly regarding S.H.I.E.L.D.'s new direction and May's absence.",
+    "roles": [
+        "andrew_garner",
+        "skye",
+        "alphonso_mackenzie",
+        "joey_gutierrez"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Good to see you, Dr. Garner."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hmm, enjoying the use of the private jet?"
+        },
+        {
+            "character": "Andrew",
+            "line": "It's very helpful. Thanks. Those jump seats aren't made for transcontinental trips, I'll tell you that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you hungry? I can have something whipped up for you."
+        },
+        {
+            "character": "Andrew",
+            "line": "That would be great. Thanks."
+        },
+        {
+            "character": "Daisy",
+            "line": "Anything to drink?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Daisy, trying to butter me up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What, are you not hungry?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Hey, look, my job is to keep everyone safe. Not just potential recruits, but you, as well. Bribery's not gonna get this guy approved for the team any faster."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wouldn't know, because you haven't approved anyone yet."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, here's, uh, Joey Gutierrez."
+        },
+        {
+            "character": "Andrew",
+            "line": "Yeah, I was reading his file on the flight, liquefies metal. How's he holding up?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, he's terrified."
+        },
+        {
+            "character": "Andrew",
+            "line": "That's a healthy response. What about you two? How are you guys doing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, no. Unh-unh-unh. You are not getting me on the couch today, doc, unless it's a conversation between friends."
+        },
+        {
+            "character": "Andrew",
+            "line": "That's all I meant."
+        },
+        {
+            "character": "Daisy",
+            "line": "Great. How's May? Where is she? Is she ever coming back?"
+        },
+        {
+            "character": "Andrew",
+            "line": "You should ask her yourself."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well... I would if I knew where she was."
+        }
+    ]
+}

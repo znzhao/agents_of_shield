@@ -1,0 +1,40 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 18,
+    "scene_name": "MalickHiveAndGiyeraPlot",
+    "description": "Malick and Giyera receive news that the paralyzing Inhuman has been captured, and they discuss their doubts and fears about Hive's true power. Hive hints at his potential, promising to make a believer of Malick, deepening the foreboding sense of threat looming over S.H.I.E.L.D.",
+    "roles": [
+        "gideon_malick",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Did we get the Inhuman?"
+        },
+        {
+            "character": "Giyera",
+            "line": "The doctors are with him now, but they say his powers are strong."
+        },
+        {
+            "character": "Malick",
+            "line": "At least we get some good news today."
+        },
+        {
+            "character": "Hive",
+            "line": "You want to believe, but you don't know if you can."
+        },
+        {
+            "character": "Malick",
+            "line": "Coulson survived. Could be you're not who I thought you were."
+        },
+        {
+            "character": "Hive",
+            "line": "You'll believe, once I make a believer out of him."
+        }
+    ]
+}

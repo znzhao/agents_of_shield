@@ -1,0 +1,64 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 9,
+    "scene_name": "CoulsonAndMackInvestigateTruckScene",
+    "description": "Coulson and Mack search an auto shop where the hijacked big rig was abandoned. They investigate the crime scene, where several dead bodies appear to have violently turned on each other. The two agents piece together clues about the nature of the weapon involved and suspect Daisy might already be on a similar trail.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Sounds right."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know it is, because according to the logs, you called Coulson back to H.Q. for resupply yourself. Why, if not to give him that intel in person, knowing it's against the Director's orders?"
+        },
+        {
+            "character": "May",
+            "line": "I didn't send them. I don't have the authority. They acted on their own."
+        },
+        {
+            "character": "Simmons",
+            "line": "You knew I'd find out. Why not tell me? I have daily lie detection."
+        },
+        {
+            "character": "May",
+            "line": "That's why."
+        },
+        {
+            "character": "Simmons",
+            "line": "And now I have to report it, which means now I either look like I'm incompetent or colluding with you."
+        },
+        {
+            "character": "May",
+            "line": "Wouldn't want you falling out of favor with the director."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. I get it. It's abundantly clear you're uncomfortable with my new position..."
+        },
+        {
+            "character": "May",
+            "line": "I just want to know how comfortable you are with it. You actually trust this guy? Our team split up to lead departments, given different colors. 'Cause we're experts? No. I think the Director broke up the band on purpose."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course he did! As soon as Talbot gave the location of this base to the president, things changed. I knew we'd be divided, undermined, kept in the dark, so I have been clawing for as much power as I can possibly grab to keep a modicum of control over any of this. After all we've been through... I don't trust the new Director, but he trusts me, so now, in order to keep that trust, I must take the appropriate action to address this break in protocol. I'm sending you and your strike team to take Coulson and Mack out of the field, by force, if necessary. Clean up whatever mess he's in. That's an order."
+        },
+        {
+            "character": "May",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "Mack",
+            "line": "Place them at the four corners of the exterior of the building. That'll give us visuals through the walls."
+        }
+    ]
+}

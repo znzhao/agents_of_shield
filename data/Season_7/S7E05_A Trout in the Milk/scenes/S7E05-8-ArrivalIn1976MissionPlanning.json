@@ -1,0 +1,215 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 8,
+    "scene_name": "ArrivalIn1976MissionPlanning",
+    "description": "The Zephyr reappears in 1976, on the day of Project Insight’s launch. The team learns the launch protocol is active and that they cannot use the plane’s firepower without exposing themselves. Mack devises a plan for May and Coulson to infiltrate and flood the base, while Daisy and Sousa are tasked with hacking security. Sousa expresses his frustration with not understanding the technology or his situation, and Daisy encourages him before they embark on their mission. Deke and Elena are assigned to apprehend Wilfred Malick at his estate.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "enoch",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Stoner",
+            "line": "Happy 200. Happy Bicentennial. God bless America."
+        },
+        {
+            "character": "Man",
+            "line": "Sir. We have the official green light. Project Insight is ready for launch."
+        },
+        {
+            "character": "Stoner",
+            "line": "Well, then let's give them the biggest darn fireworks they've ever seen."
+        },
+        {
+            "character": "Sousa",
+            "line": "Three years. How the hell did we just jump three more years?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I told you, I don't know. We can't control it."
+        },
+        {
+            "character": "Sousa",
+            "line": "Well, who does?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch. Where have you been?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Here. Where you abandoned me. For 40 years."
+        },
+        {
+            "character": "Simmons",
+            "line": "Something's wrong. Without you, I feel like I've been... slipping. Was I supposed to know that we would jump? I keep forgetting."
+        },
+        {
+            "character": "Enoch",
+            "line": "Jemma Simmons, you are forgetting?"
+        },
+        {
+            "character": "Simmons",
+            "line": "And getting confused. I... - I'm not sure..."
+        },
+        {
+            "character": "Enoch",
+            "line": "Have you told anyone else?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm afraid to. But why am I afraid to tell these..."
+        },
+        {
+            "character": "Enoch",
+            "line": "Come with me. Everything will be fine."
+        },
+        {
+            "character": "Sousa",
+            "line": "Why did we just jump?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Sousa. I'm sorry. We're... We are working on it, but it's complicated."
+        },
+        {
+            "character": "Sousa",
+            "line": "Complicated. Then explain it to me. I'm a big boy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, we don't f-fully understand..."
+        },
+        {
+            "character": "Sousa",
+            "line": "You're in charge, and you don't know how this works?!"
+        },
+        {
+            "character": "Enoch",
+            "line": "Nobody understands the time drive. That is by design."
+        },
+        {
+            "character": "Sousa",
+            "line": "So you're screwing with time, but you have no idea what you're doing."
+        },
+        {
+            "character": "Deke",
+            "line": "Hey. Back off! She's trying."
+        },
+        {
+            "character": "Sousa",
+            "line": "That's not good enough! You're playing with matches and burning the house down."
+        },
+        {
+            "character": "Deke",
+            "line": "Leave her alone!"
+        },
+        {
+            "character": "Sousa",
+            "line": "Not until I get some answers. Lives are at stake. I was taken out of my life for this."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, we all were! We all were."
+        },
+        {
+            "character": "Mack",
+            "line": "Listen up! It's launch day for Project Insight. Hey, it's better than the day after. We move fast, we stop that satellite."
+        },
+        {
+            "character": "Daisy",
+            "line": "How? The base is fortified by now. And the Zephyr can't open fire. We'd give up our position."
+        },
+        {
+            "character": "Coulson",
+            "line": "We infiltrate on the ground. May and I can sneak in."
+        },
+        {
+            "character": "Mack",
+            "line": "With these."
+        },
+        {
+            "character": "May",
+            "line": "We're gonna blow up the place?"
+        },
+        {
+            "character": "Mack",
+            "line": "We're gonna flood it. If we can position the charges right, we can rupture some leaks and fill the base with lake water."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which would set off evac protocol and shut down the launch."
+        },
+        {
+            "character": "Coulson",
+            "line": "If we can't tell S.H.I.E.L.D. from Hydra, our best bet is to clear everybody out."
+        },
+        {
+            "character": "Mack",
+            "line": "Exactly. We need the base empty to preserve its state in the timeline."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hydra could be holding prisoners. They could get trapped in the flood."
+        },
+        {
+            "character": "Mack",
+            "line": "That's where you come in. I need you to hack into the security system and get us a surveillance feed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Once we have eyes, we'll scan and make sure no one is left behind."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm going with her. I'd rather be out there working the problem than in here where we disappear at any moment."
+        },
+        {
+            "character": "Deke",
+            "line": "What about Malick? We got a plan for him?"
+        },
+        {
+            "character": "Elena",
+            "line": "The waves won't stop coming until we remove him from the timeline."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson said Malick has an estate in River's End. I want you to take the Quinjet and find it."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm in. Malick's kind of my area of expertise now."
+        },
+        {
+            "character": "Mack",
+            "line": "Good. Find Malick, and bring him in."
+        },
+        {
+            "character": "Elena",
+            "line": "And do what with him?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know yet."
+        },
+        {
+            "character": "Elena",
+            "line": "We can't keep him locked up forever, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "We'll figure it out. Just bring him in. The clock's ticking."
+        }
+    ]
+}

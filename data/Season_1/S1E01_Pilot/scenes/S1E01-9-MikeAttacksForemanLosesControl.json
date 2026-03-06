@@ -1,0 +1,51 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 9,
+    "scene_name": "MikeAttacksForemanLosesControl",
+    "description": "Michael Peterson, struggling with desperation and rage, confronts his former factory boss for work and recognition. The encounter escalates—Mike uses his powers to critically injure the foreman, marking a crucial turning point in his arc as he loses control, witnessed only via news later by the S.H.I.E.L.D. team.",
+    "roles": [
+        "michael_peterson"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gary",
+            "line": "My hands are tied, Mike. It's company policy. You didn't meet quota. I had to let you go."
+        },
+        {
+            "character": "Mike",
+            "line": "Gary, look, I got no choice. It's just me and my boy now."
+        },
+        {
+            "character": "Gary",
+            "line": "There's no openings, Mike, and even if there were, I got a hundred guys standing in line that are just like you, only they won't bitch when their back hurts."
+        },
+        {
+            "character": "Mike",
+            "line": "I was injured, but I'm stronger now. I can handle twice the load I used to."
+        },
+        {
+            "character": "Gary",
+            "line": "What are you not hearing? You don't cut it. When I say I need things moved, I need..."
+        },
+        {
+            "character": "Mike",
+            "line": "Like that?"
+        },
+        {
+            "character": "Gary",
+            "line": "Are you out of your mind?!"
+        },
+        {
+            "character": "Mike",
+            "line": "These are people, Gary. Men! Not parts you replace when they break."
+        },
+        {
+            "character": "Gary",
+            "line": "It's not me, man. It's the company. I'm not the bad guy. I'm not the bad guy, man."
+        }
+    ]
+}

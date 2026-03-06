@@ -1,0 +1,110 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 1,
+    "scene_name": "FitzRescuedByCoulsonAndHunter",
+    "description": "Hunter, Coulson, and Michael Peterson retrieve Fitz in San Francisco as he narrowly evades agents loyal to Gonzales. They discuss the ongoing search for Skye, S.H.I.E.L.D.'s split, and HYDRA's obsession with powered individuals. Coulson proposes the controversial plan to make a deal with Ward to infiltrate HYDRA, setting the main plot for the episode in motion.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "lance_hunter",
+        "michael_peterson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "That won't end well. Ohh."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get us in the air."
+        },
+        {
+            "character": "Mike",
+            "line": "Will do."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mike?"
+        },
+        {
+            "character": "Mike",
+            "line": "Hey, Fitz. Good to see you again."
+        },
+        {
+            "character": "Fitz",
+            "line": "New hardware. Hey, how did you upgrade..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not now, Fitz."
+        },
+        {
+            "character": "Hunter",
+            "line": "Strap in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, those tips for evading the tail were very useful. Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "The toolbox?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, it's been a while since I've been in the field solo. Not since, um..."
+        },
+        {
+            "character": "Hunter",
+            "line": "It looks like you held up all right."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Held up quite well, actually. And you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, we need to find Skye. Problem is, all we know is that she was taken by the same powered man who took Raina and Cal."
+        },
+        {
+            "character": "Fitz",
+            "line": "Do we have any leads?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but HYDRA might. HYDRA's new heads... Strucker and List. My sources say they're researching powered people. Apparently, they're even more obsessed than Whitehall."
+        },
+        {
+            "character": "Hunter",
+            "line": "We need to know what they know, get into HYDRA."
+        },
+        {
+            "character": "Fitz",
+            "line": "Desperate times, desperate measures. Count me in."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm relieved to hear you say that. We're making a deal with Ward."
+        },
+        {
+            "character": "Man",
+            "line": "Ethan Johnston, 26, potential enhanced. Died of cardiogenic shock in the 37th hour of experimentation."
+        },
+        {
+            "character": "List",
+            "line": "Still no quantum signature?"
+        },
+        {
+            "character": "Man",
+            "line": "No, Dr. List."
+        },
+        {
+            "character": "List",
+            "line": "That's a waste. Take the cadaver to the lab. Compare him to the other samples. Hail HYDRA."
+        }
+    ]
+}

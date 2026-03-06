@@ -1,0 +1,56 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 14,
+    "scene_name": "AftermathAtTheLighthouseAndBeaconExplosion",
+    "description": "Back at the Lighthouse, Daisy, Fitz, and Noah examine the beacon as the rest of the team returns from the mission. Daisy checks on Elena's condition, while Fitz and Noah notice the beacon overheating. Recognizing the imminent danger, Noah sacrifices himself by containing the beacon's explosion, buying time for the others to escape. The scene ends on a somber, suspenseful note as the team realizes the fight is escalating.",
+    "roles": [
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Fitz. I just wanted to make sure that..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we scanned for signals before we landed. We're not being tracked."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, good."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're just waiting for the internal circuitry to cool down. It takes a lot to power this thing."
+        },
+        {
+            "character": "Noah",
+            "line": "But it is not cooling down."
+        },
+        {
+            "character": "Fitz",
+            "line": "How is sh... How is she?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Still no word. Jemma's in with her now."
+        },
+        {
+            "character": "Noah",
+            "line": "In fact, it is heating up. Run."
+        },
+        {
+            "character": "Daisy",
+            "line": "What?"
+        },
+        {
+            "character": "Noah",
+            "line": "Run. Go! Go! Now!"
+        }
+    ]
+}

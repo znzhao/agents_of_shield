@@ -1,0 +1,66 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 10,
+    "scene_name": "SkyeCrisisAndTriplettSupportsSimmons",
+    "description": "Upstairs on the Bus, while the infiltration continues below, Triplett shares a personal moment with Simmons about caring for teammates as they both anxiously wait for news on the mission. May and Simmons grapple with the reality of Skye's deteriorating condition. Suddenly, Skye codes and Simmons and Triplett spring into emergency action, fighting to keep her alive, while May stews in frustration over the lack of communication with the away team.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "antoine_triplett",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Tough when it's your team. You guys go back a ways?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not really. A few months. We have nothing in common... couldn't be more different."
+        },
+        {
+            "character": "Triplett",
+            "line": "But you can't imagine your life without her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. You've experienced that, Agent Triplett?"
+        },
+        {
+            "character": "Triplett",
+            "line": "I have. Sometimes, a person takes you by surprise."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Triplett",
+            "line": "She's very lucky to have you. I know anything bad ever happens to me, hope you're in my corner, too."
+        },
+        {
+            "character": "May",
+            "line": "Comms are down. If I don't hear anything within the hour, I'm going after them."
+        },
+        {
+            "character": "Simmons",
+            "line": "Skye's coding. Both of you, now."
+        },
+        {
+            "character": "May",
+            "line": "How can we help?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I need a unit of Epi."
+        },
+        {
+            "character": "Triplett",
+            "line": "Got it."
+        }
+    ]
+}

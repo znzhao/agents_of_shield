@@ -1,0 +1,41 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 15,
+    "scene_name": "RainaInjectsGarrettGH325",
+    "description": "Raina prepares the GH-325 serum and injects it into Garrett, who convulses before reaching an uncharacteristic, euphoric calm. Ward returns just as the process is completed. The moment is both suspenseful and mysterious as it leaves questions about Garrett’s fate and new powers.",
+    "roles": [
+        "john_garrett",
+        "raina",
+        "grant_ward"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "I can't promise it'll work. And once it's gone, I won't be able to make any more. This is the end of the road."
+        },
+        {
+            "character": "Garrett",
+            "line": "Without it, I'm dead for sure. So... what the hell?"
+        },
+        {
+            "character": "Raina",
+            "line": "That's it. The final ingredient."
+        },
+        {
+            "character": "Garrett",
+            "line": "Is it done? If the job was easy..."
+        },
+        {
+            "character": "Ward",
+            "line": "What are you feeling?"
+        },
+        {
+            "character": "Garrett",
+            "line": "The universe."
+        }
+    ]
+}

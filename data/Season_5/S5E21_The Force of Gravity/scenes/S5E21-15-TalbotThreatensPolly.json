@@ -1,0 +1,35 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 15,
+    "scene_name": "TalbotThreatensPolly",
+    "description": "Talbot, his mind further deteriorating, interrogates Polly and demonstrates his control over gravity, menacing those around him. The scene cements his tragic fall from heroism as he seeks validation and information, foreshadowing the catastrophic consequences of his actions.",
+    "roles": [
+        "glenn_talbot"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Don't worry. These fellas don't bite. At least, I don't think they do. You don't bite, do ya?"
+        },
+        {
+            "character": "Polly",
+            "line": "Who's flying this plane?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Gravity. It doesn't just make you crash and burn, darling. It also makes you ascend to the heavens."
+        },
+        {
+            "character": "Polly",
+            "line": "What do you want from us?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You drew me. You see me in your head, don't you? You ever see me tearing the Earth apart bringing something up from the ground? Good. Now tell me where."
+        }
+    ]
+}

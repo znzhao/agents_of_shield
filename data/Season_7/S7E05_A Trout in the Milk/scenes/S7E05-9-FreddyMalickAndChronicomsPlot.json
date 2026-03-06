@@ -1,0 +1,60 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 9,
+    "scene_name": "FreddyMalickAndChronicomsPlot",
+    "description": "Freddy Malick confers with the Chronicoms, who instruct him on the next stage of their plan and use his attachment to his son as a weakness. The Chronicoms explain how S.H.I.E.L.D. will be forced to reveal themselves by forcing Malick to gain leverage. The Chronicoms’ manipulation of events underscores the scale of their threat.",
+    "roles": [
+        "gideon_malick",
+        "wilfred_malick"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Freddy",
+            "line": "Had a feeling you'd be back today. You know, I have the best view in town for watching the launch."
+        },
+        {
+            "character": "Luke",
+            "line": "That is not why I am here. We need to talk about your transgression in New York."
+        },
+        {
+            "character": "Freddy",
+            "line": "At the bar? That was three years ago. You're still angry about that?"
+        },
+        {
+            "character": "Luke",
+            "line": "Chronicoms do not get angry. We adapt. In fact, you taught us a lesson about human behavior that day."
+        },
+        {
+            "character": "Freddy",
+            "line": "Did I?"
+        },
+        {
+            "character": "Luke",
+            "line": "You were handed victory and the power to eradicate thousands of your foes. Yet you would have thrown it away to save one person."
+        },
+        {
+            "character": "Freddy",
+            "line": "My son. I had no choice."
+        },
+        {
+            "character": "Luke",
+            "line": "It only seemed that way. The fatal flaw in the human condition, which you'll now help us exploit. Sibyl, our predictor, has seen that S.H.I.E.L.D. will find you here. And when they do, you will have leverage."
+        },
+        {
+            "character": "Freddy",
+            "line": "Why not just put these two on the list?"
+        },
+        {
+            "character": "Luke",
+            "line": "That would not be as effective. We want S.H.I.E.L.D. to reveal themselves, to give up their position. You will deliver this message."
+        },
+        {
+            "character": "Freddy",
+            "line": "Loud and clear."
+        }
+    ]
+}

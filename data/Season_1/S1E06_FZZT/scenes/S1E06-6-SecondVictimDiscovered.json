@@ -1,0 +1,144 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 6,
+    "scene_name": "SecondVictimDiscovered",
+    "description": "The team is alerted to another electromagnetic event at a farmhouse and quickly mobilizes. They find Frank Whalen dead and floating, with similar symptoms to Cross. Skye aligns both victims as volunteer firefighters who responded to the Chitauri invasion.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "No, the satellite's picking up another electrostatic event not 20 kilometers from here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, what's the latest reading?"
+        },
+        {
+            "character": "FItz",
+            "line": "Uh, we're at 324 megajoules and growing stronger, dangerous territory, sir."
+        },
+        {
+            "character": "Skye",
+            "line": "There's a farmhouse a mile North of you, right at the center of the signal. That's got to be it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, dig up everything you can on whoever lives at that farm. We need to know who we're dealing with."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hold on, now. What just happened? Um, it's gone."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's gone?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The electrostatic signal... it seemed to pulse, then disappear."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need a shortcut."
+        },
+        {
+            "character": "Coulson",
+            "line": "Door's barred from the inside."
+        },
+        {
+            "character": "Ward",
+            "line": "Hayloft's open."
+        },
+        {
+            "character": "Coulson",
+            "line": "We could ram it with the truck. Or..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Scan the perimeter. Whoever did this couldn't have gotten far."
+        },
+        {
+            "character": "Coulson",
+            "line": "Barricaded himself inside. Went for his shotgun."
+        },
+        {
+            "character": "May",
+            "line": "He was scared, trying to protect himself."
+        },
+        {
+            "character": "Coulson",
+            "line": "From who? How did they get to him?"
+        },
+        {
+            "character": "May",
+            "line": "Another burn mark on the forehead."
+        },
+        {
+            "character": "Ward",
+            "line": "No sign of anyone... no tracks, no vehicles down the road."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, we need real-time SAT surveillance on this area right now."
+        },
+        {
+            "character": "Skye",
+            "line": "Hang on. I think I found something you might want to see first. Sending it over now. The guy who owns the farm's name is Frank Whalen. He's a volunteer firefighter at the same station house as our first victim, Adam Cross."
+        },
+        {
+            "character": "Ward",
+            "line": "Our two victims knew each other."
+        },
+        {
+            "character": "Skye",
+            "line": "They were both responders when the aliens crashed New York."
+        },
+        {
+            "character": "Ward",
+            "line": "Two victims from the same firehouse found in the same weird way."
+        },
+        {
+            "character": "Skye",
+            "line": "We're looking for a killer."
+        },
+        {
+            "character": "Fitz",
+            "line": "Gotcha! Hey, um, anyone else notice all the metal scattered around the body, like an electromagnetic field was present? The question is, what created it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We need to get this body back to the lab as soon as possible. Something about these wounds..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, what did you find out about the firehouse?"
+        },
+        {
+            "character": "Skye",
+            "line": "It turns out they sent an engine to New York with a dozen volunteers after the Chitauri invasion, including Cross and Whalen. Maybe it has something to do with why they were targeted?"
+        },
+        {
+            "character": "Ward",
+            "line": "Or how they were killed."
+        },
+        {
+            "character": "Skye",
+            "line": "You mean like... an alien weapon?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't know that. Let's just make sure we get to those firefighters before anyone else does."
+        }
+    ]
+}

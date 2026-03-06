@@ -1,0 +1,53 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 13,
+    "scene_name": "PodLoadedForCryoJourney",
+    "description": "Inside the facility, Fitz and Hunter load Enoch's pod onto the Zephyr. Fitz preps the pod for his journey, explaining to Hunter and Robin's mother that he will go into cryo-freeze to reach his friends in the future, planning to be awakened by Enoch in 74 years. The team has to act fast as guards move in and the self-defense systems are activated.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "These will be waiting for me when I get there. Team S.H.I.E.L.D. will be fully armed."
+        },
+        {
+            "character": "Polly",
+            "line": "How does this get Fitz to the future?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a Cryo-Freeze Chamber."
+        },
+        {
+            "character": "Hunter",
+            "line": "What?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I'm taking the long way there. Gonna sleep for 74 years."
+        },
+        {
+            "character": "Hunter",
+            "line": "That is the most insane idea in our history of insane ideas."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep."
+        },
+        {
+            "character": "Hunter",
+            "line": "We can't hide you in a wall. You'll suffocate when you wake up. And if we leave you sitting around here, who knows what people or things are gonna find their way in there."
+        },
+        {
+            "character": "Enoch",
+            "line": "He's not going to be here. I summoned a Chronicom Vessel. We'll orbit a planet hidden safely away from Earth until he wakes up."
+        }
+    ]
+}

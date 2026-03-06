@@ -1,0 +1,193 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "DaisyAndSousaAmbushed",
+    "description": "Sousa and Daisy work together in the Lighthouse to unlock security during the infiltration, while Sousa struggles with modern technology and the emotional weight of displacement. Daisy attempts to reassure and acclimate him, even giving him a photo of himself. Before they can proceed further, Nathaniel Malick ambushes them, as the Chronicoms had anticipated their move.",
+    "roles": [
+        "skye",
+        "sousa",
+        "nathaniel_malick"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "You do your thing. I got your back. I'm guessing you don't really carry a piece, do you, seeing as you got that super serum powers."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, it's not really a super serum thing."
+        },
+        {
+            "character": "Sousa",
+            "line": "Didn't expect a straight answer out of you."
+        },
+        {
+            "character": "Daisy",
+            "line": "How is there a firewall already?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Seems things just get worse the later in time you go. I think this is my last stop."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's okay. This is just a setback. My software will crack it. It just needs... a minute to load."
+        },
+        {
+            "character": "Sousa",
+            "line": "Maybe you need a bigger computer. That thing's... too small. What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Um..."
+        },
+        {
+            "character": "Sousa",
+            "line": "What? What's that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "This is a phone. But only old people use it for calls."
+        },
+        {
+            "character": "Sousa",
+            "line": "How did you do that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Check it out."
+        },
+        {
+            "character": "Sousa",
+            "line": "Wow. Wow!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, you look...you look okay for a guy who just aged 20 years."
+        },
+        {
+            "character": "Sousa",
+            "line": "Looks like I missed a lot."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sorry. This is just so weird and messed up, but the Chronicoms jumped, and we had to dive in after them. Without us, it's... it's way worse."
+        },
+        {
+            "character": "Sousa",
+            "line": "I get it. Just... wish I could've said some goodbyes."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy's in. We've got eyes in the base."
+        },
+        {
+            "character": "Mack",
+            "line": "The doors are unlocked. Coulson, May, you're clear for entry."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm digging these throwback uniforms. Covert and fashionable."
+        },
+        {
+            "character": "May",
+            "line": "Should get us past the security perimeter. We're at the first checkpoint. Waiting on access."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Kinda feels like back in the day. We were good Agents together, regardless of what we became later. Just wondering if it'll ever feel that way again."
+        },
+        {
+            "character": "May",
+            "line": "I'm wondering if I'm ever going to feel anything again."
+        },
+        {
+            "character": "May",
+            "line": "We're approaching the hangar."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy that. I'm working on unlocking the next checkpoint. Just give me a sec. Hey, could you help open that panel?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "They told me if someone poked around in the system, it would be you. So happy you came back into my life."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're at the second checkpoint. Daisy, can you get us in?"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy? Daisy, do you copy? Simmons, I'm not getting a response."
+        },
+        {
+            "character": "Simmons",
+            "line": "Her signal has dropped."
+        },
+        {
+            "character": "Mack",
+            "line": "Keep trying to reach her. We're running out of time."
+        },
+        {
+            "character": "Freddy",
+            "line": "You of all people."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, I didn't think I'd see you again either, but here we are."
+        },
+        {
+            "character": "Freddy",
+            "line": "Actually, I had a notion that you'd turn up. Just like they said you would. We have a fine view of the launch... moments away. Hmm?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I hate to interrupt your otherwise leisurely afternoon..."
+        },
+        {
+            "character": "Elena",
+            "line": "The launch isn't happening. S.H.I.E.L.D. is shutting it down."
+        },
+        {
+            "character": "Freddy",
+            "line": "That so? Because I can't escape the feeling that you guys have no idea what you're up against."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, then you can fill us in 'cause you're coming with us now."
+        },
+        {
+            "character": "Freddy",
+            "line": "No. I'm not going anywhere."
+        },
+        {
+            "character": "Mack",
+            "line": "Cell blocks 1 through 6 are clear. Any word from Daisy and Sousa?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Still nothing. Do you think they've been compromised?"
+        },
+        {
+            "character": "Mack",
+            "line": "Let's hope not. We're less than minutes from launch. We have to get Coulson and May into position."
+        },
+        {
+            "character": "Enoch",
+            "line": "Is there some other way to bypass the security gates?"
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson, May... new plan."
+        }
+    ]
+}

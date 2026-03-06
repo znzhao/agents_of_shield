@@ -1,0 +1,36 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "michael_peterson",
+        "john_garrett",
+        "victoria_hand",
+        "antoine_triplett"
+    ],
+    "aliases": [
+        "Agent Coulson",
+        "Agent May",
+        "Agent Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Deathlok",
+        "Agent Garrett",
+        "Agent Triplett",
+        "Agent Hand",
+        "Phil"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Deathlok Program"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "The Hub (S.H.I.E.L.D. operations facility)",
+        "Triskelion (S.H.I.E.L.D. headquarters)"
+    ]
+}

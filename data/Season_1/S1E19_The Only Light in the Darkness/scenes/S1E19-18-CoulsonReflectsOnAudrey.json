@@ -1,0 +1,70 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 18,
+    "scene_name": "CoulsonReflectsOnAudrey",
+    "description": "On the Bus, Coulson quietly discusses with Fitz the choice not to reveal himself to Audrey. He admits his guilt over lying, but is comforted that she is safe. Coulson also reflects on his relationship with May, resolving to reconcile with her upon return.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sir. Is everything okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She said I never lied to her. Today, I did. But she's alive and safe. We did that, at least."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why didn't you tell her the truth?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I will. Someday, I guess, when there's a chance she'll understand. When we get back, I need to make things right with May. How can I expect Audrey to forgive me if I'm not willing to do the same? I'm gonna check with Trip and see how much longer we have."
+        },
+        {
+            "character": "Simmons",
+            "line": "We need to talk."
+        },
+        {
+            "character": "Fitz",
+            "line": "We do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Triplett thinks he's done something to upset you. Fitz, if you're questioning his loyalty in any way, I can assure you..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, what is it, then?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... you know how I can be. I hate change."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where's our bus?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And our team?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        }
+    ]
+}

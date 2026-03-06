@@ -1,0 +1,70 @@
+{
+    "season": 6,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "FitzAndSimmonsBriefReunionAndMalachiAbductsFitz",
+    "description": "Fitz and Simmons finally see each other face to face outside the cell, sharing an emotional and bewildered reunion. However, the moment is cut short when Malachi suddenly appears, seizes Fitz, and teleports him away before Enoch or Simmons can intervene. Enoch asks Simmons why she's there, highlighting the chaos and heartbreak of the unresolved reunion.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "enoch",
+        "malachi"
+    ],
+    "vibe": "emotional",
+    "location": "Kitson (alien casino planet / House of Games)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "P-Pardon me, sir, but I have reason to believe that my husband, sorry, uh, my future husband is behind that door."
+        },
+        {
+            "character": "Man",
+            "line": "And what reason is that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, the... the... the dolphin told me in a secret signal only I can hear that was meant just for me."
+        },
+        {
+            "character": "Man",
+            "line": "You need to lay off those puffs, lady."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is it that obvious?"
+        },
+        {
+            "character": "Man",
+            "line": "You've been under that gaming table for the last 20 minutes."
+        },
+        {
+            "character": "Simmmons",
+            "line": "That long? I've lost my mind. I've completely lost my mind."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please let that be the last of them."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't even know what I'm doing here."
+        },
+        {
+            "character": "Man",
+            "line": "Then maybe it's best you just go on home. This isn't a place for a nice girl like you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Jemma Simmons? You should not be here."
+        }
+    ]
+}

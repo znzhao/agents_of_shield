@@ -1,0 +1,120 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 10,
+    "scene_name": "MissionPerilRevelationAndConfrontation",
+    "description": "Skye successfully finds restricted documents and is shocked to learn there is no extraction plan for Ward and Fitz, confronting Coulson about S.H.I.E.L.D.'s disregard for agent safety. The discussion grows heated as she challenges the ethics of S.H.I.E.L.D.'s secrecy and bureaucratic compartmentalization.",
+    "roles": [
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "All right, boys. Let's find out where you really are. “Redacted documents.” Okay. There it is... if I could just access the raw file. Oh, crap. I don't have any time. Oh, my god. No extraction?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What did I tell you?"
+        },
+        {
+            "character": "Skye",
+            "line": "You told me to trust the system. And the system sent Ward and Fitz in there to die."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good day to be a rat. I mean, there you are, minding your own business, spreading filth and disease, scavenging for grub worms or rotten fruit. When lo and behold, you see it ... a prosciutto and buffalo mozzarella sandwich."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "With just a hint of pesto Aioli."
+        },
+        {
+            "character": "Ward",
+            "line": "Quiet. Feel that? A truck. It's coming. Zip up the mag pouch!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I told you I'd get answers about your family."
+        },
+        {
+            "character": "Skye",
+            "line": "That's not what I was looking for! I was trying to find out what was happening with Ward and Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a classified operation."
+        },
+        {
+            "character": "Skye",
+            "line": "It's a suicide mission! I saw it all, the troop placements, the aerial assault. Once Ward and Fitz disable that device, there's going to be a huge attack on that compound, with no extraction plan, and you hid that from us!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't hide anything from you. You don't have the clearance to know that."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that really what S.H.I.E.L.D.'s all about? Level 5s are more expendable than level 8? Is that all we are, just a number to you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you done?"
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know. Am I?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If S.H.I.E.L.D. keeps a secret from you, it's for a good reason."
+        },
+        {
+            "character": "Skye",
+            "line": "So they can hold all the secrets."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't interrupt! You just hacked a level-8 secure server, saw operational plans that you have no context for. If details get out, the whole operation could be compromised, lives could be lost, Ward and Fitz among them."
+        },
+        {
+            "character": "Skye",
+            "line": "I know. Those are two people we care about. On the plane, you're always telling me to think outside the box, so I went off book ‘cause I was trying to watch their backs."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our team can go off book because there is a book. A Hub. An organization watching our backs. You claim that you want to be a part of that, a S.H.I.E.L.D. agent. Do you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because someday, I may have to trust you with a secret, and I need to know that you can keep it."
+        },
+        {
+            "character": "Skye",
+            "line": "Can I ask you one question?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Skye",
+            "line": "Did you know there was no extraction plan for Ward and Fitz?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's classified."
+        }
+    ]
+}

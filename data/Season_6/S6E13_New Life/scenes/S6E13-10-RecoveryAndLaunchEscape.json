@@ -1,0 +1,73 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 10,
+    "scene_name": "RecoveryAndLaunchEscape",
+    "description": "With Izel and Pachakutiq vanquished, the surviving S.H.I.E.L.D. members recover from battle. May is severely wounded, but Simmons assures that she can be repaired with S.H.I.E.L.D.'s technology. Simmons directs the team to evacuate via the Zephyr, explaining the Chronicom threat and outlining the loss of the Lighthouse. Fitz and Simmons coordinate remotely for an escape—destination unknown—while the team tries to comprehend their next step.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "She'll be fine. We'll repair her tissue in a few hours once she reaches the correct core temperature. But right now, we have to move. Quickly, sir."
+        },
+        {
+            "character": "Mack",
+            "line": "Isn't it a bad idea to leave those behind?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They'll be gone soon enough."
+        },
+        {
+            "character": "Daisy",
+            "line": "How did you do all this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We had help, and we had time. Give Yo-Yo her breathing apparatus. Set the chamber temperature to minus 68 degrees."
+        },
+        {
+            "character": "Deke",
+            "line": "Where's Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. I can't know."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons, what's going on here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The Chronicoms want to establish Chronyca-3 as their new home planet... here, on Earth. They believe only S.H.I.E.L.D. can stop them, so they sent Hunters to destroyS.H.I.E.L.D. and everyone within it."
+        },
+        {
+            "character": "Mack",
+            "line": "The Lighthouse?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We have We lost the Lighthouse. Go code 98232. Fitz, Zephyr One is charged with all crew accounted for. Ready to launch."
+        },
+        {
+            "character": "Fitz",
+            "line": "Copy, Jemma. Glad to hear it. Tell them I'm sorry. Prepare for launch."
+        },
+        {
+            "character": "Simmons",
+            "line": "I suggest you do the same. This will be bumpy."
+        }
+    ]
+}

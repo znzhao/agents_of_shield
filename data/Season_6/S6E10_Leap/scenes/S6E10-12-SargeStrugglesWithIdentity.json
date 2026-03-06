@@ -1,0 +1,47 @@
+{
+    "season": 6,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "SargeStrugglesWithIdentity",
+    "description": "Sarge, now fully aware of his nonhuman origins, grapples with Izel’s claim that his memories and identity are echoes of Coulson. He is determined to stop her despite the revelation of his true name, Pachakutiq. The episode ends on a somber note, Sarge resolute but struggling with his sense of self and place in the world.",
+    "roles": [
+        "sarge_pachakutiq"
+    ],
+    "vibe": "melancholic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Izel",
+            "line": "This human body arrived. It had form. You took it over and lost yourself... lost me."
+        },
+        {
+            "character": "Deke",
+            "line": "So, it's an entire realm of non-corporeal beings? I thought we'd heard of everything, but... nope."
+        },
+        {
+            "character": "Fitz",
+            "line": "We have heard of an entity like this before, actually. Ghost Rider."
+        },
+        {
+            "character": "Deke",
+            "line": "What, named that because he's a ghost that rides... in someone's body?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I guess."
+        },
+        {
+            "character": "Deke",
+            "line": "Pretty literal."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's pretty deadly. Which is why we need to keep an eye on him. If he's something like that... a holding cell will not be enough."
+        },
+        {
+            "character": "Sarge",
+            "line": "It's not true. It's not me. I know who I am. And I know it's not me."
+        }
+    ]
+}

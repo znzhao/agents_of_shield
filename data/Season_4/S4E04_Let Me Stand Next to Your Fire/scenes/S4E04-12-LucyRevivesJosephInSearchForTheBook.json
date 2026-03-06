@@ -1,0 +1,76 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 12,
+    "scene_name": "LucyRevivesJosephInSearchForTheBook",
+    "description": "Lucy Bauer, in her ghostly state, awakens Joseph Bauer from his coma to extract the whereabouts of the book. The scene is chilling, as Lucy manipulates Joseph in her search for the ominous Darkhold, fueling the episode’s central mystery and supernatural threat.",
+    "roles": [
+        "lucy_bauer",
+        "joseph_bauer"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lucy",
+            "line": "Joseph. Wake up, Joseph. I need you. Wake up, please. Wake up. There you are. Now, tell me, where's the book?"
+        },
+        {
+            "character": "Robbie",
+            "line": "What's going on? Took a while to catch up with you guys."
+        },
+        {
+            "character": "Mack",
+            "line": "Had to get a head start."
+        },
+        {
+            "character": "Robbie",
+            "line": "We going after that book?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet. Something came up."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yo, listen, I held up my end of the deal, all right? Either we go and get after it, or I take my car, and I do it myself."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not how things work here. We need to make a detour. We could use your help if you're still interested in our arrangement. That depends on you."
+        },
+        {
+            "character": "AIDA",
+            "line": "May I ask you a question?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Of course. Ask me anything."
+        },
+        {
+            "character": "AIDA",
+            "line": "Why did Fitz lie to Agent May about where I'm from?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You're still in the testing phase, Aida. The point of you is to pass for human. You must always act accordingly."
+        },
+        {
+            "character": "AIDA",
+            "line": "But you programmed me not to lie. It's one of my tenets, along with not harming humans and being able to..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, lies themselves are not always inherently bad. Their intent can vary. Sometimes it's okay to lie to shield people from certain truths, to spare their feelings or to save a life."
+        },
+        {
+            "character": "AIDA",
+            "line": "Whose life was Fitz saving when he lied?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Why, yours."
+        }
+    ]
+}

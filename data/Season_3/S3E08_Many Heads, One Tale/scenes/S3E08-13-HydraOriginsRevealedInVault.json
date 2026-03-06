@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 13,
+    "scene_name": "HydraOriginsRevealedInVault",
+    "description": "Ward tracks down and confronts Malick in the Strucker vault. Malick delivers a history lesson on Hydra's true ancient origins, revealing their connection to the Kree monolith and their centuries-old mission to return a banished Inhuman leader from exile. Malick proposes an alliance, promising Ward vengeance and power in exchange for cooperation against S.H.I.E.L.D.",
+    "roles": [
+        "gideon_malick",
+        "grant_ward"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "I'm hardly ever impressed. I've shaken hands with presidents, held technology from other planets. Didn't really faze me. But I got to tell ya, I'm at a loss for words."
+        },
+        {
+            "character": "Ward",
+            "line": "You left me to die."
+        },
+        {
+            "character": "Malick",
+            "line": "I left those men there to kill ya, but you, you cut through them like cake. And to locate this place, much less get here? Phew! I only got here a few minutes before you, and I have my own jet."
+        },
+        {
+            "character": "Ward",
+            "line": "This was all just a test?"
+        },
+        {
+            "character": "Malick",
+            "line": "No, I wanted you dead. You pose a legitimate threat to everything that I've built. But now... now I'm beginning to think that maybe I was looking at it from the wrong angle. You just might be HYDRA's second head that's grown right next to me."
+        },
+        {
+            "character": "Ward",
+            "line": "I should kill you."
+        },
+        {
+            "character": "Malick",
+            "line": "Then you'd miss that history lesson we've been talking about. I know you're all about rebooting HYDRA and all that. But do you know much about our history, our origin?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. World War II. Red Skull. He used Nazi funding to build this whole..."
+        },
+        {
+            "character": "Malick",
+            "line": "Oh, no, no. Red Skull was following the principal that  HYDRA was built upon, that the ultimate power was not of this world. But HYDRA... well, we're much, much older than that. HYDRA's actually as ancient as this stone. This one here and other surviving stones like it have been passed down for 100 generations. Keep your eye on it, Mr. Ward. You don't want to miss it when it does its thing. This was cut from a much larger stone, a monolith that possesses otherworldly properties. Literally. It's a portal to another world."
+        }
+    ]
+}

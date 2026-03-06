@@ -1,0 +1,58 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 7,
+    "scene_name": "FitzSimmonsYoYoInfiltrateHydraFacility",
+    "description": "Fitz, Simmons, and Elena investigate the lack of radiation at the Hydra facility and discuss sneaking inside. Ivanov and mechs are discovered to be guarding the site, adding danger to their approach. The group prepares to go deeper, and their banter lightens the mood slightly.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "elena_rodriguez",
+        "anton_ivanov"
+    ],
+    "vibe": "mysterious",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Looks like there may be a way in up here."
+        },
+        {
+            "character": "Elena",
+            "line": "Radiation poisoning would be a horrible way to find out we can still die. Should we turn back?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No need. Primula vulgaris. Primrose. I used to pick these as a girl. I mean, it's a hardy species, but even it couldn't survive in irradiated soil."
+        },
+        {
+            "character": "Fitz",
+            "line": "You'll find more radiation in a dentist's office."
+        },
+        {
+            "character": "Simmons",
+            "line": "Talbot probably just posted these signs to keep out interlopers."
+        },
+        {
+            "character": "Elena",
+            "line": "They won't scare off HYDRA."
+        },
+        {
+            "character": "Elena",
+            "line": "Let me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, looks like getting your arms chopped off isn't all bad. The... Well... Yeah... It's... Obviously, it's bad. It's really bad getting your arms chopped off, but maybe there is a silver lining..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, as much as I'm enjoying this day in the country, we have a job to do."
+        },
+        {
+            "character": "Fitz",
+            "line": "After you, better half."
+        }
+    ]
+}

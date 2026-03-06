@@ -1,0 +1,141 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 8,
+    "scene_name": "HunterReturnsToBase",
+    "description": "Hunter returns to the Playground, where he is met by Triplett. The reunion is strained, with Hunter being questioned about his actions and motivations, especially regarding Creel and Hartley. Hunter reveals that he negotiated for Hartley's burial and admits he struck a deal with Talbot, but claims his true interest is revenge on Creel. The conversation with Coulson brings tension as their mutual mistrust surfaces, but ultimately, Coulson agrees to Hunter's conditions and lets him rejoin the mission.",
+    "roles": [
+        "lance_hunter",
+        "antoine_triplett",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Nice ride. Some rich guy loan it to you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, something like that. Shame about the rims, though, eh?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Yeah. Probably cost a grand each."
+        },
+        {
+            "character": "Hunter",
+            "line": "At least."
+        },
+        {
+            "character": "Hunter",
+            "line": "This isn't a friendly stop, is it?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Nope. Hands on the car."
+        },
+        {
+            "character": "Hunter",
+            "line": "How the hell did you lose him?! Why haven't you got every agent out there looking for Creel right now?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You think you're entitled to answers?"
+        },
+        {
+            "character": "Hunter",
+            "line": "He killed two of my friends. I think that's entitlement enough."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, it's not."
+        },
+        {
+            "character": "Hunter",
+            "line": "You should have aborted the mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hartley should have followed my orders."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, well, she tried to. Izzy's only mistake was listening to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is that why you came back? Guilt? A desire for revenge? Or was it because of what Talbot promised you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "All of the above."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you took the deal."
+        },
+        {
+            "character": "Hunter",
+            "line": "I have 48 hours to deliver you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or else you're a dead man."
+        },
+        {
+            "character": "Hunter",
+            "line": "Words to that effect, yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot. And you didn't give him our location?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't get me wrong. I thought about it. He put a four-man detail on me. Took three hours to shake them. I could have led them right to your door."
+        },
+        {
+            "character": "Coulson",
+            "line": "So kind of you to reconsider. And in exchange for me, you get what, exactly?"
+        },
+        {
+            "character": "Hunter",
+            "line": "A proper burial for Isabelle Hartley. I wanted to make sure her record was cleared, that her family were properly notified."
+        },
+        {
+            "character": "Coulson",
+            "line": "Really? That's all?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Look, between you and Talbot, I know you'll get to Creel first. He's the only thing I want. Well, that and the money you owe me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're kidding, right? ‘Cause sometimes I can't tell."
+        },
+        {
+            "character": "Hunter",
+            "line": "No, I'm not. I want my pay, and not just mine, either. I want Hartley's and Idaho's, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Now you're kidding."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's for their families. I think they deserve something for their loss. Don't you think?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll take care of it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Good. Once we have Creel... I'll be in the wind. Or three sheets to it."
+        }
+    ]
+}

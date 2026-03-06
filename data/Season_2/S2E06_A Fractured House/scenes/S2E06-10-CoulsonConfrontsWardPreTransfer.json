@@ -1,0 +1,113 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "CoulsonConfrontsWardPreTransfer",
+    "description": "Coulson visits Grant Ward before his transfer, confronting him with anger and disappointment for all his betrayals. Ward tries to defend his record, suggesting he can still help S.H.I.E.L.D., but Coulson rebuffs him, emphasizing that Ward's survival was purely practical and now he's being turned over for greater good. Ward warns Coulson that Christian will use the trial for political gain, and Coulson notes how similar the brothers are. The scene closes with Triplett interrupting for urgent business.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "antoine_triplett"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Listen to me. You can't trust him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Three and a half weeks. I sat in this chair every day for three and a half weeks, and you never said a word. But now you want to talk? Well, it's too late."
+        },
+        {
+            "character": "Ward",
+            "line": "Everything I told Skye was true. You know that. I haven't given you one bad piece of intel. Is that worth nothing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You will never see Skye again."
+        },
+        {
+            "character": "Ward",
+            "line": "I thought we were rebuilding trust, Coulson. I can help you. I'm still a part of your team."
+        },
+        {
+            "character": "Coulson",
+            "line": "My team? You th... You are not nor you'll ever be on my team. You dropped Fitz-Simmons out of a plane. You murdered Victoria Hand and Eric Koenig. You betrayed every one of us, you deluded son of a bitch. The only reason you're alive is because you were of use. And the only reason you're being transferred is because your brother is of more use."
+        },
+        {
+            "character": "Ward",
+            "line": "Was this his idea or yours... to put me on trial? Hmm? It's a good story... a man brave enough to have his own brother executed for his crimes. Oh, Christian will milk that for all it's worth. And the trial should wrap up right before the midterms."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your brother saw the same angles. Maybe you two are more alike than you think."
+        },
+        {
+            "character": "Triplett",
+            "line": "Sir, we need you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Vincent Beckers is Julien's grandfather. We believe the HYDRA connection stayed very much alive."
+        },
+        {
+            "character": "Skye",
+            "line": "We found the travel records for Beckers and Whitehall, and..."
+        },
+        {
+            "character": "Triplett",
+            "line": "They coincided at least 12 times over the past five years."
+        },
+        {
+            "character": "Fitz",
+            "line": "That doesn't make sense."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, why would HYDRA be targeting one of their own operatives?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been played. Get May on the line. They need to reroute to our safe house in Bruges."
+        },
+        {
+            "character": "Walters",
+            "line": "Mr. Beckers. We have agents looking for you. How did you find this place?"
+        },
+        {
+            "character": "Beckers",
+            "line": "I followed them here."
+        },
+        {
+            "character": "Triplett",
+            "line": "Sir, May's team's en route."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no. Whitehall didn't just want to turn the world against us. He used Beckers as a prop to make our operatives believe his country would provide safe haven, but it's a trap. They'll be fish in a barrel."
+        },
+        {
+            "character": "Walters",
+            "line": "What the hell did you do?"
+        },
+        {
+            "character": "Beckers",
+            "line": "Mr. Scarlotti, I'll leave you to what you do best."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "Shame. I prefer to take my time."
+        },
+        {
+            "character": "Walters",
+            "line": "HYDRA will never defeat..."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "You were saying?"
+        }
+    ]
+}

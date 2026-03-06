@@ -1,0 +1,276 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "FitzSimmonsParadoxDiscovery",
+    "description": "Fitz and Simmons analyze the Zephyr’s upgrades and realize they are caught in a causal time loop—their past selves designed technology because they had already seen it in the future. Fitz falls into despair over the apparent inevitability of Earth's fate, but Simmons finds hope in the evidence that at least they survive to make it back, deepening the team's resolve.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Wait, I think I do."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's my design."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, for the next-gen Zephyr. I remember."
+        },
+        {
+            "character": "Fitz",
+            "line": "Complete with RCS thrusters. But that was purely theoretical. It's useless without... artificial gravity."
+        },
+        {
+            "character": "Fitz",
+            "line": "Had to be Gravitonium."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, it's on the base. It's here on the plane. It's everywhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "Flying in with Enoch, I was trying to figure out how it was all possible. A planet this shape with atmosphere. Gravitonium would explain why it's held together."
+        },
+        {
+            "character": "Simmons",
+            "line": "And maybe why it was cracked apart."
+        },
+        {
+            "character": "Fitz",
+            "line": "But it being here also means that... It's true. Robin, May... it's all true. This is the same design from the Lighthouse, so unless someone else just happened to come up with the exact same idea. We did this. In the past. After we've lived this moment."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, the causal loop paradox. We'd only know how to design it because we'd already seen it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we're done for. This is proof."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know if that's true."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, it is. Think about it. There is nothing that we do that matters. This is a bloody time loop. We're doomed to fail."
+        },
+        {
+            "character": "Simmons",
+            "line": "If we did this, do you know what I see? Proof we make it back."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think that was a hospital."
+        },
+        {
+            "character": "Enoch",
+            "line": "Is this your first time having a building dropped on you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, that's what I'm talking about."
+        },
+        {
+            "character": "Coulson",
+            "line": "You were gone a long time. Is Voss still among us?"
+        },
+        {
+            "character": "Deke",
+            "line": "He knows stuff we don't. I thought we might still need him."
+        },
+        {
+            "character": "May",
+            "line": "Ha! Yes!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Are the engines good to go?"
+        },
+        {
+            "character": "Simmons",
+            "line": "In theory, but, sir, we found something."
+        },
+        {
+            "character": "Fitz",
+            "line": "Zephyr One's been upgraded significantly."
+        },
+        {
+            "character": "Coulson",
+            "line": "Will those upgrades help us take off?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, well, no..."
+        },
+        {
+            "character": "Coulson",
+            "line": "‘Cause it's time to fly. May!"
+        },
+        {
+            "character": "May",
+            "line": "Okay. Once we have ignition, be ready to lift the ground anchors. Here we go."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Come on."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talk to me, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, the engines just blew out, so we can't take off."
+        },
+        {
+            "character": "Enoch",
+            "line": "As was previously advised, we should now evacuate to the caves. I'll go first."
+        },
+        {
+            "character": "Tess",
+            "line": "Look, we need to go to Kasius now. We're out of time."
+        },
+        {
+            "character": "Mack",
+            "line": "No one's going anywhere until we know exactly what we're up against."
+        },
+        {
+            "character": "Elena",
+            "line": "I'll go. He wants me. Hand me over."
+        },
+        {
+            "character": "Mack",
+            "line": "You always do. This is always the same argument."
+        },
+        {
+            "character": "Elena",
+            "line": "Zip-zip, I chop his head off, done!"
+        },
+        {
+            "character": "Flint",
+            "line": "Yeah, count me in."
+        },
+        {
+            "character": "Mack",
+            "line": "You'll get yourselves killed."
+        },
+        {
+            "character": "Tess",
+            "line": "If we don't go, he'll make every one of us a vacancy."
+        },
+        {
+            "character": "Mack",
+            "line": "With the push of a button, right? So how's he gonna do that? Best guess, he'd have a trigger installed to remotely cut our oxygen."
+        },
+        {
+            "character": "Elena",
+            "line": "Another reason to deal with him quickly."
+        },
+        {
+            "character": "Mack",
+            "line": "Humor me."
+        },
+        {
+            "character": "Flint",
+            "line": "I don't see nothing."
+        },
+        {
+            "character": "Tess",
+            "line": "Please, I hate this, too, but we need to give Kasius what he wants."
+        },
+        {
+            "character": "Elena",
+            "line": "Maybe he's bluffing."
+        },
+        {
+            "character": "Tess",
+            "line": "He's wiped out floors before. His exact words were, “They'll all burn.”"
+        },
+        {
+            "character": "Mack",
+            "line": "“They'll all burn.”"
+        },
+        {
+            "character": "Flint",
+            "line": "Is that a bomb?"
+        },
+        {
+            "character": "Mack",
+            "line": "Hardwired directly to the O2 lines for this floor. That's pure oxygen."
+        },
+        {
+            "character": "Elena",
+            "line": "If there's one on every line and on every human floor, there's got to be hundreds."
+        },
+        {
+            "character": "Flint",
+            "line": "Kasius could kill us in a flash."
+        },
+        {
+            "character": "Mack",
+            "line": "Not just kill. Incinerate."
+        },
+        {
+            "character": "Deke",
+            "line": "All right. Time's up. Move out."
+        },
+        {
+            "character": "Man",
+            "line": "Let's go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Finally starting to get a hang of this whole goodguy thing."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, just in time for the sky to fall and kill us all. Good timing, Deke. What makes you say that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Voss. You let him live."
+        },
+        {
+            "character": "Deke",
+            "line": "Doesn't mean I'm good. Maybe I'm just spineless."
+        },
+        {
+            "character": "Daisy",
+            "line": "Killing is never the better option."
+        },
+        {
+            "character": "Deke",
+            "line": "If it can prevent more pain, maybe. I'm sure you've done it. My dad could be very violent, but only when he needed to be. You learn that in the Lighthouse. A life spent, a life earned."
+        },
+        {
+            "character": "Daisy",
+            "line": "Never a life saved?"
+        },
+        {
+            "character": "Deke",
+            "line": "That's my point. Shouldn't I be able to pull the trigger if I think that person could do more harm?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't think Voss is a threat to anyone but me."
+        },
+        {
+            "character": "Deke",
+            "line": "Right. No, you're right."
+        }
+    ]
+}

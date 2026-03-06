@@ -1,0 +1,99 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 1,
+    "scene_name": "SSRSeizesHydraArtifacts",
+    "description": "In 1945, Daniel Whitehall (then known as Reinhardt) oversees the evacuation of a Hydra outpost when the SSR arrives. Agent Peggy Carter leads the capture of the base, taking Whitehall into custody and securing the Obelisk. Carter discusses the need for a permanent peacetime organization to handle dangerous technology and people who tamper with it, foreshadowing the birth of S.H.I.E.L.D.",
+    "roles": [
+        "daniel_whitehall"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "I don't think I need to remind you that the clock is ticking."
+        },
+        {
+            "character": "Officer",
+            "line": "We are almost finished loading. Herr Reinhardt, I-I fear Schmidt..."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Oh, there's no reason left to fear the Red Skull. He's dead. However, his vision is not. The work Hydra has done will live on. The Obelisk?"
+        },
+        {
+            "character": "Officer",
+            "line": "They are bringing it out now."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Carefully, I hope."
+        },
+        {
+            "character": "Officer",
+            "line": "I don't understand. I thought this stockpile held only artifacts."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Not everything we dug out of the ground was an antique, my friend. Some of it was quite advanced."
+        },
+        {
+            "character": "Officer",
+            "line": "Is this the reason these men...?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "Hmm? Ja. The Red Skull said it may hold the answer... the answer to death itself."
+        },
+        {
+            "character": "Dugan",
+            "line": "I'll give them an “A” for effort."
+        },
+        {
+            "character": "Jim",
+            "line": "Guten tag, boys. All right, nice and calm. No sudden moves, or we'll tie a blasting cap to your... Hey, Dugan, what's the German word for “nuts?”"
+        },
+        {
+            "character": "Dugan",
+            "line": "I don't know, Jim. But tie a blasting cap to them, I'll bet we'll hear it."
+        },
+        {
+            "character": "Carter",
+            "line": "Put it down. Down. These assets are now under the protection of the Strategic scientific reserve. They'll be relocated and hidden out of sight, indefinitely... as will you."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Cut off one head, two more shall grow in its place."
+        },
+        {
+            "character": "Carter",
+            "line": "Then I guess we'll keep cutting them off."
+        },
+        {
+            "character": "Dugan",
+            "line": "Get him out of here. All right, boys, let's pack it up. Agent Carter, what the hell is all this stuff?"
+        },
+        {
+            "character": "Carter",
+            "line": "Dangerous. Right now, we need to contain everything and get it out of enemy territory. Mr. Stark plans to go through it tonight. And that, we must never touch. This is the last Hydra site we know of. They're finally beaten."
+        },
+        {
+            "character": "Dugan",
+            "line": "You don't sound thrilled."
+        },
+        {
+            "character": "Carter",
+            "line": "Well, these things can't simply be boxed up. Someone needs to establish a permanent unit during peacetime."
+        },
+        {
+            "character": "Jim",
+            "line": "To keep dangerous technology contained?"
+        },
+        {
+            "character": "Carter",
+            "line": "And watch over people like Stark who are toying with it. Until then, all we can do is box it up, lock it up, and dedicate ourselves to making sure it never sees the light of day."
+        }
+    ]
+}

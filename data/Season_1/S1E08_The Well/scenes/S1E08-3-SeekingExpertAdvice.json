@@ -1,0 +1,139 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 3,
+    "scene_name": "SeekingExpertAdvice",
+    "description": "Coulson leads the team to consult Professor Elliot Randolph (not included in roles) in Seville, hoping he can shed light on the staff's meaning. Simmons is skeptical about magic versus science, while Skye eagerly absorbs information. Randolph references ancient myths about the Berserker staff and a warrior who left Asgard for Earth, explaining the staff was broken into three pieces and hidden. Coulson and the team look for historical clues to locate the next piece.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "skye",
+        "leo_fitz",
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "Well, one must adapt, Elena. Recent events have thrown us all for a loop. I thought I was teaching Norse mythology. No, turns out I'm a history Professor."
+        },
+        {
+            "character": "Elena",
+            "line": "So, you're not going to change my grade?"
+        },
+        {
+            "character": "Randolph",
+            "line": "No. I will give you a week to rewrite it. I think, in general, little more history, less lit crit. But I do hope we're still on for dinner tonight. I've included a list of books there that might help you. I'll see you later."
+        },
+        {
+            "character": "Coulson",
+            "line": "Professor Randolph."
+        },
+        {
+            "character": "Randolph",
+            "line": "Agent Coulson. Come in, come in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Waterfield 44. 14-karat-gold nib with mother-of-pearl inlay."
+        },
+        {
+            "character": "Randolph",
+            "line": "That's quite an eye you've got. I didn't know you were a collector."
+        },
+        {
+            "character": "Coulson",
+            "line": "On a government salary, not quite."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, I'm assuming you found something on the ground in London."
+        },
+        {
+            "character": "Coulson",
+            "line": "In a tree in Norway. And, unfortunately, we weren't the ones who found it."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a 3-D model."
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, that is amazing. Now, based on these runes, I'd say I'm looking at a piece of the Berserker staff. Let's have a look. Yeah, the myth dates back to the late 12th century. It's all about a powerful warrior from Asgard. Here. A soldier in the Berserker army."
+        },
+        {
+            "character": "Fitz",
+            "line": "Berserker army?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, yeah. A powerful army. Fierce army, it was. Berserkers battled like raging beasts, destroying everything in their path. A single Berserker had the strength of 20 warriors."
+        },
+        {
+            "character": "Coulson",
+            "line": "So whoever wielded the staff got superhuman strength?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Fighting with it put the warrior into a state of uncontrollable rage. The staff contained a very powerful magic."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or a scientific attribute we've yet to discover."
+        },
+        {
+            "character": "Randolph",
+            "line": "Analytically minded and pretty as a peach."
+        },
+        {
+            "character": "Fitz",
+            "line": "The warrior in the story?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, in the story, he came to Earth to fight, but he ended up falling in love."
+        },
+        {
+            "character": "Simmons",
+            "line": "With whom?"
+        },
+        {
+            "character": "Randolph",
+            "line": "With life on Earth. Humanity. He fell so much in love that when his army returned to Asgard, he stayed behind."
+        },
+        {
+            "character": "Fitz",
+            "line": "What happened to the staff?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, he didn't want its dark magic falling into the wrong hands, so he broke it into three pieces and hid each one in a different location."
+        },
+        {
+            "character": "Coulson",
+            "line": "The manuscript wouldn't happen to say where he hid them, would it?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Actually, it does. In three verses. Now, let's all bear in mind these are poetic abstracts from long-lost ancient texts. So, there is one about a tree, which they've found, it seems. Another is, “East of the river, sun overhead, buried in Earth with the bones of the dead.” That's a bit macabre, isn't it? There's another here. Well, this one doesn't even have a rhyme. But the gist of it is “close to god.” That could be anything, then."
+        },
+        {
+            "character": "Simmons",
+            "line": "It could also mean nothing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was hoping for less metaphor, more longitude and latitude."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, I mean, it does stand to reason to search near Viking raid routes, doesn't it? Now, there have been some recent interesting findings of Norse relics on Baffin island off the coast of Canada. Yeah, virtual treasure trove of new artifacts."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll start there, then. Thank you, Professor."
+        }
+    ]
+}

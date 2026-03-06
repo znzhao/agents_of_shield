@@ -1,0 +1,126 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 9,
+    "scene_name": "TeamPreparesForFinalStand",
+    "description": "Fitz and Deke rejoin the survivors. Coulson, May, Mack, and the others coordinate over comms, discussing defensive strategy as Remorath soldiers close in on both the control room and laboratory. The agents—now split—brace for a siege, arming themselves with whatever rudimentary weapons remain, bracing for a near-hopeless fight. The emotional stakes are high as Simmons, Fitz, and Deke grapple with their fates and the possibility of never seeing each other or the outside world again.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "glenn_talbot"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Evac is a no-go. Fitz says the override's been destroyed."
+        },
+        {
+            "character": "MAck",
+            "line": "They have the layout of this place?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Who knows? They have teleportation tech, and they did show me visions of far-off places. They'd be great to have on our team if they were interested. They may have a layout of this place."
+        },
+        {
+            "character": "May",
+            "line": "So, new plan?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, we rally together. Make a stand."
+        },
+        {
+            "character": "May",
+            "line": "Well, those doors aren't gonna hold for long."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't like our chances without more ammo."
+        },
+        {
+            "character": "Kim",
+            "line": "We'll make it to the armoury and bring back what we can find."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks, Agent Kim. A team of us is gonna take up a defensive position here in control. Secure whatever firepower you can, then head our way. You copy?"
+        },
+        {
+            "character": "Elena",
+            "line": "Copy. I've got Talbot, but we don't have much in the way of firepower."
+        },
+        {
+            "character": "Talbot",
+            "line": "We've got you."
+        },
+        {
+            "character": "Elena",
+            "line": "Heading your way."
+        },
+        {
+            "character": "Fitz",
+            "line": "Copy that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. We copy, as well, but we may have a bit of a logistics issue in the lab. I don't think the gravitonium can take the stairs."
+        },
+        {
+            "character": "Fitz",
+            "line": "Deke thinks he can get one of the elevators moving."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, brilliant."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and, uh, just so everybody's aware, I think these guys have tech that can shut down electricity, like, uh, an EMP, so, flashlights, ICERs, walkies, they'll be useless."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to see these things if we're gonna stop them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Fire would work. Just try and find something combustible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then let's light 'em up. I always wanted to say that."
+        },
+        {
+            "character": "Elena",
+            "line": "They're here. That's our exit. We're cut off."
+        },
+        {
+            "character": "Talbot",
+            "line": "Oh, come on. We can fight these Remorons. Get these cuffs off. I can fix this."
+        },
+        {
+            "character": "Elena",
+            "line": "Coulson wants you safe, which means I do, too. Come on."
+        },
+        {
+            "character": "Deke",
+            "line": "I can't be stuck in here again. I can't be stuck in here again. I... There's so much I haven't seen. I haven't seen the ocean. I haven't seen the Great Wall. I haven't seen Orlando."
+        },
+        {
+            "character": "Fitz",
+            "line": "What happened to your multiverse? Thought you were everywhere all at once?"
+        },
+        {
+            "character": "Deke",
+            "line": "Shut up!"
+        }
+    ]
+}

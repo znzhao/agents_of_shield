@@ -1,0 +1,87 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 12,
+    "scene_name": "PlaygroundSensesJiayingManipulation",
+    "description": "The Playground team pieces together that Jiaying fabricated the attack to provoke war and frame S.H.I.E.L.D. May realizes that Bobbi left with Agent 33 posing as her. The urgency to find Bobbi intensifies, and May and Hunter depart for Spain, further highlighting S.H.I.E.L.D.’s vulnerabilities and Ward’s dangerous game.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "melinda_may",
+        "leo_fitz",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Skye's mother orchestrated the whole thing. It was a performance. The Quinjet they stole only fired on the one building. Nobody got hurt."
+        },
+        {
+            "character": "Simmons",
+            "line": "Except Commander Gonzales. It either killed him or destroyed any evidence of foul play against him."
+        },
+        {
+            "character": "May",
+            "line": "If it's theater, it worked. Every Inhuman up there believes that S.H.I.E.L.D. attacked their leader and declared war."
+        },
+        {
+            "character": "Simmons",
+            "line": "Including Skye."
+        },
+        {
+            "character": "Hunter",
+            "line": "Then mark that down as the second time S.H.I.E.L.D. got played today."
+        },
+        {
+            "character": "Fitz",
+            "line": "Figured out what happened to Agent Morse. She left on a Quinjet with... you."
+        },
+        {
+            "character": "May",
+            "line": "I didn't leave with Bobbi. That's..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent 33."
+        },
+        {
+            "character": "Fitz",
+            "line": "She killed her guard, stashed him under a blanket in Vault C, then boarded a Quinjet posing as May."
+        },
+        {
+            "character": "Simmons",
+            "line": "But why? I don't understand."
+        },
+        {
+            "character": "Hunter",
+            "line": "The Quinjet's transponder went dark outside Aranda de Duero in Spain. I'm gonna need a pilot."
+        },
+        {
+            "character": "May",
+            "line": "With pleasure."
+        },
+        {
+            "character": "Coulson",
+            "line": "This reeks of Ward. He left Agent 33 here for this very purpose."
+        },
+        {
+            "character": "Hunter",
+            "line": "But why take Bob? Did she have a history with him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not that I know of, but Ward's logic is rarely logical. There's a piece we don't understand yet."
+        },
+        {
+            "character": "May",
+            "line": "There's a piece that Ward doesn't understand. When I find him, I'm going to kill him."
+        },
+        {
+            "character": "Hunter",
+            "line": "Glad we're on the same page."
+        }
+    ]
+}

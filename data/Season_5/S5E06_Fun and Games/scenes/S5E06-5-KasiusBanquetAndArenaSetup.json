@@ -1,0 +1,108 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "KasiusBanquetAndArenaSetup",
+    "description": "At Kasius' lavish party, various guests, including Ponarian, discuss Inhuman fighting pits and Inhuman slavery. The atmosphere is tense as Fitz does his best to blend in with the sadistic guests, criticizing their tastes. Kasius announces the arena combat, setting up for Inhuman battles to entertain the guests.",
+    "roles": [
+        "kasius",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ponarian",
+            "line": "Mmm! So, how are you faring with that Vrellnexian litter I sold you?"
+        },
+        {
+            "character": "Kasius",
+            "line": "It has been trying. The savage beasts have proven quite difficult to wrangle."
+        },
+        {
+            "character": "Ponarian",
+            "line": "Well, they're certainly not bred to cuddle. They're creatures of war, the not the shaggy dog of men. But I had hoped that the Vrells would provide you a small triumph. Last time we spoke, the strain of your exile seemed to wear heavy on your soul."
+        },
+        {
+            "character": "Kasius",
+            "line": "I was never exiled. Mm. My father simply wanted me to oversee his Earth project personally."
+        },
+        {
+            "character": "Ponarian",
+            "line": "While your brother oversees the family empire."
+        },
+        {
+            "character": "Ben",
+            "line": "Kasius never offered me as a fighter till today. Guess that's what I get for saving your life."
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't ask you to help me."
+        },
+        {
+            "character": "Ben",
+            "line": "You were hoping for it. In your brain. Which is basically the same thing for a mind-reader."
+        },
+        {
+            "character": "Daisy",
+            "line": "Things are starting to turn in our favor, so just trust me on this, okay?"
+        },
+        {
+            "character": "Ben",
+            "line": "I'm really glad my Inhibitor's on right now so I can't hear whatever dumb idea's in your head."
+        },
+        {
+            "character": "Daisy",
+            "line": "We just need to work together."
+        },
+        {
+            "character": "Ben",
+            "line": "Stop thinking that you have a choice. We're slaves."
+        },
+        {
+            "character": "Daisy",
+            "line": "I am sorry for getting you mixed up in all this."
+        },
+        {
+            "character": "Ben",
+            "line": "Let's just hope one of us doesn't have to kill the other."
+        },
+        {
+            "character": "Ponarian",
+            "line": "Dear friends, in honor of Kasius presenting the Destroyer of Worlds, I, too, have brought a rare delicacy for everyone's enjoyment, fresh Xandarian snail!"
+        },
+        {
+            "character": "Kasius",
+            "line": "Oh! You are far too generous, Ponarian."
+        },
+        {
+            "character": "Ponarian",
+            "line": "Please keep that in mind when the bidding begins."
+        },
+        {
+            "character": "Karaba",
+            "line": "How do you keep your human population so well under heel?"
+        },
+        {
+            "character": "Fitz",
+            "line": "He has them kill each other. Well, that's what I would do. Humans clearly have the numbers, so fear is essential. And getting them to do it, that is the trick. Ritualization helps, making it sort of a game. It's all very efficient, really, at least in my experience."
+        },
+        {
+            "character": "Kasius",
+            "line": "Seems we have similar minds. It has done wonders tamping down the humans' more rebellious impulses. Mm. Oh. Well, I hope everyone's meal has been to their liking. As for your more primal appetites, a fight to the death is moments away. So, take a final look. One of these Inhumans will soon be withdrawn from the marketplace."
+        },
+        {
+            "character": "Ponarian",
+            "line": "Marauder, you have yet to taste your snail. Perhaps unrefined men don't have the stomach for such indulgences."
+        },
+        {
+            "character": "Fitz",
+            "line": "I find moist creatures distasteful, much like the fat mouths slurping them down."
+        },
+        {
+            "character": "Kasius",
+            "line": "This Boshtok makes for a lively dinner companion. Let us leave these snails to shrivel, huh? Much greater pursuits await our attention."
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 4,
+    "scene_name": "CoulsonLosesControl",
+    "description": "Back at the Playground, Hunter and Morse approach Coulson, who channels his anger over Rosalind's death at them, particularly blaming Hunter for letting Ward escape in the past. Bobbi Morse tries to calm him, and Coulson ultimately takes responsibility for recruiting Ward. He decides to go after Ward directly, assembling Hunter and Morse for a covert mission and naming Mack acting director.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Sir, I just wanted to say..."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You were supposed to take Ward out. I sent you to do a job. You failed! Now people are dead."
+        },
+        {
+            "character": "Morse",
+            "line": "You need to calm down!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Ward should never have had the chance to do what he did."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. She's right. I'm the one who picked Ward for this team. Everything that happened since, it's on me."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sir, I'd do anything to have another shot at the bastard."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you better not miss this time."
+        },
+        {
+            "character": "Hunter",
+            "line": "This time?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I figured out a way to track down Ward, but we got to go off book."
+        },
+        {
+            "character": "Hunter",
+            "line": "My specialty."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm not sure taking Hunter is really such a good idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're going, too, Agent Morse. We need a pilot."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you thinking?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's simple, Agent Mackenzie. To take Ward out, I need to cross some lines the Director of S.H.I.E.L.D. shouldn't cross."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, maybe those lines aren't meant to be crossed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe not, but this is happening."
+        },
+        {
+            "character": "Mack",
+            "line": "What, you want me to fill in?"
+        },
+        {
+            "character": "Coulson",
+            "line": "As acting director until it's finished."
+        },
+        {
+            "character": "Mack",
+            "line": "Why not put May in charge?"
+        },
+        {
+            "character": "Coulson",
+            "line": "After everything that's happened with Andrew, she's not ready to lead. You're the only one I trust who doesn't have an axe to grind with Ward."
+        },
+        {
+            "character": "Mack",
+            "line": "I was gonna check out the Distant Star facility with Fitz and Simmons."
+        },
+        {
+            "character": "Coulson",
+            "line": "They've already gone. I sent them and a team with Agent Banks 20 minutes ago."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, maybe I should go."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't a request. It's an order. I need you to step up and do the damn job."
+        },
+        {
+            "character": "Mack",
+            "line": "Does this mean you're gonna tell me your plan?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Absolutely not."
+        }
+    ]
+}

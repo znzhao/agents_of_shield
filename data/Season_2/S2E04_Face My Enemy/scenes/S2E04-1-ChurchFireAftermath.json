@@ -1,0 +1,41 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "ChurchFireAftermath",
+    "description": "The episode opens with a Catholic bishop visiting a fire-ravaged church. He speaks with a priest about the sole surviving artwork, a Madonna painting, and insists on seeing it. The priest is reluctant but eventually shows the bishop the back, revealing mysterious runes similar to those Coulson has seen before. This discovery sets the main mystery into motion.",
+    "roles": [],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Priest",
+            "line": "Your grace, thank you for coming. Our parishioners are still trying to understand this tragedy, and..."
+        },
+        {
+            "character": "Bishop",
+            "line": "Show it to me."
+        },
+        {
+            "character": "Priest",
+            "line": "O-Of course. This way, please. Here. It dates back to Spain, the early 1500s. It was the only item in our entire church that was spared."
+        },
+        {
+            "character": "Bishop",
+            "line": "It's a miracle... one which might help us rebuild. Experts will have to verify it, of course."
+        },
+        {
+            "character": "Priest",
+            "line": "Your grace, shouldn't it be enough simply to believe in the miracle? Does it have to be proven?"
+        },
+        {
+            "character": "Bishop",
+            "line": "Faith is enough for us, but the rest of the world... they'll need something more tangible. Why? Do you have some reservation?"
+        },
+        {
+            "character": "Priest",
+            "line": "There is one more thing."
+        }
+    ]
+}

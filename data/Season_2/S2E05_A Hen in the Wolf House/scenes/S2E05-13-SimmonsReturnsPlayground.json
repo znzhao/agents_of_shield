@@ -1,0 +1,163 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 13,
+    "scene_name": "SimmonsReturnsPlayground",
+    "description": "Simmons and Morse arrive safely at the Playground aboard the Bus. Coulson welcomes Simmons home and thanks Bobbi Morse for saving her. The reunion is emotional as Fitz sees Simmons again, and Morse is introduced to the rest of the team, including a comedically tense exchange with Hunter. The group dynamics are on display as everyone adjusts to Morse’s presence.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "lance_hunter",
+        "bobbi_morse",
+        "antoine_triplett",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Welcome home, Agent Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Director Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm glad to have you back."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm just glad to be alive. If it hadn't have been for Agent Morse, I..."
+        },
+        {
+            "character": "Morse",
+            "line": "Bobbi."
+        },
+        {
+            "character": "Simmons",
+            "line": "Bobbi, right. If it hadn't have been for Bobbi, I would never have made it out. Probably be brainwashed, happy to comply to who knows what. She's amazing."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why I've asked her to join the team. Go ahead. Agents Triplett, Morse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hi, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons... Is that really you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course it is. Who else would it be? How've you been?"
+        },
+        {
+            "character": "Morse",
+            "line": "Thank you."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. Long time, no see, Barbara."
+        },
+        {
+            "character": "Morse",
+            "line": "Don't start with that again. Hey. Aww."
+        },
+        {
+            "character": "Mack",
+            "line": "What you been up to?"
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, you know, working undercover at HYDRA, acting all uptight and evil."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Morse",
+            "line": "You know what I could really go for right now?"
+        },
+        {
+            "character": "Mack",
+            "line": "Three-olive martini."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi?"
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, Hunter. Nice suit."
+        },
+        {
+            "character": "Hunter",
+            "line": "“Nice suit?” Really? That's what you're leading with? What did you do to your hair?"
+        },
+        {
+            "character": "Morse",
+            "line": "Ever heard of undercover?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I prefer you blonde."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, I didn't do it for you. Two seconds in... there's already a tone."
+        },
+        {
+            "character": "Hunter",
+            "line": "Th-this isn't a tone. This is my speaking voice when I'm upset with an unreasonable person."
+        },
+        {
+            "character": "Triplett",
+            "line": "What's the deal there?"
+        },
+        {
+            "character": "May",
+            "line": "Hunter ever tell you stories about his she-devil ex-wife?"
+        },
+        {
+            "character": "Triplett",
+            "line": "All the time... Damn."
+        },
+        {
+            "character": "Hunter",
+            "line": "Anyone mind telling me what the bloody hell she's doing here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bobbi's one of our best agents."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, that's rich! Then mind telling me what I'm doing here?"
+        },
+        {
+            "character": "Morse",
+            "line": "It's easy... I vouched for you."
+        },
+        {
+            "character": "Hunter",
+            "line": "Why the hell would you do that?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Play nice."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "ZephyrPlanningAndUpgrades",
+    "description": "On Zephyr One, Coulson, Enoch, and the rest of the S.H.I.E.L.D. team discuss their plan to use Flint's powers to create a new monolith with the goal of returning to their own time. They face problems repairing the battered Zephyr and hurriedly debate whether to evacuate or attempt a dangerous flight through the gravitational storm, ultimately deciding to risk takeoff to reach the Lighthouse.",
+    "roles": [
+        "enoch",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "This Inhuman boy, Flint, you say his geokinesis is the key to building a new monolith, to your returning home?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Technically, Robin said it to May, but yeah, that's the idea."
+        },
+        {
+            "character": "Enoch",
+            "line": "And how exactly will that work?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We have a monolith shard that Simmons said has a unique crystalline structure that he can... It's a rock. Flint controls rocks. I don't know. Won't matter if we can't make it back to the Lighthouse."
+        },
+        {
+            "character": "Enoch",
+            "line": "Then we must hope he remains safe while we wait out the intensifying gravity storm. By my calculations..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It'll last for weeks, and we need to evacuate. Right, you've been saying that. Kind of on repeat. Whatever you're doing, do it faster. How we lookin'?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Terrible. Zephyr One's been a crash site for going on 80 years, so it's a mess."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's gonna be a while till comms are up and running. ‘Cause I'm pretty sure generations of space rats have lived and died in here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not to ruin the mood, but avionics are online."
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent Coulson, we are evacuating to the caves for shelter, are we not?"
+        },
+        {
+            "character": "May",
+            "line": "Zephyr flies again, metal man."
+        },
+        {
+            "character": "Enoch",
+            "line": "I am mostly plastic alloy. And Chronicoms do not have gender."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have weeks. We're gonna outrun the storm. Pull the ground anchors, fly past as many roaches as we can, and land at the Lighthouse."
+        },
+        {
+            "character": "Enoch",
+            "line": "You are confident, despite knowing this will surely end in your deaths."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're not gonna bury our heads in the sand while our friends are in danger."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, so much for avionics."
+        },
+        {
+            "character": "Simmons",
+            "line": "Rerouting must have overloaded the MPDU."
+        },
+        {
+            "character": "Fitz",
+            "line": "Need to try and bypass the subsystems."
+        },
+        {
+            "character": "May",
+            "line": "Hey, Plastic, make yourself useful. Secure this in the back."
+        },
+        {
+            "character": "Enoch",
+            "line": "Plastics are quite useful, if not often appreciated."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry she had to go like that. You want to talk about it?"
+        },
+        {
+            "character": "May",
+            "line": "I, um, don't know where to start."
+        },
+        {
+            "character": "Coulson",
+            "line": "An old woman tells you that she was your daughter and that you'll save the planet from cracking apart, doesn't happen every day."
+        },
+        {
+            "character": "May",
+            "line": "It's hard to believe."
+        },
+        {
+            "character": "Coulson",
+            "line": "That we can do it?"
+        },
+        {
+            "character": "May",
+            "line": "That I was a mom. I just... I can't see it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. You'd be that no phone, no TV, 7:30 curfew kind of mom. You're kind of proving my point with the face."
+        },
+        {
+            "character": "Coulson",
+            "line": "For Robin's sake, we need to make sure this world never comes to be."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. No matter what."
+        },
+        {
+            "character": "May",
+            "line": "What are we gonna do with Voss?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I left that up to Deke."
+        }
+    ]
+}

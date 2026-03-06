@@ -1,0 +1,94 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 4,
+    "scene_name": "RainaExtractionInCanada",
+    "description": "May, Hunter, and Skye arrive in Canada to extract Raina with assistance from the Koenigs. They encounter Agent 33—still wearing May's face—and multiple HYDRA agents, leading to a brief skirmish. Skye manages to retrieve Raina and they escape Hydra's pursuit, regrouping with the rest of the team as May arrives in a commandeered HYDRA van.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may",
+        "skye",
+        "raina"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Excuse me, mate. Somebody call an ambulance! This guy just passed out!"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "That's impressive."
+        },
+        {
+            "character": "Hunter",
+            "line": "Thanks, Billy."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "No, I'm Sam. Billy's the shorter one."
+        },
+        {
+            "character": "May",
+            "line": "Two more down."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "That's not Sam's knock."
+        },
+        {
+            "character": "Raina",
+            "line": "You two have a knock?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Yeah, we're brothers. Of course we have a knock. Lanyard, please."
+        },
+        {
+            "character": "Computer",
+            "line": "Agent Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Come on, Sam. You can't just look through the damn peep hole?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "I'm Billy. Sam's the shorter one."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. Right. Well, we need to move. Come on. Go for the stairs!"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Stairs, copy!"
+        },
+        {
+            "character": "Skye",
+            "line": "Stand down, Agent 33! We can help you! Unh!"
+        },
+        {
+            "character": "Hunter",
+            "line": "There's more coming. We need to... What the hell is that?"
+        },
+        {
+            "character": "Skye",
+            "line": "May's evil twin, formerly known as Agent 33."
+        },
+        {
+            "character": "Hunter",
+            "line": "I thought the Koenigs were creepy."
+        },
+        {
+            "character": "Skye",
+            "line": "Tell Coulson we're on our way."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yes, ma'am."
+        }
+    ]
+}

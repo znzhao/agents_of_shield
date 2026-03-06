@@ -1,0 +1,84 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 2,
+    "scene_name": "CoulsonAndSkyeDiscussCarvings",
+    "description": "At The Playground, Coulson obsesses over his carvings while Skye interrupts him about their tangled investigations. They discuss the mounting pressure, Ward's information, and the escalating frequency of Coulson's compulsions. The two receive a tip about a corpse marked with the familiar carvings, prompting Coulson to investigate further, despite Skye's reservations.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Damn it. How long were you standing there?"
+        },
+        {
+            "character": "Skye",
+            "line": "Long enough. May gave us specific instructions... you go on a date with the crazy wall, I have to chaperone."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't want to wake you."
+        },
+        {
+            "character": "Skye",
+            "line": "Do I look like I've been sleeping?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What's keeping you up?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's all connected... everything. Ward has information about my father, who just happens to have the alien buzzkill device, which is somehow connected to the writing, that is related to the G.H. serum that is in our blood... like we're pieces to a puzzle."
+        },
+        {
+            "character": "Coulson",
+            "line": "Except we don't know what the puzzle is or how the pieces even fit."
+        },
+        {
+            "character": "Skye",
+            "line": "It's a hacker's worst nightmare, everlasting gobstopper of firewalls."
+        },
+        {
+            "character": "Coulson",
+            "line": "It wants us to know. I can feel it."
+        },
+        {
+            "character": "Skye",
+            "line": "Then it... should tell us, because I have been trying to match the writing to constellation maps, navigational charts, genome diagrams. And if it's a map, it's a map to nowhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to stick with it. The writing's coming more and more frequently. Used to be two, three times a month. Then once a week. Now it's every day, every night. I can't turn it off."
+        },
+        {
+            "character": "Skye",
+            "line": "How do you function? When do you sleep?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why we need answers."
+        },
+        {
+            "character": "Skye",
+            "line": "And what if we don't find them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Anything else?"
+        },
+        {
+            "character": "Skye",
+            "line": "When does May get back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not until we find Ward."
+        }
+    ]
+}

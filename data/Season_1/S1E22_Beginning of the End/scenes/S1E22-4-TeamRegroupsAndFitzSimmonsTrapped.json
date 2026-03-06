@@ -1,0 +1,112 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 4,
+    "scene_name": "TeamRegroupsAndFitzSimmonsTrapped",
+    "description": "The S.H.I.E.L.D. team discusses their plan to assault the Cybertek facility and their fears about Fitz and Simmons' fate. Meanwhile, Fitz and Simmons awaken at the bottom of the ocean, injured and realizing the bleakness of their situation, debating possible escape and coming to terms with the danger they face together.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "The trojan horse worked. It gave us access to the system we wanted. Our secret weapon... we now have eyes on their operation right in the palm of my hand."
+        },
+        {
+            "character": "Triplett",
+            "line": "We'll need more than eyes to defeat Garrett."
+        },
+        {
+            "character": "May",
+            "line": "What is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz-Simmons' tracker crossed the ocean. It's in New Mexico."
+        },
+        {
+            "character": "Skye",
+            "line": "They managed to tag the plane?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It appears so, but they're not answering."
+        },
+        {
+            "character": "Skye",
+            "line": "No..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't think about that right now. They may have been captured. Either way, they risked everything to put a tracker on that plane for us. Now we know exactly where Garrett is, and Skye can see what he's doing. If Fitz and Simmons are still alive, then catching Garrett is our only shot at finding them."
+        },
+        {
+            "character": "Fitz",
+            "line": "You looked very peaceful sleeping. Didn't want to wake you, but I'm glad that you're up."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I've spent the last hour trying to figure out why we sank. We're at the bottom of the ocean, in case you missed that bit. These pods are built to be compatible with all S.H.I.E.L.D. aircraft, submarines, spacecraft. On impact, the atmospheric adaptation must have tried to compensate. We slowly sank as it increased the density of the outer walls. I measured the rate the water rose on the glass. Did the math... we're at least 90 feet down. You can't see the surface."
+        },
+        {
+            "character": "Simmons",
+            "line": "How did we survive the fall?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The plane must have been in vertical flight mode, flying low. I managed to strap us to one of the backboards before we hit. And I broke my arm... same two places I broke it in second grade... which is strange."
+        },
+        {
+            "character": "Simmons",
+            "line": "I thought we were dead for sure, Fitz. We're so lucky. Now we just need to figure a way out of here. We'll find a way out of here, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And then we'd be in the middle of the ocean with the bends and no floatation and no one looking for us. I already spent an hour trying to rig the wireless signals on the EKG to send out a weak distress call before remembering that it's a S.H.I.E.L.D. frequency and no one's listening. And that's not the problem... the problem is that there aren't many supplies left in here, so I've already done the math..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enough with the math. What are you saying? There is no way out. We're going to die down here."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll only get one shot at this, so let's go over the plan one more time to make sure we're clear on exactly what we're doing, okay? Trip and I will crest the ridge, use a noisemaker to grab a three-wheel, maybe something with more fireworks, and open a window for you two. You crawl in, grab the dealer, force his hand. He'll get us our ace in the hole, and then bob's your uncle."
+        },
+        {
+            "character": "Skye",
+            "line": "Roger that."
+        },
+        {
+            "character": "Triplett",
+            "line": "Makes it sound easy."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, it's a solid plan you've mapped out, but it hinges on a gamble... a big one."
+        },
+        {
+            "character": "Coulson",
+            "line": "And backup isn't coming. It'll be just the four of us. We'll be outmanned and outgunned. But Fury always said... a man can accomplish anything when he realizes he's a part of something bigger. A team of people who share that conviction can change the world. So, what do you say? You ready to change the world?"
+        },
+        {
+            "character": "May",
+            "line": "No. I'm ready to kick some ass."
+        },
+        {
+            "character": "Coulson",
+            "line": "That works, too."
+        }
+    ]
+}

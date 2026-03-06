@@ -1,0 +1,82 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 4,
+    "scene_name": "DaisyMayMissionPrep",
+    "description": "Daisy, May, and Deke prepare for their mission to find Robin Hinton. Simmons asks Daisy to reconsider Fitz's situation, but Daisy insists on sticking to protocol, assigning Mack to keep Fitz locked up and warning Simmons not to let him out.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "deke_shaw",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You sure about this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I understand the risk of taking her out of hiding, but Robin is our best shot at finding Coulson. I have to talk to her. And look, I... I get that you're afraid to see her again, but she's the most powerful tool we have."
+        },
+        {
+            "character": "May",
+            "line": "She's just a kid."
+        },
+        {
+            "character": "Deke",
+            "line": "Sorry I'm... I'm late. I was just... just getting all my gear together, but I'm ready to go. Geared up. Mission-ready. I'll just go ahead and get to the command center."
+        },
+        {
+            "character": "May",
+            "line": "Was he late?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I have no idea. What's up?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I was hoping to have another word with you about Fitz."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't have that conversation again, Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, well, Robin may have answers, but she may not, whereas Fitz has a concrete lead on a HYDRA weapon. We get to that first, we get to Hale. That could lead to Coulson and..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz is sick. You should be worried about that. Look, you can compile his intel, and we will review it when we get back. But right now, Zephyr One is leaving. And, Simmons, Mack is in charge when I'm gone, and he's under strict orders Fitz stays locked up. Understood?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I understand what you're saying."
+        },
+        {
+            "character": "Daisy",
+            "line": "Good."
+        },
+        {
+            "character": "May",
+            "line": "You might want to dial it back."
+        },
+        {
+            "character": "Daisy",
+            "line": "I think she's wrong."
+        },
+        {
+            "character": "May",
+            "line": "You made that perfectly clear. But you're leading us now, and it's new to everyone, not just you."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm just leading us to Coulson. Then he can have his job back."
+        }
+    ]
+}

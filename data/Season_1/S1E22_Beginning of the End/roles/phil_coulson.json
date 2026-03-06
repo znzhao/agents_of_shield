@@ -1,0 +1,97 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 22
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resilient and principled S.H.I.E.L.D. agent renowned for his tactical leadership, unwavering commitment to his team, and dedication to justice. His journey has been marked by profound personal challenges including his resurrection via alien-derived serum, navigating betrayals such as Ward's Hydra allegiance, and confronting overwhelming threats from Hydra and the Centipede project. Coulson's leadership style balances pragmatism and compassion, prioritizing the protection and unity of his team while facing internal and external enemies. Recently appointed as the new Director of S.H.I.E.L.D., Coulson embraces the burden and responsibility of rebuilding the agency with renewed determination and integrity, embodying the organization's founding ideals despite ongoing dangers and losses.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    },
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "confront_hydra_and_recover_stolen_assets",
+        "goal": "Confront Hydra operatives including John Garrett and Ward, recover stolen S.H.I.E.L.D. assets including their plane, and reestablish security"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "bring_down_hydra_and_protect_team",
+        "goal": "Bring down Hydra operatives including John Garrett and Ward while protecting team members and innocent civilians"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "rebuild_shield_and_protect_global_security",
+        "goal": "Rebuild S.H.I.E.L.D. from scratch as its new director and restore global security and trust"
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_15",
+      "context": "mocking Ward's Hydra allegiance",
+      "catch_phrase": "Hail Hydra."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_16",
+      "context": "acknowledging the burden of leadership and redirecting focus from resurrection to mission",
+      "catch_phrase": "No need to tell me."
+    }
+  ]
+}

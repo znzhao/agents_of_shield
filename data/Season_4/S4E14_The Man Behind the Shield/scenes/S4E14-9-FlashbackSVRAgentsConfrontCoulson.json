@@ -1,0 +1,100 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 9,
+    "scene_name": "FlashbackSVRAgentsConfrontCoulson",
+    "description": "Back in the flashback, May and Coulson debate tactics as SVR agents arrive. Coulson attempts to stall the Russians while May escapes with the 0-8-4. The Russians detain Coulson, questioning his intentions and deducing May has stolen the objective, leaving Coulson to talk his way out.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Four guys at once. Should be fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "What? No. No guns-blazing tactics, Rambo. We're spies, not soldiers."
+        },
+        {
+            "character": "May",
+            "line": "We're agents. We do what has to be done. The mission comes before the man."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are your orders, anyway? You here to back me up or to retrieve the 0-8-4?"
+        },
+        {
+            "character": "May",
+            "line": "My orders don't include telling you."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's your clearance level now, anyway?"
+        },
+        {
+            "character": "May",
+            "line": "Three. Why, what level are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mine's classified. Tell you what. I'll stall Stalin and the gang. You stay here, get the 0-8-4."
+        },
+        {
+            "character": "May",
+            "line": "You sure? What are you gonna say to them, anyway?"
+        },
+        {
+            "character": "Coulson",
+            "line": "There's a biohazard contamination. Bio always works."
+        },
+        {
+            "character": "May",
+            "line": "Not inspiring confidence."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. Hi! Oh, boy. Please tell me one of you speaks English."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, that's not really... Whatever. I'm with the U.N. taskforce here. Some biohazardous materials were unearthed on this site. Really dangerous stuff."
+        },
+        {
+            "character": "Soldier",
+            "line": "You have paper?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I do, indeed, yes. Come on, May."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't kill these men."
+        },
+        {
+            "character": "Ivanov",
+            "line": "They were interrogated, tortured, and executed, all to cover up for you. They were my comrades. They were my brothers. I had to dig up their bodies just to pay my respects. Never forget the fallen."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where are my people?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Your people will suffer the exact same fate as my unit. Only this time, there will be no one left to find their bodies. You see? Yours is not the only life Agent Coulson has so easily tossed aside or hidden behind. This is what he does. Everything is his S.H.I.E.L.D. The Government, behind you, Director, behind Nick Fury, Stark, all of it, stands Agent Coulson, quietly pursuing his alien agenda."
+        },
+        {
+            "character": "Mace",
+            "line": "Conspiracy theories from the man who literally mounted a conspiracy to have men in masks kill Inhumans."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I'm closing the door he opened, allowing alien races to infect our world and convincing men like you to protect them. And I will make you admit, to me and yourself, that this is true."
+        }
+    ]
+}

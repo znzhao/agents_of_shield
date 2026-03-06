@@ -1,0 +1,74 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 8,
+    "scene_name": "SibylAndMalickDebateFateOfSHIELD",
+    "description": "Sibyl confronts Mack and Sousa on the Zephyr and tells them that S.H.I.E.L.D. has already lost. Malick wants to kill the S.H.I.E.L.D. agents, but Sibyl insists on allowing Daisy to try reuniting with Simmons as statistical likelihoods increase. Mack and Sousa vow to fight and prepare to blow the hangar doors for one last escape.",
+    "roles": [
+        "sibyl",
+        "alphonso_mackenzie",
+        "sousa",
+        "nathaniel_malick"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sibyl",
+            "line": "Did you really think you could sneak onto one of my ships?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you gotta admit, you didn't see that coming."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I'll grant that your appearance is a statistical improbability. But whatever advantage you hoped to gain is irrelevant. I didn't see you coming because it is meaningless. You're too late. Every S.H.I.E.L.D. base has been destroyed. The war is over. And you've lost."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Let's just kill them now. My team can finish them in no time."
+        },
+        {
+            "character": "Sibyl",
+            "line": "You know nothing of time. Take care of the humans on their ship. Do not interfere with Daisy Johnson."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I don't like this idea. I need confirmation that Leopold Fitz is dead. The odds of discovering the truth about him are 11% higher if we allow Daisy Johnson to reunite with Jemma Simmons. Be patient."
+        },
+        {
+            "character": "Mack",
+            "line": "It can't be true."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm sure it's not."
+        },
+        {
+            "character": "Mack",
+            "line": "We didn't come this far to fail. Not like this. Not to a bunch of..."
+        },
+        {
+            "character": "Sousa",
+            "line": "Robots. She has to be lying. Lighthouse can survive anything. We just need to get back down to it, regroup."
+        },
+        {
+            "character": "Mack",
+            "line": "It's too late for that."
+        },
+        {
+            "character": "Sousa",
+            "line": "We owe Daisy, Simmons, and Deke a way out of here when they get back."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. We do owe them that. There's no reason to be quiet anymore. Let's make some noise. Let's blow those hangar doors to pieces."
+        },
+        {
+            "character": "Sousa",
+            "line": "What else do we have?"
+        }
+    ]
+}

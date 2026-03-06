@@ -1,0 +1,83 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 3,
+    "scene_name": "CoulsonBriefsTheTeam",
+    "description": "Coulson gathers the team to deliver the grim news: Dr. Hall, a top S.H.I.E.L.D. asset and former adviser of Fitz and Simmons, has been abducted under mysterious circumstances. Fitz and Simmons are personally shaken by Hall's involvement. Coulson emphasizes the high stakes of priority red security and the invisible nature of the attackers, raising the concern of a possible S.H.I.E.L.D. mole.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson",
+        "jemma_simmons",
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "A few minutes ago, a S.H.I.E.L.D. transport was attacked while carrying a priority red protected asset off route 76 near Sterling."
+        },
+        {
+            "character": "Simmons",
+            "line": "Priority red?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The asset was Canadian physicist Dr. Franklin Hall, known for his work..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no, not Frank."
+        },
+        {
+            "character": "Fitz",
+            "line": "Dr. Hall? He was our chemical kinetics adviser our second year."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, he's so enthusiastic about science, we just adored him. We can rescue him, can't we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's one of ours. We're gonna try."
+        },
+        {
+            "character": "Ward",
+            "line": "And the attackers?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Invisible."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait, invisible? Cool. But terrible."
+        },
+        {
+            "character": "Skye",
+            "line": "Dr. Hall was an asset?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One of a few select scientists S.H.I.E.L.D. has been protecting, people our enemies would love to get their hands on. We keep them hidden, keep them on the move."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which is why Fitz and I were so lucky to have him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have him anymore."
+        },
+        {
+            "character": "Skye",
+            "line": "And what does priority red mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It means security should have been... heavy."
+        }
+    ]
+}

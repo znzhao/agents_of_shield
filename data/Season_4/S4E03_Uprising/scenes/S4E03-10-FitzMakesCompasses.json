@@ -1,0 +1,98 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 10,
+    "scene_name": "FitzMakesCompasses",
+    "description": "Back at the Miami blackout zone, Fitz demonstrates rudimentary compass-making to Coulson’s team to help triangulate the EMP’s source. He instructs Mack, Coulson, and Elena on how to use household materials to find the location, blending urgency and a bit of humor as the group scrambles against time to stop the EMP pulses.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "lighthearted",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, might not be that much longer, ‘cause I think I can solve this."
+        },
+        {
+            "character": "Mack",
+            "line": "By getting tanked?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What? No, I just need the corks. And I'm also gonna need some needles and some bowls of water. What, didn't any of you guys go to the Scouts? We're making compasses. Oh, come on. It's rudimentary science. Yeah, no big deal. Just rudimentary science. Maybe saving the day."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Think of her brain as a computer that's been compromised by... by bugs and glitches. If we shut it down and reboot it, then the parts of her brain that have been hyperactivated should reset back to default."
+        },
+        {
+            "character": "Simmons",
+            "line": "This is crazy."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Without a doubt, but we're out of time and out of options."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Well, once her heart stops, we'll have approximately seven minutes before she has irreparable brain damage and can't be brought back at all."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "During which time we monitor her brain activity, and once it reaches minimum threshold..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll shock her back to life and hope that your theory is correct."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Exactly. Then we'll go and have lots of drinks. Right? You ready?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Hell, no, I'm not ready! We're about to kill May."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "We're about to save May."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's okay. I'm so sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "The EMP releases a pulse every two seconds. And for that one moment, it becomes magnetic north, causing your needles to move a few degrees in that direction. Now, based on how much they move each time, I should be able to triangulate the source of the EMP or at least get in the ballpark."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ready when you are, Slide Rule."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, okay. Okay, call them out as they move."
+        },
+        {
+            "character": "Coulson",
+            "line": "35 degrees east."
+        },
+        {
+            "character": "Mack",
+            "line": "5 degrees west."
+        },
+        {
+            "character": "Elena",
+            "line": "10 degrees east."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, here it comes again. Look alive."
+        }
+    ]
+}

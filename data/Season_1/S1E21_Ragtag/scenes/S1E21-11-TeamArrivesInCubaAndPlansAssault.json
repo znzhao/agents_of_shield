@@ -1,0 +1,136 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 11,
+    "scene_name": "TeamArrivesInCubaAndPlansAssault",
+    "description": "Coulson's team arrives in Cuba, strategizing how to breach the barbershop front for Garrett's base. FitzSimmons are assigned to locate the Bus and deploy surveillance Dwarfs, remaining cautious about not engaging the enemy. The tension is high as they split duties and prepare for the showdown with Garrett’s forces.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "You sure you don't want anything else? How about one of these quarter walkie-talkies? They have a built-in homing beacon."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Triplett",
+            "line": "I'll keep one, too."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thanks."
+        },
+        {
+            "character": "Triplett",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't want to be greedy. We've already got the dwarfs."
+        },
+        {
+            "character": "Triplett",
+            "line": "No problem. All right."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because we had to fly in low, we have to search for our plane on the ground. Fitz, Simmons, you have the maps. Do not engage under any circumstances. If you find the bus, call us and stand down or come back here and wait."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll be careful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Understood, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's do it."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're too late. They're gone."
+        },
+        {
+            "character": "May",
+            "line": "They knew we were coming."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not sure everyone's gone. Something's generating a lot of volts in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, we found the bus. It's on an airfield outside abel Santamaria packing up to leave."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're on our way. How far is that from our location?"
+        },
+        {
+            "character": "Simmons",
+            "line": "About three hours, but by the looks of it, they'll be long gone by the time you can get here, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get out of there right now. Do not engage. Wait for us back at the jump jet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Copy that, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Garrett's leaving."
+        },
+        {
+            "character": "May",
+            "line": "We have to at least try and get over there."
+        },
+        {
+            "character": "Skye",
+            "line": "Or not. We still have this little puppy. If there's a computer system in that barber shop, we don't have to chase him anymore. We just plug it in, we wake up the trojan horse, and we're off to the races."
+        },
+        {
+            "character": "Triplett",
+            "line": "Worth a shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's do it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know we're not supposed to engage. But if they get away, we'll be back to square one. I can't handle square one again."
+        },
+        {
+            "character": "Fitz",
+            "line": "Garrett's there, which means Ward's probably there, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "What if we send a dwarf into the plane from here? It can stow away inside so we can track where the bus is going."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes. Simmons, excellent suggestion. We can send sleepy. He's our best listener... next to you, of course. Okay. I'll go get him from the car."
+        }
+    ]
+}

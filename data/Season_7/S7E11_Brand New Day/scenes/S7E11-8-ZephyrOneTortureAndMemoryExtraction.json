@@ -1,0 +1,50 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "ZephyrOneTortureAndMemoryExtraction",
+    "description": "On Zephyr One, Nathaniel and John Garrett try to break Simmons through emotional threats to Deke. Despite their efforts, Simmons maintains her block. The scene features violence and intimidation as they prepare Simmons for another round in the memory machine, escalating their villainous tactics in a desperate effort to find Fitz.",
+    "roles": [
+        "nathaniel_malick",
+        "jemma_simmons",
+        "deke_shaw",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Leave him alone!"
+        },
+        {
+            "character": "Deke",
+            "line": "It's okay, Jemma, he's got nothing... Oh! Okay. That was something, but I'm okay. He'll tire out eventually."
+        },
+        {
+            "character": "Garrett",
+            "line": "Someone's got a mouth on him."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Physical pain won't break you, congratulations. Now let's try the emotional variety. That's usually a little harder to break. What if I crack her skull, put her in a coma, and then go fishing around in her brain?"
+        },
+        {
+            "character": "Deke",
+            "line": "Stop!"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "How is she blocking me from Fitz?! Never mind."
+        },
+        {
+            "character": "Deke",
+            "line": "If you think that you can..."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "That's for my old man. Find a way to get whatever that is out of her head."
+        }
+    ]
+}

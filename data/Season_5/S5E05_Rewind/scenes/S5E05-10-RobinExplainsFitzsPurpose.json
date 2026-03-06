@@ -1,0 +1,73 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "RobinExplainsFitzsPurpose",
+    "description": "Fitz seeks answers from Robin as to why he was left behind. After some coaxing by her mother, Robin tells Fitz that he stayed behind so he could save his team. This revelation gives Fitz hope and changes his outlook. Enoch mentions a potential way to reach the future, reigniting Fitz's resolve.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Polly",
+            "line": "Thanks. It smells good. I'm sorry about your friends."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did Robin ever say why I wasn't supposed to go with them?"
+        },
+        {
+            "character": "Polly",
+            "line": "She doesn't say much at all. Not since Terrigenesis. I found her in a state just like her father."
+        },
+        {
+            "character": "Fitz",
+            "line": "She was way too young to go through that."
+        },
+        {
+            "character": "Polly",
+            "line": "Her mind has been scattered. Past, present, future, it's all the same to her, all mixed up. Sometimes, she doesn't even know I'm her mother."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Polly",
+            "line": "Enoch has been very helpful. He's helped me to understand and accept. And she lives mostly inside her head now, but we can try. Robin, sweetie. Mr. Fitz has brought you some breakfast. And he has a question for you. He'd like to know why he's not with his friends. Can you tell Fitz? He'd really like to know why he's not with them."
+        },
+        {
+            "character": "Robin",
+            "line": "'Cause you have to save them."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're in trouble some 70 years in the future, and there's nothing I can do? I'll be a skeleton by the time they get here."
+        },
+        {
+            "character": "Enoch",
+            "line": "I may know another way."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, now there's a way? What happened to no interference?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It's prophecy now."
+        },
+        {
+            "character": "Hunter",
+            "line": "Right."
+        },
+        {
+            "character": "Fitz",
+            "line": "How, Enoch? How do I get to them?"
+        }
+    ]
+}

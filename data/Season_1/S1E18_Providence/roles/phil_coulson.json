@@ -1,0 +1,95 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 18
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership is deeply shaped by his experiences with betrayal and the burden of hidden truths within the agency. Once steadfastly loyal, he has grown significantly mistrustful of S.H.I.E.L.D.'s internal structures due to repeated deceptions and the pervasive Hydra infiltration. He is fiercely protective of his team but struggles with the erosion of trust and the fallout of internal betrayals. Coulson's unyielding faith in Nick Fury, despite uncertainty and adversity, anchors his resolve to continue the fight against Hydra and to uphold the ideals of S.H.I.E.L.D. Even when isolated and doubted by his own team, Coulson's determination and leadership persist, reflecting a complex blend of vulnerability and strength in navigating a devastated agency and a dangerous hidden war within.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "shocked",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "survive_and_rebuild_after_SHIELD_collapse",
+        "goal": "Ensure survival of the team and adapt to the collapse of S.H.I.E.L.D., working to rebuild and resist Hydra infiltration"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_team_and_maintain_secret_plan",
+        "goal": "Protect his team while managing the secrecy around Nick Fury's status and resistance plans"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_3",
+      "context": "showing understanding and hope",
+      "catch_phrase": "It matters who you are."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_7",
+      "context": "emphasizing protection of his own team",
+      "catch_phrase": "Because we protect our own."
+    }
+  ]
+}

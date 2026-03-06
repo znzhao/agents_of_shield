@@ -1,0 +1,25 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 18,
+    "scene_name": "SHIELDAgentsRegroupEpilogue",
+    "description": "Coulson attempts to contact Hunter and Bobbi, who are still on the move after the chaotic events. Hunter, with Bobbi, replies that they're in dangerous territory and will report in when able. This brief coda closes out the episode, implying unresolved dangers and the team's separation after the tumultuous mission.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hunter, Bobbi, are you there? Come in. Over."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sorry. Can't talk right now, boss. We're in the belly of the beast. We'll call you when we land. Wherever that may be."
+        }
+    ]
+}

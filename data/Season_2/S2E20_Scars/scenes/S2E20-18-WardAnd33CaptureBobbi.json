@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 18,
+    "scene_name": "WardAnd33CaptureBobbi",
+    "description": "Elsewhere, after the earlier reveals on the quinjet, Bobbi Morse regains consciousness and finds herself in the clutches of Grant Ward and Kara. Kara expresses a desire for vengeance, but Ward insists on prolonging Bobbi's suffering. Their ominous conversation underscores that Bobbi's ordeal is just beginning.",
+    "roles": [
+        "bobbi_morse",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "You did good, baby. Fooled every one of them."
+        },
+        {
+            "character": "Kara",
+            "line": "It was hard being away from you."
+        },
+        {
+            "character": "Ward",
+            "line": "It's better when we're together."
+        },
+        {
+            "character": "Kara",
+            "line": "Why can't we kill her now?"
+        },
+        {
+            "character": "Ward",
+            "line": "Closure's about so much more than that. It's about digging in, doing the work. I'll show you what I mean. And then we'll kill her."
+        },
+        {
+            "character": "Kara",
+            "line": "She's waking up."
+        },
+        {
+            "character": "Ward",
+            "line": "We don't want that."
+        }
+    ]
+}

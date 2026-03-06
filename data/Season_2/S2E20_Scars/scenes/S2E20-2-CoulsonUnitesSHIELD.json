@@ -1,0 +1,56 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 2,
+    "scene_name": "CoulsonUnitesSHIELD",
+    "description": "In the present day on the Iliad, Coulson and Gonzales debate the aftermath of recent events and talk about mistakes, leadership, and the need for unity. Coulson proposes combining the two S.H.I.E.L.D. factions under his direction with Gonzales' advisement, suggesting they can move forward stronger together. The scene is filled with tension but ultimately lays the groundwork for a new, unified S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "robert_gonzales",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "bobbi_morse"
+    ],
+    "vibe": "dramatic",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Cards on the table."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Obviously, you and Fury have been keeping busy."
+        },
+        {
+            "character": "Coulson",
+            "line": "What can I say? I'm a company man. [i]With the fall of SHIELD, Fury felt we needed a failsafe, something completely off the books, a “break in case of emergency” type of thing."
+        },
+        {
+            "character": "Weaver",
+            "line": "Seems like you broke it wide open."
+        },
+        {
+            "character": "Morse",
+            "line": "And saved the day in the process."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's transpired over the last week is a lot to take in. I know. When I found out that this ship had survived HYDRA's attack and still had that classified cargo onboard, that you placed spies on my base, that I couldn't keep my own people safe. I felt like I'd failed as director. And the truth is, I did. A coup will make you think about things like that. I tried to do it all alone. That was a mistake. Even Fury had a World Council watching over him, providing guidance."
+        },
+        {
+            "character": "Gonzales",
+            "line": "What are you suggesting?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One SHIELD, where I operate as director, under your advisement. This way, we'll have a cool underground base and a boat."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's hard to argue with a man who prevented Ultron from killing thousands of people. But there are plenty more battles to be won, and one closer to home that I fear the Helicarrier won't solve."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 16,
+    "scene_name": "AftermathAndWardImprisoned",
+    "description": "With the Centipede soldiers being rounded up, Coulson and May visit the captive Ward. Coulson assures Ward that he's going to spend the rest of his life regretting his decisions, while May relishes the opportunity to add a little external punishment, closing the book on Ward's betrayal for now.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Without regular injections, they're just men. Once doctors remove their cybernetic eyes, they'll be essentially back to normal."
+        },
+        {
+            "character": "Triplett",
+            "line": "Minus an eye, of course."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got a chance to express all your feelings?"
+        },
+        {
+            "character": "May",
+            "line": "Is he still breathing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Guess she kept some of it to herself."
+        },
+        {
+            "character": "May",
+            "line": "He's having trouble speaking. I think I fractured his larynx."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, good. Your attempt to cross off Fitz and Simmons failed, but Fitz may never be the same again. So I'm going to invent new ways to ruin the rest of your life. And we'll do whatever's necessary to get Hydra intel from you, but your torture... that's gonna be internal."
+        },
+        {
+            "character": "May",
+            "line": "And a little bit external."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sure. Some of that. But you devoted your entire life to a deranged narcissist who never gave a damn about anyone, and now he's dead. You've got the rest of your life to wrestle with the question... who are you without him?"
+        }
+    ]
+}

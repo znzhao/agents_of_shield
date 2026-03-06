@@ -1,0 +1,54 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 1,
+    "scene_name": "ZellerShowsCybertekToNewEmployee",
+    "description": "Zeller gives a new Cybertek employee a tour, explaining the company's control over their super-soldier systems and referencing the powerful Incentives program. As they prepare for an attack, Zeller signals his team to engage, demonstrating the covert, militaristic nature of Cybertek's operations.",
+    "roles": [
+        "michael_peterson",
+        "raina",
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "tense",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Zeller",
+            "line": "Sorry about the security red tape... you know, intellectual property, blah, blah, blah. You'll get used to it. So, basically, I've been here since day one. It started with me on my computer in a basement, and now look what we've grown into. We've got 20 active systems, and we're growing fast."
+        },
+        {
+            "character": "Fletcher",
+            "line": "I was gonna ask about the construction next door."
+        },
+        {
+            "character": "Zeller",
+            "line": "Ah, yeah, we're planning to add another 100 systems by the end of the month. That's Sally. Hey, Sally. So, what... are you just really into this sort of thing, or what brings you to the company?"
+        },
+        {
+            "character": "Fletcher",
+            "line": "Um... the Incentives program?"
+        },
+        {
+            "character": "Zeller",
+            "line": "Yeah. No one's turned that down yet. Anyway, so, every operator is in charge of one unit. You will receive an e-mail 24 hours before it goes online. Now, some are volunteers, but some are here for the same reason that you're here..."
+        },
+        {
+            "character": "Woman",
+            "line": "Hey, Zeller. We're in position."
+        },
+        {
+            "character": "Zeller",
+            "line": "Okay. This is good for you to learn on your first day."
+        },
+        {
+            "character": "Fletcher",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Zeller",
+            "line": "These guys? We don't like these guys. Yes, sir, we have them in sight. Copy that. Okay, people... let ‘em have it."
+        }
+    ]
+}

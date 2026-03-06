@@ -1,0 +1,114 @@
+{
+    "season": 7,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "LastChanceOnZephyr",
+    "description": "The team frantically prepares to abandon Zephyr One as the time drive nears catastrophic failure. May and Elena approach in the Quinjet, racing against the shrinking time window to dock and board. Elena is still plagued by self-doubt and guilt, believing she has failed the team. The urgency and stakes are at their peak as May attempts a difficult landing.",
+    "roles": [
+        "melinda_may",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "skye",
+        "deke_shaw",
+        "sousa",
+        "enoch"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Are we even in the right place? I don't see them anywhere."
+        },
+        {
+            "character": "May",
+            "line": "Give it a minute. We're a jump late, but we should still have enough time to dock with the Zephyr in the next window."
+        },
+        {
+            "character": "Elena",
+            "line": "We should?"
+        },
+        {
+            "character": "May",
+            "line": "If I can land us on the first pass."
+        },
+        {
+            "character": "Elena",
+            "line": "We're still gonna lose our time machine because I'm not about to save the day like everyone hoped."
+        },
+        {
+            "character": "May",
+            "line": "Yo-Yo, it was never all on you. The team could've found another solution in the last two days."
+        },
+        {
+            "character": "Elena",
+            "line": "May, they've only had 20 minutes."
+        },
+        {
+            "character": "May",
+            "line": "Oh, damn it. Right."
+        },
+        {
+            "character": "May",
+            "line": "One shot."
+        },
+        {
+            "character": "Mack",
+            "line": "You're late. Yo-Yo. Tell me some good news. Tell me you can get us out of this mess."
+        },
+        {
+            "character": "Elena",
+            "line": "It didn't work."
+        },
+        {
+            "character": "Mack",
+            "line": "Alright. We knew it was a long shot."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, I'm so sorry."
+        },
+        {
+            "character": "Mack",
+            "line": "No, you did what you could. Everyone, get to the Quinjet now."
+        },
+        {
+            "character": "Mack",
+            "line": "May, be ready to get us out of here."
+        },
+        {
+            "character": "May",
+            "line": "It's gonna be damn close, but I'll try. It's not your fault."
+        },
+        {
+            "character": "Elena",
+            "line": "It is... if it's all in my head."
+        },
+        {
+            "character": "May",
+            "line": "Yo-Yo, all this guilt you're feeling, it's not going..."
+        },
+        {
+            "character": "Elena",
+            "line": "I could accept it when it was some alien poison. But now? I'm never gonna get my powers back."
+        },
+        {
+            "character": "May",
+            "line": "You'll bounce back. Always have."
+        },
+        {
+            "character": "Elena",
+            "line": "Maybe I'm not supposed... to."
+        },
+        {
+            "character": "May",
+            "line": "What is it?"
+        },
+        {
+            "character": "Elena",
+            "line": "I don't have to bounce back."
+        }
+    ]
+}

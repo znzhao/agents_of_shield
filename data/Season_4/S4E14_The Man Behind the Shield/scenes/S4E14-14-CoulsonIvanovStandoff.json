@@ -1,0 +1,73 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 14,
+    "scene_name": "CoulsonIvanovStandoff",
+    "description": "Coulson encounters Ivanov in person at the detention facility. Ivanov accuses Coulson of orchestrating events behind the scenes and blames him for the deaths of his comrades, revealing his obsessive vendetta. Coulson, unmoved, downplays Ivanov’s personal grudge, as Daisy arrives and the situation rapidly escalates.",
+    "roles": [
+        "phil_coulson",
+        "anton_ivanov",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Krasnoyarsk Krai detention facility / former Soviet submarine bay",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Let's get the hell out of here."
+        },
+        {
+            "character": "Coulson",
+            "line": "You were one of the SVR agents at the mining facility. That was your unit."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Da. And they were killed for not retrieving the object stolen from our soil. When I looked for who did, I found S.H.I.E.L.D. And after years of looking behind S.H.I.E.L.D., I found you. That face. The man there at the very beginning. What a coincidence."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. I don't really have time for all this conspiracy-theorist crap. I'm done playing games. Where are May and Mace?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "But play my games you will. Did you really think I would let you have what it is you seek at the end?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're not even here, are they?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Well, your pretend Inhuman director is in the compound, but he may be dead by the time you find him."
+        },
+        {
+            "character": "Coulson",
+            "line": "All of these things you've done, all of the energy spent, the hatred. And you know what the funny thing about it is? I have no idea who the hell you are. I've been on hundreds of missions in my time. This one you're so upset about, I was sent to retrieve an object. If I'm being honest, I don't even remember what it was. As far as I'm concerned, you're just another red shirt like so many others who tried unsuccessfully to stop me from saving the world. ‘Cause that's what I do. So, cool origin story, bro, but this means nothing to me. She, on the other hand."
+        },
+        {
+            "character": "Daisy",
+            "line": "The top Watchdog himself. I've been waiting a long time for a face-to-face. I chased the Watchdogs, the funding, the weapons, the EMP, the Senator, it all leads back to you."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Always nice to meet an admirer."
+        },
+        {
+            "character": "Daisy",
+            "line": "This isn't about admiration or forgiveness."
+        },
+        {
+            "character": "Ivanov",
+            "line": "The butcher does not seek forgiveness from the animals he slaughters."
+        },
+        {
+            "character": "Daisy",
+            "line": "Have you ever read “Animal Farm?”"
+        },
+        {
+            "character": "Ivanov",
+            "line": "Enough talk. Not a fair fight, but I will fight it, regardless."
+        }
+    ]
+}

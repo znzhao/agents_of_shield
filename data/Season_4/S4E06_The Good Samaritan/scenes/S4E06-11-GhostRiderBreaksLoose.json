@@ -1,0 +1,92 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 11,
+    "scene_name": "GhostRiderBreaksLoose",
+    "description": "Robbie, desperate to save his uncle, tries to break out of the containment module, unleashing the Ghost Rider. He smashes through the door and confronts Coulson and Mace, overpowering both. Daisy tries to shield Gabe, but Gabe calls out to his brother, successfully calming him and preventing further violence.",
+    "roles": [
+        "robbie_reyes",
+        "gabe_reyes",
+        "skye",
+        "phil_coulson",
+        "jeffrey_mace",
+        "leo_fitz"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Robbie",
+            "line": "I'm not going back to their base!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Robbie! Don't give them more reasons to be afraid of you."
+        },
+        {
+            "character": "Robbie",
+            "line": "It's not me they need to be afraid of! It's the other guy and he wants out!"
+        },
+        {
+            "character": "Mace",
+            "line": "Will it hold?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No one's broken out yet, and it's held some pretty potent individuals. Robbie, stop!"
+        },
+        {
+            "character": "Gabe",
+            "line": "What's gonna happen?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Close your eyes."
+        },
+        {
+            "character": "Mace",
+            "line": "Is he an Inhuman?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Claims he made a deal with the devil."
+        },
+        {
+            "character": "Fitz",
+            "line": "Which is nonsense."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, the rationalist in me wants to agree, but... skull on fire presents a pretty compelling argument for “Hail Satan.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz? We still good?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, yeah, absolutely. The module's poly-adaptive material is the most sophisticated compound that S.H.I.E.L.D.'s... That's not possible."
+        },
+        {
+            "character": "Mace",
+            "line": "Stay back, I've got this."
+        },
+        {
+            "character": "Gabe",
+            "line": "No, I have to see this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie, that's enough! Stop! We'll do what you want! Robbie! No! We'll find your Uncle! Stop!"
+        },
+        {
+            "character": "Gabe",
+            "line": "Robbie! Robbie, look at me! Stop! Robbie!"
+        },
+        {
+            "character": "Gabe",
+            "line": "Get me out of here."
+        }
+    ]
+}

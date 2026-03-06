@@ -1,0 +1,74 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "BillyAndRadcliffeOnSubmarine",
+    "description": "Billy is held captive alongside the real Dr. Holden Radcliffe on Anton Ivanov’s submarine. Radcliffe initially feigns being a fellow prisoner but reveals that he was the one who gave up Billy to get the Darkhold. Ivanov enters, showing his old-school methods and threatening torture, prompting Radcliffe to intervene and advocate for a nonviolent method to extract the sought-after information.",
+    "roles": [
+        "billy_koenig",
+        "holden_radcliffe",
+        "aida",
+        "anton_ivanov"
+    ],
+    "vibe": "thrilling",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Shockley",
+            "line": "You two will want to get acquainted. You're the last one the other's gonna see alive."
+        },
+        {
+            "character": "Billy",
+            "line": "Yeah, well, we're ready to die."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No! No. No, no, no, no. I'm extremely not ready to die."
+        },
+        {
+            "character": "Billy",
+            "line": "Cut off my fingers, eat my liver, it doesn't matter. Nothing you do is gonna make me talk."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You must've sustained some brain damage during your last torture."
+        },
+        {
+            "character": "Shockley",
+            "line": "That... wasn't torture. That was a greeting. Now, the one who comes in this room next won't be me. The man who comes in here will do things to you that I can't even watch. He will break you."
+        },
+        {
+            "character": "Billy",
+            "line": "Yeah, well, Koenigs don't break. All right? We're programmed to take pain, so bring it on! Bring it on! Oh, my God. I'm in so much pain. I don't think I can take this. That guy hits really hard. Do you have any, uh, any, like, cyanide or..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Cyanide? Why would I..."
+        },
+        {
+            "character": "Billy",
+            "line": "Or, like, a paper bag. You put it over my head, you suffocate me really quick."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This is all my fault. I'm so sorry."
+        },
+        {
+            "character": "Billy",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Dr. Holden Radcliffe. I work for S.H.I.E.L.D., too. I'm afraid I'm the reason you're here. I told them Coulson gave you the book."
+        },
+        {
+            "character": "Billy",
+            "line": "The boo... What book?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The Darkhold. My friend, I made some questionable allegiances to get ahold of it, and they double-crossed me. That's... That's why we're here, wherever here is."
+        }
+    ]
+}

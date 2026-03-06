@@ -1,0 +1,126 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "aliases": [
+    "Skye"
+  ],
+  "demographics": {
+    "state": "healthy",
+    "appearance": "normal",
+    "age": "young_adult",
+    "sex": "f",
+    "sexual_orientation": "heterosexual",
+    "nationality": "american",
+    "religion": "agnosticism",
+    "occupation": "hacker",
+    "affiliation": [
+      "Rising Tide",
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": 3,
+    "sensing": -3,
+    "thinking": -2,
+    "judging": -2
+  },
+  "skills": {
+    "physical_fitness": 4,
+    "combat": 3,
+    "espionage": 5,
+    "stealth": 5,
+    "hacking": 9,
+    "negotiation": 6,
+    "leadership": 5,
+    "field_medicine": 3,
+    "intelligence": 7,
+    "research": 6,
+    "decision_making": 6,
+    "mechanical_repair": 4
+  },
+  "emotions": {
+    "core": {
+      "happiness": 5,
+      "sadness": 2,
+      "anger": 3,
+      "fear": 3,
+      "disgust": 2,
+      "shocked": 3
+    },
+    "mood": {
+      "calmness_anxiety": 3,
+      "loneliness_connection": 3,
+      "despair_hope": 4,
+      "helplessness_confidence": 4
+    },
+    "self_state": {
+      "self_worth": 5,
+      "social_trust": 3,
+      "guilt": 1,
+      "shame": 1,
+      "hostility": 1,
+      "resentment": 1
+    },
+    "intensity": {
+      "arousal": 6
+    }
+  },
+  "core_values": {
+    "honesty": 6,
+    "compassion": 7,
+    "violence": -7,
+    "justice": 7,
+    "loyalty": 5,
+    "courage": 6,
+    "freedom": 8,
+    "order": -2,
+    "self_interest": 3,
+    "pragmatism": 7,
+    "kindness": 6
+  },
+  "goals": [
+    {
+      "goal_id": "help_hooded_hero",
+      "goal": "To support and help the hooded hero (Michael Peterson) embrace his powers and potential"
+    },
+    {
+      "goal_id": "expose_hidden_truth",
+      "goal": "To expose hidden truths and secrets kept by organizations like S.H.I.E.L.D."
+    },
+    {
+      "goal_id": "find_belonging",
+      "goal": "To find a place where she belongs and is valued, potentially by joining S.H.I.E.L.D."
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": 5,
+    "recklessness_carefulness": -2,
+    "humor": 4,
+    "attractiveness": 3,
+    "mystery": 5
+  },
+  "description": "Skye is a skilled young adult hacker and a member of the Rising Tide, a hacktivist group opposed to secretive organizations like S.H.I.E.L.D. She is curious, resourceful, and driven by a strong sense of justice and desire to expose hidden truths. Despite her rebellious and somewhat reckless nature, she is compassionate and seeks connection and belonging, ultimately showing willingness to cooperate with S.H.I.E.L.D. She is empathetic toward others, especially those like Michael Peterson who have been marginalized and empowered by secret technologies. Her blend of technical expertise, street smarts, and idealism make her a complex and multifaceted character on the cusp of joining a larger team fighting for good.",
+  "catch_phrases": [
+    {
+      "id": "catchphrase_1",
+      "context": "broadcasting message about Rising Tide",
+      "catch_phrase": "The secret is out. For decades, your organization stayed in the shadows. Hiding the truth. But now we know — they're among us. Heroes... and monsters."
+    },
+    {
+      "id": "catchphrase_2",
+      "context": "warning about S.H.I.E.L.D. to Michael Peterson",
+      "catch_phrase": "They're coming for you."
+    },
+    {
+      "id": "catchphrase_3",
+      "context": "asserting her hacking prowess",
+      "catch_phrase": "I've done it before."
+    }
+  ]
+}

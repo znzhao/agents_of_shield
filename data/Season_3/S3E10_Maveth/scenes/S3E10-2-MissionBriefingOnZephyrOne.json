@@ -1,0 +1,117 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "MissionBriefingOnZephyrOne",
+    "description": "Back on Zephyr One, Mack and the S.H.I.E.L.D. team discuss what Coulson was thinking when he jumped through the portal after Ward. The team pieces together their priorities: secure the castle, rescue Fitz and Simmons, save trapped Inhumans, and be prepared for the Hydra threat. Tension rises as they draft their risky infiltration plan and determine their roles: Mack leads Hunter and Bobbi to secure the portal, while May and Daisy's team aim to find FitzSimmons. Lincoln and Joey are also briefed for action.",
+    "roles": [
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "bobbi_morse",
+        "skye",
+        "lincoln",
+        "melinda_may",
+        "joey_gutierrez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "One of you wanna tell me what Coulson was thinking jumping out of the Quinjet like that?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I'd say he wasn't so much thinking as feeling, feeling that Ward needs to die."
+        },
+        {
+            "character": "Mack",
+            "line": "And you didn't try to stop him."
+        },
+        {
+            "character": "Hunter",
+            "line": "Full disclosure I was planning on jumping, as well. Again, less thinking than feeling."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson went there to get our people."
+        },
+        {
+            "character": "Mack",
+            "line": "Our people, what are you talking about?"
+        },
+        {
+            "character": "Hunter",
+            "line": "We believe that Ward took Fitz or Simmons through the portal with him. Hopefully, Coulson can find them and bring them back safely."
+        },
+        {
+            "character": "Morse",
+            "line": "All we have to do is take control of the castle and open the portal so they can return."
+        },
+        {
+            "character": "Mack",
+            "line": "So, just take the ultra-fortified Hydra castle and open the alien portal. That's it? You know, you're wired different than most folks."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm not saying it'll be easy."
+        },
+        {
+            "character": "Hunter",
+            "line": "I wouldn't mind hearing it's gonna be easy."
+        },
+        {
+            "character": "Morse",
+            "line": "It'll be easy."
+        },
+        {
+            "character": "Hunter",
+            "line": "Doesn't work if I know you're lying."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack, or, director, you guys should get up here. This is HYDRA's compound outside the castle. And these two trucks were just unloaded."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What are they bringing in now? More weapons?"
+        },
+        {
+            "character": "Morse",
+            "line": "Inhumans. They're stockpiling Inhumans."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's how I read it. Looks like 10 or 12 of those gel-matrix containers."
+        },
+        {
+            "character": "May",
+            "line": "Andrew. He's probably down there, as well."
+        },
+        {
+            "character": "Joey",
+            "line": "Okay. So, are we rescuing Inhumans or saving Coulson or attacking Hydra or is there some kind of combo? Sorry. New guy just trying to understand how this whole S.H.I.E.L.D. thing works."
+        },
+        {
+            "character": "Hunter",
+            "line": "This is how S.H.I.E.L.D. works. You make a plan, plan turns to rubbish, we make a new plan. Oh, just to be crystal clear, this is the part where the plan turns to rubbish."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Whatever the new plan, we need to make sure those Inhumans are safe."
+        },
+        {
+            "character": "Morse",
+            "line": "And find Fitz and Simmons."
+        },
+        {
+            "character": "Daisy",
+            "line": "And we get Coulson back through the portal."
+        },
+        {
+            "character": "Mack",
+            "line": "Would everyone just shut up a second? Even cloaked, Hydra's missiles will find us if we get too close. And I will not be the one who has to tell Coulson we got his fancy new plane blown up. Now, the only way to take the castle and secure the portal is on the Q.T. That means no gunfire and no backup. We leave all tactical support up here. Is that clear? Two infiltration teams. One to search the compound for Fitz or Simmons and one to secure the portal. We'll take care of everyone, including the Inhumans, but first things first. Go. Satellite's at your disposal. Find us a back door, tremors."
+        }
+    ]
+}

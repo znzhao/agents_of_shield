@@ -1,0 +1,36 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 6,
+    "scene_name": "TalbotConfrontsTheConfederacy",
+    "description": "Talbot attends the Confederacy's gathering. He interrupts centuries of protocol by demanding a seat at their table, touting his unique status as gravitonium's vessel. The Confederacy resists, citing tradition, but Talbot murders a member with his powers, shocking them. This act opens up a spot for him, astonishing those present, especially the Kree elder Taryan of House Kasius.",
+    "roles": [
+        "glenn_talbot",
+        "kasius"
+    ],
+    "vibe": "action-packed",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Estella",
+            "line": "The six all stand present. Let us unite, under the banner of one true Confederacy."
+        },
+        {
+            "character": "Crixon",
+            "line": "Qovas, who is this intruder?"
+        },
+        {
+            "character": "Qovas",
+            "line": "This man hails from Earth. He has come to renegotiate terms of their protection."
+        },
+        {
+            "character": "Crixon",
+            "line": "The terms have already been set. Why would we even entertain such derangement?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Because you guys have been dealing with a bunch of weak amateurs. It's time you met Earth's mightiest hero. Me."
+        }
+    ]
+}

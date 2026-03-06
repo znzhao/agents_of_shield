@@ -1,0 +1,105 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 7,
+    "scene_name": "ConflictOfTrust",
+    "description": "Coulson confronts Mace about his secret arrangement with Senator Nadeer and the resulting trust issues. Mace reveals that his actions were motivated by a desire to protect S.H.I.E.L.D.'s public image from being tarnished with evidence of working alongside so-called fugitives and vigilantes. Daisy questions Mace's alliance with an anti-Inhuman senator, leading to Mace's admission that they are not a trusting team. Coulson insists they must finally unite to stop Eli's catastrophic plan.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You're losing them, Jeffrey."
+        },
+        {
+            "character": "Mace",
+            "line": "Yeah, well, maybe if you backed me up once in a while, I wouldn't be."
+        },
+        {
+            "character": "Coulson",
+            "line": "I won't back a bad plan."
+        },
+        {
+            "character": "Mace",
+            "line": "Or any plan that's not yours or part of your agenda."
+        },
+        {
+            "character": "Coulson",
+            "line": "What agenda?"
+        },
+        {
+            "character": "Mace",
+            "line": "Oh, come on, Phil. Make up your mind. You want to be Director or not? ‘Cause I'm not some meat puppet who's just gonna smile and roll over on command."
+        },
+        {
+            "character": "Coulson",
+            "line": "No one's asking you to roll over, but you do have a nice smile."
+        },
+        {
+            "character": "Mace",
+            "line": "You stepped down from this job, yet ever since I took over, you've been running around on this plane, doing what you want, whenever you want!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You mean saving lives that kind of thing?"
+        },
+        {
+            "character": "Mace",
+            "line": "I mean using fugitives and killers to do your dirty work, building robots, keeping secrets from me?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to talk about secrets? Fine. Let's do it. Let's start with the secret plan you cut with Senator Nadeer."
+        },
+        {
+            "character": "Mace",
+            "line": "Who told you about that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "A ghost. Did you know she has an Inhuman prisoner locked away, like some sort of lab experiment?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What's that phrase about glass houses?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You're an Inhuman. Why would you want to work with someone who hates us so much?"
+        },
+        {
+            "character": "Mace",
+            "line": "You want to know why? Take a look in the mirror. Senator Nadeer has photos of you in the prison with Reyes and that dead gangster he left behind, Santino Noguera. And she was gonna go public. Can you imagine the press? “Agents of S.H.I.E.L.D. working with domestic terrorists and murderers.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "You were trying to protect S.H.I.E.L.D."
+        },
+        {
+            "character": "Mace",
+            "line": "That's the job I was hired to do. Did I let Agent Simmons go examine an Inhuman? Yeah. Did I want to know more about him? Absolutely. But I didn't have that option at the time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why the hell didn't you just come to me in the first place?"
+        },
+        {
+            "character": "Mace",
+            "line": "Now, why would I do that? In case you haven't noticed, Phil, we're not a team that trusts. We're not a team at all."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe you're right. But we damn well better become one if we're gonna stop Eli Morrow from blowing up half of Los Angeles."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, that. Right. Fitz figured that out."
+        }
+    ]
+}

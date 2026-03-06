@@ -1,0 +1,323 @@
+{
+    "season": 7,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "ZephyrReturnsAndMalfunctionRevealed",
+    "description": "Deke searches for Mack, while the rest of the team aboard Zephyr One discover that the time drive is malfunctioning, causing uncontrolled jumps in time. Simmons realizes that at the rate they are going, the ship will collapse into a singularity soon. The team discusses their options and the potential dangers involved with trying to fix the drive.",
+    "roles": [
+        "deke_shaw",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "enoch",
+        "elena_rodriguez",
+        "skye",
+        "sousa",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Where are you going, man? Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "I just need some air."
+        },
+        {
+            "character": "Deke",
+            "line": "Mack! Is someone gonna go after him? Really? Fine, I'll do it."
+        },
+        {
+            "character": "May",
+            "line": "Deke. I don't think he's in the mood for company, - especially wh..."
+        },
+        {
+            "character": "Deke",
+            "line": "I've been through this. He needs to know that we're there for him. We'll be back in a few minutes."
+        },
+        {
+            "character": "May",
+            "line": "Mack's still not back."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hopefully Deke didn't have trouble finding him."
+        },
+        {
+            "character": "May",
+            "line": "Is it supposed to do that?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Unknown. It may have sustained heavier damage than we previously..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Get back!"
+        },
+        {
+            "character": "Enoch",
+            "line": "Oh, dear."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no, no. Deke, where are you?!"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, I said I would check on Mack. Believe it or not, I get what he's going through."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, where are you? The Zephyr's leaving. Both of you get back now. The drive's deteriorating. We're... We're about to jump. How much time did we lose?"
+        },
+        {
+            "character": "Enoch",
+            "line": "According to satellite telemetry, we've jumped approximately 481 days."
+        },
+        {
+            "character": "Simmons",
+            "line": "Deke and Mack...they've been alone that whole time."
+        },
+        {
+            "character": "May",
+            "line": "Start the search. Now."
+        },
+        {
+            "character": "May",
+            "line": "Mack, where are you? Deke? Mack, are you there? Mack, do you read? Come in."
+        },
+        {
+            "character": "Elena",
+            "line": "Nothing. There's only so much ground I can cover. 30 seconds. Let me go back out there. I'll stay behind."
+        },
+        {
+            "character": "May",
+            "line": "No, you'll be stranded, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "I need another data point, but there may be a pattern to these jumps."
+        },
+        {
+            "character": "May",
+            "line": "Why are we jumping at all? The Chronicoms are gone."
+        },
+        {
+            "character": "Simmons",
+            "line": "The damage from the missile must've triggered a spontaneous power surge."
+        },
+        {
+            "character": "May",
+            "line": "This isn't Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. We're jumping to the same latitude and longitude. Fitz always placed us in specific locations."
+        },
+        {
+            "character": "Elena",
+            "line": "How much time? How much?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's September."
+        },
+        {
+            "character": "Elena",
+            "line": "You've got your pattern now? ‘Cause I'm going either way. I've lost Mack for years."
+        },
+        {
+            "character": "Simmons",
+            "line": "You have 27 days until it's time to rendezvous back with the Zephyr. And I'll be..."
+        },
+        {
+            "character": "May",
+            "line": "Standing right here."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the theory, anyway. Good luck."
+        },
+        {
+            "character": "Sousa",
+            "line": "You worried about losing them, too?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not really. I have faith... in mathematics."
+        },
+        {
+            "character": "Simmons",
+            "line": "Welcome back, everyone."
+        },
+        {
+            "character": "Mack",
+            "line": "So, what's wrong?"
+        },
+        {
+            "character": "Simmons",
+            "line": "So, this is what we're dealing with. We've lost control of... of the time drive. At this rate, the Zephyr will collapse into a space-time singularity in two days. Or, relatively speaking, minutes."
+        },
+        {
+            "character": "Sousa",
+            "line": "Wait. Come again, now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Think of it like a stone skipping along the surface of a pond. The jumps... and the time we spend in any given time period... are getting exponentially shorter. If they keep getting smaller..."
+        },
+        {
+            "character": "Mack",
+            "line": "We sink."
+        },
+        {
+            "character": "Simmons",
+            "line": "Metaphorically, yes. For us, that means a jump within a jump, which leads to... Honestly, I have no idea."
+        },
+        {
+            "character": "Sousa",
+            "line": "Finally, the scientist from the future and I are on the same page."
+        },
+        {
+            "character": "Deke",
+            "line": "But can't we just disconnect the fuel cell regulator?"
+        },
+        {
+            "character": "Enoch",
+            "line": "We would if we could reach it. The field is cycling at a rate of 49 pulses per second, and it appears to disintegrate anything it touches."
+        },
+        {
+            "character": "Sousa",
+            "line": "So we need to find a way to slow down those pulses."
+        },
+        {
+            "character": "May",
+            "line": "Or move fast enough to go between them."
+        },
+        {
+            "character": "Elena",
+            "line": "The drive's not the only thing that's broken. If that Shrike hadn't taken away my powers, then maybe..."
+        },
+        {
+            "character": "Sousa",
+            "line": "Wait, what can you do?"
+        },
+        {
+            "character": "May",
+            "line": "Simmons, do you have any other theories as to what happened to Yo-Yo?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I wish I did, but I just don't know enough about Inhuman biology to..."
+        },
+        {
+            "character": "Daisy",
+            "line": "My mom does."
+        },
+        {
+            "character": "Sousa",
+            "line": "Daisy, you should be resting."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm okay. 1983, right? Jiaying is at Afterlife. If anyone knows how to cure Inhuman powers, it's her."
+        },
+        {
+            "character": "Elena",
+            "line": "Can we get there in time?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you could make it if you leave before the next jump."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. May, you've been to Afterlife before. Prep the Quinjet, but do not leave until I give the order."
+        },
+        {
+            "character": "May",
+            "line": "Well, I need coordinates and a countdown here. All right? I'm not doing time math."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't have to list the implications for you. So let's talk this through before we pull the trigger."
+        },
+        {
+            "character": "Mack",
+            "line": "Can you reboot him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, but..."
+        },
+        {
+            "character": "Mack",
+            "line": "Do it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Couldn't wait till I was all here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Things are pretty dire right now. Mack wants you to weigh in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good thing you built my head before my legs."
+        },
+        {
+            "character": "Mack",
+            "line": "The Time Drive is malfunctioning. We can try to fix it, but our best chance..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Disturbs the timeline? Just a guess."
+        },
+        {
+            "character": "Mack",
+            "line": "We make a wrong move, it could mess things up in the worst way yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Worse than losing your parents?"
+        },
+        {
+            "character": "Mack",
+            "line": "The difference is... at least I'd already been born."
+        },
+        {
+            "character": "Elena",
+            "line": "This plan's pretty thin, May."
+        },
+        {
+            "character": "May",
+            "line": "I'd rather have a thin plan than live through the ‘80s again. Enoch, you have the course heading for Afterlife locked in?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Yes. We will continue on that vector so we can rendezvous in the air when your mission is completed."
+        },
+        {
+            "character": "Elena",
+            "line": "If the stone doesn't sink first."
+        },
+        {
+            "character": "Mack",
+            "line": "The mission's a go."
+        },
+        {
+            "character": "May",
+            "line": "Copy that. Yo-Yo, good luck. You got this."
+        },
+        {
+            "character": "Elena",
+            "line": "Thanks. I'll see you in a few minutes."
+        }
+    ]
+}

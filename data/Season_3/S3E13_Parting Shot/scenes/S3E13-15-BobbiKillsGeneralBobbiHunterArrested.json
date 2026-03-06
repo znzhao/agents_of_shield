@@ -1,0 +1,44 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 15,
+    "scene_name": "BobbiKillsGeneralBobbiHunterArrested",
+    "description": "Bobbi manages to kill General Androvich, which dissipates the shadow and saves the Prime Minister. The victory is short-lived as Russian soldiers immediately arrest Bobbi and Hunter, setting the stage for their impending separation from S.H.I.E.L.D.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Better now. I thought..."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, I know. Me, too. I don't know what frightened me more, the firing squad or that shadow muppet."
+        },
+        {
+            "character": "Morse",
+            "line": "We were lucky."
+        },
+        {
+            "character": "Hunter",
+            "line": "I was lucky. You were good. I bet you could do with a cheeseburger right now, huh?"
+        },
+        {
+            "character": "Morse",
+            "line": "There's no cheeseburgers where we're going."
+        },
+        {
+            "character": "Hunter",
+            "line": "If there's a way out of this, I can't see it. Not where everyone wins."
+        },
+        {
+            "character": "Morse",
+            "line": "Maybe not everyone should."
+        }
+    ]
+}

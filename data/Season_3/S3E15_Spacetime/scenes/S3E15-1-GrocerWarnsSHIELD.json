@@ -1,0 +1,197 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 1,
+    "scene_name": "GrocerWarnsSHIELD",
+    "description": "Daisy, Coulson, May, and Lincoln monitor an unusual emergency dispatch from Edwin Abbott, who mentions Daisy by name and warns of a Hydra attack. The team discusses the situation, notes the mysterious foreknowledge, and preps to intervene—realizing the caller seems to have experienced the events before. The team deploys to investigate, bracing for a potential Hydra ambush and trying to protect Edwin and Charles Hinton, a homeless Inhuman targeted by Hydra.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Edwin",
+            "line": "Starting fires now, huh?"
+        },
+        {
+            "character": "Charles",
+            "line": "No, no. Don't... Don't want trouble. Just needed, um... art supplies."
+        },
+        {
+            "character": "Edwin",
+            "line": "It's Charlie, right?"
+        },
+        {
+            "character": "Charles",
+            "line": "Well, Charles."
+        },
+        {
+            "character": "Edwin",
+            "line": "Look, I can't have you sleeping back here anymore. It's not good for business. I'm about to open."
+        },
+        {
+            "character": "Charles",
+            "line": "Okay. Uh, but, um, I could help out if you want. Sweep up or, you know, any... anything else you need."
+        },
+        {
+            "character": "Edwin",
+            "line": "I just need you to clear out. The sun will up in a few minutes. There's a shelter over on 9th. Look, grab yourself some breakfast on the way."
+        },
+        {
+            "character": "Charles",
+            "line": "No, no, no, no. No, I-I don't want any trouble."
+        },
+        {
+            "character": "Edwin",
+            "line": "You seem like a nice guy. I-I just need to keep the customers I got. Now, take it. Daisy, help. Save me, please. So sorry... We're running out of time, Daisy. This is where I die."
+        },
+        {
+            "character": "Dispatcher",
+            "line": "I'm sorry, sir. Please calm down. I'm having a hard time understanding you."
+        },
+        {
+            "character": "Edwin",
+            "line": "There's someone coming here to kill me. Hydra."
+        },
+        {
+            "character": "Dispatcher",
+            "line": "Sir, we're sending two cars to your location."
+        },
+        {
+            "character": "Edwin",
+            "line": "No, there's no time for that. I need Daisy Johnson."
+        },
+        {
+            "character": "Dispatcher",
+            "line": "Who?"
+        },
+        {
+            "character": "Daisy",
+            "line": "S.H.I.E.L.D. monitors emergency dispatch? All the time, all over the world. It's how we're first on the scene. Who was the caller?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Man identified himself as Edwin Abbott. Owns a local grocery store in Dyker Heights. No affiliation with S.H.I.E.L.D. or any intelligence agency, for that matter. Just a guy."
+        },
+        {
+            "character": "May",
+            "line": "You don't know him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Never seen him, never heard of him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Prepare the Quinjet for disconnect."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Lincoln",
+            "line": "He knew your name."
+        },
+        {
+            "character": "Daisy",
+            "line": "And mentioned Hydra. Can't be good."
+        },
+        {
+            "character": "May",
+            "line": "May even be a trap."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll need ground tactical at the ready."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're coming? Good. With Mack on bed rest, we could use the extra muscle."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, he's the only one with extra muscles, but I'll come anyway. We don't know what we're walking into."
+        },
+        {
+            "character": "Officer",
+            "line": "Slow down, and tell me again."
+        },
+        {
+            "character": "Edwin",
+            "line": "I already told you. I'm not crazy. This is happening. There. There she is."
+        },
+        {
+            "character": "Officer",
+            "line": "And who are you, now?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Daisy Johnson, ATCU. Um, Edwin, right? How did you know my name, Edwin, when you called 911?"
+        },
+        {
+            "character": "Officer",
+            "line": "Because I heard you say it just now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh... what are you saying?"
+        },
+        {
+            "character": "Edwin",
+            "line": "I-I saw this. You saw what? This moment, talking to you, the... the cops, all of it."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm... I'm sorry. I'm not following."
+        },
+        {
+            "character": "Edwin",
+            "line": "Charles, the crazy homeless guy who lives in the alley... he... he ... he... must have put a curse on me or something. He made me see, this. I-I saw this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm gonna go check it out."
+        },
+        {
+            "character": "Edwin",
+            "line": "You got to get me out of here before they come and kill me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, okay, okay. We will protect you. But how did you know that it was HYDRA who's coming?"
+        },
+        {
+            "character": "Edwin",
+            "line": "Because that's what she'll yell when they come out of the sky."
+        },
+        {
+            "character": "May",
+            "line": "HYDRA!"
+        },
+        {
+            "character": "Agent",
+            "line": "Six o'clock!"
+        },
+        {
+            "character": "Edwin",
+            "line": "Help. Save me, please!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Don't worry. I'll get you out of this. Just lay low for a second."
+        },
+        {
+            "character": "Edwin",
+            "line": "We're running out of time. Daisy, this is where I die. No... No! The man's Inhuman. The homeless man's Inhuman. They're after him! No! No!"
+        }
+    ]
+}

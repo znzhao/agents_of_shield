@@ -1,0 +1,31 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 13,
+    "scene_name": "AftermathHealingAndReflection",
+    "description": "The dust settles after the battle. Randolph regains consciousness and flirts with Simmons, grateful for the team's help. Fitz, Simmons, and Skye discuss Coulson’s intervention to save Randolph. Simmons finally calls her parents. May and Ward have a heart-to-heart about their trauma and how May coped so well with the staff’s burden, offering intimacy and mutual understanding.",
+    "roles": [
+        "melinda_may",
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Hi, Dad. Yeah, it's great to hear your voice, too. I've been meaning to call you for a couple of days. It's been a difficult few weeks."
+        },
+        {
+            "character": "Ward",
+            "line": "When you held it, did you see anything? Then how? How did you hold all three?"
+        },
+        {
+            "character": "May",
+            "line": "Because I see it every day."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 15,
+    "scene_name": "TeamEscapesToEarth",
+    "description": "Mack, Sousa, Deke, Simmons, and Daisy coordinate their escape, successfully blowing the hangar doors and launching the Zephyr back to Earth. The team regroups, tending to Simmons' strange memory state and urgently working to prepare for the next threat on the ground.",
+    "roles": [
+        "alphonso_mackenzie",
+        "sousa",
+        "deke_shaw",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Okay. Now, this is wired to the Gravitonium Drive, as well as the Time Jump Drive."
+        }
+    ]
+}

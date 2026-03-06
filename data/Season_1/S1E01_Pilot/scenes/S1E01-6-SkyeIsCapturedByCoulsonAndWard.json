@@ -1,0 +1,109 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 6,
+    "scene_name": "SkyeIsCapturedByCoulsonAndWard",
+    "description": "Just as Skye is broadcasting a provocative message about The Rising Tide, Coulson and Ward break into her van, throw a hood over her, and take her to the S.H.I.E.L.D. Bus. They interrogate her about her links to the hooded hero and Centipede. Skye resists, but Coulson uses an unexpected tactic—injecting Ward with truth serum, leaving Skye in charge of questioning Ward, which builds an uneasy camaraderie.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "How will you come at us? From the air? From the ground? How will you silence us this time? How can you? The truth is in the wind. It's everywhere. You cannot stop The Rising Tide. You will not find us. You will never see our faces. But rest assured... We will rise against those who shield us from the truth. And nothing... nothing can stop us in the... Hey. What up?"
+        },
+        {
+            "character": "Skye",
+            "line": "You guys are making a big mistake."
+        },
+        {
+            "character": "Ward",
+            "line": "You don't look that big."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry for the lack of finesse. Agent Ward here has had a little history with your group... The Rising Tide."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know... what you're..."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay, there are two ways we can do this."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh. Is one of them the easy way?"
+        },
+        {
+            "character": "Ward",
+            "line": "What's your name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Skye."
+        },
+        {
+            "character": "Ward",
+            "line": "What's your real name?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That can wait. It's another name we need... a certain hero."
+        },
+        {
+            "character": "Skye",
+            "line": "What makes you think I know that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you made a little mistake. The phone you filmed the hooded hero with had the same cryptographic signature as a few of The Rising Tide posts."
+        },
+        {
+            "character": "Skye",
+            "line": "Wow. Yeah. Was that a mistake? Or am I now sitting in the center of your secret headquarters? What is this? A plane? I got inside. And by now, you've discovered you can't beat the encryption on my equipment, so you got nothing."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have a fairly strong coincidence... you being on the scene right before it went up in flames? Want to tell me what my team is gonna find out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "How did you know the hooded man was in the building?"
+        },
+        {
+            "character": "Ward",
+            "line": "Did you blow it up to draw him out?"
+        },
+        {
+            "character": "Skye",
+            "line": "Did you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not our style."
+        },
+        {
+            "character": "SKye",
+            "line": "I was just kidnapped by your “style.” S.H.I.E.L.D. covered up New Mexico, Project Pegasus. Of course you'd be covering up Centipede. Holy no way. You don't know what that is. Billions of dollars of equipment at your disposal, and I beat you with a laptop that I won in a bet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You need to think about your friend. We're not the only ones interested in people with powers. We'd like to contain him, yeah. The next guy will want to exploit him, and the guy after that will want to dissect him."
+        },
+        {
+            "character": "Ward",
+            "line": "What is Centipede?"
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah, I get it, but... Listen, doctor, people saw me. They saw what I can do. If I went public, that might be good. I mean, your product works. It works amazingly, and... yeah, yeah, I-I-I know what I signed, but if we got out in front of this, maybe... Then what? You want me to go crawling back to the factory? I couldn't even get workmen's comp from those crooks. I don't think... Yeah, ye... Doctor, I just thought... Okay."
+        }
+    ]
+}

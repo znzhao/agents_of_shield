@@ -1,0 +1,100 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 14,
+    "scene_name": "MayFightsWardWhileCoulsonFacesGarrettAndFuryArrives",
+    "description": "As May and Ward’s brutal hand-to-hand fight begins, Coulson confronts Garrett in another part of the facility. At the most critical moment, Nick Fury enters, assisting Coulson and providing him with the Destroyer weapon, turning the tide against Garrett. The converging battles underscore the chaos and the stakes as ally and foe collide.",
+    "roles": [
+        "phil_coulson",
+        "john_garrett",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "nick_fury"
+    ],
+    "vibe": "action-packed",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hi, John."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hi, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, that's new. Sir?"
+        },
+        {
+            "character": "Fury",
+            "line": "You don't have to call me “sir,” Coulson. Look at me. I'm dressed like I live under a bridge."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Fury",
+            "line": "Well, Simmons turned me on to that old-timey tracker Fitz left on your bus. I went to great pains to make sure you didn't die the first time."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, now's probably not the best time, but... I'd like to have a lengthy conversation with you about that. It might get loud."
+        },
+        {
+            "character": "Fury",
+            "line": "And I owe you that. But right now, we owe Garrett a punch in the teeth, wouldn't you say? This... packs a pretty good punch."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know what it does."
+        },
+        {
+            "character": "Ward",
+            "line": "Reminds me of the old days."
+        },
+        {
+            "character": "May",
+            "line": "You were never on top."
+        },
+        {
+            "character": "Skye",
+            "line": "We are running out of time. Tell the man what they have on you."
+        },
+        {
+            "character": "Garrett",
+            "line": "Fury. Well, hell... when was the last time anyone saw a tag-team wrestling match with four dead guys?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I only see one dead guy in here."
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, the power's all on this side of the room, fellas. Phil, I'm surprised you'd try and stop me. Of course, I don't blame you, Nick. You haven't seen the big picture, the big bang, the timeless frozen ocean, but Phil here has. We share a bond. We're blood brothers."
+        },
+        {
+            "character": "Fury",
+            "line": "You didn't tell me he'd gone this crazy."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's really stepped it up a notch."
+        },
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "Aah! Aah! Wait, May!"
+        },
+        {
+            "character": "May",
+            "line": "I think I've waited long enough for this."
+        }
+    ]
+}

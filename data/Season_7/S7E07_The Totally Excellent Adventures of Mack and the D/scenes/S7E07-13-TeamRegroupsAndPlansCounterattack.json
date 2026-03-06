@@ -1,0 +1,57 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 13,
+    "scene_name": "TeamRegroupsAndPlansCounterattack",
+    "description": "Survivors regroup as Mack fully steps up to lead. Coulson theorizes that Sibyl is after the Time Stream, still buried somewhere in the base. With Mack now motivated, the group formulates a plan to confront the remaining Chronicoms head-on, blending Deke's unconventional methods with Mack's leadership.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "phil_coulson"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "You find anything?"
+        },
+        {
+            "character": "Ronnie",
+            "line": "No robots on this floor."
+        },
+        {
+            "character": "Tommy",
+            "line": "And we have no idea where they went."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have a theory. Though I'd like to be included in the planning circle first. Feeling really left out here."
+        },
+        {
+            "character": "Deke",
+            "line": "Sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been trying to figure out why Sibyl would attack the base. There have to be better ways to take out S.H.I.E.L.D., especially if you know which threads to pull."
+        },
+        {
+            "character": "Mack",
+            "line": "Unless she no longer has the tools."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means the Time Stream must be here on the base."
+        },
+        {
+            "character": "Deke",
+            "line": "Now that we've established a motive, any idea on how to eliminate them?"
+        },
+        {
+            "character": "Mack",
+            "line": "I think it's time we add a new wrinkle to that Gauntlet of yours."
+        }
+    ]
+}

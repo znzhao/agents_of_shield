@@ -1,0 +1,117 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 5,
+    "scene_name": "SimmonsAndYoYoConvinceFitz",
+    "description": "Simmons, Elena, and Fitz conspire to free Fitz, convinced they are 'invincible' due to the revelations from their future. They discuss the importance of acting against Hale and their belief that fate is on their side.",
+    "roles": [
+        "jemma_simmons",
+        "elena_rodriguez",
+        "leo_fitz"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Daisy won't listen. I think it's time we try a new approach."
+        },
+        {
+            "character": "Elena",
+            "line": "To what? Why'd you drag me here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Because I've realized we have to think differently. Fitz started to, and he's paying for it. But you can't deny it worked. And you. Mack said you believe you can't die."
+        },
+        {
+            "character": "Elena",
+            "line": "I know it sounds crazy, Jemma..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't think it's crazy. I believe it's true."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm glad someone understands."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't just mean you."
+        },
+        {
+            "character": "Elena",
+            "line": "You guys didn't see yourselves in the future."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Deke is our proof. His mother was our daughter."
+        },
+        {
+            "character": "Elena",
+            "line": "Deke?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Is our grandson."
+        },
+        {
+            "character": "Elena",
+            "line": "Wow. I'm sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thank you."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, no, it's really quite sweet."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, it makes as much sense as anything else. So we're the invincible three, huh? Now what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy's taking a long shot to find where Hale is keeping Coulson, but we have something concrete that can get us one step ahead of her."
+        },
+        {
+            "character": "Elena",
+            "line": "That sounds good."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hale may be after a weapon powered by Gravitonium, probably in a location that Malick turned over to S.H.I.E.L.D."
+        },
+        {
+            "character": "Elena",
+            "line": "That sounds bad. I'm in. So we go to these places and knock down doors? I can knock down doors now."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't go anywhere."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, I know you feel like you're battling something inside you, but I trust you. Do you trust me?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Because I'm going to get you out. And we're going to go after this thing."
+        },
+        {
+            "character": "Elena",
+            "line": "Wait, wait, wait, wait, wait. Wait. We have a problem. Mack, he's the only one that can open Fitz's cell now. He won't want to, Jemma. He'll stop us."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. He'll try."
+        }
+    ]
+}

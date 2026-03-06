@@ -1,0 +1,111 @@
+{
+    "season": 6,
+    "episode": 3,
+    "num": 1,
+    "scene_name": "ZephyrCrewConflictAndInspection",
+    "description": "Aboard the Zephyr One, tensions flare between Simmons, Daisy, and Piper about Simmons' recklessness in prioritizing the search for Fitz over the team's safety. Their disagreement is interrupted by the arrival of customs officer Pryce, who insists on inspecting the ship as required. As Simmons mentions Fitz's name during questioning, the hunter Malachi suddenly appears and takes control of the situation, creating a standoff.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "piper",
+        "davis",
+        "malachi"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "She's reckless and dangerous!"
+        },
+        {
+            "character": "Piper",
+            "line": "She deliberately disobeyed your orders."
+        },
+        {
+            "character": "Davis",
+            "line": "She seriously compromised our chances of getting home. We are almost out of food, and we don't even know how many more jumps we can make."
+        },
+        {
+            "character": "Piper",
+            "line": "We need to confine her to the cargo hold. She put our lives and the mission at risk."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz is the mission. We didn't come this far to give up. Cowards."
+        },
+        {
+            "character": "Daisy",
+            "line": "Enough. Everybody stand down and take a breath. Simmons is right. Fitz is the mission. But I'm the mission leader, and that was my call to make, not yours."
+        },
+        {
+            "character": "Simmons",
+            "line": "Whose side are you on?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You know damn well whose side we are all on. We went to a Fire Planet for you. We followed every bread crumb trying to find him, and now we're at the end of a galaxy because of a tiny word we can't even read."
+        },
+        {
+            "character": "Simmons",
+            "line": "I told you what it said!"
+        },
+        {
+            "character": "Daisy",
+            "line": "We need to take a step back, Jemma. We can't save Fitz if we can't save ourselves. We're going home. Hopefully we can make it there."
+        },
+        {
+            "character": "Simmons",
+            "line": "Go if you want, but I'm staying."
+        },
+        {
+            "character": "Daisy",
+            "line": "Permission denied. And if you have a problem with that, I'll have you locked up until we get there."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'd like to see you try."
+        },
+        {
+            "character": "Piper",
+            "line": "What was that?"
+        },
+        {
+            "character": "Pryce",
+            "line": "Greetings. Welcome to Naro-Atzia. I am Pretorious Pryce, your duly sanctioned customs officer. Your spacecraft has been docked, and I'm requesting permission to come aboard for your welcoming inspection."
+        },
+        {
+            "character": "Daisy",
+            "line": "That won't be necessary."
+        },
+        {
+            "character": "Pryce",
+            "line": "Not sure I understand."
+        },
+        {
+            "character": "Daisy",
+            "line": "Change of plans. We won't be visiting your planet, um, but thank you. It looks lovely."
+        },
+        {
+            "character": "Pryce",
+            "line": "Perhaps I wasn't clear. The forms have been prepared, and you're already in the system."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, well, just take us out of the system, and then we'll be on our way."
+        },
+        {
+            "character": "Pryce",
+            "line": "Once you are in the system, you are in the system. As I said, there are forms, prepared forms. I don't like the rules, but they must be enforced."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fine. Come aboard."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe he inspected Fitz's ship. We can at least ask, can't we? He could be so close."
+        }
+    ]
+}

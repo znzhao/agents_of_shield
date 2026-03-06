@@ -1,0 +1,43 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 14,
+    "scene_name": "CoulsonHunterReunion",
+    "description": "In the episode's denouement, Coulson meets Hunter at a bar after escaping the Playground. Hunter apologizes for his presumed absence and accepts Coulson's job offer, reaffirming his loyalty. Together, they commit to working as a team moving forward, while the state of S.H.I.E.L.D. remains uncertain.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "That's a lot of umbrellas for one drink."
+        },
+        {
+            "character": "Bartender",
+            "line": "Let me guess... She got the house."
+        },
+        {
+            "character": "Hunter",
+            "line": "Two of whatever he's having. Sorry I'm late. An evacuation pod will wash up where and when it wants to. Maybe a couple of those little umbrellas if you have them. So, how have you been? Anything new?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Same old, same old. So, you finished your vacation?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Absolutely. You know, I never did understand the appeal of cruise ships. I almost forgot."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's that?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You offered me a permanent position. Consider that my contract. So, what's the plan, boss?"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "CleanupOnTheBus",
+    "description": "The S.H.I.E.L.D. team is on their mobile command jet, cleaning up after Thor's destructive battle in Greenwich. Simmons deflects a phone call from her parents, while Coulson jokes about wishing for a god of cleaning up after themselves. Skye is intrigued by the Asgardians, discussing the origins of Norse mythology with Coulson and May. Fitz and Ward banter about their current work, and the team reflects on the responsibilities and messes left by the gods.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "In ancient times, people believed the heavens were filled with gods and monsters and magical worlds. Then, as time passed, those beliefs faded into myth and folklore. But now we know the stories were true. Other worlds, with names like Asgard, do exist. And beings once revered as gods, like Thor, have returned, leaving us with more questions and... an enormous mess to clean up."
+        },
+        {
+            "character": "Ward",
+            "line": "Don't say I never gave you anything."
+        },
+        {
+            "character": "Fitz",
+            "line": "Checking for alien spectrographic signatures one teeny rock at a time."
+        },
+        {
+            "character": "Ward",
+            "line": "Necessary precaution. We don't want anything alien getting in the wrong hands."
+        },
+        {
+            "character": "Fitz",
+            "line": "Still, this is definitely the type of work a monkey could easily do."
+        },
+        {
+            "character": "Ward",
+            "line": "You're our little monkey."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't give me that look. I'll talk to them when I talk to them."
+        },
+        {
+            "character": "Ward",
+            "line": "Talk to who?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mum and Dad. They want explanations and answers for... well, all this. But I don't have any answers. And, more importantly, I haven't talked to them since I was ill. And if they knew that, they'd be even more terrified. So, you know... why waste any of our time, really?"
+        },
+        {
+            "character": "Skye",
+            "line": "You guys may think it's old news, but it's new... news to everybody else. So, Asgardians are aliens from another planet that visited us thousands of years ago?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Or more."
+        },
+        {
+            "character": "Skye",
+            "line": "And because we couldn't understand aliens, we thought they were gods?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's where our Norse mythology comes from."
+        },
+        {
+            "character": "Skye",
+            "line": "That's too crazy. Do you think other deities are aliens, too? Vishnu for sure, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, it'd be nice if, for once, Thor and his people sent down the god of cleaning up after yourself. They probably have a magic broom for this kind of thing."
+        },
+        {
+            "character": "Skye",
+            "line": "I just wish they'd left their alien ship behind."
+        },
+        {
+            "character": "May",
+            "line": "So we can clean that up, too?"
+        },
+        {
+            "character": "Skye",
+            "line": "So we could go inside, take a peek under the hood, maybe take it for a spin. Come on, you're telling me piloting an alien ship isn't on your bucket list?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't think of a single time when anything alien in human hands ended well."
+        },
+        {
+            "character": "Skye",
+            "line": "Wouldn't mind getting my human hands on Thor. He's so dreamy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sure, he's handsome, but..."
+        },
+        {
+            "character": "May",
+            "line": "No. He's dreamy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, is that, um..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Definitely not from here. Another piece of the ship. What are you doing?"
+        },
+        {
+            "character": "Ward",
+            "line": "Out of sight... out of mind. That's why we're here. Keep everything under control."
+        }
+    ]
+}

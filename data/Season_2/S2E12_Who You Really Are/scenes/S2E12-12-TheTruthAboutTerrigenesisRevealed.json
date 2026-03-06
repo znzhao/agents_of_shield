@@ -1,0 +1,70 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 12,
+    "scene_name": "TheTruthAboutTerrigenesisRevealed",
+    "description": "Vin-Tak and Sif explain the ancient Kree experiments that led to the creation of superpowered humans, initiating a sense of dread among the team. The science division discovers the crate is empty, confirming that dangerous Terrigen crystals are unaccounted for. The team realizes someone has already transformed, and anxiety mounts.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Sir, the crate is empty."
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "My worst fear has come true."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have to assume they were all taken at the same time back in the ‘40s. Does that mean Hydra has them?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And if Hydra doesn't, who does?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, what is this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh! Uh... uh, that's... nothing. It's just a..."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's remarkable. Extra macromolecules just like in Raina's blood but... different ones. Whose DNA is this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's, uh... it's, uh... a simulation that I created... or a-a theory of, uh..."
+        },
+        {
+            "character": "Simmons",
+            "line": "A simulation? Fitz, this is uncanny!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Can I have it back, please?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The precision, the detail... it reads as real."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but it's just a simulation."
+        }
+    ]
+}

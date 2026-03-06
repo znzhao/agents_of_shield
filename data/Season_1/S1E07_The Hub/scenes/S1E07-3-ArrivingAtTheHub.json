@@ -1,0 +1,177 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 3,
+    "scene_name": "ArrivingAtTheHub",
+    "description": "The team arrives at the Hub, and Skye is awed by its scale. She and Simmons are denied access to the mission briefing due to security clearance, causing her further frustration. Coulson, May, and Ward are welcomed by Sitwell and Victoria Hand, who proceeds to brief them about the separatist threat and the Overkill Device.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "victoria_hand"
+    ],
+    "vibe": "tense",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Wow. Didn't realize Big Brother was this big."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, this is nothing. Wait until you see the Triskelion."
+        },
+        {
+            "character": "Skye",
+            "line": "Everyone's wearing the same suit. Someone tell me why, please."
+        },
+        {
+            "character": "Skye",
+            "line": "Do I get one?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's your badge, which means you've got a long way to go to even make level 1."
+        },
+        {
+            "character": "Skye",
+            "line": "Copy that. Does that also mean no access to any computers here whatsoever? I could run a search on the redacted S.H.I.E.L.D. file on my parents."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "But it just... It seems like the place they'd keep them, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll look into it. But right now, we've got more pressing matters at hand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Sitwell."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Agent Coulson. Good to see you feeling better. Agent Hand's waiting for you in the situation room."
+        },
+        {
+            "character": "Coulson",
+            "line": "And she doesn't like to wait."
+        },
+        {
+            "character": "Sitwell",
+            "line": "So you know her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Only her reputation. After you."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Your level 7s can join us in the briefing."
+        },
+        {
+            "character": "Computer",
+            "line": "Say cheese."
+        },
+        {
+            "character": "Simmons",
+            "line": "Victoria Hand..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ouch."
+        },
+        {
+            "character": "Skye",
+            "line": "Is this your subtle way of saying I can't come with?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll be back."
+        },
+        {
+            "character": "Skye",
+            "line": "Wha..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We should probably head over to the tech corridor."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I can't wait to see the new chem-kit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't think it likes me here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Hand."
+        },
+        {
+            "character": "Hand",
+            "line": "Agent Coulson. Nice to finally put a face to the name."
+        },
+        {
+            "character": "Coulson",
+            "line": "Likewise. These are agents May and Ward."
+        },
+        {
+            "character": "Hand",
+            "line": "Well, now that we've gotten that over with, here's what you can know. The intel you recovered from Agent Shaw tells us that a separatist group from South Ossetia has built a weapon called “Ezbittometer.”"
+        },
+        {
+            "character": "Ward",
+            "line": "The Overkill Device?"
+        },
+        {
+            "character": "Hand",
+            "line": "A little dramatic for my taste. I imagine something was lost in translation. We've intercepted chatter that tells us they plan to use the weapon in the next 24 hours to declare their independence from Russia and Georgia. We believe it creates sonic vibrations powerful enough to trigger weapons from a great distance, anything from the missiles on a helicopter to a nuclear warhead sitting in its silo."
+        },
+        {
+            "character": "Coulson",
+            "line": "So if we move on them, they could use our own weapons against us."
+        },
+        {
+            "character": "Hand",
+            "line": "Exactly. That's why I need a two-man team to sneak across the disputed border undetected, break into the separatist stronghold, and disable the weapon in the next 24 hours. And you have two people who fit my bill."
+        },
+        {
+            "character": "May",
+            "line": "Not a problem."
+        },
+        {
+            "character": "Ward",
+            "line": "I was in Georgia during the incursion in ‘08. I still have contacts on the South Ossetian border."
+        },
+        {
+            "character": "Hand",
+            "line": "And you'll have to use them. But we don't have specs on the device, so I need someone on the team who can identify and dismantle it on-site."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you mean..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think she does."
+        }
+    ]
+}

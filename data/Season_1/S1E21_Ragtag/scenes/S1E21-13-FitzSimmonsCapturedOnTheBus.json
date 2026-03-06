@@ -1,0 +1,190 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 13,
+    "scene_name": "FitzSimmonsCapturedOnTheBus",
+    "description": "Fitz and Simmons get caught sneaking aboard the Bus in Cuba. Garrett identifies them and orders the plane to take off. Fitz uses a disguised EMP device on Garrett, which further damages Garrett’s failing body. Chaos ensues as Ward is ordered to deal with Fitz and Simmons, leading to a sequence of brinkmanship and revealed loyalties.",
+    "roles": [
+        "john_garrett",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "This is our plane. We want it back."
+        },
+        {
+            "character": "Garrett",
+            "line": "Really? Just like that, kid? Coulson probably figured out we're using the barbershop. Call Kaminsky. He'll know what to do. All right, let's close up the ramp and get this bird off the ground. Tell the pilot to keep it low in a harrier mode until we're out over the gulf."
+        },
+        {
+            "character": "Man",
+            "line": "Will do."
+        },
+        {
+            "character": "Garrett",
+            "line": "What's he got there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "One of those prank joy buzzers. Yeah. You know me... always kidding around."
+        },
+        {
+            "character": "Ward",
+            "line": "What the hell was that?"
+        },
+        {
+            "character": "Garrett",
+            "line": "An E.M.P."
+        },
+        {
+            "character": "Fitz",
+            "line": "Looks like the joke's on you."
+        },
+        {
+            "character": "Ward",
+            "line": "Garrett's dying! Not sure this will work. Fitz shorted him out with an E.M.P. Call Cybertek. Let them know what happened. See what they can do. Get back."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm glad that I did it. You hear me? You lose, we win."
+        },
+        {
+            "character": "Garrett",
+            "line": "You're dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, no worse than you. And you don't have to take orders from him anymore, Ward. Ward! Let him die. He deserves to die."
+        },
+        {
+            "character": "Ward",
+            "line": "Get them out of here! Clear! Everybody out!"
+        },
+        {
+            "character": "Garrett",
+            "line": "I have some good news."
+        },
+        {
+            "character": "Ward",
+            "line": "Can it wait a minute? Damn dog takes off running every time I take a shot out here. That deer's 1,800 meters out. It'll take him awhile to find it. I'm all ears."
+        },
+        {
+            "character": "Garrett",
+            "line": "You've been accepted by S.H.I.E.L.D.'s operations division, effective immediately. We need to pack up."
+        },
+        {
+            "character": "Ward",
+            "line": "Thank you, sir, for everything."
+        },
+        {
+            "character": "Garrett",
+            "line": "Don't do that. You don't owe me or anybody else a thing. You earned it by yourself. It's gonna be hard when you get there. If you're gonna work within S.H.I.E.L.D. for Hydra, you can't ever get attached to anyone or anything. You have to fight that weakness in you."
+        },
+        {
+            "character": "Ward",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Good. Now take care of Buddy, and we'll get out of here. That's not a weakness, is it?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Good. I'll be at the truck."
+        },
+        {
+            "character": "Ward",
+            "line": "Internal battery must have fried. I'm gonna have to open it up, see if there's a mechanical fix."
+        },
+        {
+            "character": "Raina",
+            "line": "I talked to Cybertek. They're prepping a facility in Miami."
+        },
+        {
+            "character": "Ward",
+            "line": "Good."
+        },
+        {
+            "character": "Garrett",
+            "line": "I need you to do something for me."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. Anything."
+        },
+        {
+            "character": "Garrett",
+            "line": "Put down Fitz and Simmons."
+        },
+        {
+            "character": "Ward",
+            "line": "What? No. There's plenty of time. I won't leave you."
+        },
+        {
+            "character": "Garrett",
+            "line": "And I'm telling you to cross them off for me. That's not a weakness, is it?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Then take care of them. I'll take care of me. I've cheated death plenty of times."
+        },
+        {
+            "character": "Raina",
+            "line": "I'll stay."
+        },
+        {
+            "character": "May",
+            "line": "Skye, where are the computers?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm working on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trip, anything in your granddad's kit might help us out here?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Always. Let me take a look."
+        },
+        {
+            "character": "Garrett",
+            "line": "There's a mechanical failsafe in case the electronics shut down. I'm pretty interesting inside."
+        },
+        {
+            "character": "Raina",
+            "line": "That's my Centipede serum."
+        },
+        {
+            "character": "Garrett",
+            "line": "It's the only thing that's been keeping me alive these past few months."
+        },
+        {
+            "character": "Raina",
+            "line": "Why isn't it making you strong?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'm too far gone."
+        },
+        {
+            "character": "Raina",
+            "line": "I'm afraid your entire system is shutting down."
+        },
+        {
+            "character": "Garrett",
+            "line": "Maybe you can jump-start it... with this."
+        }
+    ]
+}

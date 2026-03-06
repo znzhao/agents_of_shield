@@ -1,0 +1,100 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 3,
+    "scene_name": "FitzSendsCodedMessages",
+    "description": "After months in custody, Fitz gains access to writing materials and a television, which he uses under the guise of following soccer. Unknown to the authorities, he hides coded messages to reach out to Lance Hunter for help. Military personnel banter about Fitz's soccer messages and ultimately analyze his communication for hidden codes.",
+    "roles": [
+        "leo_fitz",
+        "hale"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "What are you doing?!"
+        },
+        {
+            "character": "Evans",
+            "line": "So, what do you have for us this morning?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I told you about my experience in the Framework."
+        },
+        {
+            "character": "Evans",
+            "line": "Yes. It seems very traumatic."
+        },
+        {
+            "character": "Fitz",
+            "line": "And I did suffer previous brain trauma, which may have been exacerbated. I may have suffered from Prodromal Schizophrenia. So it's possible I did something to them, or, uh, I helped them escape, or something worse and blocked the memory."
+        },
+        {
+            "character": "Evans",
+            "line": "We interviewed everyone there, Fitz. They all had the same two-minute lapse in memory. It wasn't you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Yeah, that makes sense."
+        },
+        {
+            "character": "Evans",
+            "line": "Are you okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. There was something else, actually. There was, um, a high-pitched, uh... Books. I'm gonna need more books. Books on, uh, sonic frequencies, sound waves."
+        },
+        {
+            "character": "Evans",
+            "line": "Get us a list. We'll get them."
+        },
+        {
+            "character": "Fitz",
+            "line": "And there's something else. Would you be able to post this? Worst keeper I've ever seen in my life."
+        },
+        {
+            "character": "Evans",
+            "line": "It's a letter to a soccer fanzine. The least offensive part is when he calls the goalkeeper a Cro-Magnon Twit."
+        },
+        {
+            "character": "Lucas",
+            "line": "Redact his name. Have it analyzed by our code-breakers. It'll keep him happy. His intel on Radcliffe's base panned out, so he's helping us. And he's our only chance at finding the others."
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you doing? What are you doing?! It's a free kick!"
+        },
+        {
+            "character": "Evans",
+            "line": "In six months, you haven't brought us a single plausible theory."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. I know. And I've been racking my brains, but I think..."
+        },
+        {
+            "character": "Lucas",
+            "line": "No more thinking. You're out of time. We want an answer."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. I have one. I know what happened."
+        },
+        {
+            "character": "Lucas",
+            "line": "By all means. Enlighten us."
+        },
+        {
+            "character": "Fitz",
+            "line": "They were abducted by aliens."
+        },
+        {
+            "character": "Hale",
+            "line": "All right, that's it. We're done with you. No more books, no more television. You've wasted our time. You're gonna grow old and die alone in that cell. What? Here? How?"
+        }
+    ]
+}

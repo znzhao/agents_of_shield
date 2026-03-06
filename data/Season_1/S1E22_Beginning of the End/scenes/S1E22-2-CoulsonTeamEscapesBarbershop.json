@@ -1,0 +1,50 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 2,
+    "scene_name": "CoulsonTeamEscapesBarbershop",
+    "description": "Coulson, May, Skye, and Triplett fight their way out from the barbershop confrontation, using the Berserker staff and clever tactics. Skye retrieves vital data, while May brings down the structure on the soldiers, allowing the team to escape and regroup, showcasing their resourcefulness in a dire situation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Could sure use a little light in here."
+        },
+        {
+            "character": "Triplett",
+            "line": "I got this."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, who do we talk to about getting a haircut?"
+        },
+        {
+            "character": "Centipede Soldier",
+            "line": "If it isn't the Cavalry."
+        },
+        {
+            "character": "May",
+            "line": "Don't ever call me that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Bring the house down. Time to go!"
+        },
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. Let's go. Let's go."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "CoulsonAndPriceFaceOff",
+    "description": "Coulson and Price meet in person at a neutral location. Their conversation is layered with veiled threats and banter, as Coulson criticizes the ATCU's tactics and Price hints at leverage she has over S.H.I.E.L.D. The tension between cooperation and rivalry is palpable as they try to negotiate terms around Lincoln’s fate and the broader threat of Inhumans.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Price",
+            "line": "Got to say, I was pretty surprised when I got your call. Eyes up here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Busted. Sorry. I appreciate you taking the time."
+        },
+        {
+            "character": "Price",
+            "line": "Gave me an excuse to drive up the coast."
+        },
+        {
+            "character": "Coulson",
+            "line": "Does she have a name?"
+        },
+        {
+            "character": "Price",
+            "line": "I love my car, but it's just a car. And it's a him. You know, last time we met, you, uh, disarmed me with your evasive tactics."
+        },
+        {
+            "character": "Coulson",
+            "line": "I see what you did there."
+        },
+        {
+            "character": "Price",
+            "line": "No, I got to hand it to you. Makes me wonder what else you got up your sleeve."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, really, I get it."
+        },
+        {
+            "character": "Price",
+            "line": "Hard to resist. I assume I'm not the first."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think you are. It's fairly recent."
+        },
+        {
+            "character": "Price",
+            "line": "Sorry. That can't be easy."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not what we came here to discuss. You're going about this all wrong. Panicking the public, not wise. Keep doing that, things are gonna get ugly real fast."
+        }
+    ]
+}

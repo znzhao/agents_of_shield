@@ -1,0 +1,129 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 5,
+    "scene_name": "AnalyzingTheEventOnTheBus",
+    "description": "Back on the S.H.I.E.L.D. Bus, Coulson and Ward struggle with the holo-table technology and the mystery of the vanished train. Coulson contacts Italian police contact Russo and debates suspicions about Cybertek and the Clairvoyant. The scene explores May and Ward’s personal relationship, which Coulson addresses sternly as team protocol is discussed. Russo arrives at the Bus, but his appearance is turned on its head as May unexpectedly comes from behind and attacks him.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "It's running. Yeah, it's been hot-wired."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is..."
+        },
+        {
+            "character": "Ward",
+            "line": "Suspicious?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was gonna say “fortuitous.” Let's get out of here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Signore Russo, what happened?"
+        },
+        {
+            "character": "Russo",
+            "line": "Agent Coulson. Thank god. I've been trying to reach you. Cybertek knew. They knew we were at the station."
+        },
+        {
+            "character": "Coulson",
+            "line": "They knew we were on the train, too. Most of my team is unaccounted for."
+        },
+        {
+            "character": "Russo",
+            "line": "Most of my men are dead! Where are you now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "On our plane. We'll send you the coordinates. And, Russo, do you have any idea what happened to the train?"
+        },
+        {
+            "character": "Russo",
+            "line": "What do you mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It vanished, with our team still on it."
+        },
+        {
+            "character": "Russo",
+            "line": "Okay. We'll look into that. I'm on my way to you now. And maybe together, we can find some answers, yes?"
+        },
+        {
+            "character": "Ward",
+            "line": "What now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll call H.Q. You take this. We need to figure out what the hell happened to that train."
+        },
+        {
+            "character": "Ward",
+            "line": "Holotable... on. Holotable... activate. Okay... Ah. Really? Ah."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. pulled satellite images."
+        },
+        {
+            "character": "Ward",
+            "line": "And?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Train's gone. They're checking alternate routes. If it's somewhere on Earth, we'll find it. It's... pretty tricky, right? I couldn't even find the “on” button. Can you zoom in?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I... I think Fitz-Simmons do something more like... Damn. Let's just upload the specs to H.Q."
+        },
+        {
+            "character": "Ward",
+            "line": "Good idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh. Uh, sir? This probably isn't the best time, but what May told you... I would have preferred it to stay between me and her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, “it” is happening on my bus, amongst members of my team."
+        },
+        {
+            "character": "Ward",
+            "line": "No, we've never... done... It's never happened on the bus, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to do this now? Okay. What you're doing is against protocol, so if you endanger an operation or if anyone gets hurt, I'll reassign you to Barrow, Alaska, and you'll spend the rest of your years pulling the night shift guarding Blonsky's cryo-cell. Am I clear? I'll take that as a yes. And if it's really just sex, Ward... you should get more comfortable using the word."
+        },
+        {
+            "character": "Russo",
+            "line": "Agent Coulson, it's gonna be all right. We found your people. The train, it's..."
+        },
+        {
+            "character": "May",
+            "line": "Wheels up in five."
+        },
+        {
+            "character": "Woman",
+            "line": "As we round the bend, the passengers on the North side of the train can take in the views of the famous Tre cime di Lavaredo. Isn't it a wonder?"
+        }
+    ]
+}

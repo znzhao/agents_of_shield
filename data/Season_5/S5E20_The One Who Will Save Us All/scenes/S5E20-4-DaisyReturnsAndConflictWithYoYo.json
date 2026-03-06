@@ -1,0 +1,152 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 4,
+    "scene_name": "DaisyReturnsAndConflictWithYoYo",
+    "description": "Daisy makes contact with the team at the Lighthouse after Deke restores power. Upon arrival, she's confronted by Elena who accuses Daisy of abandoning them during the crisis. Tensions quickly escalate into a heated argument and physical confrontation before May steps in to mediate, warning Elena to help or leave if she won't support the mission to save Coulson.",
+    "roles": [
+        "leo_fitz",
+        "deke_shaw",
+        "jemma_simmons",
+        "melinda_may",
+        "skye",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Yeah. Fixing old electronics was kinda my thing back in the day, in the future."
+        },
+        {
+            "character": "Deke",
+            "line": "What are... What are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What? It's a thing. It's a thing that people do to celebrate."
+        },
+        {
+            "character": "Deke",
+            "line": "Not cool people. Come on, man, you're better than that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Deke",
+            "line": "It just took Talbot flying out of here like some sort of a wizard, in order to be able to breathe fresh air again."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, being a S.H.I.E.L.D. agent has its risks."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, but that's just it! I'm not a S.H.I.E.L.D. agent, but for some reason, I'm still hanging around this rusty drain pipe."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you do have family here."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. I don't think it's that. Oh, well, don't get me wrong. You guys are great. Totally not disappointments at all."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lighthouse, is anyone there? Over. Repeat. Lighthouse, this is Daisy Johnson, does anyone copy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah... yeah..."
+        },
+        {
+            "character": "Deke",
+            "line": "Daisy... Yeah, we... we're here, Daisy, sorry, we just had some technical difficulties."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke, thank God you're there. I've been trying to get through for 30 minutes. I'm flying in. What's wrong?"
+        },
+        {
+            "character": "Deke",
+            "line": "We were under attack."
+        },
+        {
+            "character": "Elena",
+            "line": "Where were you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "May had me drop off Polly and Robin."
+        },
+        {
+            "character": "Elena",
+            "line": "Lie! I know that's not all."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not having this conversation right now, Yo-Yo. Coulson's missing."
+        },
+        {
+            "character": "Elena",
+            "line": "Coulson's missing because of you! After all your finger-wagging, the same rules don't apply to you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You are the last person who should be giving a lecture right now."
+        },
+        {
+            "character": "Elena",
+            "line": "What's in the bag? Is that what you abandoned us for?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's none of your business. What's wrong with you..."
+        },
+        {
+            "character": "Elena",
+            "line": "We needed you. People died!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Don't put that on me! What?"
+        },
+        {
+            "character": "Elena",
+            "line": "You wanna use powers now? Then I definitely win."
+        },
+        {
+            "character": "May",
+            "line": "You done?"
+        },
+        {
+            "character": "Daisy",
+            "line": "May."
+        },
+        {
+            "character": "May",
+            "line": "Satellite just picked up an object outside of Earth's atmosphere. Piper believes it's the Remorath ship."
+        },
+        {
+            "character": "Daisy",
+            "line": "When do we leave?"
+        },
+        {
+            "character": "May",
+            "line": "As soon as the artificial gravity's installed in the Zephyr."
+        },
+        {
+            "character": "Elena",
+            "line": "She's gonna get everyone killed!"
+        },
+        {
+            "character": "May",
+            "line": "We're going to help Coulson. Either find a way to pitch in, or don't be here when we get back."
+        }
+    ]
+}

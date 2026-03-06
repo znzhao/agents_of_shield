@@ -1,0 +1,136 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 6,
+    "scene_name": "GonzalesAndMayClashOverLoyalty",
+    "description": "Gonzales confronts May, pressing her about her allegiance to Coulson versus S.H.I.E.L.D. The conversation delves into Skye's powers, Coulson's recent actions, and the impact of secrets and past trauma on trust within the organization. May pushes back, defending Coulson and criticizing the current witch hunt mentality, but her own doubts and loyalty are put to the test.",
+    "roles": [
+        "robert_gonzales",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "Is it true that Fury asked you to spy on Coulson because of these GH-325 transfusions? Is it also true that Coulson himself asked you to put a bullet in his head because of it? That's the man that you helped escape, a man that Fury didn't trust, a man that you yourself didn't trust, a man that didn't even trust himself. There's loyalty, and there's stubbornness. Tell me, Agent May, are you loyal to Coulson or to S.H.I.E.L.D.?"
+        },
+        {
+            "character": "May",
+            "line": "They're the same."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Coulson's powered pet tried to kill seven of our agents. Dedicated S.H.I.E.L.D. agents with families, and you're gonna say that they're the same?"
+        },
+        {
+            "character": "May",
+            "line": "Coulson had nothing to do with Skye's powers. They were caused by a weapon in Hydra's possession."
+        },
+        {
+            "character": "Gonzales",
+            "line": "That you were chasing because of some voices in Coulson's head."
+        },
+        {
+            "character": "May",
+            "line": "We were pursuing Hydra because that's our job. It's what we should all be doing right now instead of wasting our time on some witch hunt!"
+        },
+        {
+            "character": "Mack",
+            "line": "What are you doing in here by yourself?"
+        },
+        {
+            "character": "Morse",
+            "line": "There's too much bad blood out there. They think we're traitors. How you holding up?"
+        },
+        {
+            "character": "Mack",
+            "line": "Uh... We always knew this wasn't gonna end in a big group hug."
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson's a good man, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. He's a good man who's been compromised."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Coulson should be in the index with Agent Skye. You of all people know what happens when powered people lose control. You had to put one down. Isn't that why they call you the Cavalry?"
+        },
+        {
+            "character": "May",
+            "line": "So you want to put down Coulson and Skye?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "I want to avoid it. His actions are leading us to a deadly showdown. Help me find him, and we'll stop it."
+        },
+        {
+            "character": "May",
+            "line": "Don't worry. When he's ready, he'll find you. Coulson is the one man you can never put down."
+        },
+        {
+            "character": "Coulson",
+            "line": "You always travel with whiskey and shot glasses?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Never know when you're gonna need something to keep you warm on a cold night."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two glasses?"
+        },
+        {
+            "character": "Hunter",
+            "line": "The other one's for the person keeping me warm."
+        },
+        {
+            "character": "Hunter",
+            "line": "But in your case, I'll make an exception."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to keep my head clear. S.H.I.E.L.D. and Skye gone in one day. How could I let that happen?"
+        },
+        {
+            "character": "Hunter",
+            "line": "There's no way you could have known. They fooled all of us. Bobbi and Mack are conniving liars and thieves. And the next time I see either of them..."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're good agents. Try to see it from their side."
+        },
+        {
+            "character": "Hunter",
+            "line": "Screw their side. There are very few people in this world that I'd throw down with, but you're one of them. Gonzales, the “Love Boat” Captain? Not if hell froze over."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's a brilliant tactician who's dedicated his life to S.H.I.E.L.D. I ran into him a couple of times at the Triskelion. He's not a bad guy."
+        },
+        {
+            "character": "Hunter",
+            "line": "Good guys don't usually stab you in the back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe he's got a point. I was dead, after all. I shouldn't even be here."
+        },
+        {
+            "character": "Hunter",
+            "line": "We all have our bad days. Well, maybe we should forget all this, head down to Mexico. We can lay low, enjoy the quiet life."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not an option. The problem is, there are no good options."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, maybe it's time for the bad ones."
+        }
+    ]
+}

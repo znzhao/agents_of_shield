@@ -1,0 +1,113 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 19,
+    "scene_name": "FuryNamesCoulsonDirectorAndDeparts",
+    "description": "On the Bus, Nick Fury and Coulson have a heartfelt discussion about S.H.I.E.L.D.'s legacy and Coulson’s resurrection. Fury passes Coulson the 'toolbox,' appointing him as the new Director of S.H.I.E.L.D. before disappearing once again. The moment is both a personal milestone for Coulson and a new beginning for the organization.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "nick_fury"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Why bring me back in the first place? Clearly, I didn't think it was the best idea. I warned you about people losing their minds."
+        },
+        {
+            "character": "Fury",
+            "line": "Agent May was on top of the situation. She says you're fine. Aren't you? It was a “break glass in case of emergency” situation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, but that emergency was supposed to be the fall of an Avenger."
+        },
+        {
+            "character": "Fury",
+            "line": "Exactly. And I'm damn glad I did it, too. When you want to build something, you need a strong foundation. Now, you know how few people I trust, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can count them on one hand."
+        },
+        {
+            "character": "Fury",
+            "line": "And I'm not afraid to cut off fingers. The principle S.H.I.E.L.D. was founded upon was pure."
+        },
+        {
+            "character": "May",
+            "line": "Protection."
+        },
+        {
+            "character": "Fury",
+            "line": "Protection... one word. Sometimes, to protect one man against himself... other times, to protect the planet against an alien invasion from another universe. It's a broad job description."
+        },
+        {
+            "character": "Coulson",
+            "line": "No need to tell me."
+        },
+        {
+            "character": "Fury",
+            "line": "But the belief that drives us all is the same, whether it's one man or all mankind."
+        },
+        {
+            "character": "Coulson",
+            "line": "That they're worth saving."
+        },
+        {
+            "character": "Fury",
+            "line": "That truth lives inside you, Coulson. Before it was torn apart, S.H.I.E.L.D. was a lot of moving parts. Guys like you were the heart. Now... you'll be the head."
+        },
+        {
+            "character": "Coulson",
+            "line": "What is it?"
+        },
+        {
+            "character": "Fury",
+            "line": "A toolbox to help you build it back up."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want me to start over, rebuild S.H.I.E.L.D..."
+        },
+        {
+            "character": "Fury",
+            "line": "From scratch. Take your time and do it right. You'll still have his back."
+        },
+        {
+            "character": "May",
+            "line": "Of course."
+        },
+        {
+            "character": "Fury",
+            "line": "There's no one else I trust with this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you, sir. How do you... how should I proceed?"
+        },
+        {
+            "character": "Fury",
+            "line": "That's up to you... Director."
+        },
+        {
+            "character": "May",
+            "line": "And you, sir... where are you heading now?"
+        },
+        {
+            "character": "Fury",
+            "line": "Well, I'm trading in my bird's-eye view for two solid feet on the ground. This is the last time you'll be seeing me for a stretch."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're gonna disappear, nowhere to be found."
+        },
+        {
+            "character": "Fury",
+            "line": "Nowhere? You know me better than that, Phil. I'll be everywhere."
+        }
+    ]
+}

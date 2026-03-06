@@ -1,0 +1,48 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 8,
+    "scene_name": "SkyeNegotiates",
+    "description": "Skye pleads with Coulson to let her and Lincoln speak to Jiaying first, trying to mediate and prevent conflict between S.H.I.E.L.D. and the Inhumans. She opens up about her connection to Jiaying, revealing that she is her mother. Coulson is taken aback but agrees to let Skye try.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "No, you cannot go there. Listen, secrecy is what they value most."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't ignore their existence. They're not ignoring ours."
+        },
+        {
+            "character": "Skye",
+            "line": "Please!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, at the very least, we need to find out how many people we're dealing with, assess their powers, place them on the index. You know how this works. You're a S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Skye",
+            "line": "I-I don't know what I am anymore. Okay, just let Lincoln and I go first. They're probably worried about us. I'll talk to Jiaying, explain why you're coming, that you just want to help. She'll listen."
+        },
+        {
+            "character": "Coulson",
+            "line": "How can you be sure?"
+        },
+        {
+            "character": "Skye",
+            "line": "Because she's my mother."
+        }
+    ]
+}

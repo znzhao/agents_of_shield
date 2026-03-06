@@ -1,0 +1,56 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "lincoln",
+        "grant_ward",
+        "gideon_malick",
+        "giyera",
+        "elena_rodriguez",
+        "joey_gutierrez"
+    ],
+    "aliases": [
+        "Coulson",
+        "Phil Coulson",
+        "May",
+        "Melinda May",
+        "Simmons",
+        "Jemma Simmons",
+        "Fitz",
+        "Leo Fitz",
+        "Bobbi",
+        "Bobbi Morse",
+        "Mack",
+        "Alphonso Mackenzie",
+        "Hunter",
+        "Lance Hunter",
+        "Lincoln",
+        "Daisy",
+        "Skye",
+        "Grant Ward",
+        "Ward",
+        "Gideon Malick",
+        "Malick",
+        "Giyera",
+        "Elena",
+        "Joey"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Advanced Threat Containment Unit (ATCU)",
+        "Inhumans"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "English castle (site of the monolith / Distant Star Pathfinder facility)",
+        "ATCU headquarters / Advanced Threat Containment Unit facilities"
+    ]
+}

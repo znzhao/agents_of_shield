@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "BakshiAttemptsSuicideDuringInterrogation",
+    "description": "Back at The Playground, Morse confronts Bakshi again, pushing him on his true motives and fears regarding Whitehall. When the truth about Whitehall's past and identity is revealed, Bakshi swears loyalty to Hydra and attempts suicide with a hidden cyanide capsule. Hunter and Morse barely manage to save his life, demonstrating the dangerous stakes and unyielding loyalty within Hydra.",
+    "roles": [
+        "bobbi_morse",
+        "sunil_bakshi",
+        "lance_hunter"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Tell me... your devotion to Whitehall... based on fear or respect?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "My devotion goes far deeper than respect."
+        },
+        {
+            "character": "Morse",
+            "line": "Fear goes way deeper, for sure."
+        },
+        {
+            "character": "Bakshi",
+            "line": "That's not what I meant."
+        },
+        {
+            "character": "Morse",
+            "line": "You meant programming. I hear compliance will be rewarded. No? So what is it you're so afraid of, huh? What horrible acts do you fear Whitehall will perform on you?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "I wonder... if your friends know the acts that you are capable of, how you were able to ingratiate yourself to HYDRA. Do you fear their judgment should those details ever surface?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fear of judgment. Perfectly said. You don't fear Whitehall. You fear disappointing him. And let me tell you, he is going to be very disappointed to see that you gave him up."
+        },
+        {
+            "character": "Bakshi",
+            "line": "I didn't give up anything."
+        },
+        {
+            "character": "Morse",
+            "line": "No. You gave us everything... Whitehall's name, his nazi adventures with Red Skull, his age. Did you know he's hypertensive? We do. I know he gave you a second chance. Now, do you think he's gonna give you a third when you tell us how to kill him? You failed your boss, Mr. Bakshi. I know who Whitehall is. Question remains... what kind of a man are you?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "A loyal one."
+        },
+        {
+            "character": "Hunter",
+            "line": "Cyanide! We checked him!"
+        },
+        {
+            "character": "Morse",
+            "line": "Capsule embedded in his cheekbone! You're not getting off that easy."
+        }
+    ]
+}

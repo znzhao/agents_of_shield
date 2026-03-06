@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 7,
+    "scene_name": "MayHunterDiscoverAttachéDeath",
+    "description": "Hunter and May investigate inside the base, stumbling upon the body of the Prime Minister's attaché. May recognizes the victim and realizes the severity of the situation. They decide to contact Coulson and Simmons for input while they continue their reconnaissance.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may"
+    ],
+    "vibe": "mysterious",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "They had the Inhuman on a gurney, went through those doors."
+        },
+        {
+            "character": "May",
+            "line": "Patrol coming."
+        },
+        {
+            "character": "Hunter",
+            "line": "We could just take them out."
+        },
+        {
+            "character": "May",
+            "line": "What part of “low profile” don't you understand? It's bad enough that we have four missing soldiers out in the woods."
+        },
+        {
+            "character": "May",
+            "line": "Go, go."
+        },
+        {
+            "character": "Hunter",
+            "line": "Looks like someone else got here first."
+        },
+        {
+            "character": "May",
+            "line": "The Inhuman you saw?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I don't think so."
+        },
+        {
+            "character": "May",
+            "line": "This could be a problem."
+        },
+        {
+            "character": "Hunter",
+            "line": "What, you know him?"
+        },
+        {
+            "character": "May",
+            "line": "Yuri Krupin. He's the Russian Prime Minister's personal attaché."
+        },
+        {
+            "character": "Hunter",
+            "line": "What are the chances he just tripped and fell and wrapped himself in a nice, comfy tarp?"
+        },
+        {
+            "character": "May",
+            "line": "We need to get this to Coulson and Simmons."
+        }
+    ]
+}

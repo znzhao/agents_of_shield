@@ -1,0 +1,150 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 11,
+    "scene_name": "RobbieAndEliMorrowConfrontThePast",
+    "description": "Robbie visits Eli Morrow, trying to get the truth about Momentum Labs and the creation of the Quantum Particle Generator. Eli shares the story of the scientific hubris that led to disaster, implicating Dr. Lucy Bauer and Joseph Bauer, and introduces the concept of the Darkhold—an evil book said to hold forbidden knowledge. Robbie’s connection to his uncle and the past is tested as Eli warns him off further involvement.",
+    "roles": [
+        "robbie_reyes",
+        "eli_morrow",
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morrow",
+            "line": "How's my baby doing?"
+        },
+        {
+            "character": "Robbie",
+            "line": "You mean our baby. Had to replace the fan belt. She's been overheating a bit lately. Nothing to worry about."
+        },
+        {
+            "character": "Morrow",
+            "line": "Your brother's good?"
+        },
+        {
+            "character": "Robbie",
+            "line": "He's good."
+        },
+        {
+            "character": "Morrow",
+            "line": "Es bueno verte, Roberto."
+        },
+        {
+            "character": "Robbie",
+            "line": "Hola, tío."
+        },
+        {
+            "character": "Morrow",
+            "line": "It's not Christmas, it's not my birthday."
+        },
+        {
+            "character": "Robbie",
+            "line": "Can't I just come visit my uncle when I want to?"
+        },
+        {
+            "character": "Morrow",
+            "line": "Yeah, I got S.H.I.E.L.D. and you visiting me on the same day? Come on, Robbie."
+        },
+        {
+            "character": "Robbie",
+            "line": "They just want to help. They just want answers."
+        },
+        {
+            "character": "Morrow",
+            "line": "Answers for what?"
+        },
+        {
+            "character": "Robbie",
+            "line": "They say that this woman that you used to work with is out there killing people."
+        },
+        {
+            "character": "Morrow",
+            "line": "Is that what they're saying?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Tío, I'm... I'm just trying to understand, man. I only know what you told me, that you put a beatdown on your boss, that he deserved it. Why? Who is she?"
+        },
+        {
+            "character": "Morrow",
+            "line": "Dr. Lucy Bauer. Joseph's wife."
+        },
+        {
+            "character": "Robbie",
+            "line": "You put him into a coma. What were they getting into up there?"
+        },
+        {
+            "character": "Morrow",
+            "line": "Madness. They were the project leaders of this privately funded think tank."
+        },
+        {
+            "character": "Robbie",
+            "line": "Momentum Labs."
+        },
+        {
+            "character": "Morrow",
+            "line": "Yeah. Next-level R&D. They needed an engineer to help them build their design. They said they were very impressed with me. But what they really wanted was someone who wouldn't ask too many questions."
+        },
+        {
+            "character": "Robbie",
+            "line": "And what were you building?"
+        },
+        {
+            "character": "Morrow",
+            "line": "A Quantum Particle Generator. It's a machine that can create matter out of practically nothing at all."
+        },
+        {
+            "character": "Robbie",
+            "line": "That sounds... impossible."
+        },
+        {
+            "character": "Morrow",
+            "line": "Yeah, it's insane. Defies all the laws of physics. See, they thought they were pushing boundaries, and I thought they were playing God."
+        },
+        {
+            "character": "Robbie",
+            "line": "And it blew up in their faces."
+        },
+        {
+            "character": "Morrow",
+            "line": "Yeah, literally. They should've listened to me. The police said it was an accident, but Joe made them move forward, and it killed them, killed the whole team... his wife. Joe killed them. I was so pissed at what he'd done, that... That I couldn't stop him. But I just... I just... I snapped. And I'm doing the time. You see, Robbie, what I wanted was..."
+        },
+        {
+            "character": "Robbie",
+            "line": "Revenge. Why didn't you tell me any of this before?"
+        },
+        {
+            "character": "Morrow",
+            "line": "‘Cause you were just a kid. And I was... I was supposed to take care of you, and I let you down. But these are my demons. They're not yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie, Lucy Bauer isn't dead. This accident must be how she got her powers. Find out where she'd go. What is she after?"
+        },
+        {
+            "character": "Robbie",
+            "line": "What is she after?"
+        },
+        {
+            "character": "Morrow",
+            "line": "She's gonna go after the book."
+        },
+        {
+            "character": "Robbie",
+            "line": "Book? What book?"
+        },
+        {
+            "character": "Morrow",
+            "line": "I don't know what it's called. They say it gave them the knowledge to build their machine. It has all the knowledge that anyone could ever need. They were obsessed with it. This book is evil, Robbie. I don't want you involved with any of this."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson. We got to move. We got a situation with an asset. A volatile one."
+        }
+    ]
+}

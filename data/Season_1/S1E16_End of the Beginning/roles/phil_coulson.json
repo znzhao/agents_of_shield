@@ -1,0 +1,96 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 16
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership is shaped by profound personal experiences, including his mysterious resurrection through secretive medical procedures involving an alien drug. He is steadfastly dedicated to protecting his team and uncovering dangerous secrets, often wrestling with ethical complexities and the burden of hidden knowledge. This episode deepens his suspicion and distrust toward S.H.I.E.L.D. itself, as he uncovers that the Clairvoyant is likely a S.H.I.E.L.D. agent with security clearance manipulating events from within. Coulson's sense of betrayal increases as trusted team members become suspect, challenging his ability to unify and lead. His protective instincts for Skye and the team drive him to confront uncomfortable truths, emphasizing his struggle between loyalty and skepticism. Despite these tensions, Coulson remains determined to expose the hidden forces threatening his team and pursue justice within the agency's opaque framework.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "investigate_alien_origins_and_secretive_forces",
+        "goal": "Investigate the alien origins and unknown implications of the GH-325 serum and uncover the forces behind it"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_internal_threats_and_corruption_in_SHIELD",
+        "goal": "Uncover and confront internal threats and corruption within S.H.I.E.L.D., especially concerning the Clairvoyant and unauthorized agents"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_11",
+      "context": "revelation about the Clairvoyant’s true identity and S.H.I.E.L.D. betrayal",
+      "catch_phrase": "The Clairvoyant doesn't have abilities. He has security clearance. He's an agent of S.H.I.E.L.D."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_10",
+      "context": "revealing his fear of Skye suffering like he did and the trauma of his resurrection",
+      "catch_phrase": "Being down there... seeing where I came from... I just got really scared that she would suffer the way that I did. But she didn't. For whatever reason... she didn't."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_9",
+      "context": "showing protective leadership and response under pressure",
+      "catch_phrase": "If it's really just sex, Ward... you should get more comfortable using the word."
+    }
+  ]
+}

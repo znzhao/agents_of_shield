@@ -1,0 +1,178 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 1,
+    "scene_name": "MayConfrontationOnTheBus",
+    "description": "Coulson confronts May at gunpoint aboard the S.H.I.E.L.D. Bus, demanding answers about her encrypted line. Fitz and Skye join in the heated interrogation, with suspicions flying about who has been communicating with the Clairvoyant. May reveals her secret channel was to Director Fury, but the team remains on edge as Fitz admits to tampering with communications to reach Simmons at the Hub. Meanwhile, Skye works to determine the plane's destination and the source of the system takeover.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "Tower, this is S.H.I.E.L.D. Echo-3. I got a pair of UAVs on my six. These friendlies? Over. They're gonna hit my jet wash, they get any closer. What is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Drop the weapon."
+        },
+        {
+            "character": "May",
+            "line": "Coulson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Drop the damn weapon and kick it over to the stairs, May, now! Now! Now back the hell up! Over there! Talk. Tell us where you rerouted the plane."
+        },
+        {
+            "character": "May",
+            "line": "I didn't set this new course. I swear!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't lie to me!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, the plane just turned around, for god's sake!"
+        },
+        {
+            "character": "Skye",
+            "line": "How is this happening, then?"
+        },
+        {
+            "character": "May",
+            "line": "H.Q. can override automated control of the avionics, take us anywhere they want. Let me check the instrument panel, and I'll be able..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No way!"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not going anywhere till you explain what..."
+        },
+        {
+            "character": "May",
+            "line": "It's not me!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Why did you have an encrypted hard line?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And try to shoot me when we found it?"
+        },
+        {
+            "character": "May",
+            "line": "Let's take a breath, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's not!"
+        },
+        {
+            "character": "May",
+            "line": "It was a dedicated channel... to Director Fury. That's the truth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Director Fury? I haven't been able to get him on the line for weeks."
+        },
+        {
+            "character": "Skye",
+            "line": "You were reporting to him?"
+        },
+        {
+            "character": "May",
+            "line": "That's all I can tell you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, just come out with it!"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's all you can tell us?!"
+        },
+        {
+            "character": "May",
+            "line": "I'm under orders! Fury will tell you."
+        },
+        {
+            "character": "Fitz",
+            "line": "What... was this an order? To shoot me in the bloody head?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hold on. We're not headed to Fury anymore."
+        },
+        {
+            "character": "May",
+            "line": "I don't know where we're headed. And I can't get Fury on the line because Fitz cut the line!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Skye told me to!"
+        },
+        {
+            "character": "Skye",
+            "line": "Someone was talking to the Clairvoyant, the real Clairvoyant."
+        },
+        {
+            "character": "May",
+            "line": "You were in the walls, Fitz. You want to explain why you were tampering with the plane's sat cable?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sure, because that's relevant! Don't try and turn this around on me!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "I was trying to speak to Simmons at the Hub."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you needed an encrypted line? What's so secret that you..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you tell me! Simmons and I know you two have been whispering, keeping things from us, about the drug that saved your life. Simmons is just trying to figure out how the whole thing works!"
+        },
+        {
+            "character": "May",
+            "line": "Fitz. Who is she talking to?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, open the door."
+        },
+        {
+            "character": "Fitz",
+            "line": "No way, not until we sort this out. I'm not opening anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Open the door. We can't get anything sorted until you open the damn door! Skye, get your laptop hooked up to our systems. See if you can pull up any S.H.I.E.L.D. communications. I want to know where this plane is headed and why."
+        },
+        {
+            "character": "May",
+            "line": "Coulson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "You stay put! Now tell me who Simmons is talking to. ‘Cause if it isn't someone we trust, she's in serious danger."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 12,
+    "scene_name": "MayLeavesProvidence",
+    "description": "May finishes prepping the Bus for departure and, after an emotionally charged exchange with Ward, decides to leave the Providence base. Ward expresses an understanding of her choices, and May indicates she can no longer stay after losing Coulson's trust.",
+    "roles": [
+        "melinda_may",
+        "grant_ward"
+    ],
+    "vibe": "melancholic",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "How's it coming? Is the bus operational?"
+        },
+        {
+            "character": "May",
+            "line": "Still banged up, but she's ready to fly. The fuel line's been repaired, and the tank's full."
+        },
+        {
+            "character": "Ward",
+            "line": "What's the range on this thing?"
+        },
+        {
+            "character": "May",
+            "line": "Just under 10,000 miles."
+        },
+        {
+            "character": "Ward",
+            "line": "Are you leaving?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. I was here for Coulson. But he can't see past me lying to him."
+        },
+        {
+            "character": "Ward",
+            "line": "I get why you did it. When you get orders, you don't question ‘em. You follow 'em... no matter the price."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, well, this price was too high. I lost him. Coulson doesn't want me here. He doesn't need me."
+        },
+        {
+            "character": "Ward",
+            "line": "So, what should I tell him?"
+        },
+        {
+            "character": "May",
+            "line": "Whatever you want. He won't hear it."
+        }
+    ]
+}

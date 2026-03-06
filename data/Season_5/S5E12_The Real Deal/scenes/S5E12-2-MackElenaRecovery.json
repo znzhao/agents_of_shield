@@ -1,0 +1,69 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "MackElenaRecovery",
+    "description": "Simmons checks on Elena's injuries as Mack sits with her, expressing his love and his resolve to help. Elena is determined to stay and fight despite her pain. The scene underscores the emotional toll recent events have had on the team, highlighting Mack and Elena's relationship.",
+    "roles": [
+        "jemma_simmons",
+        "elena_rodriguez",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Sorry. Is it too tight?"
+        },
+        {
+            "character": "Simmons",
+            "line": "And the pain?"
+        },
+        {
+            "character": "Elena",
+            "line": "So-so now, but, sometimes, my fingers feel like they're on fire."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm so sorry. Daisy's getting more supplies so we can make you comfortable."
+        },
+        {
+            "character": "Elena",
+            "line": "Thank you, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll give you some time."
+        },
+        {
+            "character": "Elena",
+            "line": "You look scared, Turtleman."
+        },
+        {
+            "character": "Mack",
+            "line": "Of course I am. The woman I love ‭nearly died in front of me."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm not gonna die. Not yet."
+        },
+        {
+            "character": "Mack",
+            "line": "That's good to hear. I'm gonna do everything I can to help. I'm sorry. I just get so angry. To make it back ‭from that fractured future only to watch you get... get butchered."
+        },
+        {
+            "character": "Elena",
+            "line": "I'll get through this as long as I have you."
+        },
+        {
+            "character": "Mack",
+            "line": "You're the only world I care about. You say the word, and I'll carry you out of here and never look back."
+        },
+        {
+            "character": "Elena",
+            "line": "Thank you for that but we have to stay and fight. The things I heard in the future, they're all coming true, faster than imagined. We can't leave."
+        }
+    ]
+}

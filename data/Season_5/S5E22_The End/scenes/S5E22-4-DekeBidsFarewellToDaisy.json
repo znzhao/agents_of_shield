@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 4,
+    "scene_name": "DekeBidsFarewellToDaisy",
+    "description": "Deke prepares to leave the Lighthouse, sharing a heartfelt conversation with Daisy. He leads her to his room, reflecting on his outsider status and how the Coulson dilemma fractured trust on the team. Deke tells Daisy she must repair that trust if she wishes to be a true leader, foreshadowing his impending disappearance and Daisy’s burden of responsibility.",
+    "roles": [
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Let's put one of those in every room, if possible. It'll be useful, trust me. Did you finish fuelling up the Zephyr?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. And the Quinjet. We'll leave as soon as we get a location. I'm glad you're taking point here at the Lighthouse. Who better than you to decide what the next generation will look like. Get to show them the ins and outs of this place."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, I don't know if I'm gonna be around for all that. I'll call the mayor and give the tour, but when you get back, I think I'll be out of here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why?"
+        },
+        {
+            "character": "Deke",
+            "line": "This is my room. I'm like a squirrel, hoarding anything I can find. Also, side note, found a nature book, learned about squirrels."
+        },
+        {
+            "character": "Daisy",
+            "line": "Old habits die hard."
+        },
+        {
+            "character": "Deke",
+            "line": "It's more like I'm a damaged person. From a damaged world. If there's even a chance that could happen again..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You'd want to see the world before it does."
+        },
+        {
+            "character": "Deke",
+            "line": "I mean, besides, according to Fitz, if the world doesn't crack open and you break the time loop I'll just blink out of existence anyway. So, it's just one more vacancy, right? Come on, I never totally fit in with the gang anyway."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is that what we are?"
+        },
+        {
+            "character": "Deke",
+            "line": "You know, when I first met you guys, I'd never seen anything like that. I mean, I'd seen people kill for each other without hesitation all the time, but I'd never seen a group that was willing to die for each other. Your trust, it just seemed too strong to break. And you trying to fix Coulson, that's great, I love the guy, but if you really wanna lead one day, then you've gotta fix that. Just my two cents. I also read a book on idiomatic expressions."
+        },
+        {
+            "character": "Piper",
+            "line": "We're on the move."
+        },
+        {
+            "character": "Deke",
+            "line": "They spotted him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Where is he?"
+        },
+        {
+            "character": "Piper",
+            "line": "Chicago."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not something you see down at Urgent Care."
+        }
+    ]
+}

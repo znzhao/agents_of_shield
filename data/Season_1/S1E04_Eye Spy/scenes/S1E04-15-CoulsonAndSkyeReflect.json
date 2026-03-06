@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 15,
+    "scene_name": "CoulsonAndSkyeReflect",
+    "description": "Later, Coulson finds Skye in her makeshift car hideaway aboard the Bus. They reflect on the mission, second chances, and the comfort of having each other's support. Their bond strengthens as they discuss peace and the importance of trusting the team.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Are you still needing your you time?"
+        },
+        {
+            "character": "Skye",
+            "line": "There's always room for A.C. Slide on in."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's wrong with... “Agent Coulson” or just “Coulson?”"
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing, I guess. A.C.'s just way cooler. ‘Cause you are. Cool. Not many people would have made that call to give Amador a second chance."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got one. Seems only fair I extend the same opportunity to others. I see why you like it in here."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. It's kind of like my van. Without all the bums trying to break in. I don't miss that. It's more peaceful here. It's also cool knowing that someone has my back... no matter what."
+        },
+        {
+            "character": "Coulson",
+            "line": "Peaceful's good."
+        }
+    ]
+}

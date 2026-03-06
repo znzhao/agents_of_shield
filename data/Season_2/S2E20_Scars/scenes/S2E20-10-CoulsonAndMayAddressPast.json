@@ -1,0 +1,280 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 10,
+    "scene_name": "CoulsonAndMayAddressPast",
+    "description": "Coulson tries to apologize to May for everything they've been through, especially regarding Bahrain and the recent turmoil. May remains emotionally distant, reiterating that her decisions weighed heavily on her and admitting the consequences of her actions. Their discussion underscores the deep scars left by personal and professional betrayals.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Me, too. Though, if you think about it, mostly terrible stuff happened on that thing. I spoke to Skye. This woman she keeps talking about, Jiaying, it's her mother. I was expecting at least a raised eyebrow, but okay."
+        },
+        {
+            "character": "May",
+            "line": "I'll tell the Council."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, I thought now would be a good time to apologize to you, at length, as promised."
+        },
+        {
+            "character": "May",
+            "line": "There's no need."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fury and I felt..."
+        },
+        {
+            "character": "May",
+            "line": "We don't owe each other anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. That's not true. Look, if this is about what Skye said..."
+        },
+        {
+            "character": "May",
+            "line": "It's not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because it doesn't matter. I don't care what happened in Bahrain."
+        },
+        {
+            "character": "May",
+            "line": "Yes, you do. Or you wouldn't bring it up. That girl wasn't killed in the crossfire, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "May",
+            "line": "It was her or everyone around us, and I made the call. I only told Andrew. Back then, our boundaries were clear. I was married to him, and I worked with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Melinda..."
+        },
+        {
+            "character": "May",
+            "line": "When you started carving into that wall, you asked me to watch you and put you down if you got out of control. I would never have shot you, but I should have stopped you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I never lost control."
+        },
+        {
+            "character": "May",
+            "line": "Skye is living proof that you did."
+        },
+        {
+            "character": "Skye",
+            "line": "You finish indexing Lincoln?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. But, um, I actually went to get... well, I... I thought you might like this. Snagged it off the bus before it went down. Thought it might be something you... well, anyway, here you go."
+        },
+        {
+            "character": "Skye",
+            "line": "Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, she, um... she shakes. But you're not doing anything. That's why it's funny."
+        },
+        {
+            "character": "Coulson",
+            "line": "Time to go."
+        },
+        {
+            "character": "Skye",
+            "line": "How did it go?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "The indexing? They just asked a lot of questions. But I'm sure you guys already have my blood from when I was out, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's protocol."
+        },
+        {
+            "character": "Lincoln",
+            "line": "HYDRA said the same thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you've been through a lot, but you can trust us. You'll see. So, how does this work? You just click your heels together and whisper, “there's no place like home?”"
+        },
+        {
+            "character": "Skye",
+            "line": "Sort of, actually. Gordon explained it. He can sense us. It's this thing called quantum entanglement, and, um... yeah, he'll... he'll find us. As long as we're nowhere near any of you guys."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. I'll see you tomorrow."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay."
+        },
+        {
+            "character": "Raina",
+            "line": "Gordon! Gordon! Thank god! I had another vision. S.H.I.E.L.D., they're coming."
+        },
+        {
+            "character": "Gordon",
+            "line": "Here? What do you mean?"
+        },
+        {
+            "character": "Raina",
+            "line": "I saw Quinjets raining fire on us. Afterlife in flames."
+        },
+        {
+            "character": "Gordon",
+            "line": "We have to warn Jiaying."
+        },
+        {
+            "character": "Raina",
+            "line": "No. That's why it starts. She can't be the one who talks to them. Jiaying can't meet with S.H.I.E.L.D."
+        },
+        {
+            "character": "Gordon",
+            "line": "If it's not Jiaying, then who?"
+        },
+        {
+            "character": "Raina",
+            "line": "Well, maybe it should be me."
+        },
+        {
+            "character": "Jiaying",
+            "line": "How's it coming along?"
+        },
+        {
+            "character": "Woman",
+            "line": "We're packing up the crates now. Is everything okay? Should we be worried?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Of course not. This is merely a precaution."
+        },
+        {
+            "character": "Woman",
+            "line": "Okay."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Are you all right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah."
+        },
+        {
+            "character": "Jiaying",
+            "line": "What happened?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "A lot. But I'm okay."
+        },
+        {
+            "character": "Skye",
+            "line": "A doctor at S.H.I.E.L.D. patched him up."
+        },
+        {
+            "character": "Jiaying",
+            "line": "S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Skye",
+            "line": "We need to talk."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Go to the recovery room. Have one of ours take a look at you. Come. Tell me everything."
+        },
+        {
+            "character": "Jiaying",
+            "line": "And you were just beginning to like it here."
+        },
+        {
+            "character": "Skye",
+            "line": "We don't have to leave. S.H.I.E.L.D. doesn't want that, either. Nothing has to change."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Sometimes, I forget how young you are."
+        },
+        {
+            "character": "Skye",
+            "line": "Please just sit down with him. Coulson, he's a good man. He's... He's the only person who's ever tried to take care of me. And until now, he's the closest I've had to family. Please, Mom."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Weaver, you'll be with me on QJ36. We'll land a good distance from their main buildings here. Now, I'll go in first, alone, unarmed."
+        },
+        {
+            "character": "Gonzales",
+            "line": "You shouldn't be the one going in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Care to elaborate?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "You're too close to this. Skye's like a daughter to you, and her mother is these people's leader."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm banking on that personal connection to get everyone through this safely."
+        },
+        {
+            "character": "Gonzales",
+            "line": "You shouldn't be. This is one of the greatest threats S.H.I.E.L.D.'s ever faced."
+        },
+        {
+            "character": "Weaver",
+            "line": "I agree. A whole race of people with powers."
+        },
+        {
+            "character": "Gonzales",
+            "line": "And you've proven time and again that you're not objective when it comes to Skye."
+        },
+        {
+            "character": "Morse",
+            "line": "That's your opinion, not fact."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Want to talk facts? Ultron was created because people were too close to Tony Stark. They were blinded by his charm. They trusted him. Never even thought to look at what he was working on. And the Avengers, they let one man do whatever he wanted, and the world was almost destroyed for it. We're S.H.I.E.L.D. We're better than that. Or at least we should be."
+        },
+        {
+            "character": "Coulson",
+            "line": "May? You're awfully quiet."
+        },
+        {
+            "character": "May",
+            "line": "Gonzales should go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, then. I asked you to stay and give me advice. I'd be a fool not to take it. As director, I'll quarterback the mission from here. Gonzales and Weaver, you're on QJ36."
+        }
+    ]
+}

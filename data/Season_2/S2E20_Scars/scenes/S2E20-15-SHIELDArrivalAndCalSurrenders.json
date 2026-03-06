@@ -1,0 +1,61 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 15,
+    "scene_name": "SHIELDArrivalAndCalSurrenders",
+    "description": "Gonzales, May, and Simmons arrive at Afterlife, met by Jiaying, Skye, Calvin Johnson, and Gordon. Jiaying prepares to hand Cal over to S.H.I.E.L.D. as a peace gesture. There is a bittersweet exchange between Skye and her father, highlighting the emotional cost of the decision. The scene has a tense diplomatic undercurrent as both sides hope for resolution.",
+    "roles": [
+        "robert_gonzales",
+        "melinda_may",
+        "jemma_simmons",
+        "jiaying",
+        "calvin_johnson",
+        "skye",
+        "gordon"
+    ],
+    "vibe": "tense",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "At headquarters. And I represent S.H.I.E.L.D. with his same intentions. I might ask why he's here, though."
+        },
+        {
+            "character": "Jiaying",
+            "line": "You returned Lincoln and Skye to us. We'd like to return someone of interest to you. He's killed agents of yours, hasn't he?"
+        },
+        {
+            "character": "Cal",
+            "line": "Uh, no. No, not S.H.I.E.L.D. agents. I don't think. No, just people who had it coming."
+        },
+        {
+            "character": "Jiaying",
+            "line": "We pride ourselves on doing the right thing. And as much as this pains me, I do understand the larger goal."
+        },
+        {
+            "character": "Gonzales",
+            "line": "I'll call one of my people to take him."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Skye can. Would you take your father to the agents outside? I'm sure mister..."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Gonzales, Robert."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Robert and I have much to discuss."
+        },
+        {
+            "character": "Cal",
+            "line": "You know, I was always excited to meet you. even when you were a little bit of nothing in your mother's belly. Oh, I had all these ideas in my head as to what kind of woman you'd turn out to be, and you really are magnificent. I'm very grateful I got a chance to know you."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm glad I got to know you, too."
+        }
+    ]
+}

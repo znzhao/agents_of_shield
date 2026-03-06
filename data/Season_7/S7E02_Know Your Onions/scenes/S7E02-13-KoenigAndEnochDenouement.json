@@ -1,0 +1,55 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 13,
+    "scene_name": "KoenigAndEnochDenouement",
+    "description": "In a quiet aftermath, Enoch and Koenig share a drink at the speakeasy, forging a budding friendship. Koenig expresses curiosity about S.H.I.E.L.D. and Chronicoms, while Enoch hints at Koenig's legacy, suggesting their encounter is the start of something special. This final, lighter scene offers a sense of hope and ties together the episode's themes of legacy and mentorship.",
+    "roles": [
+        "enoch"
+    ],
+    "vibe": "lighthearted",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "It is my specialty. I call it a Barracoolada."
+        },
+        {
+            "character": "Koenig",
+            "line": "Hmm. Ooh. That's a damn fine concoction."
+        },
+        {
+            "character": "Enoch",
+            "line": "I do, as you say, know my onions."
+        },
+        {
+            "character": "Koenig",
+            "line": "Oh, that, you do. You're hired. But I have a couple of conditions. First, I want to know more about this S.H.I.E.L.D. outfit. I feel like I could be a help there."
+        },
+        {
+            "character": "Enoch",
+            "line": "Indeed, you will. As will this fine establishment. What is the second condition?"
+        },
+        {
+            "character": "Koenig",
+            "line": "I want to know all there is to know about robots."
+        },
+        {
+            "character": "Enoch",
+            "line": "Chronicoms."
+        },
+        {
+            "character": "Koenig",
+            "line": "Whatever you call yourselves. I-I find it fascinating."
+        },
+        {
+            "character": "Enoch",
+            "line": "As will your grandchildren."
+        },
+        {
+            "character": "Koenig",
+            "line": "My... My grandchildren? Enoch... this looks like the start of a marvelous friendship."
+        }
+    ]
+}

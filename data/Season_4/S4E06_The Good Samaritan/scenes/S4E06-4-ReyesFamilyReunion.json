@@ -1,0 +1,89 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 4,
+    "scene_name": "ReyesFamilyReunion",
+    "description": "Daisy reunites Gabe with his brother Robbie Reyes aboard the S.H.I.E.L.D. plane. Gabe reveals that he suspects Robbie is secretly a S.H.I.E.L.D. agent following his recent strange behavior. Daisy and Robbie play along to protect Gabe from the dangerous truth while emphasizing his safety and the imminent threat linked to their missing uncle Eli.",
+    "roles": [
+        "robbie_reyes",
+        "gabe_reyes",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Gabe",
+            "line": "Robbie."
+        },
+        {
+            "character": "Robbie",
+            "line": "Hey, what's up, man? Look, uh, sorry about all the drama. I'm just glad to see you're safe."
+        },
+        {
+            "character": "Gabe",
+            "line": "Me? What about you, disappearing like that? I thought you trusted me."
+        },
+        {
+            "character": "Robbie",
+            "line": "Well, I do."
+        },
+        {
+            "character": "Gabe",
+            "line": "Then why are you hiding such a big secret?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't tell him anything."
+        },
+        {
+            "character": "Gabe",
+            "line": "She doesn't have to. I can do the math. The nights you're away, the blood on your clothes. Now this?"
+        },
+        {
+            "character": "Robbie",
+            "line": "I wanted to tell you... for a long time. It's just... how do you tell your brother that you're..."
+        },
+        {
+            "character": "Gabe",
+            "line": "A secret agent?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You know, he wanted to, but he couldn't. He took an oath, ‘cause, well, it's a secret."
+        },
+        {
+            "character": "Gabe",
+            "line": "Hey, I... I get it. This is... super-dope. And kind of a relief. Sometimes I'd find blood in the sink. I was afraid it was something else."
+        },
+        {
+            "character": "Robbie",
+            "line": "Like what?"
+        },
+        {
+            "character": "Gabe",
+            "line": "Something bad."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, you can relax now that you... know the truth."
+        },
+        {
+            "character": "Gabe",
+            "line": "How come you're telling me now?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We had to bring you in for your protection."
+        },
+        {
+            "character": "Robbie",
+            "line": "Tío got snatched out of prison. We were worried that the person who took him might try to grab you for leverage."
+        },
+        {
+            "character": "Daisy",
+            "line": "But the important thing is that you're safe now, and we're gonna find your Uncle Eli."
+        }
+    ]
+}

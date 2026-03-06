@@ -1,0 +1,76 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 8,
+    "scene_name": "FitzAndDekeFailToOverrideLockdown",
+    "description": "Fitz and a backup agent go to attempt the manual override on another floor but are attacked by Remorath. Deke arrives just in time to save Fitz, and they discover the override has been disabled by the invaders. The two realize the lockdown cannot be broken from inside, and the entire team may be trapped until Daisy returns. They resolve to regroup with the others as the situation grows more desperate.",
+    "roles": [
+        "leo_fitz",
+        "deke_shaw"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Do you think Deke's right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Let me be clear. Deke is never right. We're in radio contact. We've not split up. We're just... Jemma? Jemma, do you copy?"
+        },
+        {
+            "character": "Man",
+            "line": "We should go."
+        },
+        {
+            "character": "Man",
+            "line": "No, no, no."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let's move."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, come on. Come on. come on."
+        },
+        {
+            "character": "Deke",
+            "line": "Get back!"
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Deke",
+            "line": "Without you, there is no me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Never been so happy to meet someone so self-serving."
+        },
+        {
+            "character": "Deke",
+            "line": "If anyone asks, we scared that thing off, okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Or he knew he could just kill us later."
+        },
+        {
+            "character": "Deke",
+            "line": "Don't tell me that's the override. How the hell did he find that thing? The Lighthouse is enormous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Doesn't matter. This was our only way out."
+        },
+        {
+            "character": "Qovas",
+            "line": "All of you see where you're going, where to find it. Then lay waste to anyone who stands in our way."
+        }
+    ]
+}

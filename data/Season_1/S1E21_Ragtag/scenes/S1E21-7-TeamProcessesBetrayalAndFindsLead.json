@@ -1,0 +1,128 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 7,
+    "scene_name": "TeamProcessesBetrayalAndFindsLead",
+    "description": "Coulson’s team debriefs, trying to make sense of Garrett and the Deathlok project now that they know Garrett's motives are personal. Fitz is in denial about Ward's betrayal, leading to emotional tension and self-blame from Skye. May offers Skye encouragement and focuses her anger toward a goal—finding Ward. Coulson reveals Triplett’s tracing of Cybertek shipments leads them to Havana, Cuba, providing their next actionable target.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Garrett started project Deathlok way back in 1990. Look at this. He was patient zero."
+        },
+        {
+            "character": "Skye",
+            "line": "We've been looking at all this backwards. Garrett doesn't just want GH-325 for his Centipede soldiers. He wants it for himself so he can become a real, live boy again. And if he happens to create an army of programmed super soldiers for Hydra along the way, triple bonus points."
+        },
+        {
+            "character": "Fitz",
+            "line": "How do we know Garrett didn't do that to Ward, too? Maybe he's been programmed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, when are you going to stop clinging to the idea that Ward's the victim and not the perpetrator?"
+        },
+        {
+            "character": "Fitz",
+            "line": "When I see something that tells me I shouldn't with my own two eyes. We don't know all the facts."
+        },
+        {
+            "character": "Skye",
+            "line": "You want a fact, Fitz? Ward murders people. I should have let Mike finish him when I had the chance. I'm stupid and... weak."
+        },
+        {
+            "character": "Coulson",
+            "line": "You weren't weak. You had compassion. That's harder. We'll find him."
+        },
+        {
+            "character": "Man",
+            "line": "Pizza delivery for Pablo Jimenez?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's me."
+        },
+        {
+            "character": "Ward",
+            "line": "Biomechanics rebooting. There. That should do it. You scared me. Hasn't happened like that in awhile."
+        },
+        {
+            "character": "Garrett",
+            "line": "Yes, it has. Been happening more and more. The biomechanics are fine. It's my organs that are failing."
+        },
+        {
+            "character": "Ward",
+            "line": "What are you saying, John?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'm dying. Cybertek team gives me a month, two tops."
+        },
+        {
+            "character": "May",
+            "line": "You never came out to eat."
+        },
+        {
+            "character": "Skye",
+            "line": "Not much of an appetite."
+        },
+        {
+            "character": "May",
+            "line": "Look... Fitz can't process the truth about Ward, not yet. What he said... it's what he needs to believe."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you think Ward's being controlled?"
+        },
+        {
+            "character": "May",
+            "line": "Absolutely not."
+        },
+        {
+            "character": "Skye",
+            "line": "Neither do I. You know, I never gave you enough credit for this whole Zen-warrior thing. But I got to admit, it'd be nice to feel nothing right now."
+        },
+        {
+            "character": "May",
+            "line": "You think I don't feel anything?"
+        },
+        {
+            "character": "Skye",
+            "line": "Look at you. You're a statue. And you and Ward had a thing. So if anyone should be furious..."
+        },
+        {
+            "character": "May",
+            "line": "I am. I'm furious. But I'm sure as hell not gonna waste it on a tantrum. I'm gonna mine it, save it... and when we find Ward, I'm gonna use every bit of it to take him down."
+        },
+        {
+            "character": "Skye",
+            "line": "Wish I knew how to use that hate-fu."
+        },
+        {
+            "character": "May",
+            "line": "I'm up most mornings at 5:00."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trip I.D.'d a number of Cybertek shipments that ping-ponged across the globe... Brazil, Cambodia, Syria... but they all ended up in Havana."
+        },
+        {
+            "character": "May",
+            "line": "S.H.I.E.L.D. used to have a base there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I told you we'd find him. We're going to Cuba."
+        }
+    ]
+}

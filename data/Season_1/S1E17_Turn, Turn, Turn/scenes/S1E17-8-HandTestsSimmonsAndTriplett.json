@@ -1,0 +1,21 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 8,
+    "scene_name": "HandTestsSimmonsAndTriplett",
+    "description": "Hand confronts Simmons and Triplett in the Hub lab, offering them a stark choice: swear allegiance to Hydra or die. Triplett bravely takes an agent hostage, prompting Hand to reveal it was all a test, and that she and her team are still loyal to S.H.I.E.L.D. However, she accuses Coulson of Hydra allegiance, and details a litany of supposed crimes and cover-ups that cast a shadow of doubt over his loyalty.",
+    "roles": [
+        "victoria_hand",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hand",
+            "line": "The rest of your possibly very short lives hinges on this moment. Hydra has successfully infiltrated S.H.I.E.L.D. at the highest level. It only took seven decades, and today is our coming-out party. We have the support of the level-9 and level-10 agents. And those who have resisted Hydra have been crossed off... Director Fury included. I'm here to offer you a choice, and a simple one at that. Either swear unwavering loyalty to Hydra right now for all time... or share Fury's fate. I won't wait long."
+        }
+    ]
+}

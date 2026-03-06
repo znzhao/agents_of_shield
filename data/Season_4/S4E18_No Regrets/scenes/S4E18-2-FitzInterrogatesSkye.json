@@ -1,0 +1,88 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 2,
+    "scene_name": "FitzInterrogatesSkye",
+    "description": "In an interrogation room, Fitz questions Skye, convinced she has replaced the real Skye and is an enemy of Hydra. Skye tries to appeal to Fitz's real memories and emotions, but he rebuffs her and threatens the Patriot and S.H.I.E.L.D. The exchange establishes how changed Fitz is in the Framework and Skye's determination to resist.",
+    "roles": [
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Why are you doing this, Fitz?"
+        },
+        {
+            "character": "Doctor",
+            "line": "It's Dr. Fitz. And unlike the men who just left, I know the truth about you, and your world."
+        },
+        {
+            "character": "Skye",
+            "line": "You mean our world?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Ah, don't try that ploy with me. I know you replaced the real Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Replaced? Is that what she told you?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Somehow you conquered Hydra in your world, and now you want to conquer ours."
+        },
+        {
+            "character": "Skye",
+            "line": "All I want is to get out of here."
+        },
+        {
+            "character": "Doctor",
+            "line": "Tell me where the Patriot is."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know."
+        },
+        {
+            "character": "Doctor",
+            "line": "Did he come from your world, too?"
+        },
+        {
+            "character": "Skye",
+            "line": "We all did, you included."
+        },
+        {
+            "character": "Doctor",
+            "line": "And the other subversive, Jemma Simmons?"
+        },
+        {
+            "character": "Skye",
+            "line": "She's not a subversive."
+        },
+        {
+            "character": "Doctor",
+            "line": "Where is she?"
+        },
+        {
+            "character": "Skye",
+            "line": "If I knew, I would tell you because if anyone could get you to wake up and realize that this nightmare isn't real, it's her. She loves you and you love her and she's a real person, not a Hydra murder-bot who's got your brain..."
+        },
+        {
+            "character": "Doctor",
+            "line": "The carrot or the stick? When neither motivates the truth, we face unspeakable choices."
+        },
+        {
+            "character": "Skye",
+            "line": "What happened to you, Fitz?"
+        },
+        {
+            "character": "Doctor",
+            "line": "This is my home. I'm not gonna let you destroy it. We'll get to yours first. And when we do, the Patriot and all of his kind will pay for ever setting foot here."
+        }
+    ]
+}

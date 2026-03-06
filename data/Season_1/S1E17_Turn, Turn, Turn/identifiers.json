@@ -1,0 +1,34 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "victoria_hand",
+        "antoine_triplett"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Garrett",
+        "Agent Hand",
+        "Triplett"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "The Hub (S.H.I.E.L.D. operations facility)",
+        "The Fridge (S.H.I.E.L.D. high-security prison)",
+        "Triskelion (S.H.I.E.L.D. headquarters)"
+    ]
+}

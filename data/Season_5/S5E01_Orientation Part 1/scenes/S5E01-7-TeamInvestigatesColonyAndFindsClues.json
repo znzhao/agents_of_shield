@@ -1,0 +1,123 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 7,
+    "scene_name": "TeamInvestigatesColonyAndFindsClues",
+    "description": "Coulson, Simmons, Mack, Yo-Yo, and Daisy explore more of the outpost, piecing together that it is actually a human colony designed for survival. They contemplate if they're near Earth based on water reclamation facilities and the presence of English on the computers. Optimism rises as they consider sending a message home, although they realize not everything about the colony is human-made.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Seems like it's just a lot of work just to keep this place afloat."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it's designed for humans to survive, atmosphere and simulated gravity, and the machinery seemed to be for reclaiming water, I think."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, it looks man-made."
+        },
+        {
+            "character": "Simmons",
+            "line": "Could possibly be a colony? Moving mankind to the stars? Maybe that's what Virgil meant by “humanity.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. That plasma gun wasn't man-made, and I don't think they could've built this place without some outside help. Got some serious miles on it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Decades by the look of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Means this program would've had to have been started back in the, what, '80s with Howard Stark? That doesn't feel right."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo found something."
+        },
+        {
+            "character": "Daisy",
+            "line": "Nothing."
+        },
+        {
+            "character": "Elena",
+            "line": "Nothing alive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey."
+        },
+        {
+            "character": "Elena",
+            "line": "They didn't get to her, did they?"
+        },
+        {
+            "character": "Coulson",
+            "line": "May would've put up a fight. And they left the other bodies here."
+        },
+        {
+            "character": "Daisy",
+            "line": "“Water reclamation.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "You were right, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "I figured it out using magic."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can try and find a layout and track May."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's in English. They're tracking debris fields called “frozen oceans.” They're collecting water from ice in space. This is a colony."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means unless they all came through a monolith..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then we're close enough to Earth for people to travel here."
+        },
+        {
+            "character": "Mack",
+            "line": "And we can get home."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, but just as important, collecting ice means they have a spacecraft, and if they have a spacecraft, they must have a laser-based rapid-transmission system. If we can find the ship and fly above the debris field..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can send a message."
+        },
+        {
+            "character": "Simmons",
+            "line": "... we can send a message to Fitz back on Earth."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, okay, so if I can find a layout, find a ship, find May, it's a start. This interface looks similar to... Coulson, do you recognize this language?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I don't think humans are running this place after all."
+        }
+    ]
+}

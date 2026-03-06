@@ -1,0 +1,80 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "FitzAndSimmonsAntidoteDebate",
+    "description": "Fitz and Simmons discuss the psychosis antidote and the burden of secrets just before Simmons goes for her polygraph test. Their strained conversation highlights the tension the polygraph and AIDA secret have introduced into their relationship. Simmons is anxious about her ability to lie, and Fitz tries to comfort her but fails.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We can learn a lot when someone dies, as was the case when you and Radcliffe killed Agent May. Actually, that was less of a killing and more of a-a full system reboot, which is brilliant. And her brain scan allowed us to create an antidote. Bold strokes. Well-played."
+        },
+        {
+            "character": "Agent",
+            "line": "Excuse me? Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think we're gonna need bold strokes, ‘cause, apparently, that thing that Lucy Bauer's after, Coulson is saying it's pretty serious. Something called the Darkh..."
+        },
+        {
+            "character": "Simmons",
+            "line": "All right, stop. Not another word."
+        },
+        {
+            "character": "Fitz",
+            "line": "At least you finally said one to me."
+        },
+        {
+            "character": "Simmons",
+            "line": "I have my lie-detection today, and I do not want another secret. Along with Daisy, Robbie Reyes, and your pet project AIDA."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, come on. How many times have I got to say it? The polygraph is the reason I didn't say anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "Forget the polygraph. This isn't about the polygraph!"
+        },
+        {
+            "character": "Fitz",
+            "line": "What was I supposed to do?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're supposed to share everything! We share a bed, but this whole time, you were lying there, keeping things from me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, come on. I wanted to tell you, of course. I... and... and I-I knew that you'd think she was fascinating..."
+        },
+        {
+            "character": "Simmons",
+            "line": "It. It's fascinating. And now it is going to get me sacked. Did you know there are over 212 micro-expressions that can betray a lie? One eye dart to the left, and I'm finished. Unlike some people, I'm terrible at keeping secrets."
+        },
+        {
+            "character": "Fitz",
+            "line": "So... it is about the polygraph. All right, well, okay. Well, look, I'll just stay here, and I'll help you practice. We could do the... the penny in the shoe thing and the thumbtack under the tongue."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the other way around. And no, just go. Coulson needs you. I'll work it out. I am not getting fired today."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, no eye dart to the left. I 100% bought that. All right, I'll see you later, then."
+        },
+        {
+            "character": "Simmons",
+            "line": "Who am I kidding? They'll skip right over the firing part and throw me behind bloody bars."
+        }
+    ]
+}

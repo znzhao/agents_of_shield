@@ -1,0 +1,81 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 14,
+    "scene_name": "FitzConfrontsSimmons",
+    "description": "Back in the Framework at the steel mill, Simmons prepares to leave when Fitz arrives with Radcliffe. Fitz, traumatized by his father's death, holds Simmons at gunpoint and demands she declare that she means nothing to him. As Fitz is about to execute her, Radcliffe intervenes, forcing Fitz through the exit portal. Radcliffe explains his motives to Simmons, then she takes her turn through the portal to escape the Framework.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "holden_radcliffe"
+    ],
+    "vibe": "intense",
+    "location": "Steel mill cover (site built over Radcliffe's backdoor)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "Hello, Jemma Simmons. Seems you finally found me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz."
+        },
+        {
+            "character": "Doctor",
+            "line": "You don't get to say my name, not after everything you've done."
+        },
+        {
+            "character": "Simmons",
+            "line": "It wasn't supposed to be like this. AIDA she took you from me, and I came here to rescue you."
+        },
+        {
+            "character": "Doctor",
+            "line": "So you kill my father? Right after he tells me that he loves me, you murder him in cold blood as I listen."
+        },
+        {
+            "character": "Simmons",
+            "line": "I am so sorry. It was an accident."
+        },
+        {
+            "character": "Doctor",
+            "line": "Nothing that you've done has been an accident! You want to destroy this world! You want to destroy me! You want to destroy the woman that I love."
+        },
+        {
+            "character": "Simmons",
+            "line": "That woman is lying to you! None of this is real! She's not real! AIDA's just a a robot you and Radcliffe created."
+        },
+        {
+            "character": "Doctor",
+            "line": "Her name is Ophelia."
+        },
+        {
+            "character": "Simmons",
+            "line": "Its name is AIDA. Artificially Intelligent Digital Assistant. And stop making excuses for it! Radcliffe and Daisy told you the truth! Please Fitz, you have to wake up."
+        },
+        {
+            "character": "Doctor",
+            "line": "Get on your knees."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Aah! Ohh! Please you don't have to do this. I love you."
+        },
+        {
+            "character": "Doctor",
+            "line": "And you mean nothing to me. I want to hear you say it. “I am nothing to you.” Say it! Say it!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Ah, ah, ah."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This was never my intention. The Darkhold it corrupted my mind. Please, don't blame yourself."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It was all my fault. Bringing Fitz here was the only way I could truly save him. I know I can't make everything that happened in the Framework right, but at least... at least this way, Fitz gets to be his old self again. You should go."
+        }
+    ]
+}

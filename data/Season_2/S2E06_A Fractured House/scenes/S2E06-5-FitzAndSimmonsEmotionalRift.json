@@ -1,0 +1,76 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "FitzAndSimmonsEmotionalRift",
+    "description": "Fitz and Simmons work together on Whitehall's hard drive, and the emotional toll of Simmons' absence is revealed. Their attempt at collaboration quickly turns into a confrontation over unresolved feelings about Simmons leaving and Fitz's recovery. The scene ends with Simmons distressed and exiting, showing the depth of their fractured friendship.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I still can't find anything on the weapons. Fitz? Ah, you're still looking at those backlogged files."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. That's because, um... those ... these two bits, there's something. I think the..."
+        },
+        {
+            "character": "Simmons",
+            "line": "A similar alloy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no. No. Um, no. It's... um... it's important, because... I... the... Can you stop, uh... stop looking at me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I can't even look at you now."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, not like that, you can't."
+        },
+        {
+            "character": "Simmons",
+            "line": "Like what? I'm... I'm trying not to treat you any differently than..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know, but I am different. And I... and I'm... I'm trying not to be, but I am. And if for some reason you can't accept it..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, that's not fair. Fitz, I'm only trying to help."
+        },
+        {
+            "character": "Fitz",
+            "line": "You left. I needed help. I needed help with the cloaking. I needed help with, um... with lots of other things, and someone to talk through, at least. You gave up on me."
+        },
+        {
+            "character": "Simmons",
+            "line": "I did no such thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "You told me you were gonna go see your mum and your dad, and then you went off to... for all I... for all I know, you could... something could've... you could've been killed. And because what? Because you think I'm useless?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course I don't. That's not why I left."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, then, why?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz... I'm sorry. I can't do this. Excuse me. Excuse me."
+        }
+    ]
+}

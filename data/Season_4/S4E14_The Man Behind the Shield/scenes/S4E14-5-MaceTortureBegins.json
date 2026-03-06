@@ -1,0 +1,41 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 5,
+    "scene_name": "MaceTortureBegins",
+    "description": "Jeffrey Mace is held captive by Ivanov and Watchdogs. Ivanov taunts and physically abuses Mace, taking pleasure in Mace's vulnerable, de-powered state. Aida observes, questioning Ivanov's cruel methods, but Ivanov dismisses Aida and signals his intent to use Mace as bait for S.H.I.E.L.D.",
+    "roles": [
+        "jeffrey_mace",
+        "anton_ivanov",
+        "aida"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "It's good to see there's still some fight left in you. But I should expect as much from S.H.I.E.L.D.'s Inhuman director."
+        },
+        {
+            "character": "Mace",
+            "line": "You're the one they take orders from."
+        },
+        {
+            "character": "Mace",
+            "line": "Then I'm placing you under arrest in the name of S.H.I.E.L.D."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Oh. With what power? Surely, you have used the last of yours."
+        },
+        {
+            "character": "Mace",
+            "line": "You want to find out?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "I know you can do better than that. Put him back in."
+        }
+    ]
+}

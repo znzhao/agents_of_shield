@@ -1,0 +1,49 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "YoYoConvincesJaco",
+    "description": "Elena confronts Jaco after disabling Pax, appealing to his past as a baker and questioning Sarge's mission. Jaco reveals his motivations and the pain of his family's loss, showing internal conflict as Elena tries to persuade him to help S.H.I.E.L.D. This encounter lays the groundwork for Jaco's eventual change of allegiance.",
+    "roles": [
+        "elena_rodriguez",
+        "jaco",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Jaco",
+            "line": "Nice trick. Easy. I'm trying to save your planet."
+        },
+        {
+            "character": "Elena",
+            "line": "By slaughtering innocent people?"
+        },
+        {
+            "character": "Jaco",
+            "line": "We all make sacrifices."
+        },
+        {
+            "character": "Elena",
+            "line": "So you're okay with the killing, Jaco? How's that strategy working out for you? Save a lot of planets lately?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Sarge is doing the best he can. But he's been at this a while. He wasn't always a killer."
+        },
+        {
+            "character": "Elena",
+            "line": "And you were a baker. The runt. Is this what your family would've wanted?"
+        },
+        {
+            "character": "Jaco",
+            "line": "They'd want me to stop the beast that took them away from me."
+        },
+        {
+            "character": "Elena",
+            "line": "Now, that would be a nice trick."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 9
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a skilled hacker and emerging S.H.I.E.L.D. operative who bridges the technical and human sides of the team. She possesses strong empathy and insight into others' emotional states, often providing compassionate understanding especially to vulnerable individuals. Though initially brash and frustrated with authority, particularly with Melinda May's commanding style, her experiences have deepened her maturity and sense of responsibility. She is keenly curious, values trust and connection, and is growing into a vital asset for S.H.I.E.L.D., balancing her youthful enthusiasm with an increasing ability to engage sensitively with complex social dynamics and unusual threats.",
+  "aliases": [],
+  "affiliations": [
+    {
+      "action": "-",
+      "affiliation": "Rising Tide"
+    }
+  ],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 1
+    },
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "gain_full_trust_and_clearance",
+        "goal": "To gain full trust and higher clearance within S.H.I.E.L.D. to participate in critical missions"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "develop_asset_evaluator_skills",
+        "goal": "To develop skills in evaluating and managing individuals with emerging powers as a valuable S.H.I.E.L.D. asset"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_5",
+      "context": "expressing empathy and hope about forgiveness and belief",
+      "catch_phrase": "God is love... the thing that holds us together."
+    }
+  ]
+}

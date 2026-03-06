@@ -1,0 +1,41 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 4,
+    "scene_name": "ShieldDoppelgangerDebateWithBenson",
+    "description": "May and Mack consult Dr. Benson regarding the nature of the Coulson lookalike. Benson cycles through S.H.I.E.L.D.'s obscure tech and life model decoy theories but lacks a clear answer. May is adamant that Coulson was truly gone, while Benson examines evidence from the crime scene, concluding that the DNA matches Coulson exactly, heightening the mystery.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "marcus_benson"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Where are you on this doppelganger?"
+        },
+        {
+            "character": "Benson",
+            "line": "Oh, I have several viable hypotheses. That's what scientists say when they don't know squat. Odds are it's related to one of S.H.I.E.L.D.'s previous mistakes, which I'm working my way through a very long list... um, fear manifestations, nano-masks, Inhumans... Though I'm thinking I should revisit the file on those Life Model Decoys, which really shouldn't be a thing, by the way."
+        },
+        {
+            "character": "Mack",
+            "line": "No argument here."
+        },
+        {
+            "character": "May",
+            "line": "Could this guy be an LMD?"
+        },
+        {
+            "character": "Benson",
+            "line": "Well, if there's already been one of Phil Coulson, it seems like a possible explanation. But I would need to talk to the idiot who designed them."
+        },
+        {
+            "character": "May",
+            "line": "That might be hard."
+        }
+    ]
+}

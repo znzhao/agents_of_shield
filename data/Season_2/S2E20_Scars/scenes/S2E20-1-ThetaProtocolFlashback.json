@@ -1,0 +1,119 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 1,
+    "scene_name": "ThetaProtocolFlashback",
+    "description": "A year ago, Phil Coulson meets with Sam Koenig to get an update on the secret Theta Protocol. They discuss the difficult task of keeping a project as big as a Helicarrier a secret, as well as various S.H.I.E.L.D. personnel and recent events, including Simmons' progress at Hydra and tension surrounding missing agents. The conversation sets the foundation for the Theta Protocol's importance.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Billy Koenig",
+            "line": "Sam."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Billy."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Uh, American flight 220 gets in three minutes early."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Copy that. And what was with you rage-quitting “C.O.D.” last night?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "What's up... What's up with you and all the spawn kills?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "It's called “black ops” for a reason, Billy."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "And ... And crunching pretzels in my ear the whole time."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "How was your flight, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Another middle seat. But I remembered to bring you this."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Oh. Sweet. Thank you, sir. Hope they never go out of business. So, Simmons is adjusting nicely to HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's tougher than she looks. Skye's doing well in her training with May, And Trip's on board full-time."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Well, what about the new recruits? Billy says that Hartley and Hunter keep drinking all of his beer."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not surprised to hear that. Any update on Agent Gonzales?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Unfortunately, no. There's a pretty good chance that HYDRA took him out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Keep looking."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "And, uh... Fitz? Any progress?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Some."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Does May still think you're on a recruiting trip to London?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She does, which is why I don't have a lot of time here."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Okay. Well, sir, first, you are going to need..."
+        },
+        {
+            "character": "Coulson",
+            "line": "A lanyard. Yes, I do."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Blue and gray. Subtle, masculine, gels nicely with the new triangular design."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are we calling this, anyway?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "The Theta Protocol, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Theta Protocol.” I need you to write that down for me."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "I gotta tell you, it's not easy to keep something as big like Helicarrier in secret."
+        }
+    ]
+}

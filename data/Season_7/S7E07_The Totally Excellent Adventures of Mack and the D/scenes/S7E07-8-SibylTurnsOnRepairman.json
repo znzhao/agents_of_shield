@@ -1,0 +1,43 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 8,
+    "scene_name": "SibylTurnsOnRepairman",
+    "description": "Sibyl, now further restored, decides her human helper has outlived his usefulness and kills him coldly. This confirms her complete disregard for human life and reveals her readiness to enact her next steps now that she has a more complete body.",
+    "roles": [
+        "sibyl"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Feldman",
+            "line": "Picked up that stuff you asked for. Interesting place. Sibyl? What's going on?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "I needed to expand my capabilities."
+        },
+        {
+            "character": "Feldman",
+            "line": "I've been waiting my whole life for you. Was I not enough?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "You have served a purpose."
+        },
+        {
+            "character": "Feldman",
+            "line": "You can't leave me. Not after everything we've shared."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I concur. You know too much."
+        },
+        {
+            "character": "Feldman",
+            "line": "Ohh!"
+        }
+    ]
+}

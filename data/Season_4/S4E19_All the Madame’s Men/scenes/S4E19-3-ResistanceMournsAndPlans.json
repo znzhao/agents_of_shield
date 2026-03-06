@@ -1,0 +1,76 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 3,
+    "scene_name": "ResistanceMournsAndPlans",
+    "description": "The Resistance, including Mack, Ward, Coulson, Simmons, and Triplett, react to Bakshi’s smear campaign against the late Patriot. Emotions run high as they debate their next move: retaliation or protecting the innocents the Patriot inspired. Triplett proposes looking at the blueprints he stole, while Simmons makes a crucial discovery about Aida’s doomsday machine. Their discussion is interrupted by breaking news of an attack on Madame Hydra.",
+    "roles": [
+        "alphonso_mackenzie",
+        "grant_ward",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "Jeffrey Mace hated our freedoms and sought to turn our country..."
+        },
+        {
+            "character": "Mack",
+            "line": "Tainting the name of a good man. Anyone else getting sick of this propaganda crap?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's like sipping poison. Little bit every day, you don't even notice till it kills you. We need to start thinking retaliation."
+        },
+        {
+            "character": "Mack",
+            "line": "Retaliation? No, we got to put human lives before revenge. Look, those people were promised a better life. Now, the man who made that promise is gone, so you got to talk to them and let them know..."
+        },
+        {
+            "character": "Ward",
+            "line": "We'll make good on it, I know."
+        },
+        {
+            "character": "Triplette",
+            "line": "Or how about we review those plans I stole from Hydra's lab? You know, since I almost died to get them. Look, if she's building some some crazy doomsday device..."
+        },
+        {
+            "character": "Ward",
+            "line": "Can we not use that word to describe it? It's not helping me think."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is how movements die."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't say that, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, if history's taught me anything, it's that good intentions don't translate into action without a steady hand to guide them. The Patriot brought all these people together. His death might tear them apart."
+        },
+        {
+            "character": "Simmons",
+            "line": "I still can't believe he's gone. We need to get out of the Framework before we lose anyone else."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, check this out."
+        },
+        {
+            "character": "Bakshi",
+            "line": "We've received word of a terrorist attack at the Triskelion. Sources say that an Inhuman made an attempt on Madame Hydra's life. Fortunately, our beloved leader emerged unscathed, but the vile assailant remains at large."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy?"
+        }
+    ]
+}

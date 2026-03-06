@@ -1,0 +1,69 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 14,
+    "scene_name": "TeamDiscoversTruthAboutTheOutpostAndEarth",
+    "description": "The episode culminates as the team realizes the full horror of their situation: they didn't just travel through space—they've been sent into the future to a time when the Earth has been destroyed and all that remains is the outpost. May and Simmons see familiar star constellations, confirming they're in their own galaxy, and the painful truth dawns on all of them as they piece together the past and their uncertain future.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "tragic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "These... These filtration systems, they weren't designed for this. They've been repurposed."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I feel like this machine's out of its element, too. I found the coordinates to this place, but it's listing our location in longitude and latitude."
+        },
+        {
+            "character": "Mack",
+            "line": "The postcard."
+        },
+        {
+            "character": "Coulson",
+            "line": "90 years ago? That... That's impossible. The tech in here couldn't have been developed in the '20s."
+        },
+        {
+            "character": "Deke",
+            "line": "Wait. No Metrics, no scars, Wisconsin, pie. Tell me again about when you were taken."
+        },
+        {
+            "character": "Coulson",
+            "line": "We were... We were sitting in our favorite diner just off Columbus Drive."
+        },
+        {
+            "character": "Deke",
+            "line": "No, not... not where. When? What year?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That monolith was different, wasn't it? We didn't travel through space."
+        },
+        {
+            "character": "May",
+            "line": "Are you seeing what I'm seeing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I know, May. I recognize all of these constellations."
+        },
+        {
+            "character": "May",
+            "line": "I meant that."
+        },
+        {
+            "character": "Simmons",
+            "line": "No reason to send a message back to Earth. We're already here."
+        }
+    ]
+}

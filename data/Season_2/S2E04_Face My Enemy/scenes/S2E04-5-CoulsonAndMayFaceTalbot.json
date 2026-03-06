@@ -1,0 +1,197 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "CoulsonAndMayFaceTalbot",
+    "description": "Coulson and May, caught trying to leave the mansion, are confronted by Talbot who openly admits to having acquired the painting. He offers Coulson the opportunity to examine it at a secure facility under supervision. Coulson agrees but remains suspicious, asking for time to check in with his team. May insists on investigating Talbot further on her own.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Agent Coulson, Agent May, you seem like you're in a hurry."
+        },
+        {
+            "character": "Coulson",
+            "line": "The caterers ran out of coconut shrimp, no reason to stay."
+        },
+        {
+            "character": "Talbot",
+            "line": "You see, I was worried you left because I got my hands on the miracle painting and you didn't. Come on, Coulson. It's obvious we were there for the same thing. Now, I've been thinking..."
+        },
+        {
+            "character": "May",
+            "line": "I'm sure."
+        },
+        {
+            "character": "Talbot",
+            "line": "I know there's writing on the back of that painting. The government wouldn't have sent me down here if we didn't. Phil, you're the only one that can help me figure out what that writing is. It's what you do. So why don't we help each other?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Why would I help you?"
+        },
+        {
+            "character": "Talbot",
+            "line": "You came all the way down here. I got to believe you want to know what that writing means just as badly as we do."
+        },
+        {
+            "character": "May",
+            "line": "Yeah. Why do I have a feeling there's a catch?"
+        },
+        {
+            "character": "Talbot",
+            "line": "There's no catch. You'll have to examine it in a secure military facility where I can keep an eye on you, but that's just... regulation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. You got a deal."
+        },
+        {
+            "character": "Talbot",
+            "line": "Excellent."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just let me check in with my team. I need to give them their orders. You know, they'll get nervous if I just disappear."
+        },
+        {
+            "character": "Talbot",
+            "line": "What do you need... about an hour?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That ought to do it."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm downtown at the hotel La Ona. I'll see you there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I look forward to it."
+        },
+        {
+            "character": "May",
+            "line": "Change of heart... doesn't add up."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. He's working us. I just need to know why."
+        },
+        {
+            "character": "May",
+            "line": "I'll handle it."
+        },
+        {
+            "character": "Coulson",
+            "line": "May."
+        },
+        {
+            "character": "May",
+            "line": "Hey, this is the part I do. It will make up for all the dancing."
+        },
+        {
+            "character": "Coulson",
+            "line": "You liked it."
+        },
+        {
+            "character": "May",
+            "line": "No, I didn't."
+        },
+        {
+            "character": "Coulson",
+            "line": "Little bit?"
+        },
+        {
+            "character": "May",
+            "line": "Little bit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Check in as soon as you know something. And if something goes wrong..."
+        },
+        {
+            "character": "May",
+            "line": "I'll handle it."
+        },
+        {
+            "character": "Triplett",
+            "line": "Don't remember Coulson asking you to do extra research on this thing."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm being industrious."
+        },
+        {
+            "character": "Triplett",
+            "line": "Or are you digging into a top-secret mission to find out about the parts they're not telling us?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm a good, helpful soldier."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, I happen to appreciate your instinct to be thorough. I myself prefer a pint and a good nap, but, then, I'm the lazy type."
+        },
+        {
+            "character": "Skye",
+            "line": "“Lazy” is not the first word that comes to mind."
+        },
+        {
+            "character": "Hunter",
+            "line": "Dangerous? I understand. But truly, it should be “lazy.” I just hide it well."
+        },
+        {
+            "character": "Skye",
+            "line": "Think that's what drove away the ex-wife?"
+        },
+        {
+            "character": "Mack",
+            "line": "See, now you're bringing it back up."
+        },
+        {
+            "character": "Hunter",
+            "line": "Ha ha, and no. It didn't work out because interspecies relationships are hard. I was a human, whereas she was a demonic hell-beast."
+        },
+        {
+            "character": "Mack",
+            "line": "He doesn't like her."
+        },
+        {
+            "character": "Triplett",
+            "line": "You don't say."
+        },
+        {
+            "character": "Hunter",
+            "line": "She's pure evil."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, at least you got away from your ex. The guy I had a crush on is now the psycho living in our basement."
+        },
+        {
+            "character": "Mack",
+            "line": "You know, I wish I could relate, but all my exes are awesome."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is that right? I seem to remember an entire year where you had to pretend you liked quinoa."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. That was a dark time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, go join them. They're bonding. You'll be left out."
+        }
+    ]
+}

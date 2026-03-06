@@ -1,0 +1,120 @@
+{
+    "season": 6,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "MayInHolding",
+    "description": "Melinda May is in holding after shooting Sarge. Mack, Daisy, Elena, and the team discuss why she acted so out of character. May insists she shot Sarge because it had to be done, but her behavior raises suspicions among her friends. The team tries to process the gravity of her actions and wonders about her mental state.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "leo_fitz",
+        "elena_rodriguez",
+        "piper"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "My God. Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "That is uncanny."
+        },
+        {
+            "character": "Mack",
+            "line": "That's not our guy. Remember that. But do what you can anyway."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll keep you updated, Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Is she here?"
+        },
+        {
+            "character": "Diaz",
+            "line": "Yeah. Won't talk to us, though."
+        },
+        {
+            "character": "May",
+            "line": "No need to ask. I did it. I shot him."
+        },
+        {
+            "character": "Mack",
+            "line": "Why?"
+        },
+        {
+            "character": "May",
+            "line": "Because it had to be done."
+        },
+        {
+            "character": "Daisy",
+            "line": "What the hell, May? Really? You're gonna shoot a guy in holding and then just go silent? Silenter."
+        },
+        {
+            "character": "May",
+            "line": "Do you even know what he is?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. But I do know what he's capable of. He left our team and 100,000 innocents to die. I know that he is definitely not Coulson..."
+        },
+        {
+            "character": "May",
+            "line": "No, he's not."
+        },
+        {
+            "character": "Daisy",
+            "line": "That he deserved it. But I also know what you are, and “vigilante” is not on the list. T-The face..."
+        },
+        {
+            "character": "May",
+            "line": "His face has nothing to do with it."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know it rattles you. It messes with me, too. But this is not what we do. This is extreme."
+        },
+        {
+            "character": "May",
+            "line": "It was time for extreme."
+        },
+        {
+            "character": "Mack",
+            "line": "May's been out of sorts since he showed up, had him in her sights."
+        },
+        {
+            "character": "Elena",
+            "line": "She said she wanted to kill him."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I can't blame her, but I still have to hold her accountable. I mean, this is... Well, did she crack? I don't understand."
+        },
+        {
+            "character": "Elena",
+            "line": "I understand wanting to prevent future suffering. She's done it before, and she's not the only one."
+        },
+        {
+            "character": "Mack",
+            "line": "I know. But this man was in custody. May was my right hand these last few months. I thought I was finally getting to know her. I'm gonna look at the security footage. You let me know if anything here changes, okay?"
+        },
+        {
+            "character": "Piper",
+            "line": "I just heard what happened. I don't believe it."
+        },
+        {
+            "character": "Elena",
+            "line": "No, I don't believe it, either."
+        },
+        {
+            "character": "Fitz",
+            "line": "Got ‘em. Not that it'll make much difference at this point."
+        }
+    ]
+}

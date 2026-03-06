@@ -1,0 +1,103 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 1,
+    "scene_name": "MayConfrontsHillInWashington",
+    "description": "In Washington, D.C., Melinda May covertly approaches Maria Hill after Hill leaves a Congressional hearing. May confronts Hill with questions about T.A.H.I.T.I. and Director Fury's mysterious actions while both are aware they're being watched. Their exchange is terse and loaded with secrets; Hill claims Fury is dead, but May has her doubts. The scene ends abruptly when Hill is apprehended, and May slips away.",
+    "roles": [
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hill",
+            "line": "Yeah, it went as expected. S.H.I.E.L.D. implodes, and everyone wants answers. The CIA, NSA, NRO... them I can handle. But Congress? Congress is like kindergarten. “Where is this Fridge?” “What was in there?” “Who or what is a man-thing?” I swear I need a cocktail and a lobotomy. But apparently, my every move continues to fascinate them. Tonight's standard-issue surveillance package includes fake yuppie not checking her texts at the bus stop, imposter homeless man... mildly offensive... and the hipster following me looks familiar. I think he's Russian or... gone. Pepper, I'll call you back in 10."
+        },
+        {
+            "character": "May",
+            "line": "We need to talk, Agent Hill."
+        },
+        {
+            "character": "Hill",
+            "line": "May. A phone call would have done it. But I appreciate the discretion."
+        },
+        {
+            "character": "May",
+            "line": "Thought you'd like the night off. They must hate that you're going to work for Stark."
+        },
+        {
+            "character": "Hill",
+            "line": "Most of the intelligence community would like to drop me into a dark hole, but even they can't mess with Tony's army of lawyers. So, for now, we're privatizing global security. Want to join?"
+        },
+        {
+            "character": "May",
+            "line": "Coulson needs help. And he won't take it from me anymore."
+        },
+        {
+            "character": "Hill",
+            "line": "Where is he?"
+        },
+        {
+            "character": "May",
+            "line": "Providence base. And he's got enough to worry about without obsessing over T.A.H.I.T.I. and who covered it up."
+        },
+        {
+            "character": "Hill",
+            "line": "You mean besides us. How much does he know?"
+        },
+        {
+            "character": "May",
+            "line": "Enough. That they used alien biology, rewrote his memories, and that Fury did it under someone else's direction. I want to know who that was."
+        },
+        {
+            "character": "Hill",
+            "line": "You're afraid it was Alexander Pierce."
+        },
+        {
+            "character": "May",
+            "line": "Secretary Pierce was the man in charge, the only person Fury took orders from, and he was Hydra. Having a man like that design your brain? You can understand my concern."
+        },
+        {
+            "character": "Hill",
+            "line": "Fury took his cues from pretty high up. That much I know. But when I asked him who it was, Fury said that he buried that intel when he decided not to bury Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Maria, this is not the time to wax poetic."
+        },
+        {
+            "character": "Hill",
+            "line": "Those are his words, not mine. You knew the man. Sometimes he spoke in riddles."
+        },
+        {
+            "character": "May",
+            "line": "Guess I'll have to solve it, then."
+        },
+        {
+            "character": "Hill",
+            "line": "Hmm."
+        },
+        {
+            "character": "May",
+            "line": "Unless you want to ask Fury for me."
+        },
+        {
+            "character": "Hill",
+            "line": "Fury's dead."
+        },
+        {
+            "character": "May",
+            "line": "I'll believe it when I see it."
+        },
+        {
+            "character": "Officer",
+            "line": "Drop your weapon!"
+        },
+        {
+            "character": "Hill",
+            "line": "3 minutes and 20 seconds. Really? If you were my agents, it wouldn't be for long."
+        }
+    ]
+}

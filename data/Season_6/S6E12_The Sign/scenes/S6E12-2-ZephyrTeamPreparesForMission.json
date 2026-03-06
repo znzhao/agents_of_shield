@@ -1,0 +1,225 @@
+{
+    "season": 6,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "ZephyrTeamPreparesForMission",
+    "description": "On Zephyr One, Skye (Daisy), May, Piper, Sarge, and FitzSimmons discuss their plan to rescue Mack and Yo-Yo, using special wristbands designed by Deke to prevent Izel's possession. Sarge's emotional state and his rage are discussed, with May hoping to reach the Coulson side of him. The team prepares weapons and expresses hope mixed with deep unease about what lies ahead.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "piper",
+        "sarge_pachakutiq",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "Rage."
+        },
+        {
+            "character": "May",
+            "line": "That's all you feel?"
+        },
+        {
+            "character": "Sarge",
+            "line": "It's the best way to describe it. And you don't want to be anywhere near it when it comes out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Once we land in the jungle, we'll secure Z1, use it as a base of operations. We go in stealth."
+        },
+        {
+            "character": "Piper",
+            "line": "So, how do we get Mack and Yo-Yo out if we can't even get close to her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Now we can."
+        },
+        {
+            "character": "May",
+            "line": "You think I haven't seen something like this before?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Doubtful."
+        },
+        {
+            "character": "May",
+            "line": "Our friend Robbie Reyes had something inside him, not exactly a Teddy bear. He was able to control it."
+        },
+        {
+            "character": "Sarge",
+            "line": "That's my point. I don't know that I can control it."
+        },
+        {
+            "character": "Simmons",
+            "line": "This sends a sonic frequency through the body that will prevent you from being possessed."
+        },
+        {
+            "character": "Daisy",
+            "line": "How many do we have?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're working on..."
+        },
+        {
+            "character": "Deke",
+            "line": "I got this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wow."
+        },
+        {
+            "character": "Simmons",
+            "line": "When did you..."
+        },
+        {
+            "character": "Deke",
+            "line": "If I had another day or two, I could've had them in rose gold."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, this is plenty. You're like a wizard."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I-I picked up a few tricks in the private sector."
+        },
+        {
+            "character": "Daisy",
+            "line": "This is really great."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Piper",
+            "line": "Okay, so, Izel can't jump into us, but we have other problems."
+        },
+        {
+            "character": "May",
+            "line": "You kept it in check when Daisy spoke to you. Whatever she did got you thinking straight."
+        },
+        {
+            "character": "Sarge",
+            "line": "There's no thought. Only the rage. And if I see Izel..."
+        },
+        {
+            "character": "May",
+            "line": "You'll defeat her. You let the rage out. Then let the other part of you rein it in."
+        },
+        {
+            "character": "Sarge",
+            "line": "It's not as simple as you make it sound."
+        },
+        {
+            "character": "May",
+            "line": "That's why I'll be there. To remind you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sarge gave us his stockpile of daggers. And we've melted them down to make bullets."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, the bullets are designed to fragment, so they stay embedded in the Shrike."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the only way to kill them."
+        },
+        {
+            "character": "Piper",
+            "line": "And Izel? Will it stop her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't know. Sarge has his sword, so he's our best hope."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you think he's ready?"
+        },
+        {
+            "character": "May",
+            "line": "He thinks he is."
+        },
+        {
+            "character": "Daisy",
+            "line": "And you?"
+        },
+        {
+            "character": "May",
+            "line": "I wish we had more time. That demon inside him, if Sarge can use it to kill Izel..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then it's a good thing."
+        },
+        {
+            "character": "May",
+            "line": "But... after that..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You think he won't be able to rein it in?"
+        },
+        {
+            "character": "May",
+            "line": "I'm wondering if we can get it out. Maybe we can separate them."
+        },
+        {
+            "character": "Daisy",
+            "line": "We have no idea if it works that way."
+        },
+        {
+            "character": "May",
+            "line": "That part of him he's scared of it. And he's scared because it's not a part of him."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you want to exorcise it."
+        },
+        {
+            "character": "May",
+            "line": "I'm saying if Izel opens this gateway I'll find a way to send that thing inside Sarge back where it came from."
+        },
+        {
+            "character": "Daisy",
+            "line": "You might kill him."
+        },
+        {
+            "character": "May",
+            "line": "Maybe. But if I see a chance to get Coulson back, I'm going to take it."
+        },
+        {
+            "character": "Piper",
+            "line": "Preparing for descent."
+        },
+        {
+            "character": "Elena",
+            "line": "Flint!"
+        },
+        {
+            "character": "Mack",
+            "line": "He's breathing."
+        },
+        {
+            "character": "Elena",
+            "line": "What did you do to him?"
+        },
+        {
+            "character": "Izel",
+            "line": "He's extraordinary but, like all Terrans, weak. Beautiful. They will open the door, and on the other side, they're gathering. They've never seen anything. Or heard a song or tasted your pain. But that will change. Today."
+        }
+    ]
+}

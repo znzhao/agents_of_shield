@@ -1,0 +1,380 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "CodebreakAttemptAtHub",
+    "description": "Skye enlists Simmons in her plan to hack Hub files about the secret mission. Simmons struggles with guilt and nerves as she tries to access a restricted panel, only to be confronted by Sitwell, whom she panics and shoots with the night-night gun. This incident forces them to accelerate their plan as Skye hacks the mainframe to uncover the truth.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "thrilling",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hey. Fancy seeing you here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, I told you I'd look into the file about your parents. No, I know. That's not why I'm here. I wanted to know more about Ward and Fitz's mission. Simmons is seriously starting to unravel without Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know it's hard to hear, but you don't have the clearance."
+        },
+        {
+            "character": "Skye",
+            "line": "But I have eyes. I saw six squads in full tactical gear, three crates of RPGs, and a full crew of analysts headin' to operations. Are you really telling me that has nothing to do with ward and Fitz's mission? If I'm right, give me a signal by not saying anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trust the system."
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing. He's acting like a robot version of himself right now. If we want the truth, we've got to get it ourselves."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. How would you suggest... Oh, wait. No. No!"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "No! I can't be a part of your bad-girl shenanigans. I like following the rules and doing what's expected of me. It makes me feel nice."
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons, wake up! Ward and Fitz went on a top-secret, two-man operation, and look. There are more men. And either it's a bigger deal and they're not telling us, or something went wrong out there. And maybe there's nothing we can to do help, but we got to know if there is. What if they're injured or being tortured somewhere right now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz. Tortured. What exactly do you have in mind?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay! Enough! Okay. A little to the left, Vladimir. Gentle! Gentle. That's it. Okay. Can I get a little more light down here, Marta?"
+        },
+        {
+            "character": "Marta",
+            "line": "Of course, Mishka."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thank you, sweetheart."
+        },
+        {
+            "character": "Ward",
+            "line": "Little bear?"
+        },
+        {
+            "character": "Marta",
+            "line": "I like watching him work, that little bear."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's nothing. Really. I'm just a man."
+        },
+        {
+            "character": "Marta",
+            "line": "Get this man a drink."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, no. Here we go. Mmm. Salty. So... let's talk business."
+        },
+        {
+            "character": "Ward",
+            "line": "Two million rubles? We need to work on your negotiation skills."
+        },
+        {
+            "character": "Fitz",
+            "line": "I thought they were like pesos. And anyway, you should be thanking me. I shorted the fuse box with my localized E.M.P. when we were tied up."
+        },
+        {
+            "character": "Ward",
+            "line": "Really?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, and my plan worked because we're over the border now, aren't we? We're stopping. Why are we stopping?"
+        },
+        {
+            "character": "Ward",
+            "line": "Quiet. Stay here. I'll check it out. Okay. Maybe we'll both stay here."
+        },
+        {
+            "character": "Ward",
+            "line": "Fitz! More border patrol."
+        },
+        {
+            "character": "Fitz",
+            "line": "Already moving! Hurry up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. Am I disturbing you? You know, I like this plane. I like the way we do things here. Everyone's on the same page, no red tape. So far, it's working for us. Most of us. And maybe I'm getting soft, but I don't like keeping things from our team. If you knew... No. You're right. Level 8. But... I know. Trust the system. May? Thanks."
+        },
+        {
+            "character": "Computer",
+            "line": "Say cheese."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, you have the flash drive. Go. I programmed it with a decoy crawler. It'll use my browser history to simulate my usual online activity, so while S.H.I.E.L.D. thinks I'm trolling reddit and facebook with the laptop you gave me."
+        },
+        {
+            "character": "Simmons",
+            "line": "You'll be hacking the files for Ward and Fitz's mission."
+        },
+        {
+            "character": "Skye",
+            "line": "Right. And remember, once you plug it in, you'll only have about..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Three minutes before S.H.I.E.L.D. catches on."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you realize that you keep finishing my sent..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Your sentences. I know. I'm sorry. Bad habit."
+        },
+        {
+            "character": "Simmons",
+            "line": "This is actually a bit thrilling."
+        },
+        {
+            "character": "Skye",
+            "line": "Ah, good. I'm glad. Now we've just got to figure out a way to get the panel open."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't worry. I made a special something. It's what we do. All done."
+        },
+        {
+            "character": "Skye",
+            "line": "Really? Wow. Okay. Uh, now just find a USB port."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Agent Simmons?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's fine. Just play it cool."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hello, Mr. Agent Sitwell, sir. May I help you?"
+        },
+        {
+            "character": "Ward",
+            "line": "Drainage pipe. We'll wait them out over there."
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't wait too long. If they use the overkill device, everyone on the border's in danger."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm aware."
+        },
+        {
+            "character": "Fitz",
+            "line": "And that includes Marta and Vlad."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, you're on a first-name basis now?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, I'm just saying, their lives are on the line, too, so let's not get too comfortable."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Call me Jasper."
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, what brings you to this restricted hallway so late at night?"
+        },
+        {
+            "character": "Sitwell",
+            "line": "I could ask you the same thing."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Don't."
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons, focus. Just make up an excuse."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was just on my way to the loo. I could swear it was two rights and a left, but is that it here?"
+        },
+        {
+            "character": "Sitwell",
+            "line": "That's a wall panel. Why are you accessing it?"
+        },
+        {
+            "character": "Skye",
+            "line": "Don't spiral. Just say something. Anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "You certainly have a gorgeous head, don't you? I like men that are about my height, but heavier than me."
+        },
+        {
+            "character": "Skye",
+            "line": "Stop talking. Stop."
+        },
+        {
+            "character": "Sitwell",
+            "line": "Agent Simmons, do you have authorization to access that panel?"
+        },
+        {
+            "character": "Skye",
+            "line": "Say yes. Say you do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh! Y— of course."
+        },
+        {
+            "character": "Skye",
+            "line": "Great. Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. Um, I certainly have it right here in my bag. He's onto me."
+        },
+        {
+            "character": "Skye",
+            "line": "Stop talking to me! He can hear you!"
+        },
+        {
+            "character": "Sitwell",
+            "line": "Are you on comms with someone? This is Agent Sitwell. I need an escort."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah! I'm sorry!"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, my god. Oh, my god."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay. Okay. Oof. I've shot agent Sitwell. Good, good, good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Was that all right?"
+        },
+        {
+            "character": "Skye",
+            "line": "That was terrible! You are terrible at this. That was a total meltdown."
+        },
+        {
+            "character": "Simmons",
+            "line": "The night-night gun was right there, and I..."
+        },
+        {
+            "character": "Skye",
+            "line": "We need help. You need to go get May."
+        },
+        {
+            "character": "Simmons",
+            "line": "May?! No!"
+        },
+        {
+            "character": "Skye",
+            "line": "Listen. That flash drive will only give me a few minutes of access to the Hub's mainframe to find out what happened to our boys... so just go get May, okay? Just tell her it was an accident."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm going to be court-martialed."
+        },
+        {
+            "character": "Skye",
+            "line": "I hope this works."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why do you think S.H.I.E.L.D. sent in just the two of us?"
+        },
+        {
+            "character": "Ward",
+            "line": "I don't know. They said they needed a guy like you and a guy like me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mmm."
+        },
+        {
+            "character": "Ward",
+            "line": "Is that a sandwich?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons made it. My favorite. Prosciutto and buffalo mozzarella with a hint of pesto aioli. Here. You can have half."
+        },
+        {
+            "character": "Fitz",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Ward",
+            "line": "There are dogs tracking us, and you bring a prosciutto sandwich."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't believe you just did that."
+        },
+        {
+            "character": "Ward",
+            "line": "This is a mission, not a picnic!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, I'm well aware it's not a picnic, Mr. Save the Day."
+        },
+        {
+            "character": "Ward",
+            "line": "What's that supposed to mean?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, come on. You obviously get off on being the guy who always gets to throw the last punch, who always swoops in to save the girl. And now you've destroyed the world's most dangerous sandwich. Congratulations. Well, I'll tell you something. I don't need to be rescued by anyone, Grant Ward."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. And..."
+        },
+        {
+            "character": "Ward",
+            "line": "Listen. Before we left, Coulson told me to take care of you. That is what I am doing. Nothing more, nothing less. Here. If you're hungry, eat this. It's odorless."
+        }
+    ]
+}

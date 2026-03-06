@@ -1,0 +1,248 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "DirectorAndTeamDebrief",
+    "description": "At the Playground, the Director, Mace, debriefs the team about the blackout and broadcasts claiming responsibility by the \"Inhuman Resistance.\" Discussions ensue about whether the blackout was powered by an Inhuman or a technological device. Mace orders Coulson, Mack, and Fitz to Miami to investigate, while Simmons requests urgent access to May, whose condition is deteriorating. Mace gives Simmons permission to pursue drastic measures to save May, emphasizing the urgency of the escalating crisis.",
+    "roles": [
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "melinda_may",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Damn it. Is this some lone nutjob, or are the Inhumans really organizing?"
+        },
+        {
+            "character": "Anderson",
+            "line": "We have no real information, sir."
+        },
+        {
+            "character": "Fitz",
+            "line": "The broadcast was untraceable. It's quite sophisticated, really, which rules out both lone and nutjob."
+        },
+        {
+            "character": "Mace",
+            "line": "And the blackout, was it caused by an Inhuman's power or sabotage?"
+        },
+        {
+            "character": "Mack",
+            "line": "There's only one Inhuman capable of short-circuiting an entire city."
+        },
+        {
+            "character": "Fitz",
+            "line": "Lincoln Campbell. He was one of the good guys."
+        },
+        {
+            "character": "Mace",
+            "line": "I know, and we owe him a great debt. There's no one else with his powers?"
+        },
+        {
+            "character": "Mack",
+            "line": "Could be one we haven't found."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but it's most likely an EMP device."
+        },
+        {
+            "character": "Mace",
+            "line": "So the threat was credible? They could black out more cities?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, if there's more than one EMP device, it's more than credible."
+        },
+        {
+            "character": "Burrows",
+            "line": "This is a PR nightmare. We're only a month away from reintroducing S.H.I.E.L.D. to the public."
+        },
+        {
+            "character": "Mack",
+            "line": "People's lives could be at stake, and you're worried about bad publicity? Who the hell are you, anyway?"
+        },
+        {
+            "character": "Mace",
+            "line": "That's Burrows from Public Relations. It's his job to worry about bad publicity. So let's just... take a beat, calm down. A team divided is a team defeated. Right? Right?"
+        },
+        {
+            "character": "Mack",
+            "line": "We have an Inhuman asset in Miami, Elena Rodriguez. I lost contact with her an hour ago. Now, if this thing escalates..."
+        },
+        {
+            "character": "Mace",
+            "line": "Then we have to de-escalate it, pronto. I want you two and Phil in the air and on the way to Miami within the hour."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you need to be the one to give him that order. He wasn't too happy with the last one."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please, I need to speak to someone about Agent May..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on, May. Fight this."
+        },
+        {
+            "character": "Simmons",
+            "line": "... and, actually, I have a remote feed from your facility. I'm looking at her vitals right now, and she is clearly not stabilizing! Her heart rate is erratic. Her... Her blood pressure is continuing to rise. Adrenaline's spiking. Who is in charge over there? Does anyone know what the hell the... Hello? Hello?! They hung up. They're clueless. Not that I have a solution without actually getting inside her brain."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where is she? Who the hell's treating her?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm so sorry, but it's classified. Without the Director's permission, I can't..."
+        },
+        {
+            "character": "Mace",
+            "line": "She's in upstate New York. Agent May is at one of the best CDC facilities in the country."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why keep that from me? I could be there now."
+        },
+        {
+            "character": "Mace",
+            "line": "And would be. I know how much you like to make unauthorized trips, but I needed you here in case of a crisis, and now there's a cris..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hold him down! Hold him down! It's okay."
+        },
+        {
+            "character": "Man",
+            "line": "Heart rate's erratic. He's gone."
+        },
+        {
+            "character": "Mace",
+            "line": "What just happened?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Exactly what's going to happen to May within the next 24 hours. The CDC's at a dead end. Unless we take some kind of drastic measure, we'll lose her."
+        },
+        {
+            "character": "Mace",
+            "line": "Do you have something in mind?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a long shot, but yes. Maybe there might be someone who..."
+        },
+        {
+            "character": "Mace",
+            "line": "Whatever you need. Make it happen."
+        },
+        {
+            "character": "Simmons",
+            "line": "Nathanson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm going with her."
+        },
+        {
+            "character": "Mace",
+            "line": "Negative. You're going to Miami. You're the best agent I have to deal with the Inhumans. If this blackout is legitimate and there are more to come, we could have a huge international problem on our hands. It's the call you'd make if you were in my shoes."
+        },
+        {
+            "character": "Maria",
+            "line": "My poor fiancé's out there somewhere, and I have no way to reach him. How does a blackout kill your phone?"
+        },
+        {
+            "character": "Elena",
+            "line": "It was probably an EMP."
+        },
+        {
+            "character": "Darryl",
+            "line": "Word from downstairs is that we're under attack. Inhumans caused the blackout, and people are starting to riot. We got to go."
+        },
+        {
+            "character": "Elena",
+            "line": "No, no, no. We're safer up here."
+        },
+        {
+            "character": "Man",
+            "line": "No, we're trapped up here. We got to get someplace with power."
+        },
+        {
+            "character": "Maria",
+            "line": "I'm going. I need to find Sammy. We can't let her go alone."
+        },
+        {
+            "character": "Leticia",
+            "line": "30 flights of stairs in heels? Really?"
+        },
+        {
+            "character": "Elena",
+            "line": "That's why I don't wear them."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where are we going? Look, I know you're doing this whole mysterious-silent thing, but if we're gonna work together on this, you've got to fill me in. You know someone that worked at that Momentum facility?"
+        },
+        {
+            "character": "Robbie",
+            "line": "My uncle. I'm going to go see him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Uncle? Uncle Elias Morrow? Doing time at South Ridge Penitentiary? I like to vet my vengeance demons before I hop in a car with them."
+        },
+        {
+            "character": "Robbie",
+            "line": "He's a good man. He did a bad thing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Attempted manslaughter. Yeah, I'd say so. What'd he do at that lab?"
+        },
+        {
+            "character": "Robbie",
+            "line": "He was an electrical engineer. His work was way above my head, but I think it's time we figure it out."
+        },
+        {
+            "character": "Man",
+            "line": "Suspect at large. We now have two confirmed blackouts, Miami and London. The Inhumans claiming responsibility threatened to black out a major city every hour if their demands are not..."
+        },
+        {
+            "character": "Robbie",
+            "line": "You hear that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't believe it."
+        },
+        {
+            "character": "Robbie",
+            "line": "Hope they don't hit L.A."
+        },
+        {
+            "character": "Daisy",
+            "line": "You afraid of the dark?"
+        },
+        {
+            "character": "Robbie",
+            "line": "No, my little brother rides the metro. He's gonna be stuck in a bad part of town. You know what happens to people during a blackout. They think they can get away with whatever they want."
+        },
+        {
+            "character": "Daisy",
+            "line": "That nothing can stop them."
+        },
+        {
+            "character": "Robbie",
+            "line": "So we're gonna have our hands full if it hap... If it happens here."
+        }
+    ]
+}

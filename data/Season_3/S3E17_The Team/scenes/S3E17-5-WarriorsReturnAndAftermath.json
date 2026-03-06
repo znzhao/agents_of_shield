@@ -1,0 +1,58 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 5,
+    "scene_name": "WarriorsReturnAndAftermath",
+    "description": "The Secret Warriors reunite and reflect on their success and how much has changed. Daisy tries to reassure Joey and Elena, but both are shaken. Meanwhile, Lincoln thanks Daisy for leading, but she notices Joey is particularly disturbed by having killed Lucio. The scene ends with talk about Malick’s capture and uncertainty about what comes next.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "joey_gutierrez",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Elevator door open. He comes out. Bullets. Boom, boom, boom! And soldiers... “Aaah!” This man!"
+        },
+        {
+            "character": "Joey",
+            "line": "Hey, I stopped the bullets, but you dropped ‘em down."
+        },
+        {
+            "character": "Daisy",
+            "line": "You guys all did so good. We were asked for a miracle, and we came through. You're a hell of a team. You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "Oh. I didn't feel it. You run fast, things happen, huh?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You sure you're all right?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Hey. Thanks for having my back when I went down. You saved me. Daisy's right. It was a good day."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, when you grab the head of HYDRA, it's a great day."
+        },
+        {
+            "character": "Joey",
+            "line": "You think he'll give us anything?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, Coulson's questioning him now. Soon, you'll get cleared to go home, but if he talks, we might be on another mission."
+        }
+    ]
+}

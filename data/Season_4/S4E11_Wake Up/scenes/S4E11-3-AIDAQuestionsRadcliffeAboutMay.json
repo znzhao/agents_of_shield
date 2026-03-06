@@ -1,0 +1,64 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "AIDAQuestionsRadcliffeAboutMay",
+    "description": "Following May's sedation, AIDA probes Radcliffe about why it is necessary to keep the original Melinda May alive, questioning the logic of maintaining her as a backup rather than just replacing her. Radcliffe insists that they are not killers, and it's only a contingency.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "dramatic",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "You found the solution, Doctor."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Mm. Well, for now, yes. Just not a permanent fix. However, as long as our May replacement at the S.H.I.E.L.D. base does her job, it doesn't have to be."
+        },
+        {
+            "character": "AIDA",
+            "line": "Question, why does it matter if the original May is dead or alive?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA?"
+        },
+        {
+            "character": "AIDA",
+            "line": "It doesn't make logical sense. We have cerebral replication. We have physical replication. No one in S.H.I.E.L.D. knows she's been replaced. What empirical difference is there?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, for one thing, the Framework is in beta testing. We need May alive for calibration..."
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes, but I..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "But, also, we're not killers. Nathanson was a drastic overadjustment."
+        },
+        {
+            "character": "AIDA",
+            "line": "But isn't it preferable to sacrifice one life to save millions?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, as a last resort, AIDA. But I hope that May won't give us any kind of problem at all, and we don't have to face sacrificing her. Our May Life Model Decoy should get us the Darkhold eventually. And if something goes wrong, then we have our safety net."
+        },
+        {
+            "character": "AIDA",
+            "line": "You're referring to the other android now in operation."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes. Our second LMD."
+        }
+    ]
+}

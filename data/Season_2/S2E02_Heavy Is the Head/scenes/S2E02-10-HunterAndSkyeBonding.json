@@ -1,0 +1,88 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "HunterAndSkyeBonding",
+    "description": "Hunter and Skye have a heartfelt conversation as they pack up Hartley's belongings. Hunter reflects on Hartley's family and their shared loss, warning Skye about the dangers of getting attached. Skye affirms her loyalty to S.H.I.E.L.D., while Hunter gives pragmatic advice about the job's impermanence. Their exchange humanizes the toll of recent losses within the team.",
+    "roles": [
+        "lance_hunter",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Izzy's sister, Jane. Her favorite person in the world. After me, of course."
+        },
+        {
+            "character": "Skye",
+            "line": "Looks like they liked each other."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, those two, when they got together, there was a lot of laughs. And bottles of wine. Izzy was good when it came to family. Which is why I'm taking this. It belonged to her mum. Died of breast cancer about five years back. Jane has it now, too."
+        },
+        {
+            "character": "Skye",
+            "line": "That's awful."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. Life can be a mean drunk that way. Never knows when to stop punching."
+        },
+        {
+            "character": "Skye",
+            "line": "How did you guys meet?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Through my psychotic ex-wife."
+        },
+        {
+            "character": "Skye",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "Those two were good friends back in the day."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm really sorry. Tough to lose people you care about."
+        },
+        {
+            "character": "Hunter",
+            "line": "Secret to that? Don't get attached."
+        },
+        {
+            "character": "Skye",
+            "line": "Tried that. Didn't work. For you, either."
+        },
+        {
+            "character": "Hunter",
+            "line": "You know, you remind me a bit of Izzy. Raw but sharp. You got skills."
+        },
+        {
+            "character": "Hunter",
+            "line": "Type that could earn you some real money in the private sector."
+        },
+        {
+            "character": "Skye",
+            "line": "As a mercenary?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, I don't think so. We prefer the term “private military contractors.” Don't knock it. Everyone needs an exit strategy eventually."
+        },
+        {
+            "character": "Skye",
+            "line": "Not me. S.H.I.E.L.D.'s my life now."
+        },
+        {
+            "character": "Hunter",
+            "line": "S.H.I.E.L.D. isn't a life. It's just a job... a means to an end. Remember that. You hear anything more about Creel, let me know."
+        }
+    ]
+}

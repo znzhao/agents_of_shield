@@ -1,0 +1,83 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 7
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker navigating her transition from a rebellious outsider with Rising Tide ties to a dedicated S.H.I.E.L.D. operative. She struggles with the organization's strict hierarchy and secrecy, especially when those barriers obscure her understanding of missions affecting her teammates' lives. Motivated by her quest to uncover her origins and prove her worth, she demonstrates strong loyalty and care for her team, often challenging bureaucratic constraints when they conflict with her ethical perspective. Her courage and technical prowess are balanced by a growing sense of responsibility and a desire for trust and inclusion within S.H.I.E.L.D., reflecting her complex journey toward belonging and self-acceptance.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "shocked",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "prove_worth_as_field_agent",
+        "goal": "To prove her worth as a capable and loyal field operative within S.H.I.E.L.D."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "gain_full_trust_and_clearance",
+        "goal": "To gain full trust and higher clearance within S.H.I.E.L.D. to participate in critical missions"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_skye_parents_mystery",
+        "goal": "To uncover the mystery surrounding her origins and the identity of the female S.H.I.E.L.D. agent connected to her past"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

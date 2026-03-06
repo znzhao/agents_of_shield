@@ -1,0 +1,37 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 7,
+    "scene_name": "QuinnPitchesCybertekToGenerals",
+    "description": "Quinn gives a tour of Cybertek's advanced cybernetic technology to military officials, promoting the soldiers as a solution for national security. The generals demand answers as gunfire erupts, and Garrett seizes control, making grandiose statements about the new world order, shocking everyone with his brutality.",
+    "roles": [
+        "ian_quinn",
+        "john_garrett",
+        "grant_ward"
+    ],
+    "vibe": "intense",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "And finally, welcome to our cybernetics subsection, where we design, manufacture, and, with this, install our most advanced system. Ladies and gentlemen, this prototype can replace the severed limb of a soldier in minutes with one 10 times stronger, fully networked to the soldier's biometrics and to his optical targeting system."
+        },
+        {
+            "character": "Jacobs",
+            "line": "If you want me to open up Uncle Sam's checkbook, I'm gonna need specifics."
+        },
+        {
+            "character": "Quinn",
+            "line": "Specifics. Specifically, I'd like to build dozens of these machines, increase the scale of our surgery wing, crank out 100 soldiers a day."
+        },
+        {
+            "character": "Jacobs",
+            "line": "To join our special ops units."
+        },
+        {
+            "character": "Quinn",
+            "line": "No, to replace them. Navy Seals, Secret Service. Now, gentlemen, we know the world's a dangerous place now. What we're offering you is... security."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 17,
+    "scene_name": "FitzEnochPlanEscape",
+    "description": "Fitz and Enoch approach Naro-Atzia. They contemplate the logistics and consequences of escape, including whether to help the other crew members find employment or stick to Fitz's original plan of returning to cryo-sleep to reunite with Jemma Simmons. Fitz decides to prioritize helping those they've put at risk, showing his evolving sense of responsibility.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "We are approaching Naro-Atzia."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is it safe for us down there?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It will be challenging to conceal that we have murdered the Controller. The crew will be labeled mutineers... a death sentence in this section of space."
+        },
+        {
+            "character": "Fitz",
+            "line": "So we'd need to sneak off the ship."
+        },
+        {
+            "character": "Enoch",
+            "line": "It is possible you and I could escape by submerging ourselves in the Xandarian snail tanks before they're unloaded. But the other crew members..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Firstly... no. But more importantly, we did this to keep them alive, so where do we take them?"
+        },
+        {
+            "character": "Enoch",
+            "line": "They could easily find employment on the planet of Kitson. We should have just enough fuel to reach it if we change course now. But what about your plan to go back into cryo-sleep and join Jemma Simmons in the future?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I've got time."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons. What did you just do?"
+        }
+    ]
+}

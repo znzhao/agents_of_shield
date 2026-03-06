@@ -1,0 +1,197 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "AndrewEvaluatesJoey",
+    "description": "At the Cocoon, Dr. Garner evaluates Joey Gutierrez, who is starting to embrace his powers. He expresses excitement about his abilities and his desire to help S.H.I.E.L.D. May arrives and abruptly removes Joey from the session, requesting privacy with Andrew, signaling her suspicion and setting up the coming confrontation.",
+    "roles": [
+        "melinda_may",
+        "andrew_garner",
+        "joey_gutierrez"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Cocoon (S.H.I.E.L.D. Inhuman training/containment facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Joey",
+            "line": "I can actually create things now."
+        },
+        {
+            "character": "Andrew",
+            "line": "And how does that make you feel?"
+        },
+        {
+            "character": "Joey",
+            "line": "Excited, you know. I have so much more control now."
+        },
+        {
+            "character": "Joey",
+            "line": "Dr. Garner?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Control. Yes. That's important."
+        },
+        {
+            "character": "Joey",
+            "line": "Daisy thinks I could be a real asset to S.H.I.E.L.D. But she said my fate is in your hands."
+        },
+        {
+            "character": "Andrew",
+            "line": "Yes, Joey. It is."
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't put your shirt on for my benefit. Heard about your HYDRA pool party. And here I was worried about you. Never liked Kebo much myself. Funny name. Locked me in a trunk. You all right?"
+        },
+        {
+            "character": "Morse",
+            "line": "Of course."
+        },
+        {
+            "character": "Hunter",
+            "line": "Good. ‘Cause taking out some of Ward's key players Brings us one step closer to finding the bastard."
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson's busy with Daisy, so now is as good a time as any."
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter, it's just... it's not a good idea."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is this about Andrew? 'Cause I thought we were past all that, now that he's all right, I mean. Okay. Did things get slightly out of control? Yes. But nothing I couldn't handle, obviously. And everything I did was to protect you. Bob, will you stop for one second?"
+        },
+        {
+            "character": "Morse",
+            "line": "I don't want either of us to go after Ward."
+        },
+        {
+            "character": "Hunter",
+            "line": "You... You're joking, right? Since when? Whatever it is, lay it on me."
+        },
+        {
+            "character": "Morse",
+            "line": "I think you've been reckless and stupid."
+        },
+        {
+            "character": "Hunter",
+            "line": "Can I take back what I just said?"
+        },
+        {
+            "character": "Morse",
+            "line": "And for what?"
+        },
+        {
+            "character": "Hunter",
+            "line": "So Ward won't lay a bloody finger on you again! That's what! Yeah, I'm stupid, because I love you!"
+        },
+        {
+            "character": "Morse",
+            "line": "I don't need a knight in shining armor, Hunter. I need you alive. I don't want to lose you."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay. You're right."
+        },
+        {
+            "character": "Morse",
+            "line": "Or lose ourselves. Become so obsessed with revenge that we... we turn into monsters just like him."
+        },
+        {
+            "character": "Price",
+            "line": "Never walked onto a flying base before. Guess I can cross that off my bucket list. So, where does the tour begin?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's actually up to Daisy. She's gonna show you around."
+        },
+        {
+            "character": "All",
+            "line": "Happy birthday, Jemma!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Happy birthday, Jemma. It's not the same without you here. Say hi to your parents for me, and I'll see you soon."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wow. Two moons. Bloody hell."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz. It's possible I'm on one of the poles, but it's strange. The stars and the two moons, they keep disappearing and reappearing. But there's no sun. There's never a sun."
+        },
+        {
+            "character": "Joey",
+            "line": "Last time you saw me, I was a wreck. Now I feel... empowered. That probably sounds stupid."
+        },
+        {
+            "character": "Andrew",
+            "line": "Sounds like you've grown to accept that this is a part of you."
+        },
+        {
+            "character": "Joey",
+            "line": "Honestly, as a construction guy, the idea that I could build in a day something that would normally take months, it's unreal."
+        },
+        {
+            "character": "Andrew",
+            "line": "Or tear something down."
+        },
+        {
+            "character": "Joey",
+            "line": "Yeah. If I have to. Just like that. Daisy's trying to put together a team of soldiers, right? To fight."
+        },
+        {
+            "character": "Andrew",
+            "line": "To fight evil."
+        },
+        {
+            "character": "Joey",
+            "line": "I could be a real weapon against it."
+        },
+        {
+            "character": "Andrew",
+            "line": "A dangerous weapon. That's what I'm worried about."
+        },
+        {
+            "character": "Agent",
+            "line": "We weren't expecting anyone to..."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, what's going on?"
+        },
+        {
+            "character": "May",
+            "line": "Take Mr. Gutierrez back to H.Q."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda, we're in the middle of a session."
+        },
+        {
+            "character": "May",
+            "line": "Not anymore! Do it now."
+        },
+        {
+            "character": "Agent",
+            "line": "Ma'am, we have protocols."
+        },
+        {
+            "character": "May",
+            "line": "Take care of them, then go. Come on."
+        },
+        {
+            "character": "Andrew",
+            "line": "What's all this about?"
+        },
+        {
+            "character": "May",
+            "line": "We need to talk, once we're alone."
+        }
+    ]
+}

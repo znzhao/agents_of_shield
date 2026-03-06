@@ -1,0 +1,51 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 16,
+    "scene_name": "CoulsonBlakeDebrief",
+    "description": "Coulson speaks with Agent Blake, who challenges his actions and disobeyed orders. Coulson asserts his changed perspective and growing independence, signaling the team's evolving defiance and unity. The conversation ends with Blake questioning Coulson's transformation, which Coulson affirms.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Blake."
+        },
+        {
+            "character": "Blake",
+            "line": "Coulson. That's the best you could come up with ... “we've got a bad connection?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was pressed for time."
+        },
+        {
+            "character": "Blake",
+            "line": "It's a bold move. You know our chat wasn't exactly private."
+        },
+        {
+            "character": "Coulson",
+            "line": "They never are."
+        },
+        {
+            "character": "Blake",
+            "line": "I don't know what happened to you in New York, if you really flatlined or if that's just what they tell us when we reach level seven, but whatever did happen doesn't give you license to disobey a direct order from H.Q. You keep pulling stunts like that, someone might decide to take this little dream team away from you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd like to see them try."
+        },
+        {
+            "character": "Blake",
+            "line": "That doesn't sound like the Phil Coulson I used to know."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I suppose it doesn't. Get used to it."
+        }
+    ]
+}

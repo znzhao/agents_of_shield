@@ -1,0 +1,77 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 3,
+    "scene_name": "MayDaisyDekeSearchForCoulson",
+    "description": "On Zephyr One, Daisy, May, and Deke debate how to find Coulson and Talbot. Daisy suggests landing and searching on foot, and Robin's drawings are referenced as their guide. Tensions rise about the mission's uncertainty. They prepare to land and split up to search.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "We're never gonna find them. We've been circling the Trident Range for hours, and there's still no sign of Coulson and whoever he's with."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's a surprise, considering we're following such a detailed map."
+        },
+        {
+            "character": "May",
+            "line": "Robin's been right about everything else."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, well, what if this doesn't happen for another month or... or a year? Would it kill her to draw a calendar?"
+        },
+        {
+            "character": "May",
+            "line": "Why don't you go ask her?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I thought that I left all this prophecy crap back in the future."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke, you're not helping. Maybe we should change tactics."
+        },
+        {
+            "character": "May",
+            "line": "What are you thinking?"
+        },
+        {
+            "character": "Daisy",
+            "line": "The cloud cover's too thick to see through anyway. We should land, canvass the area on foot, let Coulson find us."
+        },
+        {
+            "character": "May",
+            "line": "Hale's hideout could be nearby. We'd be exposed."
+        },
+        {
+            "character": "Daisy",
+            "line": "Give him a shot."
+        },
+        {
+            "character": "May",
+            "line": "If you think it's the right call."
+        },
+        {
+            "character": "Daisy",
+            "line": "Davis, find a place to set her down."
+        },
+        {
+            "character": "Davis",
+            "line": "Okay. Where'd you have in mind?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Anywhere."
+        }
+    ]
+}

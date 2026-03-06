@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 6,
+    "num": 12,
+    "scene_name": "SimmonsSacrifice",
+    "description": "After seemingly failing again, Simmons, believing time has run out, gives Coulson her final wishes and requests privacy with Fitz. As Fitz resumes work, he discovers the cure worked on the rat, but before he can catch Simmons, she opens the cargo bay door and jumps from the plane. Fitz and Ward react quickly, with Ward diving out and managing to save her mid-air by injecting her with the cure.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "thrilling",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "We'll try again. The electrostatic pulse from the third rat seemed much less, so we're making progress. If we can calibrate the antiserum..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Antiserum, yes. You finally got it right, Fitz. I'm so sorry."
+        },
+        {
+            "character": "May",
+            "line": "Agent Blake is on the line. He wants to know what's going on. If you won't answer, he asked for Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir... what are our orders?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're unchanged."
+        },
+        {
+            "character": "Skye",
+            "line": "What is that?"
+        },
+        {
+            "character": "May",
+            "line": "Someone's lowering the cargo-hold ramp."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bloody hell. Hey. It worked. The pulse just knocked the rat uncon... Jemma? Jemma! Jemma, it worked!! Please, don't! No! Jemma, don't! Jemma! Jemma!"
+        },
+        {
+            "character": "Fitz",
+            "line": "It'll be fine, Jemma. It'll be fine, Jemma. The antiserum worked, but she jumped!"
+        }
+    ]
+}

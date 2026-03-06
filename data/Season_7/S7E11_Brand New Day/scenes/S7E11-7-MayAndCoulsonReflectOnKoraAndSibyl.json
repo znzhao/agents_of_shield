@@ -1,0 +1,48 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 7,
+    "scene_name": "MayAndCoulsonReflectOnKoraAndSibyl",
+    "description": "With Daisy, Mack, and Sousa gone, May and Coulson discuss the unpredictability required to outmaneuver Sibyl. May comments on Kora’s sincerity and Coulson encourages her to push Kora further, utilizing their strengths as the remaining leaders of S.H.I.E.L.D. The scene emphasizes strategic introspection and the burden of leadership.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "First Simmons and Deke. Now Mack and Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're heading to space..."
+        },
+        {
+            "character": "May",
+            "line": "This isn't smart. I don't like it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I do. If you're trying to beat a super-computing oracle, you have to go against the flow. Shake things up. Director of S.H.I.E.L.D. going rogue..."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I've seen that happen before."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's up to us to predict her next move. What were you feeling off her... you know, aura or whatever?"
+        },
+        {
+            "character": "May",
+            "line": "She seemed sincere. Her rage was tamped down."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why don't you take a run at her, see what else comes to the surface?"
+        }
+    ]
+}

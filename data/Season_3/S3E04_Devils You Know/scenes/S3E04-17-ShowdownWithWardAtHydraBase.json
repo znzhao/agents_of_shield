@@ -1,0 +1,211 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 17,
+    "scene_name": "ShowdownWithWardAtHydraBase",
+    "description": "Hunter and May attempt to take Ward down at his new Hydra base. Ward uses a video of Dr. Garner as leverage, threatening his life unless they surrender. Hunter and May must choose between assassinating Ward or risking Andrew’s life. The tension culminates in a firefight as Ward escapes, while May is distraught over Andrew’s peril.",
+    "roles": [
+        "lance_hunter",
+        "grant_ward",
+        "melinda_may",
+        "phil_coulson",
+        "andrew_garner"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Kebo",
+            "line": "Wakey-wakey."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where are we?"
+        },
+        {
+            "character": "Kebo",
+            "line": "Welcome to where all the fun begins. Director's still mulling over a code name for the place... “Nemesis,” “Omega point.”"
+        },
+        {
+            "character": "Hunter",
+            "line": "Sounds a bit too S.H.I.E.L.D. for my liking."
+        },
+        {
+            "character": "Kebo",
+            "line": "Rumor has it the director spent some time with them."
+        },
+        {
+            "character": "Hunter",
+            "line": "You planning some sort of raid?"
+        },
+        {
+            "character": "Kebo",
+            "line": "Always planning something. You can ask the director yourself."
+        },
+        {
+            "character": "Ward",
+            "line": "So, this the new guy?"
+        },
+        {
+            "character": "Kebo",
+            "line": "Yeah. Turn around, Richy."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, Richy. Why so shy?"
+        },
+        {
+            "character": "Hunter",
+            "line": "My name isn't Richy, director."
+        },
+        {
+            "character": "Kebo",
+            "line": "Get to cover!"
+        },
+        {
+            "character": "Ward",
+            "line": "Check the perimeter. Look for S.H.I.E.L.D. reinforcements."
+        },
+        {
+            "character": "Kebo",
+            "line": "I got nothing! Not a man, not a vehicle in sight!"
+        },
+        {
+            "character": "Ward",
+            "line": "Come on, Hunter. You weren't actually dumb enough to come here all cowboy, were you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Sorry, this coming from the guy who shot his own girlfriend by mistake?"
+        },
+        {
+            "character": "Ward",
+            "line": "I was hoping you were dead and Bobbi was coming for me. At least that rematch would have been more even."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hardly. I heard it took two of you after hours of torture."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, lesson learned. Should have rigged the door with a grenade."
+        },
+        {
+            "character": "Hunter",
+            "line": "Took your bloody time."
+        },
+        {
+            "character": "May",
+            "line": "How many did you count?"
+        },
+        {
+            "character": "Hunter",
+            "line": "11, including Ward."
+        },
+        {
+            "character": "May",
+            "line": "I've taken out five."
+        },
+        {
+            "character": "Hunter",
+            "line": "Slow day?"
+        },
+        {
+            "character": "Ward",
+            "line": "May, is that you? 'Cause that would be great. I mean, I was hoping to hold out for a little while longer."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, what's your E.T.A.?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're still 20 minutes out from your position. You need to get out of there, May, right now."
+        },
+        {
+            "character": "May",
+            "line": "I'm not sure we can do that."
+        },
+        {
+            "character": "Hunter",
+            "line": "I don't care if a fleet of helicarriers flies in here. That son of a bitch is mine."
+        },
+        {
+            "character": "Ward",
+            "line": "So glad you're here, May. I was planning on heading out with a truck full of weapons that Hunter so kindly supplied. Looking to cause a little mayhem, draw S.H.I.E.L.D. out, when, instead, you came to me."
+        },
+        {
+            "character": "May",
+            "line": "You're trapped, Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. Don't interrupt. Not before you see my surprise. That's a live feed, in case you're wondering. Dr. Garner's on his way to teach a class right now, Psych 301, I believe. I've got my men on him right now."
+        },
+        {
+            "character": "Hunter",
+            "line": "He's bluffing."
+        },
+        {
+            "character": "Ward",
+            "line": "Watching him die like this isn't quite the same as, oh, let's say, holding the woman you love in your arms while she breathes her last breath. But, hey... it's the best I could do on such short notice."
+        },
+        {
+            "character": "Hunter",
+            "line": "He's trying to get in your head. The video is fake."
+        },
+        {
+            "character": "Andrew",
+            "line": "Hey, what are you doing?"
+        },
+        {
+            "character": "Strucker",
+            "line": "Hey, professor. Where you been?"
+        },
+        {
+            "character": "Ward",
+            "line": "If I don't call off my men in the next 30 seconds, Dr. Andrew Garner, the ex-Mr. May, is a dead man. All you have to do is put your weapons down, and I'll let you go."
+        },
+        {
+            "character": "May",
+            "line": "Son of a bitch. You're lying!"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not. Give you my word, May."
+        },
+        {
+            "character": "Strucker",
+            "line": "You know, you're a tough guy to track down."
+        },
+        {
+            "character": "Andrew",
+            "line": "What's going on here, Alex?"
+        },
+        {
+            "character": "Hunter",
+            "line": "He has a warehouse full of guns here that I brought him. A lot of people will die, May. May!"
+        },
+        {
+            "character": "May",
+            "line": "It's Andrew."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, what's happening? Come in. May."
+        },
+        {
+            "character": "May",
+            "line": "It's Andrew. Ward's going to kill him. You have to get to him!"
+        },
+        {
+            "character": "Kebo",
+            "line": "Come on! Come on!"
+        }
+    ]
+}

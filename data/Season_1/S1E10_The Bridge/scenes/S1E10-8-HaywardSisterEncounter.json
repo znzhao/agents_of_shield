@@ -1,0 +1,105 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 8,
+    "scene_name": "HaywardSisterEncounter",
+    "description": "Ward approaches Laura Hayward at her university campus under the pretense of being a lottery agent. Laura is immediately suspicious but makes a call to her brother as soon as Ward walks away, providing the team with a location ping for Centipede’s new base in Oakland, California. The team successfully tracks this lead remotely by eavesdropping on her call.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Laura Hayward?"
+        },
+        {
+            "character": "Laura",
+            "line": "That's me."
+        },
+        {
+            "character": "Ward",
+            "line": "Sorry to bother you, But I was hoping you could help me out."
+        },
+        {
+            "character": "Laura",
+            "line": "I hope so, too."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm looking for you brother, Brian. Have you seen him lately?"
+        },
+        {
+            "character": "Laura",
+            "line": "I'm ... I'm sorry. Who are you?"
+        },
+        {
+            "character": "Ward",
+            "line": "Ah. Dan Filch, Ohio State gaming commission. We're trying to contact Brian, tell him the good news."
+        },
+        {
+            "character": "Laura",
+            "line": "He won the lottery?"
+        },
+        {
+            "character": "Ward",
+            "line": "$50,000."
+        },
+        {
+            "character": "Laura",
+            "line": "Really?"
+        },
+        {
+            "character": "Ward",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Laura",
+            "line": "And you're looking for him? Don't you guys want to keep the money?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sure, but we have to at least try and contact the winners before the ticket expires. Your brother's does in six days, so if you know where he is..."
+        },
+        {
+            "character": "Laura",
+            "line": "I don't. Sorry. We're not close. I haven't spoken to him since he got back from Afghanistan."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, now you have a reason to... 50,000 reasons, actually. So let us know if you hear from him."
+        },
+        {
+            "character": "Laura",
+            "line": "Okay."
+        },
+        {
+            "character": "Ward",
+            "line": "Not sure why you wanted to go with the lottery story, sir. It's a tough sell."
+        },
+        {
+            "character": "Coulson",
+            "line": "Exactly. Nothing makes people more suspicious than a handsome man offering them free money. She's making the call now."
+        },
+        {
+            "character": "Laura",
+            "line": "Brian, it's me. Some guy was just waiting for me at school, said you won the lottery. I know, right? We're not that lucky."
+        },
+        {
+            "character": "Ward",
+            "line": "Is he local?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. He's in Oakland, California."
+        },
+        {
+            "character": "Mike",
+            "line": "Come in!"
+        }
+    ]
+}

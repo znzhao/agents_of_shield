@@ -1,0 +1,58 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "CoulsonMayAndYoYoSetTrapForGarrett",
+    "description": "Coulson, May, and Elena set up a trap for Garrett using customized panels designed by Fitz. Garrett teleports in and is caught off-guard by the team's strategic placement of traps. Coulson and Garrett exchange verbal barbs as Garrett is restrained, but a standoff ensues with the threat of bombs about to detonate.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez",
+        "john_garrett"
+    ],
+    "vibe": "thrilling",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Turns out I speak fax. This isn't fax."
+        },
+        {
+            "character": "May",
+            "line": "Garrett's here."
+        },
+        {
+            "character": "Elena",
+            "line": "That's down on the lowest level."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, we knew they'd be coming for us. Zoom in on that. I'll say it if no one else will. That's a Chronibomb. Enough of those strategically placed around the base, he'll be able to flatten the entire Lighthouse."
+        },
+        {
+            "character": "Elena",
+            "line": "Any progress on that gadget to contain him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack gave us a hard drive. It has specs of a device that trapped Gordon in our old timeline."
+        },
+        {
+            "character": "May",
+            "line": "I remember that room. It cost you a hand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Seemed like a big deal at the time. Now look at me. Fitz built these panels. They prevented Gordon from teleporting out. I'm working on something that might replicate that trick. I'll need your help to pull it off."
+        },
+        {
+            "character": "Elena",
+            "line": "I hope it involves punching."
+        }
+    ]
+}

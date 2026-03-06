@@ -1,0 +1,76 @@
+{
+    "season": 5,
+    "episode": 15,
+    "num": 4,
+    "scene_name": "RubyPreparesForGraduation",
+    "description": "Two years ago, Hale is now the mother of Ruby, who excels at the Hydra academy. While discussing Ruby's future and the effect of Whitehall's death on Hydra’s plans, the conversation demonstrates the generational continuity of Hydra, as well as Hale’s conflicted feelings between maternal instinct and Hydra legacy.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Good morning. Rise and seize the future."
+        },
+        {
+            "character": "Hale",
+            "line": "Poor boys could never keep up."
+        },
+        {
+            "character": "Steger",
+            "line": "No, her weaknesses are more glaring than you think."
+        },
+        {
+            "character": "Hale",
+            "line": "She doesn't look weak to me. Any idea what leadership has planned for her after graduation?"
+        },
+        {
+            "character": "Steger",
+            "line": "Oh, they have yet to decide."
+        },
+        {
+            "character": "Hale",
+            "line": "What's to decide? Whitehall designed her to lead."
+        },
+        {
+            "character": "Steger",
+            "line": "Whitehall is dead."
+        },
+        {
+            "character": "Ruby",
+            "line": "So, does he know where I'm gonna be assigned after graduation?"
+        },
+        {
+            "character": "Hale",
+            "line": "It's being discussed. He knows that you're top of the class."
+        },
+        {
+            "character": "Ruby",
+            "line": "Runs in the family. You don't think they're gonna stick me somewhere boring like Air Force, do you?"
+        },
+        {
+            "character": "Hale",
+            "line": "Hey, hold on. I happen to think that Air Force is very good placement. You get to see combat, flight training. You could even become an astronaut. That's why I joined."
+        },
+        {
+            "character": "Ruby",
+            "line": "An astronaut? Why didn't you ever tell me? That would have been so cool. You would have been like ten times cooler."
+        },
+        {
+            "character": "Hale",
+            "line": "Maybe. But I wouldn't have had you."
+        },
+        {
+            "character": "Ruby",
+            "line": "Let me guess. Your country calls?"
+        },
+        {
+            "character": "Hale",
+            "line": "Sorry, sweetie."
+        }
+    ]
+}

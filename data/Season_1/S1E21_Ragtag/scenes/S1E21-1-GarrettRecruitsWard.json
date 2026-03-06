@@ -1,0 +1,48 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 1,
+    "scene_name": "GarrettRecruitsWard",
+    "description": "John Garrett arrives at a juvenile detention facility to confront a young Grant Ward, who is facing charges for arson and attempted murder. Garrett presents Ward with an ultimatum: remain in detention or join him in a secretive organization. After some skepticism, Ward accepts, and a breakout ensues, marking the beginning of their complex mentor-mentee relationship.",
+    "roles": [
+        "john_garrett",
+        "grant_ward"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "Grant Ward? My name's John Garrett. The quartermaster at your military school's an old Buddy of mine. He told me about a pissed-off young cadet with off-the-chart eye-hand coordination who went awol, stole a car, drove over a thousand miles home only to try and burn the place down. I must say, I find a young man like that intriguing. I'm curious. Did you know your brother was in the house when you set it on fire?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, sir, I did not."
+        },
+        {
+            "character": "Garrett",
+            "line": "I was a pyro as a kid, too. Ended up making a pretty good living at it. I'm here to make you a one-time offer, so listen up. Your family's lawyer's gonna be here in about 20 minutes. Not only are your folks pressing charges against you for arson and attempted murder, but your older brother's petitioning the court to have you tried as an adult. Now, you can spend the next few years locked up in a cage, blaming mommy and daddy and mean older brother for your problems, or... you can let me get you out of here and teach you how to be a man. I work for a secret organization that's always looking to recruit young men like you."
+        },
+        {
+            "character": "Ward",
+            "line": "And why should I trust you?"
+        },
+        {
+            "character": "Garrett",
+            "line": "You shouldn't. Don't trust anybody, ever, especially me. Let me be clear, going with me will be the hardest thing you've ever done. But on the other hand, no one will ever screw with you again. Say yes. It'll be hard but fun. 10 seconds, and I walk out that door. Say yes."
+        },
+        {
+            "character": "Ward",
+            "line": "Yes."
+        },
+        {
+            "character": "Man",
+            "line": "Everybody down! On the ground! Nobody move!"
+        },
+        {
+            "character": "Garrett",
+            "line": "I told you it was gonna be fun."
+        }
+    ]
+}

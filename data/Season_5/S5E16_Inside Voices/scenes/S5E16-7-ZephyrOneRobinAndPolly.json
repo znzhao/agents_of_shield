@@ -1,0 +1,38 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 7,
+    "scene_name": "ZephyrOneRobinAndPolly",
+    "description": "On Zephyr One, Daisy and May bring Polly and Robin aboard. Daisy tries to reach out to Robin for help in finding Coulson while Polly confides in Daisy about Robin's declining condition. The atmosphere is heavy with concern for Robin’s health and the pressure of the mission.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "deke_shaw",
+        "robin_hinton"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "Watch your heads. Just try to get comfortable, and we'll take off in a few minutes."
+        },
+        {
+            "character": "Polly",
+            "line": "It's nice to see Mr. Fitz got you all back."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's good to see you guys, too. I-I'm... I'm sorry to take you out of hiding. I wouldn't have done it if it wasn't really important. Hi, Robin."
+        },
+        {
+            "character": "Polly",
+            "line": "Let's get you into a seat, honey. She hasn't been doing well for a couple weeks. She isn't speaking to me. She isn't drawing pictures. I don't know what she's seeing. Whatever it is, it's overwhelming her."
+        },
+        {
+            "character": "Daisy",
+            "line": "I understand that feeling. Maybe I can find out what's on her mind."
+        }
+    ]
+}

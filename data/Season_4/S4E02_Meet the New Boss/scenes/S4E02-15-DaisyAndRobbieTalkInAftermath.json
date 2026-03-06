@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 15,
+    "scene_name": "DaisyAndRobbieTalkInAftermath",
+    "description": "In the closing moments, Daisy and Robbie cross paths again after the night’s chaotic events. Robbie reveals that he may be at the center of the recent supernatural occurrences, hinting at a deeper connection between himself, the ghosts, and the dark events surrounding them. Their conversation cements their uneasy alliance moving forward.",
+    "roles": [
+        "robbie_reyes",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Come on, come on, come on, come on. Come on!"
+        },
+        {
+            "character": "Robbie",
+            "line": "Your friends with you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I left them."
+        },
+        {
+            "character": "Robbie",
+            "line": "Good. You want to know what's connecting these things."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        },
+        {
+            "character": "Robbie",
+            "line": "I think it might be me."
+        }
+    ]
+}

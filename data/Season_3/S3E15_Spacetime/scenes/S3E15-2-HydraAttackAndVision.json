@@ -1,0 +1,55 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 2,
+    "scene_name": "HydraAttackAndVision",
+    "description": "On site in Brooklyn, the SHIELD team attempts to protect Edwin and Charles, but Hydra arrives by plane. Despite Daisy's assistance, Edwin is killed as predicted and Hydra captures Charles. After Daisy touches Charles, she suddenly receives a harrowing vision of the future, seeing glimpses of coming tragedies including Lincoln bloodied and herself under threat.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "lincoln"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Charles",
+            "line": "I was hoping you could help."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. Hey, hey. You all right?"
+        },
+        {
+            "character": "Linconln",
+            "line": "Daisy, talk to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Breathe."
+        },
+        {
+            "character": "May",
+            "line": "We need medical!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. I'm sorry. We lost one."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. No, no, no."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What's wrong? What is it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It hasn't happened yet."
+        }
+    ]
+}

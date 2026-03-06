@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 8,
+    "scene_name": "CrashLandingAndContainment",
+    "description": "May manages to land the Bus safely, redirecting power to keep Hannah shielded while Coulson coordinates repairs. Fitz is separated from the group and locked in a closet, while the others search for him and work to restore the plane. Tensions remain high as Simmons claims she saw a ghostly man, escalating the supernatural threat. Skye requests to comfort Hannah, worried about her emotional state.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Our ear comms are usually relayed through the plane, so here's some hardware."
+        },
+        {
+            "character": "Ward",
+            "line": "Did the girl do this to us, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We believe miss Hutchins is the victim here. Our theories about her powers have been disproved."
+        },
+        {
+            "character": "Ward",
+            "line": "By who?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I saw a ghost. I... I know how it sounds, but a man attacked me, and then he disappeared."
+        },
+        {
+            "character": "May",
+            "line": "Did you get a good look at him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He dematerialized!"
+        },
+        {
+            "character": "Coulson",
+            "line": "May, run your systems checks. Is the cage still shielded?"
+        },
+        {
+            "character": "May",
+            "line": "Most of the power dedicated to it."
+        },
+        {
+            "character": "Coulson",
+            "line": "This man or whatever he is has been tormenting miss Hutchins. The Cage might be the one thing protecting her now. We'll inform her."
+        },
+        {
+            "character": "Skye",
+            "line": "Sir, can it be me to talk to Hannah? Her life has been turned upside down, and we stuck her in a nightmare box. She thinks she's being punished. Can I please be the one to deliver the good news?"
+        },
+        {
+            "character": "Ward",
+            "line": "That a non-corporeal madman is hunting her?"
+        },
+        {
+            "character": "Skye",
+            "line": "Again, I think it'd be better coming from anyone else, really."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. I'll head upstairs, activate the emergency transceiver, and radio H.Q. Ward, take a firearm. Escort Fitz-Simmons downstairs, assess the damage, get us up and running."
+        },
+        {
+            "character": "Simmons",
+            "line": "Wait. Guys, um... where's Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hello? Can anybody hear me? What the hell's happening? Did we crash? Who was screaming? This is not funny, Jemma, if this is a prank. This is a prank. Clever. Simmons? Come on. Turn on the lights."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank god. Where have you been?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I have been locked in a closet freaking out, thanks to you two geniuses."
+        },
+        {
+            "character": "Simmons",
+            "line": "That wasn't us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, then, who was it?"
+        },
+        {
+            "character": "Ward",
+            "line": "We found Fitz."
+        },
+        {
+            "character": "May",
+            "line": "Good, we'll need him. Looks like the main problem is in avionics bay two. But he took out all our systems."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who's she talking about?"
+        },
+        {
+            "character": "May",
+            "line": "Grab your equipment and get in there. I'm going to power down flight controls to conserve energy and then go defend the cage door in case this ghost comes knocking."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did she just say “ghost?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mayday, mayday, mayday. Region North, this is S.H.I.E.L.D. 616. We've lost electrical and are grounded. Calculating coordinates, requesting supp... 1990s technology at its best."
+        }
+    ]
+}

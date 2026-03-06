@@ -1,0 +1,36 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 6,
+    "scene_name": "WardAndAgent33EmotionalTension",
+    "description": "Back at their hideout, Agent 33 tests her repaired mask, cycling through facial scans and trying to connect with Ward by imitating Skye. Ward, however, rejects her advances, making clear his emotional state. They turn their focus to tracking down Sunil Bakshi, their next target.",
+    "roles": [
+        "grant_ward",
+        "sunil_bakshi"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "So... Everything all right?"
+        },
+        {
+            "character": "Ward",
+            "line": "Why don't you let me take care of that?"
+        },
+        {
+            "character": "Ward",
+            "line": "Pick up another surprise for you."
+        },
+        {
+            "character": "Ward",
+            "line": "It was important he not talk. Now it's time for the next phase."
+        },
+        {
+            "character": "Ward",
+            "line": "That's not why I'm doing this. Just be patient. I'll be back in a couple of hours."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 12,
+    "scene_name": "ZephyrArrivesAndTeamPreparesExperiment",
+    "description": "Bobbi, Coulson, Daisy, Fitz, and Mack gather in the castle as the Zephyr One brings the monolith. The team debates the risks of activating the ancient machine. Daisy shares that Andrew labeled her approach as reckless, while Fitz and Bobbi prepare the room for a test. The pressure rises as Fitz attempts to open the portal in hopes of communicating through it, with Mack and Bobbi providing technical support.",
+    "roles": [
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "skye",
+        "phil_coulson",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Zephyr One, you're clear to retract."
+        },
+        {
+            "character": "Mack",
+            "line": "Wow. Room full of ancient gack. Kind of reminds me of your office, director."
+        },
+        {
+            "character": "Daisy",
+            "line": "Realistically, what are the odds of this thing working?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If we were realistic, we never would have gotten this far."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, Andrew Garner thinks I need to be more so. He recommended three months observation and counseling before reassessment for Joey. Says I'm reckless."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't take it personally. He probably just meant that..."
+        },
+        {
+            "character": "Daisy",
+            "line": "He said you're desperate."
+        },
+        {
+            "character": "Coulson",
+            "line": "What? He didn't say that. Did he say that?"
+        },
+        {
+            "character": "Morse",
+            "line": "Let me guess. I'm struggling to come to terms with physical limitations and losing my sense of self instead of redefining it."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, he didn't mention you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, he did. That's what he said."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, good."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        }
+    ]
+}

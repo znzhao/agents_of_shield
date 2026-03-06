@@ -1,0 +1,71 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 21,
+    "scene_name": "InhumansAttackTheIliad",
+    "description": "On The Iliad, Inhumans led by Gordon and Alisha teleport aboard and begin silently dispatching S.H.I.E.L.D. agents. Mack attempts to defend the ship and discovers Skye unconscious in their custody. Alisha splits her attention to secure key areas. Weaver realizes the carrier is under coordinated attack and urgently tries to reach Coulson for backup.",
+    "roles": [
+        "gordon",
+        "alphonso_mackenzie",
+        "skye",
+        "robert_gonzales",
+        "lincoln"
+    ],
+    "vibe": "action-packed",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Gordon",
+            "line": "Weapons down or everybody dies."
+        },
+        {
+            "character": "Mack",
+            "line": "What did you do with Skye?"
+        },
+        {
+            "character": "Alisha",
+            "line": "Follow me, and I'll show you."
+        },
+        {
+            "character": "Mack",
+            "line": "I can't wait to get off this boat."
+        },
+        {
+            "character": "Alisha",
+            "line": "Hangar deck's ours. I'm headed down to secure the armory. I'm also upstairs in the conference room."
+        },
+        {
+            "character": "Oliver",
+            "line": "Comms are down. Engines are down. They've shorted out most of the electrical on the ship. They've taken both reactor compartments, the crew quarters, as well as the hangar deck."
+        },
+        {
+            "character": "Weaver",
+            "line": "Good god. Get me a secure channel to Coulson at H.Q. We need to warn him."
+        },
+        {
+            "character": "Man",
+            "line": "Copy that."
+        },
+        {
+            "character": "Weaver",
+            "line": "Do we have anybody left still fighting below?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Director Coulson, we are under attack from an unknown number of gifted assailants. They have killed dozens of my men. We need your help. I'm sending our..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, run! Run!"
+        },
+        {
+            "character": "Cal",
+            "line": "Yes, let's all run!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Now it's just you and me. And we're gonna talk."
+        }
+    ]
+}

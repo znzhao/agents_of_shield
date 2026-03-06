@@ -1,0 +1,265 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 4,
+    "scene_name": "DaisyAndRobbieSearchForGabe",
+    "description": "In Los Angeles, Daisy and Robbie drive through the blackout, discussing Robbie's mysterious past, his uncle Elias Morrow, and what happened at Momentum Energy Lab. Robbie is worried about his brother Gabe, who is stranded due to the blackout. The pair navigate the darkened city, seeking Gabe, while Daisy questions Robbie about his 'deal' and the source of his powers.",
+    "roles": [
+        "skye",
+        "robbie_reyes",
+        "gabe_reyes"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "I'm searching the encyclopedia for the acronym references."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Right. Take the red cables and the green cables. Put them into the back of the black box and push all the little buttons! Sorry if I'm being a snappy cat. I've just been caught a little bit unprepared, that's all. They say Agent May is very ill. And it doesn't look good."
+        },
+        {
+            "character": "AIDA",
+            "line": "Define “snappy cat.”"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's... not worth defining. You should probably never use that. I should probably never use that."
+        },
+        {
+            "character": "AIDA",
+            "line": "Done."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Unfortunately, that means I'm gonna have to put you to sleep."
+        },
+        {
+            "character": "AIDA",
+            "line": "I understand."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You've been so helpful. I really hate to do this but you're not quite ready for what's coming. S.H.I.E.L.D. are on their way. I'll do all I can to help. I hope I can. Perhaps then we won't have to hide you away."
+        },
+        {
+            "character": "AIDA",
+            "line": "They're here."
+        },
+        {
+            "character": "May",
+            "line": "Stay away from me!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Hold her down."
+        },
+        {
+            "character": "May",
+            "line": "No! I know what you are! Get away from me!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Hold her down."
+        },
+        {
+            "character": "May",
+            "line": "Let go of me! Get away!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Have you determined whether it's chemical, biological?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We've eliminated every probable cause, unless you want to consider Mack's theory."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Which is?"
+        },
+        {
+            "character": "Simmons",
+            "line": "She was touched by a ghost."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "A ghost?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it was definitely something of an incorporeal nature. When you eliminate the improbable..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Then we've got to consider the impossible."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm thinking if we use the transcranial head apparatus you recently developed, maybe we could find some sort of..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, with both our big brains examining hers, I'm sure we'll find a solution. Any idea how much time we have?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Based on the other cases we've observed, I'd say... less than six hours until certain death."
+        },
+        {
+            "character": "Nadeer",
+            "line": "It was only a matter of time before this happened. We can no longer pretend like the Inhuman threat doesn't exist. Each and every one of them is a lethal weapon, and now those weapons are aimed directly at us. Make no mistake. This is an act of war. Unless we take a stand and fight back now while we can, we will be complicit in our own extinction."
+        },
+        {
+            "character": "Coulson",
+            "line": "She may as well start handing out the pitchforks and torches. Four cities blacked out in five hours. London, Los Angeles, Moscow, and Miami. You know what they have in common?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we relocated Inhumans to all of them, but do you think this is for real? They're organizing an uprising?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Doesn't look good, but it also doesn't feel right."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoever it is, we'll flush them out when we turn Miami back on. They're definitely using EMP devices. The blackout zone encompasses the same amount of area in all four cities. Now, the effect is randomly dispersed, making it difficult to pinpoint the source, but I have everything I need right here to locate it, to disable it, and trace..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trace it back to whoever's responsible."
+        },
+        {
+            "character": "Fitz",
+            "line": "Exactly. So it should be quick and easy."
+        },
+        {
+            "character": "Mack",
+            "line": "It better be. It's getting bad out there."
+        },
+        {
+            "character": "Man",
+            "line": "Whoa! Ooh!"
+        },
+        {
+            "character": "Robbie",
+            "line": "Every other vehicle's dead."
+        },
+        {
+            "character": "Daisy",
+            "line": "Phone's dead, too. We're lucky this car's pre-1980, no electronics. The Inhumans would never do this."
+        },
+        {
+            "character": "Robbie",
+            "line": "Isn't that what you are? It only takes one to start a revolution."
+        },
+        {
+            "character": "Daisy",
+            "line": "Calm down before you go all Carrot Top again."
+        },
+        {
+            "character": "Robbie",
+            "line": "Stress has nothing to do with it."
+        },
+        {
+            "character": "Daisy",
+            "line": "What exactly is “it?” Because I still don't buy the whole “sold my soul” story."
+        },
+        {
+            "character": "Robbie",
+            "line": "Well, I don't give a damn what you buy. I'm the one stuck with it."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you want to get rid of it."
+        },
+        {
+            "character": "Robbie",
+            "line": "I thought that if I settled the score, took down the gangbangers that put Gabe in a wheelchair, it would go away. Didn't happen. So I started settling other people's scores."
+        },
+        {
+            "character": "Daisy",
+            "line": "The X's on the mural."
+        },
+        {
+            "character": "Robbie",
+            "line": "That didn't work, either. I figured if I settled my uncle's score..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Your uncle? Don't think he was the victim in that situation."
+        },
+        {
+            "character": "Robbie",
+            "line": "He always said the guy he beat up was the real criminal."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you think that if you right whatever wrong your uncle was trying to fix that you can get rid of... it."
+        },
+        {
+            "character": "Robbie",
+            "line": "Or else I have to ride with it forever."
+        },
+        {
+            "character": "Daisy",
+            "line": "I wouldn't touch it if I were you. Owner's a bit of a hothead."
+        },
+        {
+            "character": "Robbie",
+            "line": "Hey, hands off."
+        },
+        {
+            "character": "Daisy",
+            "line": "She runs a little hot."
+        },
+        {
+            "character": "Daisy",
+            "line": "Was... Was that “it?”"
+        },
+        {
+            "character": "Robbie",
+            "line": "No. That was me. You good?"
+        },
+        {
+            "character": "Gabe",
+            "line": "Still standing. You?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Sunshine and rainbows."
+        },
+        {
+            "character": "Daisy",
+            "line": "You must be Gabe."
+        },
+        {
+            "character": "Robbie",
+            "line": "Gabe, this is Daisy. Come on. Let's get you home before it gets dark."
+        },
+        {
+            "character": "Elena",
+            "line": "I think we should stay here. Sammy wouldn't want you going outside, and the power will be back on soon."
+        },
+        {
+            "character": "Maria",
+            "line": "I'm not waiting."
+        },
+        {
+            "character": "Briggs",
+            "line": "Everybody get back! Stay calm and no one will get hurt."
+        },
+        {
+            "character": "Man",
+            "line": "Take it, and I'll be on my way. Just... I'll be on m..."
+        },
+        {
+            "character": "Briggs",
+            "line": "We're not here for your money. We're here for the Inhuman."
+        }
+    ]
+}

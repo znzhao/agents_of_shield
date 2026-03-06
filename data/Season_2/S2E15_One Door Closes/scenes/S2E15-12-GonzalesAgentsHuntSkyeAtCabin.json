@@ -1,0 +1,50 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 12,
+    "scene_name": "GonzalesAgentsHuntSkyeAtCabin",
+    "description": "In the present, Gonzales' agents trace Skye's location to 'the house that Banner built.' While Bobbi and Calderon prepare to neutralize what they perceive as a threat, May warns Skye via radio and instructs her to escape by opening the laser grid panel. Skye flees as the agents begin their approach.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "bobbi_morse",
+        "robert_gonzales"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "That's a really nice entrance."
+        },
+        {
+            "character": "May",
+            "line": "This should get you by for a few days."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "May",
+            "line": "You have to go, now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz-Simmons."
+        },
+        {
+            "character": "May",
+            "line": "I'll take care of them. Without you, there is no S.H.I.E.L.D. They know about Skye, Phil. Find her."
+        },
+        {
+            "character": "Weaver",
+            "line": "Agent May."
+        },
+        {
+            "character": "Calderon",
+            "line": "Weaver ever tell you what happened to her at the academy that day? Hydra released an enhanced on them, found Weaver fighting to protect the ones that were left behind. She was actually going toe-to-toe with that monster."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 15,
+    "scene_name": "SkyeAndFitzInterrogationFinale",
+    "description": "The episode ends at the Triskelion with Skye in Hydra custody, where Radcliffe begs for mercy elsewhere. Fitz coldly interrogates Skye, revealing her test results and hinting at her Inhuman status. Despite Skye’s attempts to reach the true Fitz, he remains remorseless, declaring that she does not know him at all. The scene ends on a dark note, solidifying Fitz’s transformation under Madame Hydra’s influence and raising the stakes for the team's next attempts to escape the Framework.",
+    "roles": [
+        "skye",
+        "leo_fitz",
+        "holden_radcliffe"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I take it all back! I'm sorry! I can beg! I'm good at begging! Just tell me what to say! Please!"
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz. Hear me out. You and me. We know each other. We're friends. I can explain all of this."
+        },
+        {
+            "character": "Doctor",
+            "line": "How curious. Someone else tried that today. Maybe you heard him just now, learning his lesson. Hoo. So, I re-ran your test results. Guess who turned out to be a potential Inhuman. Go on. Guess. Ah, well. No matter. We've got plenty of ways of making you talk."
+        },
+        {
+            "character": "Skye",
+            "line": "No, Fitz. You don't want to do this."
+        },
+        {
+            "character": "Doctor",
+            "line": "Yeah, I do."
+        },
+        {
+            "character": "Doctor",
+            "line": "I guess you don't know me at all."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 17,
+    "scene_name": "SkyeAndWardBondOnTheBus",
+    "description": "Back aboard the S.H.I.E.L.D. Bus, Skye and Ward share a quiet moment reflecting on troubled childhoods and their search for belonging. Skye opens up about her foster care memories, expressing her deep desire to be part of the team and grow as an agent. Ward reassures her, and Skye makes a joke about the truth serum, showing her continued growth and budding loyalty to S.H.I.E.L.D.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "You and your brothers... where'd you grow up?"
+        },
+        {
+            "character": "Ward",
+            "line": "Massachusetts, mostly."
+        },
+        {
+            "character": "Skye",
+            "line": "A house?"
+        },
+        {
+            "character": "Ward",
+            "line": "You didn't?"
+        },
+        {
+            "character": "Skye",
+            "line": "One house. The Brodys. I was 9. Sent me back to St. Agnes after a month. Said I wasn't a good fit."
+        },
+        {
+            "character": "Ward",
+            "line": "Foster parents. Your first?"
+        },
+        {
+            "character": "Skye",
+            "line": "My third. I had heard it before, but... this one was different."
+        },
+        {
+            "character": "Ward",
+            "line": "‘Cause you wanted them to like you."
+        },
+        {
+            "character": "Skye",
+            "line": "Bad. I called her “mom” once... tried it out. Guess it wasn't a good fit. Hoping for something and losing it hurts more than never hoping for anything."
+        },
+        {
+            "character": "Ward",
+            "line": "We won't turn our back."
+        },
+        {
+            "character": "Skye",
+            "line": "Doesn't matter. I made my choice. I want this. Bad. And I know there's a truth serum."
+        },
+        {
+            "character": "Ward",
+            "line": "Whatever you say, rookie."
+        }
+    ]
+}

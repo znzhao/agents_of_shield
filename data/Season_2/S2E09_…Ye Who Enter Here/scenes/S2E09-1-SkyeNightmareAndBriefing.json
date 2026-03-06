@@ -1,0 +1,271 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 1,
+    "scene_name": "SkyeNightmareAndBriefing",
+    "description": "Skye has a vivid nightmare involving Coulson and May, only to be woken up by Coulson. The team regroups at the Playground, discussing what they know about the Obelisk, the mysterious city, and the potential threat from HYDRA. Fitz and Mack joke while working on a project, Simmons tends to Triplett, and Coulson reveals the city's location in Puerto Rico. Skye expresses unease about the mission and recent events, including her father and Ward.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "antoine_triplett",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hello?! Coulson! Coulson! Where'd everybody go?! Where'd everybody go? Coulson! That sound... What is that? Coulson. What are you doing? We have a mission to prep for."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is the mission. It opens. So weird, right?"
+        },
+        {
+            "character": "Skye",
+            "line": "N-No!"
+        },
+        {
+            "character": "May",
+            "line": "Sacrifices have to be made. Poison tree, poison fruit."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. Bye-bye, angel eyes."
+        },
+        {
+            "character": "Skye",
+            "line": "No. Wait. Wait! Don't leave her! Coulson. May! Wait! Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, wake up. Sorry I startled you. You okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "Hi. Yeah. I just dozed off."
+        },
+        {
+            "character": "Coulson",
+            "line": "Grab your things. We're back."
+        },
+        {
+            "character": "Mack",
+            "line": "Look out! There we go. Coming through, coming through. Watch out, watch out. Coming through, coming through. Hey, hey, take it easy with that. I made that for Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wow. Hey, you know, if you're looking for vacation time, bribery will get you nowhere, ‘cause I've tried."
+        },
+        {
+            "character": "Mack",
+            "line": "No, I'm hoping he'll let me work on the real thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "Brilliant. And so how do you get it to fly?"
+        },
+        {
+            "character": "Mack",
+            "line": "It doesn't. Aww."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? Something wrong?"
+        },
+        {
+            "character": "Mack",
+            "line": "Storm's coming."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, weather's fine, actually. There's not a cloud in the sky. I checked."
+        },
+        {
+            "character": "Mack",
+            "line": "No, never mind. Were you looking for me?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Actually, um, the... Actually, I need to go to the plane."
+        },
+        {
+            "character": "Mack",
+            "line": "What, you need help with the holographic towers?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no, no, no."
+        },
+        {
+            "character": "Mack",
+            "line": "The descender rig? What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, Simmons. Have to... I have to give her a case, and then..."
+        },
+        {
+            "character": "Mack",
+            "line": "You know at some point you're gonna have to talk to her, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Good luck with the car."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey..."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're very lucky, Trip. If they hadn't used that clotting agent on your wounds... Well, let's just say I'm glad they did. I recommend a week of solid bed rest."
+        },
+        {
+            "character": "Triplett",
+            "line": "Bed rest? Where's that in the S.H.I.E.L.D. handbook?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Whoa, stop it! You're going to rupture your sutures."
+        },
+        {
+            "character": "Triplett",
+            "line": "I won't be high-fiving anybody for awhile, but I'm okay, Jemma. There was a doctor in the house, remember?"
+        },
+        {
+            "character": "Simmons",
+            "line": "So, what was he like?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Skye's dad? Yes. That man was out of his damn mi... Hey. Hi, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, yourself. Mission prep in five, cargo hold."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right. Roger that."
+        },
+        {
+            "character": "Skye",
+            "line": "Talking about my dad?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry. It must be so..."
+        },
+        {
+            "character": "Skye",
+            "line": "Messed up?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I was going to use the off-color version of “messed up,” but it felt inappropriate."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, it's appropriate. My dad, Ward, the Obelisk, the city... it's all messed up. And... I just... I can't shake this vibe that something really bad is about to happen."
+        },
+        {
+            "character": "Triplett",
+            "line": "You mean like someone getting shot? Yeah, I got that covered already, so you can lose that vibe. We're good."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's right. Yeah. Nothing but positive thoughts from here on out. That's not wood, is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Here's what we know. HYDRA's on the move. They have the Obelisk and an expert who knows how to use it. We can't let that happen, obviously."
+        },
+        {
+            "character": "Hunter",
+            "line": "Use it how?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Based on our latest intel, there's something very powerful inside it... a weapon."
+        },
+        {
+            "character": "Mack",
+            "line": "Are we talking chemical, biological, energy-based?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Could be anything. It's alien."
+        },
+        {
+            "character": "Morse",
+            "line": "While Simmons and I were undercover at HYDRA, Whitehall was looking to create an extinction-level event to kill millions of people. We have to assume that this weapon has the potential to do that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because bad guys love their WMDs. Trick is, to activate the Obelisk, HYDRA has to take it to specific place. It's like they have the keys to launch a nuclear warhead..."
+        },
+        {
+            "character": "Skye",
+            "line": "Now they need the lock, a temple inside the city."
+        },
+        {
+            "character": "Simmons",
+            "line": "Any idea where this temple is?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Glad you asked. No. But it's in the city, and we now know where that is. Even better, HYDRA doesn't. Fitz?"
+        },
+        {
+            "character": "Skye",
+            "line": "On our mission to Australia, we hacked a military satellite network. Using that, we ran a multispectral topographic scan of the Earth, miles deep through the oceanic crust, looking to match ancient rock formations with the 3-D model of the city. And we found this."
+        },
+        {
+            "character": "Triplett",
+            "line": "Isn't that in the Bermuda triangle? ‘Cause that would explain a lot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, it doesn't have anything to do with the triangle. We solved that back in the ‘80s."
+        },
+        {
+            "character": "Triplett",
+            "line": "Uh, Atlantis?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Try Puerto Rico."
+        },
+        {
+            "character": "Skye",
+            "line": "These white markers represent vertical air shafts that are close to the surface, possible entry points for the city, but most of them are under the ocean floor."
+        },
+        {
+            "character": "Coulson",
+            "line": "Except for one... here, in old San Juan, where we'll enter the underground city. A survey team will test the tunnel's structural integrity, then locate the temple."
+        },
+        {
+            "character": "Simmons",
+            "line": "And then what, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We blow the hell out of it."
+        },
+        {
+            "character": "Morse",
+            "line": "What about the Obelisk? It's still dangerous all on its own."
+        },
+        {
+            "character": "Coulson",
+            "line": "One crisis at a time."
+        }
+    ]
+}

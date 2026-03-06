@@ -1,0 +1,100 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 2,
+    "scene_name": "SimmonsAndTriplettAtTheHub",
+    "description": "At the Hub, Simmons and Triplett discuss the tense atmosphere as S.H.I.E.L.D. activates for an unknown operation. Triplett presses Simmons about the secret research, and they work to securely contact Agent Weaver. Simmons is nervous about the need for such secrecy and her ability to lie under pressure, but Triplett offers to help and keep their activity hidden from the meddling Agent Hand.",
+    "roles": [
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "mysterious",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Agent Simmons. I was wondering where you snuck off to. You busy?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, but that's okay."
+        },
+        {
+            "character": "Triplett",
+            "line": "It's noisy here today. A lot of guys in action mode."
+        },
+        {
+            "character": "Simmons",
+            "line": "I asked around. Guess it's a level eight operation of some sort."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was surprised to have this room to myself."
+        },
+        {
+            "character": "Triplett",
+            "line": "So, what are you working on? Wow. Coulson's team is awfully secretive, even for this organization. Are you hiding something, agent?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. It's just nothing important."
+        },
+        {
+            "character": "Triplett",
+            "line": "I hope not. Because I remember us tracking down a drug that brought a girl back from the brink, and that was real important."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. I know."
+        },
+        {
+            "character": "Triplett",
+            "line": "Come to think of it, I don't remember seeing it in the dispatches, or you mentioning it when Agent Blake got his ribs caved in."
+        },
+        {
+            "character": "Simmons",
+            "line": "I wasn't in a positi..."
+        },
+        {
+            "character": "Triplett",
+            "line": "‘Cause if you had the means and you didn't use them, that blood is all over your hands, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. I'm trying. Look. Men died to keep this secret. We don't understand why, so we wanted to keep our research in-house for safety."
+        },
+        {
+            "character": "Triplett",
+            "line": "Research?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's hit a dead end. I'm uploading Skye's blood scans. I would like to contact Agent Weaver at S.H.I.E.L.D. academy covertly."
+        },
+        {
+            "character": "Triplett",
+            "line": "For a little help."
+        },
+        {
+            "character": "Simmons",
+            "line": "But we must keep this between us. Please, I don't want any... trouble."
+        },
+        {
+            "character": "Triplett",
+            "line": "You're level five? My level-six clearance gives me access to the holobox... secure line."
+        },
+        {
+            "character": "Simmons",
+            "line": "But we can't sneak that in here, can we?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Agent Hand seems to be keeping everyone busy. We'll be good. But, hey, we get questioned, let me talk. You're a surprisingly bad liar, Agent Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. But I'm getting better at it."
+        }
+    ]
+}

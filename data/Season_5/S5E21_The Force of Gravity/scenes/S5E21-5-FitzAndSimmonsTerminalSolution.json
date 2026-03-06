@@ -1,0 +1,20 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 5,
+    "scene_name": "FitzAndSimmonsTerminalSolution",
+    "description": "Fitz and Simmons discuss the worsening situation with Talbot and explore possible solutions involving the Centipede Serum and Odium. They realize their options are diminishing as Talbot's danger escalates, acknowledging that a terminal, possibly lethal, approach may be necessary. The conversation reveals the gravity of their predicament.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I don't see a way to reverse the effects of the gravitonium on his system or even neutralise it. How are you doing? Give me some good news."
+        }
+    ]
+}

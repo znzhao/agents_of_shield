@@ -1,0 +1,104 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 16,
+    "scene_name": "PortalClimaxAndWardDeath",
+    "description": "The portal opens. Fitz, realizing Will is actually the entity, fights him off and raises the alarm as ‘Will’ tries to reach the portal. Coulson and Ward arrive, with Coulson shooting at Will to save Fitz. In their final confrontation, Coulson pins Ward and, fueled by the pain of the entire ordeal, finally kills him with his prosthetic hand as Fitz incapacitates ‘Will’ with a flare. The survivors race for the closing portal as Mack gives the order to destroy the castle. The Zephyr One crew is poised to fire as the fate of their teammates hangs in the balance.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Listen up. All weapons systems online, then take her up to 20,000 feet."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, ma'am."
+        },
+        {
+            "character": "May",
+            "line": "Bobbi."
+        },
+        {
+            "character": "Morse",
+            "line": "Looks like HYDRA's inside the castle. They're gonna make it, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Tell me that was you."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's just them getting closer."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, tremors, let's hope this works."
+        },
+        {
+            "character": "Daisy",
+            "line": "Forgot about this part."
+        },
+        {
+            "character": "Mack",
+            "line": "Get out of here. I can handle everything."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not leaving. I'll be fine. Did you see that?"
+        },
+        {
+            "character": "Mack",
+            "line": "One minute left. We don't have much time. You may have to hold this thing open."
+        },
+        {
+            "character": "Daisy",
+            "line": "In case you-know-what shows up instead of our peeps."
+        },
+        {
+            "character": "Mack",
+            "line": "Anything other than our people comes out, we give May the high sign and blow it to hell. Same if HYDRA gets in here."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's open. There's the portal."
+        },
+        {
+            "character": "Joey",
+            "line": "That's good."
+        },
+        {
+            "character": "Hunter",
+            "line": "But that's not. HYDRA's almost in."
+        },
+        {
+            "character": "May",
+            "line": "All weapons systems, go hot. Stand by for my command."
+        },
+        {
+            "character": "Coulson",
+            "line": "How many people? The lives you've taken. It's over, Ward."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're out of time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson! The portal's closing! He's finished! Leave him! Let's go! Now! Now! We have to go!"
+        },
+        {
+            "character": "Mack",
+            "line": "Do it, May! Now!"
+        }
+    ]
+}

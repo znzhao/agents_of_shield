@@ -1,0 +1,69 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 16,
+    "scene_name": "FitzAndSimmonsArgueAboutSkye",
+    "description": "Fitz confronts Simmons about her intentions towards Skye, accusing her of wanting to change Skye due to fear. Simmons defends her actions, tracing her caution to Trip's death and her inability to prevent harm. The spat exposes deeper anxiety about the changing nature of the team and themselves.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sir. Where's Skye?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm afraid that's confidential."
+        },
+        {
+            "character": "Fitz",
+            "line": "'Cause you're keeping her prisoner somewhere, aren't you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye is safe, Agent Fitz. That's all you need to know."
+        },
+        {
+            "character": "Fitz",
+            "line": "You took something... up to Coulson earlier. What was it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It was nothing."
+        },
+        {
+            "character": "Fitz",
+            "line": "Didn't look like nothing. What was in the case, Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Something to help Skye."
+        },
+        {
+            "character": "Fitz",
+            "line": "Because you want to change her. Is that it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Stop it. I don't want to change Skye. The Diviner did that. I'm just trying to fix her!"
+        },
+        {
+            "character": "Fitz",
+            "line": "You never used to be this scared. You know that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Trip died, Fitz, all because we didn't take the necessary precautions."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, it's not that. You're afraid. 'Cause of what happened to me and Skye, how we both changed. Well, you know what the scariest change is, Jemma? It's you."
+        }
+    ]
+}

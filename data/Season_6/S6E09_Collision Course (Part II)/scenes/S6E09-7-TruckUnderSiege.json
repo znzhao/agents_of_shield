@@ -1,0 +1,57 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 7,
+    "scene_name": "TruckUnderSiege",
+    "description": "Daisy, May, Deke, and Snowflake prepare to defend the truck from an onslaught of Shrike, frantically fortifying doors and windows. The team realizes the trailer can only hold so long without the repeller and arm themselves for the imminent attack. Panic mounts as the Shrike break through and Daisy opens the truck to confront them head-on, hoping to funnel them for a defensive stand.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I don't think this truck can last much longer."
+        },
+        {
+            "character": "May",
+            "line": "What about the cloaking?"
+        },
+        {
+            "character": "Snowflake",
+            "line": "It won't work. Cloaking hides us from you, not them."
+        },
+        {
+            "character": "Deke",
+            "line": "Looks like we might die together after all."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Did you say “we?”"
+        },
+        {
+            "character": "Deke",
+            "line": "I mean, I also said... “die”."
+        },
+        {
+            "character": "May",
+            "line": "All right, everyone, grab a blade! Don't let anything near the bomb."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Don't worry. Tinker designed the windows to withstand any type of..."
+        },
+        {
+            "character": "May",
+            "line": "This close to shutting you up."
+        },
+        {
+            "character": "Daisy",
+            "line": "Barricade the windows. Come on."
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 3,
+    "scene_name": "BaseLockdownAndInterrogation",
+    "description": "Inside the Lighthouse, Coulson and May are interrogated by General Stoner about their sabotage of Project Insight. As the lockdown initiates and the anti-aircraft system targets the Zephyr, Coulson deduces that the Chronicoms have compromised the base systems. Stoner is skeptical of their story, but the rising chaos signals increasing Chronicom control.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "All signals are quiet, even with the Quinjet docking."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, keep scanning, and re-engage cloaking. Glad to see you. Where's Malick?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's complicated. We went there. He was waiting for us..."
+        },
+        {
+            "character": "Deke",
+            "line": "He's dead. I shot him."
+        },
+        {
+            "character": "Mack",
+            "line": "That wasn't the order, Agent Shaw."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, but he kept making waves. I thought it was best to..."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn it, that wasn't the order! I don't have time to deal with you right now. We need to get moving. You got a 20 on Daisy and Sousa?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I checked every camera feed in the Lighthouse. No sign of them."
+        },
+        {
+            "character": "Mack",
+            "line": "I can't be out my strongest fighter. Deke, stay put. I want every scanner on this ship searching..."
+        },
+        {
+            "character": "Deke",
+            "line": "But I know the Lighthouse. Your parents could be..."
+        },
+        {
+            "character": "Mack",
+            "line": "Running out of time. There's no debate on this. I blew up the one reason those Chronicoms had to keep them alive. I need to get in there now."
+        },
+        {
+            "character": "Elena",
+            "line": "There's another reason... It's a trap."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't have a choice."
+        },
+        {
+            "character": "Elena",
+            "line": "Which is why I'm coming with you. And there's no debate on that. I'll start pre-flight."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons, scan for Daisy and Sousa, and while you're at it, scan for the enemy ship. We gave up our position. That may cause them to give up theirs."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's bring the pain to them for once."
+        },
+        {
+            "character": "Mack",
+            "line": "The launch silo's our only chance of getting in before they lock down the base. It's bad enough we don't have a plan, now there's probably no way out."
+        },
+        {
+            "character": "Elena",
+            "line": "We're good under pressure."
+        },
+        {
+            "character": "Mack",
+            "line": "Today's the Bicentennial. My parents threw a picnic at the lake. Whole family. Rocket pops and raising hell with my cousins. It's not supposed to be like this."
+        },
+        {
+            "character": "Elena",
+            "line": "The Chronicoms are trying to get into your head, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "This isn't exactly how I'd imagined you'd meet my parents."
+        },
+        {
+            "character": "Elena",
+            "line": "But what a first impression, huh?"
+        },
+        {
+            "character": "Stoner",
+            "line": "Welcome to the Lighthouse. We have enacted Lockdown Protocol. All movement is prohibited."
+        },
+        {
+            "character": "Stoner",
+            "line": "Who initiated Lockdown? It wasn't my order. And today of all days, all orders come from me."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're using the lockdown to divide and conquer the base."
+        },
+        {
+            "character": "Stoner",
+            "line": "I didn't bring you here to speak."
+        },
+        {
+            "character": "Ford",
+            "line": "Lighthouse anti-aircraft batteries have locked onto the bogey, sir."
+        },
+        {
+            "character": "Stoner",
+            "line": "I haven't ordered that yet."
+        },
+        {
+            "character": "Ford",
+            "line": "The missiles have begun their arming sequence. The system is running on its own."
+        },
+        {
+            "character": "Coulson",
+            "line": "Anything computerized has been hijacked."
+        },
+        {
+            "character": "Stoner",
+            "line": "Agent, do not fire on that ship until I tell you to! Go downstairs and rip out the mainframe if you have to."
+        },
+        {
+            "character": "May",
+            "line": "You're too late."
+        },
+        {
+            "character": "King",
+            "line": "Sir... missiles are away."
+        },
+        {
+            "character": "Enoch",
+            "line": "Incoming!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Three missiles inbound!"
+        },
+        {
+            "character": "Enoch",
+            "line": "Prepare yourselves for extreme G's!"
+        }
+    ]
+}

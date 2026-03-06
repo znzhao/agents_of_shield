@@ -1,0 +1,35 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 10,
+    "scene_name": "DuvalPressesBobbiForSHIELDConnection",
+    "description": "Duval probes Bobbi further about her alleged connection to S.H.I.E.L.D. and insists she can save Hunter if she admits to working with them. Bobbi remains steadfast, refusing to give the Russians or Interpol any justification or contacts.",
+    "roles": [
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Duval",
+            "line": "Water. Drink. Please. We know you were not acting alone. And we do not mean your pigheaded ex-husband."
+        },
+        {
+            "character": "Morse",
+            "line": "Where is he?"
+        },
+        {
+            "character": "Duval",
+            "line": "There are many intelligence agencies around the world. Some are run by incompetents, but not all. We know S.H.I.E.L.D. is still there, in the shadows."
+        },
+        {
+            "character": "Morse",
+            "line": "The only one in the shadows is Gideon Malick. And you haven't even mentioned him. I wonder why."
+        },
+        {
+            "character": "Duval",
+            "line": "Admit that you're working with S.H.I.E.L.D., cooperating with the American government, and perhaps you can spare your ex-husband from a firing squad. This is your choice."
+        }
+    ]
+}

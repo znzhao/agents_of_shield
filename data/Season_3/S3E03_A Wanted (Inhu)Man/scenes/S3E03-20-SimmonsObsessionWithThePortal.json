@@ -1,0 +1,40 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 20,
+    "scene_name": "SimmonsObsessionWithThePortal",
+    "description": "The final scene at The Playground features Simmons staring at the remains of the destroyed portal. Despite reassurances from Morse, Simmons reveals her compulsion to return to the alien world, indicating her ordeal has changed her more deeply than her teammates realize.",
+    "roles": [
+        "jemma_simmons",
+        "bobbi_morse"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Simmons? Why are you looking at that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Trying to understand."
+        },
+        {
+            "character": "Morse",
+            "line": "There's nothing to learn from this."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's possible it's not inert. Alien metals have different properties. We don't know for sure."
+        },
+        {
+            "character": "Morse",
+            "line": "Yes, we do. You're safe. That portal won't open again."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it has to. I have to go back."
+        }
+    ]
+}

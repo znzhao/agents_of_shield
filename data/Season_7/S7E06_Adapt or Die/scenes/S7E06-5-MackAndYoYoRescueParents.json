@@ -1,0 +1,112 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "MackAndYoYoRescueParents",
+    "description": "Mack and Elena break into the Lighthouse to rescue Mack's parents, John and Lilla. The rescue is tense, as Mack tries to stay calm and maintain his identity while his parents, shaken by their abduction, are confused about being caught up in this conflict. Yo-Yo and Mack reassure them and work to lead them safely toward the Zephyr.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "John",
+            "line": "It's gonna be okay."
+        },
+        {
+            "character": "Lilla",
+            "line": "Aah! Oh, God, what now?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's okay. It's okay. We're here to get you out."
+        },
+        {
+            "character": "Lilla",
+            "line": "Hey!"
+        },
+        {
+            "character": "John",
+            "line": "Hey, hey."
+        },
+        {
+            "character": "Elena",
+            "line": "Whoa, whoa, whoa, whoa."
+        },
+        {
+            "character": "John",
+            "line": "Hey, what are you doing, man?"
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, I'm sorry. I'm sorry, sir, ma'am. I just got carried away."
+        },
+        {
+            "character": "Lilla",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Mack",
+            "line": "Um, this is Agent Rodriguez. Uh, she's my girlfriend."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, I don't think these strangers care about that, Director Mack... Lemore. Um, you can call me Elena, and please excuse my partner. He's just happy that you guys are safe."
+        },
+        {
+            "character": "John",
+            "line": "I'm John. She's Lilla. Uh, sorry. This whole day has been a nightmare."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sure it has. But if you do what we say and we keep moving, we will get you home."
+        },
+        {
+            "character": "Lilla",
+            "line": "We were food shopping for a party. Men just came right up to us in the parking lot and took us. Why?"
+        },
+        {
+            "character": "Mack",
+            "line": "Collateral. But I don't get it. We're nobody. You're not nobody. I just wish I had a better explanation. If everything goes right, we can bypass the people that took you."
+        },
+        {
+            "character": "Elena",
+            "line": "They're cowards. Whatever they wanted, our plane is nearby. You'll be safe soon."
+        },
+        {
+            "character": "John",
+            "line": "What exactly happens if we can't avoid them, sir?"
+        },
+        {
+            "character": "Mack",
+            "line": "Then you find cover. And you... you don't have to call me “sir”. It's... It's just “Mack”."
+        },
+        {
+            "character": "King",
+            "line": "We've unlocked an elevator to the basement. Something is definitely screwing with the mainframe."
+        },
+        {
+            "character": "Stoner",
+            "line": "Just rip it out?"
+        },
+        {
+            "character": "King",
+            "line": "We need your authority override to reboot the systems, sir."
+        },
+        {
+            "character": "Stoner",
+            "line": "Yeah. Computers. My own face is aiding the damn enemy today. Turn it off."
+        },
+        {
+            "character": "King",
+            "line": "We'll remove your face ASAP, sir."
+        },
+        {
+            "character": "Stoner",
+            "line": "Don't get wise, Agent King."
+        }
+    ]
+}

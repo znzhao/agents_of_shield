@@ -1,0 +1,59 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 12
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. Throughout his journey, he grapples with profound losses and betrayals, yet remains steadfast in his commitment to his team and their mission. His personal struggles and moral dilemmas are tempered by a deep sense of responsibility and hope, as he navigates the complex interplay between alien mysteries, Hydra threats, and the emotional scars borne by those he leads. Coulson's resilience, willingness to confront hard truths, and fierce loyalty continue to underline his role as a central pillar in the ongoing conflict surrounding the Kree city and its consequences. In this episode, he demonstrates an increased willingness to protect and fight for his team members against alien and authoritarian threats, showing particular care for Skye despite the dangers she poses, affirming his role as a leader who balances logic with empathy and trust.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "leadership",
+      "level": 1
+    }
+  ],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

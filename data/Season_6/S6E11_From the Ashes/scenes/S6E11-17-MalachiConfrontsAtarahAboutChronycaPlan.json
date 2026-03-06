@@ -1,0 +1,51 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 17,
+    "scene_name": "MalachiConfrontsAtarahAboutChronycaPlan",
+    "description": "Malachi debates Atarah and fellow Chronicoms about the fate of their world, advocating for starting anew while Atarah wishes to reclaim their home. Their argument becomes personal, and Malachi kills Atarah, marking a dramatic shift in the Chronicoms’ trajectory and setting up new threats for the future.",
+    "roles": [
+        "malachi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Atarah",
+            "line": "We have learned more than anticipated. We may yet save Chronyca-2 from its extinction-level event."
+        },
+        {
+            "character": "Malachi",
+            "line": "I came to a different conclusion. I recommend reassigning Hunters to establish Chronyca-3."
+        },
+        {
+            "character": "Baal-Gad",
+            "line": "With your permission, we can begin preparations."
+        },
+        {
+            "character": "Atarah",
+            "line": "Request denied. If we can reclaim Chronyca-2, conquest is unnecessary."
+        },
+        {
+            "character": "Malachi",
+            "line": "The first rule of data is always have a backup. Without Chronyca-3, Chronyca-2 will be vulnerable. We cannot be shortsighted."
+        },
+        {
+            "character": "Atarah",
+            "line": "I see no flaw in our current plan."
+        },
+        {
+            "character": "Malachi",
+            "line": "That is because you are the flaw."
+        },
+        {
+            "character": "Atarah",
+            "line": "Aah!"
+        },
+        {
+            "character": "Malachi",
+            "line": "You have your new targets."
+        }
+    ]
+}

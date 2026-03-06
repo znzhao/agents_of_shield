@@ -1,0 +1,93 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 1,
+    "scene_name": "CreelAbsorbsGravitonium",
+    "description": "General Hale oversees Carl Creel as he is exposed to gravitonium, hoping to learn more about the material's effects. Ruby questions the risks, but Hale insists on pressing ahead. Creel is overwhelmed by violent visions after contact and claims the gravitonium is alive.",
+    "roles": [
+        "hale",
+        "carl_creel",
+        "ruby"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "General Hale. I know you're bummed the whole team-up thing isn't gonna happen. But it still seems kind of petty, taking away my cot, my chair and my Cap'n Crunch. That last one really hurt. And you're gonna destroy the Earth, so..."
+        },
+        {
+            "character": "Hale",
+            "line": "I told you we'd get Coulson. And he'll pay for General Talbot after he's turned over his Inhumans. But for now, I know you enjoy it, the feel of a new material."
+        },
+        {
+            "character": "Creel",
+            "line": "I've been looking forward to this one. The question is, what do you want me to do with it?"
+        },
+        {
+            "character": "Hale",
+            "line": "Whitehall, Strucker, even Talbot, they all wanted your compliance. I'm offering transformation."
+        },
+        {
+            "character": "Creel",
+            "line": "Into what?"
+        },
+        {
+            "character": "Hale",
+            "line": "A hero. Show us what you can do."
+        },
+        {
+            "character": "Ruby",
+            "line": "Why hand him this? Talbot already gave up the location of the chamber."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, and we're waiting for Strucker to show us how to put it together. His father never made it easy for someone to steal his work."
+        },
+        {
+            "character": "Ruby",
+            "line": "But Creel..."
+        },
+        {
+            "character": "Hale",
+            "line": "Creel will give us answers. No one understood Gravitonium except for Ian Quinn, and he's been in hiding for years."
+        },
+        {
+            "character": "Ruby",
+            "line": "But if Creel touches it..."
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, he'll help us understand what we're dealing with here."
+        },
+        {
+            "character": "Ruby",
+            "line": "Before you give it to me."
+        },
+        {
+            "character": "Hale",
+            "line": "I don't want to infuse your cells with something we know nothing about."
+        },
+        {
+            "character": "Ruby",
+            "line": "So then why not talk to Coulson about it? He has experience with it. And I think after two days in isolation, maybe an olive branch..."
+        },
+        {
+            "character": "Hale",
+            "line": "We've done the olive branch. We stick the screws to him now. A week without sleep and food, we'll see what he has to say. Let's begin."
+        },
+        {
+            "character": "Creel",
+            "line": "Hey! Get me out! Aah! Aah! Hey! Get me out of here! Stop! Aah! Aah!"
+        },
+        {
+            "character": "Hale",
+            "line": "What happened? What did you feel?"
+        },
+        {
+            "character": "Creel",
+            "line": "It's alive."
+        }
+    ]
+}

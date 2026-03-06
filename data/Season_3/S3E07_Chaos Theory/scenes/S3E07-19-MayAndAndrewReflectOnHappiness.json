@@ -1,0 +1,112 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 19,
+    "scene_name": "MayAndAndrewReflectOnHappiness",
+    "description": "As the episode enters its final moments, May and Andrew share a brief, bittersweet reflection on happiness and whether they deserve it. Their private conversation touches on their past and present feelings, encapsulating the emotional weight of the episode's events.",
+    "roles": [
+        "melinda_may",
+        "andrew_garner"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "May",
+            "line": "Nothing. I never thought I deserved this."
+        },
+        {
+            "character": "Andrew",
+            "line": "What, a trip to Hawaii?"
+        },
+        {
+            "character": "May",
+            "line": "No. Happiness. This kind of happiness."
+        },
+        {
+            "character": "Andrew",
+            "line": "Of course you do. We both do."
+        },
+        {
+            "character": "Ward",
+            "line": "So, why am I here?"
+        },
+        {
+            "character": "Malick",
+            "line": "We'll get to that. It's a shame about Werner Von Strucker. I hope, for your sake, he doesn't wake up."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not worried. He's weak, like his father."
+        },
+        {
+            "character": "Malick",
+            "line": "Ah, careful, Mr. Ward. You paid a price for that boy. You should ask yourself if it was worth it."
+        },
+        {
+            "character": "Ward",
+            "line": "You gave me his location."
+        },
+        {
+            "character": "Malick",
+            "line": "I gave you what you asked for. I'm just not sure that you're asking for the right things. Revenge only provides a temporary pleasure."
+        },
+        {
+            "character": "Ward",
+            "line": "Ah. But a pleasure, nonetheless."
+        },
+        {
+            "character": "Malick",
+            "line": "Ah. You should think on a grander scale."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, it'll be grand. How about I cut off the head of S.H.I.E.L.D. Because without Phil Coulson, S.H.I.E.L.D. won't grow back."
+        },
+        {
+            "character": "Malick",
+            "line": "Ohh. Excuse me a moment. Ms. Price."
+        },
+        {
+            "character": "Price",
+            "line": "I wanted to apologize for missing our meeting at Norad. I will bring him to you soon enough."
+        },
+        {
+            "character": "Malick",
+            "line": "Time is of the essence."
+        },
+        {
+            "character": "Price",
+            "line": "Oh, I better go. I'll be in touch. You don't have to leave so soon. How about some breakfast first?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you cooking?"
+        },
+        {
+            "character": "Price",
+            "line": "I don't cook. But I'm an expert at going out to eat."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is there anything good around here?"
+        },
+        {
+            "character": "Price",
+            "line": "Ruthie's Diner is about two blocks away. She makes a mean scramble."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think I can make time for that."
+        },
+        {
+            "character": "Price",
+            "line": "Good."
+        }
+    ]
+}

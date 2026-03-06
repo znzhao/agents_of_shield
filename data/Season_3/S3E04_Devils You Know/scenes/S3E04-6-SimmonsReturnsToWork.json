@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 6,
+    "scene_name": "SimmonsReturnsToWork",
+    "description": "Jemma Simmons has a counseling session with Dr. Garner, discussing her difficulties adjusting after her return from the alien world. Andrew checks for signs of PTSD, but Simmons remains guarded, hinting that her trauma runs deep. The scene explores Simmons’ fragile emotional state and her sense that her ordeal is far from over, setting up ramifications for the season.",
+    "roles": [
+        "jemma_simmons",
+        "andrew_garner"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It was bitter, not sweet at all. I'd imagined the taste of a fresh strawberry for months, but like most things since being back, it just wasn't what I'd remembered."
+        },
+        {
+            "character": "Andrew",
+            "line": "Most things aren't. Memories have a funny way of changing on you when you're not looking. How about you? You feel any different since you've been back? Besides your taste buds, I mean. Any trouble sleeping or anxiety?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Shock, rage, depression?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I know you're looking for signs of PTSD. But I assure you, I'm fine."
+        },
+        {
+            "character": "Andrew",
+            "line": "You've been through something pretty extreme. There will be after-effects, and that's okay. It's okay to struggle, to feel uncomfortable in your own skin."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not one of your Inhuman patients, Dr. Garner."
+        },
+        {
+            "character": "Andrew",
+            "line": "No. No, you're not. But survivor stories have always fascinated me. How they got through it. The Chilean miners relied on routine, work, exercise, rest, gave each other jobs."
+        },
+        {
+            "character": "Simmons",
+            "line": "They had each other."
+        },
+        {
+            "character": "Andrew",
+            "line": "Well, not all of them. One hiker was stranded on mount hood for six nights in the snow. Said her faith saved her. That and the thought of all the loose ends she left behind, the people she cared about. She never gave up hope."
+        },
+        {
+            "character": "Simmons",
+            "line": "I did."
+        },
+        {
+            "character": "Andrew",
+            "line": "Do you remember a specific moment when that happened?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, I'd rather look forward than back. I have a very interesting new project that I'm trying to focus on."
+        },
+        {
+            "character": "Andrew",
+            "line": "Okay. You don't have to talk about it. Just know you got a lot of friends here who care a lot about you. You're safe now, Jemma. It's over."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're wrong."
+        }
+    ]
+}

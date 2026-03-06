@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 11,
+    "scene_name": "CreelInterrogatesCoulson",
+    "description": "Creel visits Coulson in his cell, blaming him for past experiments and pressed by voices from the gravitonium. Coulson reveals Talbot is also imprisoned by Hale, which shocks Creel. Creel decides to investigate for himself, giving Coulson a window for action.",
+    "roles": [
+        "carl_creel",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You can tell the General there's nothing you can do to make me join her evil league of evil."
+        },
+        {
+            "character": "Creel",
+            "line": "I'm not her messenger boy. Gravitonium. It hates you. It wants you dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't look so great, Carl. If you're messing with that stuff, believe me, you don't want to be the guinea pig in Hale's experiment."
+        },
+        {
+            "character": "Creel",
+            "line": "S.H.I.E.L.D. is just as guilty of the same thing... Experimentation without thought of consequence."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. may not be perfect, but we'd never do what Hale did to Talbot. I thought he was your friend."
+        },
+        {
+            "character": "Creel",
+            "line": "What do you mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't know. Talbot is Hale's prisoner, too. She broke him."
+        },
+        {
+            "character": "Creel",
+            "line": "No. She said she was getting him care no one else could. Helping him heal."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a touching story."
+        },
+        {
+            "character": "Creel",
+            "line": "And I should believe you instead?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't have to believe me because every few minutes, a mech guard comes to check on that door, and it's been a few minutes. You have a choice to make, Carl."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a choice."
+        },
+        {
+            "character": "Creel",
+            "line": "Let's see if your story checks out. If it doesn't, I'll do the same to you."
+        }
+    ]
+}

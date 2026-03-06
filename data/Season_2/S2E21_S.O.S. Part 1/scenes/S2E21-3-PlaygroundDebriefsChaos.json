@@ -1,0 +1,110 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 3,
+    "scene_name": "PlaygroundDebriefsChaos",
+    "description": "Back at the Playground, Coulson, May, Simmons, and Weaver debrief about the assault at Afterlife. They discuss the circumstances of Gonzales' death, debate who is responsible, and try to determine the next step. The uncertainty causes distrust among S.H.I.E.L.D.'s top leaders, while Coulson instructs Weaver to return to the Iliad and take command.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "robert_gonzales"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "No, sir, we're still sorting out what happened with that Quinjet. Our priority was to get all S.H.I.E.L.D. personnel out safely."
+        },
+        {
+            "character": "Coulson",
+            "line": "Was there any resistance to that from the locals?"
+        },
+        {
+            "character": "Weaver",
+            "line": "No, they seemed as keen on leaving as we were, perhaps retreating to shelters or bunkers."
+        },
+        {
+            "character": "Coulson",
+            "line": "Or they evacuated. We know they have a powered way out. May."
+        },
+        {
+            "character": "May",
+            "line": "Where's Skye?"
+        },
+        {
+            "character": "Simmons",
+            "line": "How are you feeling?"
+        },
+        {
+            "character": "May",
+            "line": "I have a headache, and I asked a question."
+        },
+        {
+            "character": "Simmons",
+            "line": "None of this would have happened if Gonzales hadn't attacked."
+        },
+        {
+            "character": "Weaver",
+            "line": "You can't actually believe he would do something like this."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no, Gonzales would never attack a base unprovoked."
+        },
+        {
+            "character": "Weaver",
+            "line": "Robert did not do this!"
+        },
+        {
+            "character": "May",
+            "line": "How can you be sure?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Because he went to great lengths for me to get a gift for Jiaying, a peace offering."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree. Gonzales was smarter than this. It's too sloppy."
+        },
+        {
+            "character": "Weaver",
+            "line": "I recommend we respond with a strong show of force."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have no intention of starting a war before I understand the situation. Agent Weaver, you're now the highest-ranking officer on the carrier. I want you to head back there and await further instructions."
+        },
+        {
+            "character": "Weaver",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't believe that Skye would turn against us."
+        },
+        {
+            "character": "May",
+            "line": "You didn't see her fight me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Her mother had just been shot. I can believe she's confused."
+        },
+        {
+            "character": "Simmons",
+            "line": "No more than the rest of us. Why invite SHIELD only to attack?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, but maybe their peace offering over there does."
+        },
+        {
+            "character": "Cal",
+            "line": "♪ but you'll look sweet ♪ ♪ upon the seat of a bicycle made for two ♪"
+        }
+    ]
+}

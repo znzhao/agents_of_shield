@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 20,
+    "scene_name": "FitzSimmonsAtMercyOfRubyAndStrucker",
+    "description": "Fitz and Simmons, exhausted and trapped at the Hydra facility after the mech attack stops, are encountered by Ruby and Strucker. Ruby threatens them, forcing the couple to work on repairing the Particle Infusion Chamber, shifting the power dynamic dangerously.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "ruby"
+    ],
+    "vibe": "intense",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "They're not damaged. They just went offline."
+        },
+        {
+            "character": "Simmons",
+            "line": "Perhaps something Yo-Yo did?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Whatever it is, we're safe for now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Still can't believe we survived."
+        },
+        {
+            "character": "Fitz",
+            "line": "Me neither."
+        },
+        {
+            "character": "Simmons",
+            "line": "But you were so certain we'd be fine. “Time is fixed” and all that."
+        },
+        {
+            "character": "Fitz",
+            "line": "I started having my doubts. Maybe your hopeful nature's rubbing off on me."
+        },
+        {
+            "character": "Ruby",
+            "line": "Aww, how cute. Well, looks like you two have made quite the mess."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "It's not the first time. They were there when S.H.I.E.L.D. tortured me. No. They destroyed a component for the infuser. It's useless. We can't transfer the Gravitonium until it's repaired."
+        },
+        {
+            "character": "Ruby",
+            "line": "Fix it. Or bleed out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, we can't let it happen again."
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't have a choice. We never did."
+        }
+    ]
+}

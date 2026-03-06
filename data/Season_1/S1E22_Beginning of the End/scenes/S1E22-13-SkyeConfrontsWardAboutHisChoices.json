@@ -1,0 +1,101 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 13,
+    "scene_name": "SkyeConfrontsWardAboutHisChoices",
+    "description": "Ward interrupts Skye’s interrogation of Zeller, challenging her resolve and attempting psychological manipulation. Skye holds firm, expressing her disappointment in Ward's choices, while May waits for an opportune moment to strike, intensifying the tension as betrayals come to a head.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Looks like the back entrance to the factory floor is on the South side."
+        },
+        {
+            "character": "Coulson",
+            "line": "Roger that."
+        },
+        {
+            "character": "Skye",
+            "line": "I have to hit “snooze” on this every minute to keep that from blowing."
+        },
+        {
+            "character": "Zeller",
+            "line": "Look, I will die before talking, but there's nothing to tell. There's no way of controlling the soldiers unless there's an actual handler at the machine."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not interested in that. I'm more interested in why you're willing to die for Hydra. Are you a true believer? Is Hydra the plucky little family you never had? Or are you here because of the Incentives program?"
+        },
+        {
+            "character": "Ward",
+            "line": "She's not gonna kill you. She had a chance to kill me before and couldn't do it. And she hates me... a lot."
+        },
+        {
+            "character": "Skye",
+            "line": "I feel sorry for you... betraying the only people who gave you a chance at being a decent human being. Fitz was a hero because he still wanted to give you that chance after everything. But some people are just born evil, I guess."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. Yeah, maybe they are. I've learned things about you, Skye... history... things you'll want to know. You and I aren't that different."
+        },
+        {
+            "character": "Skye",
+            "line": "You're not the evil I was referring to. Garrett is evil. You're just... weak, doing anything you're told. I hope Garrett orders you to walk into traffic."
+        },
+        {
+            "character": "Ward",
+            "line": "You're right, Skye. You woke up a weakness inside me. And for the first time in a while, I wanted something for myself. Maybe I'll just take what I want... wake up something inside of you."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not afraid of you, Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "Nah. You're not gonna kill us with the bomb. You'd go, too."
+        },
+        {
+            "character": "Skye",
+            "line": "No. I have a weapon much better than a bomb that will absolutely destroy you."
+        },
+        {
+            "character": "Ward",
+            "line": "And why's that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Because you slept with her, and she's really pissed off."
+        },
+        {
+            "character": "Skye",
+            "line": "Let's talk about Incentives."
+        },
+        {
+            "character": "Zeller",
+            "line": "What you..."
+        },
+        {
+            "character": "Ward",
+            "line": "You said our thing was no strings attached. Looks to me like the ice queen got her feelings hurt."
+        },
+        {
+            "character": "Man",
+            "line": "Hey-ho, friends! The enemy approaches."
+        },
+        {
+            "character": "Garrett",
+            "line": "Check the perimeter."
+        },
+        {
+            "character": "Man",
+            "line": "Careful, now, or they'll win the day."
+        }
+    ]
+}

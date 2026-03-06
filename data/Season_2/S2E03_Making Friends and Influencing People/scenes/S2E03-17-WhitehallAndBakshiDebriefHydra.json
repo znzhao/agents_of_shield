@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 17,
+    "scene_name": "WhitehallAndBakshiDebriefHydra",
+    "description": "In a Hydra office, Whitehall and Bakshi discuss the ramifications of the unstable brainwashing of Donnie Gill and speculate about S.H.I.E.L.D.’s new leadership. Bakshi suggests promoting Simmons; Whitehall muses about using the Faustus method if Simmons proves disloyal. Their cold efficiency demonstrates the ever-present threat of deepening Simmons’ peril as a double agent within Hydra.",
+    "roles": [
+        "daniel_whitehall",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "S.H.I.E.L.D.'s becoming a problem. Do we know who's in charge?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "I'm afraid not."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Please, bring it here. Thank you. I appreciate it."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Donnie's programming proved to be unstable."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Ultimately, it held."
+        },
+        {
+            "character": "Bakshi",
+            "line": "One last thing. There's a scientist in our downstairs lab. I believe her talents are being wasted. I'd like authorization to bring her up here."
+        },
+        {
+            "character": "Whitehall",
+            "line": "So, you trust her? I do now. But if I'm wrong... we'll make her comply."
+        }
+    ]
+}

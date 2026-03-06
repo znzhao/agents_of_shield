@@ -1,0 +1,47 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 16,
+    "scene_name": "MalickAndLukeAlly",
+    "description": "Back in Los Angeles, Wilfred Malick is approached by the Chronicom Luke, who reveals they have a common enemy in S.H.I.E.L.D. Luke offers Malick instructions to prevent Hydra’s destruction by working together against the agents from the future, cementing a new alliance.",
+    "roles": [
+        "wilfred_malick"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Freddy",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Luke",
+            "line": "Oh, not necessary, Mr. Malick. I have been left behind to help you."
+        },
+        {
+            "character": "Freddy",
+            "line": "You're the man who called, told me Sousa was on the train."
+        },
+        {
+            "character": "Luke",
+            "line": "You and I share an enemy, Mr. Malick. The only difference is that mine is from the future."
+        },
+        {
+            "character": "Freddy",
+            "line": "I think I might've met one of them."
+        },
+        {
+            "character": "Luke",
+            "line": "You certainly did. As it is certain S.H.I.E.L.D. will destroy all you have built. It is time to prevent that."
+        },
+        {
+            "character": "Freddy",
+            "line": "How?"
+        },
+        {
+            "character": "Luke",
+            "line": "By doing exactly... what I say."
+        }
+    ]
+}

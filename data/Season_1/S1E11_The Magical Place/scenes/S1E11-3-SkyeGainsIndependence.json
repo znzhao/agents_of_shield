@@ -1,0 +1,54 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "SkyeGainsIndependence",
+    "description": "Skye is escorted off the plane but secretly receives support from Fitz, Simmons, and Ward, who provide her with a one-use satellite phone. Skye is determined to find Coulson on her own and avoids being tracked by S.H.I.E.L.D., setting up her independent investigation. This scene focuses on Skye’s resourcefulness and her emotional investment in finding Coulson.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Hang on, hang on."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have something for you."
+        },
+        {
+            "character": "Skye",
+            "line": "You made me a sandwich?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, it is that."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a satellite phone... damper resistant. You get one shot before your bracelet shuts it down."
+        },
+        {
+            "character": "Simmons",
+            "line": "So only call in case of emergency."
+        },
+        {
+            "character": "Skye",
+            "line": "What do I even need this for? I'm gonna be spending the next three days in a S.H.I.E.L.D. broom closet getting debriefed."
+        },
+        {
+            "character": "Ward",
+            "line": "That's right. A few agents are coming here to pick you up for debriefing... in exactly 12 minutes. Good luck."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't touch Lola."
+        }
+    ]
+}

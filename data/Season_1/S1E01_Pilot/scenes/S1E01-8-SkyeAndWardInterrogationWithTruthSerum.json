@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "SkyeAndWardInterrogationWithTruthSerum",
+    "description": "Skye, now in control thanks to Coulson's switch, interrogates a truth-serum-dosed Ward about his background, actions, and conscience. Ward's candid answers expose his emotional side as a reluctantly lethal agent. Meanwhile, Fitz and Simmons make technical discoveries at the disaster site.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "comedic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This is QNB-T16. It's the top-shelf Martini of Sodium Pentothal derivatives. It's a brand-new and extremely potent truth drug. Don't worry. The effects only last about an hour."
+        },
+        {
+            "character": "Ward",
+            "line": "And you'll have a nice little nap. And we'll have all the answers to our... Hey! What the hell?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry. Did that hurt?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. But you've lost your mind. You should never do that to a member of your team. And, yes, it did hurt a little bit. But I always try and mask my pain in front of beautiful women 'cause I think it makes me seem more masculine. My god, this stuff works fast."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't trust us? Ask him whatever you'd like."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait a minute. Wait. You can't just... This is definitely not protoco..."
+        },
+        {
+            "character": "Skye",
+            "line": "You seem nervous, Agent Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm calling to mind my training. There's no way I'm gonna reveal classified secrets to a girl who's hell-bent on taking us down."
+        },
+        {
+            "character": "Skye",
+            "line": "Have you ever killed anyone?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yes, a few. High-risk targets. But they were terrible people... Who were trying to murder nice people. And I didn't feel good afterwards."
+        },
+        {
+            "character": "Skye",
+            "line": "And does your grandmother know about these things?"
+        },
+        {
+            "character": "Ward",
+            "line": "Gramzy?"
+        }
+    ]
+}

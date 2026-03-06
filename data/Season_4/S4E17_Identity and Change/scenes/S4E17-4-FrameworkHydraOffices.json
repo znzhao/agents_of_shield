@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 4,
+    "scene_name": "FrameworkHydraOffices",
+    "description": "At the Hydra headquarters within the Framework, Ophelia (Madame Hydra) and Fitz discuss the threat posed by Simmons, and the escalating issues regarding 'Project Looking Glass.' Fitz expresses his devotion to Ophelia and offers to help, unaware of the full scope of her concerns. Their interaction reveals Fitz's loyalty and Ophelia's determination to protect their world from outside threats.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ophelia",
+            "line": "Dismissed, Agent."
+        },
+        {
+            "character": "Doctor",
+            "line": "All this for one subversive? Why won't you let me help you?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "I need you focused on your work right now."
+        },
+        {
+            "character": "Doctor",
+            "line": "Project Looking Glass is ahead of schedule. Tell me what's really going on."
+        },
+        {
+            "character": "Ophelia",
+            "line": "It's fine. I'm handling it."
+        },
+        {
+            "character": "Doctor",
+            "line": "Ophelia, I know that look. You're worried. Who is she?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "No one. She doesn't matter. She's plotting against me. I need to find her and expose anyone who's helping her."
+        },
+        {
+            "character": "Doctor",
+            "line": "I'll send my team. Consider the threat eliminated."
+        },
+        {
+            "character": "Ophelia",
+            "line": "You'd really do anything for me, wouldn't you?"
+        },
+        {
+            "character": "Doctor",
+            "line": "I'd cross the universe for you."
+        }
+    ]
+}

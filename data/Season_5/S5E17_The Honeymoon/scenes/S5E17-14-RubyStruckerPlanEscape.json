@@ -1,0 +1,51 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 14,
+    "scene_name": "RubyStruckerPlanEscape",
+    "description": "Locked in her room, Ruby is approached by Werner von Strucker who helps her escape. They discuss their grievances with Hale and decide to pursue their own plans regarding the Particle Infusion Chamber, signaling a turning point in their alliance against Hale.",
+    "roles": [
+        "ruby"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ruby",
+            "line": "You're not supposed to be here."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I wanted you to know before her. It's all here. Are you ready?"
+        },
+        {
+            "character": "Ruby",
+            "line": "She won't let me."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Why?"
+        },
+        {
+            "character": "Ruby",
+            "line": "More tests. Creel betrayed us, but she'll still listen to every word that he says."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "You said this was ours. You don't have to follow her orders anymore."
+        },
+        {
+            "character": "Ruby",
+            "line": "She locked me in here. I don't have a choice."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Of course you do. You could tear her apart if you wanted to. So why don't you?"
+        },
+        {
+            "character": "Ruby",
+            "line": "I don't know."
+        }
+    ]
+}

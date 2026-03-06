@@ -1,0 +1,72 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 18,
+    "scene_name": "GonzalesPlotsNextMove",
+    "description": "The 'real' S.H.I.E.L.D. group reacts to Hunter's escape and Coulson's move to hide Skye. Tensions boil as Calderon and Weaver question Bobbi Morse's decisions, but Gonzales asserts trust in her commitment. Bobbi takes charge, advocating for a decisive move against Coulson, and promises swift action.",
+    "roles": [
+        "robert_gonzales",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Weaver",
+            "line": "It appears Hunter escaped using one of the ship's submersible pods. We've managed to scramble communications, but he's disabled the GPS."
+        },
+        {
+            "character": "Agent",
+            "line": "So we don't know where he is."
+        },
+        {
+            "character": "Weaver",
+            "line": "Or where he's going. Once he reaches shore, he's a free man, able to communicate with whomever he pleases. We approximate 12 hours till he reaches the coast."
+        },
+        {
+            "character": "Gonzales",
+            "line": "We may have a bigger problem. I just got off the phone with Mack. Seems Coulson's put Skye in hiding."
+        },
+        {
+            "character": "Agent",
+            "line": "Stockpiling enhanced people?"
+        },
+        {
+            "character": "Morse",
+            "line": "I doubt that. Skye and Coulson... they're close. She's more than just some asset to him."
+        },
+        {
+            "character": "Calderon",
+            "line": "So says the person whose ex-husband just flew the coop."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Agent Calderon..."
+        },
+        {
+            "character": "Calderon",
+            "line": "Oh, come on. We all know Bobbi could have taken out that tea cup anytime she wanted..."
+        },
+        {
+            "character": "Morse",
+            "line": "I might just have to test that theory out on your face."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Enough. Bobbi gave me her word she's still committed, and I have no reason to doubt her. This is your op, Morse, so tell me, how do you want to proceed?"
+        },
+        {
+            "character": "Morse",
+            "line": "Skye's not the main concern. Coulson and his secrets... that's the threat. And I think it's time that we remove that threat. I want to go back in."
+        },
+        {
+            "character": "Calderon",
+            "line": "You gotta be crazy. You know that Hunter could blow your cover at any moment. And Weaver? She gave you 12 hours."
+        },
+        {
+            "character": "Morse",
+            "line": "I only need six."
+        }
+    ]
+}

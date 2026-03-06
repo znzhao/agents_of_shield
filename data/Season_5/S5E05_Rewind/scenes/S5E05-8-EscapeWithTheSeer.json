@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 8,
+    "scene_name": "EscapeWithTheSeer",
+    "description": "As the threat of military capture looms, Enoch helps Fitz, Hunter, Robin, and her mother evade the authorities using his advanced technology. They manage to escape after stunning the military personnel and making use of blackout tech, mirroring the initial diner abduction. The group barely eludes their pursuers.",
+    "roles": [
+        "leo_fitz",
+        "enoch",
+        "robin_hinton"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Put these in."
+        },
+        {
+            "character": "Evans",
+            "line": "You're coming with us. The girl, too, so don't even think about trying to run... away."
+        },
+        {
+            "character": "Lucas",
+            "line": "We just lost a half an hour of time."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think we lost them."
+        },
+        {
+            "character": "Hunter",
+            "line": "Not for long. We need to find a place to lay low for a while."
+        },
+        {
+            "character": "Enoch",
+            "line": "I'm taking you to the place where I sent the others."
+        },
+        {
+            "character": "Fitz",
+            "line": "You said that was impossible."
+        },
+        {
+            "character": "Enoch",
+            "line": "I'm taking you where, not when."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 7,
+    "scene_name": "MayAndCoulsonClash",
+    "description": "May presses to take point on the mission, but Coulson refuses and questions her secrecy about the T.A.H.I.T.I. project. Their confrontation is heated, and Coulson gives May an ultimatum: follow his orders or leave, illustrating the strain in their trust.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I should be flying this mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "I made another call. Stay here. Get the fuel line repaired on the bus."
+        },
+        {
+            "character": "May",
+            "line": "I remember when you brought Daniels in. I know how personal this is for you, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't do personal... not anymore."
+        },
+        {
+            "character": "May",
+            "line": "Phil, the polygraph cleared me. I'm not hiding anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "You mean you're not hiding anything else, unless you do know who was behind the Tahiti project."
+        },
+        {
+            "character": "May",
+            "line": "I didn't ask. I was ordered not to. And you would have done the same thing. Our job is to follow orders."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's also our job to determine right from wrong. Watching someone in agony, searching for the truth, not saying anything... that's wrong."
+        },
+        {
+            "character": "May",
+            "line": "Look, I was just trying..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And don't tell me it's because you care so damn much. Fury's no longer around telling you what to do, so why are you here? You want some orders to follow? Follow mine, or find somewhere else to be."
+        }
+    ]
+}

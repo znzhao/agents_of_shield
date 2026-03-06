@@ -1,0 +1,47 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 13,
+    "scene_name": "HaleLearnsAboutPrincipiaRecovery",
+    "description": "Hale is informed by her assistant that the old sleeper mechs on the Principia have reactivated, confirming S.H.I.E.L.D.'s involvement. She realizes the remaining Gravitonium is now in play, weighing the risks of what could have happened had the ship detonated. The stakes of the Gravitonium race escalate as she acknowledges their rivals' progress.",
+    "roles": [
+        "hale"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lee",
+            "line": "General Hale."
+        },
+        {
+            "character": "Hale",
+            "line": "What is it?"
+        },
+        {
+            "character": "Lee",
+            "line": "Some of the old Sleeper Mechs recently came back online."
+        },
+        {
+            "character": "Hale",
+            "line": "Which ones?"
+        },
+        {
+            "character": "Lee",
+            "line": "The ones you left on the Principia, in case anyone found it. We should have blown it out of the sky when we had a chance."
+        },
+        {
+            "character": "Hale",
+            "line": "Yeah, it's too risky. We don't know enough about the Gravitonium. It could have responded like a nuclear reactor and set the ozone on fire."
+        },
+        {
+            "character": "Lee",
+            "line": "Well, now someone knows about it. Who?"
+        },
+        {
+            "character": "Hale",
+            "line": "S.H.I.E.L.D."
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 10,
+    "scene_name": "SimmonsRemembersTheSolution",
+    "description": "With Simmons’ implant removed, she recalls that Enoch's Electrochron Displacement Mechanism can stabilize the Time Drive, but removing it would be fatal to Enoch. While Daisy, Coulson, and Deke process this news, Simmons collapses in grief and guilt over the realization she must sacrifice Enoch to save the team. The time loop teeters on the brink as the Zephyr nears the vortex.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "jemma_simmons",
+        "deke_shaw"
+    ],
+    "vibe": "tragic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Alright. No messing around this time. We're 11 kilometers from the vortex."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Are your memories coming back? What can we do to fix the Time Drive?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We got about two minutes to get the answer, assuming Enoch's still busy with Sousa and the rest."
+        },
+        {
+            "character": "Deke",
+            "line": "Jemma? You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's Enoch. He's the key. He's been against you, but he's the key."
+        },
+        {
+            "character": "Deke",
+            "line": "How?"
+        },
+        {
+            "character": "Simmons",
+            "line": "His Electrochron Displacement Mechanism. Chronicoms use it to regulate energy stability."
+        },
+        {
+            "character": "Daisy",
+            "line": "It could do the same for the Time Drive."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's compatible."
+        },
+        {
+            "character": "Deke",
+            "line": "Great. Then let's get to it."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not that simple. It would be like removing a human being's heart. Taking it out would..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Taking it out would kill him."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons? Simmons? Are you okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What have I done? Oh, my God. I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jemma, what are you remembering?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What have I done?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, my God. I'm sorry. I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jemma, what is it that you remember?"
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get a read on our location."
+        },
+        {
+            "character": "Daisy",
+            "line": "Everything's gonna be okay. Trust me."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay."
+        },
+        {
+            "character": "Elena",
+            "line": "Looks like something just fried the Quinjet's flight system. I'll check it out and let you know."
+        }
+    ]
+}

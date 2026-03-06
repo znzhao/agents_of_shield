@@ -1,0 +1,127 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 14,
+    "scene_name": "CoulsonAndMaceDebriefUprising",
+    "description": "Back at the Playground, Coulson and Mace discuss the fallout of the Watchdog attacks, the threat of growing anti-Inhuman sentiment, and the risks of revealing S.H.I.E.L.D. to the public. Coulson advises Mace on adapting to new circumstances, while Fitz examines information from Momentum Energy Labs that could become relevant.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "phil_coulson",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "The man with the list and the ones guarding the EMP, they all had Watchdog tattoos."
+        },
+        {
+            "character": "Mace",
+            "line": "And some serious hardware. Someone's backing them."
+        },
+        {
+            "character": "Coulson",
+            "line": "With big-time resources and foreign involvement. Whoever it is, they've declared war on the Inhumans."
+        },
+        {
+            "character": "Mace",
+            "line": "Oh. It's working. Fear is spreading like wildfire out there. How do we counter that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe it's time."
+        },
+        {
+            "character": "Mace",
+            "line": "No, it's too soon, Phil. We have a specific plan for the rollout."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can I offer you some advice... something I learned from Fury? “It's important to know when to throw out the plan.”"
+        },
+        {
+            "character": "Mace",
+            "line": "And you think this is one of those moments?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's for you to decide, Director."
+        },
+        {
+            "character": "Elena",
+            "line": "No? Okay."
+        },
+        {
+            "character": "Mack",
+            "line": "I wish Daisy were here to see this. Nothing? So you're not gonna come clean? We know you've been communicating with her, Yo-Yo."
+        },
+        {
+            "character": "Elena",
+            "line": "I gave her my word."
+        },
+        {
+            "character": "Mack",
+            "line": "What? That you'd lie? You knew we were out there looking for her! You could've helped us. You could've made contact. But instead, you used me to get meds for her!"
+        },
+        {
+            "character": "Elena",
+            "line": "She's the one who makes contact. And Daisy doesn't want to be found, so you should respect that."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, she's hurt and she's in danger and she's mixed up with that... I don't know what the hell it is, but it ain't good."
+        },
+        {
+            "character": "Elena",
+            "line": "The man on fire?"
+        },
+        {
+            "character": "Mack",
+            "line": "You knew about this?"
+        },
+        {
+            "character": "Elena",
+            "line": "Angry looks good on you, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't do that. Don't shrug this off. There shouldn't be any secrets between us."
+        },
+        {
+            "character": "Elena",
+            "line": "Why not? There's nothing else between us."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, has everybody seen this guy but me?"
+        },
+        {
+            "character": "Elena",
+            "line": "I've only heard talk. He's a legend out there. The, uh, Ghost Rider."
+        },
+        {
+            "character": "Coulson",
+            "line": "Eh, most people think it's folklore."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah, he's real."
+        },
+        {
+            "character": "Mack",
+            "line": "We find anything else?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, not on him. I did get a list of faculty that worked at Momentum Energy Labs back when it was operational. Could be something to look into."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, hey, there he is."
+        }
+    ]
+}

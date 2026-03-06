@@ -1,0 +1,69 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 4
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and resolute leader committed to preserving and rebuilding S.H.I.E.L.D. amid constant threats from Hydra and internal fractures. His leadership is marked by pragmatism under pressure, strategic delegation, and a protective instinct toward his team, often weighing the burdens of secrecy and sacrifice. He balances mission imperatives with empathy, exemplified by his concern for the wellbeing and loyalty of his agents, including those undercover in enemy ranks. Coulson faces ongoing psychological strain from past trauma and unexplained compulsions, deepening his resolve but also complicating his trust dynamics. His dedication to thwarting Hydra's advances, securing dangerous assets, and maintaining cohesion within a fractured organization underscores his role as a guardian and tactician in a shadow war. His awareness of a mysterious other with shared alien rune inscriptions introduces a new dimension of personal mystery, and his acceptance of the grim possibility of losing his sanity reveals a sobering growth in his self-awareness and acceptance of harsh reality.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_21",
+      "context": "accepting hard choices about his mental decline and asking May to kill him if necessary",
+      "catch_phrase": "If he ever goes mad like Garrett did, May needs to be the one to put him down."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_18",
+      "context": "expressing cautious resolve and leadership burden",
+      "catch_phrase": "No need to tell me."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_16",
+      "context": "acknowledging the burden of leadership and redirecting focus from resurrection to mission",
+      "catch_phrase": "No need to tell me."
+    }
+  ]
+}

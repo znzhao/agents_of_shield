@@ -1,0 +1,100 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 9,
+    "scene_name": "KoenigConfrontsCoulsonAndMack",
+    "description": "At the speakeasy, Coulson and Mack face questioning and threats from Koenig and his men. Coulson uses his wit and the demonstration of his LMD strength to negotiate and avoid further violence. Koenig, suspicious but intrigued, reveals he’s providing liquor for a political event hosted by Governor Franklin D. Roosevelt that evening. This gives Mack and Coulson a new lead, as they realize the Chronicoms may be targeting future President Roosevelt at the party, making his protection a top priority.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "We're not here to cause trouble."
+        },
+        {
+            "character": "Tillman",
+            "line": "You come nosing around here the same day Jimmy Bottles goes missing? What'd you do to him?"
+        },
+        {
+            "character": "Mack",
+            "line": "We didn't kill him, but somebody did."
+        },
+        {
+            "character": "Tillman",
+            "line": "Tell it to Sweeney..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's the truth. We didn't kill Jimmy Bottles. We need your help finding the ones who did."
+        },
+        {
+            "character": "Tillman",
+            "line": "You know, it's funny, ‘cause no one's gonna ever find you two. You're dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're right. Interesting..."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait. What're you doing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm testing a theory, Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm already dead."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, hell, I'm not!"
+        },
+        {
+            "character": "Tillman",
+            "line": "Step back. I'll shoot..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe this LMD thing has some perks after all."
+        },
+        {
+            "character": "Mack",
+            "line": "You're crazy, you know that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's start over. We were hoping to talk to the man in charge."
+        },
+        {
+            "character": "Koenig",
+            "line": "You chuckle heads get blood on my floor, you best be prepared to get down and add some of your own."
+        },
+        {
+            "character": "Mack",
+            "line": "Koenig?"
+        },
+        {
+            "character": "Koenig",
+            "line": "Ernest Hazard Koenig. I see my reputation precedes me."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm Coulson. This is Mack. Tell your goons we come in peace."
+        },
+        {
+            "character": "Koenig",
+            "line": "Oh! You hear that, you bunch of candy canes? They came in peace. Isn't that a load off?"
+        }
+    ]
+}

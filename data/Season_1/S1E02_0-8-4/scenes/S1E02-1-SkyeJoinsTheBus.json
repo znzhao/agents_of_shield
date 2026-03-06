@@ -1,0 +1,208 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "SkyeJoinsTheBus",
+    "description": "As Skye arrives at the S.H.I.E.L.D. Bus, she is welcomed as a consultant despite objections from May and Ward. Discussions about her suitability and the purpose of the team set the dynamic, with Simmons and Fitz awkwardly greeting her and giving a quick tour. Coulson explains to Skye that they're headed to Peru to investigate an 0-8-4, an object of unknown origin, while May prepares to pilot the plane as they take off.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Yeah, we're all good. It's gonna be blue skies from here on out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Aah! Aaaaah!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson! Hang on!"
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, no joy rides, okay? That's my house. Where do they think of this stuff?"
+        },
+        {
+            "character": "Ward",
+            "line": "Skye? Girl's not qualified to be a S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agreed. That's why I've invited her on as a consultant. S.H.I.E.L.D. does it all the time. Technically, Stark's a consultant."
+        },
+        {
+            "character": "Ward",
+            "line": "And technically, Skye's a member of the Rising Tide. She hacked our RSA implementation..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Twice. From a laptop. Imagine what she'll do with our resources."
+        },
+        {
+            "character": "Ward",
+            "line": "I am. That's exactly what I'm imagining during this frown. You brought me on for risk assessment. She's a risk. She doesn't think like us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Exactly."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Agent Coulson told us the news. What a wonderful surprise. Isn't it, Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, it's wonderful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, a surprise."
+        },
+        {
+            "character": "Simmons",
+            "line": "You must be very excited."
+        },
+        {
+            "character": "Skye",
+            "line": "Yep, first day of school."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, so... just... sorry. Yeah."
+        },
+        {
+            "character": "May",
+            "line": "We have two kids on this bus who aren't cleared for combat. You're adding a third."
+        },
+        {
+            "character": "Ward",
+            "line": "At least Fitz-Simmons are trained S.H.I.E.L.D. scientists. But Skye? You said this was a select team. Assembled to work new cases, to protect people. I don't see how letting some hacker tag along..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm looking for an objection I haven't already anticipated. I'm calling this. But your frown will be on record."
+        },
+        {
+            "character": "Ward",
+            "line": "We've been called in to investigate an 0-8-4. We all know what that means."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, we do. It means we don't know what that means."
+        },
+        {
+            "character": "Fitz",
+            "line": "Officially, it's an airborne mobile command station. But we call it the Bus. We find it best to use shorthand when in the field. But everything has to be just so, you know, because of the danger."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, I've been up here before, but I didn't see much because of the bag that Agent Ward put over my head."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, so sorry about that. Water?"
+        },
+        {
+            "character": "May",
+            "line": "Wheels up in two. Lock it or lose it."
+        },
+        {
+            "character": "Skye",
+            "line": "What's that mean?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No backing out now. Let's find a bunk for our guest."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, oh, yeah, there's only one left, and it's right next to mine. Sorry. You can..."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey. I know we didn't really..."
+        },
+        {
+            "character": "Ward",
+            "line": "Might want to read that. This isn't like other planes."
+        },
+        {
+            "character": "Skye",
+            "line": "You can say that again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Say what again?"
+        },
+        {
+            "character": "Skye",
+            "line": "Sweet ride."
+        },
+        {
+            "character": "Coulson",
+            "line": "I earned a little goodwill from Director Fury when I got hit right before the battle of New York."
+        },
+        {
+            "character": "Skye",
+            "line": "You took a bullet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "-Ish. An Asgardian stabbed me through the heart with a Chitauri scepter. The effect was similar. Got a few weeks' R&R and this plane. Had it completely refurbished. Studs up, spared no expense."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, Agent Ward told me they sent you to Tahiti."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a magical place."
+        },
+        {
+            "character": "Skye",
+            "line": "You mentioned that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Here. Use a coaster. Buckle up."
+        },
+        {
+            "character": "SKYE",
+            "line": "I don't even know where we're going."
+        },
+        {
+            "character": "Coulson",
+            "line": "Peru. That's where the 0-8-4 was reported."
+        },
+        {
+            "character": "Skye",
+            "line": "And an 0-8-4 is...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "An object of unknown origin. Kind of like you. Team goes in, determines if it's useful or if it poses a threat. Last one turned out to be pretty interesting."
+        },
+        {
+            "character": "Skye",
+            "line": "And what was the last one?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A hammer."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "KasiusArenaShowdown",
+    "description": "Mack finds future Yo-Yo captive in Kasius's arena. Kasius taunts Mack, then drinks Odium and murders future Yo-Yo in front of him. Simmons distracts Kasius by activating an implant she took from his servants, causing him severe pain. Mack seizes the opportunity and kills Kasius in a brutal fight, then grieves for Yo-Yo before being reunited with his own timeline's Elena.",
+    "roles": [
+        "alphonso_mackenzie",
+        "kasius",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Yo-Yo. Let her go!"
+        },
+        {
+            "character": "Kasius",
+            "line": "Uh-uh, uh-uh."
+        },
+        {
+            "character": "Kasius",
+            "line": "Elena told me I'd find you here."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo. what'd they do to you?"
+        },
+        {
+            "character": "Kasius",
+            "line": "I've gotten to know Elena quite well. Pain can be so persuasive."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not leaving. I said let her go!"
+        },
+        {
+            "character": "Kasius",
+            "line": "Look at her tremble. Perhaps she knows what comes next for you. For me? Huh? For all of us here, standing on the edge of timeless, violent glory."
+        },
+        {
+            "character": "Mack",
+            "line": "No! No! No!"
+        },
+        {
+            "character": "Kasius",
+            "line": "Aah! Take the Orchard! Slaughter the rest!"
+        },
+        {
+            "character": "Mack",
+            "line": "It's not gonna happen."
+        },
+        {
+            "character": "Kasius",
+            "line": "I'm gonna beat your body with your own skull!"
+        },
+        {
+            "character": "Mack",
+            "line": "Elena didn't deserve to die."
+        }
+    ]
+}

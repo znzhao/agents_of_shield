@@ -1,0 +1,117 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 1,
+    "scene_name": "CoulsonPreparesForTalbotsArrival",
+    "description": "Coulson sits at a bar watching news of the Sokovia Accords and discusses the current state of S.H.I.E.L.D. with May. As Talbot arrives, tensions run high about registration and government oversight. May and Coulson strategize before May exits, and Coulson welcomes Talbot, establishing the episode's climate of suspicion and negotiation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "Still no word on the whereabouts of Steve Rogers after his public feud with Tony Stark and the Avengers over the controversial Sokovia Accords. Ratified by 117 countries, the Accords place the Avengers under U.N. authority and provide a framework for the registration and monitoring of all Enhanced Individuals."
+        },
+        {
+            "character": "May",
+            "line": "We knew this was gonna happen sooner or later."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cap, Agent Carter, they were my heroes growing up. Both of them were there at the beginning of S.H.I.E.L.D. Now we may be there when it ends."
+        },
+        {
+            "character": "May",
+            "line": "The last thing we need right now is the government hamstringing us with the Accords. We need to stop Hive by any means necessary."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll deal with the government. You do whatever it takes to end this."
+        },
+        {
+            "character": "May",
+            "line": "All options on the table?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Desperate times, desperate measures. You might want to go out the back. He's coming in."
+        },
+        {
+            "character": "Coulson",
+            "line": "General Talbot, right on time."
+        },
+        {
+            "character": "Talbot",
+            "line": "What in the Knievel happened to you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Little fender bender. No big deal."
+        },
+        {
+            "character": "Talbot",
+            "line": "You sure you should be in the driver's seat? I thought we agreed on full disclosure."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to see my X-rays? I'll put them in a nice frame for you."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm talking about this gin joint out in the middle of no man's land. You promised me you'd show me the base without any three-hour fly-arounds this time."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to talk first."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll talk. You listen. I'm here because the president sent me. The Sokovia Accords are law of the land now. He's concerned you may have some undocumented Enhanced assets working for you."
+        },
+        {
+            "character": "Coulson",
+            "line": "And why would they think that?"
+        },
+        {
+            "character": "Talbot",
+            "line": "‘Cause he's not a moron. Come on, Phil. It's time for S.H.I.E.L.D. to come in from the cold, relegitimize."
+        },
+        {
+            "character": "Coulson",
+            "line": "In exchange for revealing and registering any Inhumans we may have? Not gonna happen."
+        },
+        {
+            "character": "Talbot",
+            "line": "Why are you so pigheaded? It's good enough for the Avengers."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not all of them. And the Avengers operate in the spotlight. We work in the shadows."
+        },
+        {
+            "character": "Talbot",
+            "line": "What's going on in those shadows, Phil? That's what I want to know. You better start opening some doors, or I promise ya, I'm gonna start kicking them down."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. Let's go for a ride."
+        },
+        {
+            "character": "Talbot",
+            "line": "No blindfold?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No blindfold, but you might want to buckle up."
+        },
+        {
+            "character": "Talbot",
+            "line": "What?"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "MacePressConferenceAssassinationAttempt",
+    "description": "Director Mace gives a speech publicly welcoming Daisy back into S.H.I.E.L.D. as Mack and Coulson provide security and note a missing agent on the rooftop. Talbot and Burrows coordinate security protocols, but the event is thrown into chaos when a sniper takes a shot at Mace, who protects himself with the podium. Daisy leaps into action to stop the sniper. Coulson and Mack hustle Mace and Burrows through the panicked crowd, aiming to get them to safety.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "glenn_talbot",
+        "jemma_simmons",
+        "melinda_may",
+        "skye",
+        "jeffrey_mace"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "No, a true hero's not in it for the glory. Some seek out justice in the face of danger even if it means living life in the shadows. But I'm proud to announce that Daisy Johnson, one of S.H.I.E.L.D.'s most dedicated agents, can finally step into the spotlight and get the recognition she deserves.During her time undercover, she risked her life to protect everyday citizens. When Watchdogs targeted the Edison Bridge, Agent Johnson held off the collapse until everyone was evacuated. Now, she fled to protect her cover, but today, we finally get to say, thank you. Right now, I would like to invite Sunbury's own Michelle Caldwell up to tell the story in her own words."
+        },
+        {
+            "character": "Caldwell",
+            "line": "Thank you, Director Mace. It's hard to remember details from that night, but three things stand out clearly, fire, falling, and Agent Johnson saving my life. I was heading home on the Edison Bridge..."
+        },
+        {
+            "character": "Mack",
+            "line": "Looks like Director Mace is enjoying this more than Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Know who's more excited about it than either of them?"
+        },
+        {
+            "character": "Mack",
+            "line": "General Talbot bails us out one time, then acts like we owe him a damn parade."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, he did what he had to do. Though it didn't reduce his ego any."
+        },
+        {
+            "character": "Mack",
+            "line": "Burrows isn't helping, either. If he gets any further up Talbot's ass, he'll need a snorkel."
+        },
+        {
+            "character": "Coulson",
+            "line": "And there they go again with the world's most conspicuous briefcase."
+        },
+        {
+            "character": "Mack",
+            "line": "What do you think's in there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Could be anything. Nuclear codes, hush money, Girl Scout Cookies."
+        },
+        {
+            "character": "Mack",
+            "line": "What's up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're supposed to have an agent on that roof."
+        },
+        {
+            "character": "Caldwell",
+            "line": "My son still has his mother, thanks to Agent Johnson. Thank you. Thank you so much."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh. Yeah. Okay. Sniper! Get down!"
+        },
+        {
+            "character": "Mace",
+            "line": "Stand clear!"
+        },
+        {
+            "character": "Daisy",
+            "line": "I've got eyes on the shooter."
+        },
+        {
+            "character": "Burrows",
+            "line": "Sir, wait! You're on the clock."
+        },
+        {
+            "character": "Talbot",
+            "line": "Coulson, we're initiating Contingency Plan Foxhole. Get the Director out of here, pronto."
+        },
+        {
+            "character": "Coulson",
+            "line": "Already on it. Sir, we need to get you to a safe house."
+        },
+        {
+            "character": "Mack",
+            "line": "We have a Quinjet standing by."
+        },
+        {
+            "character": "Mace",
+            "line": "Lead the way. Burrows, with me."
+        }
+    ]
+}

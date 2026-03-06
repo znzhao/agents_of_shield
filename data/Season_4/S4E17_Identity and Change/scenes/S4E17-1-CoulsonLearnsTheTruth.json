@@ -1,0 +1,85 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 1,
+    "scene_name": "CoulsonLearnsTheTruth",
+    "description": "In a classroom in the Framework, Daisy (as Skye) explains the true nature of the world to Phil Coulson, who is starting to remember fragments of the real world. Their conversation is interrupted when Grant Ward calls with a warning that Hydra is coming for Coulson. This scene sets the stakes for the episode as Daisy and Coulson prepare to evade Hydra's pursuit, and Daisy's alliance with Ward is revealed.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "tense",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "So, we're both from the “real world,” we're S.H.I.E.L.D. agents, our bodies are being held captive, and this is all a virtual prison, built to keep us sedated. Am I missing anything?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, that's about the gist of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I knew I wasn't crazy. Hydra lies about everything. The news? It's all fake. Take the Cambridge Incident. It was a setup. That girl shouldn't have been at that school in the first place."
+        },
+        {
+            "character": "Skye",
+            "line": "Where we're from, she died. This never happened."
+        },
+        {
+            "character": "Amy",
+            "line": "Hey, Mr. Coulson, my homework was done, I swear, but then my dad made me..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Amy, we've been over this. Until first bell, this is my time."
+        },
+        {
+            "character": "Amy",
+            "line": "Right. Okay. Geez. Sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's okay. Hydra used Cambridge to take control, in the name of law and order to justify everything. It wasn't supposed to be like this."
+        },
+        {
+            "character": "Skye",
+            "line": "I knew if anyone would understand, it'd be you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I would've figured it out a long time ago if it wasn't for the mind-control soap."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Wait. What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That blue soap everyone uses? Hydra loads it up with chemicals. It seeps into our bloodstream. Implants false memories into our brains. They want us to believe this is a magical place. But don't worry, I'm clear. I make my own soap now."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I think that you're talking about Project TAHITI. They messed with your head a little bit, which is why you probably remember some things, uh, Why don't we put the soap theories on hold just for one second, okay? Yeah?"
+        },
+        {
+            "character": "Ward",
+            "line": "We got a problem."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, you have no idea."
+        },
+        {
+            "character": "Ward",
+            "line": "Something big's going down over here. They're sending a unit to pick up your teacher friend."
+        },
+        {
+            "character": "Skye",
+            "line": "You're gonna need a substitute."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 16,
+    "scene_name": "AftermathCoulsonTaken",
+    "description": "The episode closes as Coulson finds himself in captivity with Raina, who demands to know the secret of the day after his resurrection. Meanwhile, the team regroups on the Bus, dealing with the shock of losing Coulson and comforting Mike's son Ace. The mood is dark and somber as the full cost of the operation becomes clear, and the team must face the uncertain future.",
+    "roles": [
+        "phil_coulson",
+        "raina",
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "michael_peterson"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "We land in half an hour."
+        },
+        {
+            "character": "Raina",
+            "line": "Good. The sooner we begin, the better."
+        },
+        {
+            "character": "Coulson",
+            "line": "Whatever this is, whatever you think you're doing, it won't work. I won't give you what you want."
+        },
+        {
+            "character": "Raina",
+            "line": "You will. And we want is simple. We want you to tell us about the day after you died."
+        }
+    ]
+}

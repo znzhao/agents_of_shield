@@ -1,0 +1,32 @@
+{
+    "season": 2,
+    "episode": 4,
+    "num": 13,
+    "scene_name": "WhitehallThreatensRaina",
+    "description": "The final scene shifts focus to Raina, who is contacted by Daniel Whitehall. Whitehall demands the Obelisk be returned within 48 hours, threatening dire consequences. The scene stresses HYDRA’s menace and sets the stage for future conflicts involving the artifact.",
+    "roles": [
+        "raina",
+        "daniel_whitehall"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "Yeah. I need to land in Miami as soon as possible. Whatever route gets me there. Tonight. Yes, I'll hold."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Hello, Raina. I'm Daniel Whitehall. You recently took something from me."
+        },
+        {
+            "character": "Raina",
+            "line": "Oh, the Obelisk. I see what this is now. I can help you..."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Raina, I'm not like most of the people with whom you interact. I'm not easily confused. I've been around too long to lose sight of what's mine. I generally don't do my own dirty work anymore. We should all aspire to do only that which we enjoy, don't you agree? But in your case, I will make an exception. 48 hours seems fair, doesn't it, to bring it back to me? I once operated on a woman on and off for a full week. The struggle really is keeping the patient awake. Pain at certain levels has a tendency to cause us to black out, and that can be incredibly frustrating. But I'm confident I can do better now. I can find you wherever you are. Bring me the Obelisk. 48 hours. The clock starts... now."
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "DekeSquadIntroducedAtTheLighthouse",
+    "description": "Deke brings Mack to the Lighthouse headquarters, where he introduces the rest of the Deke Squad and presents Coulson, whose consciousness now inhabits a TV. Mack is surprised to see Coulson still 'alive' while Deke and Coulson fill the group in on Sibyl's fate, her surviving the explosion, and the possibility of her building new robot Hunters. Tension rises as Mack remains skeptical of Deke's approach to spy work.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ronnie",
+            "line": "What an honor to meet you, sir."
+        },
+        {
+            "character": "Tommy",
+            "line": "We are really, really big fans."
+        },
+        {
+            "character": "Ronnie",
+            "line": "Well, I mean, you know, maybe one is a slightly bigger fan."
+        },
+        {
+            "character": "Tommy",
+            "line": "Yeah, you know, probably the one who patterned his fighting style after Director Mackenzie."
+        },
+        {
+            "character": "Ronnie",
+            "line": "And you call that a fighting style?"
+        },
+        {
+            "character": "Tommy",
+            "line": "Dude, you do not want me to break out these thunderclouds."
+        },
+        {
+            "character": "Ronnie",
+            "line": "Yeah, my Doppler radar detects a fist storm."
+        },
+        {
+            "character": "Deke",
+            "line": "Guys, guys, just tone it down, like, a lot of notches."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey. This is a top-secret military facility, not a party pad for you and your friends."
+        },
+        {
+            "character": "Deke",
+            "line": "Feels like you're over-reacting."
+        },
+        {
+            "character": "Mack",
+            "line": "Not even a little."
+        },
+        {
+            "character": "Deke",
+            "line": "Coulson seemed fine with it."
+        },
+        {
+            "character": "Mack",
+            "line": "Wh... Coulson's alive?"
+        },
+        {
+            "character": "Deke",
+            "line": "Coulson's body disintegrated when he blew up those Chronicoms, but his mind... life data... stayed safe and sound on a hard drive. Now, I didn't have much in the way of resources, so... I had to improvise."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "And not a bunch of ones and zeroes trapped in a digital Hell? I'd like to think so. But admittedly, there's been some real soul-searching here."
+        },
+        {
+            "character": "Deke",
+            "line": "God, listen to this guy. So humble. You know he single-handedly demolished the Chronicoms, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, it cost me both hands. It's good you're here, Mack. From what I can tell, Sibyl's still out there."
+        },
+        {
+            "character": "Mack",
+            "line": "Sibyl?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The head Chronicom. She uses something called Time Streams to predict the future."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, but I bet her crystal ball didn't show a certain Big Bang coming. Am I right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Shouldn't this Sibyl have died in the blast?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You'd think, but then again, I made it out on a hard drive, which got me thinking about ways she might have escaped."
+        },
+        {
+            "character": "Deke",
+            "line": "Coulson's found evidence that Sibyl slipped into the River's End power supply."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been monitoring the local grid. Every time there's a power surge, more of these appear."
+        },
+        {
+            "character": "Mack",
+            "line": "So, you think she's reaching out. Any idea what for?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I think Sibyl's building new Hunters."
+        }
+    ]
+}

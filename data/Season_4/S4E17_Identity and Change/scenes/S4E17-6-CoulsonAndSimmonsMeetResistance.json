@@ -1,0 +1,131 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 6,
+    "scene_name": "CoulsonAndSimmonsMeetResistance",
+    "description": "Coulson and Simmons make contact with a resistance agent, using a secret codephrase. They are taken into custody and, after hoods are removed, meet Jeffrey Mace, the leader of the resistance and the Patriot in the Framework. Mace gives them a tour of the Playground, now a S.H.I.E.L.D. base for hiding and protecting Inhumans. Ward arrives, bringing news of Skye’s capture and handing over Radcliffe's location. After Simmons proves her loyalty, the group convinces Mace to authorize a mission to find Radcliffe, with Ward as pilot and supervisor.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "jeffrey_mace",
+        "billy_koenig"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "According to Ward's intel, the drone should leave in five seconds."
+        },
+        {
+            "character": "Coulson",
+            "line": "This Ward guy, where we're from, he's a friend of ours?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, he was. Didn't end well."
+        },
+        {
+            "character": "Simmons",
+            "line": "I take it you're our contact?"
+        },
+        {
+            "character": "Man",
+            "line": "For the season, it's been unusually rainy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Rain or shine, the man with the umbrella is always ready. What? Did I say it wrong?"
+        },
+        {
+            "character": "Man",
+            "line": "Hands out front. Wrists together."
+        },
+        {
+            "character": "Simmons",
+            "line": "Honestly, is this really necessary?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, cool!"
+        },
+        {
+            "character": "Mace",
+            "line": "I'm Jeffrey Mace. Welcome to S.H.I.E.L.D."
+        },
+        {
+            "character": "Mace",
+            "line": "Sorry about the hoods, but trust is a luxury these days. That being said, Ward vouched for you, so I'm happy to provide you sanctuary."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thank you, sir. My name is Jemma Simmons, and this is..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Phil Coulson. Wow. I can't believe it's really you. The Patriot! The Inhuman leader of the Resistance. He's kind of a big deal!"
+        },
+        {
+            "character": "Mace",
+            "line": "Uh, Jeffrey's fine. The Patriot's a little much for my taste."
+        },
+        {
+            "character": "Coulson",
+            "line": "Man, I dreamed about what your suit would look like. I made a few sketches, but this is actually way cooler."
+        },
+        {
+            "character": "Simmons",
+            "line": "This place... what happened here?"
+        },
+        {
+            "character": "Mace",
+            "line": "For about years after World War II, nothing. No one even knew it was here. But then, a couple years back, a brave agent named Billy Koenig gave his life getting me the location. It's taken all that time just to get it operational again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got to say, the whole Rebel Alliance aesthetic's really working for me."
+        },
+        {
+            "character": "Mace",
+            "line": "I'll take that as a compliment. I think? This way, please. The early days were tough. A lot of good agents died for this. Agent Burrows."
+        },
+        {
+            "character": "Burrows",
+            "line": "Sir, it's bad out there. And, uh... we lost Agent Cook. I'm sorry."
+        },
+        {
+            "character": "Mace",
+            "line": "We honor him by continuing the fight."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who are these people?"
+        },
+        {
+            "character": "Mace",
+            "line": "Potentials. Some of them have the Inhuman gene or they had a relative who did."
+        },
+        {
+            "character": "Simmons",
+            "line": "Hydra's hunting them."
+        },
+        {
+            "character": "Mace",
+            "line": "It's all we can do to find them first, give them shelter, and relocate them somewhere safe. Well, look what the cat dragged in."
+        },
+        {
+            "character": "Ward",
+            "line": "It's been too long, sir."
+        },
+        {
+            "character": "Mace",
+            "line": "What's happened?"
+        },
+        {
+            "character": "Ward",
+            "line": "They got Skye."
+        }
+    ]
+}

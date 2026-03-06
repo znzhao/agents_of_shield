@@ -1,0 +1,260 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "InvestigatingTheStaffAttack",
+    "description": "The team investigates a mysterious attack in a Norwegian forest, with Ward supporting Simmons' investigation of a tree hiding Asgardian technology. Fitz provides remote support, and Skye finds newscasts linking the attackers, Petra and Jakob, to a Norse Paganist hate group. Coulson leads the team in piecing together clues about the staff while Fitz and Simmons analyze the artifact and its possible connection to Asgardian mythology. The team realizes there are more pieces to the staff and prepares to track them down before the hate group does.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Larsen",
+            "line": "Baby, look."
+        },
+        {
+            "character": "Nystrom",
+            "line": "“South of the water, North of the hill... a halo of stones ...”"
+        },
+        {
+            "character": "Larsen",
+            "line": "“protect the tree still.” Jakob, is this it?"
+        },
+        {
+            "character": "Nystrom",
+            "line": "Finally, after all this time."
+        },
+        {
+            "character": "Larsen",
+            "line": "I can't wait to tell the others."
+        },
+        {
+            "character": "Nystrom",
+            "line": "I told you it was real... and that I would find it. Are you ready?"
+        },
+        {
+            "character": "Nystrom",
+            "line": "What you're feeling, don't fight it. That rage, it's already inside of you. Don't be afraid of it. Don't hide from its power. Embrace it. Embrace it!"
+        },
+        {
+            "character": "Ward",
+            "line": "I can climb it if you want. Just talk me through what to do with the... doodads. Yeah, it's only about 15 feet."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll be fine. I'm... I'm just a bit more wary about the height thing since falling to certain death."
+        },
+        {
+            "character": "Ward",
+            "line": "You're afraid. Hmm? Shaken up? It's normal. But some feelings will take over if you dwell on them. Especially fear. Now, keep your eyes ahead. Focus on what you like to do best."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yep. Not falling."
+        },
+        {
+            "character": "Ward",
+            "line": "No, research. You're a scientist. You like to figure things out."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. With my doodads."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm curious. Whatever was up in these trees had to be there for centuries, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "At least a millennium. Radiocarbon-14 dates some of these trees at 9,000 years old."
+        },
+        {
+            "character": "Ward",
+            "line": "That sounds impossible. Think the tree grew around it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'd have to check the dendrochronology first to know for certain."
+        },
+        {
+            "character": "Ward",
+            "line": "Uh-huh."
+        },
+        {
+            "character": "Simmons",
+            "line": "But, I mean, the Norway spruce is a rather fast-growing coniferous, and I know you're trying to trick me into going up, but I'm going up anyway, so..."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll catch you if you fall."
+        },
+        {
+            "character": "Ranger",
+            "line": "Screaming, and so much hate in her eyes."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you said she had a silver stick?"
+        },
+        {
+            "character": "Ranger",
+            "line": "Steel, maybe. I-I don't know. It, uh, had decorations on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Could you describe or draw them?"
+        },
+        {
+            "character": "Ranger",
+            "line": "I didn't get a good look. I... I just ran. Who would do something so evil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry for your loss."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, um, whatever was in here was definitely not from this world. Fitz, you getting this? It's not Chitauri, is it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no. Don't worry. This isn't another viral threat. Um, hang on. Spectrographic signatures match readings from... Thor's hammer. Simmons, whatever was in that tree is Asgardian."
+        },
+        {
+            "character": "Simmons",
+            "line": "I-I can see an imprint of what was embedded. Scanning for three-dimensional restoration. Tell me when."
+        },
+        {
+            "character": "Fitz",
+            "line": "When. Um, looks like a staff or a rod. Well crafted. Engraved. I'll convert it, print a 3-D model."
+        },
+        {
+            "character": "Ranger",
+            "line": "This forest is a protected reserve. I mean, who do they think they are?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Anything else? Details? Anything that might help us to find these people or where they might be hiding?"
+        },
+        {
+            "character": "Skye",
+            "line": "Sir, doesn't look like they're hiding."
+        },
+        {
+            "character": "May",
+            "line": "Sending to your devices now."
+        },
+        {
+            "character": "Reporter",
+            "line": "... raiding has left 20 injured, 3 in critical condition. Reports indicate that the group of about a dozen was led by this man and woman, and though their motive was unclear, their message was hauntingly spelled out on the streets of Oslo."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I guess we know who they think they are."
+        },
+        {
+            "character": "Ward",
+            "line": "Jakob Nystrom, 30. Girlfriend, Petra Larsen. Leaders of a Norse Paganist hate group."
+        },
+        {
+            "character": "Skye",
+            "line": "And their numbers are growing, thanks to what happened in Greenwich and thanks to the internet. Yay, internet, she said sarcastically."
+        },
+        {
+            "character": "Simmons",
+            "line": "Norse Paganist?"
+        },
+        {
+            "character": "Skye",
+            "line": "Obsessed with anything derived from Norse mythology... stories of Asgard."
+        },
+        {
+            "character": "Ward",
+            "line": "And now a weapon."
+        },
+        {
+            "character": "Fitz",
+            "line": "The scan only accounted for one side. Too much damage to the tree for complete reproduction."
+        },
+        {
+            "character": "Simmons",
+            "line": "But see here... it's clearly broken on both ends."
+        },
+        {
+            "character": "Ward",
+            "line": "So there are more pieces?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Two at least."
+        },
+        {
+            "character": "Ward",
+            "line": "Which means Sid and Nancy may be looking for a complete set. And markings?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Asgardian symbolism. Hard to translate with our limited knowledge."
+        },
+        {
+            "character": "Skye",
+            "line": "You should give your buddy the god of thunder a shout. He gets his power from his hammer, right? What if this is his nail to the hammer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I already did. Director Fury told me he's off the grid. And if he has a cellphone, we don't have the number."
+        },
+        {
+            "character": "May",
+            "line": "S.H.I.E.L.D.'s investigations are on the trail of Nystrom and his followers."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're charged with identifying the object and finding any other pieces before they do."
+        },
+        {
+            "character": "Ward",
+            "line": "They seem to have some advantage. They found this thing in 150 square kilometers of Norwegian forest."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys. What if it called to them with magic?"
+        },
+        {
+            "character": "May",
+            "line": "Called to them."
+        },
+        {
+            "character": "Skye",
+            "line": "We know it's Asgardian, so the rules are a little bendy here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Just because we don't understand something yet doesn't mean we should regress back to the dark ages, talking of magic and fairy tales."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, that's exactly what we're going to do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Skye",
+            "line": "Really?"
+        },
+        {
+            "character": "Coulson",
+            "line": "When we first found the hammer in New Mexico, I consulted one of the world's leading experts on Norse mythology, Elliot Randolph, a Professor at a university in Seville. We'll leave immediately. Maybe he can tell us more about these markings."
+        }
+    ]
+}

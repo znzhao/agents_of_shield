@@ -1,0 +1,19 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 3,
+    "scene_name": "LucyFindsTheDarkhold",
+    "description": "Lucy Bauer, distressed, manages to locate the Darkhold at its original hiding place. However, when she attempts to read it, the pages remain blank for her, frustrating her ambitions.",
+    "roles": [
+        "lucy_bauer"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Lucy",
+            "line": "No. No. No. No, no, no, no, no! N-o-o-o-o!"
+        }
+    ]
+}

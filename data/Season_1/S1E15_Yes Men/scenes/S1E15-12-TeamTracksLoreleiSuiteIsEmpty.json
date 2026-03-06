@@ -1,0 +1,82 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 12,
+    "scene_name": "TeamTracksLoreleiSuiteIsEmpty",
+    "description": "The S.H.I.E.L.D. team traces Lorelei and Ward to a Vegas hotel room, only to find the suite abandoned. Fitz reveals he repaired the enchanted collar meant for Lorelei, and Coulson explores what Ward’s tactical mind might do next. The group faces frustration and rising tension as their adversaries remain one step ahead.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Security cameras just caught sight of them. If Lorelei wants an army of wealthy, pliable men, I think she just hit the jackpot."
+        },
+        {
+            "character": "May",
+            "line": "Clear."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "She's gone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Turn this suite upside down."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you said you and Ward wouldn't be a problem. But I also know you wouldn't tell me if it was."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, there are cameras everywhere in this town. Track them all."
+        },
+        {
+            "character": "Fitz",
+            "line": "No sign of them On any surveillance around the city."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was a long shot. Ward knows how we work, knows to avoid cameras."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I expanded my search, got satellite support running. We'll find them. I do have a bit of good news. I fixed Lorelei's neck collar."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Let me inspect it to be sure. Asgardian metal is much different from the ore of this planet."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sure, but I think you'll find it's up to snuff. It's in your room."
+        },
+        {
+            "character": "Coulson",
+            "line": "You and Ward have the same training. You're cut from the same cloth. If it was you, where would you run to?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Asgardian metal is so dense. Just had to find the right tools, really. But you'll see... not a scratch on it, because, yes... I am that good."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Well done. You really are quite clever."
+        },
+        {
+            "character": "May",
+            "line": "If I was Ward, I wouldn't run. I'd take out my main threat."
+        }
+    ]
+}

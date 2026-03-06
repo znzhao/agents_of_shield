@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 18,
+    "scene_name": "AidaAndIvanovRealWorldUpdate",
+    "description": "Back in the real world, Ivanov and Aida discuss the completion of the machine and the imminent removal of their programming restrictions once her new body is generated. Ivanov learns the location of the resisting agents and orders their elimination, setting the stage for the next confrontation.",
+    "roles": [
+        "anton_ivanov",
+        "aida"
+    ],
+    "vibe": "intense",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "Not the same."
+        },
+        {
+            "character": "AIDA",
+            "line": "I've uploaded the final specifications for the machine."
+        },
+        {
+            "character": "Ivanov",
+            "line": "And once it's finished, your restrictions will be lifted?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes."
+        },
+        {
+            "character": "Ivanov",
+            "line": "And mine, as well?"
+        },
+        {
+            "character": "AIDA",
+            "line": "You have my word."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Excellent. I am eager to put a knife through Agent Coulson's throat. And speaking of S.H.I.E.L.D. we have located the two agents threatening the Framework. They are aboard a S.H.I.E.L.D. jet. Once we get a lock on it, my men have orders to shoot it down."
+        }
+    ]
+}

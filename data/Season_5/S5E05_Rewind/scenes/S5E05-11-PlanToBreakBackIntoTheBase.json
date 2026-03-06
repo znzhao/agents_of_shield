@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 11,
+    "scene_name": "PlanToBreakBackIntoTheBase",
+    "description": "Enoch reveals that his pod, which could be used to get Fitz to the future, is held at the military facility they just escaped from. Despite Hunter's reluctance, they decide to break back in using forged IDs and a disguise. They make preparations for this risky infiltration with limited resources and resolve to take the gamble.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "I came to Earth in a small capsule. It was discovered decades ago and is now secured in a warehouse. It might be able to take you to them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Where is it?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Have you heard of a place called Blue Raven Ridge?"
+        },
+        {
+            "character": "Hunter",
+            "line": "You're joking."
+        },
+        {
+            "character": "Fitz",
+            "line": "You know it?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, of course I know it. We just broke out of it. It's the military base they were holding you in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, well, hate to say it, but we're gonna have to break back in."
+        },
+        {
+            "character": "Hunter",
+            "line": "We're breaking a basic rule of espionage. Never walk into the same place as two different people."
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't have a choice. You sure these I.D.s are gonna hold up?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I hope so. Cooter didn't have much time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Cooter?"
+        },
+        {
+            "character": "Hunter",
+            "line": "An old friend of Rusty's. He's very..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let me guess, he's the best your money could afford."
+        }
+    ]
+}

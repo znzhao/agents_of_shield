@@ -1,0 +1,82 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 9,
+    "scene_name": "MayAndMorseDiscussAndKaraIsImprisoned",
+    "description": "May and Morse discuss Agent 33's fate, debating whether Kara deserves empathy given her past actions with Ward. Mack and Morse also talk about their personal choices regarding S.H.I.E.L.D., Hunter, and forgiveness. May reveals that she too misses her old S.H.I.E.L.D. days and reflects on her strained relationship with Coulson in light of Skye's recent revelations.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "We're locking her up?"
+        },
+        {
+            "character": "May",
+            "line": "Don't tell me you empathize."
+        },
+        {
+            "character": "Morse",
+            "line": "She was one of us."
+        },
+        {
+            "character": "May",
+            "line": "So was Grant Ward. Look, when she takes your face, then we can talk."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm. Shouldn't do that without a spotter."
+        },
+        {
+            "character": "Mack",
+            "line": "My spotter's always late."
+        },
+        {
+            "character": "Morse",
+            "line": "Needed to practice my speech."
+        },
+        {
+            "character": "Mack",
+            "line": "Nothing you say is gonna change my mind, Barbara."
+        },
+        {
+            "character": "Morse",
+            "line": "Things could be different, you know. Sometimes, anarchy brings order."
+        },
+        {
+            "character": "Mack",
+            "line": "My favorite idealist. You talk to Hunter yet?"
+        },
+        {
+            "character": "Morse",
+            "line": "He still hasn't looked me in the eye. About three days after that, he'll be ready to talk."
+        },
+        {
+            "character": "Mack",
+            "line": "You two are messed up."
+        },
+        {
+            "character": "Morse",
+            "line": "Says the guy who put him in a choke hold. Though he's been pretty quick to forgive you."
+        },
+        {
+            "character": "Mack",
+            "line": "He's using me to piss you off. You know that, right?"
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter's always worn his heart on his sleeve. I don't know how to do that. Maybe something's wrong with me. I think I'm up."
+        },
+        {
+            "character": "May",
+            "line": "I miss my plane."
+        }
+    ]
+}

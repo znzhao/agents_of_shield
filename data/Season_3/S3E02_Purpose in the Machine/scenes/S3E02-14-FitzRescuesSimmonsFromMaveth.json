@@ -1,0 +1,56 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 14,
+    "scene_name": "FitzRescuesSimmonsFromMaveth",
+    "description": "On the alien planet Maveth, Fitz locates Simmons amidst the harsh winds. They call out to each other, managing to make contact as the portal starts to destabilize back in the castle. Coulson’s team pulls Fitz and Simmons to safety just as Daisy collapses from the strain, and the portal explosively closes. Everyone regroups, and Simmons is safe—a triumphant, emotional reunion.",
+    "roles": [
+        "skye",
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Fitz, no!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma! Jemma! Jemma! Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz! Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma? Jemma? Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh! Fitz!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it. Pull him back! Get him back here."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can't hold it!"
+        },
+        {
+            "character": "Mack",
+            "line": "You did good, tremors. You did good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz..."
+        }
+    ]
+}

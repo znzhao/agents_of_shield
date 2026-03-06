@@ -1,0 +1,21 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 5,
+    "scene_name": "FitzSimmonsAndBanksAmbushed",
+    "description": "At the Distant Star Pathfinder facility, Simmons and Fitz argue over the ethics of opening another portal to rescue Will, while Banks guides them. Suddenly, Giyera uses his powers to seize control of Banks' weapon, killing the agents and taking FitzSimmons captive for HYDRA.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "giyera"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Seems unlikely anything portal-related is still here."
+        }
+    ]
+}

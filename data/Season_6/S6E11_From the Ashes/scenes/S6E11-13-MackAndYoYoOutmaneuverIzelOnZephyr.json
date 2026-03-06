@@ -1,0 +1,45 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 13,
+    "scene_name": "MackAndYoYoOutmaneuverIzelOnZephyr",
+    "description": "Back on Zephyr, Mack, Elena, and Benson coordinate to send their location to S.H.I.E.L.D as Izel manipulates them. Elena manages to grab the gravitonium device, and Mack uses the chaos to drop Benson in a pod out of the plane so S.H.I.E.L.D. can track him. Izel prepares her plans for the temple as the team starts to regroup.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "marcus_benson"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "I'm just tired of waking up like this. Benson?"
+        },
+        {
+            "character": "Mack",
+            "line": "We got him out. He's safe, but I don't know if it's enough."
+        },
+        {
+            "character": "Elena",
+            "line": "Still no sign of S.H.I.E.L.D. ?"
+        },
+        {
+            "character": "Mack",
+            "line": "Not yet."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, at least his nightmare's over. What is she doing?"
+        },
+        {
+            "character": "Mack",
+            "line": "Making her dreams come true."
+        }
+    ]
+}

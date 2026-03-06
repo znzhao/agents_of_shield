@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "DaisyEnlistsSimmonsForBloodTest",
+    "description": "Back at the Playground, Daisy asks Simmons to test Banks' blood for the Inhuman marker. Simmons, eager to help, agrees and promises to let Daisy know as soon as she has results. The scene is brief but critical in advancing the Lash investigation.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "All I'm saying is that you've been through something extreme. There will be after-effects. Sound familiar?"
+        },
+        {
+            "character": "Andrew",
+            "line": "It's eye-opening, being on this side of the counseling. People treat you with kid gloves. They mean well, but the more they try to help..."
+        },
+        {
+            "character": "Simmons",
+            "line": "The weaker you feel."
+        },
+        {
+            "character": "Andrew",
+            "line": "Maybe it's our PHDs. Makes them underestimate just how strong we really are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Might just be. Excuse me. Daisy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Jemma, I know you haven't been in the lab and I hate to ask you to do work, but if..."
+        },
+        {
+            "character": "Simmons",
+            "line": "In fact, I can handle it, actually. Whatever it is."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you have time to run a blood analysis? I want to see if Banks has Inhuman markers."
+        },
+        {
+            "character": "Simmons",
+            "line": "I have plenty of time. Send away."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thank you, Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll call when I know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Anything?"
+        }
+    ]
+}

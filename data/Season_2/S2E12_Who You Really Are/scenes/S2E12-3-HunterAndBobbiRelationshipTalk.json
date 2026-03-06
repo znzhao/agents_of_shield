@@ -1,0 +1,80 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "HunterAndBobbiRelationshipTalk",
+    "description": "Lance Hunter and Bobbi Morse discuss the nature of their relationship amidst banter about responsibility and S.H.I.E.L.D.'s needs. Their flirtatious and reflective conversation highlights unresolved issues from their past, setting up the interpersonal dynamics that play into the team's cohesion.",
+    "roles": [
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Water."
+        },
+        {
+            "character": "Hunter",
+            "line": "So... Coulson calls me into his office the other day."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I thought he was gonna read me the riot act... S.H.I.E.L.D.'s rules about fraternizing with fellow operatives."
+        },
+        {
+            "character": "Morse",
+            "line": "They're strict."
+        },
+        {
+            "character": "Hunter",
+            "line": "But... he made me an offer. Wants to make my position here permanent. He's shorthanded now."
+        },
+        {
+            "character": "Morse",
+            "line": "You thinking about it?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, wasn't thinking of leaving anytime soon. And I wouldn't mind taking on some more responsibility."
+        },
+        {
+            "character": "Morse",
+            "line": "Responsibility? Did you hear the words that just came out of your mouth?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. That sounded a bit strange, didn't it?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah. Who is that guy?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I don't know. But I do not trust him. Anyhow, can't hurt. Plus, this is fun."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh. Fun was never a problem for us."
+        },
+        {
+            "character": "Hunter",
+            "line": "No, you're right. That part was always easy."
+        },
+        {
+            "character": "Morse",
+            "line": "Till things go South."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, then you turn into a bit of a nightmare. I remember it well. You tell me. It seems the thing that always came between us was your dedication to S.H.I.E.L.D. Now we're on the same team. It's simpler."
+        }
+    ]
+}

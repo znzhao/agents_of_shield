@@ -1,0 +1,52 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "MayAndAmadorHotelConfrontation",
+    "description": "May tracks Amador to her hotel room, where a tense standoff ensues. Amador, terrified of her handler’s kill switch, fights May in a darkened room. Just as the conflict escalates, Coulson tranquilizes Amador, preventing either agent from being killed.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Whoever's monitoring you, do they have audio?"
+        },
+        {
+            "character": "Amador",
+            "line": "No. But they'll use facial recognition to determine you're a S.H.I.E.L.D. agent."
+        },
+        {
+            "character": "May",
+            "line": "So I don't have to introduce myself."
+        },
+        {
+            "character": "Amador",
+            "line": "Did Coulson send you?"
+        },
+        {
+            "character": "May",
+            "line": "No. He feels sorry for you. I don't. I'm bringing you into S.H.I.E.L.D., you'll get a fair trial, and no one else gets hurt."
+        },
+        {
+            "character": "Amador",
+            "line": "You have no idea, do you?"
+        },
+        {
+            "character": "May",
+            "line": "We know that you receive orders."
+        },
+        {
+            "character": "Amador",
+            "line": "Then you know that once they see you, only one of us gets to walk out of here. They built in a fail-safe. Either I kill you... or they kill me."
+        },
+        {
+            "character": "May",
+            "line": "You should have stayed in bed."
+        }
+    ]
+}

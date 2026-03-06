@@ -1,0 +1,195 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "SargeNegotiatesWithMack",
+    "description": "On Earth, Sarge confronts Mack, demanding his truck and loyal crew to pursue the Shrike threat. Mack resists, insisting on oversight and only allows Sarge one team member of his own. Tensions escalate as Mack bargains and ultimately coerces Deke into fixing Sarge's equipment for the mission.",
+    "roles": [
+        "sarge_pachakutiq",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "deke_shaw",
+        "elena_rodriguez"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "If you don't stop wasting my time, you're gonna lose your planet."
+        },
+        {
+            "character": "Mack",
+            "line": "That's what you'd like us to think."
+        },
+        {
+            "character": "Sarge",
+            "line": "We had a deal, Mack. My truck and my crew. Now."
+        },
+        {
+            "character": "Mack",
+            "line": "You'll get them. But first, I need to know what your plan is."
+        },
+        {
+            "character": "Sarge",
+            "line": "My plan is to stop it."
+        },
+        {
+            "character": "Daisy",
+            "line": "The end of the world? Yeah, been there, done that."
+        },
+        {
+            "character": "May",
+            "line": "How can those Shrike creatures destroy an entire planet?"
+        },
+        {
+            "character": "Elena",
+            "line": "They'd have to infect everything."
+        },
+        {
+            "character": "Sarge",
+            "line": "If there's enough of them, they will. They're paving the way for their Creator. You saw what happened on Chronyca-2. That was because we got there too late. Keys. I'm not asking again."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry. I'm not very fluent in “vague.” You'll get your keys when I get some answers. Now show us."
+        },
+        {
+            "character": "Sarge",
+            "line": "The Shrike... their hosts are gathering at this location. That's where the Beast will appear. When it does, I need to be there."
+        },
+        {
+            "character": "May",
+            "line": "A beast?"
+        },
+        {
+            "character": "Elena",
+            "line": "What happens when it appears?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I kill it. Keys. Now my crew."
+        },
+        {
+            "character": "Mack",
+            "line": "Agents May and Johnson will be going with you."
+        },
+        {
+            "character": "Sarge",
+            "line": "I said my crew."
+        },
+        {
+            "character": "Mack",
+            "line": "They're your crew now. You can have one of yours."
+        },
+        {
+            "character": "Sarge",
+            "line": "Forget it. No deal. I'll just stay here and watch your planet die."
+        },
+        {
+            "character": "Mack",
+            "line": "You're more than welcome, but I don't think you came all this way just to lose again."
+        },
+        {
+            "character": "Sarge",
+            "line": "Give me two."
+        },
+        {
+            "character": "Mack",
+            "line": "You get one. The others stay here."
+        },
+        {
+            "character": "Sarge",
+            "line": "How long are we gonna do this?"
+        },
+        {
+            "character": "Mack",
+            "line": "I need an insurance policy ‘cause I'm pretty sure you'll be willing to leave one behind, but not two."
+        },
+        {
+            "character": "Sarge",
+            "line": "Insurance?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, to guarantee you come back. And when this is done, you and I are gonna have a very un-vague conversation about who you are and where you're from. Now pick one."
+        },
+        {
+            "character": "Sarge",
+            "line": "Make yourselves useful. I'll take that. No, on second thought, just stay out of our way and don't touch anything. You two... out. We'll handle this. So... we all gonna get along?"
+        },
+        {
+            "character": "May",
+            "line": "You're in charge. We're just here to help."
+        },
+        {
+            "character": "Sarge",
+            "line": "Okay, well, I know what you do. You just kinda glare all steely-eyed like that and then beat people senseless. What about you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm a hacker."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Like... you hack off limbs? Chop people up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I hack computers. It means I-I know how they work."
+        },
+        {
+            "character": "Sarge",
+            "line": "Oh, well, that'll come in handy exactly zero times on this mission. Can you handle weapons? You good in a fight?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I can... handle myself."
+        },
+        {
+            "character": "Mack",
+            "line": "You ready to go yet? You got everything you requested."
+        },
+        {
+            "character": "Sarge",
+            "line": "Just need one more thing. You off my truck."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh. Well... You're in charge."
+        },
+        {
+            "character": "Sarge",
+            "line": "I keep hearing that, but am I? I don't want any more surprises. This mission depends on stealth."
+        },
+        {
+            "character": "Mack",
+            "line": "We'll stay on the base. You got my word. But in the meantime, we'll be standing by, ready to fly if you need us."
+        },
+        {
+            "character": "Sarge",
+            "line": "I won't, but... Damn it! This is why I need my crew. Pax is the only one who can fix this."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you picked Snowflake. Now, what is that?"
+        },
+        {
+            "character": "Sarge",
+            "line": "It was designed to keep the Shrike away. It emits a sonic pulse or something. It disrupts their equilibrium. It... It confuses them."
+        },
+        {
+            "character": "Daisy",
+            "line": "Shrike repellant?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Call it what you want, but without it, they'll be all over us. I need Pax."
+        },
+        {
+            "character": "Mack",
+            "line": "I know someone who can fix it."
+        }
+    ]
+}

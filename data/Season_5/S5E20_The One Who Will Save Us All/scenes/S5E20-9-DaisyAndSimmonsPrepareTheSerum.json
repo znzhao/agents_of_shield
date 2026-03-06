@@ -1,0 +1,64 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 9,
+    "scene_name": "DaisyAndSimmonsPrepareTheSerum",
+    "description": "Daisy and Simmons work together on a risky procedure: combining Jiaying's DNA with the Centipede formula in hopes of saving Coulson. Daisy pressures Simmons to ignore the moral qualms, stressing the urgency and importance of their leader's life. The weight of their decision lingers as the Zephyr team prepares for the rescue mission.",
+    "roles": [
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "What happened there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "This Remorath ingested a substance that stimulated every single cell in its body."
+        },
+        {
+            "character": "Daisy",
+            "line": "And what, its heart exploded?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Rather macabre, isn't it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just you wait."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where did you get that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What matters is that we might be able to save Coulson, by combining that with my mum's DNA."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Daisy, this feels like we may be crossing a line."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then we cross it. Are you just willing to let Coulson die?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not that simple. There are moral implications."
+        },
+        {
+            "character": "Daisy",
+            "line": "This isn't a morality debate, it's just a question. Are you willing to let Coulson die? Yes or no?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Good. Then get to work. This is your top priority."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 3,
+    "scene_name": "CoulsonContactsTeamOnZephyrOne",
+    "description": "Coulson fills in Simmons, Daisy, and Mack about the altered timeline and Sousa's upcoming fate. The team deduces the location of the package and makes plans to retrieve it from Dr. Lindmore's home. The importance of the mission and the historical stakes they face are stressed, with the Zephyr One crew coordinating actions to ensure the timeline stays intact, even as they worry about intervening in Sousa’s fate.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I got through to the team, filled them in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Even if it wasn't the way they intended, the Chronicoms may have altered history."
+        },
+        {
+            "character": "Simmons",
+            "line": "When they took the body of Dr. Lindmore, who happened to be working on technology vital to the future of S.H.I.E.L.D."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, so, just to clarify, the history books say that tonight, Sousa delivers that thing and then he... he dies?"
+        },
+        {
+            "character": "Mack",
+            "line": "Unfortunately, yes. So... Lindmore's body is somewhere with his face erased."
+        },
+        {
+            "character": "Simmons",
+            "line": "And that's where the device would be."
+        },
+        {
+            "character": "Mack",
+            "line": "We need to find his address. Coulson, as soon as we do, I'll send a team to retrieve this gadget and bring it to you on the train."
+        },
+        {
+            "character": "Coulson",
+            "line": "You'll find me in the lounge car on the 5:10 to Los Angeles."
+        }
+    ]
+}

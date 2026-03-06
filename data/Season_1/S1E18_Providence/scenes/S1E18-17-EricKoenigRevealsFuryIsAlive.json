@@ -1,0 +1,100 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 17,
+    "scene_name": "EricKoenigRevealsFuryIsAlive",
+    "description": "Koenig reveals to Coulson in confidence that Nick Fury survived the fall of S.H.I.E.L.D., despite official reports. Citing orders direct from Fury, Koenig explains that only a handful of individuals are privy to this truth and demands Coulson keep it secret, placing additional pressure on Coulson as leader.",
+    "roles": [
+        "eric_koenig",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Eric Koenig",
+            "line": "It's nice having company. But don't get me wrong. I mean, this place is great."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's with the windows?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Oh, that's supposed to make the isolation more bearable. Every day of the week, different view. Wednesday's pretty terrific if you like topless beaches."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, how long have you been in here?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Since the Chitaurnvaded New York."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Oh, it's not so bad. Reading a ton of historical fiction, gaming online with my brother. We're racking up major “Call of duty” hours. You play?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Of course. Lately, not so much."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, was there something you wanted to tell me?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Yes! My bad. Fury is not dead."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Yeah, the ... Hydra thinks they killed him, but he managed to escape from D.C."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you just lied to my team."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Well, I don't know them. And those are Fury's direct orders. Only a select few people can know that he's alive... Maria Hill, Cap, a couple of others, and now you and me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where is he now?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "No one knows. Ever since he went dark, no one's heard from him. This is highest priority, full Eclipse protocol. No one else can know."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not comfortable keeping secrets from my team."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Well, they haven't been vetted. And if you talk, we're gonna have a major problem."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you threatening me?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "100%. Fury's orders. Not big on the trust, is he? So we're good?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're good."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Great! I'm gonna get you set up with a lanyard. Uh, maybe ask Agent May to pull the plane in. I've got a parking space for her and everything."
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 10,
+    "scene_name": "FitzAndSimmonsDiscoverLMDBrains",
+    "description": "Fitz, Simmons, and Mack investigate the exposed brain of the Radcliffe LMD at The Playground, realizing it consists of light and quantum energy as opposed to a conventional physical organ. This leads to the discovery that Radcliffe mapped another brain, implicating that Agent May's brain has been copied. The realization sets in that the real May is missing and an LMD has replaced her.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "holden_radcliffe"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I keep telling myself I don't care if Radcliffe knows my father, I'm over it, but maybe I'm not. Maybe I'm stuck in a loop. Radcliffe, Ward, my dad. They're all the same. It keeps happening."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't see it that way."
+        },
+        {
+            "character": "Fitz",
+            "line": "Come on, Jemma. You know that it's true."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, they betrayed you. And after everything you've been through, no one would blame you if you put up your own firewall. But you didn't. Instead, you became the most open, loyal, caring person I've ever met."
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe that's why it keeps happening."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's why I fell in love with you. Who you really are, that's not programming. It's something way beyond that. That's it. Jemma you're the best."
+        },
+        {
+            "character": "Mack",
+            "line": "Just you and me now, Tin Man. You don't mess with my buddy and walk away from it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "If you shoot me now, it'll be murder."
+        },
+        {
+            "character": "Mack",
+            "line": "Nice try. Wrong guy. You're just a bunch of ones and zeroes, not flesh and blood."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Flesh and blood? That's not life, Mack. That's just biology, and biology is just software programming you to die."
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe. But I have something you will never have, a soul, that will continue long after I'm gone."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How can you be so sure I don't have one? If a soul doesn't come from your flesh and blood or my ones and zeroes, then it has to come from somewhere else, somewhere unrelated to our physical bodies. If you can have one, so can I."
+        },
+        {
+            "character": "Mack",
+            "line": "You are a sly one, aren't you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "If you don't think I'm alive and don't have a soul, then why did you feel the need to switch me on before killing me?"
+        },
+        {
+            "character": "Mack",
+            "line": "I like to hear robots scream."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack! Stop! Wait. I know a way around his programming."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "If you don't stop, you're gonna cause irreparable damage. You'll never learn what your father said."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't care. I'm out of that loop."
+        },
+        {
+            "character": "Mack",
+            "line": "You want to tell me what's going on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Something Jemma said. We're more than our programming. There's something else."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "All right, look. I give up. I'm ready to talk. What do you need to know?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He couldn't crack the code because it wasn't a code."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's just a bunch of gibberish."
+        },
+        {
+            "character": "Mack",
+            "line": "So what's running him? You... you... you telling me thing is a-alive?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Fitz, please. Stop."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, of course not. All I'm saying is... it has a brain."
+        }
+    ]
+}

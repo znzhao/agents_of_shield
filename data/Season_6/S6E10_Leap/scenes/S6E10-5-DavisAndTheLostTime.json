@@ -1,0 +1,65 @@
+{
+    "season": 6,
+    "episode": 10,
+    "num": 5,
+    "scene_name": "DavisAndTheLostTime",
+    "description": "Daisy and Elena question Davis about what happened the night before and find out that he and other agents also experienced a blackout, losing stretches of time. Davis recalls an oddly gentle May helping him after he blacked out, raising further suspicions about possible possession. Meanwhile, more strange behavior and lost time among agents fuel the team's anxieties.",
+    "roles": [
+        "elena_rodriguez",
+        "davis",
+        "piper"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "Would you guys quit banging?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You wouldn't answer."
+        },
+        {
+            "character": "Davis",
+            "line": "Sleeping off the festivities... Or trying to, with the pounding in my skull."
+        },
+        {
+            "character": "Elena",
+            "line": "You don't look so good, Davis."
+        },
+        {
+            "character": "Davis",
+            "line": "Funny. I feel fantastic. Can't party like I used to, I guess. I thought I learned my lesson after the space puff incident of 2019."
+        },
+        {
+            "character": "Daisy",
+            "line": "How many beers did you have last night?"
+        },
+        {
+            "character": "Davis",
+            "line": "Do not recall."
+        },
+        {
+            "character": "Daisy",
+            "line": "Did you, by any chance, see May in the corridor?"
+        },
+        {
+            "character": "Davis",
+            "line": "Oh. Yeah. After I blacked out, she was the first thing I saw when I came to, so I was in bad shape. She was cool about it... Sweet, really."
+        },
+        {
+            "character": "Elena",
+            "line": "Melinda May was “sweet?” Is there a different meaning for that word?"
+        },
+        {
+            "character": "Davis",
+            "line": "She said I looked like I was having trouble, couldn't argue with that, and I had to go rest. And yeah, now that I hear it out loud, she usually is more... gruff."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you lost time, too?"
+        }
+    ]
+}

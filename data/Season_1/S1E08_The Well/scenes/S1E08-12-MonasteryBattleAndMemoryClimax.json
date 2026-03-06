@@ -1,0 +1,220 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 12,
+    "scene_name": "MonasteryBattleAndMemoryClimax",
+    "description": "At the monastery, the team attempts to secure the last staff piece but find themselves under attack. Ward, affected by rage and trauma, confronts Jakob’s forces and battles furiously. Fitz and Simmons work desperately to save the mortally wounded Randolph, while Coulson helps with medical intervention. Ward experiences a harrowing flashback to his childhood, facing his most painful memory as he is forced to let go of the staff, and May steps in heroically to finish the fight using the staff herself.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Randolph",
+            "line": "Well, it's been a while. I wonder... Ah, yes. There it is. Still here. Well, the nose isn't quite right, but..."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's you?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Yeah. They venerated me a bit as a saint."
+        },
+        {
+            "character": "Ward",
+            "line": "They're idiots. Where's the staff?"
+        },
+        {
+            "character": "Randolph",
+            "line": "It's upstairs."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that the normal Ward or the new, angrier Ward? I can't tell."
+        },
+        {
+            "character": "May",
+            "line": "It's quiet."
+        },
+        {
+            "character": "Randolph",
+            "line": "Why do you think I trusted them with my secret? They take a vow of silence."
+        },
+        {
+            "character": "Nystrom",
+            "line": "But when you get them talking... they squeal. If you want to defeat a god, you must become one."
+        },
+        {
+            "character": "Skye",
+            "line": "We need to help him!"
+        },
+        {
+            "character": "May",
+            "line": "I'll get her."
+        },
+        {
+            "character": "Coulson",
+            "line": "How is he?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know what to do. He's not human."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's dying."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. We know, but she doesn't understand his anatomy. And I'm even w..."
+        },
+        {
+            "character": "Simmons",
+            "line": "What in god's name?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, my god."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sometimes, you have to just jump in and figure things out. Now, Asgardians regenerate faster than we do. Maybe we can keep him alive long enough..."
+        },
+        {
+            "character": "Simmons",
+            "line": "For his body to heal itself."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, what am I looking for?"
+        },
+        {
+            "character": "Simmons",
+            "line": "His heart."
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Help me!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, okay. I think I got it. Heart."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Can you feel a tear or rupture?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Clamp down hard on his heart."
+        },
+        {
+            "character": "Skye",
+            "line": "Grant, drop the staff."
+        },
+        {
+            "character": "Ward",
+            "line": "Get away from me."
+        },
+        {
+            "character": "May",
+            "line": "Agent Ward!"
+        },
+        {
+            "character": "Skye",
+            "line": "This isn't you."
+        },
+        {
+            "character": "Ward",
+            "line": "Get back."
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Please! Help me! Please! Please! Help me! Please, help me! Grant! Help me! Grant! Please! Help me! Please! Grant!"
+        },
+        {
+            "character": "Young Christian",
+            "line": "Not yet, Grant."
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Help me!"
+        },
+        {
+            "character": "Young Grant",
+            "line": "But he's gonna..."
+        },
+        {
+            "character": "Young Christian",
+            "line": "Not yet! Throw him the rope, and I'll throw you in there, too."
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Please! Grant!"
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, my god. Are you okay? Oh, you've got to be kidding me."
+        },
+        {
+            "character": "May",
+            "line": "This time, let me help."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay."
+        },
+        {
+            "character": "Skye",
+            "line": "Come on."
+        },
+        {
+            "character": "Larsen",
+            "line": "I am not afraid of you."
+        },
+        {
+            "character": "Randolph",
+            "line": "Am I dead?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Apparently not."
+        },
+        {
+            "character": "Randolph",
+            "line": "You are easily the most beautiful thing I've seen in a thousand years."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson did that? He just shoved his hand inside?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, he had to. I froze, didn't know what to do."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, you didn't freeze. You just weren't up for the... idea of putting your... hand inside somebody else's chest."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe I should jump in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        }
+    ]
+}

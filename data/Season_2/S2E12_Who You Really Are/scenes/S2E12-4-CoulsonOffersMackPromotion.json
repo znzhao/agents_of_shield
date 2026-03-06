@@ -1,0 +1,69 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "CoulsonOffersMackPromotion",
+    "description": "Coulson meets with Mack, hinting at a field promotion due to Mack's physical presence and abilities. Mack expresses reservations about violence, referencing his traumatic experience in Puerto Rico, but Coulson reassures him. May interrupts with intelligence about Lady Sif's capture in Portugal, prompting Coulson to gather the team.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "The last Stark copper jackets."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll make sure hill puts them on the list. Anything else?"
+        },
+        {
+            "character": "Mack",
+            "line": "Sir, I can handle inventory myself. And I hope this isn't about my reaction after..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I told you... we're fine. After Puerto Rico, we need to take stock. What happened out there was..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I don't like thinking about that."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't blame you, but I have been thinking about it, and I realized I've been wasting your talents."
+        },
+        {
+            "character": "Mack",
+            "line": "Sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Look, I know you love it under the hood of a car, but... I could really use you out in the field. You're a force to be reckoned with, Mack. Believe me."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, but violence isn't really my thing. You know, that alien crap made me into something I'm not."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. But have you seen yourself? You're a little bit of a beast all the time."
+        },
+        {
+            "character": "May",
+            "line": "A blue-dot operative in Portugal phoned in. You should hear what he has to say."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looks like you're starting now."
+        },
+        {
+            "character": "May",
+            "line": "Oh, you'll want everyone on the bus for this."
+        }
+    ]
+}

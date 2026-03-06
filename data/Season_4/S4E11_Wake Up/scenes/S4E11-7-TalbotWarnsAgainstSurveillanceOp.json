@@ -1,0 +1,81 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 7,
+    "scene_name": "TalbotWarnsAgainstSurveillanceOp",
+    "description": "Talbot confronts Coulson and Mace, emphasizing the risks of breaking into Nadeer's office and warning of the possible consequences if they're caught. Despite Talbot's concerns, Coulson insists the operation must go forward, while Mace mediates between them.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "jeffrey_mace"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Gentlemen, Agent Mackenzie requested personal time, so he's not with us on this."
+        },
+        {
+            "character": "Talbot",
+            "line": "Mack or no Mack, I'm urging you to reconsider the second part of this mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which part is the second part again?"
+        },
+        {
+            "character": "Talbot",
+            "line": "The stupid part."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ah. Nadeer's office."
+        },
+        {
+            "character": "Talbot",
+            "line": "If she discovers you've launched an unauthorized investigation into her, it's gonna trigger an investigation into you. There are always consequences."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's dangerous, but she is dangerous. And this is our chance to get ahead of it proactively."
+        },
+        {
+            "character": "Mace",
+            "line": "Gentlemen, I'm sure we..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Keep calling me reactive, Phil. Half the time, I'm reacting to the steaming pile of fart-pebbles you hand me."
+        },
+        {
+            "character": "Coulson",
+            "line": "And the other half, you're not giving me the full story. We're like the odd couple here."
+        },
+        {
+            "character": "Mace",
+            "line": "Gentlemen, we have a mission."
+        },
+        {
+            "character": "Talbot",
+            "line": "At the very least, we need a contingency plan. If she comes after you, she's gonna want S.H.I.E.L.D. records, S.H.I.E.L.D. assets. Let me take them to a military facility for protection."
+        },
+        {
+            "character": "Coulson",
+            "line": "That makes no sense. Our people are trained to protect those assets."
+        },
+        {
+            "character": "Talbot",
+            "line": "Until she deposes all of you."
+        },
+        {
+            "character": "Mace",
+            "line": "General, the assets belong here. And for the record, Nadeer tried to kill several people, including me. Coulson is right. We need to get ahead of her."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah, but you have to say that, don't you? Excuse me."
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 2,
+    "scene_name": "FrameworkResistanceRegroups",
+    "description": "Inside the Framework at the Playground, Skye reunites warmly with Simmons and Trip. Simmons takes Skye aside to discuss Aida's plan to escape into the real world and how vital it is to use Radcliffe's backdoor exit before Aida kills them. Despite Simmons' misgivings about leaving Fitz behind, Skye insists on prioritizing saving the others first. Skye also convinces Mack to join the mission under a vague pretense, despite his desire to stay with his daughter Hope.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "She's not subtle, that Madame Hydra."
+        },
+        {
+            "character": "Burrows",
+            "line": "Yeah, just look at her uniform. It's so crazy hot. I-I mean, if you're into the whole “bad girl” vibe. Not... not me. I'm just making an observation."
+        },
+        {
+            "character": "Skye",
+            "line": "Trip! Oh, my God. It's so good to see you!"
+        },
+        {
+            "character": "Triplett",
+            "line": "Hey person I don't know."
+        },
+        {
+            "character": "Skye",
+            "line": "Right. Yeah, sorry. I-I heard about your mission. Awesome job."
+        },
+        {
+            "character": "Triplett",
+            "line": "Thanks."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you mind if Daisy and me have a quick word?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Sure. You can finish hugging me later."
+        },
+        {
+            "character": "Simmons",
+            "line": "AIDA's building a body for herself in the real world. A human body."
+        },
+        {
+            "character": "Skye",
+            "line": "She wants free will."
+        },
+        {
+            "character": "Simmons",
+            "line": "Which would allow her to unplug the Framework, killing us all."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. We can still stop her. Radcliffe gave me the coordinates to the Framework's back door."
+        },
+        {
+            "character": "Simmons",
+            "line": "Will it work?"
+        },
+        {
+            "character": "Skye",
+            "line": "According to him, all we have to do is pass through the exit point, and then your mind disconnects from the Framework."
+        },
+        {
+            "character": "Simmons",
+            "line": "So we just need to get everyone there."
+        },
+        {
+            "character": "Skye",
+            "line": "Which won't be easy, what with May and Mack having no idea what's really happening."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, and Fitz has HYDRA guards around him at all times. What?"
+        },
+        {
+            "character": "Skye",
+            "line": "Simmons we can't rescue Fitz right now. There's no time."
+        },
+        {
+            "character": "Simmons",
+            "line": "We can't just leave him behind. He's part of our team."
+        },
+        {
+            "character": "Skye",
+            "line": "And the current head of HYDRA. The Fitz in this world wants all of us dead."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy..."
+        },
+        {
+            "character": "Skye",
+            "line": "I know that it's not his fault, but that is the reality that we are living in. If we don't get Coulson, May, and Mack out of here, AIDA will kill all of them. I-I promise, we will find a way to get Fitz out once everyone's safe, okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, take care. Let's go."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey. Hey, what's with the luggage?"
+        },
+        {
+            "character": "Hope",
+            "line": "We're going home."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we just wanted to free up some bunk space for those more in need."
+        },
+        {
+            "character": "Skye",
+            "line": "That's super thoughtful, but we actually have a situation. Simmons just came back with some intel that could help us take out Madame Hydra for good."
+        },
+        {
+            "character": "Mack",
+            "line": "Sounds like you might want someone who's a little more combat ready."
+        },
+        {
+            "character": "Skye",
+            "line": "We need you."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. So, what is this mission, then?"
+        },
+        {
+            "character": "Hope",
+            "line": "Dad, don't be embarrassing."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, how is asking a question embarrassing?"
+        },
+        {
+            "character": "Hope",
+            "line": "Because Daisy went to jail after what you did."
+        },
+        {
+            "character": "Skye",
+            "line": "It wasn't exactly his fault."
+        },
+        {
+            "character": "Hope",
+            "line": "You're just saying that because you escaped and kicked Madame Hydra's..."
+        },
+        {
+            "character": "Mack",
+            "line": "Don't you dare say it."
+        },
+        {
+            "character": "Skye",
+            "line": "Butt. Rear."
+        },
+        {
+            "character": "Hope",
+            "line": "Pooper."
+        },
+        {
+            "character": "Skye",
+            "line": "Salt shaker. Money maker."
+        },
+        {
+            "character": "Hope",
+            "line": "Ass."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey! Hey, okay. All right, all right. You're not being a really good influence right now."
+        },
+        {
+            "character": "Hope",
+            "line": "Come on, Dad. She's the biggest hero in S.H.I.E.L.D. You have to say yes."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Just promise you'll have me back in time to put Hope to bed."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll make sure you're exactly where you need to be."
+        }
+    ]
+}

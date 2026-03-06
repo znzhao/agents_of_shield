@@ -1,0 +1,126 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 5,
+    "scene_name": "IzelInterrogatesBensonOnZephyr",
+    "description": "Izel, having coerced Mack and Elena, tricks Dr. Benson into revealing that he may know the temple's location. Using threats and Elena to intimidate him, she insists Benson help her find the coordinates. Benson resists, but Izel asserts her power and the dangerous consequences of defying her.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "izel",
+        "marcus_benson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Foster",
+            "line": "It's this way, Professor Benson."
+        },
+        {
+            "character": "Mack",
+            "line": "I wouldn't try anything. Unless you want me to use these hands to choke the life out of you."
+        },
+        {
+            "character": "Benson",
+            "line": "Good to see you again, Director."
+        },
+        {
+            "character": "Mack",
+            "line": "Good to see you."
+        },
+        {
+            "character": "Benson",
+            "line": "Agent Rodriguez. I'm excited to see this plane that you, uh, talked so much about. Although I expected to see more of the team here."
+        },
+        {
+            "character": "Mack",
+            "line": "The mission is need-to-know. The, uh, enemy that you've been researching, it's not just theoretical anymore, so we need to be careful about who we trust."
+        },
+        {
+            "character": "Benson",
+            "line": "Well, let's get to it. It's been a bit of an adventure. Now, these runes are referencing a site where the “Di'Allas,” as they're called the the monoliths which could be used to open a doorway between our world and the world where Izel comes from."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm. Well, does the story say for what purpose?"
+        },
+        {
+            "character": "Benson",
+            "line": "Well, I brought a passage that references “trapped souls, yearning to be free.” Take from that what you will."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, do you have a location?"
+        },
+        {
+            "character": "Benson",
+            "line": "Well, I've narrowed it down to three possible sites, but my money's on the one at the intersection of two lay lines. It would prove Keller right once again."
+        },
+        {
+            "character": "Elena",
+            "line": "I'll make sure to tell him you said that. He'd be amused."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, perfect. Well, we'll start there, then."
+        },
+        {
+            "character": "Benson",
+            "line": "Well, I-I I think it's best if we get some hard evidence. Let me do some low flyovers of the three sites."
+        },
+        {
+            "character": "Mack",
+            "line": "I could always have someone else examine the sites."
+        },
+        {
+            "character": "Benson",
+            "line": "I think it best we play this close to the vest until we're sure."
+        },
+        {
+            "character": "Mack",
+            "line": "Of course. Then you can just show me the coordinates on the map. Benson. Give me the location. That's an order. Hm. All right, well... if you've made up your mind."
+        },
+        {
+            "character": "Benson",
+            "line": "S-So, the stories are true."
+        },
+        {
+            "character": "Izel",
+            "line": "If you heard the stories, then you know what I'm capable of. Let's find this temple, shall we? You were giving such an informative presentation before we got interrupted. Care to continue? I just want the coordinates."
+        },
+        {
+            "character": "Elena",
+            "line": "Don't say anything, Benson."
+        },
+        {
+            "character": "Izel",
+            "line": "You already made me take one life. I can take another. Maybe yours? If I use her body, it'd be quick."
+        },
+        {
+            "character": "Benson",
+            "line": "If you want me to help you end the world, I'm gonna have to pass."
+        },
+        {
+            "character": "Izel",
+            "line": "So brave."
+        },
+        {
+            "character": "Benson",
+            "line": "I won't give you anything."
+        },
+        {
+            "character": "Izel",
+            "line": "You believe that now, but will you feel the same when death is closing in?"
+        },
+        {
+            "character": "Benson",
+            "line": "I've already lost everything that matters. Death doesn't scare me."
+        },
+        {
+            "character": "Izel",
+            "line": "Maybe it doesn't. But there must be something you fear."
+        }
+    ]
+}

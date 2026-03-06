@@ -1,0 +1,224 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 7,
+    "scene_name": "ZephyrTeamExaminesDeviceAndPlansRescue",
+    "description": "The team on Zephyr One, including Mack, Simmons, Daisy, May, Elena, and Coulson (via contact), discusses the retrieved gadget and its importance to S.H.I.E.L.D. technology. They plan to rendezvous with Sousa and get him and the package to safety. Personal tensions and admiration for the device surface as they set the next steps.",
+    "roles": [
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "skye",
+        "melinda_may",
+        "elena_rodriguez",
+        "phil_coulson"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "There she is."
+        },
+        {
+            "character": "Mack",
+            "line": "That's it? That's a “gadget”?"
+        },
+        {
+            "character": "Simmons",
+            "line": "This is like the Rosetta Stone of S.H.I.E.L.D. tech. Even the Zephyr can be traced back to this little darling"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hmm, if you say so."
+        },
+        {
+            "character": "May",
+            "line": "Wow. It is incredible, isn't it?"
+        },
+        {
+            "character": "Elena",
+            "line": "Is it?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. We need to track down Sousa. It's time we find that train."
+        },
+        {
+            "character": "Coulson",
+            "line": "The agent's life... must be exciting."
+        },
+        {
+            "character": "Sousa",
+            "line": "It fills the days. Lot of threats out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Russians."
+        },
+        {
+            "character": "Sousa",
+            "line": "And others. Lying low, biding time. I take it science doesn't leave much time for a personal life either."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't follow."
+        },
+        {
+            "character": "Sousa",
+            "line": "No ring on your finger."
+        },
+        {
+            "character": "Coulson",
+            "line": "There was someone. I couldn't stick around long enough to make it last. How ‘bout you?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Similar story. Don't you think it's about time you show me what all this song and dance is for? Sorry, can't do it. Stark's eyes only."
+        },
+        {
+            "character": "Sousa",
+            "line": "Stark's not gonna be at the drop, you know. It'll be his man in L.A."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's too bad. I was hoping to meet him."
+        },
+        {
+            "character": "Sousa",
+            "line": "You worked on this for Howard and you've never met him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He sent a few encouraging messages to the lab."
+        },
+        {
+            "character": "Sousa",
+            "line": "Sounds like him."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's he like?"
+        },
+        {
+            "character": "Sousa",
+            "line": "A pompous ass."
+        },
+        {
+            "character": "Coulson",
+            "line": "Big thinkers can come off that way. Makes for a divide between those in the lab and those in the field."
+        },
+        {
+            "character": "Sousa",
+            "line": "Yeah, I'm feeling it now. Think I will get that drink. Want something?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Never touch the stuff."
+        },
+        {
+            "character": "Sousa",
+            "line": "Doesn't surprise me."
+        },
+        {
+            "character": "Luke",
+            "line": "You can relax, Mr. Coulson. I come alone. With a proposition."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cutting a deal? Doesn't seem like the Chronicom style"
+        },
+        {
+            "character": "Luke",
+            "line": "Chronicoms adapt. Consider this an opportunity."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then you should pitch it to the man who runs S.H.I.E.L.D."
+        },
+        {
+            "character": "Luke",
+            "line": "You are not a man, which is why I have come to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lucky me."
+        },
+        {
+            "character": "Luke",
+            "line": "Indeed you are lucky. Not subject to the limitations of human life, to the drama of mortality. You must see the absurdity of them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Humans make life on Earth worth living, worth saving."
+        },
+        {
+            "character": "Luke",
+            "line": "Even if we left this planet alone, the humans you care about will slowly die out around you. I wonder how you'll feel in 1,000 years."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cut to the chase. What's the offer?"
+        },
+        {
+            "character": "Luke",
+            "line": "Give us what we want... Earth... and your humans will have our charity."
+        },
+        {
+            "character": "Woman",
+            "line": "Wanna buy a drink for a lonesome gal?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Same for the lady."
+        },
+        {
+            "character": "Woman",
+            "line": "You're too kind."
+        },
+        {
+            "character": "Sousa",
+            "line": "My pleasure."
+        },
+        {
+            "character": "Woman",
+            "line": "Traveling alone is so tedious. It's nice to talk to someone."
+        },
+        {
+            "character": "Sousa",
+            "line": "Could use some good company myself. Leave the bottle."
+        },
+        {
+            "character": "Woman",
+            "line": "So, what takes you to Los Angeles?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Business, but not show business. I'm betting I can't say the same for you."
+        },
+        {
+            "character": "Woman",
+            "line": "How did you guess?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You see a few people with their faces wiped off their heads, makes it hard to believe your promise of benevolence. Sorry, no deal."
+        },
+        {
+            "character": "Luke",
+            "line": "So far, we've kept this fight neat. Refuse this and it becomes messy."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're only making this offer because you found out we were on your heels. You time traveled, S.H.I.E.L.D. time traveled. If you escalate, we will escalate."
+        },
+        {
+            "character": "Luke",
+            "line": "You will never be able to see what we can see. For instance, we knew you would be on this train. We even know that is not the item Daniel Sousa delivers. Oh, yes. We know this is the day that he dies... killed later tonight at a hotel in Los Angeles. But all we had to do was make one call, and he dies right now."
+        },
+        {
+            "character": "Man",
+            "line": "Mister, the lounge needs to close for a little while."
+        }
+    ]
+}

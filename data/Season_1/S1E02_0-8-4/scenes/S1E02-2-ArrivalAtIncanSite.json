@@ -1,0 +1,164 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "ArrivalAtIncanSite",
+    "description": "The team lands in Peru and investigates the Incan archaeological site. Fitz and Simmons discuss local wildlife and dangers, while Skye offers to warn locals about potential threats but is told to keep things quiet. Coulson meets with the site professor and begins his investigation of the artefact found in the temple. Skye helps gather information as Fitz and Simmons begin scientific analysis of the object, which they think is possibly alien.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Tire tracks 40 meters back. I'll check them against the site's trucks, make sure we're alone."
+        },
+        {
+            "character": "May",
+            "line": "Too much exposure here. I'm gonna find a place to park."
+        },
+        {
+            "character": "Fitz",
+            "line": "I would love to see a capuchin in the wild. Maybe even a yellow-tailed woolly monkey. You know, um, Peru has 32 different species of monkey."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and close to 200 species of snakes. The shushupe has a fascinating ven... venom. It's neurotoxic, proteolytic, and hemolytic. Ha!"
+        },
+        {
+            "character": "Fitz",
+            "line": "That's fascinating."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Oh. No, I'd be much more concerned with earthquakes, mala... Ah. There's no vaccine for dengue fever. Oh, look at this."
+        },
+        {
+            "character": "Skye",
+            "line": "We should warn the people who live around here if the 0-8-4 is dangerous. They're already dealing with anti-mining rebels and the shining path guerillas. I could post something."
+        },
+        {
+            "character": "Coulson",
+            "line": "Remember the panic when that anti-matter meteor splashed down just off the coast of Miami, nearly devoured the city?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Precisely. Because we kept it quiet and contained."
+        },
+        {
+            "character": "Skye",
+            "line": "So, what am I doing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, if it gets out, I might need you to create some kind of diversion, put the public on the wrong scent."
+        },
+        {
+            "character": "Skye",
+            "line": "So everything that I'm against."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yep."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good morning, Professor. I'm Agent Coulson with S.H.I.E.L.D. I understand you've made an interesting discovery."
+        },
+        {
+            "character": "Professor",
+            "line": "I-I'm not sure how to explain it. This temple dates back at least 500 years. It's filled with pre-Incan artifacts. One of them is impossible and looks like it might be dangerous."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, that's why we're here."
+        },
+        {
+            "character": "Professor",
+            "line": "Watch out. Exactly as we found it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who else knows about this?"
+        },
+        {
+            "character": "Professor",
+            "line": "Just the ministry. I believe they are the ones who contacted you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sir, I need you and your team to evacuate the site until we determine the risk associated with this object."
+        },
+        {
+            "character": "Simmons",
+            "line": "Leave the man alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now... for your own safety."
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing about this anywhere. It's amazing. I searched every data stream. What do you got here, guys?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Whoa, car... uh, careful. I-I... no, wouldn't do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "The object's placement in fossiliferous rock formations suggests it's been here for at least 1,500 years. That pre-dates this temple by a millennium. Ah! Maybe it's alien."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but the shape and the craftsmanship... it's almost German."
+        },
+        {
+            "character": "Ward",
+            "line": "Tires match the prof's truck. Where's your sidearm?"
+        },
+        {
+            "character": "May",
+            "line": "If I need a gun, I'll take one."
+        },
+        {
+            "character": "Ward",
+            "line": "Right. Forgot I was working with “the cavalry.”"
+        },
+        {
+            "character": "May",
+            "line": "Don't ever call me that."
+        },
+        {
+            "character": "Ward",
+            "line": "Apologies. I've heard the stories... what went down in Bahrain, about you in action. You know, it was smart of Coulson to pull you out of retirement. It's nice to have a trusted friend who has your back."
+        },
+        {
+            "character": "Ward",
+            "line": "Should have taken more guns."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir?"
+        },
+        {
+            "character": "Ward",
+            "line": "We have a situation."
+        },
+        {
+            "character": "Skye",
+            "line": "Lots of rebels in this area."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not enough gunfire. Keep working. I'm on my way."
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 11,
+    "scene_name": "SteelMillRevelation",
+    "description": "Trip drops Skye, Simmons, May, Mack, and Coulson off at the steel mill built over Radcliffe's backdoor location. There, they debate whether the escape route is real, with Mack feeling betrayed to discover the truth about the other world only now. With their escape possibly blocked, tensions flare until HYDRA forces suddenly attack, raising the urgency.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "Steel mill cover (site built over Radcliffe's backdoor)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "The back door exit point's programmed to be in a city park, not some steel mill. What's going on here?"
+        },
+        {
+            "character": "Doctor",
+            "line": "Seems Madame Hydra's a step ahead of you again. She's made a few modifications."
+        },
+        {
+            "character": "Skye",
+            "line": "Thank you for the ride. I guess this means goodbye."
+        },
+        {
+            "character": "Triplett",
+            "line": "I can come with, if you want. Unless there's something you're not telling me."
+        },
+        {
+            "character": "Skye",
+            "line": "There's plenty, but you're needed here. Ward can't be the only one leading the fight. And just because Mace is gone doesn't mean The Patriot has to be."
+        },
+        {
+            "character": "Triplett",
+            "line": "What're you saying?"
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe it's your turn to suit up. The people could use another Patriot to look up to."
+        },
+        {
+            "character": "Triplett",
+            "line": "Not gonna lie, I'd look pretty damn fine in that suit."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, you would."
+        },
+        {
+            "character": "Triplett",
+            "line": "Take care of yourself."
+        },
+        {
+            "character": "Skye",
+            "line": "You, too."
+        },
+        {
+            "character": "May",
+            "line": "Just up ahead."
+        },
+        {
+            "character": "Skye",
+            "line": "Something doesn't feel right."
+        },
+        {
+            "character": "Simmons",
+            "line": "Nothing about this disgusting world feels right. It's Hell, a digital Hell."
+        },
+        {
+            "character": "Skye",
+            "line": "Radcliffe said the back door was in a public fountain, not some creepy steel mill."
+        },
+        {
+            "character": "Simmons",
+            "line": "If only the exit beacon I brought to this world worked, we wouldn't be in this mess."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, well, if we're gonna get out of here, this is our last chance."
+        },
+        {
+            "character": "Coulson",
+            "line": "Found the location."
+        },
+        {
+            "character": "Skye",
+            "line": "This can't be it."
+        },
+        {
+            "character": "May",
+            "line": "Uh, the coordinates lead right there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Into a pool of molten steel? You think Radcliffe gave us bad info?"
+        },
+        {
+            "character": "Skye",
+            "line": "Radcliffe's a prisoner at HYDRA. He's got no reason to lie."
+        },
+        {
+            "character": "May",
+            "line": "Maybe someone else found it and took it."
+        },
+        {
+            "character": "Skye",
+            "line": "The back door is part of the Framework's digital infrastructure. It can't be moved."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it could be concealed. What if Madame Hydra discovered the back door and built this place as a way to prevent people from passing through?"
+        },
+        {
+            "character": "Mack",
+            "line": "Wait a minute. What is this back door everyone keeps talking about? I thought we were here to take out Madame Hydra."
+        },
+        {
+            "character": "May",
+            "line": "Let me guess no one told you about the other world."
+        },
+        {
+            "character": "Mack",
+            "line": "The other world? What?"
+        },
+        {
+            "character": "Coulson",
+            "line": "So what does this mean for us?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That there's no way out. It means AIDA's won."
+        },
+        {
+            "character": "Woman",
+            "line": "The Zephyr crew were given your orders, Madame. But since then, they've gone dark. I-I can send a team to..."
+        },
+        {
+            "character": "Ophelia",
+            "line": "There's no time for that! Simmons is trying to reach Leopold. She must have found a way out. You may proceed."
+        },
+        {
+            "character": "May",
+            "line": "You seriously believe that there's some magical back door that will transport us to another world?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not magic, May. It's science."
+        },
+        {
+            "character": "May",
+            "line": "Then where's your proof?"
+        },
+        {
+            "character": "Skye",
+            "line": "We just have to trust Radcliffe. He said when a person passes through the back door..."
+        },
+        {
+            "character": "May",
+            "line": "That they wake up on the other side. This is what you really believe?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Admittedly, it doesn't sound great when you say it like that."
+        },
+        {
+            "character": "Mack",
+            "line": "You lied to me."
+        },
+        {
+            "character": "Skye",
+            "line": "Mack..."
+        },
+        {
+            "character": "Mack",
+            "line": "No, don't try to talk your way out of this. You're a damn liar. My daughter looks up to you, and for what? So you can bring me out here on some wild goose chase?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy was only trying to help."
+        },
+        {
+            "character": "Mack",
+            "line": "How? By taking me away from my kid? What the hell is wrong with you two?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, guys, maybe we should start thinking about a Plan B."
+        },
+        {
+            "character": "May",
+            "line": "Glad you've finally come to your senses. We need to get out of here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, I was thinking we might try to find another way through the back door. I still believe Daisy's right."
+        },
+        {
+            "character": "Mack",
+            "line": "Wake up! There is no back door, just like she's not Moses about to take you to the Promised Land."
+        },
+        {
+            "character": "Skye",
+            "line": "That's it. What if I quake that thing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "And part the Red Sea."
+        },
+        {
+            "character": "Mack",
+            "line": "They did not just go and use the Bible against me."
+        },
+        {
+            "character": "May",
+            "line": "HYDRA! Take cover!"
+        },
+        {
+            "character": "Mack",
+            "line": "How the hell'd these guys find us?"
+        },
+        {
+            "character": "Skye",
+            "line": "Either it's a trap or the back door's really here. Only one way to find out."
+        }
+    ]
+}

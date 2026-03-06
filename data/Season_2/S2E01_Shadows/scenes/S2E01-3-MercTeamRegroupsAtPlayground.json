@@ -1,0 +1,107 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 3,
+    "scene_name": "MercTeamRegroupsAtPlayground",
+    "description": "The extended team, including Skye, May, Triplett, Hartley, Hunter, and Idaho, returns to The Playground to debrief. Alphonso Mackenzie greets the team, while frustration simmers over the failed mission. Skye brings the retrieved metal shards to the lab for analysis, and Hartley is summoned for a face-to-face with Coulson.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "antoine_triplett",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Computer",
+            "line": "Agent May. Agent Skye. Lance Hunter. Isabelle Hartley."
+        },
+        {
+            "character": "Mack",
+            "line": "Operation didn't go well, I take it?"
+        },
+        {
+            "character": "Triplett",
+            "line": "What gave you that idea?"
+        },
+        {
+            "character": "Mack",
+            "line": "That's a shame, man. I was hoping that agent you were scoping out would have some tech we could use."
+        },
+        {
+            "character": "Triplett",
+            "line": "Sorry, Mack. No new toys."
+        },
+        {
+            "character": "Mack",
+            "line": "You get anything?"
+        },
+        {
+            "character": "Triplett",
+            "line": "A new enemy."
+        },
+        {
+            "character": "Hunter",
+            "line": "I know. I know."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Director wants you for debrief."
+        },
+        {
+            "character": "Hartley",
+            "line": "The feeling is mutual. Throw him up on the big screen. We'll tell him that his enemies have gone bulletproof."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "He's in his office."
+        },
+        {
+            "character": "Idaho",
+            "line": "Wow."
+        },
+        {
+            "character": "Hartley",
+            "line": "Coulson's here? Kind of buried the lead there, Bill."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Just Agent May."
+        },
+        {
+            "character": "Hartley",
+            "line": "Copy that."
+        },
+        {
+            "character": "Hunter",
+            "line": "Really? Well, tell him I'd like to voice my opinion, too, on being kept in the dark, ‘cause I don't like being left... out."
+        },
+        {
+            "character": "Skye",
+            "line": "Get used to it."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "So, the guy was bulletproof, huh? That's sweet. What like, protective clothing or...?"
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe. We found these metal shards. They broke off with the bullet hits. I'm gonna take it to the lab."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "I'll let Coulson know."
+        },
+        {
+            "character": "Skye",
+            "line": "It'll be good to see him... if I see him."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "He's a busy man."
+        }
+    ]
+}

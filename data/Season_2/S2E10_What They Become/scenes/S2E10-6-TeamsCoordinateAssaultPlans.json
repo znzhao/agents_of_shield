@@ -1,0 +1,93 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 6,
+    "scene_name": "TeamsCoordinateAssaultPlans",
+    "description": "Coulson, May, Hunter, Morse, Fitz, and Simmons plan a coordinated assault to stop Hydra from reaching the city and the Obelisk. FitzSimmons and Triplett discuss operational details and how to split up for maximum efficiency. The team acknowledges the danger and finalizes their mission roles before heading underground.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "lance_hunter",
+        "bobbi_morse",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's been a frustrating morning considering how little data we have, but Fitz and I believe that if we wear protective Hazmat suits, it shouldn't be able to sense us."
+        },
+        {
+            "character": "May",
+            "line": "Director Coulson, Agent Triplett, and myself will place the bombs. Fitz and Simmons will run things from up top."
+        },
+        {
+            "character": "Triplett",
+            "line": "Where's your brother been hiding?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Well, all this excitement fried his circuits. His cooling system kicked in. Now he's recharging his batteries."
+        },
+        {
+            "character": "Triplett",
+            "line": "I know what you're doing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want you and Billy to immediately return to H.Q. If things go radically south here, I'll need you to implement the theta protocol."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Sir..."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's an order, Agent Koenig. Go."
+        },
+        {
+            "character": "Morse",
+            "line": "Hydra's here in a big way some abandoned theater. The Ponce de León."
+        },
+        {
+            "character": "Coulson",
+            "line": "Theater Ponce de León. Why over there? Can you superimpose the alien city over the map?"
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're practically over the chamber."
+        },
+        {
+            "character": "Sam Koenig",
+            "line": "Yeah, but they can't get to it. We know that. There's a couple-hundred feet of volcanic rock on top of it."
+        },
+        {
+            "character": "Simmons",
+            "line": "S.H.I.E.L.D. has tech that can drill right through it. That means Hydra has it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, plasma drill. That would make light work of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any evidence of Ward or Skye?"
+        },
+        {
+            "character": "Morse",
+            "line": "No. And there's no easy way in. There are at least a dozen Hydra soldiers inside."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sit tight. We'll be there soon. Change of plans. Hydra's trying to shortcut into the chamber. May and I need to help Hunter and Morse stop them."
+        }
+    ]
+}

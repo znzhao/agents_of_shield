@@ -1,0 +1,63 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "ReturnToHubAndAftermath",
+    "description": "Ward and Fitz return to the Bus, where Simmons and the rest of the team welcome them back, with Simmons showing her relief and humorously admitting to shooting Sitwell. The mood is lighter as the team debriefs and shares their experiences, reflecting on the trust and risks of their work.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Thanks for coming to get us, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "We take care of our own."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well done, Fitz. So glad you're all right."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yep. Good to see you, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh! The sandwich, how was it? Too much Aioli?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It was delicious."
+        },
+        {
+            "character": "Skye",
+            "line": "You know, for a second there, I thought I'd have to find a new supervising officer."
+        },
+        {
+            "character": "Ward",
+            "line": "Sorry to disappoint. Truth is, I was in good hands."
+        },
+        {
+            "character": "Fitz",
+            "line": "I had Ward's back the whole time. Yeah. Pretty much saved him from a gang of Russian mobsters and kicked a few guys' heads in. But enough mission talk already. Um, anything exciting happen at the Hub?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I shot a superior officer in the chest."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey. I was thinking about today, and I'm really sorry..."
+        }
+    ]
+}

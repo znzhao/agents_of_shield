@@ -1,0 +1,90 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 12,
+    "scene_name": "HydraPreparesThePortal",
+    "description": "Inside the English castle, Malick reveals to Simmons that Fitz has agreed to go through the portal to spare her life. Ward prepares the HYDRA team for the crossing while Malick manipulates Ward into leading the mission. Tensions run high as the enormity of HYDRA's plan becomes clear.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "gideon_malick",
+        "grant_ward"
+    ],
+    "vibe": "suspenseful",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Well, there's our little space traveler. We were just about to open up the portal. I thought you might want to come and see for yourself."
+        },
+        {
+            "character": "Simmons",
+            "line": "Anyone who goes to that planet will die. That thing on the other side drives people mad."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, that's certainly an interesting theory. Here's another. It wants to come back. And finally, after all these years, we finally found someone to help us do that."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll never help you bring that thing back, no matter how much you hurt me."
+        },
+        {
+            "character": "Malick",
+            "line": "Which is why we've agreed to stop hurting you so that he would go instead."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry, Jemma."
+        },
+        {
+            "character": "Ward",
+            "line": "I always thought Fitz would give up the world for you. Looks like now he finally has his chance."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you sure about this? They haven't even been cleared for field duty."
+        },
+        {
+            "character": "Mack",
+            "line": "I cleared them just now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Seems I might just get my team after all."
+        },
+        {
+            "character": "Mack",
+            "line": "Listen up! HYDRA has Fitz and Simmons, and they're planning to open another portal! Which is why we're going to stop them."
+        },
+        {
+            "character": "Joey",
+            "line": "Yeah, but why us?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm guessing we're all they've got."
+        },
+        {
+            "character": "Mack",
+            "line": "You two have powers. My other agents don't. But I'm not gonna lie to you, this is a dangerous mission, and the odds are not in our favor."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not really a selling point."
+        },
+        {
+            "character": "Mack",
+            "line": "Here's the deal. What HYDRA's planning is gonna hurt a lot of innocent people, maybe people you care about. I wouldn't be asking you for your help if I didn't think we had a chance. So either you step up and do the damn job or you let the bad guys win. The choice is yours."
+        },
+        {
+            "character": "May",
+            "line": "Nice speech, director."
+        }
+    ]
+}

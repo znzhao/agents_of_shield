@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 17,
+    "scene_name": "CoulsonInformsTheTeam",
+    "description": "Returning to Zephyr One, Coulson informs the rest of the team—including Fitz, Mack, Daisy, May, and Simmons—of Bobbi and Hunter's fate. The mood is somber as they realize their teammates will not be returning and the reasons behind their disavowal are discussed.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "skye",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "What happened to the extraction plan?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You never gave us the signal."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where are Hunter and Bobbi?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're not coming back. They've been disavowed."
+        },
+        {
+            "character": "Mack",
+            "line": "What're you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "There were no good options. I had to make a deal. We were lucky President Ellis even got Interpol to step in. They walk free, but they cannot be agents."
+        },
+        {
+            "character": "Simmons",
+            "line": "So that's it? We're just leaving them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It was all we could do to keep them from being executed. Relations between the President and Prime Minister are already badly strained because of the growing alien threat."
+        },
+        {
+            "character": "May",
+            "line": "And if they found out S.H.I.E.L.D. was up and running, training Inhumans as agents..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It would be bad. Like Cold War bad. Bobbi and Hunter never cracked under questioning, even to save each other. They did that for S.H.I.E.L.D. They did that for us, and they paid the price."
+        },
+        {
+            "character": "Mack",
+            "line": "No, they... they just can't take the fall."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, it was their choice. After everything they've done, they deserve that choice. Believe me, guys. I'm gonna miss them, too."
+        }
+    ]
+}

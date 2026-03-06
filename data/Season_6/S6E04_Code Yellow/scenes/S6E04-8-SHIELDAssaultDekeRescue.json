@@ -1,0 +1,261 @@
+{
+    "season": 6,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "SHIELDAssaultDekeRescue",
+    "description": "Mack, May, and Trevor lead a tactical entry into the building to extract Deke. Deke is bewildered as the S.H.I.E.L.D. team goes into action, and confusion reigns as he is guided to safety. The battle is intense, with the S.H.I.E.L.D. team splitting up to safeguard civilians and root out the threats posed by Sarge's crew.",
+    "roles": [
+        "deke_shaw",
+        "alphonso_mackenzie",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "All right."
+        },
+        {
+            "character": "Mack",
+            "line": "Agent Khan. We re-routed as soon as we got the call."
+        },
+        {
+            "character": "Trevor",
+            "line": "Glad you were close by, Director. Agent May."
+        },
+        {
+            "character": "May",
+            "line": "Trouble with your babysitting assignment? Because we got bigger problems."
+        },
+        {
+            "character": "Trevor",
+            "line": "This isn't just a Code Yellow. I didn't want to put this over the radio, but... one of the guys in there is the spitting image of Phil Coulson."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait, he's inside that building right now?"
+        },
+        {
+            "character": "Trevor",
+            "line": "Far as I know."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, people, this is no longer an extraction. It's an assault. Let's go!"
+        },
+        {
+            "character": "May",
+            "line": "I'm on point with Khan, Gibbs, Wilson."
+        },
+        {
+            "character": "Deke",
+            "line": "Hang on. First off, a hello would be nice. And second, am I a Code Yellow, and should I be insulted? Because it feels that way. And... And most of all, w-why is Coulson trying to kill me? What... What... What the hell is happening?"
+        },
+        {
+            "character": "May",
+            "line": "What's happening is we got lucky."
+        },
+        {
+            "character": "Deke",
+            "line": "All right, Deke. You're safe now. Stay here. Well, who's gonna protect me? Is Daisy coming or Fitz or Simmons or..."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, let's roll!"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. Okay."
+        },
+        {
+            "character": "May",
+            "line": "Congratulations. You didn't get yourself killed."
+        },
+        {
+            "character": "Diaz",
+            "line": "So... it's a bird."
+        },
+        {
+            "character": "Keller",
+            "line": "Well, more like an alien zombie bird. You'll know it when you see it."
+        },
+        {
+            "character": "Elena",
+            "line": "And if you do, give me a chance to catch it. I'll be ready this time."
+        },
+        {
+            "character": "Keller",
+            "line": "It's all in a day's work, right?"
+        },
+        {
+            "character": "Elena",
+            "line": "Always noble."
+        },
+        {
+            "character": "Elena",
+            "line": "Give me a boost."
+        },
+        {
+            "character": "Elena",
+            "line": "Keller!"
+        },
+        {
+            "character": "Elena",
+            "line": "It's gonna be okay."
+        },
+        {
+            "character": "Diaz",
+            "line": "I'll ready a medevac."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah."
+        },
+        {
+            "character": "Elena",
+            "line": "That thing... it flew inside him!"
+        },
+        {
+            "character": "Benson",
+            "line": "Inside of him?"
+        },
+        {
+            "character": "Keller",
+            "line": "In my mouth. I can feel it moving."
+        },
+        {
+            "character": "Elena",
+            "line": "Sit down. Sit down, try and relax."
+        },
+        {
+            "character": "Keller",
+            "line": "Really?"
+        },
+        {
+            "character": "Keller",
+            "line": "Aah! I can't turn into that. Do whatever you have to do."
+        },
+        {
+            "character": "Benson",
+            "line": "We got you."
+        },
+        {
+            "character": "May",
+            "line": "Can't believe this is what Deke Shaw's been doing the past year."
+        },
+        {
+            "character": "Mack",
+            "line": "We probably shouldn't have let it get this far."
+        },
+        {
+            "character": "May",
+            "line": "Was he informed we lost Fitz?"
+        },
+        {
+            "character": "Mack",
+            "line": "Not my call. Besides, we don't know if we lost him yet. Stay low! Eyes on your team!"
+        },
+        {
+            "character": "Trevor",
+            "line": "I got one on top."
+        },
+        {
+            "character": "May",
+            "line": "One in back. Wilson, Gibbs, any sign of him?"
+        },
+        {
+            "character": "Agent on comms",
+            "line": "Negative. We do not have eyes on Coulson."
+        },
+        {
+            "character": "Mack",
+            "line": "We'll split up. Khan, take a team, sweep for civilians. I'll secure the north side. May?"
+        },
+        {
+            "character": "May",
+            "line": "I'm going after the girl."
+        },
+        {
+            "character": "Mack",
+            "line": "Remember, our objective is to bring them in alive."
+        },
+        {
+            "character": "Deke",
+            "line": "See? That... That was definitely gunfire. We're not safe. We should go."
+        },
+        {
+            "character": "Julian",
+            "line": "My orders are to stay."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, I get that. But does HQ know who... who you have on board? I'm Deke Shaw. I'm kind of special. I got to take this. Babe."
+        },
+        {
+            "character": "Sequoia",
+            "line": "Deke, I brought boba. Where is everybody?"
+        },
+        {
+            "character": "Deke",
+            "line": "Wait. Sequoia, where are you?"
+        },
+        {
+            "character": "Sequoia",
+            "line": "I came through the back. You know as an influencer, I always avoid front doors. Where are you? Are we doing a surprise retreat again?"
+        },
+        {
+            "character": "Deke",
+            "line": "No! No, no, no, no, no. Listen to me."
+        },
+        {
+            "character": "Sequoia",
+            "line": "Or are you testing the game? Because I think I heard gunfire."
+        },
+        {
+            "character": "Deke",
+            "line": "No, it... It's not the game. The office was attacked."
+        },
+        {
+            "character": "Sequoia",
+            "line": "Stop messing with me."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm not! Y-You have to go and find a place to hide."
+        },
+        {
+            "character": "Sequoia",
+            "line": "Oh, my God."
+        },
+        {
+            "character": "Deke",
+            "line": "Do you understand me? Get off the phone, hide, and... and someone is gonna come and get you."
+        },
+        {
+            "character": "Sequoia",
+            "line": "S-Somebody? Who?"
+        },
+        {
+            "character": "Deke",
+            "line": "S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Sequoia",
+            "line": "Deke!"
+        },
+        {
+            "character": "Deke",
+            "line": "Okay. No, okay? I'm... I'm gonna come and get you. I'll see you soon."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, perfect."
+        },
+        {
+            "character": "Julian",
+            "line": "Mr. Shaw, I just spoke to HQ. You do not have priority status, so it's... Mr. Shaw?"
+        }
+    ]
+}

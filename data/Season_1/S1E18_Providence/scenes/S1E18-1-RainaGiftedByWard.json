@@ -1,0 +1,82 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 1,
+    "scene_name": "RainaGiftedByWard",
+    "description": "Raina sits in her cell, making origami flowers, when Ward arrives bringing her a new flower dress, a gift from the Clairvoyant. Raina expresses surprise and confusion at Ward's presence as the world reels from the recent attacks on S.H.I.E.L.D. The news media covers the fallout and government reactions as Coulson and Skye review the meager list of remaining S.H.I.E.L.D. bases. Coulson reassures Skye that their team is still intact and ready to fight Hydra despite their dire circumstances.",
+    "roles": [
+        "raina",
+        "grant_ward",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Stop right there!"
+        },
+        {
+            "character": "Raina",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Ward",
+            "line": "A gift from the Clairvoyant."
+        },
+        {
+            "character": "Reporter",
+            "line": "Today, world leaders are scrambling for answers after the world's most advanced spy agency was crippled by a series of attacks. The president contends..."
+        },
+        {
+            "character": "Agent",
+            "line": "Sir."
+        },
+        {
+            "character": "Reporter",
+            "line": "... this is the biggest intelligence leak in world history."
+        },
+        {
+            "character": "Coulson",
+            "line": "Find Agent Martin. We need a back channel to the U.N., someone we trust."
+        },
+        {
+            "character": "Reporter",
+            "line": "But what's even more disturbing... the documents released from S.H.I.E.L.D. show clear evidence of human experimentation..."
+        },
+        {
+            "character": "Skye",
+            "line": "I made a list of S.H.I.E.L.D. bases we believe are secure."
+        },
+        {
+            "character": "Coulson",
+            "line": "How many so far? Seven?"
+        },
+        {
+            "character": "Skye",
+            "line": "Three."
+        },
+        {
+            "character": "Coulson",
+            "line": "Plus the Hub."
+        },
+        {
+            "character": "Skye",
+            "line": "Including the Hub. It's a preliminary list. I'm sure more will turn up."
+        },
+        {
+            "character": "Reporter",
+            "line": "... the members of Congress are calling for investigation. But it's still unclear who should be held accountable. Many of its leaders have vanished, leaving S.H.I.E.L.D...."
+        },
+        {
+            "character": "Skye",
+            "line": "You were right all along. Having all this out there in the world makes it too dangerous, and now... there's no one left to protect it."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's us. We were lucky enough to make it through. The Triskelion, the Hub... Those battles are just the beginning of this war. Hydra's out there now, but at least our team's still intact. We can fight them, and we will."
+        }
+    ]
+}

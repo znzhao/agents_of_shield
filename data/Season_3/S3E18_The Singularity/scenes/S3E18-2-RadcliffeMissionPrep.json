@@ -1,0 +1,231 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 2,
+    "scene_name": "RadcliffeMissionPrep",
+    "description": "The team refocuses to find Dr. Holden Radcliffe, believed to be the key to freeing Daisy from Hive's control. Coulson assigns Fitz and Simmons as leads on the mission to Romania, sending Mack as back-end support. The conversation teases the tension and awkwardness between Fitz and Simmons regarding their romantic status, and May gives Simmons advice and a gun, urging her to trust her instincts.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "It's the closest scientific explanation that we've got."
+        },
+        {
+            "character": "Lincoln",
+            "line": "She said she was happier than she's ever been. Wanted me to experience the same thing."
+        },
+        {
+            "character": "Simmons",
+            "line": "Most parasites have one goal, attack and weaken its host. But Hive does the opposite. Its parasites swarm the brain's pleasure center, releasing so much dopamine that..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Infected Inhumans not only feel bulletproof, they actually are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, at least when it comes to a dendrotoxin. We took tissue samples from Lucio and..."
+        },
+        {
+            "character": "Coulson",
+            "line": "So ICERs don't work on them."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm afraid not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Then, how do we disinfect Daisy?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, meet Dr. Holden Radcliffe, a fellow Scotsman. He was lead researcher on parasitic organisms at the agrochemical lab we raided. Based on his expertise, we believe he's our key to finding a cure for Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "That facility and everyone in it were wiped clean. How did Radcliffe escape?"
+        },
+        {
+            "character": "Fitz",
+            "line": "He didn't have to, ‘cause he wasn't actually there."
+        },
+        {
+            "character": "Simmons",
+            "line": "He was asked to step down a month before for conducting irregular experiments."
+        },
+        {
+            "character": "Lincoln",
+            "line": "“Irregular” meaning...?"
+        },
+        {
+            "character": "Fitz",
+            "line": "He's a rumored transhumanist."
+        },
+        {
+            "character": "Coulson",
+            "line": "A what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "People who believe in using science and technology to transcend our biological limitations. Their goal is..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Become more than human. Timely."
+        },
+        {
+            "character": "Fitz",
+            "line": "Digital immortality, superintelligence..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, I'm glad everyone knows what it is. So, where is Dr. Radcliffe?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We think Romania, but his exact whereabouts are unknown."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. That's enough to go on. You two are taking point. I'll send Mack with you to run back-end, whatever you need. Just find Dr. Radcliffe and get us a cure."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're awfully quiet."
+        },
+        {
+            "character": "Mack",
+            "line": "Just got a lot on my mind. I'll see you in the Quinjet, buddy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Uh, Jemma, uh, I know it's not a good time, but can we speak about what happened between us last night, professionally speaking, I mean."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course, Dr. Fitz. We are colleagues, after all."
+        },
+        {
+            "character": "Fitz",
+            "line": "That we are, Dr. Simmons, and, uh that we are. It's that working relationship which I would like to keep intact."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, we wouldn't want anything to interfere with it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Exactly. Um, so, that's why, as... as... as things progress with our, um... We should consider all variables as we move forward, because things are bound to get complicated."
+        },
+        {
+            "character": "Simmons",
+            "line": "You mean once we have sex?"
+        },
+        {
+            "character": "May",
+            "line": "Simmons."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'll see you in the Quinjet."
+        },
+        {
+            "character": "May",
+            "line": "Here. Remember your training."
+        },
+        {
+            "character": "Simmons",
+            "line": "But we're just going to have a chat with a scientist. And how would I ever know if I need to..."
+        },
+        {
+            "character": "May",
+            "line": "If it makes sense here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sorry. I'm not sure where you're pointing."
+        },
+        {
+            "character": "May",
+            "line": "Your gut."
+        },
+        {
+            "character": "Hive",
+            "line": "You think they'll come after you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know. Coulson, he's..."
+        },
+        {
+            "character": "Hive",
+            "line": "A driven man. Especially when it comes to you."
+        },
+        {
+            "character": "Daisy",
+            "line": "He thinks I need protecting."
+        },
+        {
+            "character": "Hive",
+            "line": "It's a shame he doesn't know how strong you are, Skye. But your home is with me now."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's... It's actually Daisy. My name is Daisy."
+        },
+        {
+            "character": "Hive",
+            "line": "Grant knew you as..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I changed it. Or I guess you could say I found it. It was the name they always intended for me."
+        },
+        {
+            "character": "Hive",
+            "line": "Who?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I got so used to being alone. And then my dad made good on his word, and for a second, I had parents. Ones who wanted me. They weren't what I imagined, but they were real. Not some fantasy that I drummed up, you know?"
+        },
+        {
+            "character": "Hive",
+            "line": "But it didn't end well."
+        },
+        {
+            "character": "Daisy",
+            "line": "I just... I don't have parents anymore. I'm sorry. I don't know why I'm telling you all this."
+        },
+        {
+            "character": "Hive",
+            "line": "Connection. You and I are one organism now."
+        },
+        {
+            "character": "Talbot",
+            "line": "Look, this is real world, Coulson. Malick's intel is actionable."
+        },
+        {
+            "character": "Coulson",
+            "line": "I have some other matters to attend to."
+        },
+        {
+            "character": "Talbot",
+            "line": "What could possibly be more important? This is HYDRA we're talking about. You started this, Director. You need to see it through."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have all the resources you need. Update me as you learn more."
+        }
+    ]
+}

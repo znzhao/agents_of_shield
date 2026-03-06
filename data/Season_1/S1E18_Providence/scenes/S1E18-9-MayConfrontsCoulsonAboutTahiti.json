@@ -1,0 +1,96 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 9,
+    "scene_name": "MayConfrontsCoulsonAboutTahiti",
+    "description": "May confronts Coulson, expressing her doubts about his mental state and the possibility of Hydra programming related to his resurrection. She attempts to confiscate his weapon, recalling Fury's secretive leadership of the Tahiti project and her own orders to monitor Coulson. Their relationship is strained as Coulson angrily refuses to comply, highlighting the deepening rift and distrust within the team.",
+    "roles": [
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell you what, let's skip the part where you act concerned about my well-being. What is it you want?"
+        },
+        {
+            "character": "May",
+            "line": "I need to confiscate your weapon."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to share the twisted logic that makes you think that's a possibility?"
+        },
+        {
+            "character": "May",
+            "line": "Fury's dead. It's hard to accept, and we haven't had a chance to grieve."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no reason to. I have faith that he's alive."
+        },
+        {
+            "character": "May",
+            "line": "That feeling... this belief that he is reaching out to you, Phil, it might not be faith. It might be something else."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what's that?"
+        },
+        {
+            "character": "May",
+            "line": "Hydra."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hydra?"
+        },
+        {
+            "character": "May",
+            "line": "Impulses implanted in your brain right alongside memories of a beautiful island."
+        },
+        {
+            "character": "Coulson",
+            "line": "Really? This is what you want to come to me with right now? That's not possible. Fury ordered the surgery."
+        },
+        {
+            "character": "May",
+            "line": "Yes, but he wasn't in charge of the Tahiti project, and the person that was behind that operation may be in ch..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait, wait, wait. What did you say? Somebody else was behind it? Who the hell was that?"
+        },
+        {
+            "character": "May",
+            "line": "I don't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who?! Tell me!"
+        },
+        {
+            "character": "May",
+            "line": "Phil, I don't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "You don't know? Oh. Let me guess. Only Fury knows."
+        },
+        {
+            "character": "May",
+            "line": "Yes. And without him, there's no way to know who is responsible. And there's a real danger that Hydra's controlling your actions. That's why Fury put me on this plane... to watch you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not gonna hand over my weapon. You want to try to take it from me? Good. Now get out of my office."
+        }
+    ]
+}

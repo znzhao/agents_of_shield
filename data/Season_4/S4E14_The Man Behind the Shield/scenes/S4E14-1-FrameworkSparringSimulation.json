@@ -1,0 +1,123 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 1,
+    "scene_name": "FrameworkSparringSimulation",
+    "description": "At The Playground, Coulson and Skye (Daisy) test the Framework's sparring capabilities in a hyper-realistic simulation, with Fitz, Simmons, and Mack observing. They discuss the sensory experience and the implications of Radcliffe's technology. The team realizes the Framework is only a prototype, and the real version must be larger and more hidden, which motivates them to consider ways to locate Radcliffe and rescue May.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Well, I'll be."
+        },
+        {
+            "character": "Daisy",
+            "line": "Ohh! That hurt."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, it hurts. But the fact that I feel anything at all is what's blowing my mind."
+        },
+        {
+            "character": "Daisy",
+            "line": "Think that's the point."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, that's enough."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Unbelievable. It's like the real thing. I could even smell the sweat. But I-I felt strangely cold, though."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I tried to make the simulation as real as possible, and since you always leave the air-con on in the base, I exaggerated it. Kind of like a silent protest."
+        },
+        {
+            "character": "Daisy",
+            "line": "That was so realistic. I mean, you know, except for the whole stopping in midair thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know. I think it might play out a little differently in real life."
+        },
+        {
+            "character": "Mack",
+            "line": "So, you can feel in there?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, it's the Framework. It's an immersive sensory experience."
+        },
+        {
+            "character": "Simmons",
+            "line": "It was designed as a training exercise, a way for agents to practice sparring or jungle insertions and the like."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, you can still feel pain while inside. That's why I stopped the simulation before you hit the wall because..."
+        },
+        {
+            "character": "Mack",
+            "line": "Painful. Got it."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, May's locked up somewhere but being held in a virtual reality like this? What, to keep her placid?"
+        },
+        {
+            "character": "Mack",
+            "line": "Radcliffe said she was in the Framework."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but this is a contained prototype. It's got limited simulations."
+        },
+        {
+            "character": "Simmons",
+            "line": "If Radcliffe said he built a world, he must have built a separate, more powerful version."
+        },
+        {
+            "character": "Coulson",
+            "line": "But if it's separate, how will we find it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Run a search. Try and locate traces of the source code. I might be able to locate where Radcliffe is running his new version, and..."
+        },
+        {
+            "character": "Coulson",
+            "line": "And that's where we'll find May."
+        },
+        {
+            "character": "Davis",
+            "line": "Sir, the GPS signal we're tracking on The Director's suit? We've locked in on the location."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where?"
+        },
+        {
+            "character": "Davis",
+            "line": "Nome, Alaska."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson."
+        }
+    ]
+}

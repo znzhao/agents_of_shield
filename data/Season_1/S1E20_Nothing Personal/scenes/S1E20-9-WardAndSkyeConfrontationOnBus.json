@@ -1,0 +1,293 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 9,
+    "scene_name": "WardAndSkyeConfrontationOnBus",
+    "description": "Back on the S.H.I.E.L.D. Bus, Ward tries to justify his betrayal to Skye after her futile attempt to attack him. She confronts Ward about his actions, calling him out as a 'serial killer' and specifically referencing the killings of Nash and the shooting of herself ordered through Quinn. Ward professes that his feelings for Skye are genuine, but she is disgusted, telling him she will never give him what he wants. Meanwhile, Deathlok threatens Skye with Ward’s life, forcing her to give up the encryption protocol for the hard drive.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "michael_peterson"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mike",
+            "line": "You should be thanking me. I saved your ass."
+        },
+        {
+            "character": "Ward",
+            "line": "You didn't save my ass. You turned it into a public spectacle."
+        },
+        {
+            "character": "Mike",
+            "line": "You let her get one over on you. That's exactly what Garrett was afraid of."
+        },
+        {
+            "character": "Ward",
+            "line": "And Garrett told you to stay out of sight."
+        },
+        {
+            "character": "Mike",
+            "line": "He ordered me to shadow you. He knew you had a soft spot for Skye and she might take advantage of it."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, he was wrong. We have her. And once she gives us a location, we'll be off."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, that's not gonna happen."
+        },
+        {
+            "character": "Ward",
+            "line": "Take a walk. I can handle this."
+        },
+        {
+            "character": "Skye",
+            "line": "Can you? You haven't so far."
+        },
+        {
+            "character": "Mike",
+            "line": "Garrett says you have 5 minutes."
+        },
+        {
+            "character": "Ward",
+            "line": "I can explain."
+        },
+        {
+            "character": "Skye",
+            "line": "Lying bastard! Son of a bitch! You lying..."
+        },
+        {
+            "character": "Ward",
+            "line": "Stop. Stop. Stop! Calm down. Okay? Okay? It's over. You can't win. Okay? Stop."
+        },
+        {
+            "character": "Skye",
+            "line": "All this time, everything we've been through... why? How could you?"
+        },
+        {
+            "character": "Ward",
+            "line": "I was on a mission. It wasn't personal."
+        },
+        {
+            "character": "Skye",
+            "line": "“It was...” you did not just say that. “It wasn't personal?!”"
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, listen to me."
+        },
+        {
+            "character": "Skye",
+            "line": "God, I might actually believe that. You... that I... that is the twisted logic that they teach you when you sign up to be a Nazi."
+        },
+        {
+            "character": "Ward",
+            "line": "Stop. Wait. I'm not a Nazi."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, you are. That is exactly what you are. It's in the S.H.I.E.L.D. handbook, chapter one. The Red Skull, founder of Hydra, was a big, fat, freaking Nazi."
+        },
+        {
+            "character": "Ward",
+            "line": "That has nothing to do with today."
+        },
+        {
+            "character": "Skye",
+            "line": "You know, you always had that Hitler youth look to you. So it's really not that surprising."
+        },
+        {
+            "character": "Ward",
+            "line": "It's not like that. I'm a spy. I had a job."
+        },
+        {
+            "character": "Skye",
+            "line": "You've killed I don't know how many people. You gonna kill me now?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. I would never hurt you."
+        },
+        {
+            "character": "Skye",
+            "line": "Once I crack the drive, are you just gonna shoot me like you did with Thomas Nash, or are you gonna have someone else do it, like you did with Quinn?"
+        },
+        {
+            "character": "Ward",
+            "line": "I didn't know that was gonna happen. That was all Garrett."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, of course it was Garrett's fault. That was part of “the mission,” right? Just gonna kick back and watch me bleed until it's your turn to pull the trigger."
+        },
+        {
+            "character": "Ward",
+            "line": "You think I had a part in that? That I would let that happen to you? You know how I feel about you, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. So even though you've been lying to everyone about everything, you're saying that your feelings for me..."
+        },
+        {
+            "character": "Ward",
+            "line": "They're real, Skye. They always have been."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm gonna throw up."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you... do you think this has been easy for me? Do you have any idea how hard it was? The sacrifices, the decisions I had to make? But I made them. Because that's what I do. I'm a survivor."
+        },
+        {
+            "character": "Skye",
+            "line": "You are a serial killer. And you know what? You were right about one thing. I wouldn't like the real you."
+        },
+        {
+            "character": "Ward",
+            "line": "Someday... Someday, you'll understand."
+        },
+        {
+            "character": "Skye",
+            "line": "No. I won't. And I will never... ever... give you what you want."
+        },
+        {
+            "character": "Ward",
+            "line": "Time's up. You can tell me where to unlock the drive, or you can tell him."
+        },
+        {
+            "character": "Skye",
+            "line": "Mike... Please. I know you don't want to do this."
+        },
+        {
+            "character": "Mike",
+            "line": "It's not up to me."
+        },
+        {
+            "character": "Skye",
+            "line": "Yes, it is. I don't care what they did to you. You're still Mike Peterson. You're still a father. You have a son."
+        },
+        {
+            "character": "Mike",
+            "line": "Who I left in your hands. I asked you to look after him, Skye. Where is he now?"
+        },
+        {
+            "character": "Skye",
+            "line": "He's with his aunt, under the protection of a S.H.I.E.L.D. team."
+        },
+        {
+            "character": "Mike",
+            "line": "And what is S.H.I.E.L.D. today? Hydra can hurt my son anytime they want, and if I get any funny ideas about rescuing him, they push a little button and blow a hole in my skull."
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz-Simmons will figure out a way..."
+        },
+        {
+            "character": "Mike",
+            "line": "No. There's no way out of this, Skye. Tell us... how to unlock... the drive."
+        },
+        {
+            "character": "Ward",
+            "line": "Damn it, Skye..."
+        },
+        {
+            "character": "Skye",
+            "line": "You could have shot me back in Italy, but you didn't. They made Quinn do it because there's still good in you, Mike, and I don't think you're gonna hurt me."
+        },
+        {
+            "character": "Mike",
+            "line": "You're right. I won't hurt you."
+        },
+        {
+            "character": "Skye",
+            "line": "What ... what ... what did you do to him?"
+        },
+        {
+            "character": "Mike",
+            "line": "Stopped his heart."
+        },
+        {
+            "character": "Skye",
+            "line": "His heart..."
+        },
+        {
+            "character": "Mike",
+            "line": "Isn't beating. He's having a heart attack. I can restart it or not. It's your choice."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye..."
+        },
+        {
+            "character": "Skye",
+            "line": "You think I don't want to watch him suffer?"
+        },
+        {
+            "character": "Mike",
+            "line": "Not suffer... die. Garrett doesn't think you're gonna let that happen."
+        },
+        {
+            "character": "Skye",
+            "line": "He's a murderer."
+        },
+        {
+            "character": "Mike",
+            "line": "Yes, he is. Are you?"
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, stop."
+        },
+        {
+            "character": "Mike",
+            "line": "Where do you unlock the drive?"
+        },
+        {
+            "character": "Skye",
+            "line": "Bring him back!"
+        },
+        {
+            "character": "Mike",
+            "line": "Where?"
+        },
+        {
+            "character": "Skye",
+            "line": "35,000 feet. It's not based on longitude and latitude. It's altitude."
+        },
+        {
+            "character": "Mike",
+            "line": "You're lying."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not! You... I put the password in and I... I start the hack. And once we reach altitude, it unlocks. Now bring him back!"
+        },
+        {
+            "character": "Mike",
+            "line": "Put the password in. Start the hack. No tricks."
+        },
+        {
+            "character": "Ward",
+            "line": "You... you son of a bitch."
+        },
+        {
+            "character": "Mike",
+            "line": "Now get the plane in the air."
+        },
+        {
+            "character": "Ward",
+            "line": "I can't. I can barely stand."
+        },
+        {
+            "character": "Mike",
+            "line": "That should help."
+        }
+    ]
+}

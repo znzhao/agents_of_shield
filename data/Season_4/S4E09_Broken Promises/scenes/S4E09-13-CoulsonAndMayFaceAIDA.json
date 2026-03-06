@@ -1,0 +1,85 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 13,
+    "scene_name": "CoulsonAndMayFaceAIDA",
+    "description": "Coulson and May attempt to lock down the base’s emergency bar entrance, but AIDA intercepts them. AIDA physically overpowers them, knocking out Coulson and taking control of the May LMD. When Coulson wakes, May pretends to have been knocked out. This misleads Coulson, allowing AIDA to eavesdrop and learn the Darkhold’s hidden location.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "aida"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Where we headed?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Emergency staircase to the base's Bar Entrance. We need to lock that down manually."
+        },
+        {
+            "character": "May",
+            "line": "Don't you think we'd be better off guarding the Darkhold?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, the Darkhold's secure where it is."
+        },
+        {
+            "character": "May",
+            "line": "Better hope so."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hello, AIDA."
+        },
+        {
+            "character": "AIDA",
+            "line": "My hand does that, too."
+        },
+        {
+            "character": "May",
+            "line": "You're not getting that book."
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes, I am. But I'm gonna need your help."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, wake up."
+        },
+        {
+            "character": "May",
+            "line": "Where's AIDA?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Out there, looking for the Darkhold, presumably."
+        },
+        {
+            "character": "May",
+            "line": "I was about to fight her, and then..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Woke up in here. Me, too."
+        },
+        {
+            "character": "May",
+            "line": "Ohh."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Seems Aida nailed you pretty good. Radcliffe failed to mention she had ninja programming. There's an electronic lock on this door, so untill Fitz overrides the system, we're trapped."
+        },
+        {
+            "character": "May",
+            "line": "And the Darkhold. You're sure AIDA won't find it?"
+        }
+    ]
+}

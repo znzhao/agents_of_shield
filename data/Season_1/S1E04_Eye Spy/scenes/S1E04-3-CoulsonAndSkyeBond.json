@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 3,
+    "scene_name": "CoulsonAndSkyeBond",
+    "description": "In a quieter moment on the Bus, Skye jokes about being Coulson's protégée after learning about Amador. Coulson reflects on his failure to reach Amador and Skye reassures him that Amador's choices are her responsibility. This scene strengthens Skye and Coulson's growing trust and highlights his lingering guilt.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I'm not so special after all. I'm not your first protégée. Relax. I'm teasing. I know I'm not a protégée. Hell, I'm not even a real, live S.H.I.E.L.D. agent yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "You two couldn't be more different. Amador was smart, talented, fearless."
+        },
+        {
+            "character": "Skye",
+            "line": "Wow, there's nothing in common."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me finish. She didn't play well with others, found little value in teamwork. I thought I could instill those qualities in her, so I pushed her... maybe too hard."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't blame yourself because this chick went to the dark side. Whatever path she went down, whatever weird stuff she got into, it's on her."
+        },
+        {
+            "character": "Amador",
+            "line": "The agreement was to come alone."
+        },
+        {
+            "character": "Man",
+            "line": "I did!"
+        },
+        {
+            "character": "Amador",
+            "line": "What about the man in the next room? Or the one by the stairs?"
+        },
+        {
+            "character": "Man",
+            "line": "They're here to protect me... for when I leave... with the merchandise! Please."
+        },
+        {
+            "character": "Man",
+            "line": "I'm sorry. I've never done this before. May I see them?"
+        },
+        {
+            "character": "Man",
+            "line": "The rest, they are..."
+        },
+        {
+            "character": "Amador",
+            "line": "In the bag. You can carry it through customs. No one will know. Now... it's your turn."
+        },
+        {
+            "character": "Man",
+            "line": "When I said 30 million dollars, I never thought anybody would..."
+        },
+        {
+            "character": "Amador",
+            "line": "If it fails, I will find you."
+        },
+        {
+            "character": "Man",
+            "line": "It will access all the levels, as promised. But once you're inside, do you have a plan?"
+        },
+        {
+            "character": "Amador",
+            "line": "It'll come to me."
+        }
+    ]
+}

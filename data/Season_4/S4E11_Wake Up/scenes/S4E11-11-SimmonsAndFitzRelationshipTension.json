@@ -1,0 +1,84 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 11,
+    "scene_name": "SimmonsAndFitzRelationshipTension",
+    "description": "Back at the Playground, Simmons and Fitz discuss his obsession with AIDA's programming, revealing that Fitz has continued unauthorized research. Simmons confronts Fitz about the risk this poses, including the possibility AIDA was used to spy on S.H.I.E.L.D., leading to an emotional rift between the two.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I don't know what's going on, but someone gave us up. The senator had inside information."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. Details. It's like Nadeer had eyes inside our... Our headquarters."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. J..."
+        },
+        {
+            "character": "Simmons",
+            "line": "You've been studying AIDA even though you were ordered not to."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, Jemma, okay..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I tried to give you a wide berth because I knew you were worrying it through, but this is an obsession. You turned it on, didn't you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not an obsession."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, did you turn on AIDA's ocular receptors?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Okay, yes. I-I-I see where you're going with this, and you're not wrong."
+        },
+        {
+            "character": "Simmons",
+            "line": "We personally gave Radcliffe Deathlok's eye technology. AIDA has it inside her head, doesn't she?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but, Jemma..."
+        },
+        {
+            "character": "Simmons",
+            "line": "A camera, watching us this whole time. AIDA hacked our base! Hell, it could've been broadcasting. Nadeer knew the details of our mission."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, that's impossible. I wasn't in that briefing. AIDA never saw that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why on earth would you do this?! You put us all at risk in a hundred ways."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma. Jemma, please. Just stop, okay? I have a working theory."
+        },
+        {
+            "character": "Simmons",
+            "line": "I wanted to help you get through this obsession of yours, but if you continue to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not an obsession! Jemma, it's an investigation."
+        }
+    ]
+}

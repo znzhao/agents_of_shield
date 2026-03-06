@@ -1,0 +1,36 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "glenn_talbot",
+        "robin_hinton"
+    ],
+    "aliases": [
+        "Coulson",
+        "Daisy",
+        "May",
+        "Fitz",
+        "Simmons",
+        "Mack",
+        "Yo-Yo",
+        "Deke",
+        "Talbot",
+        "Robin"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Remorath"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Chicago (site where Talbot targets buried gravitonium)",
+        "Remorath ship (Confederacy/Remorath mothership)"
+    ]
+}

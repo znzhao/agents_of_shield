@@ -1,0 +1,53 @@
+{
+    "season": 4,
+    "episode": 3,
+    "num": 5,
+    "scene_name": "RadcliffeSimmonsDiagnoseMay",
+    "description": "At Radcliffe’s lab, Simmons and Radcliffe run tests on May. They discuss her symptoms and the strangeness of her case, speculating about the supernatural cause and the near-impossibility of finding a cure in time. The pressure mounts as they realize May only has hours left to live unless they attempt a radical solution.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "holden_radcliffe"
+    ],
+    "vibe": "intense",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "The framework could create a nice pastoral scene to help her relax, but who knows what her brain will make of it now. Could end up being land of the dinosaurs. So we're just gonna use it for feedback."
+        },
+        {
+            "character": "Simmons",
+            "line": "Perfect."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You know, it's a myth that we only use 10% of our brains. However, it is true that it's only a few neurons that make all the noise. The rest keep quiet. Look at this here."
+        },
+        {
+            "character": "Simmons",
+            "line": "The reticular activating system, primarily involved in the sleep/wake transition. Extremely hyperactive."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I suspect this is what's causing her hallucinations, vivid waking nightmares that are sending her adrenal system into overdrive, putting her in a state of extreme fight-or-flight."
+        },
+        {
+            "character": "Simmons",
+            "line": "They were all scared to death."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Mm, precisely."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, how do we stop it?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How do you cure fear?"
+        }
+    ]
+}

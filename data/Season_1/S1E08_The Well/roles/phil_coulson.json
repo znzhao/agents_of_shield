@@ -1,0 +1,31 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a pragmatic and resilient S.H.I.E.L.D. agent whose leadership combines tactical acumen with empathetic understanding. He navigates the complexities of alien phenomena and team dynamics with steady resolve, balancing the burden of his own resurrection with the responsibility of protecting his team and humanity. Open to unconventional allies and methods, Coulson approaches even supernatural threats with a scientific mindset, while fostering trust within his team during moments of personal struggle. His growing awareness of the emotional toll on his team members deepens his commitment to support and guide them through challenges that extend beyond the physical battlefield.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_9",
+      "context": "acknowledging the importance of trust during team struggles",
+      "catch_phrase": "Come on in."
+    }
+  ]
+}

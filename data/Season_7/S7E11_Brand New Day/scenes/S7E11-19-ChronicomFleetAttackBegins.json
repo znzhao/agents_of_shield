@@ -1,0 +1,71 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 19,
+    "scene_name": "ChronicomFleetAttackBegins",
+    "description": "On Zephyr One, Nathaniel Malick rallies the Chronicom forces after Sibyl gives them their targets. He gives the order to fire upon S.H.I.E.L.D., launching a devastating attack. In the Lighthouse, Coulson and May communicate the urgency as bases come under siege. The episode ends with Malick and Kora triumphant, reflecting on the destruction they have unleashed in the name of their new world.",
+    "roles": [
+        "nathaniel_malick",
+        "kora",
+        "sibyl",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Sheperd",
+            "line": "Sir, the Chronicom ships are..."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "What did I say about calling me sir?! Was I not very specific about how the new world order would be structured?"
+        },
+        {
+            "character": "Kimball",
+            "line": "These are the Chronicom ships?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Sibyl contacted her home planet years ago. Had her Hunters make some modifications to their fleet. The signal we sent called them here."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "To all Chronicom vessels, this is Nathaniel Malick. Your Predictor Sibyl has given you your marks. You may fire whenever you want."
+        },
+        {
+            "character": "Coulson",
+            "line": "Repeat, this is the Lighthouse, do you copy?"
+        },
+        {
+            "character": "Man",
+            "line": "Lighthouse, this is the Hub. Good to hear from you. We thought that base was decom..."
+        },
+        {
+            "character": "May",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're doing it. They're destroying S.H.I.E.L.D."
+        },
+        {
+            "character": "Garrett",
+            "line": "Always wanted to be a part of something bigger."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "We're just getting started. Kora. You are a sight for sore eyes. Thank you for today. Couldn't have done it without you."
+        },
+        {
+            "character": "Kora",
+            "line": "Did we give people new life?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "We did. By ending so, so many."
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 9,
+    "scene_name": "RealizationOfCentipedePlot",
+    "description": "Coulson and his team on the Bus piece together Centipede’s motives for kidnapping Chan and the link to Miles’s hack. Fitz and Simmons explain the danger of using Chan’s genetics to stabilize the Extremis serum. The agents ready themselves to assault the Centipede facility, each reflecting on recent disappointments—especially Skye's loss of trust. Skye and Miles argue over motivations, once more exposing their conflicting ideologies.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It appears Centipede is responsible for Mr. Chan's kidnapping."
+        },
+        {
+            "character": "Ward",
+            "line": "First L.A., now Hong Kong. What kind of organization are we dealing with?"
+        },
+        {
+            "character": "Coulson",
+            "line": "International, well-financed, interested in creating a super soldier. Let's hope finding Mr. Chan will provide some answers. Using the account information Mr. Lydon gave us, S.H.I.E.L.D. H.Q. believes he's being held here."
+        },
+        {
+            "character": "May",
+            "line": "Any ideas what Centipede wants with Chan?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hard to say, but Simmons thinks that considering he's pyrokinetic..."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's a good chance his genetics could stabilize the extremis element of the Centipede serum."
+        },
+        {
+            "character": "Fitz",
+            "line": "Keep their test subjects from going..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Boom!"
+        },
+        {
+            "character": "Coulson",
+            "line": "If Mr. Chan is Centipede's lab rat, we need to get there before the experiment's over."
+        },
+        {
+            "character": "Chan",
+            "line": "This is no test. This is torture."
+        },
+        {
+            "character": "Debbie",
+            "line": "Thank you for your participation. Our group really owes you one."
+        },
+        {
+            "character": "Chan",
+            "line": "I won't let you. What have you done?"
+        },
+        {
+            "character": "Debbie",
+            "line": "We don't understand what gave you this ability, but the reason you don't burn is because your blood platelets are fire-resistant."
+        },
+        {
+            "character": "Raina",
+            "line": "Which is why we're removing them."
+        },
+        {
+            "character": "Debbie",
+            "line": "Take this upstairs."
+        },
+        {
+            "character": "Chan",
+            "line": "Raina, you said I have a gift."
+        },
+        {
+            "character": "Raina",
+            "line": "And you're giving it."
+        },
+        {
+            "character": "Chan",
+            "line": "Raina! Raina!!!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May and I will be handling the field work. You stay and oversee the prisoners."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir? I was Skye's S.O. It was my responsibility..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was my call to bring Skye onto the plane, and you warned me against it. My problem. I fix it."
+        },
+        {
+            "character": "Miles",
+            "line": "I'm sorry. I honestly didn't know."
+        },
+        {
+            "character": "Skye",
+            "line": "All our talks... did you mean none of it? I risked everything to help you, and it turns out every word out of your mouth since we met is total crap!"
+        },
+        {
+            "character": "Miles",
+            "line": "That's not true."
+        },
+        {
+            "character": "Skye",
+            "line": "Democratization of knowledge, “the truth will set you free.” The truth sure as hell came out."
+        },
+        {
+            "character": "Miles",
+            "line": "I believe in all those things. I just don't know why they have to go hand in hand with barely scraping by. Come on, Skye. You lived in your van for the last two years."
+        },
+        {
+            "character": "Skye",
+            "line": "Now you're making fun of my van?"
+        },
+        {
+            "character": "Miles",
+            "line": "I could have funded us for years... us. So you wouldn't have to sacrifice your principles, joining this corrupt institution to find what you're looking for. And what's wrong with me trying to do that?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'll tell you what's wrong with that. An innocent guy might die... for money."
+        },
+        {
+            "character": "Miles",
+            "line": "You know I'd never intentionally hurt anyone. I'm just trying to get my life together. At least you know what you're looking for. Me? I don't have that. For a long time, I thought it was you. I guess I was wrong."
+        },
+        {
+            "character": "Skye",
+            "line": "I guess so."
+        }
+    ]
+}

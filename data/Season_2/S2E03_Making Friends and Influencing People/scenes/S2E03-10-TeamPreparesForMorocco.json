@@ -1,0 +1,106 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 10,
+    "scene_name": "TeamPreparesForMorocco",
+    "description": "May identifies Donnie Gill's location; Coulson rallies the team to scramble the S.H.I.E.L.D. Bus and intercept Hydra’s next move. There is urgency as they gather equipment, and Mack accepts that he and Fitz will remain behind at the Playground. The stress of being sidelined weighs on Fitz as he confides in Mack, worried about being excluded from critical operations.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lance_hunter"
+    ],
+    "vibe": "action-packed",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Maribel del Mar. Anchored in the port of Casablanca. It's a privately owned cargo ship. Supposed to cast off this morning but didn't. It's frozen in ice."
+        },
+        {
+            "character": "Triplett",
+            "line": "Iceberg in the middle east? Gill's not subtle."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trip, how long till you can have the bus in the air?"
+        },
+        {
+            "character": "Triplett",
+            "line": "15, tops."
+        },
+        {
+            "character": "Coulson",
+            "line": "You heard him. You got 15 minutes to gather your gear."
+        },
+        {
+            "character": "Hunter",
+            "line": "Excuse me, but Gill wasn't hard to track. If Hydra are looking, they'll find him."
+        },
+        {
+            "character": "Skye",
+            "line": "The asset said Hydra would be ready to take him out if they couldn't capture or recruit him."
+        },
+        {
+            "character": "May",
+            "line": "Which is why we have to beat them to it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll coordinate from the bus. Down to 14 minutes. Let's get moving."
+        },
+        {
+            "character": "Mack",
+            "line": "They're taking the bus. You know what that means? Means we got the night off. Koenig's on assignment and won't be hogging the Xbox. Man, why aren't you happier about this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "‘Cause I should be going. I mean, I-I knew him."
+        },
+        {
+            "character": "Mack",
+            "line": "No need to feel bad about it. It is what it is."
+        },
+        {
+            "character": "Fitz",
+            "line": "Skye's asset. Now Donnie. They're... they're keeping things from me."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, they're keeping you from an icy death. That's it. Come on, now. Don't start getting paranoid on me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where are you taking me? Thank you. Thanks very much."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Ms. Simmons. Do you have anything warmer? I'll grab you something before we leave."
+        },
+        {
+            "character": "Simmons",
+            "line": "Leave? Where to?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "We've found Donnie Gill. We've tried bringing him into the fold before. Now we have a second chance. With you... a friendly, honest face. Maybe we'll have better luck."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's dangerous, isn't he?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Don't worry. We'll have your back every step of the way. Suit up. It's going to get cold."
+        },
+        {
+            "character": "Captain",
+            "line": "You have no idea what you are bringing down on yourself. We will find you."
+        },
+        {
+            "character": "Donnie",
+            "line": "I know. I want to be left alone, but you people won't stop coming after me! So I'm done hiding. It's time Hydra learn once and for all... I'm not interested. I'm not afraid. I'm pissed off. And every Hydra agent they send is going to feel it."
+        }
+    ]
+}

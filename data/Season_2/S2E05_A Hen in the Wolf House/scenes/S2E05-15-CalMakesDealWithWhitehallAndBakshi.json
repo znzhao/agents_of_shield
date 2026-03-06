@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 15,
+    "scene_name": "CalMakesDealWithWhitehallAndBakshi",
+    "description": "Calvin Johnson confronts Whitehall and Bakshi as Hydra packs up their headquarters. He offers them the Obelisk, explaining its true name and proposing an alliance to destroy Coulson, emphasizing their shared enemy. This sets the stage for a dangerous partnership moving forward.",
+    "roles": [
+        "sunil_bakshi",
+        "daniel_whitehall",
+        "calvin_johnson"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Bakshi",
+            "line": "The lab should be dismantled within the hour."
+        },
+        {
+            "character": "Whitehall",
+            "line": "And the rest of the facility?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "Not long after."
+        },
+        {
+            "character": "Cal",
+            "line": "I couldn't help but notice all the moving boxes. I'm sorry for the interruption. This will only take a second."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Remove him!"
+        },
+        {
+            "character": "Cal",
+            "line": "Please, lower your voice. Let's all... Let's all try and keep our heads about us. Let's all try and stay calm. Mm. Sorry. Let's all try and keep our heads about us. I hear you've been looking for this."
+        },
+        {
+            "character": "Whitehall",
+            "line": "The Obelisk."
+        },
+        {
+            "character": "Cal",
+            "line": "In its native language, it's called the Diviner, one of many little details I know about this thing."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Can you tell me how to use it?"
+        },
+        {
+            "character": "Cal",
+            "line": "Better yet, I'll teach you how to survive it."
+        },
+        {
+            "character": "Whitehall",
+            "line": "And why would you do that?"
+        },
+        {
+            "character": "Cal",
+            "line": "We share a common enemy... a guy named Phil Coulson. I thought maybe together, you and I could kill him... along with, you know, everyone else."
+        }
+    ]
+}

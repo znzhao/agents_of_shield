@@ -1,0 +1,60 @@
+{
+    "season": 3,
+    "episode": 22,
+    "num": 7,
+    "scene_name": "MayAndFitzStowAway",
+    "description": "Onboard Zephyr One, May and Fitz's presence as stowaways is discovered by Hive and his team. Hive orders James to search for stowaways as he makes final preparations to disperse the pathogen. Fitz and May resolve to act before Hive's plan can be completed, while Daisy realizes that a remote Quinjet has docked—a sign that Coulson is making his move. The tension rises as Zephyr's ascent puts everything on a countdown timer.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "leo_fitz",
+        "giyera",
+        "james",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "I'm starting to think clearly. Adjusting for wind speed. Setting the last of the coordinates now."
+        },
+        {
+            "character": "James",
+            "line": "So, uh, when we blow this thing, three continents' worth of people are gonna end up looking like these buggers, yeah? Even the ladies? Look, I don't want to seem ungrateful. I'm pumped to be changing the world and all that, but down the road, can we still look at tweaking the formula? I've had some not-so-golden-girls in my time. You know, I had too much booze in the mix. I'm just trying to manage expectations moving forward."
+        },
+        {
+            "character": "Hive",
+            "line": "It's done. Let's tell Giyera to prepare the containment module. What is this?"
+        },
+        {
+            "character": "James",
+            "line": "Stowaways. Tenacious little rat bags, aren't they?"
+        },
+        {
+            "character": "Hive",
+            "line": "Find them."
+        },
+        {
+            "character": "Daisy",
+            "line": "The Quinjet, it's here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, the Quinjets fly themselves. Director Coulson must've called one, too."
+        },
+        {
+            "character": "May",
+            "line": "They're ducks in a barrel until they deplane, though. We need to get to the docking station."
+        },
+        {
+            "character": "Fitz",
+            "line": "Let's just hope whoever's on the Quinjet has an idea about what happens next."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know exactly what happens next."
+        }
+    ]
+}

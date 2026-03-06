@@ -1,0 +1,39 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 1
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resilient and principled S.H.I.E.L.D. agent and leader, committed to rebuilding and protecting the agency despite immense challenges. He is strategic and resourceful, willing to take calculated risks to gain advantages against powerful enemies like Hydra. Coulson balances pragmatism with empathy, showing concern for his team's welfare while maintaining focus on the larger mission. His experiences with betrayal, loss, and the damaged mental state of his colleagues have deepened his resolve to safeguard innocent lives, often operating in the shadows to do so. His leadership style emphasizes trust-building, sacrifice, and adaptation in a world rife with deception and danger.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "secure_advanced_technology_to_gain_edge_against_hydra",
+        "goal": "Obtain and leverage advanced technology, such as quinjet cloaking systems, to gain a tactical advantage for S.H.I.E.L.D. against Hydra threats"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_17",
+      "context": "expressing resolve to operate covertly for the greater good",
+      "catch_phrase": "That's how we have to live now... in the shadows, to save people, even when they don't know it, don't want it."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 13,
+    "scene_name": "WardTransferAndGoodbyes",
+    "description": "Coulson formally oversees Ward’s transfer to the FBI for the deal with Senator Ward. As Ward is escorted out before the remaining S.H.I.E.L.D. members, Skye coldly ignores him, and Simmons furiously threatens his life if they ever cross paths again. The episode cross-cuts between the handover and Christian Ward's public speech, where Talbot and May briefly reflect on their losses. The press conference is rife with political spin; Senator Ward disowns his brother, reinforcing the divide between S.H.I.E.L.D. and Hydra, while the S.H.I.E.L.D. team stands united, if emotionally battered.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "skye",
+        "jemma_simmons",
+        "melinda_may",
+        "glenn_talbot",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Time to go. Hands."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "Dignitaries, ladies and gentlemen, less than 48 hours ago, brave men and women lost their lives at this very spot I'm standing now, and I think we owe it to them to discuss something all too often elusive... the truth. Sometimes we want things simpler than they actually are, but... the tough reality is, we are complex creatures."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye."
+        },
+        {
+            "character": "Simmons",
+            "line": "If I ever see you again... I'll kill you."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "And I've come to understand something that world must, as well. There is a difference between S.H.I.E.L.D. and HYDRA. One was an organization built on protection, and the other... world domination."
+        },
+        {
+            "character": "Talbot",
+            "line": "We got Beckers at the border. How many men did you lose?"
+        },
+        {
+            "character": "May",
+            "line": "Six."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's always a shame when a good soldier falls."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "And just as good and evil existed side-by-side within S.H.I.E.L.D., the same was true in my own home. At first, I was ashamed to share this truth with the world, but my younger brother, Grant Ward, was a member of HYDRA. He was a traitor. He was a traitor to his friends, his family, and his nation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do not give him one inch."
+        },
+        {
+            "character": "Ward",
+            "line": "Tell Skye this doesn't change anything. I'll keep my promise."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "When evil sits closest to one's own heart, that is when the surest hand must cut it out. I give my word. I will personally make sure my brother is punished for his crimes. But as is so often true, the darkness lingers longer than the light. And while S.H.I.E.L.D. is gone, HYDRA is a problem that the world must still face. Otherwise, that darkness will grow and spread... and cast a shadow over us all."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 9
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. He prioritizes the safety of his team and innocent lives, often making difficult decisions that weigh operational success against human cost. Coulson's track record includes grappling with supernatural and alien phenomena, leading covert missions against formidable Hydra threats, and managing complex interpersonal dynamics within a fractured team. His evolving role shows increasing responsibility for protecting a wider community while wrestling with the personal and emotional toll of leadership and the mysteries surrounding alien legacies.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "neutralize_hydra_threat_and_protect_raina",
+        "goal": "Neutralize the Hydra threat targeting Raina and ensure her safety as a key figure linked to the alien Obelisk"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "investigate_and_secure_underground_city_in_puerto_rico",
+        "goal": "Identify, investigate, and secure the entrance and temple of the ancient underground city beneath San Juan, Puerto Rico, to prevent Hydra from exploiting its power"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "secure_hidden_city_before_hydra",
+        "goal": ""
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_21",
+      "context": "accepting hard choices about his mental decline and asking May to kill him if necessary",
+      "catch_phrase": "If he ever goes mad like Garrett did, May needs to be the one to put him down."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_22",
+      "context": "threatening Ward about betraying Skye and team",
+      "catch_phrase": "You will never see Skye again."
+    }
+  ]
+}

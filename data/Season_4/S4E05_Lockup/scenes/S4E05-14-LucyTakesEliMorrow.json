@@ -1,0 +1,23 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 14,
+    "scene_name": "LucyTakesEliMorrow",
+    "description": "As the chaos subsides, the team realizes Eli Morrow is missing. Footage reveals Lucy forces him to leave the prison with her in an ambulance. Coulson and May realize Lucy needs Eli for her next step, intensifying the hunt for the Darkhold. The scene closes with Lucy demanding Eli read the book, setting up the next conflict.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "eli_morrow",
+        "lucy_bauer"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Well, we're gonna need her. Fitz found Eli Morrow and Dr. Bauer on the security-cam footage outside the prison."
+        }
+    ]
+}

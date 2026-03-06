@@ -1,0 +1,360 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "FitzMackArriveAtMomentumLab",
+    "description": "Fitz and Mack arrive at the Momentum Energy Lab to investigate the source of the threat. They begin to explore the facility but realize something is very wrong when the reactor behaves dangerously. Mack and Fitz encounter Frederick, who attacks and traps Mack inside the nuclear reactor, escalating the peril of the situation.",
+    "roles": [
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "thrilling",
+    "location": "Momentum Energy Lab (Pasadena / Momentum Labs)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Shame Simmons couldn't come with us."
+        },
+        {
+            "character": "Fitz",
+            "line": "Seems the new parameters at H.Q. come with nothing but more paperwork."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, you're telling me. Inventory before deployment? I mean, this is a-a lot of numbers. I'm a mechanic, not an accountant."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're an engineer, Mack. And a small tank."
+        },
+        {
+            "character": "Mack",
+            "line": "I can't tell if some of our medication supply is missing or... I'm just too fried to figure it out."
+        },
+        {
+            "character": "Fitz",
+            "line": "You are looking a bit more feeble than usual."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you for that. It's these long deployments, Turbo. Weeks at a time. I mean, Coulson loves it, but the isolation gets to me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Have you been seeing Yo-Yo?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Yeah, we Skype occasionally."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, at least you're not on the wild goose chase for Daisy anymore."
+        },
+        {
+            "character": "Mack",
+            "line": "We tried, man. I promise you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I know. Should be landing in about an hour."
+        },
+        {
+            "character": "Fredrick",
+            "line": "All those years..."
+        },
+        {
+            "character": "Hugo",
+            "line": "My wife... she's out there. My life... Calm down. I don't have time to be calm. What that backstabber did to us..."
+        },
+        {
+            "character": "Fredrick",
+            "line": "It wasn't just him. It was you. We trusted you."
+        },
+        {
+            "character": "Bauer",
+            "line": "This is not my fault. I had no idea."
+        },
+        {
+            "character": "Fredrick",
+            "line": "You shouldn't have used the Darkhold."
+        },
+        {
+            "character": "Hugo",
+            "line": "He's right. This is all because of your obsession with that damn book."
+        },
+        {
+            "character": "Bauer",
+            "line": "No. That book can help us now. Fix us."
+        },
+        {
+            "character": "Hugo",
+            "line": "Or give you the power you wanted in the first place. Like we could ever find it. He's years ahead of us."
+        },
+        {
+            "character": "Bauer",
+            "line": "Oh. We will find the book and kill him along with anyone who tries to stop us."
+        },
+        {
+            "character": "Robbie",
+            "line": "I've seen a lot of breaks. Your arm is fractured, not broken. Keep trying to bust out of that, I can't guarantee it'll stay that way."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Looking for proof. You see, this is new for me. I've never been..."
+        },
+        {
+            "character": "Daisy",
+            "line": "A kidnapper?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Caught. You know who I am, which is a problem. For both of us. A problem that has to go away."
+        },
+        {
+            "character": "Daisy",
+            "line": "Threaten me all you want. You think I'm afraid to die?"
+        },
+        {
+            "character": "Robbie",
+            "line": "I think you want it. No doubt. You got a death wish. Coming back to find me after I let you live. You told me not to. Said you deserved it. I'm just looking for proof that you do."
+        },
+        {
+            "character": "Daisy",
+            "line": "And then?"
+        },
+        {
+            "character": "Robbie",
+            "line": "My problem goes away. And your wish comes true."
+        },
+        {
+            "character": "Bauer",
+            "line": "Vincent, calm down."
+        },
+        {
+            "character": "Hugo",
+            "line": "Well, he has it the worst."
+        },
+        {
+            "character": "Fredrick",
+            "line": "I think he wants to know your plan."
+        },
+        {
+            "character": "Bauer",
+            "line": "We're gonna find the book and reverse what's been done to us. We'll make this right. Hugo, you take those power cells. We're gonna need them. Vincent and I will look for Joe. And you..."
+        },
+        {
+            "character": "Fredrick",
+            "line": "I'll burn this place to the ground."
+        },
+        {
+            "character": "Bauer",
+            "line": "We all need to work together."
+        },
+        {
+            "character": "Fredrick",
+            "line": "I'm done working for you. I mean... look what happened to us."
+        },
+        {
+            "character": "Bauer",
+            "line": "It would be smarter..."
+        },
+        {
+            "character": "Fredrick",
+            "line": "You were never smarter! You just had the damn book. You don't control me anymore, Lucy. Take the boxes. But I'm destroying this place."
+        },
+        {
+            "character": "Robbie",
+            "line": "You've got ghosts haunting you. Something in your past you can't live with. You could just tell me."
+        },
+        {
+            "character": "Daisy",
+            "line": "Haunting me? This coming from the guy who thinks he's possessed."
+        },
+        {
+            "character": "Robbie",
+            "line": "I prayed for vengeance. I got it. You? Fighting to right every wrong, all the while begging to be taken out. Seems to me your thing is serving penance. You know, we're not so different, you and me. Yeah, you just feel bad for the dead in your wake. I don't feel anything."
+        },
+        {
+            "character": "Daisy",
+            "line": "If that were true, you would've killed me by now. Are you really telling me you don't feel curious about what's going on out there? You hunted those skinheads down. Why?"
+        },
+        {
+            "character": "Robbie",
+            "line": "They spilled innocent blood."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wow. Listen to you. Take yourself seriously much? They were working with the Chinese. Does that happen a lot around here? Didn't think so. And outfitted with RPGs. You're not interested in how these things are connected? Look, I know that the big picture is kind of lost on you, but someone is arming them, uniting them, and that should concern us both."
+        },
+        {
+            "character": "Robbie",
+            "line": "I said I'm not what you are."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're enhanced, and you just said that we're not that different. I'm sorry, but you just said that... like 10 seconds ago. They won't stop until a lot of people are dead."
+        },
+        {
+            "character": "Robbie",
+            "line": "Or they are."
+        },
+        {
+            "character": "Daisy",
+            "line": "And who knows what kind of weapon they stole from the energy lab in Pasadena. Still haven't been able to dig up any infor..."
+        },
+        {
+            "character": "Robbie",
+            "line": "Wait. What did you say?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Momentum Alternative Energy Lab. Printout right there in your hands. Best I can tell, that's where they stole the weapon from. But it's been shut down for years. Wait. Does that mean something to you? Robbie! No! Robbie!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Ah. Agent Simmons, there you are."
+        },
+        {
+            "character": "Mace",
+            "line": "Here's the Special Advisor of Science and Technology. Glad you could finally make it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, because we were supposed to meet 15 minutes ago. Right. Unfortunately..."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, luckily, the United States Congress is used to waiting around. Right, guys? ‘Cause, I mean, how much work really gets done in Washington? Although you don't often wait around for someone who's honestly changing the world."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I don't know if I'm doing that."
+        },
+        {
+            "character": "Mace",
+            "line": "So why don't you go ahead and tell us what you were working on that kept you? Word of advice... everything she does is hugely fascinating and I understand none of it, so feel free to smile and nod. It's what I do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I was just in the containment rooms."
+        },
+        {
+            "character": "Mace",
+            "line": "Ah, yes. One of S.H.I.E.L.D.'s most important advances in recent years. It uses adaptive materials to contain enhanced individuals and actually neutralizes their powers."
+        },
+        {
+            "character": "Congressman",
+            "line": "Oh, neutralize powers... that does sound useful. I'd love to see them."
+        },
+        {
+            "character": "Mace",
+            "line": "Great idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "But maybe not the best idea, Director."
+        },
+        {
+            "character": "Mace",
+            "line": "Excuse me. Guess not. What happened?"
+        },
+        {
+            "character": "Simmons",
+            "line": "There was an incident. Blood everywhere. Not a great time."
+        },
+        {
+            "character": "Mace",
+            "line": "Turns out it wasn't the best idea ‘cause Agent Coulson here has a better one. Uh, who wants to step inside a real-life Quinjet? Let's go."
+        },
+        {
+            "character": "Coulson",
+            "line": "Chen? Do you have any idea what set him off?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Have you spoken to May lately?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Creepy."
+        },
+        {
+            "character": "Mack",
+            "line": "You ever notice we never get to check up on a bright-lit place filled with nice, friendly people?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack. Looks like a short electrical transient set off a quick current spike, other side of that door."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, boy. Mack! We got a big problem. The reactor terminals are set to... Whoa!"
+        },
+        {
+            "character": "Mack",
+            "line": "Great. This guy disappears. I hate these guys."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where'd he go? Think you scared him off?"
+        },
+        {
+            "character": "Mack",
+            "line": "What do you think the chances of that are, Turbo?"
+        },
+        {
+            "character": "Coulson",
+            "line": "May? What's up?"
+        },
+        {
+            "character": "May",
+            "line": "The base has been infiltrated. Something got in."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you thought you'd redecorate?"
+        },
+        {
+            "character": "May",
+            "line": "Maybe somebody brought something in, something that's getting to everyone."
+        },
+        {
+            "character": "Coulson",
+            "line": "And if you find it, you can destroy it."
+        },
+        {
+            "character": "May",
+            "line": "Yeah. That's right."
+        },
+        {
+            "character": "Coulson",
+            "line": "Always ready to do the brave thing. Always looking out for us."
+        },
+        {
+            "character": "May",
+            "line": "I won't let them take you."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, uh, what if we stop, take a minute? Rest, make a plan."
+        },
+        {
+            "character": "May",
+            "line": "I can't. I can't. No time."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know what? We have current blood samples on file for every S.H.I.E.L.D. agent, even the Director. That could help us figure out who's been infected. We just have to go to the lab. How does that sound?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        }
+    ]
+}

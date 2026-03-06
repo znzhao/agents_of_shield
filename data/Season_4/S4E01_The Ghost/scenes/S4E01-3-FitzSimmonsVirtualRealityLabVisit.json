@@ -1,0 +1,174 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 3,
+    "scene_name": "FitzSimmonsVirtualRealityLabVisit",
+    "description": "At the Playground, Simmons tests a new training VR system with Fitz. Their conversation reveals changes in S.H.I.E.L.D. since the new director took over, including Simmons’s promotion and increased security protocols. Mack and Coulson join Fitz and Simmons in the lab for a quick debrief, and Fitz provides them with new gadgets for their upcoming mission. The team dynamics are shown shifting under the new S.H.I.E.L.D. structure.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "phil_coulson"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Hello? Hello? I hear my voice echo, but it sounds strange in my head. The detail is amazing. However, I am 3 feet off the ground."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. What? Hold on. Damn it. Uh, well, I did adjust the Y axis earlier for some reason. What does that look like now?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Better. The CPU seems to be handling the high poly count. Textures are impeccable. We should build a place to get away, a meadow or a cottage somewhere. I wish it were ever this quiet."
+        },
+        {
+            "character": "Fitz",
+            "line": "Direct-current stimulation. Creates the other senses like touch and taste but also takes feedback. So I've just mapped your brain's response..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Response to the environment. Of course. Dr. Radcliffe came up with the architecture?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, he calls it The Framework. But all the transcranial apparatus, that's all me."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Of course, you're brilliant, too. Of course."
+        },
+        {
+            "character": "Fitz",
+            "line": "‘Cause soon you won't even need the eyewear or the earwear, ‘cause it'll all be inside your head."
+        },
+        {
+            "character": "Simmons",
+            "line": "So May's strike team will be able to train virtually instead of May constantly breaking their ribs."
+        },
+        {
+            "character": "Nathanson",
+            "line": "Hey, hey. Authorized personnel only, pal. No pass, no entry."
+        },
+        {
+            "character": "Mack",
+            "line": "Who the hell are you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Leave them be, Nathanson. They have more reason to be here than you do."
+        },
+        {
+            "character": "Mack",
+            "line": "Wow. A lot of new faces."
+        },
+        {
+            "character": "Simmons",
+            "line": "Good to see yours."
+        },
+        {
+            "character": "Fitz",
+            "line": "Six weeks. That's a record."
+        },
+        {
+            "character": "Coulson",
+            "line": "Heard you got a promotion."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, yeah, and a title."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, Special Advisor to the Director in Science and Technology."
+        },
+        {
+            "character": "Mack",
+            "line": "They keeping you busy?"
+        },
+        {
+            "character": "Simmons",
+            "line": "With busywork, mostly."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and random state-of-the-art lie-detector tests."
+        },
+        {
+            "character": "Coulson",
+            "line": "So that's the cost of being in the Director's inner circle."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, he's paranoid about what happened the last time S.H.I.E.L.D. was government-run. Calls it his Widespread Infiltration Monitoring Program."
+        },
+        {
+            "character": "Fitz",
+            "line": "Or “WIMP.” Hey, uh, you should join us 'cause we're gonna go to Radcliffe's and watch the Aberdeen-Inverness Caley Thistle League cup final. They're... Those are football teams."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm not sure they are, Turbo."
+        },
+        {
+            "character": "Coulson",
+            "line": "Unfortunately, we have to be wheels-up in 10 minutes, so..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. All right. Well, strictly business, then."
+        },
+        {
+            "character": "Mack",
+            "line": "Aw, yeah. New toys?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The exploding pen that you asked for. I can't imagine a use for it."
+        },
+        {
+            "character": "Mack",
+            "line": "You never wanted one?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And for you, Direct... uh, Agent Coulson... with new bells and whistles. And the directions will be there when you boot it up."
+        },
+        {
+            "character": "Fitz",
+            "line": "What's, uh... What's the assignment?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's classified."
+        },
+        {
+            "character": "Fitz",
+            "line": "Right. Everything is these days."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, sadly, um..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, you can't make the match, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "I have to finish my reports."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no, I get it. That's okay. Just a shame we hardly get to see each other. Any of us."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, well... At least it's better than the friends we'll never see again."
+        }
+    ]
+}

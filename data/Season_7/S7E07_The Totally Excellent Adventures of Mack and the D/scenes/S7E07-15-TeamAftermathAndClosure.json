@@ -1,0 +1,33 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "TeamAftermathAndClosure",
+    "description": "In the aftermath, the team mourns their losses but take comfort in their victory and strengthened bonds. Mack conducts a final sweep and confirms Sibyl is missing, while Deke wonders what's next. Mack decides there's unfinished business and takes Deke along on a personal mission for closure.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I've been over every square inch. Sibyl's nowhere to be found."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sibyl must have gotten them out somehow."
+        },
+        {
+            "character": "Mack",
+            "line": "Which means she's still alive."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay. So, what happens next? Kick back, relax, and wait for the Zephyr?"
+        }
+    ]
+}

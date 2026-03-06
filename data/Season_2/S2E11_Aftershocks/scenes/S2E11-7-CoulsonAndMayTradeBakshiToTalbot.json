@@ -1,0 +1,118 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 7,
+    "scene_name": "CoulsonAndMayTradeBakshiToTalbot",
+    "description": "Coulson and May escort Bakshi to General Talbot, discussing the risks of contacting the U.S. government. Just as Talbot agrees to the plan, their convoy is ambushed; May efficiently dispatches the attackers. It becomes apparent the ambush was staged for Bakshi's benefit, showing the careful manipulation of their enemies.",
+    "roles": [
+        "phil_coulson",
+        "sunil_bakshi",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hope you're feeling better this morning, Mr. Bakshi, because you have a date with the U.S. government. Smile. There he is, general."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sunil Bakshi... the man tied to the Navy wedding massacre, the U.N. attack, and who tried to kill you, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "While dressed up as you, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "Safe to say, I'm not a fan."
+        },
+        {
+            "character": "Coulson",
+            "line": "Perfect. I'll trade him to you to add to your collection. All I ask is your assistance in handling..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Remaining HYDRA forces. I understand the idea, Coulson, and in this case, I'm not against it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go ahead. You agree with the rest of the team. You're concerned we're out in the open."
+        },
+        {
+            "character": "May",
+            "line": "More that we contacted the U.S. government."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think Talbot's on the level."
+        },
+        {
+            "character": "May",
+            "line": "I'm not worried about Talbot, but around him? There are security leaks everywhere. And with Whitehall dead, Bakshi may be even more valuable."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm well-aware, but without Talbot in our corner..."
+        },
+        {
+            "character": "May",
+            "line": "I know. Without him, we'll never have a chance to get the upper..."
+        },
+        {
+            "character": "Man",
+            "line": "Move up! Hit them!"
+        },
+        {
+            "character": "May",
+            "line": "I count four left. You know what that means."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not really."
+        },
+        {
+            "character": "May",
+            "line": "That's what it means... means I'm gonna do that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good to know."
+        },
+        {
+            "character": "May",
+            "line": "More will be coming."
+        },
+        {
+            "character": "Coulson",
+            "line": "They must have intercepted our transmissions."
+        },
+        {
+            "character": "May",
+            "line": "Talbot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. Get out of there."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Seems you underestimated us again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Underestimated how desperate they must be if you're this important to them now."
+        },
+        {
+            "character": "Coulson",
+            "line": "No! You'll never take us alive!"
+        }
+    ]
+}

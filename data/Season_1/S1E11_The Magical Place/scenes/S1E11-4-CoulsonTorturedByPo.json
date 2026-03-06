@@ -1,0 +1,57 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 4,
+    "scene_name": "CoulsonTorturedByPo",
+    "description": "Coulson, held captive in an unknown location, is tormented by Po and subjected to memory-extracting technology designed to probe into how he was resurrected. Po mentions the Clairvoyant’s interest in the unknown details of Coulson’s return to life. Coulson resists, trying to remain strong despite the mental and physical torture.",
+    "roles": [
+        "phil_coulson",
+        "michael_peterson",
+        "raina"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Karine",
+            "line": "Can you feel that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't stop."
+        },
+        {
+            "character": "Waiter",
+            "line": "Listen to him. Who ordered this?"
+        },
+        {
+            "character": "Po",
+            "line": "It seems you passed out. Now maybe you're ready to share what memories you're seeing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I saw... Jordan... hitting that game-winner over Russell in the ‘98 finals. So clutch."
+        },
+        {
+            "character": "Po",
+            "line": "Agent Coulson, we're gonna turn the machine back on and open your mind. It's time to stop fighting it. If you don't, you won't survive the process."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll let you kill me before I give you anything. Seems you have a taste for that, anyway... murdered Mike Peterson in front of his own son."
+        },
+        {
+            "character": "Po",
+            "line": "Mr. Peterson chose that end. We gave him his life and his child unscathed. You're just upset because that man's death hit so close to home, seeing a boy lose his father at such a young age. As you did. A defining moment. The Clairvoyant saw that."
+        },
+        {
+            "character": "Coulson",
+            "line": "I hate to break it to you, but your telepathic friend is a fraud. Otherwise, he'd know all these answers, and I wouldn't be here."
+        },
+        {
+            "character": "Po",
+            "line": "It's true... this is strange. My friend can see that you died. You went cold. Your heart was torn to pieces. What the Clairvoyant can't see is what happened after... how they brought you back from the dead. For some reason, Agent Coulson, you're different. Now, why is that? So we have to do this the hard way."
+        }
+    ]
+}

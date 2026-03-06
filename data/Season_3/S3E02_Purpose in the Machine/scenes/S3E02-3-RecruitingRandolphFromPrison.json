@@ -1,0 +1,97 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 3,
+    "scene_name": "RecruitingRandolphFromPrison",
+    "description": "Coulson, Fitz, and Bobbi travel to a Norwegian prison to recruit Professor Randolph, leveraging both threats and persuasion to secure his help. Randolph initially refuses, citing the chaotic state of the world and preferring to keep a low profile unless forced. Ultimately, Coulson's veiled threat to turn him over to authorities moves Randolph to agree, recognizing the stakes and the danger of the monolith portal.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Hell of a machine, Kebo. Built for precision, speed. Designed to handle flawlessly under any conditions. But Carmine here bought it as a status symbol to show off. Never opened it up, denied it of its true purpose. Old HYDRA's full of guys like him. Soft, entitled, mistaking wealth for success, privilege for power. Their greed splintered HYDRA into a thousand pieces. Their time is over. Time for a leaner generation. These people have proven themselves in blood. See how they didn't even flinch? Now's your chance to prove you still have purpose. Show me you're not dead weight. So, tell me, where's the kid?"
+        },
+        {
+            "character": "Randolph",
+            "line": "I'm sorry. I can't help you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can't or won't?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Potato, puh-tah-toe."
+        },
+        {
+            "character": "Coulson",
+            "line": "And your reason?"
+        },
+        {
+            "character": "Randolph",
+            "line": "The nightly news, cities flying into the atmosphere, government task forces, and now the public is freaking out about alien outbreaks. Pretty crappy time to be on Earth if you're not a local, so I am layaying low. And of course there is my current situation."
+        },
+        {
+            "character": "Morse",
+            "line": ": Destruction of property, public drunkenness."
+        },
+        {
+            "character": "Randolph",
+            "line": "Yes, well, Asgardians can generally hold their drink. It's just, well, one night I tried to hold all the drinks."
+        },
+        {
+            "character": "Morse",
+            "line": "Asgardians are also strong, right? You could easily break out."
+        },
+        {
+            "character": "Randolph",
+            "line": "What? And miss dinner? Oh, no. Yes, Norse prisons are surprisingly evolved. Decent food, comfy bed, extensive library, and no attention being drawn to me. Come back in a few months, why don't you? Maybe then I'll be in the mood."
+        },
+        {
+            "character": "Fitz",
+            "line": "We don't have a few months."
+        },
+        {
+            "character": "Coulson",
+            "line": "And neither do you. I don't have to remind you that I saved your life, though I did just mention it in case you forgot. But I'd still have no problems contacting those task forces you mentioned. I bet they'd go bonkers to have a real-life Asgardian to dissect in their labs. I don't know how comfy you'd be there."
+        },
+        {
+            "character": "Randolph",
+            "line": "Why, Agent Coulson, are you threatening me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't call it a... well, yeah, I guess I am. That's absolutely a threat."
+        },
+        {
+            "character": "Randolph",
+            "line": "You're different now. You know that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One must accommodate the times or things get messy."
+        },
+        {
+            "character": "Randolph",
+            "line": "What's with the hand?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Things got messy."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, you'll have to cover my release. And if there is a portal, which I will have to see to believe, you are diving into very dangerous waters here. All right. Well, it's not like you're giving me any choice."
+        },
+        {
+            "character": "Randolph",
+            "line": "He did it."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 15,
+    "scene_name": "CoulsonAndMayOnRetirement",
+    "description": "In the episode’s quiet final moments, Coulson and May talk privately about his fast-approaching retirement and dreams for the future. Coulson bequeaths Daisy a touching letter and shares private words of love with her, then jokes with May about bucket-list adventures as they look to whatever time remains. The scene closes with a sense of peace and hope amid the losses endured.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "How long did Simmons say you have?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Days. Weeks, if I'm lucky. But it'll be time well spent. I left you something in your bunk. It's a letter. Nothing fancy. Basically, just says how proud I am of you. I am so proud."
+        },
+        {
+            "character": "Daisy",
+            "line": "I love you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I love you too."
+        },
+        {
+            "character": "Daisy",
+            "line": "And thanks for the spaceship."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Don't mention it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Gotta say it's pretty magical."
+        },
+        {
+            "character": "May",
+            "line": "Hmm. So anything else on your bucket list?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just one thing."
+        },
+        {
+            "character": "May",
+            "line": "Parasailing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, parasailing. Always wanted to try that."
+        },
+        {
+            "character": "Daisy",
+            "line": "All right, Director, where to first?"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 9,
+    "scene_name": "PlottingNextMovesAfterWardTaken",
+    "description": "Back on the Bus, Coulson and Skye discuss how Lorelei’s power works and the challenge of tracking Ward and Lorelei. Fitz is tasked with repairing the damaged enchanted collar, while Simmons pleads with Coulson for permission to share Skye’s blood sample with S.H.I.E.L.D. HQ for further analysis, intensifying their clash over secrecy.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "We'll find them. Every agent in the area is out looking."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "To what end, hmm? The collar... has been broken. Short of death, we have no means to end her enchantment."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me worry about that. Stay here. And try not to punch a hole in my airplane."
+        },
+        {
+            "character": "Skye",
+            "line": "So, Ward's what? Like, a pod person?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, according to Lady Sif, the men Lorelei controls don't forget who they are or what they know. She just becomes the embodiment of all their desires."
+        },
+        {
+            "character": "Skye",
+            "line": "So once we find them, we can break her mojo or whatever and get Ward back, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, once the collar's back on Lorelei's neck, the enchantment ends, but that's the problem. The collar caught a shotgun blast back in the desert. You think you can fix it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well... the metal, the weight... it's similar to the Berserker staff."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it presents its own set of countless unknown variables."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got a couple hours."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "What can I do? And don't you dare say nothing or tell me to sit down here and count ceiling tiles while Ward is missing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward's got drop boxes and storage lockers all over the world. They're filled with currency, weapons, I.D.s. He's gonna use aliases, cash... anything to keep Lorelei off the radar. You're the best radar we have. Find them."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, may I have a moment? It's about the GH-325."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have you found something?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. I've hit a wall because of my limited resources. The drug's chemical properties are foreign to me, which is startling in its own right."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been over this."
+        },
+        {
+            "character": "Simmons",
+            "line": "So I'm requesting once again to send a sample of Skye's blood to H.Q. for further study."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not an option."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why? I don't need to explain to you the benefits of this drug. You've experienced them firsthand."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. That's an order."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's not a good-enough reason! I have a duty to you, sir, as my commanding officer. But I also have a duty as a S.H.I.E.L.D. scientist to pursue this, to save lives! Given Ward's recent situation, we should..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two men laid down their lives in a compound rigged with explosives to keep this drug hidden. We still don't know why. Until we do, until we speak with Fury and get some answers, that drug and its mysteries stay in-house. Focus on the mission. Lorelei has Ward, and we have no idea where she's taking him."
+        }
+    ]
+}

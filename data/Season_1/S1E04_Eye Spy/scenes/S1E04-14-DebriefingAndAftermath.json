@@ -1,0 +1,57 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 14,
+    "scene_name": "DebriefingAndAftermath",
+    "description": "Back on the Bus, Coulson tells Amador about her handler’s fate and reassures her that she will receive a fair trial, promising to testify on her behalf. Amador feels freed from her long ordeal and expresses gratitude to Coulson. Privately, Amador confides in May her suspicions that something is different about Coulson since his near-death experience, hinting at the lingering mysteries.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "He was a former M.I.6 officer who fell off the grid a few years ago."
+        },
+        {
+            "character": "Amador",
+            "line": "My handler was as trapped as I was."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which means the real threat's still out there. Big S.H.I.E.L.D.'s still trying to decipher what was written on that chalkboard. Nobody's ever seen anything like it. Couple of people think it might be alien, possibly an equation. Must be important if it's worth $30 million. We'll figure it out. You'll get a fair trial. I plan on testifying. I know people. You deserve a second chance."
+        },
+        {
+            "character": "Amador",
+            "line": "You already gave me one. Doesn't matter how it plays out from here. I'm free. Thank you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good luck."
+        },
+        {
+            "character": "Amador",
+            "line": "What happened to Agent Coulson? He's different."
+        },
+        {
+            "character": "May",
+            "line": "Well, he's loosened up a bit. He nearly died before the battle of New York."
+        },
+        {
+            "character": "Amador",
+            "line": "But what did they do to him?"
+        },
+        {
+            "character": "May",
+            "line": "I'm sorry?"
+        },
+        {
+            "character": "Amador",
+            "line": "Never mind."
+        }
+    ]
+}

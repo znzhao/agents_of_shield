@@ -1,0 +1,28 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 22,
+    "scene_name": "RainaEnvisionsSkyeFamily",
+    "description": "Raina describes to Gordon her vision of Skye and her father together and happy, while Lincoln confirms to her that what she sees in her dreams is real. This reinforces Raina's isolation and envy but also her connection to Skye's destiny. It is a subtle foreshadowing moment, shifting her role into that of a prophetic outsider.",
+    "roles": [
+        "raina",
+        "lincoln"
+    ],
+    "vibe": "mysterious",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "I dream of Skye and her father at dinner, bouquet of daisies. And she's so... happy."
+        },
+        {
+            "character": "Cal",
+            "line": "Then we had to get you to the hospital. Your mother was all fine and calm. I, of course, was..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's not a dream."
+        }
+    ]
+}

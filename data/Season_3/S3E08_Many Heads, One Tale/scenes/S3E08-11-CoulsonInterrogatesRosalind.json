@@ -1,0 +1,163 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "CoulsonInterrogatesRosalind",
+    "description": "Back at the Playground, Coulson locks Rosalind in a secure room, confronting her about her true loyalties and connections to Hydra. The heated interrogation unearths her ties to Gideon Malick and exposes major deceptions regarding the ATCU's real activities. This confrontation tests the personal trust and professional boundaries between Coulson and Price.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Wilson",
+            "line": "Almost finished?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh, yeah, things have got really complicated in here just now. Um, listen, Steve, you seem like a really good guy, and you were spot-on about not being able to trust me, just wrong about why. See, I'm not very good at computers."
+        },
+        {
+            "character": "Wilson",
+            "line": "Aah!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Now, now, now!"
+        },
+        {
+            "character": "Morse",
+            "line": "Gonna need that briefcase!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Coming as fast as I can, love."
+        },
+        {
+            "character": "Price",
+            "line": "Of course we don't keep Inhumans at that facility. We can't risk some duplicitous nut case breaking in to look around. Looks like we made the right move."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're always one step ahead."
+        },
+        {
+            "character": "Price",
+            "line": "I feel like an idiot that I thought you were different."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stop with the mind games! I'll admit, you're good. Pretending to fall for me, well enough that I actually went along for the ride. But in the back of my mind, I always had one finger on the eject button."
+        },
+        {
+            "character": "Price",
+            "line": "That's because you're incapable of anything else."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Because you slipped up. Tahiti. The first time we met, you tried to get under my skin, talking about Tahiti. So I was hoping against all hope that today, you would confirm a high-level source from within S.H.I.E.L.D., but you claim you have none."
+        },
+        {
+            "character": "Price",
+            "line": "That's because I've been honest."
+        },
+        {
+            "character": "Coulson",
+            "line": "The only other possible way that you could know about that is if you got your intel from HYDRA. So why don't you share your source?"
+        },
+        {
+            "character": "Price",
+            "line": "I'm not sharing anything with you anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "I didn't think so."
+        },
+        {
+            "character": "Price",
+            "line": "Except for this. You know what? To be honest, I did fall for you, Phil. I did. But it turns out you're impenetrable. You like to joke about your robot hand and not being human. I'm not sure you're so off the mark."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, that means a lot coming from you."
+        },
+        {
+            "character": "Price",
+            "line": "You were stabbed through the heart. You must derive sadistic pleasure in doing the same to others."
+        },
+        {
+            "character": "Coulson",
+            "line": "At least I didn't use the story of my dead husband to sell the idea that the ATCU was working on a cure when we both know that's a lie."
+        },
+        {
+            "character": "Price",
+            "line": "How dare you mention..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, cut the melodrama. My agent at the center of your compound confirmed that you're not trying to cure Inhumans. You're making as many as you can."
+        },
+        {
+            "character": "Price",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "“Enhanced specimen control.” They're inside, Roz, so you know what they found."
+        },
+        {
+            "character": "Price",
+            "line": "No. No one's allowed on those floors for risk of infection."
+        },
+        {
+            "character": "Coulson",
+            "line": "Intentional infection. I got to admit, handing out the contaminant as a cure..."
+        },
+        {
+            "character": "Price",
+            "line": "No, that's not what we..."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's especially sinister."
+        },
+        {
+            "character": "Price",
+            "line": "No, I get weekly reports fr... from Malick."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Price",
+            "line": "Gideon Malick."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know the name. Industrialist. He once served on the world council."
+        },
+        {
+            "character": "Price",
+            "line": "He's a friend. I've worked with him more than a decade. H-He advises the president's staff, helped design the ATCU, oversees the science... division. He gave me the Tahiti intel."
+        },
+        {
+            "character": "Mack",
+            "line": "Connection's down."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look. Last file we pulled, a catalog of all the Inhumans they turned and put into stasis. But..."
+        },
+        {
+            "character": "Mack",
+            "line": "Let me guess. They didn't put them all in stasis."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, once again, too little and too late."
+        }
+    ]
+}

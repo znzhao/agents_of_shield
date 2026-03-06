@@ -1,0 +1,89 @@
+{
+    "season": 5,
+    "episode": 4,
+    "num": 8,
+    "scene_name": "DaisyAndSimmonsInterrogation",
+    "description": "Kasius brings Daisy and Simmons together and has Ben use his powers as a lie detector, pressing them to account for how they arrived. Daisy and Simmons successfully synchronize their stories with telepathic help from Ben, deceiving Kasius while increasing their bond of trust under duress.",
+    "roles": [
+        "kasius",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Jemma. I'm thirsty."
+        },
+        {
+            "character": "Kasius",
+            "line": "The truth is not a relative concept, is it? A subjective conceit? Then imagine my disappointment to discover you and Jemma did, in fact, hide the truth. Sinara said Jemma had a friend who assisted in saving a life, seemed to know her, seemed to understand."
+        },
+        {
+            "character": "Daisy",
+            "line": "I would ask Simmons, but she can't hear me for some twisted reason. I already told you."
+        },
+        {
+            "character": "Kasius",
+            "line": "Please. I can't abide untruths. And it's unnecessary when we can get to the facts ever so quickly. Of course, there's no way I can tell for certain if you're being honest. But he can."
+        },
+        {
+            "character": "Daisy",
+            "line": "I already told you. It's just me and Simmons."
+        },
+        {
+            "character": "Kasius",
+            "line": "Jemma, who was the woman helping you when you helped Reese?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I have no idea. There were lots of people in The Exchange that day. I don't know who they all were."
+        },
+        {
+            "character": "Ben",
+            "line": "They're telling the truth. Both of them."
+        },
+        {
+            "character": "Kasius",
+            "line": "Did you come through time together or separately?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't understand why that matters."
+        },
+        {
+            "character": "Kasius",
+            "line": "Because the prophecy spoke of S.H.I.E.L.D. And if they did, you may not even be aware of it."
+        },
+        {
+            "character": "Daisy",
+            "line": "We came through together. No one else. Just us."
+        },
+        {
+            "character": "Kasius",
+            "line": "Very well. Tell us that miraculous story. Spare no detail."
+        },
+        {
+            "character": "Daisy",
+            "line": "We were alone. We lost one. Jeffrey Mace. Fitz killed him. One of our team members. Fitz was Jemma's... they were in love. And he couldn't handle it. Honestly, none of us really could. He was gonna leave S.H.I.E.L.D., so I took Jemma out to talk alone. We went to a diner. We were just talking when these guys came in, and they grabbed us. They knocked us out, and, boom, we ended up here."
+        },
+        {
+            "character": "Kasius",
+            "line": "Jemma, now you tell me the same story, how you two ended up here. And, Jemma? It had best be a story in perfect accord with hers."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was so distraught after our last mission in the Framework, when Fitz killed Mace and Fitz was worse. He decided to leave S.H.I.E.L.D. It seemed our team was breaking up. Daisy took me to a diner to talk alone. To make me feel better, I guess. And then these men came. They grabbed us, they knocked us out and we ended up here."
+        },
+        {
+            "character": "Kasius",
+            "line": "Good, then."
+        },
+        {
+            "character": "Kasius",
+            "line": "I share your concern, but we have preparations to make. And, remember, you're not the only one working on this."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 2,
+    "scene_name": "WardAndKeboDiscussStrucker",
+    "description": "Ward and Kebo meet in hiding, realizing S.H.I.E.L.D. tried to assassinate Ward. They discuss that Werner von Strucker has become a liability, knowing too much after the failed hit, and Ward orders Kebo to find and eliminate Strucker before S.H.I.E.L.D. can reach him.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "S.H.I.E.L.D. sent a man to assassinate me. He came into my house and tried to kill me. ‘Cause you let him in. You were sloppy."
+        },
+        {
+            "character": "Kebo",
+            "line": "I followed your protocol. He killed a man to get close to you. He wanted you dead that much."
+        },
+        {
+            "character": "Ward",
+            "line": "They all want me dead that much! Now we have a dangling thread."
+        },
+        {
+            "character": "Kebo",
+            "line": "Von Strucker. You shouldn't have sent a boy to do a man's job."
+        },
+        {
+            "character": "Ward",
+            "line": "Not really sure you'd have blended in as an undergrad watching Garner. Has Von Strucker called in? So, he's either captured, killed, or he's running."
+        },
+        {
+            "character": "Kebo",
+            "line": "And only one of those options works for us. The kid knows too much."
+        },
+        {
+            "character": "Ward",
+            "line": "So go and find him before S.H.I.E.L.D. does. And if he's still alive, take care of him."
+        }
+    ]
+}

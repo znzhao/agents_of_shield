@@ -1,0 +1,79 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "FearManifestationsDiscussion",
+    "description": "Fitz presents his theory to the core team that the rift can read their minds and physically manifest their fears, referencing the footage of Lash and the Kree. Deke admits the forest embodies his personal nightmare, and Fitz describes the growing threat. Plans begin forming to close the rift using Gravitonium, with the group debating who should undertake the dangerous mission.",
+    "roles": [
+        "leo_fitz",
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "It's our fears come to life."
+        },
+        {
+            "character": "May",
+            "line": "What the hell are you talking about, Fitz? What fear?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm still trying to piece it all together. But here. Watch this. It's low-res, but it's all I could salvage from one of the dwarfs."
+        },
+        {
+            "character": "May",
+            "line": "This can't be."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I think that ‭when the monoliths exploded, they tore open something that I can only describe as a fear dimension. And it's leaking out. See these emissions here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you think that is?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know, uh, alien energy. The Dwarf went offline before I could analyze it. But whatever it is, it seems that it can reach inside our minds."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, it can do more than that. That Kree almost killed Deke."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, ‭and I don't understand how, but it seems that this dimension can take our deepest fears and it can manifest them physically."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, Kree warrior. Check."
+        },
+        {
+            "character": "May",
+            "line": "And if that is Lash, double check."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about that forest on Level 27?"
+        },
+        {
+            "character": "Deke",
+            "line": "You mean an overwhelming collection of branchy things with birds and bugs and the floor all covered in worms? Are you kidding? That's... That's a horror show."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, triple check."
+        }
+    ]
+}

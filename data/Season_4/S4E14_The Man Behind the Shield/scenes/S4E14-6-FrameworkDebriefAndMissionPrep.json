@@ -1,0 +1,97 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 6,
+    "scene_name": "FrameworkDebriefAndMissionPrep",
+    "description": "Back at The Playground, the team reflects on the implications of the Framework and their technology. Mack confronts Fitz about the dangers of his inventions and the unintended consequences, while Simmons updates everyone as the jet approaches Russian airspace. The conversation underlines concerns about the ethical responsibilities of creators, emphasizing the gravity of the mission ahead.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I like my video games as much as you, Turbo, but this... this is too much."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, it's not a bloody Oculus Rift. It's a training exercise."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, well, I doubt it's helping May run a triathlon."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's not how I meant it."
+        },
+        {
+            "character": "Mack",
+            "line": "You built a “Matrix” prison, and now May's stuck in it like “Brainscan.”"
+        },
+        {
+            "character": "Fitz",
+            "line": "The Framework is a tool. That's all that it is, a tool."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. Like AIDA was a tool?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you trying to say? That all this is my fault?"
+        },
+        {
+            "character": "Mack",
+            "line": "What I'm saying is, if you didn't build a killer robot or a virtual world, this year would've been much easier for us. Now, whether you like it or not, that's the reality."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm trying to help people, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "I know you're not a bad person, Fitz, but this gear has been used for some really bad things. You've got to think about the implications of what you create."
+        },
+        {
+            "character": "Fitz",
+            "line": "Electricity is used to execute criminals. Does that mean we also shouldn't use it to power our hospitals?"
+        },
+        {
+            "character": "Mack",
+            "line": "Not the same thing, and you know it."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's always risks involved in science. That doesn't mean that we don't pursue it anyway."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, you know, the line between scientist and mad scientist is paper thin. And right now, you're starting to sound an awful lot like..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Don't. Don't you even say his name."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've cloaked and entered Russian airspace. T-minus five minutes to the drop zone."
+        },
+        {
+            "character": "Mack",
+            "line": "You're one of the smartest people I know. I really hope you figure this one out."
+        },
+        {
+            "character": "Mack",
+            "line": "What was the mission you were on here?"
+        }
+    ]
+}

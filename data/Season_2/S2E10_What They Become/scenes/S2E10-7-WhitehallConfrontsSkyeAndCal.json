@@ -1,0 +1,63 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 7,
+    "scene_name": "WhitehallConfrontsSkyeAndCal",
+    "description": "Whitehall arrives and confronts Ward, Skye, Cal, and Raina, questioning everyone’s purpose and loyalties. He orders Skye to handle the Obelisk and asserts control, having his agents restrain Cal and Ward. The tension mounts as Whitehall’s true intentions become clear, and he sets the stage for the coming conflict.",
+    "roles": [
+        "daniel_whitehall",
+        "grant_ward",
+        "skye",
+        "calvin_johnson",
+        "raina"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "Is there a problem?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "Well, well. We're here today in part because of the three of you. You delivered Raina as you promised. And I had my initial doubts about you, young lady, but you are slowly earning my trust. And your knowledge of the Diviner has led us to this... historic moment. For that, I offer my gratitude. I have just one question. How does she fit in?"
+        },
+        {
+            "character": "Ward",
+            "line": "I needed insurance that S.H.I.E.L.D. wouldn't blow us out of the sky."
+        },
+        {
+            "character": "Whitehall",
+            "line": "But you also ordered that the S.H.I.E.L.D. plane shouldn't be shot down. I had to counter that order myself. I have a theory as to why she's here. I'd like you to pick it up."
+        },
+        {
+            "character": "Skye",
+            "line": "You first."
+        },
+        {
+            "character": "Whitehall",
+            "line": "I hope you're as special as your mother."
+        },
+        {
+            "character": "Whhitehall",
+            "line": "I'll confess... I didn't recognize you when you first barged into my office."
+        },
+        {
+            "character": "Cal",
+            "line": "If my daughter wasn't here, I would tear you and your men to pieces."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Well, then, I'll add that to the number of reasons that I'm glad she's here. You are the piece of the puzzle that I can't decipher. Why are you really here?"
+        },
+        {
+            "character": "Raina",
+            "line": "Is it really that hard to see? It's love. Agent Ward believes if he helps Skye fulfill her destiny, she'll see him for who he really is."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Aww. It's a pity that you won't get to fulfill that destiny, or that after all these years, you won't get your vengeance for what I did to your wife. Secure him. Remain alert around Agent Ward. He's a trained killer, one of the best. I have a feeling that, in time, I can make you comply."
+        }
+    ]
+}

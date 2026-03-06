@@ -1,0 +1,36 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 15,
+    "scene_name": "SargeAftermathJacoConversation",
+    "description": "As Sarge's crew escapes, Jaco questions Sarge about freezing upon hearing the word 'Coulson.' Sarge claims not to know why it unsettles him, though it clearly affects him. May is left shaken in the vault, while S.H.I.E.L.D. takes stock of the confrontation's outcome.",
+    "roles": [
+        "sarge_pachakutiq",
+        "jaco"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Jaco",
+            "line": "Sarge... you froze."
+        },
+        {
+            "character": "Sarge",
+            "line": "Back there? Not really."
+        },
+        {
+            "character": "Jaco",
+            "line": "A little. That word. “Coulson”. What does that mean?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I don't know. But it rings a bell."
+        },
+        {
+            "character": "Mack",
+            "line": "Really?"
+        }
+    ]
+}

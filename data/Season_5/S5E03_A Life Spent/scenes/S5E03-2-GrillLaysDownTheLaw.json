@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "GrillLaysDownTheLaw",
+    "description": "Grill asserts his dominance over his workers, including Coulson, Mack, Elena, and others, threatening them with punishment if productivity doesn't improve. Coulson, Elena, and Mack discuss their predicament, the dangers they face, and plan to tread carefully under Grill's suspicious watch. Grill, Zev, and Tess interact as Tess tries to secure workers for her trawler run.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "tess",
+        "flint"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Grill",
+            "line": "The Renewal lost me time and tokens! So if things don't start picking up around here, I'm gonna be doing some renewing of my own! Is that understood?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Thinking I may have been wrong to trust Grill."
+        },
+        {
+            "character": "Elena",
+            "line": "This is what we call an understatement, no?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, the alternative was getting shot."
+        },
+        {
+            "character": "Elena",
+            "line": "At least Daisy's not trapped in here."
+        },
+        {
+            "character": "Grill",
+            "line": "Coulson, be careful. They're always watching."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know, but Virgil hid this thing. I got to figure out why."
+        },
+        {
+            "character": "Elena",
+            "line": "He did it because this tin-can place makes people crazy!"
+        },
+        {
+            "character": "Zev",
+            "line": "New girl! Work faster!"
+        },
+        {
+            "character": "Elena",
+            "line": "I'll show you fast, you..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yo-Yo."
+        },
+        {
+            "character": "Elena",
+            "line": "He zapped me!"
+        },
+        {
+            "character": "Grill",
+            "line": "The door's rigged. Did you really think that was gonna work?"
+        },
+        {
+            "character": "Mack",
+            "line": "Thought I'd give it a shot."
+        },
+        {
+            "character": "Grill",
+            "line": "Well, that don't fly with me. You see, I don't tolerate skimmers or laggers or agitators. Hear that?! As long as you owe me, I own you."
+        }
+    ]
+}

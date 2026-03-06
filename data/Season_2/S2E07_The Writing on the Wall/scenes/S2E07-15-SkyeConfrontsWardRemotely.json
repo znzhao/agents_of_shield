@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "SkyeConfrontsWardRemotely",
+    "description": "Skye receives a final call from Ward, who cryptically warns her and hints at further moves in the future. Their verbal sparring continues, with underlying threats and unresolved feelings, leaving the episode on a suspenseful note for the arc between Skye and Ward.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Hey, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Where are you?"
+        },
+        {
+            "character": "Ward",
+            "line": "Just wanted to make sure you got my present. I promised him a face-to-face with Coulson. Probably not exactly what he had in mind. I'll be sending a few other gifts your way now and then."
+        },
+        {
+            "character": "Skye",
+            "line": "Like a cat bringing in dead birds?"
+        },
+        {
+            "character": "Ward",
+            "line": "No, thanks. Just trying to be helpful. Oh, met the new recruits. I don't think they need to hang around much longer."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that a threat?"
+        },
+        {
+            "character": "Ward",
+            "line": "Just a suggestion. Coulson could do better. Then again... I am hard to replace."
+        },
+        {
+            "character": "Skye",
+            "line": "How about you tell me where you are and we can talk about it?"
+        },
+        {
+            "character": "Ward",
+            "line": "I have to go now, Skye. I have a few personal matters to attend to. But I'll be seeing you soon. I promise."
+        }
+    ]
+}

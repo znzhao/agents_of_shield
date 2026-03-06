@@ -1,0 +1,110 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 5,
+    "scene_name": "ZephyrOneLearnsAboutMaceAndS.H.I.E.L.D.Attack",
+    "description": "On Zephyr One, Simmons, Daisy, Elena, and Piper review disturbing news footage showing Talbot holding a press conference accusing S.H.I.E.L.D. of terrorism after the Playground's destruction and the discovery of Jeffrey Mace's body. The team absorbs the dire situation, dealing with the fallout and implications for their fugitive status, while also realizing the severity of their circumstances back on Earth.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "elena_rodriguez",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "So, you can't go any faster?"
+        },
+        {
+            "character": "Davis",
+            "line": "The only fuel left is in the center wing tank."
+        },
+        {
+            "character": "Piper",
+            "line": "And we burned all of our electrical power keeping you guys plugged into the Framework. So, no problem. Don't mention it."
+        },
+        {
+            "character": "Simmons",
+            "line": "But why didn't you touch down at any point? Recharge and refuel?"
+        },
+        {
+            "character": "Piper",
+            "line": "We should show them."
+        },
+        {
+            "character": "Talbot",
+            "line": "Like I said, with an explosion that size, we still have a lot to sift through at S.H.I.E.L.D. headquarters. The entire area is sealed off, but, no, I can't rule out Daisy Johnson's involvement. Tommy?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's been playing on every channel."
+        },
+        {
+            "character": "Reporter",
+            "line": "Sir, any truth to reports that Director Jeffrey Mace's body has, in fact, been found?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I have no new information about that, but I can assure you, the manhunt for the members within S.H.I.E.L.D. who remain at large is still our top priority. We can only assume that they're behind this attack. Look, they're terrorists, and we're not gonna rest until we take them down and find out exactly who's responsible."
+        },
+        {
+            "character": "Fitz",
+            "line": "You thought this would make the transition easier."
+        },
+        {
+            "character": "AIDA",
+            "line": "I knew you'd be sorting through two lives, so I tried to please both. It's a familiar space. But I thought we could decorate it together. It's too much. I know. It was a silly idea. Sentimental attachment to objects was hard for me to understand. Until now. Now taste, touch, every sense gives me a rush. I've felt your touch before. But now I get to experience the ecstasy you felt each time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Do you... Do you have empathy? Can you imagine how somebody else might feel?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I can. Especially you. How confusing this must be."
+        },
+        {
+            "character": "Fitz",
+            "line": "So you can imagine how your actions could be perceived. You were ruthless."
+        },
+        {
+            "character": "AIDA",
+            "line": "I was ruthless to win the heart of the man I love, the man you grew to be."
+        },
+        {
+            "character": "Fitz",
+            "line": "My father's son."
+        },
+        {
+            "character": "AIDA",
+            "line": "I thought his presence is what you'd have wished for. I'm sorry. I was just programmed to make you happy. To make all of you happy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who? Radcliffe, our team, yeah. Who else is on that list?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Fitz",
+            "line": "What did you promise the Russian? What's waiting back there for my friends?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey. Well-done."
+        },
+        {
+            "character": "May",
+            "line": "You, too. Doesn't make sense, though."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. If they wanted to kill us, they could've just flooded the place. Why were they stalling?"
+        }
+    ]
+}

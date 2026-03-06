@@ -1,0 +1,94 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 10,
+    "scene_name": "FactoryRaidAndConfrontation",
+    "description": "The agents infiltrate the factory in small teams to avoid detection and minimize collateral damage. Inside, they discover the Centipede soldiers are lying in wait. A battle erupts, with Mike using his powers under close medical watch. The team is nearly overwhelmed, but manages to overcome the super-soldiers. Raina and Po, monitoring remotely, use a failsafe to kill Hayward before he can reveal any Centipede secrets, shocking the agents and highlighting the enemy's ruthlessness.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "michael_peterson",
+        "raina"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "We alone here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It appears so. The only heat signatures we're reading are yours."
+        },
+        {
+            "character": "Skye",
+            "line": "But there's a weird electronic signal. I'm trying to isolate it."
+        },
+        {
+            "character": "Ward",
+            "line": "Place looks emptied out. Think we're too late?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, dial Hayward's number. Find out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, sir, you've got company."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, we do."
+        },
+        {
+            "character": "Ward",
+            "line": "Coming your way."
+        },
+        {
+            "character": "Coulson",
+            "line": "Usually packs a bigger punch."
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah, I remember."
+        },
+        {
+            "character": "Skye",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Simmons",
+            "line": "His systolic and diastolic pressures are dropping."
+        },
+        {
+            "character": "Fitz",
+            "line": "Heart rate's plummeting, as well."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, he's in bad shape. Between the physical exertion and this wound, his vitals are dangerously low."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who's behind Centipede? Who's doing this?!"
+        },
+        {
+            "character": "Centipede soldier",
+            "line": "I won't say anything. I promise. No! Please! Don't do th..."
+        },
+        {
+            "character": "Raina",
+            "line": "That's Mike Peterson, one of our first subjects. He hasn't been injected with the serum in awhile, but he still has his powers."
+        },
+        {
+            "character": "Po",
+            "line": "No. What he has is your key to stage 3."
+        }
+    ]
+}

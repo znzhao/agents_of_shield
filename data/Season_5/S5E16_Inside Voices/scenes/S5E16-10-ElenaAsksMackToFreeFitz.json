@@ -1,0 +1,84 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 10,
+    "scene_name": "ElenaAsksMackToFreeFitz",
+    "description": "Back at the Lighthouse, Elena tries to persuade Mack to release Fitz from confinement, arguing the urgency due to Hale's pursuit of a gravity-based weapon. Mack stands firm, unwilling to risk more chaos, and the two have a deeply personal confrontation.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Structure looks good. Hydraulics are okay. I guess you didn't do any damage with all that punching."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, these things are pretty tough."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, if the arm fits..."
+        },
+        {
+            "character": "Elena",
+            "line": "So you're making arm jokes now? I thought those were off-limits."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, it'll be the first and last. I'm just glad to see that these are... are in good shape."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, um, I'd like to do more than work out and get check-ups."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Elena",
+            "line": "I want you to let Fitz out of his cell."
+        },
+        {
+            "character": "Mack",
+            "line": "Why?"
+        },
+        {
+            "character": "Elena",
+            "line": "Because he knows about a weapon that General Hale wants that uses gravity, and we need to get it first."
+        },
+        {
+            "character": "Mack",
+            "line": "You know what Fitz did. Take it up with Coulson when we get him back."
+        },
+        {
+            "character": "Elena",
+            "line": "And what if we can't wait for that, Mack? Maybe it's time for others to step up. I saw myself alive in the future. I want to use that to help..."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn it, Elena! That doesn't make you bulletproof. I thought you let go of that."
+        },
+        {
+            "character": "Elena",
+            "line": "There are things I can't let go of. Things I learned in the future about this team, about Coulson, about you."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't want to hear about the future! Look, all I know is, right here, right now, you're in front of me. Safe."
+        },
+        {
+            "character": "Elena",
+            "line": "You can't protect me forever, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Did you ever stop to think maybe you're alive in the future because I did? No. Fitz stays where he is. And so do you."
+        }
+    ]
+}

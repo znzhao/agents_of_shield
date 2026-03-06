@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 14,
+    "scene_name": "HunterConfrontsMack",
+    "description": "Meanwhile, Mack brings Lance Hunter food at the safe house, trying to ease the tension as Hunter grows more frustrated and suspicious about Mack and Bobbi’s motivations. Mack deflects, refusing to reveal details, and makes it clear he’s holding Hunter for his own safety as well as for operational secrecy.",
+    "roles": [
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Dinner. Got your favorite. Hawaiian. Meat and fruit? Doesn't really work for me."
+        },
+        {
+            "character": "Hunter",
+            "line": "I thought the prisoner got to choose his last meal."
+        },
+        {
+            "character": "Mack",
+            "line": "If you were supposed to be dead, you'd already be dead. Hey, look, man, I'm just doing what has to be done. Do you remember when we first met? I was working back end for Bobbi on that mission in Dubai, and you and I were stuck on a construction site sweating our asses off."
+        },
+        {
+            "character": "Hunter",
+            "line": "You're not gonna soften me with, “oh, it was the best of times,” or, “these are a few of my favorite things.” What the hell are you and Bobbi into, Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "You'll know soon enough."
+        },
+        {
+            "character": "Hunter",
+            "line": "If you've got nothing to say, why don't you just leave? I'll tell you what I remember, Mack. Dubai was a cover. And because I wasn't S.H.I.E.L.D., you didn't tell me. Lies, that's what I remember."
+        }
+    ]
+}

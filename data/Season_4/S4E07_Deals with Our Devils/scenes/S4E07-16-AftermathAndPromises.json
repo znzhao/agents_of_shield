@@ -1,0 +1,91 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 16,
+    "scene_name": "AftermathAndPromises",
+    "description": "The dust settles as Coulson and May discuss the consequences of their actions and May admits she broke her promise by using the Darkhold. The team checks in on Mack and discusses Robbie's fate. Mack, alone, senses Robbie's return, hinting at the next steps in their quest for justice. The episode closes with Radcliffe singing quietly, signaling a somber but hopeful moment of rest after a harrowing ordeal.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "jeffrey_mace",
+        "skye",
+        "alphonso_mackenzie",
+        "robbie_reyes",
+        "holden_radcliffe"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "So, AIDA..."
+        },
+        {
+            "character": "May",
+            "line": "I know what you're gonna say. I know you don't approve."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not my call. But you promised you wouldn't open the Darkhold. You broke that promise."
+        },
+        {
+            "character": "May",
+            "line": "Damn straight."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, when this is over... you and I have a bottle of Haig to open."
+        },
+        {
+            "character": "Daisy",
+            "line": "Mack is still upstairs. I think he needs some time alone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is he okay?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Don't know. Bad day."
+        },
+        {
+            "character": "May",
+            "line": "And Robbie?"
+        },
+        {
+            "character": "Daisy",
+            "line": "He pulled the Rider out of Mack, but he's gone, I think."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, what he did should count for something. Mack got a lead on his uncle, possible location."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll follow it up, make sure he doesn't hurt anyone else."
+        },
+        {
+            "character": "Daisy",
+            "line": "Good."
+        },
+        {
+            "character": "Mack",
+            "line": "I thought I'd be seeing you. And I know you're not alone."
+        },
+        {
+            "character": "Robbie",
+            "line": "Want to help settle my last score?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "♪ I saved the day ♪"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 2,
+    "scene_name": "CoulsonMackLolaInterrogation",
+    "description": "In the present at the Playground, Coulson and Mack work on Lola. Coulson confronts Mack about a suspicious component placed in Lola, suspecting him of working for Hydra. Mack insists on his loyalty to S.H.I.E.L.D. while Coulson pushes for the truth, setting a tense atmosphere between them.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "So, I got to say, this is quite an honor. I know how much Lola means to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I figured you earned a peek under the hood, but not without supervision."
+        },
+        {
+            "character": "Mack",
+            "line": "Of course not. Wouldn't have it any other way."
+        },
+        {
+            "character": "Morse",
+            "line": "Sir? No sign of Hunter. He must have taken off right after Mack saw him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guess you were right. Permanence isn't his thing."
+        },
+        {
+            "character": "Morse",
+            "line": "I believe any reservations that he has are about me, not S.H.I.E.L.D. Honestly, I let things get out of hand between the two of us. I take full..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't. Hunter's not your responsibility. He's my agent. That's why I put out feelers of my own. We'll see soon enough where he stands."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, let me know if there's anything I can do to help."
+        },
+        {
+            "character": "Coulson",
+            "line": "The path we've chosen... doesn't leave a lot of room for trust, does it?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's a little weird here. I'm settling in. I've played a couple dozen games of solitaire. It's a lonely game, that solitaire."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, May will head there soon, so don't give up on solitaire just yet."
+        },
+        {
+            "character": "Skye",
+            "line": "And who do I have to thank for the little Debbie snack cakes?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That was Coulson's idea. But I did pick you out some nice gluten-free biscuits."
+        },
+        {
+            "character": "Skye",
+            "line": "Ah. Yeah, I'll... I'll... I... I'll look for those."
+        },
+        {
+            "character": "Simmons",
+            "line": "Have you tried on the gloves yet?"
+        },
+        {
+            "character": "Skye",
+            "line": "I have not, but I... I will."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, when you're feeling up to it, it might be worth giving them a go. They're obviously just a prototype, but they're laced with a microthread I designed, which should accelerate your healing and dampen the vibrations. I just want you to be safe, Skye. You know that, right?"
+        },
+        {
+            "character": "Skye",
+            "line": "I do. It means a lot, Jemma. Thank you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, then. Call me if you need anything."
+        },
+        {
+            "character": "Skye",
+            "line": "I will. Bye."
+        },
+        {
+            "character": "Fitz",
+            "line": "How's your science experiment going?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I told you, Leo, I'm only trying to help."
+        },
+        {
+            "character": "Fitz",
+            "line": "Whatever, Jemma."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not the first time you've taken a look under Lola's hood, is it? That toy car you gave me It's a perfect replica. Well, almost perfect."
+        },
+        {
+            "character": "Mack",
+            "line": "It doesn't fly yet, sir, but I promise you I'm working on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "That was unfortunate, but that's not what I'm talking about."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry, sir. I'm not following."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, you are. I know Lola like the back of my hand, so it wasn't too hard to find once I went looking. I still haven't figured out what that component you put in there does, but I'm having Fitz take a look now. You could save everyone a lot of trouble by just telling me what it is you're after. You went through rigorous testing when you joined my team. Help me remember. What did you say when I asked if you were loyal to S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Mack",
+            "line": "I said I was because I am, and that's the truth, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look... you've always been brutally honest with me, and I value that. So I'm giving you a chance here. Just tell me who you're working for."
+        },
+        {
+            "character": "Mack",
+            "line": "I work for S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you want to do this the other way? Okay, then. I've lost too many friends to Hydra."
+        },
+        {
+            "character": "Mack",
+            "line": "So have I."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not in this alone. I know that much. Are you working with Hunter? Or is he just a pawn in this, too? Oh, God. Get May on the line, now."
+        }
+    ]
+}

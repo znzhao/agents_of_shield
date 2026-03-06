@@ -1,0 +1,37 @@
+{
+    "season": 3,
+    "episode": 10,
+    "num": 4,
+    "scene_name": "SimmonsAndMayCoordinateBackdoorEntry",
+    "description": "On Zephyr One, Daisy figures out how to use the ancient aqueducts as an entry point to the castle. May, Daisy, Lincoln, and Joey coordinate assault vectors in a stealthy approach with Mack, Bobbi, and Hunter supporting from another angle. The team splits into groups, finalizes the plan, and prepares for covert infiltration, setting the stage for the coming conflict inside Hydra's stronghold.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "lincoln",
+        "joey_gutierrez",
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "The original machinery used to open the portal was hydroelectric, but the nearest river is almost a half a mile away, which got me wondering how they powered it."
+        },
+        {
+            "character": "May",
+            "line": "Aqueducts."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yep. So they brought the water along there and then up through the portal chamber. Now, that looks like an overflow drain deep in the woods, so we should be able to slip into the compound without anyone seeing a thing."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll exit here with Bobbi and Hunter. Hopefully, we can barricade ourselves long enough to open the portal and get Coulson back. May, you and Daisy take Lincoln and Joey, And you come out here, on the Southeast side. Let's find our people and get out."
+        }
+    ]
+}

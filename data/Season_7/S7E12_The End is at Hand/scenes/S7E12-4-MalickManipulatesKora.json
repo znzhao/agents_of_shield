@@ -1,0 +1,48 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "MalickManipulatesKora",
+    "description": "Nathaniel Malick and Kora discuss their alliance and the death of their mother, Jiaying. Malick manipulates Kora emotionally, trying to solidify her loyalty and harness her powers for his grand plan. Kora struggles with her trauma and conflicting loyalties.",
+    "roles": [
+        "nathaniel_malick",
+        "kora"
+    ],
+    "vibe": "dark",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kora",
+            "line": "Why didn't you tell me you were working with the Chronicoms?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I'm not working with the Chronicoms. They're working for me... for us. It's part of my plan."
+        },
+        {
+            "character": "Kora",
+            "line": "Was killing my mom a part of your plan, as well? I saw her body. I know it was you."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I did that for you. To protect you."
+        },
+        {
+            "character": "Kora",
+            "line": "I didn't ask for that."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Because you're a good person. You don't see the evil in others. If you'd only heard some of the things she said... that you were a mistake, that she was sad you were even born, how you needed to be put down. Jiaying was never interested in being your mother. She only wanted to control you. She resented you. But I'm here to set you free. To show you how powerful you can be."
+        },
+        {
+            "character": "Kora",
+            "line": "It was terrible, seeing her on a table like that."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I know. I'm making sure her body is buried and that everyone who tried to hurt you will be buried with her."
+        }
+    ]
+}

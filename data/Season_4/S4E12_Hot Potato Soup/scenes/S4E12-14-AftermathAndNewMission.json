@@ -1,0 +1,135 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 14,
+    "scene_name": "AftermathAndNewMission",
+    "description": "Back aboard Zephyr One and The Playground, S.H.I.E.L.D. regroups after losing the Darkhold to Radcliffe. Billy laments the loss while the Koenig siblings reflect on their obsolescence. Fitz and Simmons discuss their inability to find the real May, while Daisy reassures everyone with hope of finding her. Meanwhile, Ivanov and Radcliffe toast to their success and foreshadow their next step: to hunt down the mysterious man who is always a shadow behind S.H.I.E.L.D.'s greatest events—Phil Coulson.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "leo_fitz",
+        "holden_radcliffe",
+        "sam_koenig",
+        "billy_koenig",
+        "anton_ivanov"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Billy",
+            "line": "The Labyrinth is compromised. The deadliest tome in the world is in the hands of a mad scientist, who snuck out the back door with cattle-prod man. I'm sorry we let you down."
+        },
+        {
+            "character": "Coulson",
+            "line": "We now have the name of the man who kidnapped you, who's probably been funding Nadeer, maybe even Radcliffe. Now we can hunt them and stop them."
+        },
+        {
+            "character": "Sam",
+            "line": "I st... I still can't believe he made a fully functioning autonomous LMD."
+        },
+        {
+            "character": "Billy",
+            "line": "Yeah, put us to shame."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sam and Billy were part of the original LMD program."
+        },
+        {
+            "character": "Davis",
+            "line": "Wait. Are you saying they're..."
+        },
+        {
+            "character": "Sam",
+            "line": "Obsolete. Without a doubt."
+        },
+        {
+            "character": "Davis",
+            "line": "So you all are...?"
+        },
+        {
+            "character": "Sam",
+            "line": "Technicians."
+        },
+        {
+            "character": "Davis",
+            "line": "Uh..."
+        },
+        {
+            "character": "Thruston",
+            "line": "Billy. Thank God you're okay. All right, there. All right, you. You're still a sheep, though. You're all sheep!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, the Quinjet's ready when you are. We'll get you home safely. As always, thank you for your service."
+        },
+        {
+            "character": "Mack",
+            "line": "I hope this is the last of them."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's still one more."
+        },
+        {
+            "character": "Fitz",
+            "line": "He couldn't destroy it. Not yet. If we can't find the real May, then... that's all that's left of her."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. We'll find her. I promise."
+        },
+        {
+            "character": "Ivanov",
+            "line": "To a success, though a narrow escape for both of you. Mmm."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It is better."
+        },
+        {
+            "character": "Ivanov",
+            "line": "The old ways always are."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You said you wanted to destroy the Inhumans and the thing that brought them upon us."
+        },
+        {
+            "character": "Ivanov",
+            "line": "It's something I've been after for a very long time. Some people say it's an obsession."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I can relate."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Every time something strange happens in the world, it is there. I believe it is responsible for all of the alien problems on this planet. The Chitauri, the Kree, Inhumans."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What is it?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "A man. He is always there, standing behind, out of focus, in the shadows. He is dead yet he is everywhere. And Mr. Shockley said he was there last night."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I can assure you he's not dead."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You can help me get to him?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "So, let it be written."
+        }
+    ]
+}

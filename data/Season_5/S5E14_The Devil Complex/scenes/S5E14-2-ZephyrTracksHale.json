@@ -1,0 +1,40 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 2,
+    "scene_name": "ZephyrTracksHale",
+    "description": "Onboard the Zephyr, Coulson, May, and Piper coordinate as they close in on General Hale. They discuss their strategy, the ease with which they tracked Hale, and prepare to capture her. The tone is businesslike but wary, setting the stage for their confrontation with Hale.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Oh, hold on. Looks like we've got a tracking hit. Our intel was right. Everyone slips up sometimes, even Air Force Generals. I'll send him the coordinates now."
+        },
+        {
+            "character": "Hale",
+            "line": "I was unaware that the timetable was so strict. I'm not making excuses, but there's no reason to... Yes, we're close."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looks like you were right. Good first stop on your redemption tour."
+        },
+        {
+            "character": "Piper",
+            "line": "Thank you, sir. Feels good to get one over on Hale in return."
+        },
+        {
+            "character": "May",
+            "line": "You'd think our military would have better encryption on their phones."
+        },
+        {
+            "character": "Coulson",
+            "line": "Radio home. Tell them we bagged us a general."
+        }
+    ]
+}

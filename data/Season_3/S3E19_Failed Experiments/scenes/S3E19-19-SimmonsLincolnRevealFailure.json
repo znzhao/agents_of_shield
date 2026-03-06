@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 19,
+    "scene_name": "SimmonsLincolnRevealFailure",
+    "description": "In the medical bay, Simmons tends to Lincoln and updates him on the mission's failure. Lincoln is frustrated at being kept out of action and learns the antitoxin failed to cure the parasite. The scene is emotionally charged as Lincoln grapples with defeat and the apparent hopelessness of their situation.",
+    "roles": [
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "Wait. What happened? Is Daisy okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The mission failed. Daisy is still alive, but they weren't able to stop Hive."
+        },
+        {
+            "character": "Lincoln",
+            "line": "W-When did this happen?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They returned an hour ago."
+        },
+        {
+            "character": "Lincoln",
+            "line": "An hour ago? And you just... kept me down here this whole time?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, you needed to rest."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I needed to be up there, helping, not locked down here like some prisoner!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Your immune system is completely shut down! Anyone so much as sneezes, and it might kill you. So until you've fully recovered, you are a prisoner. You're my prisoner."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm sorry. I just don't know what to do."
+        },
+        {
+            "character": "Simmons",
+            "line": "None of us do."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Did you at least tell Coulson we might have a cure?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Why not?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Because we don't. That's what I came down to tell you. The antitoxin, it didn't work. Now get some rest."
+        }
+    ]
+}

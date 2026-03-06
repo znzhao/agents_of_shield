@@ -1,0 +1,61 @@
+{
+    "season": 4,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "CoulsonAndMackVisitEliMorrow",
+    "description": "Coulson and Mack visit Eli Morrow in prison, hoping for information about the incident at Momentum Labs that set current events in motion. Morrow, distrustful of authority, rebuffs their efforts, unwilling to discuss the past accident or his involvement. Despite being offered a possible way out, Eli remains evasive, leaving Coulson and Mack without much to go on.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "eli_morrow"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Eli, you've got a visitor."
+        },
+        {
+            "character": "Eli",
+            "line": "Who the hell are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Phil Coulson. I'm with the Strategic Homeland Intervention, Enforcement and Logistics Division."
+        },
+        {
+            "character": "Eli",
+            "line": "S.H.I.E.L.D.? Still a thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're making a comeback. I'm here about an incident that occurred at Momentum Alternative Energy Lab when you worked there. Is there anything you can tell me? There's not much information out there. Think tank working on undisclosed projects, and then there's an accident."
+        },
+        {
+            "character": "Morrow",
+            "line": "“Accident.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you saying it was something else?"
+        },
+        {
+            "character": "Morrow",
+            "line": "I'm not saying anything."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sure it wasn't easy growing up where you did, but you were 1 in 10 from your high school to graduate from college and the only one to go on and get a PhD. You worked hard to provide for your sister and her kids, so I think you're a decent guy. Sure, some petty theft as a kid, but no history of violence. But then one bad situation turned into a manslaughter charge. I don't expect you to open up to a suit with a badge..."
+        },
+        {
+            "character": "Morrow",
+            "line": "Suits like you is why I'm in here."
+        },
+        {
+            "character": "Coulson",
+            "line": "But there's a chance, if you help me, that I can help you get out of here."
+        }
+    ]
+}

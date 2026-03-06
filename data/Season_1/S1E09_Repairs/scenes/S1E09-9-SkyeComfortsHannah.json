@@ -1,0 +1,80 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 9,
+    "scene_name": "SkyeComfortsHannah",
+    "description": "Skye speaks with Hannah through the cell, offering her empathy and compassion, sharing her own doubts about faith and forgiveness. Hannah reveals her belief that she is being punished by God, but Skye tries to help her see that forgiveness is possible. Meanwhile, May takes over guard duty to allow Skye to help elsewhere.",
+    "roles": [
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Hannah?"
+        },
+        {
+            "character": "Hannah",
+            "line": "Who's there?"
+        },
+        {
+            "character": "Skye",
+            "line": "My name is Skye. We haven't met yet."
+        },
+        {
+            "character": "Hannah",
+            "line": "We crashed, didn't we? Are you all hurt? I'm so sorry."
+        },
+        {
+            "character": "Skye",
+            "line": "No. No, no, no. We're okay. Whatever's happening, it's not your fault. We were wrong. But you need to stay in that room so that you're safe. Something... bad is out here."
+        },
+        {
+            "character": "Hannah",
+            "line": "Demons."
+        },
+        {
+            "character": "Skye",
+            "line": "I don't know what it is."
+        },
+        {
+            "character": "Hannah",
+            "line": "Do you believe in god?"
+        },
+        {
+            "character": "Skye",
+            "line": "Honestly? Not really."
+        },
+        {
+            "character": "Hannah",
+            "line": "Well, I do. And I know that he's punishing me, and I deserve it."
+        },
+        {
+            "character": "Skye",
+            "line": "No. No, you don't. No one does. I had a few nuns around me growing up, and they would talk like that, scaring kids with stories of god's wrath. It made me not want to believe. The only words that stuck with me were something that sister McKenna said from the Bible, I think. She said, “god is love.” It's simple and it's a little sappy, but that's the version I like. God is love... the thing that holds us together. And if that's true, I don't think he would punish you for making a mistake. I think he'd forgive a mistake."
+        },
+        {
+            "character": "Hannah",
+            "line": "I want to believe that. I do."
+        },
+        {
+            "character": "May",
+            "line": "I'll stand guard now. Coulson needs help with the emergency transceiver."
+        },
+        {
+            "character": "Skye",
+            "line": "I would rather stay here for a while..."
+        },
+        {
+            "character": "May",
+            "line": "It needs to get done, not discussed. That's an order."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll nearby if you need me, okay? Try not to hurt her any more than you already have, Agent May."
+        }
+    ]
+}

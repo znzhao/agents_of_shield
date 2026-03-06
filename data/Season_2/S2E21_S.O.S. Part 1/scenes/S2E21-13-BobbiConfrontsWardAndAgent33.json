@@ -1,0 +1,57 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 13,
+    "scene_name": "BobbiConfrontsWardAndAgent33",
+    "description": "Bobbi, enduring her ordeal, remains defiant, refusing to apologize or beg for mercy. She explains her decision to sacrifice a safe house—even if Agent 33 was there—was necessary to protect many others. Ward and Kara escalate the torture, insisting Bobbi admit her 'sins,' but she stands her ground despite the pain.",
+    "roles": [
+        "bobbi_morse",
+        "grant_ward",
+        "sunil_bakshi"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Any agent worth their salt adjusts to pain, can push it away. So I took a different approach, paralytic combined with an anesthetic. You can't fight what's happening, nor can you feel any of the pain yet. Crazy, huh? Now, in a little while, the drug will turn off. Everything you're not feeling will, mnh, flood in at once."
+        },
+        {
+            "character": "Kara",
+            "line": "It's how I felt after the mind control was removed. I remembered every terrible thing they did to me."
+        },
+        {
+            "character": "Ward",
+            "line": "Now, we can avoid all that pain if you cooperate. Admit your sins."
+        },
+        {
+            "character": "Morse",
+            "line": "What happened to you was a tragedy."
+        },
+        {
+            "character": "Kara",
+            "line": "Not good enough."
+        },
+        {
+            "character": "Morse",
+            "line": "I had to make a choice when I was inside HYDRA. Protect my cover by giving them a S.H.I.E.L.D. safe house that might be occupied or blow my cover and lose intel that I knew for a fact would get two dozen S.H.I.E.L.D. agents killed."
+        },
+        {
+            "character": "Kara",
+            "line": "So you did sell me out."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm sorry you were in that safe house, but I did the right thing. The lives of the many outweigh the life of one. You... You swore to the same ideal when you signed to S.H.I.E.L.D."
+        },
+        {
+            "character": "Ward",
+            "line": "That's your apology?"
+        },
+        {
+            "character": "Morse",
+            "line": "Oh. I'll go one better. If I ever apologize or beg for mercy while you torture me, know that I don't mean a word of it, not a word. I made a hard call. I'd make the same one again right now."
+        }
+    ]
+}

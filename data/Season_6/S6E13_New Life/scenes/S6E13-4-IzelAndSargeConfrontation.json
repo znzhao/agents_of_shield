@@ -1,0 +1,232 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "IzelAndSargeConfrontation",
+    "description": "Within the temple, Izel and Sarge—now increasingly aligned with his Pachakutiq persona—discuss the impending new life for their kind, revealing past betrayals and old wounds. Sarge accuses Izel of leaving him to rot and expresses deep resentment for his imprisonment in a human vessel. They reaffirm their plans to bring their people into the world through the temple, setting the stage for both a supernatural invasion and a personal reckoning.",
+    "roles": [
+        "izel",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "dramatic",
+    "location": "Temple (Izel's gateway / portal site in the western United States)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Izel",
+            "line": "What joy, watching you strike her down. How does it feel to be your true self once more?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Long overdue."
+        },
+        {
+            "character": "Izel",
+            "line": "Agreed. You've been held hostage in this vessel for far too long."
+        },
+        {
+            "character": "Sarge",
+            "line": "For centuries."
+        },
+        {
+            "character": "Izel",
+            "line": "Yet here you are. Ready to claim what we've always longed for."
+        },
+        {
+            "character": "Sarge",
+            "line": "A new home."
+        },
+        {
+            "character": "Izel",
+            "line": "It's only a matter of time now that the sign has been sent."
+        },
+        {
+            "character": "Mack",
+            "line": "What about the Standby Instrument System?"
+        },
+        {
+            "character": "Deke",
+            "line": "I'm telling you, all the wiring is in place. What am I missing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke, are you okay?"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, uh, any chance that the problem's the Electro-hydrostatic Actuator?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, that would make sense. What made you think of that?"
+        },
+        {
+            "character": "Deke",
+            "line": "Just a gut feeling."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, can you fix it?"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey! Don't make me come out there! Yeah, I don't want to go out there. We're gonna have to find another work-around."
+        },
+        {
+            "character": "Mack",
+            "line": "You should be able to re-route power directly to the main engine. There's a hatch in the floor."
+        },
+        {
+            "character": "Deke",
+            "line": "Copy that."
+        },
+        {
+            "character": "Elena",
+            "line": "They cut the door's hydraulic line."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're dumb, not stupid."
+        },
+        {
+            "character": "Mack",
+            "line": "We need to reinforce that door. Go, I'll get Deke in the air."
+        },
+        {
+            "character": "Elena",
+            "line": "Okay. Grab this."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's easier said than done. Everything's bolted down."
+        },
+        {
+            "character": "Elena",
+            "line": "Or that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where is everybody?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Khan and his team should already be here. That's the protocol."
+        },
+        {
+            "character": "Fitz",
+            "line": "They lined them up, and they executed them."
+        },
+        {
+            "character": "Simmons",
+            "line": "This floor's only used for emergencies. It's a-a verbal protocol, not in the system. How did the Chronicoms even know that people would be gathering down here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "‘Cause you did. They've been inside our heads. Think about it. They put us in that mind prison. They hacked into our brains."
+        },
+        {
+            "character": "Simmons",
+            "line": "They know everything that we know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Passwords, base layout, S.H.I.E.L.D. emergency protocols every move that we would make."
+        },
+        {
+            "character": "Diaz",
+            "line": "We need to find a way up to the hangar."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. Chronicoms will know our next move. They'll be waiting."
+        },
+        {
+            "character": "Simmons",
+            "line": "There has to be somewhere to hide that we wouldn't have thought of then uh, something new."
+        },
+        {
+            "character": "Fitz",
+            "line": "Deke's development lab. That floor was empty until a few days ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "Long after we escaped the Chronicoms. Get everyone to the twentyfirst floor. Avoid all emergency exits."
+        },
+        {
+            "character": "Diaz",
+            "line": "Aren't you coming?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're a liability. Go."
+        },
+        {
+            "character": "Fitz",
+            "line": "Now what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, they may be inside our heads, but we can make sure they don't get into anyone else's."
+        },
+        {
+            "character": "Izel",
+            "line": "That look in your eye I've seen it many times before. Just never upon this face."
+        },
+        {
+            "character": "Sarge",
+            "line": "It still feels foreign."
+        },
+        {
+            "character": "Izel",
+            "line": "Give it time. I must confess to having gained an appreciation for this vessel of yours. There is a strength about it which I find enticing."
+        },
+        {
+            "character": "Sarge",
+            "line": "It's a prison."
+        },
+        {
+            "character": "Izel",
+            "line": "From which I freed you."
+        },
+        {
+            "character": "Sarge",
+            "line": "And I'd be grateful for that if you hadn't been the one responsible for my captivity."
+        },
+        {
+            "character": "Izel",
+            "line": "You're wrong!"
+        },
+        {
+            "character": "Sarge",
+            "line": "You left me to rot in our world."
+        },
+        {
+            "character": "Izel",
+            "line": "You could not exist outside it."
+        },
+        {
+            "character": "Sarge",
+            "line": "Which is why I sent you to retrieve the Di'Allas. To make me whole."
+        },
+        {
+            "character": "Izel",
+            "line": "Finding them proved much more difficult than we imagined."
+        },
+        {
+            "character": "Sarge",
+            "line": "Or did the glory prove impossible to resist? I should've struck you down when I had the chance."
+        },
+        {
+            "character": "Izel",
+            "line": "Your words sound petty, as if spoken by the human I shot in the face. The very action that freed you to stand by my side, ready to deliver our people into this world."
+        },
+        {
+            "character": "Sarge",
+            "line": "Call your Shrike back to the temple. Let's give them new life."
+        },
+        {
+            "character": "Izel",
+            "line": "They will arrive once the last of S.H.I.E.L.D. has been put down."
+        }
+    ]
+}

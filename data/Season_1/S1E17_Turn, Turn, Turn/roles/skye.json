@@ -1,0 +1,77 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 17
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and vital member of S.H.I.E.L.D., known for her resilience, determination, and loyalty to her team, who she considers her true family. She is resourceful and courageous, displaying significant technical and tactical acumen in high-pressure situations. Her resolve is strengthened by the betrayals and deceptions she's witnessed, yet she remains committed to protecting her team and fighting the pervasive internal threats within S.H.I.E.L.D. Skye balances vulnerability with tenacity, continuing to evolve amid complex moral and ethical challenges, embodying hope, courage, and pragmatism in a shadowy world shrouded in secrets and treachery. Recent experiences have deepened her emotional maturity, blending cautious optimism with hard-earned vigilance.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "sadness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_real_clairvoyant_and_internal_threats",
+        "goal": "To uncover the true identity of the Clairvoyant, who may be a S.H.I.E.L.D. insider, and to expose internal threats within the organization"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "support_team_trust_and_integrity",
+        "goal": "To restore trust within the team and uphold integrity amid revelations of deception and internal conflict"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "survive_and_rebuild_after_S.H.I.E.L.D._collapse",
+        "goal": "To survive the internal coup, protect the team, and aid in rebuilding after Hydra's infiltration dismantles S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,123 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 10,
+    "scene_name": "SimmonsUndercoverAtNadeerOffice",
+    "description": "Simmons, disguised as a lobbyist, approaches Senator Nadeer’s assistant to discuss legislation. When the assistant realizes her true identity, he calls Watchdog operatives and attacks Simmons. Simmons overpowers him and retrieves his phone, opening up a lead on Nadeer’s location.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Bynum",
+            "line": "Sorry for the wait, Miss Beaks. What can I do for you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It is absolutely crucial I speak with Senator Nadeer about Bill 2474."
+        },
+        {
+            "character": "Bynum",
+            "line": "The Armed Forces Bill?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's right."
+        },
+        {
+            "character": "Bynum",
+            "line": "So, you're Margaret's replacement."
+        },
+        {
+            "character": "Simmons",
+            "line": "As if anyone could replace Margaret."
+        },
+        {
+            "character": "Bynum",
+            "line": "Well, unfortunately, the Senator is away on business. Maybe we can schedule you in for a conference call later this week."
+        },
+        {
+            "character": "Simmons",
+            "line": "Or maybe I could just take the lobby's sizable campaign funds to a senator who's willing to speak right now."
+        },
+        {
+            "character": "Bynum",
+            "line": "Wait right here. Let me see what I can do."
+        },
+        {
+            "character": "Mace",
+            "line": "You know, I have to admit, Jemma is much tougher than I had originally given her credit for."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, being in S.H.I.E.L.D. will do that to you. I think Simmons has been kidnapped like three times since I've known her."
+        },
+        {
+            "character": "Mace",
+            "line": "Really?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, only twice on this planet."
+        },
+        {
+            "character": "Bynum",
+            "line": "Mr. Shockley."
+        },
+        {
+            "character": "Shockley",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Bynum",
+            "line": "I need to speak with Senator Nadeer."
+        },
+        {
+            "character": "Shockley",
+            "line": "She's unavailable. What's the problem?"
+        },
+        {
+            "character": "Bynum",
+            "line": "Remember the scientist that helped the Senator's brother get out of that husk? Well, she's here right now."
+        },
+        {
+            "character": "Shockley",
+            "line": "That is a problem."
+        },
+        {
+            "character": "Bynum",
+            "line": "What should I do?"
+        },
+        {
+            "character": "Shockley",
+            "line": "Take care of it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm going to need your phone."
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Mace",
+            "line": "Is she okay in there?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Ohh!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons, are you there? Is everything okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. A little bloody and bruised, but I'll survive. We may have a bit of a political situation on our hands when he wakes up. But now we can trace that call."
+        }
+    ]
+}

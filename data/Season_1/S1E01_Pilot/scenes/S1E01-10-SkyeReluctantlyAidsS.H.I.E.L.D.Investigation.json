@@ -1,0 +1,132 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "SkyeReluctantlyAidsS.H.I.E.L.D.Investigation",
+    "description": "After receiving news about Mike's violent act, Coulson challenges Skye: she provides Mike's identity by giving up his license. Fitz, Simmons, and May review corrupted footage from the explosion, while Skye offers her own audio files to enhance the data. Skye, now escorted by May, helps with technical access, indicating her reluctant cooperation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Did Agent Ward give you anything?"
+        },
+        {
+            "character": "Skye",
+            "line": "He told me he's been to Paris, but he's never really seen it and that he wishes you had stayed in Tahiti."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a magical place."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward doesn't like your style. Kind of think I do."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about his?"
+        },
+        {
+            "character": "Reporter",
+            "line": "...remains in critical condition. Employees could not identify the attacker, but security footage confirms that this man assaulted the factory foreman before damaging thousands of dollars' worth of company property."
+        },
+        {
+            "character": "Skye",
+            "line": "This is wrong. This is not... the guy I met. He was..."
+        },
+        {
+            "character": "Reporter",
+            "line": "With us here on KZQM25."
+        },
+        {
+            "character": "Skye",
+            "line": "He just needs a break."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then give him one. What have you got?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Michael Peterson... factory worker, married, one kid. Gets injured, gets laid off. Wife jumps ship. Good guy, bad breaks. Best guess is, somebody tells him they can make him strong again, make him super."
+        },
+        {
+            "character": "May",
+            "line": "Who has the tech to do that? And why would they want to?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, what do we have from the security footage before the blast?"
+        },
+        {
+            "character": "May",
+            "line": "What are we seeing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, the man is angry at the other man."
+        },
+        {
+            "character": "Simmons",
+            "line": "The data is very corrupt."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, like cold war Russia corrupt."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "I-I can't sync the timecode without..."
+        },
+        {
+            "character": "Skye",
+            "line": "What if you had the audio? I was... running surveillance on the lab. I had my shotgun mic pointed at the window before the blast. The digital file's in my van. There's too much background noise for me, But you could probably..."
+        },
+        {
+            "character": "Simmons",
+            "line": "You can clean that up, can't you? Find a sync point and use cross-field validation to find..."
+        },
+        {
+            "character": "Fitz",
+            "line": "But I can't scrub for expression patterns when the vit-c is all..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, is there a chrominance subcarrier?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, attached to the back porch. Brilliant. Um, that audio would be great. Thank you very, very much."
+        },
+        {
+            "character": "Simmons",
+            "line": "We will take that audio, please."
+        },
+        {
+            "character": "Coulson",
+            "line": "Your van's here, but you were right. We couldn't decrypt the files."
+        },
+        {
+            "character": "Skye",
+            "line": "The encryption's coupled to the GPS. Get my van back to that alley, and then I'm in business."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May will escort you. And on your way out, wake up Ward."
+        }
+    ]
+}

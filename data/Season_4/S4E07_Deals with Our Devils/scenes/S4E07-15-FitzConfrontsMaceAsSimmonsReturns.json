@@ -1,0 +1,45 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 15,
+    "scene_name": "FitzConfrontsMaceAsSimmonsReturns",
+    "description": "Back at the Playground, an angry and relieved Fitz confronts Mace about what was done to Simmons. The reunion between Fitz and Simmons is tearful and charged with emotion, as the team begins to regroup after all the chaos. The dangers faced have clearly deepened their bonds.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Mace, where is he? Mace! I know what you did. Where the hell's Simmons?"
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Fitz, it's good to see you back. Simmons will be here in a moment."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, I've heard that line before. I want to know where she's coming from 'cause I heard you on the..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz? Where is he?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma? What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma."
+        }
+    ]
+}

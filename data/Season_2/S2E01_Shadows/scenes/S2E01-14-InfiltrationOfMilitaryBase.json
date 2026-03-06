@@ -1,0 +1,115 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 14,
+    "scene_name": "InfiltrationOfMilitaryBase",
+    "description": "The infiltration team, posing as a military convoy, navigates tight security at the army base using Talbot's copied credentials. Tensions rise at the gate, but Coulson convincingly impersonates Talbot over the radio to get the team through. Inside, the group splits up to search for the Obelisk, inching closer to their target while Creel lurks nearby.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "antoine_triplett",
+        "lance_hunter"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "General."
+        },
+        {
+            "character": "Triplett",
+            "line": "Come on, girl. You know I look good."
+        },
+        {
+            "character": "Idaho",
+            "line": "I have General Jones and his party here to meet with General Talbot."
+        },
+        {
+            "character": "Soldier",
+            "line": "General Jones? Sir. I'm sorry, sir. I don't have this visit in the register today."
+        },
+        {
+            "character": "Idaho",
+            "line": "You might want to double-check that."
+        },
+        {
+            "character": "Skye",
+            "line": "Military installations bury all their cables. Wisely."
+        },
+        {
+            "character": "Hunter",
+            "line": "Not that wisely. Okay. Delta-3-6-5-Sierra-Victor..."
+        },
+        {
+            "character": "Skye",
+            "line": "Niner."
+        },
+        {
+            "character": "Soldier",
+            "line": "If it's not in here, there's nothing I can do. Exit to the left, please."
+        },
+        {
+            "character": "Soldier",
+            "line": "Gatehouse."
+        },
+        {
+            "character": "Talbot's voice",
+            "line": "This is General Talbot. Why has General Jones and his government escort been delayed at the gate, soldier? Wave them through."
+        },
+        {
+            "character": "Soldier",
+            "line": "Uh, sir. Sorry, sir. His name's not in the register, and my orders are to strictly..."
+        },
+        {
+            "character": "Talbot's voice",
+            "line": "Now, you listen to me, son."
+        },
+        {
+            "character": "Triplett",
+            "line": "Private Tilden."
+        },
+        {
+            "character": "Talbot's voice",
+            "line": "It's Private Tilden, isn't it?"
+        },
+        {
+            "character": "Soldier",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I don't care about this register or that. I want General Jones and his friends sent directly to the ordnance depot to meet me."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Hey. Hey. Go bigger. Go bigger."
+        },
+        {
+            "character": "Coulson",
+            "line": "...or I'll have you so deep in horse manure, son, You'll need a damn snorkel."
+        },
+        {
+            "character": "Soldier",
+            "line": "I understand, sir, but I can't... Oh. Never mind, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice work, soldier. Next time you see me, come shake my hand. Talbot out."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "What?!"
+        },
+        {
+            "character": "May",
+            "line": "Stay and keep it running in case we have to abort."
+        },
+        {
+            "character": "Idaho",
+            "line": "Got it."
+        }
+    ]
+}

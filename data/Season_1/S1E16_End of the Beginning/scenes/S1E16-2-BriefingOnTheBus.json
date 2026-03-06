@@ -1,0 +1,239 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 2,
+    "scene_name": "BriefingOnTheBus",
+    "description": "Coulson convenes a meeting on the Bus with May, Ward, Skye, Fitz, Simmons, Garrett, Triplett, and Hand present. They discuss the latest attack by Deathlok and the ongoing hunt for the Clairvoyant. Skye's analytical skills are highlighted as she is asked to help narrow down the suspects and prioritize targets. The team formulates a compartmentalized strategy, and Coulson officially welcomes Skye as a S.H.I.E.L.D. agent.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "victoria_hand",
+        "antoine_triplett"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hand",
+            "line": "You realize, Agent Coulson, they have these things called teleconferences now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice to see you, too, Agent Hand. Thank you all for coming on such short notice."
+        },
+        {
+            "character": "Sitwell",
+            "line": "A little unconventional meeting this way, isn't it?"
+        },
+        {
+            "character": "Blake",
+            "line": "Oh, from the reports I've read, “unconventional” seems to be Coulson's middle name these days."
+        },
+        {
+            "character": "Garrett",
+            "line": "Fight breaks out, let me take Blake. He's coy but scrappy."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll explain everything as soon as we hit 50,000 feet. This way."
+        },
+        {
+            "character": "May",
+            "line": "Cruising altitude reached, bearing 90 degrees just over the North pole."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Garret",
+            "line": "Apologies for the song and dance, but we brought you here as a precaution."
+        },
+        {
+            "character": "Sitwell",
+            "line": "A precaution against what?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The Clairvoyant. If there is someone out there who can read minds, at least up here, we're as far away from him as possible."
+        },
+        {
+            "character": "Garrett",
+            "line": "Figure maybe the Northern lights will knock a few bars off his psychic wi-fi."
+        },
+        {
+            "character": "Blake",
+            "line": "Coulson, you know S.H.I.E.L.D.'s stance on psychics... they don't exist."
+        },
+        {
+            "character": "Hand",
+            "line": "Are you suddenly a believer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not definitively. But I had a recent experience with an Asgardian who could bend people's will with her voice. Forced me to open my mind, so to speak."
+        },
+        {
+            "character": "Garrett",
+            "line": "All we know for sure is the Clairvoyant's been a step ahead of us, stealing plays from our playbook."
+        },
+        {
+            "character": "Coulson",
+            "line": "And it's pissing me off. I take it you've all read Agent Garrett's latest report."
+        },
+        {
+            "character": "Sitwell",
+            "line": "The hit on the safe house. Mr. Peterson's alive and kicking."
+        },
+        {
+            "character": "May",
+            "line": "We call him Deathlok."
+        },
+        {
+            "character": "Ward",
+            "line": "It was the project's code name."
+        },
+        {
+            "character": "Triplett",
+            "line": "Agent Garrett and I have been tracking him the last few weeks."
+        },
+        {
+            "character": "Garrett",
+            "line": "And we think the Clairvoyant's super-soldier bodyguard came after us for a reason. We're getting close."
+        },
+        {
+            "character": "Hand",
+            "line": "To what? His identity?"
+        },
+        {
+            "character": "Garrett",
+            "line": "We've narrowed the list to 13 candidates."
+        },
+        {
+            "character": "Blake",
+            "line": "Narrowed it how? From what?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Garrett has been taking a second look at S.H.I.E.L.D.'s gifted index, specifically the rejects."
+        },
+        {
+            "character": "Garrett",
+            "line": "Individuals S.H.I.E.L.D. interviewed who are believed to have psychic abilities but were ultimately dismissed."
+        },
+        {
+            "character": "Sitwell",
+            "line": "So you think we've encountered the Clairvoyant before."
+        },
+        {
+            "character": "Coulson",
+            "line": "Think how many cases we've encountered across the globe, how many cases we vetted. It's more than possible. It's probable."
+        },
+        {
+            "character": "Blake",
+            "line": "I need more coffee."
+        },
+        {
+            "character": "Hand",
+            "line": "Let's assume what you're saying is possible. What then? If we're going up against an actual Clairvoyant, how do you suggest we combat that?"
+        },
+        {
+            "character": "Garrett",
+            "line": "By compartmentalizing the information."
+        },
+        {
+            "character": "Coulson",
+            "line": "A member of my team is an expert at pattern recognition and analysis... finding needles in haystacks. She'll prioritize the candidates on Garrett's list, locate them, then pair us off into random teams."
+        },
+        {
+            "character": "Garrett",
+            "line": "That way, only one person knows the full scope of the mission."
+        },
+        {
+            "character": "Hand",
+            "line": "You do understand that this person you're referring to... she'd need to be a S.H.I.E.L.D. agent to be granted that level of access."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm glad you brought that up."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys, I swear, I am fine. How much blood are you gonna draw before you believe me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Your recovery... it's honestly quite unbelievable."
+        },
+        {
+            "character": "Fitz",
+            "line": "Strange."
+        },
+        {
+            "character": "Simmons",
+            "line": "We know Coulson had a very different recovery experience, so we understand why he's hesitant about sharing our findings with others."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but something like this drug... it needs to be studied. Has the potential to save so many lives."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'd like to send a blood sample of yours to some colleagues to do a molecular breakdown. Maybe if you spoke to Agent Coulson..."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, I don't think that's a good idea. If Coulson thinks it's important that this stays between us, then we should trust him. Right? He's the boss."
+        },
+        {
+            "character": "Simmons",
+            "line": "So you're saying we should obey the rules."
+        },
+        {
+            "character": "Fitz",
+            "line": "Who are you, and what have you done with Skye?"
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, upstairs. Top brass wants to see you."
+        },
+        {
+            "character": "Skye",
+            "line": "Pairing off makes total sense. Just one thought, though... what if we make it a double-blind?"
+        },
+        {
+            "character": "Hand",
+            "line": "How so?"
+        },
+        {
+            "character": "Skye",
+            "line": "Well, I'll give one person from each team the potential Clairvoyant's coordinates, and I'll give the other one the identity. That way, no one person knows the full specs of the op until you get there."
+        },
+        {
+            "character": "Garrett",
+            "line": "I like how you think. I like how she thinks."
+        },
+        {
+            "character": "Skye",
+            "line": "One question... how am I supposed to access all the classified files without someone in the room? I don't have clearance."
+        },
+        {
+            "character": "Coulson",
+            "line": "Now you do. Welcome to S.H.I.E.L.D., Skye."
+        },
+        {
+            "character": "May",
+            "line": "I told them to come up."
+        },
+        {
+            "character": "Skye",
+            "line": "I ... I... I don't know what to say. Thank you."
+        }
+    ]
+}

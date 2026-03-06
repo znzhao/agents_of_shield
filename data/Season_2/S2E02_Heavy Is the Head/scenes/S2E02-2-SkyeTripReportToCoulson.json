@@ -1,0 +1,99 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "SkyeTripReportToCoulson",
+    "description": "Skye and Triplett return to the Playground with the Quinjet, reporting in to Coulson. They discuss the fate of Hartley and the object with strange symbols found on the mission. Coulson orders them to update Mack with the plane's technology to help reverse-engineer cloaking for their base. Despite Skye's insistence on investigating the Obelisk further, Coulson instructs her to leave it for now and focus on the ongoing priority: finding Creel.",
+    "roles": [
+        "skye",
+        "leo_fitz",
+        "phil_coulson",
+        "antoine_triplett",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "I still can't raise Hunter or Hartley on the comms."
+        },
+        {
+            "character": "Triplett",
+            "line": "Not surprised. Radio silence on the op is protocol."
+        },
+        {
+            "character": "Skye",
+            "line": "Still, Hartley was in pretty bad shape when we left. Or you'd think we'd have heard something by now."
+        },
+        {
+            "character": "Triplett",
+            "line": "No need to think the worst till it shakes your hand and says hello."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that another one of your grandma's sayings?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Fortune cookie. I had some kung pao chicken the other night."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe Coulson's heard from them."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to get a complete inventory by the time Agent Koenig returns... food, fuel, and ammo... understood? You got the quinjet. Well done."
+        },
+        {
+            "character": "Skye",
+            "line": "Any word about Hartley?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not now. Let Mack know the jet's here. I want him reverse-engineering that cloaking hardware right away. Sooner he does, sooner we get the bus operational again."
+        },
+        {
+            "character": "Triplett",
+            "line": "Roger that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Something else?"
+        },
+        {
+            "character": "Skye",
+            "line": "The item that messed up Hartley's arm, it had those weird symbols on it, the ones you've had me researching."
+        },
+        {
+            "character": "Coulson",
+            "line": "The same symbols? You sure?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes. They came up out of the object. It reminded me of Braille. It was like Hartley triggered something by touching it. What the hell is that thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I have no idea. But good work."
+        },
+        {
+            "character": "Skye",
+            "line": "“Good work?” How about, “holy crap, Skye. We got to get on that”? After a month of combing the planet for these things, we finally got a clue..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Right now, we have more important problems... a five-alarm fire otherwise known as Lance Hunter."
+        },
+        {
+            "character": "Skye",
+            "line": "Is he..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Captured. But if he talks, our entire operation's compromised. We'll have to burn the base and evacuate. I know. And we just re-tiled the bathrooms."
+        }
+    ]
+}

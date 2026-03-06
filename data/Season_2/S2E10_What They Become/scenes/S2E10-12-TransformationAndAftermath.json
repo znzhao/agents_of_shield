@@ -1,0 +1,34 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "TransformationAndAftermath",
+    "description": "The Obelisk unleashes a Terrigen mist as Raina and Skye begin to petrify, while Triplett smashes the crystal in a desperate attempt to save Skye. Triplett is killed by the resulting explosion, and Skye emerges from her chrysalis with seismic abilities, horrified at the aftermath of her transformation and the destruction of Triplett's statue. Meanwhile, the transformation is noticed remotely by Gordon, who recognizes the emergence of someone new and prepares to report it.",
+    "roles": [
+        "skye",
+        "raina",
+        "antoine_triplett",
+        "gordon"
+    ],
+    "vibe": "tragic",
+    "location": "Underground Kree city / temple (beneath San Cristobal Fort, Puerto Rico)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Oh, God. Oh... oh, God. Tr... trip!"
+        },
+        {
+            "character": "Triplett",
+            "line": "No. No!"
+        },
+        {
+            "character": "Woman",
+            "line": "Hello?"
+        },
+        {
+            "character": "Gordon",
+            "line": "Are you seeing this? There's someone new. Tell the others I'm on it."
+        }
+    ]
+}

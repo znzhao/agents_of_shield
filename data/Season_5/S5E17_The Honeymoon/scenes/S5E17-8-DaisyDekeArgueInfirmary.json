@@ -1,0 +1,72 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 8,
+    "scene_name": "DaisyDekeArgueInfirmary",
+    "description": "Daisy and Deke, back on Zephyr One, argue about what went wrong during the Ruby confrontation. Their tension flares, with Daisy blaming Deke for interfering and Deke defending his attempts to help. The conflict underscores Deke's outsider status and Daisy's frustration as a leader.",
+    "roles": [
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Here, take these. We're landing soon. That was reckless back there, Deke."
+        },
+        {
+            "character": "Deke",
+            "line": "You this kind to everybody who takes a bullet for you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You were the reason we had to retreat. Well, I'm sorry."
+        },
+        {
+            "character": "Deke",
+            "line": "Next time, I'll try to keep all my blood inside of my body."
+        },
+        {
+            "character": "Daisy",
+            "line": "I had Hale's daughter down for the count. We could've captured her."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, she was down, and I was trying to secure her weapon, like any other agent would have."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're not an agent."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, really? Well, then maybe you should stop ordering me around like one, then. Because this top-dog thing doesn't suit you."
+        },
+        {
+            "character": "Daisy",
+            "line": "What does it matter if you don't listen? I can't fight and protect your dumb ass at the same time."
+        },
+        {
+            "character": "Deke",
+            "line": "You are the worst. I-I was trying to give you backup..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I didn't need your backup!"
+        },
+        {
+            "character": "Deke",
+            "line": "... even though you threatened to kill me a couple of dozen times."
+        },
+        {
+            "character": "Daisy",
+            "line": "Here. Have some water."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke. We need help over here! Now!"
+        }
+    ]
+}

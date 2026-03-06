@@ -1,0 +1,60 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "raina",
+        "victoria_hand",
+        "antoine_triplett",
+        "eric_koenig",
+        "nick_fury",
+        "ian_quinn",
+        "marcus_daniels",
+        "glenn_talbot"
+    ],
+    "aliases": [
+        "Coulson",
+        "Agent Coulson",
+        "Phil Coulson",
+        "May",
+        "Agent May",
+        "Ward",
+        "Agent Grant Ward",
+        "Skye",
+        "Fitz",
+        "Leo Fitz",
+        "Simmons",
+        "Jemma Simmons",
+        "Raina",
+        "Garrett",
+        "John Garrett",
+        "Victoria Hand",
+        "Triplett",
+        "Agent Triplett",
+        "Eric Koenig",
+        "Koenig",
+        "Nick Fury",
+        "Fury",
+        "Ian Quinn",
+        "Quinn",
+        "Marcus Daniels",
+        "Talbot",
+        "Glenn Talbot"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra",
+        "Project Centipede"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "Providence (S.H.I.E.L.D. base)",
+        "The Hub (S.H.I.E.L.D. operations facility)",
+        "The Fridge (S.H.I.E.L.D. high-security prison)",
+        "Llactapata ruins (Peru)"
+    ]
+}

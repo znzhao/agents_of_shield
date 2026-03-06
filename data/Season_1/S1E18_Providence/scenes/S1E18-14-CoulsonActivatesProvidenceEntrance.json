@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 14,
+    "scene_name": "CoulsonActivatesProvidenceEntrance",
+    "description": "Coulson's desperation crescendos as he pleads with his team about the importance of their mission and identity as S.H.I.E.L.D. agents. Suddenly, his badge triggers a hidden gun emplacement. After identifying himself, Coulson causes a portion of rock to open, revealing a hidden entrance, restoring hope and confirming Fury's secret message.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This is it! There's got to be something here. Stay alert. Eyes open. It's got to be here somewhere."
+        },
+        {
+            "character": "Skye",
+            "line": "How long should we look before thinking about heading back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not going back, not until we find whatever Fury has waiting for us."
+        },
+        {
+            "character": "Triplett",
+            "line": "What about the satellite?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It doesn't matter. The bus used all its remaining fuel just to get us here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Did you know this before flying us out into the middle of nowhere?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It was the right play. Fury sent us these coordinates for a reason."
+        },
+        {
+            "character": "May",
+            "line": "And what reason is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, May! I don't know! There's got to be something here! This means something! This has to mean something! The world needs us! Hydra is out there! We cannot let them win. We ... we cannot let them define us. Do you understand that? We are not agents of nothing! We are agents of S.H.I.E.L.D., and that still carries weight! It... it has to carry weight! After everything we've been through, that carries weight! I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Aah!"
+        },
+        {
+            "character": "May",
+            "line": "Get down! Get down!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Go, go, go, go, go!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, it seems like we found it!"
+        },
+        {
+            "character": "May",
+            "line": "Nobody move!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I really don't think that's going to be a problem!"
+        },
+        {
+            "character": "Coulson",
+            "line": "This is a S.H.I.E.L.D. facility."
+        },
+        {
+            "character": "Triplett",
+            "line": "Shoot first, ask questions later? Doesn't sound like S.H.I.E.L.D. to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not Hydra. This is Fury reaching out."
+        },
+        {
+            "character": "May",
+            "line": "There's no way to know that for sure."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's one way."
+        },
+        {
+            "character": "May",
+            "line": "Phil, don't!"
+        },
+        {
+            "character": "Skye",
+            "line": "Hey! No..."
+        },
+        {
+            "character": "May",
+            "line": "Phil!"
+        },
+        {
+            "character": "Computer",
+            "line": "Identify yourself."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm Phil Coulson, agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Computer",
+            "line": "Welcome, Agent Coulson. We've been expecting you."
+        }
+    ]
+}

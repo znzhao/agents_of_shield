@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 2,
+    "scene_name": "MayAndTeamInvestigateLab",
+    "description": "In the present day, Melinda May and S.H.I.E.L.D. agents sweep the aftermath at the Momentum Labs. Fitz, Coulson, and May analyze the scene of the attack, deducing Lucy Bauer was responsible and has taken both critical equipment and Eli Morrow. The team realizes Lucy needs Eli for a new, dangerous experiment, and they urgently begin coordinating their next steps to track her down.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Momentum Energy Lab (Pasadena / Momentum Labs)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Agents down. Lucy Bauer was here, but she's long gone."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. Hold... Uh, Agent May, can you go back and give me another look at where the cables connect to the chamber?"
+        },
+        {
+            "character": "May",
+            "line": "Sure."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, okay, that's... that's... that's definitely different from before. Uh, there's a number of pieces missing. She must have taken them."
+        },
+        {
+            "character": "Coulson",
+            "line": "She already has the book, the power cells, my guess is she's trying to replicate the experiment and reverse the process. Un-ghost herself."
+        },
+        {
+            "character": "May",
+            "line": "Is that why she took Eli Morrow?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's part of her original dream team. Maybe she needs him to do something she can't."
+        },
+        {
+            "character": "May",
+            "line": "What? Show her face without scaring children?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The Momentum facilities are controlled by us now, so she needs a new place to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to find her before someone else gets hurt."
+        }
+    ]
+}

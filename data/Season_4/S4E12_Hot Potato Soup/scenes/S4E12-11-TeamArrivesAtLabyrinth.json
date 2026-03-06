@@ -1,0 +1,111 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 11,
+    "scene_name": "TeamArrivesAtLabyrinth",
+    "description": "The team arrives at the Labyrinth, the secret S.H.I.E.L.D. facility, with May LMD, Coulson, Daisy, and Sam present. While they wait for Sam to retrieve the Darkhold, Coulson and 'May' share a quiet, tender moment, hinting at their deeper feelings. The calm is disrupted by the arrival of Watchdog agents led by Shockley, escalating the tension.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sam_koenig",
+        "billy_koenig"
+    ],
+    "vibe": "suspenseful",
+    "location": "Labyrinth (secret S.H.I.E.L.D. facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sam",
+            "line": "L.T., stay with Quake and Agent May. Agent Coulson, come with me."
+        },
+        {
+            "character": "May",
+            "line": "I'm going with them."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, what was it like growing up with four of them?"
+        },
+        {
+            "character": "Daisy",
+            "line": "They picked on you?"
+        },
+        {
+            "character": "Sam",
+            "line": "Okay. Wait here. I'll be right back."
+        },
+        {
+            "character": "May",
+            "line": "So read any good books lately?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Imagine how big our brains would be if we had time to read them all."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's made of light, but it's functioning like a corporeal, biological brain. Quantum energy storing data. It's as if synapses are interacting."
+        },
+        {
+            "character": "Mack",
+            "line": "Is that possible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No, not even in the slightest."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I wish I could take credit, but this was all AIDA and the Darkhold. Everything in the original brains... memories, knowledge, desires... is contained in the quantum brains. So, you see, I re..."
+        },
+        {
+            "character": "Simmons",
+            "line": "You said “brains.” My God. Is it possible?"
+        },
+        {
+            "character": "Mack",
+            "line": "What? Talk to me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Radcliffe mapped another brain."
+        },
+        {
+            "character": "Simmons",
+            "line": "I saw it. I watched him do it!"
+        },
+        {
+            "character": "Mack",
+            "line": "You can't be serious."
+        },
+        {
+            "character": "Simmons",
+            "line": "It was May."
+        },
+        {
+            "character": "Coulson",
+            "line": "I never read “Ulysses.” I always wanted to take a month off, go to Ireland, read it in pubs. Someday."
+        },
+        {
+            "character": "May",
+            "line": "Maybe we should go together."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah? It's a little nerdy."
+        },
+        {
+            "character": "May",
+            "line": "Did you mean it when you said you're ready for whatever comes next?"
+        },
+        {
+            "character": "Sam",
+            "line": "Hey, what's... what's going on?"
+        },
+        {
+            "character": "Sam",
+            "line": "All right. Take this. We'll handle it."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 12,
+    "scene_name": "MackAttackAndFortChaos",
+    "description": "Mack, now overtaken by an unknown force, becomes violently hostile. Coulson, Morse, Fitz, and Simmons struggle to subdue him with ICERs, but they fail. Bobbi finally incapacitates Mack with her staves, causing him to fall back into the chasm. Coulson orders the tunnel sealed, asserting grimly to his team that Mack is 'gone.'",
+    "roles": [
+        "alphonso_mackenzie",
+        "bobbi_morse",
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "action-packed",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I hit bottom. Copy? Hey, I hit bottom!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay!"
+        },
+        {
+            "character": "Mack",
+            "line": "Aah! Aah! Aaaaaah! Aaaaaah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Get him up now!"
+        },
+        {
+            "character": "Morse",
+            "line": "I'm trying! It's at max power!"
+        },
+        {
+            "character": "Fitz",
+            "line": "He's struggling on the line!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Before the dwarfs went down, they scanned for signs of life. All readings were negative."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait! Wait, wait, wait! I can see him! He's coming up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hang on! Get the harness off him!"
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, talk to me, Mack! Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "Aaaah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack!"
+        },
+        {
+            "character": "Morse",
+            "line": "Mack!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What happened? Were you attacked?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't see any wounds or signs of blood."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack! What did you say? I can't hear you."
+        },
+        {
+            "character": "Mack",
+            "line": "Run!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Aah!"
+        },
+        {
+            "character": "Morse",
+            "line": "Coulson!"
+        }
+    ]
+}

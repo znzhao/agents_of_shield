@@ -1,0 +1,148 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 9,
+    "scene_name": "EscapeAndInfiltration",
+    "description": "Meanwhile, Coulson, May, Fitz, Skye, and Ward execute an escape plan using Fitz's \"mouse hole\" device to evade Hand's strike team and break into the Hub from below. The team splits up: Ward and Skye head for the nerve center to disable the base's control over the Bus, while the others focus on rescuing Simmons and Triplett. Garrett argues to go straight for Hand, but Coulson insists on saving their own first. The group navigates the base's dangerous corridors, preparing for confrontation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "action-packed",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Triplette",
+            "line": "Cross us off... and one of you goes, too."
+        },
+        {
+            "character": "Hand",
+            "line": "Right answer. The number of people I trust is now seven. Where are we on the roundup?"
+        },
+        {
+            "character": "Jacobson",
+            "line": "We're moving all agents below level five to East holding. I have men monitoring microphones placed in most of the rooms."
+        },
+        {
+            "character": "Hand",
+            "line": "And our strike team?"
+        },
+        {
+            "character": "Jacobson",
+            "line": "Has stormed the plane, yes."
+        },
+        {
+            "character": "Simmons",
+            "line": "That was a... a test?"
+        },
+        {
+            "character": "Hand",
+            "line": "That very few have passed."
+        },
+        {
+            "character": "Simmons",
+            "line": "I thought we were dead. You're not Hydra. Thank god."
+        },
+        {
+            "character": "Hand",
+            "line": "Well, don't celebrate just yet. We may not be Hydra, but your friend Coulson... he is."
+        },
+        {
+            "character": "Baylin",
+            "line": "Oh. We captured Agent Coulson and the cavalry herself. Call upstairs. They'll need assistance. They're headed to... here."
+        },
+        {
+            "character": "Garrett",
+            "line": "We caught 'em, the slippery bastards. Agent May took one of mine in the arm. Softy there wouldn't let her bleed out."
+        },
+        {
+            "character": "Baylin",
+            "line": "Whoa. Do you need medical assistance?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Just your sidearm."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, come on, Simmons. Where are you?"
+        },
+        {
+            "character": "Hand",
+            "line": "Report back to me."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes ma'am."
+        },
+        {
+            "character": "Hand",
+            "line": "What?"
+        },
+        {
+            "character": "Shaw",
+            "line": "We've searched the plane, ma'am. No sign of it. They were on board when it landed. We are tearing this plane apart. They must have... snuck off somehow."
+        },
+        {
+            "character": "Hand",
+            "line": "Check the tunnels. I want two squads posted in every corridor. Capture who you can, but you have permission to use lethal force."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, ma'am. You were right. We should have blown that plane out of the sky."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are you mad? How can you be saying this?"
+        },
+        {
+            "character": "Hand",
+            "line": "Hydra won't show mercy. Neither can we."
+        },
+        {
+            "character": "Simmons",
+            "line": "There is no way Coulson is Hydra! He is a good man, a friend!"
+        },
+        {
+            "character": "Hand",
+            "line": "He's a liar! Agent Blake came to me with his suspicions... that Coulson and the other level eights were involved in some sort of conspiracy. Then Coulson sent him on an op that put him in the I.C.U."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson is not capable of what you're insinuating."
+        },
+        {
+            "character": "Hand",
+            "line": "Agent Jacobson, Coulson's crimes?"
+        },
+        {
+            "character": "Jacobson",
+            "line": "Recruiting known enemies of S.H.I.E.L.D., disobeying a direct order... multiple counts, violation of international law."
+        },
+        {
+            "character": "Hand",
+            "line": "To rescue our beloved Professor Hall, who ended up dead by his hand."
+        },
+        {
+            "character": "Jacobson",
+            "line": "Failure to report the crimes of his protégé, Akela Amador."
+        },
+        {
+            "character": "Hand",
+            "line": "Whose same technology somehow ended up in the head of Mr. Peterson, and you know his crimes."
+        },
+        {
+            "character": "Simmons",
+            "line": "You helped us save Coulson from the Clairvoyant."
+        },
+        {
+            "character": "Hand",
+            "line": "Yet when we found this brain-dead Clairvoyant, Coulson's man Ward shot him before we could learn a single thing about him. The lies add up, Agent Simmons. Are you telling me he's never kept a secret from you? The worst thing you can do right now is to underestimate Hydra. They hide in plain sight. They earn our trust, our sympathy. They make us like them. And when you hesitate, they strike. If we're to survive, we must learn to strike first."
+        }
+    ]
+}

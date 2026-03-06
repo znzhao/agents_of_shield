@@ -1,0 +1,139 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 7,
+    "scene_name": "CoulsonAndRandolphInterrogateEachOther",
+    "description": "Coulson interrogates Randolph back on the Bus, trying to discover his motivations and any leads on the missing staff pieces. Ward’s anger continues to escalate during the investigation, and Skye and Fitz try to talk him down. The mood is fraught as they realize the staff’s effects may be more than just physical. Simmons prepares a sedative for Ward, who resists, further highlighting the team's concern for his stability.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "skye",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "One of my men is hurt. The staff is gone."
+        },
+        {
+            "character": "Randolph",
+            "line": "I didn't want any of that to happen."
+        },
+        {
+            "character": "Coulson",
+            "line": "What did you want? The staff's power for yourself?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Nothing like that. You know, I just wanted to be the first to study it, to prove that the Berserkers were actually here, a part of history. You think about that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, I'm thinking about it."
+        },
+        {
+            "character": "Ward",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Your heart rate's rising. Adrenaline's spiking. You need to calm down, not get worked up."
+        },
+        {
+            "character": "Skye",
+            "line": "The memory... was it about your brother?"
+        },
+        {
+            "character": "Ward",
+            "line": "Drop it."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, if you need to get it out, I am here..."
+        },
+        {
+            "character": "Ward",
+            "line": "Right. To talk. Because that's what you do... talk... and talk. Don't you ever get tired of hearing your own voice?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Ward, stop."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well! This makes more sense. Ward, what you're experiencing, this feeling... it's chemistry."
+        },
+        {
+            "character": "Skye",
+            "line": "Hope so."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, spikes in his adrenocorticotropic hormone. It's like those stories you hear when a mother is able to lift a car to save her baby. An adrenaline surge can create a massive..."
+        },
+        {
+            "character": "Ward",
+            "line": "Stop talking! Just fix it!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I wish I could. We can relieve some of the symptoms. I'm going to give you 10cc of benzodiazepine."
+        },
+        {
+            "character": "Skye",
+            "line": "Chill pill. Good idea."
+        },
+        {
+            "character": "Ward",
+            "line": "A sedative? Not gonna happen."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, be reasonable. Look how you're behaving."
+        },
+        {
+            "character": "Ward",
+            "line": "And if I'm sedated and we cross paths with those juiced freaks, the ones who flip cars and smash people up, are you gonna take them on? Keep us safe? Or am I gonna have to save Simmons' ass... again?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That was just a biochemical reaction. He didn't mean all that."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I know."
+        },
+        {
+            "character": "Fitz",
+            "line": "No explanation necessary."
+        },
+        {
+            "character": "Coulson",
+            "line": "How'd they find it?"
+        },
+        {
+            "character": "Randolph",
+            "line": "I have no idea how they found it. They may have the original texts. I wasn't involved. You know, it was just a chance to uncover something that the gods brought down from the heavens."
+        },
+        {
+            "character": "Coulson",
+            "line": "Aliens brought it. From space. I've spent some one-on-one time with aliens before. Didn't work out too well. So cases like this are personal to me."
+        },
+        {
+            "character": "Randolph",
+            "line": "That's all I know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get comfortable."
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Help me! Please! Help me! Help me!"
+        }
+    ]
+}

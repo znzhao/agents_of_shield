@@ -1,0 +1,315 @@
+{
+    "season": 3,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "TenuousAllianceWithWill",
+    "description": "Inside the cave, Simmons learns her captor's name is Will and that he’s been stranded for fourteen years. Despite mistrust and tension, they gradually exchange stories and perspectives, learning that Will’s astronaut team fell victim to the planet’s malevolent entity. As they confront hopelessness, Simmons insists on searching for a way home, proposing that hope can balance out Will’s doom, forming a fragile alliance to survive together.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "Maveth (alien planet accessed via the Kree monolith)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Do you have a name?"
+        },
+        {
+            "character": "Will",
+            "line": "Will."
+        },
+        {
+            "character": "Simmons",
+            "line": "You wouldn't happen to have any alcohol, would you, Will?"
+        },
+        {
+            "character": "Will",
+            "line": "Yeah. I'll run down to the drugstore and get it for you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Would you, please? If it's not too much trouble."
+        },
+        {
+            "character": "Will",
+            "line": "You're a doctor?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not a medical doctor, but yes. I have PHDs in biology and chemistry. But I have more than my fair share of emergency work in the field. You?"
+        },
+        {
+            "character": "Will",
+            "line": "Not very sciencey."
+        },
+        {
+            "character": "Simmons",
+            "line": "You certainly came here prepared. Wish I'd had time to pack, but my trip was rather unexpected."
+        },
+        {
+            "character": "Will",
+            "line": "You come here alone?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, I'm alone. Are you?"
+        },
+        {
+            "character": "Will",
+            "line": "You're the first person I've seen in a long time."
+        },
+        {
+            "character": "Simmons",
+            "line": "How long have you been here?"
+        },
+        {
+            "character": "Will",
+            "line": "I don't know, my watch broke quickly, and it's hard to keep track of the days without a sun. What year is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "2015. You're an astronaut. If NASA sent you, they must know how to bring you back, right? This equipment is ancient. I know NASA has funding issues, but you'd think they'd upgrade for a mission like this."
+        },
+        {
+            "character": "Will",
+            "line": "It was new at the time."
+        },
+        {
+            "character": "Simmons",
+            "line": "What year did you come here?"
+        },
+        {
+            "character": "Will",
+            "line": "2001."
+        },
+        {
+            "character": "Simmons",
+            "line": "My god. You've been here 14 years."
+        },
+        {
+            "character": "Will",
+            "line": "Like I said. It's hard to keep track. You'll see."
+        },
+        {
+            "character": "Will",
+            "line": "Technology must have hit warp speed after I left."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, it's hard to keep up sometimes. If it wasn't for Fitz, I'd be lost."
+        },
+        {
+            "character": "Will",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "My best friend. He loves tech. Is this a map of the area?"
+        },
+        {
+            "character": "Will",
+            "line": "Only the areas we were able to explore."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's this, the no-fly zone?"
+        },
+        {
+            "character": "Will",
+            "line": "Off limits. Only bad things happen there. How much memory you have in this thing?"
+        },
+        {
+            "character": "Simmons",
+            "line": "120 gigabytes."
+        },
+        {
+            "character": "Will",
+            "line": "Hundred and... 120 gigabytes in this little thing. 14 years."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm sorry, but I need to conserve the battery."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz engineered it to last a long time, but it's draining. So unless you have some way to generate power..."
+        },
+        {
+            "character": "Will",
+            "line": "NASA sent us here with all the power we could ever use. Except it's all solar. And in case you haven't noticed, there's not much sunshine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Where's this light coming from?"
+        },
+        {
+            "character": "Will",
+            "line": "There's a luminescent substrata below us."
+        },
+        {
+            "character": "Simmons",
+            "line": "Huh. It's warm."
+        },
+        {
+            "character": "Will",
+            "line": "It's a natural source of heat. Keeps the planet warm without sunlight."
+        },
+        {
+            "character": "Simmons",
+            "line": "That sounds very sciencey of you."
+        },
+        {
+            "character": "Will",
+            "line": "I think it's the fires of hell."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, then."
+        },
+        {
+            "character": "Will",
+            "line": "Hey, you hungry?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You said your whole team came through the portal. How long were you supposed to be here?"
+        },
+        {
+            "character": "Will",
+            "line": "They said they could have us back within a year. But there was always a possibility it would be a one-way trip. NASA was always curious about the Monolith. Budgets for space exploration had vanished, so some small group on the inside convinced everyone it was the affordable future of space exploration. If you're not with NASA, h-how did you get into the Monolith?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's not with NASA anymore. It's with S.H.I.E.L.D. They've had it for quite some time. I'm not sure how or why."
+        },
+        {
+            "character": "Will",
+            "line": "That's real? S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It was. I was recruited right out of the academy."
+        },
+        {
+            "character": "Will",
+            "line": "I was a test pilot for the air force, recruited by NASA. Now here I am."
+        },
+        {
+            "character": "Simmons",
+            "line": "Here we are. At least you volunteered."
+        },
+        {
+            "character": "Will",
+            "line": "Yeah. I have never been able to resist doing something when I'm told the odds are impossible. When NASA wanted volunteers, I was first in line. And the first one through the portal. Me and all the gear. The other three were right behind me. They were all scientists."
+        },
+        {
+            "character": "Simmons",
+            "line": "How did NASA know there would be an hospitable planet on the other side?"
+        },
+        {
+            "character": "Will",
+            "line": "Classified above my pay grade. Our job was to collect samples, map the terrain, study the stars. My job was to keep my head if things went sideways. Keep everyone alive till they found a way to bring us back."
+        },
+        {
+            "character": "Simmons",
+            "line": "What happened to the others?"
+        },
+        {
+            "character": "Will",
+            "line": "It. It has this way of getting inside your head and just making you crazy. Austin threw himself off a cliff. Brubaker set himself on fire. Taylor took an axe to the gear, and then he came after me. I had one job. Keep them alive."
+        },
+        {
+            "character": "Simmons",
+            "line": "How did you survive?"
+        },
+        {
+            "character": "Will",
+            "line": "Oh, just managed to avoid it. Occasionally outsmart it. Mostly, just luck."
+        },
+        {
+            "character": "Simmons",
+            "line": "And if there is no “it”?"
+        },
+        {
+            "character": "Will",
+            "line": "You still think I'm making all this up?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's just that there's also a psychological reason for what happened to them. Maybe they went mad from extreme isolation. It's not uncommon."
+        },
+        {
+            "character": "Will",
+            "line": "It is for astronauts. We're trained for years of isolation."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, if they didn't go mad..."
+        },
+        {
+            "character": "Will",
+            "line": "Well, then I must have gone mad. Maybe I went crazy, and maybe I killed everyone."
+        },
+        {
+            "character": "Simmons",
+            "line": "I... I didn't..."
+        },
+        {
+            "character": "Will",
+            "line": "You have no idea what the hell's going on here."
+        },
+        {
+            "character": "Simmons",
+            "line": "I didn't mean to imply... perhaps it's best if we start over, since we're going to be working together."
+        },
+        {
+            "character": "Will",
+            "line": "Working together? On what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "On getting home."
+        },
+        {
+            "character": "Will",
+            "line": "There's no getting home. The sooner you accept that, the better. Survival's all that matters."
+        },
+        {
+            "character": "Simmons",
+            "line": "I will not accept that. There's always hope."
+        },
+        {
+            "character": "Will",
+            "line": "Not on this planet."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then that's how we'll work together. I'll be the voice of hope. You'll be the voice of doom. We'll keep each other in check. Deal? See? It's working already."
+        },
+        {
+            "character": "Will",
+            "line": "No, it's not."
+        },
+        {
+            "character": "Will",
+            "line": "Ice-cold beer."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Truffle fries."
+        },
+        {
+            "character": "Will",
+            "line": "Steak, medium-rare, and another ice-cold beer."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mm-hmm. Wine. Oh, I'd kill for a glass of wine. What do you miss that's not food?"
+        },
+        {
+            "character": "Will",
+            "line": "Well, the sun, without a doubt. You?"
+        }
+    ]
+}

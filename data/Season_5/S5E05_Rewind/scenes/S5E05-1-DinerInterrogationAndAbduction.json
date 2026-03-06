@@ -1,0 +1,180 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 1,
+    "scene_name": "DinerInterrogationAndAbduction",
+    "description": "Fitz and the rest of the S.H.I.E.L.D. team are enjoying a meal together when Enoch appears, followed by a power outage and a sudden raid. Fitz is arrested after his teammates mysteriously vanish. The military interrogates Fitz, demanding information on the disappearance of the others and questioning his involvement. Fitz repeatedly asserts his ignorance about the situation while trying to piece together what happened.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "phil_coulson",
+        "melinda_may",
+        "enoch",
+        "hale"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You're not eating."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no. Not really hungry."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, I think this is the first time we've all been together in a really long time."
+        },
+        {
+            "character": "Woman",
+            "line": "Anybody have room for some pie? Okay, so we have apple, strawberry, rhubarb, and chocolate banana cream."
+        },
+        {
+            "character": "May",
+            "line": "Here we go."
+        },
+        {
+            "character": "Enoch",
+            "line": "Phillip J. Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yep, that's me. You got us. Nice work. And congrats on the whole power-outage thing. That was very ominous."
+        },
+        {
+            "character": "Fitz",
+            "line": "This is my fault. I'm gonna take full responsibility. Jemma?"
+        },
+        {
+            "character": "Man",
+            "line": "Hands in the air! Don't move!"
+        },
+        {
+            "character": "Evans",
+            "line": "Where are the other six?"
+        },
+        {
+            "character": "Lucas",
+            "line": "Where are they? Where'd they go?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know."
+        },
+        {
+            "character": "Evans",
+            "line": "Take him."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. No. Hey, hey, hey. Hey, let go. Wait! Just wait! I didn't do anything! Something happened here! It wasn't me! I need to find them!"
+        },
+        {
+            "character": "Evans",
+            "line": "Footage from the damaged security camera confirms you all walked in together at 8:54 p.m."
+        },
+        {
+            "character": "Lucas",
+            "line": "But at 9:47, when we arrived, you were the only one there. How'd they get out? Where'd they go?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. Okay. So, you're saying it wasn't on the security camera?"
+        },
+        {
+            "character": "Lucas",
+            "line": "They conveniently blacked out just over two minutes before we arrived."
+        },
+        {
+            "character": "Evans",
+            "line": "What happened during those two minutes?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I swear I'm telling you the truth, I don't know."
+        },
+        {
+            "character": "Lucas",
+            "line": "Do you like Bendeery English Ale?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Lucas",
+            "line": "Security cameras captured a Bendeery truck parked just in front of the diner before we arrived. Then it just disappeared, like your friends."
+        },
+        {
+            "character": "Evans",
+            "line": "We've... We've read your dossier, Fitz. It's impressive."
+        },
+        {
+            "character": "Lucas",
+            "line": "The Big Bad Brain of S.H.I.E.L.D."
+        },
+        {
+            "character": "Evans",
+            "line": "Did you help them escape with some kind of new S.H.I.E.L.D. technology? How did you know we were coming?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I didn't! There was no crystal ball or... or, “Beam me up, Scotty.” I don't know how they got away. I have a theory. You did it. You drugged our food or, uh, used some kind of gas, and now you have them in rooms just like this one, and you're messing with their mind like you're messing with mine. So why don't you tell me where the hell are they? Oh, come on. Who the hell is in charge here?!"
+        },
+        {
+            "character": "Hale",
+            "line": "Well, it's not General Talbot, since Agent Johnson put a bullet in his head."
+        },
+        {
+            "character": "Fitz",
+            "line": "That wasn't her. That was... That was an LMD."
+        },
+        {
+            "character": "Hale",
+            "line": "Oh, right. Alibis by Asimov, huh? Blame it on the robot."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, that's true."
+        },
+        {
+            "character": "Hale",
+            "line": "If it is, it was built and programmed by S.H.I.E.L.D."
+        },
+        {
+            "character": "Fitz",
+            "line": "It was built by an android called AIDA, and it answered to her, it."
+        },
+        {
+            "character": "Hale",
+            "line": "Is that the one that killed Dr. Holden Radcliffe?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes."
+        },
+        {
+            "character": "Hale",
+            "line": "And Jeffrey Mace?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, I'm responsible for that death. Okay? I'm telling you the truth, I'm responsible."
+        },
+        {
+            "character": "Hale",
+            "line": "Is that why they left you behind? For you to take the blame, huh?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, they wouldn't leave me. They wouldn't... I'm done."
+        },
+        {
+            "character": "Hale",
+            "line": "You're done when I say you're done. And if you don't cooperate, you're gonna be here for a very long time. Do you understand?"
+        }
+    ]
+}

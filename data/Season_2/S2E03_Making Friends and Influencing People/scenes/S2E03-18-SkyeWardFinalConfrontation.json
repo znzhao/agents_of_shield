@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 18,
+    "scene_name": "SkyeWardFinalConfrontation",
+    "description": "In a final conversation, Skye questions Ward directly about Hydra's methods, particularly brainwashing. Ward admits he was not brainwashed but acted according to his own choices. He reveals a bombshell: Skye's father is still alive and searching for her. The scene ends on a tense, emotional note as Skye abruptly concludes the interview.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Relieved it's not Fitz?"
+        },
+        {
+            "character": "Ward",
+            "line": "Happy it's you, that you're okay. I'm, uh, glad I could help."
+        },
+        {
+            "character": "Skye",
+            "line": "You said Hydra had a way of convincing people. You were talking about brainwashing, weren't you?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's not done often, but it's done. It's a lot of work, and some people aren't susceptible. It's mostly used on high-value targets."
+        },
+        {
+            "character": "Skye",
+            "line": "Like you?"
+        },
+        {
+            "character": "Ward",
+            "line": "I wish I could say that's what happened. But I swore I'd never lie to you. No. I was never brainwashed. Everything I did, good and bad, I did of my own free will. Do you believe I'm telling you the truth?"
+        },
+        {
+            "character": "Skye",
+            "line": "I just don't know why. I don't know what you hope to achieve by..."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't hope for me. I hope for you. I know something. And I want you to believe me when I say it. Your father is alive. He's looking for you. And someday, if you let me, I'll take you to him."
+        },
+        {
+            "character": "Skye",
+            "line": "We're done here."
+        }
+    ]
+}

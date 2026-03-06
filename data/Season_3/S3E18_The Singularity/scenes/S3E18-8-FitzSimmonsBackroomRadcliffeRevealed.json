@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 8,
+    "scene_name": "FitzSimmonsBackroomRadcliffeRevealed",
+    "description": "FitzSimmons are tricked into performing eye surgery, only for Simmons to realize the 'patient' is Dr. Radcliffe himself, testing their ethical mettle. After a tense discussion about transhumanist ideals and FitzSimmons’ true motives, Radcliffe discovers Mack is on comms, raising the stakes further. The situation escalates when Radcliffe’s guards attempt to eject them, but Fitz fights to explain their need for a cure for Hive's infection.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "intense",
+    "location": "Bucharest transhumanist club (black-market for cybernetics / Radcliffe contact)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Then it's decided. All right, sir, I'm just going to need to numb the area before we begin. Okay. You might feel a slight pinch."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ugh. What kind of a sick game is this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons, what's going on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a prosthetic."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, you certainly weren't afraid you were wrong. What tipped it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That your eye's not entirely human."
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mammals don't have ciliary muscles in their vascular layer, but that eye does, so what is it? Some kind of avian hybrid?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Why would... Why would you..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Birds' visual acuity is superior to mammals. I was envious."
+        },
+        {
+            "character": "Simmons",
+            "line": "But I don't... Why all the..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Smoke and mirrors? It's a fair question. To put it simply, I'm selective about who I work with. I believe that art and science are entwined. The devil, and God, is in the details. I don't want people to see my work and know it's work. If they give a second glance, I want it to be out of awe, not disgust. May I?"
+        }
+    ]
+}

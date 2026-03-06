@@ -1,0 +1,102 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 12,
+    "scene_name": "MayLMDRevealedAndDarkholdStandoff",
+    "description": "May LMD refuses to hand the Darkhold to Coulson and pulls a gun on him, revealing her true nature as a Life Model Decoy. Coulson confronts her, demanding to know where the real May is, while Daisy incapacitates the LMD after a short struggle. This tense confrontation confirms the team's fears and sets up a dangerous standoff as Shockley's Watchdogs move in.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sam_koenig"
+    ],
+    "vibe": "intense",
+    "location": "Labyrinth (secret S.H.I.E.L.D. facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Here. Give it to me. No need for you to be the target. May? What's going on? Give it to me."
+        },
+        {
+            "character": "May",
+            "line": "I can't."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you doing, May? Put the gun down."
+        },
+        {
+            "character": "May",
+            "line": "I'm sorry, Coulson. I can't. This is the right thing to do. Leave me alone, and I'll take care of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Destroy it. Yeah, that's the plan. Now lower your damn weapon and give me the Darkhold!"
+        },
+        {
+            "character": "May",
+            "line": "I can't!"
+        },
+        {
+            "character": "Coulson",
+            "line": "'Cause it's not in your programming."
+        },
+        {
+            "character": "May",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not May."
+        },
+        {
+            "character": "May",
+            "line": "Why would you say that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because there's some things you can't fake. He switched you, didn't he? How long have you been... So this is what Radcliffe programmed you to do?"
+        },
+        {
+            "character": "May",
+            "line": "I didn't know what my mission was until I had my hands on it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's the real May?"
+        },
+        {
+            "character": "May",
+            "line": "I am the real May! Her thoughts, her memories, her desires, that's all real."
+        },
+        {
+            "character": "Coulson",
+            "line": "May would never betray me."
+        },
+        {
+            "character": "May",
+            "line": "Radcliffe made some adjustments. Aah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "So, May's a freakin' robot."
+        },
+        {
+            "character": "Coulson",
+            "line": "How did you know?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz and Simmons..."
+        },
+        {
+            "character": "May",
+            "line": "Aah! Aah! Aah!"
+        },
+        {
+            "character": "May",
+            "line": "No! No!"
+        }
+    ]
+}

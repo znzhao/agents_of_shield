@@ -1,0 +1,41 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "SenatorNadeerAndVijayDiscussThePast",
+    "description": "Vijay wakes up and talks to his sister, Senator Nadeer, about the past, particularly about their mother’s death during the Chitauri attack. Nadeer is evasive about why Vijay has been hidden and what happened during his Terrigenesis cocoon. Tension brews as Nadeer's true intentions remain ambiguous.",
+    "roles": [],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Vijay",
+            "line": "Ellen."
+        },
+        {
+            "character": "Ellen",
+            "line": "Glad you finally woke up. Looked like you were having bad dreams."
+        },
+        {
+            "character": "Vijay",
+            "line": "It was about Mom's birthday, when the Chitauri attacked."
+        },
+        {
+            "character": "Ellen",
+            "line": "Worst day of my life. Though finding you in that cocoon seven months ago was a close second."
+        },
+        {
+            "character": "Vijay",
+            "line": "Seven months? I was gone that long? What is this, Ellen? Why are we here?"
+        },
+        {
+            "character": "Ellen",
+            "line": "I needed a place for us to be alone, just you and me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Somehow, I feel responsible for whatever happens next."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 12,
+    "scene_name": "CoulsonRescuedAndReunited",
+    "description": "The team successfully rescues Coulson from Centipede’s facility. Skye, May, Fitz, and Simmons stabilize Coulson. Raina is subdued, and Victoria Hand congratulates the team on their global operations against Centipede. The team is finally reunited aboard the Bus, sharing moments of relief and camaraderie as Coulson thanks his team for everything.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "victoria_hand",
+        "raina"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Nice jacket."
+        },
+        {
+            "character": "Simmons",
+            "line": "Bet there aren't any flowered dresses where she's going."
+        },
+        {
+            "character": "Fitz",
+            "line": "Amen to that, sister."
+        },
+        {
+            "character": "Hand",
+            "line": "Dismissed."
+        },
+        {
+            "character": "Agent",
+            "line": "Let's go, madam."
+        },
+        {
+            "character": "Hand",
+            "line": "Just got off the phone with headquarters. Director Fury was very relieved."
+        },
+        {
+            "character": "Coulson",
+            "line": "I understand you've been busy. Heard you put some miles on my plane."
+        },
+        {
+            "character": "Hand",
+            "line": "The manhunt has yielded some impressive results. Centipede operations have been taken down around the globe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any word on the Clairvoyant?"
+        },
+        {
+            "character": "Hand",
+            "line": "Nothing yet, but it's gonna be awfully hard to stay hidden now that the Clairvoyant's on S.H.I.E.L.D.'s radar."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good, because Raina knew things about me... personal things. I want to know how."
+        },
+        {
+            "character": "Hand",
+            "line": "My men and I are taking her straight to headquarters for questioning. We'll be in touch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Hand? Thank you... for everything."
+        },
+        {
+            "character": "Hand",
+            "line": "Good to have you back. Honestly, this bus isn't really my style."
+        },
+        {
+            "character": "Coulson",
+            "line": "I just want to say... thank you. Now get back to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "I heard what you did for me. I think it's time... that we remove this. Disengage bracelet."
+        },
+        {
+            "character": "Skye",
+            "line": "Are you kidding me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Thought you'd like that."
+        },
+        {
+            "character": "Skye",
+            "line": "Back in that room, did they learn anything?"
+        },
+        {
+            "character": "Skye",
+            "line": "Did you? I heard what you were saying."
+        },
+        {
+            "character": "Coulson",
+            "line": "It wasn't real. They were just messing with my head... but I appreciate your concern."
+        }
+    ]
+}

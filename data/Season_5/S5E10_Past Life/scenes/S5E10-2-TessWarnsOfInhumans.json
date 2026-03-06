@@ -1,0 +1,99 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 2,
+    "scene_name": "TessWarnsOfInhumans",
+    "description": "Tess tells Fitz, Mack, and Elena there are more humans in danger in the Lighthouse. She recalls overhearing another revival when she was brought back and Elena insists on rescuing whoever it is herself in Tess's place. Mack is concerned for everyone's safety but agrees, emphasizing the importance of rescuing survivors. The team splits up to pursue different objectives.",
+    "roles": [
+        "tess",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Tess",
+            "line": "We can't go yet. There are still people in danger."
+        },
+        {
+            "character": "Mack",
+            "line": "Coulson's on it. He's rescuing the Inhumans right now."
+        },
+        {
+            "character": "Tess",
+            "line": "But not the dead ones. Look. When I was brought back, I heard someone else going through the same pain, the same process."
+        },
+        {
+            "character": "Mack",
+            "line": "Being revived? Who?"
+        },
+        {
+            "character": "Flint",
+            "line": "Some Inhuman. Has to be."
+        },
+        {
+            "character": "Elena",
+            "line": "They're the only thing Kasius values."
+        },
+        {
+            "character": "Tess",
+            "line": "Look, if we don't find them, nobody will. It's a whole other section..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but right now, you need to get on that trawler. People are depending on you to fly them up to safety."
+        },
+        {
+            "character": "Elena",
+            "line": "Show me where to go, I'll go. Tess is needed at the trawler. You guys meet FitzSimmons. I'll save whoever I can and meet you at the rendezvous. Easy."
+        },
+        {
+            "character": "Mack",
+            "line": "Nothing about that sounds easy."
+        },
+        {
+            "character": "Coulson",
+            "line": "You two get that thing to Flint. We'll worry about survivors."
+        },
+        {
+            "character": "Deke",
+            "line": "And kill Kasius."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get them to safety."
+        },
+        {
+            "character": "Deke",
+            "line": "And then we kill Kasius? When does that happen? Because some of us aren't getting out of here on a magic rock."
+        },
+        {
+            "character": "Coulson",
+            "line": "We won't leave until humanity's in control of its future. But in the meantime, everyone do your job, meet at the rendezvous point."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, it's an Inhuman in pain. I have to go."
+        },
+        {
+            "character": "Tess",
+            "line": "Look at you. A few days ago, you were begging for spare mushrooms. Now you're the kid who's saving the world."
+        },
+        {
+            "character": "Flint",
+            "line": "Don't say that. I liked it better when I was flying under the radar."
+        },
+        {
+            "character": "Tess",
+            "line": "Kid without hair, you were never under the radar. You'll do great. Get back safe, okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "Take care of the big guy. He worries."
+        }
+    ]
+}

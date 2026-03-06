@@ -1,0 +1,92 @@
+{
+    "season": 3,
+    "episode": 15,
+    "num": 14,
+    "scene_name": "ShowdownOnTheRooftop",
+    "description": "On the Transia rooftop, Daisy faces Malick—now armed with exoskeleton-enhanced strength. The fight is brutal and one-sided until Charles intervenes, using his power to force Malick to experience a vision. Malick relents, escaping in a helicopter. Daisy and Charles share a final emotional moment as he dies, imploring Daisy to protect his daughter. Daisy receives a final, ominous vision of a space shuttle's destruction.",
+    "roles": [
+        "skye",
+        "gideon_malick",
+        "grant_ward",
+        "giyera",
+        "lincoln",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "Transia Corporation facility (Michigan / corporate sites)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Aah!"
+        },
+        {
+            "character": "Malick",
+            "line": "Power is intoxicating, isn't it? And he's right, you never really feel it until you take someone else's away from them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson, come in. Where are they?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just had an awful thought. What if the death Daisy saw was her own?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln, do you read? All units, stop! Do not pursue! Lincoln, where are you?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I have eyes on Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do not engage. I repeat, do not engage. Lincoln, we don't know what we're dealing with here. Pull out."
+        },
+        {
+            "character": "Malick",
+            "line": "Time to say goodbye."
+        },
+        {
+            "character": "Charles",
+            "line": "Ohh."
+        },
+        {
+            "character": "Daisy",
+            "line": "I was sure I could save you. But you were meant to save me."
+        },
+        {
+            "character": "Charles",
+            "line": "I finally made a difference."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's not snow."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think we're supposed to hold hands now. Maybe some things are inevitable."
+        },
+        {
+            "character": "Charles",
+            "line": "I made this for my daughter. I couldn't bear to leave them, but I had to protect Robin from this."
+        },
+        {
+            "character": "Daisy",
+            "line": "You did."
+        },
+        {
+            "character": "Charles",
+            "line": "But now I'm afraid that she could grow up to be like me. So she will always need protection. I was hoping you could help."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes. I'll protect her, I promise. Always."
+        },
+        {
+            "character": "Charles",
+            "line": "I'm so sorry."
+        }
+    ]
+}

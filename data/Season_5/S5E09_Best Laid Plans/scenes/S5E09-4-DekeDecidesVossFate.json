@@ -1,0 +1,43 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 4,
+    "scene_name": "DekeDecidesVossFate",
+    "description": "Deke confronts Voss over past deaths and whether or not to kill him for his betrayal. Voss confesses to killing Deke's father and tries to justify his choices in the dark world they live in, while Deke struggles with the morality of letting Voss live or executing him.",
+    "roles": [
+        "deke_shaw"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Voss",
+            "line": "You're upset. I don't blame you. Think about what you're doing here."
+        },
+        {
+            "character": "Deke",
+            "line": "You killed him."
+        },
+        {
+            "character": "Voss",
+            "line": "Me and Owen were lockstep in almost everything. Always agreed to pull these people out of the past, but once they got here, we never saw eyetoeye on that. He thought they'd come with some grand solution. I thought killing them was the solution. You know how stubborn your old man could be."
+        },
+        {
+            "character": "Deke",
+            "line": "You were his best friend."
+        },
+        {
+            "character": "Voss",
+            "line": "Yeah. Up until the day he tried to end that argument for good. Came at me with a knife, and the knife ended up in his throat. You know he was capable of it. Not how I wanted it to go down, but I did what I had to do."
+        },
+        {
+            "character": "Deke",
+            "line": "It was all for nothing. You haven't done a damn thing."
+        },
+        {
+            "character": "Voss",
+            "line": "We survived a decade in this hellscape! You have no idea what we went through, what we sacrificed for this. And now the people responsible are upstairs. We could finish it, but you want to kill me? You're no killer. It's fine. Like your dad used to say, play the long game. Kasius thinks Quake is his ticket out of here. Let him have her. What's the worst that could happen? She goes back in time, you already know what will happen."
+        }
+    ]
+}

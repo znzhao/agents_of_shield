@@ -1,0 +1,71 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 14,
+    "scene_name": "VossAttacksDaisyStabsRobin",
+    "description": "Voss and his followers move to kill Daisy, blaming her for the Earth's destruction, but she resists. In the chaos, Voss stabs Robin to prevent her from revealing the solution to returning home. May and Coulson are separated in the commotion, and May moves to comfort the dying Robin. The scene is tragic and pivotal, as Robin’s visions begin to overlap with her final moments.",
+    "roles": [
+        "skye",
+        "deke_shaw",
+        "phil_coulson",
+        "melinda_may",
+        "robin_hinton"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Robin",
+            "line": "Daisy... Daisy! He has a knife."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll make sure this never happens."
+        },
+        {
+            "character": "Voss",
+            "line": "We can tempt fate, or we can make sure you never get back."
+        },
+        {
+            "character": "Daisy",
+            "line": "What is this?"
+        },
+        {
+            "character": "Voss",
+            "line": "It's your life or the lives of billions. Aah! Aah!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Robin, stay back!"
+        },
+        {
+            "character": "Robin",
+            "line": "This is the last day."
+        },
+        {
+            "character": "Voss",
+            "line": "I was hoping I could get to her, but if not I can't have you give her the answers. I'm sorry. It's the only option I have left."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Robin!"
+        },
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy."
+        },
+        {
+            "character": "May",
+            "line": "Go. I'll catch up."
+        },
+        {
+            "character": "Coulson",
+            "line": "And here I thought we were getting along."
+        }
+    ]
+}

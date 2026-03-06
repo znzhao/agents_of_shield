@@ -1,0 +1,40 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "skye",
+        "carl_creel",
+        "glenn_talbot",
+        "deke_shaw",
+        "ruby",
+        "hale",
+        "robin_hinton"
+    ],
+    "aliases": [
+        "Coulson",
+        "Fitz",
+        "Jemma",
+        "May",
+        "Elena",
+        "Mack",
+        "Daisy",
+        "Creel",
+        "Talbot",
+        "Deke",
+        "Ruby",
+        "Hale",
+        "Robin"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Hydra"
+    ],
+    "locations": [
+        "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)"
+    ]
+}

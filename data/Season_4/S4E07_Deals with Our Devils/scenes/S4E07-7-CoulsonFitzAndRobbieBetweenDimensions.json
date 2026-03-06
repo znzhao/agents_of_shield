@@ -1,0 +1,381 @@
+{
+    "season": 4,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "CoulsonFitzAndRobbieBetweenDimensions",
+    "description": "The episode shifts perspective to reveal that Coulson, Fitz, and Robbie have been present all along—invisible and trapped between dimensions as a result of Eli's experiment. They struggle to comprehend their predicament, unable to communicate with their teammates, and witness Eli's crimes helplessly. Fitz reasons out their state and the science behind their 'quantum phase,' while Robbie begins feeling ominous cold, suggesting further supernatural effects are imminent.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "robbie_reyes"
+    ],
+    "vibe": "mysterious",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sir?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "You okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Where's Eli?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. What happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Eli locked himself inside, triggered the device, then everything just went white."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I got hit with the same blast."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know what it was?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Best bet is this chamber's some kind of of particle generator. I think we got hit with the fallout when Eli blasted himself."
+        },
+        {
+            "character": "Coulson",
+            "line": "I feel okay. Was it radiation?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. I think we got lucky."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd like to find Eli and ask him myself."
+        },
+        {
+            "character": "May",
+            "line": "What happened? I expected a crater."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thank God."
+        },
+        {
+            "character": "Mack",
+            "line": "No explosion."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, I was pretty psyched about that. Eli triggered the Silo right in front of me."
+        },
+        {
+            "character": "Mack",
+            "line": "The room seems stable. Was it some kind of energy weapon?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, it's not a weapon, 'cause Eli used it on himself."
+        },
+        {
+            "character": "Mack",
+            "line": "This all feels wrong."
+        },
+        {
+            "character": "Coulson",
+            "line": "He got the knowledge from the Darkhold. We need to grab him."
+        },
+        {
+            "character": "Fitz",
+            "line": "Do you think he was trying to enhance himself?"
+        },
+        {
+            "character": "May",
+            "line": "No Fitz, either."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What?"
+        },
+        {
+            "character": "May",
+            "line": "I don't get it."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, what are you..."
+        },
+        {
+            "character": "May",
+            "line": "There should be some sign of them. It's like they vanished."
+        },
+        {
+            "character": "Fitz",
+            "line": "Mack. Mack. Hey! Big man, over here! Over here! Hey!"
+        },
+        {
+            "character": "May",
+            "line": "Coulson, Fitz, report in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah! Report! I'm reporting!"
+        },
+        {
+            "character": "Coulson",
+            "line": "May, I'm right here!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Reporting! The blast must have altered our state somehow."
+        },
+        {
+            "character": "Coulson",
+            "line": "You think? Wait. What are they doing? Do we look that stupid on comms?"
+        },
+        {
+            "character": "Mack",
+            "line": "Eli. Let's see what he knows."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't lose them. Fitz, come on!"
+        },
+        {
+            "character": "Robbie",
+            "line": "I heard some troubling things from Lucy. You try to kill them? You were behind this the whole time!"
+        },
+        {
+            "character": "Agent",
+            "line": "Mr. Morrow, we're here to escort you out of here."
+        },
+        {
+            "character": "Robbie",
+            "line": "What did you do?"
+        },
+        {
+            "character": "Agent",
+            "line": "He's armed!"
+        },
+        {
+            "character": "Robbie",
+            "line": "Tío, keep your head, man. Don't do anything stupid."
+        },
+        {
+            "character": "Eli",
+            "line": "It's beautiful, no? Pure carbon."
+        },
+        {
+            "character": "Agent",
+            "line": "Sir, you have to put down the weapon."
+        },
+        {
+            "character": "Robbie",
+            "line": "Tío, don't hurt them. Get away from him! I'm sorry. I couldn't help them."
+        },
+        {
+            "character": "Mack",
+            "line": "We're into nightmare territory here."
+        },
+        {
+            "character": "Robbie",
+            "line": "You can't hear me, can you?"
+        },
+        {
+            "character": "Mack",
+            "line": "This is evil. This is..."
+        },
+        {
+            "character": "May",
+            "line": "It's Eli."
+        },
+        {
+            "character": "Robbie",
+            "line": "I couldn't stop him."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not your fault."
+        },
+        {
+            "character": "Robbie",
+            "line": "You can see me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, Robbie. We see you."
+        },
+        {
+            "character": "Robbie",
+            "line": "What did he do to us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I hate watching my own demise."
+        },
+        {
+            "character": "Robbie",
+            "line": "I don't think we're dead. I feel sick. My stomach hurts. And the lights are darker, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "The lights. Yeah. Their voices are hard to hear. They can't penetrate wherever we are."
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you mean “where we are?” Do you understand what this is?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I think I understand why Lucy and her friends looked like ghosts now. They were out of phase with our reality. It's like the... the invisible quantum mechanics inside the boxes, moving in and out of our dimension. Lucy and her friends were stuck in between, and now we are, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trapped between dimensions?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, that shock wave. That wasn't turbulence... that was... that was... friction between two dimensions."
+        },
+        {
+            "character": "Robbie",
+            "line": "Dude. What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, imagine the world is a... is a raft floating on water, and Eli punches a hole right at our feet. We're getting sucked down into... who knows what?"
+        },
+        {
+            "character": "May",
+            "line": "Or maybe they're gone. May."
+        },
+        {
+            "character": "Coulson",
+            "line": "Plus, we've been pulled further than Lucy ever was. We can't affect them, or even our own environment. And wherever we are, they think we're dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we may well be soon."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you, finally."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're gonna tell her I'm dead. I've got to phone her, let her know that I'm in another dimension. That's not gonna work. Oh, what's she gonna think?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, we're gonna find our way home. Focus on that. We're gonna figure this out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, okay, well, we better do it fast, 'cause whatever water we're treading, we're sinking."
+        },
+        {
+            "character": "May",
+            "line": "I bet he hired the Chinatown Crew..."
+        },
+        {
+            "character": "Robbie",
+            "line": "The Chinatown Crew."
+        },
+        {
+            "character": "May",
+            "line": "... to steal the box in the first place."
+        },
+        {
+            "character": "Robbie",
+            "line": "I think they're right about that. I can help find them."
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll need to know we're alive first. You got any hell-demon tricks up your sleeve?"
+        },
+        {
+            "character": "Robbie",
+            "line": "No. He's fighting me right now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then we'll stick together, and we'll find a way to make them hear us. All of us."
+        },
+        {
+            "character": "Mace",
+            "line": "I'll call her now."
+        },
+        {
+            "character": "May",
+            "line": "Mace. When you talk to her..."
+        },
+        {
+            "character": "Mace",
+            "line": "I know what Agent Fitz means to her."
+        },
+        {
+            "character": "Robbie",
+            "line": "Fitz."
+        },
+        {
+            "character": "Mace",
+            "line": "Were you able to get Simmons on the line?"
+        },
+        {
+            "character": "Burrows",
+            "line": "They confiscated her phone. But I do have Senator Nadeer on the line, sir."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yo, Fitz, you're a doctor, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, not exactly. Hold on."
+        },
+        {
+            "character": "Mace",
+            "line": "They wouldn't let us talk to her?"
+        },
+        {
+            "character": "Fitz",
+            "line": "They're dealing with the Senator that hates Inhumans. How the hell did Simmons get mixed up with all this?"
+        },
+        {
+            "character": "Mace",
+            "line": "Senator, thank you for taking my call. Yes, we have a crisis brewing, and I know we had an arrangement, but, uh, I need Simmons to return immediately. Ellen, you have generously kept this situation quiet, and I thank you, but we're past that now. I need Simmons back. Lives are on the line. Wait. What do you mean? Where is she?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What situation? What have you done?"
+        },
+        {
+            "character": "Mace",
+            "line": "She hung up. Tell me you put a tracker on Simmons or something."
+        },
+        {
+            "character": "Burrows",
+            "line": "We didn't know we'd need one."
+        },
+        {
+            "character": "Mace",
+            "line": "Damn it."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 15,
+    "scene_name": "RandolphLearnsAboutInhumans",
+    "description": "In the aftermath, the team debriefs at the castle. Randolph is curious about Daisy’s origins, and Coulson explains the concept of Inhumans. The portal is now destroyed. This scene reflects on the stakes of the episode and the broader world implications, encapsulating both closure and the foreshadowing of future developments.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "hopeful",
+    "location": "English castle (site of the monolith / Distant Star Pathfinder facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "No sign of radiation or infection. Fitz would never have found her, but she saw the flare. We brought a woman back from the dead today."
+        },
+        {
+            "character": "Randolph",
+            "line": "And, happily, you kept up your end of the bargain. The portal is destroyed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank Daisy for that."
+        },
+        {
+            "character": "Randolph",
+            "line": "Yeah. Agent Coulson, what exactly is Daisy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They call themselves Inhumans."
+        },
+        {
+            "character": "Randolph",
+            "line": "I have not heard that word in a very long time."
+        }
+    ]
+}

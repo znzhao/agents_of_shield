@@ -1,0 +1,247 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 12,
+    "scene_name": "CoulsonRedirectsTheMission",
+    "description": "Coulson and Rosalind discuss the situation as they fly, with Daisy and Mack bringing Lincoln aboard Zephyr One. Lincoln shares his knowledge about Lash’s pattern of targeting Inhumans, deducing that Andrew is the prime suspect due to his access to Jiaying’s ledger. Coulson decides to reroute the mission, postponing the presidential meeting to save May and catch Andrew. Tensions run high as the team races against time.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "lincoln",
+        "gideon_malick"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Where did they go after May dismissed the security detail? Update me as you know more."
+        },
+        {
+            "character": "Price",
+            "line": "Everything all right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not sure yet. Could be as simple as a workplace romance gone wrong."
+        },
+        {
+            "character": "Price",
+            "line": "That doesn't sound simple."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think you were in the middle of telling me what great friends you and Daisy are now."
+        },
+        {
+            "character": "Price",
+            "line": "I may have overstepped. But one thing's for certain, that girl's got fire."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you still haven't told anyone about her?"
+        },
+        {
+            "character": "Price",
+            "line": "I keep my promises, Phil. They have no idea. New look?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Old look, actually. It's been a while, though."
+        },
+        {
+            "character": "Price",
+            "line": "Uh, may I?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Sure."
+        },
+        {
+            "character": "Price",
+            "line": "So, you gonna tell me what really happened? 'Cause I'm not quite buying the shark-attack bit."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not buying that? One of my men cut it off. Saved my life."
+        },
+        {
+            "character": "Price",
+            "line": "By chopping off your hand?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You kind of had to be there."
+        },
+        {
+            "character": "Price",
+            "line": "Does it hurt?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Every day."
+        },
+        {
+            "character": "Price",
+            "line": "Phantom pain. The thing that's missing is the thing that you feel the most."
+        },
+        {
+            "character": "Coulson",
+            "line": "Makes it hard to forget."
+        },
+        {
+            "character": "Price",
+            "line": "So maybe you don't. But it's also important to look ahead, see what's in front of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "We close to Norad?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. Another Quinjet's requested to dock."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln, what are you doing here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Where'd you find him?"
+        },
+        {
+            "character": "Mack",
+            "line": "He came to me. He's got intel on Lash."
+        },
+        {
+            "character": "Lincoln",
+            "line": "She ATCU?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're working together now."
+        },
+        {
+            "character": "Price",
+            "line": "Yeah, we all want to catch that thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, Mr. Campbell, you've come this far. What do you have to say?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Those of us from Afterlife, we were trained to blend in."
+        },
+        {
+            "character": "Price",
+            "line": "Afterlife?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll explain later."
+        },
+        {
+            "character": "Lincoln",
+            "line": "And yet that thing keeps finding us, killed most of my friends."
+        },
+        {
+            "character": "Mack",
+            "line": "Lincoln gave me names. I checked them against the bodies we could identify."
+        },
+        {
+            "character": "Lincoln",
+            "line": "That's how I knew Lash was using Jiaying's ledger to find us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Her ledger?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "She kept a genealogy of Inhumans. She was the only one allowed to use it, until..."
+        },
+        {
+            "character": "Mack",
+            "line": "Until S.H.I.E.L.D. recovered it. And there's only one person I know who had access."
+        },
+        {
+            "character": "Coulson",
+            "line": "Dr. Garner? But there's no way. It's not possible."
+        },
+        {
+            "character": "Mack",
+            "line": "I didn't want to believe it, either."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you're not just saying Andrew has the ledger. You're saying..."
+        },
+        {
+            "character": "Mack",
+            "line": "I saw May access his flight logs this morning."
+        },
+        {
+            "character": "Daisy",
+            "line": "I talked with her. She was upset, but I thought that she..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She and Andrew are missing. I just got word."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, God."
+        },
+        {
+            "character": "Coulson",
+            "line": "Reroute the plane. New York. Pull all the satellite footage from the Cocoon. We need to find them."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't believe I'm saying this, but the president's gonna have to wait."
+        },
+        {
+            "character": "Price",
+            "line": "Whatever you need, I'll let them know."
+        },
+        {
+            "character": "Daisy",
+            "line": "Andrew wouldn't hurt her."
+        },
+        {
+            "character": "Lincoln",
+            "line": "He's killed dozens of us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, what if he doesn't know what he's doing once he turns? He blacks out or something?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Inhumans can't change form. That's not how it works."
+        },
+        {
+            "character": "Daisy",
+            "line": "I saw it myself!"
+        },
+        {
+            "character": "Lincoln",
+            "line": "No, what I'm saying is, it's temporary. He won't always be able to shift between monster and man. He's still in transition. Becoming Inhuman."
+        },
+        {
+            "character": "Coulson",
+            "line": "And when that transition's complete?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "He'll stay Lash, permanently. The man you think you know is disappearing, if he's not already gone."
+        }
+    ]
+}

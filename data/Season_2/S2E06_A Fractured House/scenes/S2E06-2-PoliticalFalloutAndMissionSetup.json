@@ -1,0 +1,265 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 2,
+    "scene_name": "PoliticalFalloutAndMissionSetup",
+    "description": "While Talbot and Senator Christian Ward argue over S.H.I.E.L.D.'s fate and discuss strategy, Coulson and Skye discuss the implications of Senator Ward's involvement. Coulson issues orders for agents in the Netherlands to go dark to avoid immediate danger. Hunter and Morse navigate their awkward working relationship as they're sent, along with May, to hunt down the weapons supplier in Japan. Fitz and Simmons try to repair a damaged hard drive, revealing continued emotional strain between them.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "skye",
+        "lance_hunter",
+        "melinda_may",
+        "jemma_simmons",
+        "bobbi_morse"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Christian Ward",
+            "line": "You're lucky to be alive, general."
+        },
+        {
+            "character": "Talbot",
+            "line": "My lucky day."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "It was my understanding that you had S.H.I.E.L.D. under control. Otherwise, I don't know why I persuaded the armed services committee to give your unit such extraordinary funding."
+        },
+        {
+            "character": "Talbot",
+            "line": "Because it worked... until this morning."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "I don't think anything before today matters now, does it? S.H.I.E.L.D. attacked the United Nations, for god's sake, under your watch."
+        },
+        {
+            "character": "Talbot",
+            "line": "People who attacked us may not have been S.H.I.E.L.D."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "It's time I step in."
+        },
+        {
+            "character": "Talbot",
+            "line": "And do what?"
+        },
+        {
+            "character": "Christian Ward",
+            "line": "Control the situation. Now that S.H.I.E.L.D.'s back in the spotlight, the press is gonna take this and run with it."
+        },
+        {
+            "character": "Talbot",
+            "line": "You're worried they're gonna find out about your brother, aren't you?"
+        },
+        {
+            "character": "Christian Ward",
+            "line": "What worries me is that you even know about him."
+        },
+        {
+            "character": "Talbot",
+            "line": "I don't play politics, senator. I haven't said one word about your brother to anyone, and I don't intend to."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "The truth is, general, you can't assure me of anything. It time I do what I should've done months ago... put S.H.I.E.L.D. in the ground for good."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "S.H.I.E.L.D. is a terrorist organization, and they should be treated as such."
+        },
+        {
+            "character": "Reporter",
+            "line": "Is that what you plan to speak about at the U.N.'s emergency session tomorrow?"
+        },
+        {
+            "character": "Christian Ward",
+            "line": "What I plan to do is lay out a proposal for a multi-national police force that will target those suspected of ties with S.H.I.E.L.D. Using any and all means necessary."
+        },
+        {
+            "character": "Beckers",
+            "line": "Anyone suspected of ties? And who determines that? Belgium will never accept this proposal. It destroys the very idea of citizens' rights."
+        },
+        {
+            "character": "Christian Ward",
+            "line": ": Mr. Beckers, if you want to welcome S.H.I.E.L.D. at your borders with open arms, be my guest, but this infestation needs to be exterminated."
+        },
+        {
+            "character": "Skye",
+            "line": "Guess being a douche-bag runs in the family."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you surprised?"
+        },
+        {
+            "character": "Skye",
+            "line": "Ward's brother never cared about S.H.I.E.L.D. before."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not openly."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, but Hunter said that Talbot was working with a senator who had deep pockets. You think it's him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I do. Months rebuilding, and this is S.H.I.E.L.D. Few operatives here, not many more out there. If Senator Ward's proposal passes..."
+        },
+        {
+            "character": "Skye",
+            "line": "It'll be a witch-hunt."
+        },
+        {
+            "character": "Coulson",
+            "line": "Every military organization on the planet will have a license to kick our operatives' doors down and shoot them on the spot. I can't let that happen."
+        },
+        {
+            "character": "Skye",
+            "line": "I'll talk to Ward, see if he has any intel on his brother."
+        },
+        {
+            "character": "Coulson",
+            "line": "And, Skye... keep the focus on his family, not yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Walters."
+        },
+        {
+            "character": "Walters",
+            "line": "Director."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's the Netherlands?"
+        },
+        {
+            "character": "Walters",
+            "line": "Same as always, sir. Lots of bikes, lots of weed. I assume this is about the anti-S.H.I.E.L.D. proposal?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't take any chances. Send out the word to your team. Go dark. Seek refuge. Reestablish contact in 24 hours."
+        },
+        {
+            "character": "Walters",
+            "line": "Copy that, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "And, Agent Walters, stay safe."
+        },
+        {
+            "character": "Morse",
+            "line": "You look good."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, yeah? Cheers. And, you know, with the... blond and everything, you don't look too bad yourself."
+        },
+        {
+            "character": "Morse",
+            "line": "It's nice of you to say. Because I heard you've been telling people I'm a hell beast."
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh... no, I d... I don't think so. I definitely didn't use those words specifically. That doesn't even sound like something I'd say, really. So, you vouched for me, knew I was with S.H.I.E.L.D. the whole time?"
+        },
+        {
+            "character": "Morse",
+            "line": "I'm honestly surprised you stayed this long."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, you know, I'm here for now, but keeping my options open, obviously."
+        },
+        {
+            "character": "Morse",
+            "line": "You always do."
+        },
+        {
+            "character": "Hunter",
+            "line": "If we're gonna do this now, at least let me grab a beer first."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm gonna go check on May."
+        },
+        {
+            "character": "May",
+            "line": "We'll be touching down soon."
+        },
+        {
+            "character": "Morse",
+            "line": "Okay."
+        },
+        {
+            "character": "Morse",
+            "line": "You ever been married? Still talk to him? Right. Good advice."
+        },
+        {
+            "character": "Simmons",
+            "line": "Morning, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. Is that the, uh... hard drive that you stole?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson asked me to search it for anything related to the attacks. Um, I was hoping you could help. That is, if you're not too... I mean..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, um, if you need m-my help, I suppose I've got some time."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, unfortunately, the drive was damaged during our escape. We'll have to repair it to access any of its i-intel. What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Just, um... You look different. That's all."
+        },
+        {
+            "character": "Fitz",
+            "line": "Not “bad” different. Just... Okay.... uh... we probably need to first look at the, uh..."
+        },
+        {
+            "character": "Simmons",
+            "line": "The shock sensor."
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, no, the, um..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Voice actuator?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, um, Jemma, can you..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm... I'm sorry."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know. It's just you said you needed my help. No, I do. Yeah, of course I do. It's the... micro, uh... this thing here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, yeah. I see. I... see that."
+        }
+    ]
+}

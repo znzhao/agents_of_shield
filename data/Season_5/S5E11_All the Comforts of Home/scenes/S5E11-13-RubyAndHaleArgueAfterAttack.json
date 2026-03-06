@@ -1,0 +1,60 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 13,
+    "scene_name": "RubyAndHaleArgueAfterAttack",
+    "description": "Ruby returns to her mother, General Hale, and is chastised for the botched mission. Ruby defends her decision to escalate the conflict, believing it will force Daisy out of hiding, while Hale is frustrated by her daughter's unpredictability. Their argument reveals deeper tensions in their relationship and hints at Hale’s larger plans involving the beacon and Ruby’s involvement.",
+    "roles": [
+        "hale",
+        "ruby"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hale",
+            "line": "You're late. Perhaps you'd like to explain what the hell happened out there."
+        },
+        {
+            "character": "Ruby",
+            "line": "I forced their hand."
+        },
+        {
+            "character": "Hale",
+            "line": "Is this some sort of joke to you?"
+        },
+        {
+            "character": "Ruby",
+            "line": "They're gonna have to seek medical attention now. Maybe that's gonna get them right where we want them."
+        },
+        {
+            "character": "Hale",
+            "line": "No, we had them right where we wanted them."
+        },
+        {
+            "character": "Ruby",
+            "line": "We didn't have Daisy Johnson. You promised me Daisy Johnson."
+        },
+        {
+            "character": "Hale",
+            "line": "She didn't show up tonight."
+        },
+        {
+            "character": "Ruby",
+            "line": "Well, I think if I keep cutting her friends' arms off, she will."
+        },
+        {
+            "character": "Hale",
+            "line": "Your work is sloppy and incomplete, and you've been trained to do better, which is why you don't skip class."
+        },
+        {
+            "character": "Ruby",
+            "line": "Does it matter? They took the beacon."
+        },
+        {
+            "character": "Hale",
+            "line": "The beacon was a backup, a prop. You're my daughter. And a disappointment. At least the beacon will do what it's supposed to do."
+        }
+    ]
+}

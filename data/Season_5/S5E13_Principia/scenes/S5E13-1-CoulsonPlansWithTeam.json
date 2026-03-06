@@ -1,0 +1,330 @@
+{
+    "season": 5,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "CoulsonPlansWithTeam",
+    "description": "Coulson checks in on Elena's recovery while Simmons and Mack brace her for the challenges ahead. Fitz brings alarming news about the instability of the Gravitonium device sealing the rift, prompting the team to search for more Gravitonium. The team discusses Cybertek as a potential lead for both Gravitonium and prosthetic options for Elena. Daisy volunteers to go along, Deke is assigned to stay and help Fitz, and the team coordinates their undercover mission under Coulson's orders.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Van Kempen",
+            "line": "Have you heard of Thorazine, Alex? I only mentioned it because that's what they're proposing for you, a high dose, much more aggressive treatment than what you're taking in the mornings now. I'm the one holding them back, because I feel for you. I don't think that you are a violent person. A few outbursts don't define you. But you need to open up about the trauma that led you here, starting with your father's abuse, and then torture at the hands of Mr. Ward, and S.H.I.E.L.D."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I remember everything."
+        },
+        {
+            "character": "Van Kempen",
+            "line": "That's a start. But we need to drill down on how that makes you feel, show them some improvement so they don't drug you to the point where thoughts are hard to come by, okay? So, we can start anywhere."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "April."
+        },
+        {
+            "character": "Van Kempen",
+            "line": "Okay. What happened in April?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "April, your daughter. Just turned 3."
+        },
+        {
+            "character": "Van Kempen",
+            "line": "I never spoke about..."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Six weeks ago, during our Tuesday session, it was raining. You always prop the window open with a pen. Your wife called, and you answered after one ring. Tight leash, huh? You stepped outside to talk, but the door's not as thick as you think. April had a fever, 103.2. All those kids at the parties, a lot of germs. You said you'd be home early. 513 Elm Drive, right?"
+        },
+        {
+            "character": "Van Kempen",
+            "line": "You know where I live?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "You should really be more careful. You never know what someone might do with that information. I told you, I remember everything. I'd like that Thorazine now, please."
+        },
+        {
+            "character": "Simmons",
+            "line": "Everything is stabilizing, back in normal range. Bit of good news. How's the pain?"
+        },
+        {
+            "character": "Elena",
+            "line": "Nothing I can't handle. Thank you."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, how's this? You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's fine."
+        },
+        {
+            "character": "Mack",
+            "line": "Good. Okay. Well you need to stay warm. Uh, can I get you anything to eat?"
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, enough. Seriously, if I had arms, I would strangle you right now."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's the patient?"
+        },
+        {
+            "character": "Mack",
+            "line": "Cranky."
+        },
+        {
+            "character": "Simmons",
+            "line": "How are you feeling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The same way I was feeling before you knew anything was wrong with me. Thank you for asking, but, please, stop asking. Fitz is gonna do the best prosthetics work he's ever done for you, but it may take some time. We don't have the materials he needs here, but we're gonna find a way to get them. In the meantime, I need you to focus on resting and healing."
+        },
+        {
+            "character": "Elena",
+            "line": "Sitting still isn't my strong suit."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know, but he'll make it worth the wait. See? People can't even tell the difference. And, honestly, this one's way more fun. He's always adding..."
+        },
+        {
+            "character": "Elena",
+            "line": "Does it feel the same?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, no. It doesn't feel at all, but you get used to it."
+        },
+        {
+            "character": "Elena",
+            "line": "How are you gonna feel about dating someone with robo parts."
+        },
+        {
+            "character": "Mack",
+            "line": "Those aren't the parts that matter."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "What? Oh, no, come on. That's not what I meant. What I meant was that the thing I hate about robots is that they have no heart, no soul, those are the parts that matter."
+        },
+        {
+            "character": "Elena",
+            "line": "Nice save. And sweet. Okay. You can be annoying again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it's my turn now. Time to break up this party. You need rest."
+        },
+        {
+            "character": "Elena",
+            "line": "I need a beer."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll see what I can do about that. In the meantime, you listen to the doc, all right?"
+        },
+        {
+            "character": "Mack",
+            "line": "We need to get out of here and get Fitz what he needs to fix her."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know, Mack, but it's one of many pressing concerns."
+        },
+        {
+            "character": "Fitz",
+            "line": "I was just coming to see you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tidings of comfort and joy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Warnings of doom and gloom. The, uh, the Gravitonium device that we used to seal the rift is barely strong enough. It's duct tape on the Hoover Dam. It's not gonna hold."
+        },
+        {
+            "character": "Coulson",
+            "line": "How much time before the dam starts leaking?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, uh, it's hard to calculate that precisely, but, based on the increased frequency of transit, electromagnetic waves, I'd say that our days were numbered. Sorry. That was insensitive."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, it wasn't. It's part of life. We're all gonna die. Right now, we need to make sure it doesn't happen to the entire planet all at once."
+        },
+        {
+            "character": "Mack",
+            "line": "So, we need more Gravitonium to seal the rift for good, right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but that's something we haven't seen on this side of the future in a long time. Sir, I really think that we should have everybody on this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Me too."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's not forget about Yo-Yo. She can't help until we help her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy's hoping we can tackle both problems with one solution."
+        },
+        {
+            "character": "Daisy",
+            "line": "Cybertek. The last time anyone saw Gravitonium in this time line was at Cybertek's lab, which happens to be the same company that built Deathlok's leg."
+        },
+        {
+            "character": "Mack",
+            "line": "Now we're talking."
+        },
+        {
+            "character": "May",
+            "line": "Cybertek was dissolved. Quinn's vanished. Raina's dead. Gravitonium is still M.I.A."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but we found the names of the scientists who worked under Ian Quinn, so..."
+        },
+        {
+            "character": "Deke",
+            "line": "Who's Ian Quinn?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Rich guy, bad guy. What are you doing here?"
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, I'm not part of the club? I'm sorry. I'll just go get my things, and I'll go grab a cheeseburger."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have a seat, Deke. I invited him. He's seen more Gravitonium than any of us. He may have some insight that we don't."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. So, this is Quinn's Gravitonium guy, Dr. Joseph Getty."
+        },
+        {
+            "character": "Coulson",
+            "line": "Also dead. We chased that lead."
+        },
+        {
+            "character": "Daisy",
+            "line": "Right, but here's where it gets interesting. All of Cybertek's scientists are now dead, within the past two years, and all of their death certificates were signed by one man, Murray Jacobson."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? So, you think it's a cover. They're still alive?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, it smells like it, but this photo's all I could find on him."
+        },
+        {
+            "character": "May",
+            "line": "You ran facial recognition?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I did, and I found his mug associated with multiple aliases, the most recent being Lewis Casalino, a real-estate agent in Baton Rouge."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to talk to him."
+        },
+        {
+            "character": "May",
+            "line": "So, we're going outside?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, they're kind of sparing no expense looking for you guys."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll leave under cover of night. It's a risk we have to take. If he can help us find Dr. Getty, we may get a lead on Gravitonium."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. I'm going with you."
+        },
+        {
+            "character": "May",
+            "line": "Thought you grounded yourself."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, I can't really destroy the world without my powers, so..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can take care of myself."
+        },
+        {
+            "character": "Daisy",
+            "line": "I know. I just want some fresh air."
+        },
+        {
+            "character": "Deke",
+            "line": "Right. Well, fresh air for all of us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have a seat, Deke."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to stay here. See if you can help Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? N-No. Come on. I'm... I'm not a babysitter."
+        },
+        {
+            "character": "Deke",
+            "line": "Do you have any idea how high my I.Q. is? Actually, neither do I. Nobody actually cared about that in the future. Intelligence was measured by how long you could survive."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then be smart and stay here."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Hello. Hey! What is this place? Hey! Where are we?"
+        }
+    ]
+}

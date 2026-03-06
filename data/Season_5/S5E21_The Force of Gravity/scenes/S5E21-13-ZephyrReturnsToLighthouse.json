@@ -1,0 +1,65 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 13,
+    "scene_name": "ZephyrReturnsToLighthouse",
+    "description": "Coulson, Daisy, and the others communicate with the Lighthouse to coordinate their safe return. Simmons informs them about Talbot's absorption of Creel and the growing danger he presents. Suddenly, Coulson collapses, his condition rapidly deteriorating, and the need for emergency medical intervention becomes urgent.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell me you have them."
+        },
+        {
+            "character": "May",
+            "line": "What's taking you so long?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack and Yo-Yo just got back, as well. We'll all be together."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where were they?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Um... They went after Talbot. He killed Carl Creel, turned him to gravitonium and consumed him. He killed others, as well. I'll brief you as soon as I have all the details. Get back safe."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll see you soon. I don't think we can treat him with kid gloves anymore. He's dangerous and delusional. If he finds more gravitonium, he's gonna..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson, what the hell?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I... I... don't understand. It was..."
+        },
+        {
+            "character": "Daisy",
+            "line": "All right, Coulson. Hold it. Davis, call base! We need a med team to meet us when we land!"
+        },
+        {
+            "character": "Davis",
+            "line": "On it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson, stay with me, okay? Stay with me. You fight, okay? You fight. I'm gonna get you home."
+        }
+    ]
+}

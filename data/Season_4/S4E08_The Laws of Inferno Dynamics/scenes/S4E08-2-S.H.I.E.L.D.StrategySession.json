@@ -1,0 +1,165 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "S.H.I.E.L.D.StrategySession",
+    "description": "Director Mace, Coulson, and May debate how to proceed against Eli without the press discovering Daisy or Reyes. Coulson argues for using their enhanced agents, while Mace voices concern about Reyes' instability. May is ordered to retrieve AIDA from Radcliffe at Coulson's suggestion. May and Coulson share a personal moment as she prepares to leave for Radcliffe's lab.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Burrows. Give us the room. How many people do we think Morrow has in there?"
+        },
+        {
+            "character": "May",
+            "line": "A small army. Leftovers from a Chinatown gang and some ex-cons he recruited while he was in prison."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to move in."
+        },
+        {
+            "character": "Mace",
+            "line": "Press is everywhere on this. We can't afford to be seen working with Daisy or Reyes. He's a vigilante killer."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a little more complicated than that, but yes. He's also nearly unstoppable, and he's on our side."
+        },
+        {
+            "character": "Mace",
+            "line": "And what happens when he's not?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Then we deal with him. But right now, the reality is this ... Eli Morrow just wiped out an entire S.H.I.E.L.D. Tac Team with a few shards of carbon that he created out of thin air."
+        },
+        {
+            "character": "May",
+            "line": "And that's just what we've seen. What else is he capable of?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We need the big guns on this one, and Yo-Yo, Daisy, and Reyes are the biggest guns we have."
+        },
+        {
+            "character": "Mace",
+            "line": "What about the science team? And I'm talking about AIDA, specifically. I mean, she did, after all, bring you and Agent Fitz back from... well, wherever the hell you were. If a similar technology is in play, she could have a solve. What? You disagree?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't, actually."
+        },
+        {
+            "character": "Mace",
+            "line": "But...?"
+        },
+        {
+            "character": "Coulson",
+            "line": "All cards on the table? AIDA's an android."
+        },
+        {
+            "character": "Mace",
+            "line": "She's... W-What did you just say?"
+        },
+        {
+            "character": "Coulson",
+            "line": "An android."
+        },
+        {
+            "character": "May",
+            "line": "Had me fooled, too."
+        },
+        {
+            "character": "Mace",
+            "line": "But that's... Okay. I mean, forget about the fact that I was mildly attracted to her. That totally goes against the Sokovia Accords. Doesn't anyone remember Ultron? Was this Radcliffe's doing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Sir, we really don't have much time. The point is, a good Director needs to know what assets he has at his disposal, and in this case, I think AIDA could be an asset... a risky one, but... it's your call."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent May, go to Dr. Radcliffe's lab and get AIDA. I want her on this mission. We'll dismantle her afterwards."
+        },
+        {
+            "character": "Coulson",
+            "line": "What about my assault team?"
+        },
+        {
+            "character": "Mace",
+            "line": "You got the green light. But, Coulson, keep Daisy out of sight."
+        },
+        {
+            "character": "May",
+            "line": "Bold move telling him about AIDA."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was a strategic play."
+        },
+        {
+            "character": "May",
+            "line": "Felt like poking the bear?"
+        },
+        {
+            "character": "Coulson",
+            "line": "More like feeding the bear. I'm hoping if give him something, maybe he'll give me something."
+        },
+        {
+            "character": "May",
+            "line": "Like Senator Nadeer."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want to know what his deal is with her. She hates Inhumans, hates S.H.I.E.L.D., yet he sends Simmons off to examine a new Inhuman for her. I don't like it."
+        },
+        {
+            "character": "May",
+            "line": "Tough, isn't it, not to be the keeper of all the secrets?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not about that. I just want to know whose side he's on."
+        },
+        {
+            "character": "May",
+            "line": "The only side he's ever been on, his own."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're right. Mace is a political animal. There's got to be something in it for him."
+        },
+        {
+            "character": "May",
+            "line": "Good luck figuring that out. Meanwhile, I'll be playing chauffeur to a robot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. Didn't think you'd get stuck on a milk run to Radcliffe's. We're gonna miss you in the field."
+        },
+        {
+            "character": "May",
+            "line": "I'll catch up. Can't let you have all the fun."
+        },
+        {
+            "character": "Coulson",
+            "line": "When this is over, it's time we are cracking that bottle."
+        },
+        {
+            "character": "May",
+            "line": "You don't have to twist my arm."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't dare. You might whip my ass."
+        }
+    ]
+}

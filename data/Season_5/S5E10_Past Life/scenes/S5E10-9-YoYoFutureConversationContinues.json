@@ -1,0 +1,27 @@
+{
+    "season": 5,
+    "episode": 10,
+    "num": 9,
+    "scene_name": "YoYoFutureConversationContinues",
+    "description": "Elena continues talking with her future self, seeking answers about how to fight the loop and prevent Earth's destruction. The conversation is emotionally charged as the future Yo-Yo expresses both hope and despair, revealing her suffering and warning against choices that may doom everyone, specifically decisions involving Coulson.",
+    "roles": [
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Whatever's coming, I'm not afraid to hear it. Tell me how to fight."
+        },
+        {
+            "character": "Elena",
+            "line": "It's okay. Take it slow. Just tell me what you remember."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack?"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 3,
+    "scene_name": "CoulsonAndMackStrategy",
+    "description": "Mack briefs Coulson with intelligence about Daisy’s possible location in Wyoming, discussing the military presence and the danger of extraction. Coulson suspects Daisy is setting a trap, but Mack argues Daisy is still resisting Hive’s control. Their disagreement highlights the team's emotional struggle and strategic differences in dealing with compromised teammates.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Footage is from some mechanic's garage in south Wyoming."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's in south Wyoming?"
+        },
+        {
+            "character": "Mack",
+            "line": "Not much, by the looks of it. Says it was an old mining town that went through a natural-gas boom. But with the influx of dirty wells, it drove out almost all the locals. And the ones that remained were recently bought out by a shell corporation."
+        },
+        {
+            "character": "Coulson",
+            "line": "Owned by Malick."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. And now the town's crawling with military. It seems the personal guard that we encountered in Malick's hidden bunker..."
+        },
+        {
+            "character": "Coulson",
+            "line": "They got out with Hive, relocated."
+        },
+        {
+            "character": "Mack",
+            "line": "Won't be easy to grab Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "You realize this is a trap, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Why? W-W... Because we have a lead?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because Daisy's a highly trained spy. No S.H.I.E.L.D. agent would get caught on camera that easily. She's trying to draw us out."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy warned Fitz not to have S.H.I.E.L.D. follow. Why would she want to lure us in now? It doesn't add up."
+        },
+        {
+            "character": "Coulson",
+            "line": "None of this adds up. There's an ancient Inhuman controlling one of my best agents, the same agent who helped reprogram the facial-recognition software that she just got flagged on. What? Suddenly, Daisy doesn't know how it works?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, I don't... I don't... it's... I th... I think she wants us to rescue her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, just hear me out. Daisy's too strong to give up control without a fight. I think there's a part of her that's still resisting Hive."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's just not the reality. It's you projecting."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, Fitz said Daisy wasn't a zombie. She's still herself, only with Hive's agenda. That means she's still in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wish that was true, Mack, believe me, but we cannot be driven by our emotions on this. That's how Ward ended up dead, which is how we ended up in this mess."
+        },
+        {
+            "character": "Mack",
+            "line": "Sir..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have time to debate this. You and I need to get on the same page."
+        },
+        {
+            "character": "Mack",
+            "line": "Understood."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. ‘Cause I'm sending a team in there, and I want you and May to lead it."
+        },
+        {
+            "character": "Mack",
+            "line": "So, then, we are saving Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't a rescue mission, Agent Mackenzie, it's a targeted strike. We're gonna kill Hive."
+        }
+    ]
+}

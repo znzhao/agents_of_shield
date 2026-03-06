@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 2,
+    "scene_name": "FitzSimmonsRealizeParanoia",
+    "description": "In the lab at the Playground, Fitz and Simmons try to act normal amidst the LMDs, but their paranoia gets the better of them. Their uncertainty about each other's humanity rapidly escalates. With both terrified and desperate, Simmons forces Fitz to cut his wrist to prove he’s not an LMD, which leads to a violent physical confrontation when Fitz attacks Simmons, confirming he is an LMD after all. The emotional fallout is immediate and tense.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "We have to get out of here."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, Jemma, we have to be careful. They can't know that we know."
+        },
+        {
+            "character": "Simmons",
+            "line": "But we can only imagine what the Russian and Radcliffe programmed them to do. They could kill us, or they could... they..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, okay, okay. Shh, shh, shh, shh, shh, shh. If they wanted to, they would have already."
+        },
+        {
+            "character": "Simmons",
+            "line": "Unless they're waiting to separate us from the general population, then kill us or switch us or..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Okay, okay. Take a breath, take a breath. It's okay. The one advantage we have over them is they don't know that we're on to them. Yeah. But they're gonna be suspicious if we don't act normal."
+        }
+    ]
+}

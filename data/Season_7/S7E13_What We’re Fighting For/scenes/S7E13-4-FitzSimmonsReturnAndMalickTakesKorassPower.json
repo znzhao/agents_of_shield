@@ -1,0 +1,73 @@
+{
+    "season": 7,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "FitzSimmonsReturnAndMalickTakesKorassPower",
+    "description": "Back in the present, Simmons continues to struggle with her memories. Fitz tries to help her recall their purpose, emphasizing what they're fighting for. Meanwhile, on the Chronicom ship, Nathaniel Malick, angry and desperate, decides to extract Kora's power for himself with Sibyl's cooperation, setting up the climactic confrontation.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "alphonso_mackenzie",
+        "gideon_malick",
+        "nathaniel_malick",
+        "sibyl",
+        "kora"
+    ],
+    "vibe": "intense",
+    "location": "Chronicom warship (spacefaring vessel)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "No, no, no. She's forgotten something far more important than that. Okay, I need to fill you guys in so you know what we're fighting for... so that we can map out a plan together and all be willing to do what needs to be done, no matter what the cost."
+        },
+        {
+            "character": "Mack",
+            "line": "There are so many moving parts. Which is another reason why you built Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "For this moment, yeah. ‘Cause we all need to work together to figure this out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, lay it out for us, Fitz. 'Cause the enemy's coming up with a plan, and they're not happy."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Out of time? If you'd have given me control of your Hunters, I would've crushed them."
+        },
+        {
+            "character": "Sibyl",
+            "line": "It seems you can't control anything."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "None of that matters anymore! We got pulled out of reality and into this Grateful Dead poster! I was moments away from ruling... saving the world from tyranny... whatever."
+        },
+        {
+            "character": "Sibyl",
+            "line": "There's a 99% chance we're crossing to their original timeline... a world already under attack from a separate Chronicom force."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "We need to stop playing percentages and get to the business of killing."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Earth is still within our grasp."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Nobody knows the future anymore."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Hook her up. Time to take her power."
+        }
+    ]
+}

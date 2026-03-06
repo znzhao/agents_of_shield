@@ -1,0 +1,33 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 18,
+    "scene_name": "GarrettResurrectsCoulsonDestroysHim",
+    "description": "After seeming defeat, Garrett reactivates using more cybernetic enhancements, convinced of his indestructibility. Coulson interrupts his celebration and comedically disintegrates Garrett with the 0-8-4 weapon, providing a final, definitive end to the villain in both dramatic and lighthearted fashion.",
+    "roles": [
+        "phil_coulson",
+        "john_garrett",
+        "nick_fury"
+    ],
+    "vibe": "lighthearted",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "There's a reason why they say, “cut off the head.” Now I'll be unstop..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, guys! I found it! Told you it'd be in here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Stupid, stupid, stupid, and cruel, and very stupid!"
+        },
+        {
+            "character": "Fury",
+            "line": "I think you've made your point."
+        }
+    ]
+}

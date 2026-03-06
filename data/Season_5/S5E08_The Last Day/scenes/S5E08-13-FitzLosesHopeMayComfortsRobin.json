@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 13,
+    "scene_name": "FitzLosesHopeMayComfortsRobin",
+    "description": "Fitz has a breakdown over Robin’s visions, lamenting his helplessness as he believes they’re trapped in a repeating time loop where everyone dies. May tries to calm him and remind him of the hope Robin brings. Robin suddenly becomes distressed, foreseeing violence, while the group’s emotional state reaches a low point.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz",
+        "robin_hinton"
+    ],
+    "vibe": "melancholic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "May, I've had it. I'm done. She can't control herself, she can't stop seeing how people die, keeps muttering about it..."
+        },
+        {
+            "character": "May",
+            "line": "Hold on!"
+        },
+        {
+            "character": "Fitz",
+            "line": "She just described Jemma's death. Why don't you tell me how I'm supposed to live with that?"
+        },
+        {
+            "character": "Robin",
+            "line": "I thought I already told you."
+        },
+        {
+            "character": "May",
+            "line": "You know she can't help it. She sees death like her father, but she also sees a way out. That's why you designed the machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, you don't get it. Nothing we do matters. Because we can't change time."
+        },
+        {
+            "character": "May",
+            "line": "You don't know that!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Of course I do! Because we've tried! For all I know, we've tried a thousand times! Always ends the same. It's like a record that keeps on skipping, and we are repeating this loop again and again and again!"
+        },
+        {
+            "character": "May",
+            "line": "Fitz, take a breath!"
+        },
+        {
+            "character": "Fitz",
+            "line": "And every time, Jemma dies. They all die. Robin can't change it. Voss couldn't change it. Even Daisy couldn't change it. She saw the aftermath, and she still destroyed the world."
+        }
+    ]
+}

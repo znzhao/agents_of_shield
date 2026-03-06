@@ -1,0 +1,77 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 12,
+    "scene_name": "FitzsSacrifice",
+    "description": "As the Remorath ship and city collapse from the aftermath of Daisy’s battle with Talbot, Fitz, May, and Mack are buried by falling rubble. Mack and May desperately try to rescue Fitz and succeed, but find him mortally wounded. The team is forced to say goodbye as Fitz dies in their arms, marking a tragic loss for S.H.I.E.L.D.",
+    "roles": [
+        "leo_fitz",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tragic",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "There you are, buddy. You had me worried. We got you, just hang in there. We got you, buddy."
+        },
+        {
+            "character": "Fitz",
+            "line": "I hope you saved some energy. ‘Cause my leg's pinned, I think it's broken. You'll have to carry me."
+        },
+        {
+            "character": "May",
+            "line": "All right, we got you."
+        },
+        {
+            "character": "Mack",
+            "line": "We got you, Turbo. Just..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I think it's a bad break, 'cause I can't feel it."
+        },
+        {
+            "character": "Mack",
+            "line": "Relax, buddy, just breathe."
+        },
+        {
+            "character": "Fitz",
+            "line": "Huh? Yeah. Yeah. Okay."
+        },
+        {
+            "character": "Mack",
+            "line": "Just breathe. Yeah, I'm gonna stay with you..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "... while we find a way out of this."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, okay. Okay. Right, we should hurry up and get Polly out, 'cause she's in danger."
+        },
+        {
+            "character": "May",
+            "line": "She's safe now."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, you got her out. You did good, Turbo. You did really good."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay... Hey, Mack. I think my leg's broken."
+        },
+        {
+            "character": "Mack",
+            "line": "You've been... You've been through worse."
+        }
+    ]
+}

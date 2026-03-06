@@ -1,0 +1,44 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 9,
+    "scene_name": "DaisyReachesOutToSimmons",
+    "description": "Back at The Playground, Daisy visits Simmons to offer emotional support. Daisy reassures Simmons that she can talk whenever ready, while Simmons expresses gratitude for Daisy's concern. It's a quieter, heartfelt moment highlighting Daisy's compassion amid all the chaos.",
+    "roles": [
+        "skye",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I cannot believe you're here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Skye. Daisy. Sorry."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a multipurpose gift. It's pretty and a reminder. You can call me whatever you want. I can't stay for too long. I'm tracking law-enforcement channels, but I am really sorry that I haven't come sooner. It's... there's just a lot going on."
+        },
+        {
+            "character": "Simmons",
+            "line": "And I've been sleeping."
+        },
+        {
+            "character": "Daisy",
+            "line": "Which is good. Do whatever you need to get better. We need you. And I... I know you don't want to talk about what happened yet, but when you do, I'm here, for whatever you need."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right now I'd rather listen. The Terrigen is spreading?"
+        },
+        {
+            "character": "Daisy",
+            "line": "So's the paranoia."
+        }
+    ]
+}

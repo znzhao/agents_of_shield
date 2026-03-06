@@ -1,0 +1,142 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "MonolithLabStatusUpdate",
+    "description": "Coulson and Bobbi discuss Simmons’ disappearance and the ongoing attempts to analyze the Monolith, while Bobbi reflects on her own challenges. Fitz’s absence and obsession over finding Simmons are noted, and Bobbi calls Fitz to urge him to return and assist with S.H.I.E.L.D. work. Fitz, however, is abroad following up on a final lead about the Monolith.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "New readings on the monolith?"
+        },
+        {
+            "character": "Morse",
+            "line": "Nope. That was Daisy firing a warning shot. No new readings, no new anything on the monolith in months. Fitz even stopped sending automated probes into that room. No one's stepped foot in there since... Simmons was swallowed up by it."
+        },
+        {
+            "character": "Coulson",
+            "line": "This was fish oil again?"
+        },
+        {
+            "character": "Morse",
+            "line": "What can I say? We pulled the product off shelves, but we can't track down every bottle sold. The good news, if you want to call it that, is the deadly metallic elements sank to the bottom, so the chemical contaminating the sea life isn't deadly to humans, just game-changing for Inhumans. The bad news..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not just in the fish oil. Where else could it have spread?"
+        },
+        {
+            "character": "Morse",
+            "line": "Other sea life. With ocean currents, it's dispersed into the ecosystem."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to know how wide a range we're talking."
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz and I have the team working on a computer simulation."
+        },
+        {
+            "character": "Coulson",
+            "line": "That biology degree's finally coming in handy, huh?"
+        },
+        {
+            "character": "Morse",
+            "line": "Leaving me stuck staring at screens in here for all eternity."
+        },
+        {
+            "character": "Coulson",
+            "line": "I get it. Rehab's a bitch. At least you're not hoping your knee will grow back."
+        },
+        {
+            "character": "Morse",
+            "line": "Sorry. I'm just frustrated. The simulation's taking a while."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have Fitz look into this, too. If we can figure out where it came from..."
+        },
+        {
+            "character": "Morse",
+            "line": "We could narrow the search on the mystery girl."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sure she'd prefer “mystery woman.” Oh, and by the way, where is he?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He requested yesterday to do some research at S.H.I.E.L.D. archives, but I haven't seen him all day."
+        },
+        {
+            "character": "Morse",
+            "line": "I'll call him in. He's chasing down one last lead on the monolith."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's had a lot of last leads."
+        },
+        {
+            "character": "Morse",
+            "line": "I know. With him, I... I just try to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We all do. But I'd rather have him with his head in the game than banging it against a wall."
+        },
+        {
+            "character": "Morse",
+            "line": "I'll call him in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Go for Fitz."
+        },
+        {
+            "character": "Morse",
+            "line": "You need to come in. Coulson has some weaponry he wants you to examine. It's pressing."
+        },
+        {
+            "character": "Fitz",
+            "line": "You can handle that, though, yeah? For a biologist, you're pretty good with forensics."
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz, I can't cover for you anymore. I'll get started, but you need to get in here. We need you here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'll head back there in a minute. I just need to check out one last thing."
+        },
+        {
+            "character": "Morse",
+            "line": "Soon. All right?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, copy that. Call me if you hit a snag."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just one last thing."
+        }
+    ]
+}

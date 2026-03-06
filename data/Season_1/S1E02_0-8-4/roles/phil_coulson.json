@@ -1,0 +1,72 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 2
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resourceful American S.H.I.E.L.D. agent, known for his calm leadership, strategic mind, and commitment to team cohesion. Having been resurrected under mysterious circumstances, he balances pragmatism with a rekindled sense of idealism and personal relevance, navigating complex moral landscapes and political intrigue. Phil is both a motivator and protector, showing care in managing new team members, even those with unconventional backgrounds such as Skye. He is adept at working with diverse talents, resolving interpersonal conflicts, and using unconventional methods to achieve mission success. Coulson's past includes close alliances and complicated histories that inform his present choices as he assembles and guides a specialized unit confronting extraordinary threats in a rapidly changing world.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": {
+    "arousal": 7
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "contain_superpowered_threats",
+        "goal": "Identify, contain, and manage individuals with superhuman abilities to prevent harm"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_team_cohesion_under_stress",
+        "goal": "Maintain team cohesion and effective cooperation under high-stress mission conditions"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "prevent_dangerous_technology_falling_into_wrong_hands",
+        "goal": "Prevent dangerous technology or weapons from falling into improper hands or provoking international conflict"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_4",
+      "context": "acknowledging team ingenuity despite unconventional methods",
+      "catch_phrase": "Nice work."
+    }
+  ]
+}

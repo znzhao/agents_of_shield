@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 12,
+    "scene_name": "FitzAndMorseDiscussSimmonsRecovery",
+    "description": "Fitz and Morse talk about Simmons's struggle to adjust, with Morse advising Fitz to be patient and help Simmons look forward, not back. The conversation adds further emotional depth to Simmons’s storyline and shows the bonds between teammates at The Playground.",
+    "roles": [
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": ": I'd give anything to be in the field."
+        },
+        {
+            "character": "Fitz",
+            "line": "Rehab is the antithesis of exciting, I'm well-aware, but it's worth it. You notice I was able to say “antithesis.”"
+        },
+        {
+            "character": "Morse",
+            "line": "You check on Simmons?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. She's kind of... Distant. I'm not sure that I know how to help her."
+        },
+        {
+            "character": "Morse",
+            "line": "What did you drill into my head when I started rehabbing my knee?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Patience."
+        },
+        {
+            "character": "Morse",
+            "line": "Exactly."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I know. I know. It's just the lab... she loved that lab, designed it according to her specifications. Now it's..."
+        },
+        {
+            "character": "Morse",
+            "line": "Could be it reminds her of the way things were and all the time she lost."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. I didn't think of that."
+        },
+        {
+            "character": "Morse",
+            "line": "Maybe forget about the things that used to matter to her. Give her something to look forward to. Start fresh."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Yeah, maybe you're right. Thanks."
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 9,
+    "scene_name": "TeamInPerilAndEscapePlan",
+    "description": "With the team bound and locked in the cargo hold, they blame themselves for getting caught. Ward reveals May's legendary status as 'the Cavalry.' Meanwhile, upstairs, Coulson and Reyes debate ideals and leadership as Coulson covertly attempts to free himself. The team works together to devise an escape, culminating in May dislocating her wrist to slip free and subdue a guard.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "This is my fault. Should have learned kung fu."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, yeah, but I shouldn't have pushed you into the field in the first place. You weren't ready."
+        },
+        {
+            "character": "Ward",
+            "line": "It was my job to make a proper threat assessment."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, we... We weren't ready."
+        },
+        {
+            "character": "Skye",
+            "line": "This wouldn't have happened if Agent May wasn't on the stick. She would have busted out some of her ninja know-how."
+        },
+        {
+            "character": "Fitz",
+            "line": "Agent May? No. No, no. She transferred from administration."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, I've seen her destroy a guy, so..."
+        },
+        {
+            "character": "Ward",
+            "line": "You've heard of the cavalry?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Wh... everyone at the academy talks about st"
+        },
+        {
+            "character": "May",
+            "line": "I told you never to call me that."
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't believe it. Oh, we're sure to get out of here now. Um, how do we get out of here?"
+        },
+        {
+            "character": "May",
+            "line": "Can't go through the doors. They're bolted, tied to the pressurization lines. You two geniuses have nothing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, it's hard to concentrate in these intense situations."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. Don't freeze up. Take a breath. You don't need to come up with the whole solution. Just part of it. Right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah. Pieces solving a puzzle."
+        },
+        {
+            "character": "Coulson",
+            "line": "You knew this was a weapon all along."
+        },
+        {
+            "character": "Camilla",
+            "line": "But you got to it first. I had to play nice. Yes, Coulson. For once, I'm actually ahead of you. My country commissioned that weapon decades ago. After the fall of Hydra, many scientists followed their Nazi friends to hide on this side of the world."
+        },
+        {
+            "character": "Coulson",
+            "line": "German engineering."
+        },
+        {
+            "character": "Camilla",
+            "line": "The weapon was lost during a clash in the jungle until today. With it, we'll end the rebel uprising and finally stabilize my country."
+        },
+        {
+            "character": "Coulson",
+            "line": "You mean rule your country."
+        },
+        {
+            "character": "Camillla",
+            "line": "You stay in your borders. I'll stay in mine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Those borders are disappearing. Aliens descended on New York, remember? They don't care whose colors you wear. They just care who's in the way. We should be working together, not fighting."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, that's clearly the worst idea we've heard yet."
+        },
+        {
+            "character": "Skye",
+            "line": "But it could work."
+        },
+        {
+            "character": "Ward",
+            "line": "Reyes is gonna kill us the minute we land, regardless, and blame it on rebels. This way, we have a fighting chance. I'll take it. What's first?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We can't get upstairs without going in the lab."
+        },
+        {
+            "character": "Simmons",
+            "line": "And the only way to release the lab doors is from upstairs."
+        },
+        {
+            "character": "Skye",
+            "line": "The first thing is, we're tied to the cargo door, so unless you can..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What the hell was that?"
+        },
+        {
+            "character": "Ward",
+            "line": "Her wrist."
+        },
+        {
+            "character": "May",
+            "line": "What's next?"
+        },
+        {
+            "character": "Camilla",
+            "line": "Was it 11 years ago, now? You swooped in with S.H.I.E.L.D. with so much confidence, so much mystery. You had 100 men at your disposal. And now..."
+        },
+        {
+            "character": "Coulson",
+            "line": "A hand-picked team. And, yes, they're that good."
+        },
+        {
+            "character": "Camilla",
+            "line": "Oh, Phil. You're not even aware. Your renewed idealism, your collectibles, your airborne man cave, surrounding yourself with young, attractive agents. You're having a mid-life crisis."
+        },
+        {
+            "character": "Coulson",
+            "line": "More an afterlife thing, really."
+        },
+        {
+            "character": "Camilla",
+            "line": "And I'm not going to even mention the red Corvette."
+        },
+        {
+            "character": "Coulson",
+            "line": "Her name's Lola."
+        },
+        {
+            "character": "Camilla",
+            "line": "Of course it is. It's textbook. You built this team so you could feel relevant, to feel needed."
+        },
+        {
+            "character": "Coulson",
+            "line": "They don't need me. They need time."
+        },
+        {
+            "character": "Camilla",
+            "line": "Well, time is not on their side."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but you gave them something better. A common enemy."
+        }
+    ]
+}

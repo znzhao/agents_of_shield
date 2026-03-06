@@ -1,0 +1,68 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 2
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult hacker and a former member of the Rising Tide hacktivist group who has transitioned into a role as a consultant—and potential field agent—for S.H.I.E.L.D. She brings a unique perspective that contrasts with traditional agents, blending her rebellious idealism with a growing sense of responsibility and desire to contribute to a greater cause. Her skills in hacking, resourcefulness, and empathy help bridge gaps within the team, despite early tensions and mistrust. Skye is learning to navigate the complexities of covert government operations and combat environments, guided by mentors like Agent Ward. She values freedom, collaboration, and exposing hidden truths but shows developing loyalty and pragmatism aligned with her new team.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "become_field_agent",
+        "goal": "To train and develop as a S.H.I.E.L.D. field agent under supervision"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_loyalty_to_new_team",
+        "goal": "To build trust and loyalty within the S.H.I.E.L.D. team despite past affiliations with the Rising Tide"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_4",
+      "context": "commenting on the rebellions and collective action",
+      "catch_phrase": "Usually, one person doesn't have the solution. But 100 people with 1% of the solution... that'll get it done. I think that's beautiful, pieces solving a puzzle."
+    }
+  ]
+}

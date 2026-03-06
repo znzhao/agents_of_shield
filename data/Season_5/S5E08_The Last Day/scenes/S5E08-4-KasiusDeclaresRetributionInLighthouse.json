@@ -1,0 +1,27 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 4,
+    "scene_name": "KasiusDeclaresRetributionInLighthouse",
+    "description": "Kasius discusses with Sinara that disobedience among the humans must end. He orders his forces to prepare for retribution, signaling his intent to use the Vrellnexians against the Lighthouse's human population. This scene concretely sets the Kree threat for the underground survivors.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Are there any signs of life on the downed trawler? There must be some indication. If they fled to the surface, they may have the means to survive there. The Destroyer of Worlds has proven quite resourceful. You want to go after her? If she's alive, reclaim our property. If not, at least we'll have a trophy. All resources are at your disposal. While you're away, I'll focus on the human traitors who aided the escape. We've been far too lenient with those who serve us. Hmm. It's clear they require a firmer hand. Their disobedience must be punished."
+        },
+        {
+            "character": "Sinara",
+            "line": "A renewal?"
+        },
+        {
+            "character": "Kasius",
+            "line": "No. Retribution. This ends today."
+        }
+    ]
+}

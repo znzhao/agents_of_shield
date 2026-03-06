@@ -1,0 +1,46 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 16,
+    "scene_name": "TeamPokerNight",
+    "description": "The episode closes with a lighthearted scene of Ward, Fitz, Simmons, and Skye playing cards together, teasing each other about tells, hiding cards, and Skye threatening to use the x-ray glasses. The camaraderie and levity signals the restoration of team morale after intense events.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "comedic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I call. And raise 100."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hmm. You know how I know I'm gonna beat you?"
+        },
+        {
+            "character": "Ward",
+            "line": "By losing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You have a tell, a psychological tic that lets me know you're bluffing. If I watch you carefully... If I watch you carefully..."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, sorry. Hang on. You know if I do this, that not only will I see Ward's cards, but I'll see you without any clothes on?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I fold. You win."
+        },
+        {
+            "character": "Skye",
+            "line": "Hmm."
+        }
+    ]
+}

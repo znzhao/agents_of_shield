@@ -1,0 +1,96 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 6,
+    "scene_name": "EnochRescuesMayOnSurface",
+    "description": "On the planet's surface, Enoch saves May from a Vrellnexian and introduces himself as Fitz's ally. Enoch helps assess May's injuries before they are both captured by a mysterious group after the threat of the roaches subsides.",
+    "roles": [
+        "melinda_may",
+        "enoch"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "Hello! That is the third Vrellnexian I have eliminated in pursuit of you! Not to toot my own horn, as you would say."
+        },
+        {
+            "character": "May",
+            "line": "I would never say that. Who the hell are you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "My name is Enoch. Fitz sent me."
+        },
+        {
+            "character": "May",
+            "line": "Fitz? How were you not eaten by those things?"
+        },
+        {
+            "character": "Enoch",
+            "line": "They have no interest in me, as I have no tender insides for them to extract."
+        },
+        {
+            "character": "May",
+            "line": "I thought Fitz was done building robots."
+        },
+        {
+            "character": "Enoch",
+            "line": "I am not a robot. I am a sentient Chronicom from the constellation you know as Cygnus. I am here to aid you, you who will save humanity, Melinda May, Jemma Simmons, Phillip J. Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Say that name again?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Phillip J. Coulson."
+        },
+        {
+            "character": "May",
+            "line": "You're the son of a bitch from that diner who got us into this whole mess! You... Aah!"
+        },
+        {
+            "character": "Enoch",
+            "line": "I am here to get you out of this whole mess. It would appear I got here just in time."
+        },
+        {
+            "character": "May",
+            "line": "I'm managing."
+        },
+        {
+            "character": "Enoch",
+            "line": "Have you properly diagnosed the extent of your injuries?"
+        },
+        {
+            "character": "May",
+            "line": "Bilateral tear of the quadricep."
+        },
+        {
+            "character": "Enoch",
+            "line": "By all accounts, you should not be standing. Are you a doctor?"
+        },
+        {
+            "character": "May",
+            "line": "No. I'm a fighter."
+        },
+        {
+            "character": "Enoch",
+            "line": "Still? It may be time for a career change. There's a gravity storm approaching."
+        },
+        {
+            "character": "May",
+            "line": "They're moving away. Are they afraid of gravity storms or you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "The Vrellnexians ride the gravity storms, but I don't think it's me. I think they're afraid of something else."
+        },
+        {
+            "character": "May",
+            "line": "Aah! Aah! Aah! No! No!"
+        }
+    ]
+}

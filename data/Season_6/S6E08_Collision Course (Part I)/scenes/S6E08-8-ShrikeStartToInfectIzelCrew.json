@@ -1,0 +1,43 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 8,
+    "scene_name": "ShrikeStartToInfectIzelCrew",
+    "description": "On Izel's ship, Toad tries to protect his belongings, but Izel introduces a Shrike-like creature, hinting at her willingness to infect or manipulate her own crew. This scene foreshadows the horror about to unfold on the ship and Izel's capacity for danger.",
+    "roles": [
+        "izel"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Toad",
+            "line": "Sorry. These are mine. Bye. Hi."
+        },
+        {
+            "character": "Izel",
+            "line": "What are those?"
+        },
+        {
+            "character": "Toad",
+            "line": "I'm not sharing. What's that?"
+        },
+        {
+            "character": "Izel",
+            "line": "It's beautiful. Isn't it?"
+        },
+        {
+            "character": "Toad",
+            "line": "What is it? Some kind of pet?"
+        },
+        {
+            "character": "Izel",
+            "line": "That's a nice way to say it."
+        },
+        {
+            "character": "Snowflake",
+            "line": "He breathes in... he breathes out. Shh! You're mine now."
+        }
+    ]
+}

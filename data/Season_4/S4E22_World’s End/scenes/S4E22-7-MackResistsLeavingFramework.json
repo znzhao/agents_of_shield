@@ -1,0 +1,181 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 7,
+    "scene_name": "MackResistsLeavingFramework",
+    "description": "Inside the crumbling Framework, Yo-Yo, Radcliffe, and Mack are among the few who remain as reality spirals away. Despite Yo-Yo and Radcliffe's efforts to convince him to leave, Mack chooses to stay with his daughter Hope even as things vanish around them. The emotional struggle peaks as Yo-Yo confesses her feelings and the impossibility of saving Mack if he won’t let go, highlighting the tragic stakes of staying behind.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "holden_radcliffe"
+    ],
+    "vibe": "emotional",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "What's going on?!"
+        },
+        {
+            "character": "Man",
+            "line": "I got to get out of here!"
+        },
+        {
+            "character": "Mack",
+            "line": "Isn't there any news about this?"
+        },
+        {
+            "character": "Burrows",
+            "line": "Seems like all the stations have stopped transmitting. Wish I could get a couple of bars."
+        },
+        {
+            "character": "Elena",
+            "line": "I have to make Mack believe me."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "It's not that he doesn't believe, my dear. It's that he's decided to stay in spite of that."
+        },
+        {
+            "character": "Elena",
+            "line": "Then I'll change him."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay."
+        },
+        {
+            "character": "Elena",
+            "line": "Do you know who I am? My name is Elena. You gave me a nickname, Yo-Yo. You remember me."
+        },
+        {
+            "character": "Mack",
+            "line": "No. But Daisy, she mentioned your name once."
+        },
+        {
+            "character": "Elena",
+            "line": "Yes. Daisy. She's a friend. She and Coulson and the others are safe on the other side. That's where I'm from. That's where you're from."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm just trying to keep my kid safe and get these people out of town. I don't have time to..."
+        },
+        {
+            "character": "Elena",
+            "line": "You're right. There isn't any time. Look around you, Mack. This is the end. You know that. In your heart, you know the truth about this world, about your daughter."
+        },
+        {
+            "character": "Mack",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Elena",
+            "line": "It's... When Daisy told me why you didn't want to leave this place, I was so hurt."
+        },
+        {
+            "character": "Mack",
+            "line": "Why would you f... Oh."
+        },
+        {
+            "character": "Elena",
+            "line": "That's why I'm here. I would never want to take this away from you, Mack, but I thought maybe if you saw me, if you looked into my eyes, you would remember us, the life we have, the love."
+        },
+        {
+            "character": "Hope",
+            "line": "Dad!"
+        },
+        {
+            "character": "Mack",
+            "line": "That's impossible. It's..."
+        },
+        {
+            "character": "Hope",
+            "line": "They're gone! Where'd everybody go?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know, sweetheart. I-I'm here."
+        },
+        {
+            "character": "Elena",
+            "line": "Why are we still here?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I suppose our friends on the other side. Perhaps Fitz has found some way to stall our ultimate demise, at least for now."
+        },
+        {
+            "character": "Hope",
+            "line": "I'm scared. What's gonna happen next?"
+        },
+        {
+            "character": "Mack",
+            "line": "Next, um, we go home. Okay?"
+        },
+        {
+            "character": "May",
+            "line": "This is a terrible plan."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know, robot may was way more supportive."
+        },
+        {
+            "character": "May",
+            "line": "Is she what happened to the Haig?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That again? Really? You want to have that talk now?"
+        },
+        {
+            "character": "May",
+            "line": "I never want to have a talk, but maybe we should, considering we don't know how this will play out."
+        },
+        {
+            "character": "Robbie",
+            "line": "So, they really believe they're in a different world right now?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh-huh. Every bit as real as this one. Even scarier 'cause HYDRA won. I imagine where you came from was a whole lot worse."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yeah. Yeah, but it's hard to describe. The main thing is, there, I'm just a passenger. Ghost rider drives. And by “drives,” I mean fights and kills. It's kind of all we did."
+        },
+        {
+            "character": "Daisy",
+            "line": "That sounds terrible. And painful and lonely."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yeah, that about sums it up. But I'm here now, and that's good."
+        },
+        {
+            "character": "Daisy",
+            "line": "That is good. Now, if we could get these two back, it'd be even better."
+        },
+        {
+            "character": "Robbie",
+            "line": "How long do they have?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We're in the server room, Daisy. You can begin."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, good. So the idea is that I built a back door into the framework so they can escape, but the problem is, I can't make them use it. That's on Yo-Yo."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did you bolt the door?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course. What do you think I am?"
+        }
+    ]
+}

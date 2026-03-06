@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 1,
+    "scene_name": "PoPrisonBreakout",
+    "description": "Edison Po quietly eats lunch at the Havenworth Federal Penitentiary when a group of Centipede-enhanced super-soldiers burst in to break him out. A short, action-packed sequence unfolds as the soldiers quickly overpower the guards and liberate Po with brutal efficiency. This sets up the main threat for the episode and hints at Centipede's growing power.",
+    "roles": [
+        "michael_peterson",
+        "raina"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Po",
+            "line": "That seat is taken."
+        },
+        {
+            "character": "Guard",
+            "line": "Perimeter breach, quad four! Three guys just crashed the prison! Security breach! Security breach!"
+        },
+        {
+            "character": "Centipede Soldier",
+            "line": "Time to go."
+        },
+        {
+            "character": "Po",
+            "line": "Sir."
+        },
+        {
+            "character": "Centipede Soldier",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Po",
+            "line": "Time to go, sir."
+        },
+        {
+            "character": "Centipede Soldier",
+            "line": "It's time to go, sir!"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "IzelPressuresMackAndYoYo",
+    "description": "Mack and Elena find themselves prisoners aboard Zephyr One, both aware that Izel is searching for a temple connected to the monoliths. Izel takes over Mack’s body and manipulates Elena, leading her to mention Dr. Benson, whom Izel then demands to meet, escalating the tension of their captivity.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "izel"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "What? Mack? Mack. Oh, my God. No. No."
+        },
+        {
+            "character": "Mack",
+            "line": "No, it's not it's not you. It's fine. It's fine."
+        },
+        {
+            "character": "Elena",
+            "line": "I did this to you."
+        },
+        {
+            "character": "Mack",
+            "line": "It's Izel. She... She possessed your body and took you hostage so she could escape."
+        },
+        {
+            "character": "Elena",
+            "line": "I saw her coming for Daisy. I was trying to protect her."
+        },
+        {
+            "character": "Mack",
+            "line": "You did. They're safe. It's just you and me here."
+        },
+        {
+            "character": "Elena",
+            "line": "Why is she keeping us alive?"
+        },
+        {
+            "character": "Mack",
+            "line": "She thinks we have information about a a temple where the monoliths were meant to be taken and unleashed."
+        },
+        {
+            "character": "Elena",
+            "line": "Izel took the Gravitonium device."
+        },
+        {
+            "character": "Mack",
+            "line": "She said it still contains their energies like a bottle. Her plan is to open it up. Only, she doesn't know where to go. I didn't tell her anything."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, she can keep hurting us all she wants. We don't know anything about these temples. The only one that would know is Benson."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, that's a name I haven't heard before."
+        },
+        {
+            "character": "Izel",
+            "line": "Let's give this Benson a call. I'd like to meet him."
+        }
+    ]
+}

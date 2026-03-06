@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 14,
+    "scene_name": "FitzAndAidaSchemeAtHydraHQ",
+    "description": "At Hydra headquarters, Fitz meets with Aida, known here as Madame Hydra. They discuss the mole within Hydra and the measures Aida has taken to block escape routes from the Framework. Fitz is restless, wishing to take a more direct approach, but Aida soothes him, emphasizing the importance of his creative intellect to Hydra’s cause before sharing an affectionate moment.",
+    "roles": [
+        "leo_fitz",
+        "aida"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Doctor",
+            "line": "Good evening, Madame."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Leopold. Come in."
+        },
+        {
+            "character": "Doctor",
+            "line": "These subversives need to be taken seriously. Apparently, they've got a mole inside Hydra. A traitor."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I know. I've tightened security. Eliminated a loophole for their escape. Next, we tighten the noose."
+        },
+        {
+            "character": "Doctor",
+            "line": "So, you have surveillance on...?"
+        },
+        {
+            "character": "Ophelia",
+            "line": "On one of them, yes."
+        },
+        {
+            "character": "Doctor",
+            "line": "I'd like to see it."
+        },
+        {
+            "character": "Ophelia",
+            "line": "No. Your work is too important to be distracted by these criminals."
+        },
+        {
+            "character": "Doctor",
+            "line": "I won't stand by as they try to destroy everything that we have built. I have to protect that. I have to protect you. I have..."
+        }
+    ]
+}

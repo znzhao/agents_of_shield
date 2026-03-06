@@ -1,0 +1,136 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "FitzSimmonsStrainsInTheLab",
+    "description": "Fitz confides in his hallucination of Simmons about his mental struggles and feelings of being sidelined. The conversation highlights Fitz's ongoing frustration with his condition and growing isolation since Simmons supposedly departed, revealing the team's concern about his recovery.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Look at Koenig, running analysis. Well, it looks like we've got our new golden boy."
+        },
+        {
+            "character": "Simmons",
+            "line": "“New?” As opposed to the original?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes! Me. And I've been sidelined."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Well, I mean, maybe, but in the way that a player is sidelined due to injury in a football match."
+        },
+        {
+            "character": "Fitz",
+            "line": "Football or American football? 'Cause a head-trauma joke right now, Simmons, that's in severely poor taste, even for you. And I see the way they look at me. Especially when they keep on asking about the..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cloaking."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, they're just anxious about it. They know you're nearly done."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, I may not seem like the genius I used to be, but I still have ideas."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm just having a hard time... I'm just having..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Expressing them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. And that... that doesn't mean that they have to treat me like..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Like what, Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Treat me like I'm gonna break. It's distracting. And, you know, talking to you is the only time I feel clear. And calm. Like I might actually get better."
+        },
+        {
+            "character": "Simmons",
+            "line": "You are getting better. Every day. I see it, they see it, and soon you'll see it yourself."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. You know, they really should be analyzing speech patterns and tracking voice..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Voice biometrics."
+        },
+        {
+            "character": "Fitz",
+            "line": "...biometrics."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, Fitz, I think they are."
+        },
+        {
+            "character": "Talbot",
+            "line": "Coulson, I don't think we see eye-to-eye on this. My team was up to the task when they took that freak into custody, before you took me. They have him on lockdown."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's the problem."
+        },
+        {
+            "character": "Talbot",
+            "line": "How is that a problem?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You've said in your numerous public appearances that you have a facility where you're storing the technology and prisoners captured in the S.H.I.E.L.D. raids, yes?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah. I'm flattered you keep up with my press. What's your point?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Creel's after a deadly weapon stored in that facility. Here's some more press. He targeted your family to force you to give up the location of that facility, but now he doesn't have to. Your people just took a man they have no idea how to contain to the one place he wants to be. Now I need your help to stop him."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll make you a deal. You let me out of here, and I promise not to kill you. But there is no way on god's green Earth I am ever gonna help you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well... you might."
+        },
+        {
+            "character": "Talbot",
+            "line": "Son of a bitch! This is Brigadier General Glenn Talbot, access code Delta-3-6-5-Sierra-Victor-Niner. I want double detail on that prisoner. I want the walls crawling with semi-autos, and a vehicle at my location now!"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Uh, absolutely, sir. We'll... we'll get right on that. Victor-niner. Niner. Okay. Yeah, all right. You just... you hold tight, general. Okay, we, uh, traced the number to a spot near the Pentagon. We are ready to go."
+        }
+    ]
+}

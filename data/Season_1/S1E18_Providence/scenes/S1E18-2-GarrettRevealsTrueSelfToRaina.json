@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 2,
+    "scene_name": "GarrettRevealsTrueSelfToRaina",
+    "description": "Raina is led to a barber shop in Cuba where she finally meets the real Clairvoyant—John Garrett. Garrett reveals that he has no psychic abilities and used deception and S.H.I.E.L.D. resources to further his goals. After some initial disappointment, Raina is recruited once more to help change the world, embracing her connection with Hydra.",
+    "roles": [
+        "raina",
+        "john_garrett"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Raina",
+            "line": "This is where we're meeting the Clairvoyant?"
+        },
+        {
+            "character": "Garrett",
+            "line": "There's no need to call me that anymore. Name's John. John Garrett. Guess you were expecting more the fortune-teller type."
+        },
+        {
+            "character": "Raina",
+            "line": "It's an honor to finally meet you."
+        },
+        {
+            "character": "Garrett",
+            "line": "Please, the pleasure's all mine. You've done great work for us on the Centipede project."
+        },
+        {
+            "character": "Raina",
+            "line": "It was your gift that showed me the way."
+        },
+        {
+            "character": "Garrett",
+            "line": "Sorry, Flowers. I hate to disappoint you. I never had any gifts, at least not the kind you believed in. Just a very high level S.H.I.E.L.D. security clearance and persuasive personality."
+        },
+        {
+            "character": "Raina",
+            "line": "You're not Clairvoyant?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Hardly. But if it's any consolation, you weren't alone in believing, not by a long shot."
+        },
+        {
+            "character": "Raina",
+            "line": "So you're a liar. You're a fraud."
+        },
+        {
+            "character": "Garrett",
+            "line": "An artist. A con artist, perhaps, but an artist all the same. Had to pull the wool over S.H.I.E.L.D.'s eyes somehow to do what we set out to do. Remember what that was?"
+        },
+        {
+            "character": "Raina",
+            "line": "To change the world."
+        },
+        {
+            "character": "Garrett",
+            "line": "Why don't you take a seat and let me show you how we're doing that? Oh, don't worry. I wouldn't dream of letting Ernesto cut your hair. Welcome to Hydra."
+        }
+    ]
+}

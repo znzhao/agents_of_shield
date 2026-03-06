@@ -1,0 +1,77 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 3,
+    "scene_name": "FitzSimmonsMackInvestigateBox",
+    "description": "At the Playground, Fitz, Simmons, and Mack examine the mysterious box recovered from the Chinese gang. They discuss its unique properties and review evidence showing the ghostly woman, confirming that the threat is more than just hallucinations. This leads them to consider events near Pasadena as potentially connected.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "As we have discussed, it appears to be a simple empty box."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, one lined with a rare alloy and emitting energy readings off the charts that drove six men insane, but yeah. Simple empty box."
+        },
+        {
+            "character": "Fitz",
+            "line": "Right. Well... Y-You joked about how it would be less of a puzzle if Schrodinger's cat were in there. Hilarious."
+        },
+        {
+            "character": "Simmons",
+            "line": "Thanks very much."
+        },
+        {
+            "character": "Fitz",
+            "line": "But did get me thinking. What if there is something in there in an unobservable quantum state?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Out of phase with visible light?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Exactly. So, by using light outside of the visible spectrum and reversing the phase, we get this. Cue Jemma gasping."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, my Lord. It's beautiful."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's indescribable. Scientifically. I've never seen technology like this. Feel like a Dark Ages blacksmith looking at a Tesla."
+        },
+        {
+            "character": "Simmons",
+            "line": "Alien? Crystal-like structure, wrapping on itself, or a containment field, maybe, but containing what?"
+        },
+        {
+            "character": "Mack",
+            "line": "I think I know. A family turned up at the local ER this morning. And the father... well, he had the same signs of dementia as our gangster friends over there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Near Los Angeles?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Now, he said that, uh, there was a ghost in the house and it walked through him."
+        },
+        {
+            "character": "Simmons",
+            "line": "So he's suffering from the hallucinations, as well."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, that's what I thought. But as I started going through the footage... There. Maybe he wasn't hallucinating."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 10,
+    "scene_name": "ShieldShippingYardInvestigation",
+    "description": "May and Elena arrive to investigate the shipping yard but find little, debating the motivations and relationships within Sarge's crew. They discuss Elena's relationship with Keller, reflecting May's concern for her. Mack radios in, alerting them of the jewelry store heist in progress, and they prepare to intercept the team there.",
+    "roles": [
+        "melinda_may",
+        "elena_rodriguez",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "You think Coulson's crew swapped out their rig?"
+        },
+        {
+            "character": "May",
+            "line": "We would have found where they ditched the old one."
+        },
+        {
+            "character": "Elena",
+            "line": "What were they doing? There's nothing here."
+        },
+        {
+            "character": "May",
+            "line": "There was something worth defending."
+        },
+        {
+            "character": "Elena",
+            "line": "Or just another person in the way."
+        },
+        {
+            "character": "May",
+            "line": "How's Keller holding up?"
+        },
+        {
+            "character": "Elena",
+            "line": "Not great, but he's still in the game."
+        },
+        {
+            "character": "May",
+            "line": "Are you two a thing already? ‘Cause Mack thinks so."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, he's Director for a reason. That man is too observant sometimes."
+        },
+        {
+            "character": "May",
+            "line": "He's got bigger things to worry about. But... be careful with Keller. That's how things get messy."
+        },
+        {
+            "character": "Elena",
+            "line": "Seriously? You're the one that told me to go for it just, like, yesterday."
+        },
+        {
+            "character": "May",
+            "line": "Yeah, but that was before I started hunting someone with Coulson's face."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo, May, he's been sighted. His crew is raiding a jewelry store a half-mile from your location. Keller and a Tac Team are en route to meet you there. But be careful."
+        },
+        {
+            "character": "May",
+            "line": "Copy that. We're on our way."
+        }
+    ]
+}

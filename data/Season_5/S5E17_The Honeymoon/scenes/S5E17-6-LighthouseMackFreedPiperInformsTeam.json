@@ -1,0 +1,31 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 6,
+    "scene_name": "LighthouseMackFreedPiperInformsTeam",
+    "description": "At the Lighthouse, Mack is released from the holding cell by Piper. They discuss the missing Fitz, Simmons, and Elena, and the confusion over their escape. The urgency to find a medical solution for Deke and the status of the missing agents is established.",
+    "roles": [
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "It's about damn time. The code is 6-2-8-8-2."
+        },
+        {
+            "character": "Piper",
+            "line": "What the hell? Is Fitz evil again?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo and Simmons broke him out."
+        },
+        {
+            "character": "Piper",
+            "line": "What? W-why? Where did they go?"
+        }
+    ]
+}

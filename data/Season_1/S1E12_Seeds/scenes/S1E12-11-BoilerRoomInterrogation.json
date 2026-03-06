@@ -1,0 +1,72 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 11,
+    "scene_name": "BoilerRoomInterrogation",
+    "description": "In the academy’s underground social hangout, Ward and Skye blend in with the students to gather clues. Ward questions Callie about Seth and Donnie’s ambitions, gradually uncovering that the pair had orchestrated the attacks to connect with Fitz. The team realizes they have been outmaneuvered, setting up the next phase of their search.",
+    "roles": [
+        "grant_ward",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Not a bad shot."
+        },
+        {
+            "character": "Callie",
+            "line": "You mean for a girl."
+        },
+        {
+            "character": "Ward",
+            "line": "For anybody."
+        },
+        {
+            "character": "Callie",
+            "line": "Elastic collision equations, contact point geometry, and practice. So, why is a guy from operations hanging out in the boiler room, anyway?"
+        },
+        {
+            "character": "Ward",
+            "line": "Looking for the smartest mind you have here to duck out, join my top shadow unit. Is that you?"
+        },
+        {
+            "character": "Callie",
+            "line": "Could be. Shadow unit doing what?"
+        },
+        {
+            "character": "Ward",
+            "line": "I've said too much already, but that tech in the lecture hall... it was impressive. Whoever built that tech... I could see them moving to level 6 within the year."
+        },
+        {
+            "character": "Callie",
+            "line": "Even though Donnie and Seth were hurt?"
+        },
+        {
+            "character": "Ward",
+            "line": "The boys survived."
+        },
+        {
+            "character": "Callie",
+            "line": "Yeah, probably the best thing that's happened to them all year."
+        },
+        {
+            "character": "Ward",
+            "line": "Why don't you tell me what you meant by that? And I'll not tell Agent Weaver how eager you were to jump rank over at operations."
+        },
+        {
+            "character": "Callie",
+            "line": "I'm just saying they got to meet Agent Fitz. They've been talking about it for weeks."
+        },
+        {
+            "character": "Ward",
+            "line": "Weeks? We just came here... Talking about it to whom?"
+        },
+        {
+            "character": "Callie",
+            "line": "Each other."
+        }
+    ]
+}

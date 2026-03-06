@@ -1,0 +1,181 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 18,
+    "scene_name": "FitzMayCoulsonDisableDefensesAndEscape",
+    "description": "Fitz, May, and Coulson make their way to the base's mainframe. Fitz works frantically to disable Hydra’s missile defenses as May pressures Coulson about his priorities and the need for a quick exit. Coulson manages to download valuable Hydra intel, and the group escapes just before S.H.I.E.L.D. jets obliterate the facility.",
+    "roles": [
+        "leo_fitz",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Hydra Arctic Research Facility (Arctic Circle)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Okay, missile defenses are almost down."
+        },
+        {
+            "character": "May",
+            "line": "Good. Where's Coulson?"
+        },
+        {
+            "character": "Weaver",
+            "line": "S.H.I.E.L.D. jets are five minutes from the target."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Have them await my command."
+        },
+        {
+            "character": "Mack",
+            "line": "Any word from Coulson's team?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Not yet."
+        },
+        {
+            "character": "Morse",
+            "line": "Get out of there, Phil."
+        },
+        {
+            "character": "May",
+            "line": "Hey, need to move."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just one minute."
+        },
+        {
+            "character": "May",
+            "line": "Come on, Phil, this wasn't the plan. Or was it? Either come with me now, or you're next."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. After you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is he okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "Where are Ward and Bakshi?"
+        },
+        {
+            "character": "Simmons",
+            "line": "They're not coming with us."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. Come on. We don't have much time."
+        },
+        {
+            "character": "May",
+            "line": "This is SHIELD 218. We have the prisoners and are leaving HYDRA airspace."
+        },
+        {
+            "character": "Mack",
+            "line": "Whew."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Well done, Coulson. Agent Weaver, have our jets fire when ready."
+        },
+        {
+            "character": "Simmons",
+            "line": "Be careful!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hello?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sounds like you made it out okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm surprised you didn't join us."
+        },
+        {
+            "character": "Ward",
+            "line": "I thought it might be in my best interest to find an exit that wouldn't, oh, land me in a cell afterwards. Or, you know, my brain erased."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I'm glad you made it out all right."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, we both know that's not true, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to tell me what this call's really about?"
+        },
+        {
+            "character": "Ward",
+            "line": "I always knew the team wasn't gonna forgive me. Some people just don't deserve forgiveness. But Kara? She does. That's why I've returned her to S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward, there's..."
+        },
+        {
+            "character": "Ward",
+            "line": "She was a good agent, a good person. Then HYDRA ambushed her safe house and took that from her, took everything. Whitehall broke her, and I've tried to fix her, but... I'm just not the right man for it. Just not enough good left inside me. She deserves better."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll see what I can do."
+        },
+        {
+            "character": "Ward",
+            "line": "I know you'll do the right thing."
+        },
+        {
+            "character": "Fitz",
+            "line": "HYDRA didn't just disconnect your leg. It's, like..."
+        },
+        {
+            "character": "Simmons",
+            "line": "They dismantled it. It'll take serious man-hours to reattach it. I wish I had the equipment to fix it here."
+        },
+        {
+            "character": "Mike",
+            "line": "Just tell me someone does."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's a facility."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've already gotten in touch, so they'll be ready for you straightaway."
+        },
+        {
+            "character": "Mike",
+            "line": "How'd you guys find us, anyway?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Bakshi, if you can believe it. Ward got him to lead us right in."
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah? I didn't see Bakshi. What happened to him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He didn't make it."
+        },
+        {
+            "character": "Skye",
+            "line": "Come on, Lincoln. Wake up."
+        }
+    ]
+}

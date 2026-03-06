@@ -1,0 +1,69 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 3,
+    "scene_name": "MayDiscussesMissionWithCoulson",
+    "description": "May and Coulson check in via comms, discussing the ongoing manhunt for Ward and S.H.I.E.L.D.'s compromised relations with authorities. Coulson assures May of Bobbi Morse’s abilities in Bakshi’s interrogation, while Skye and Coulson talk about his leadership style and strategic vision. This scene shows the operational handoff as the field team prepares to pursue leads on the city.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I'm unclear on how I'm stuck running the base and you're off to Hawaii."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't get too jealous. I doubt I'll even see the tarmac. There's plenty of work to be done. Ward's till out there. Have you gotten a response from his brother?"
+        },
+        {
+            "character": "May",
+            "line": "He has his own men on the manhunt. We're politically toxic, and he demanded that we stay away from the case."
+        },
+        {
+            "character": "Coulson",
+            "line": "They'll never find him. I'll signal a few assets to be on alert. How's Agent Morse handling Bakshi?"
+        },
+        {
+            "character": "May",
+            "line": "He wouldn't speak for the first eight hours, but she's working him. I'll send you any developments. Aloha."
+        },
+        {
+            "character": "Skye",
+            "line": "Didn't want to crack him yourself?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bobbi's as good as they come. My job now is to keep an eye on the big picture."
+        },
+        {
+            "character": "Skye",
+            "line": "And you found something to chase."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fury. I've been thinking a lot about what made him such a good director. His communication skills... flawed. But he could always see five steps ahead, which, for a one-eyed man, is impressive."
+        },
+        {
+            "character": "Skye",
+            "line": "He knew his enemies."
+        },
+        {
+            "character": "Coulson",
+            "line": "And for better or worse, he could think like them. Whitehall has a weapon that's unpredictable, but he's not. I don't want to be in a footrace to stop him. I want to be waiting at the finish line."
+        },
+        {
+            "character": "Skye",
+            "line": "Which is the city."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's where I believe the Obelisk will lead HYDRA."
+        }
+    ]
+}

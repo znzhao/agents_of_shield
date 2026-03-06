@@ -1,0 +1,92 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 9,
+    "scene_name": "SimmonsExaminesRainasMutation",
+    "description": "Simmons, now back at the Playground, analyzes biological samples taken from Raina, discovering radical changes in her DNA. She voices her fear that Skye may also be infected and insists on taking samples, while expressing her deep regret and determination to prevent another disaster. Skye struggles with the implications, worried about what might have happened to her.",
+    "roles": [
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Thank goodness nothing bad happened to you. Wouldn't want you to have to stay in there forever. Raina... she was unrecognizable. It was insane, and not just from the outside. Look... we separated her DNA and mapped it using gel electrophoresis. Her DNA didn't just rearrange... it contains extra macromolecules. I wouldn't think that even possible."
+        },
+        {
+            "character": "Skye",
+            "line": "That's amazing."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's horrific! We need to make sure that you're not contaminated or infected in any way."
+        },
+        {
+            "character": "Skye",
+            "line": "What's the worst that could happen?"
+        },
+        {
+            "character": "Simmons",
+            "line": "An epidemic."
+        },
+        {
+            "character": "Skye",
+            "line": "That's a pretty harsh conclusion."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, and I feel responsible."
+        },
+        {
+            "character": "Skye",
+            "line": "We all do. There's nothing you could have done."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, there was. I was so curious about powers, about unearthly biology, wondering where it might lead, hoping to better understand it, control it. I should have been trying to terminate it, erase it from existence."
+        },
+        {
+            "character": "Skye",
+            "line": "What? You... You've helped plenty of people with powers. It's... It's part of the world that we live in."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a plague, Skye... all of it. It only ever brings us death. Donnie Gill, Chan Ho Yin, Creel... the list keeps growing."
+        },
+        {
+            "character": "Skye",
+            "line": "Not the Avengers... they're not..."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Avengers wouldn't have been necessary if we hadn't unleashed alien horrors."
+        },
+        {
+            "character": "Skye",
+            "line": "There must be another..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Trip was in fragments!"
+        },
+        {
+            "character": "Skye",
+            "line": "I know."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well... it ends with him. Flooding the alien city may be the first responsible thing I've done to protect the people I care about. I'll check these samples and... and compare them to samples of your blood we had from before, just to be safe."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "Just to be safe."
+        }
+    ]
+}

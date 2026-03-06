@@ -1,0 +1,47 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 12,
+    "scene_name": "ThompsonGetsClosure",
+    "description": "With the situation resolved, Coulson reassures Hank Thompson about his past as an agent, but Thompson is content with his new life and family. Coulson affirms Thompson’s new identity and thanks him, showing empathy and relief now that the compulsion has passed. The scene resolves the personal stakes for both men and reinforces the episode's theme of new beginnings.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Thompson",
+            "line": "So, I was some kind of super-spy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "One of the best. We could use you. The whole story's right here... what you were, who you were."
+        },
+        {
+            "character": "Thompson",
+            "line": "I know who I am. I'm Hank Thompson. I've got a wife I love, a kid I adore, and every day, I wake up happy. I can't imagine I was happy being a spy. Um, no offense."
+        },
+        {
+            "character": "Coulson",
+            "line": "None taken."
+        },
+        {
+            "character": "Thompson",
+            "line": "Thank you, Mr. Coulson. Thank you for... giving me a second chance, making me who I am."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're a good man, Mr. Thompson. You always were. These agents will take you home now. Sorry about the blindfold."
+        },
+        {
+            "character": "Thompson",
+            "line": "I understand. Spy stuff. Oh, uh, if you, uh... if you ever need any welding, you know where to find me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 10,
+    "scene_name": "RandolphRevealsHisTrueIdentity",
+    "description": "Ward’s anger boils over during Randolph’s interrogation, inadvertently revealing Randolph is Asgardian when the professor easily deflects and destroys a weapon. Coulson deduces Randolph’s true identity through a combination of observations and prior experience. Fitz, Simmons, and Skye react to the revelation, fascinated by having an actual Asgardian among them. Randolph shares his experiences as a former Berserker, confessing his distaste for the staff and its rage-inducing power.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "You need to start talking."
+        },
+        {
+            "character": "Eandolph",
+            "line": "I told Agent Coulson everything I know."
+        },
+        {
+            "character": "Ward",
+            "line": "You're lying. Tell me what that thing did to me and how fix it."
+        },
+        {
+            "character": "Randolph",
+            "line": "I swear I don't know."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay, then. You were right. He's Asgardian."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good thing. Otherwise, that would have been awfully embarrassing."
+        },
+        {
+            "character": "Randolph",
+            "line": "Okay, I have to know. How did you figure me out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Did the math. One, you're not the first Asgardian I've had in custody. You guys don't flinch or panic in captivity. Two, a Waterfield 44? On a lit Professor's salary? I don't think so. And lastly, when I tell someone I've had some one-on-one time with an alien, they tend to be a little curious."
+        },
+        {
+            "character": "Randolph",
+            "line": "Well, you're certainly more observant than most, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, you're the Asgardian warrior who stayed."
+        },
+        {
+            "character": "Randolph",
+            "line": "Please don't tell anyone."
+        },
+        {
+            "character": "Fitz",
+            "line": "I had no clue. Did you? Hidden in plain sight, an actual Asgardian. Brilliant."
+        },
+        {
+            "character": "Skye",
+            "line": "How long do you suppose he's been on our planet?"
+        },
+        {
+            "character": "Simmons",
+            "line": "A thousand years. Maybe more. If we could just cut him open a little bit, get some tissue samples, maybe some bodily fluids, we could find out."
+        },
+        {
+            "character": "Skye",
+            "line": "Or we could just ask him, weirdo. This is way, way better than the History channel. I mean, this guy has lived through all the scary stuff, the crusades, the black death, disco. What are you doing?"
+        },
+        {
+            "character": "May",
+            "line": "Sealing the interrogation-room door. Coulson's orders."
+        },
+        {
+            "character": "Randolph",
+            "line": "Ah, locking me in. Well, I've been in tighter spots."
+        },
+        {
+            "character": "Ward",
+            "line": "This room is made of a silicon carbide-coated vibranium alloy. Meant for prisoners like yourself."
+        },
+        {
+            "character": "Randolph",
+            "line": "But you're in here, too. And eventually, somebody will open that door."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not if I tell them not to. So, the myth is your autobiography."
+        },
+        {
+            "character": "Randolph",
+            "line": "I didn't write it. I didn't want anyone to know about me. Then I had to open my big mouth."
+        },
+        {
+            "character": "Ward",
+            "line": "Were you captured? Tortured?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Horny. I met a French girl in 1546. Ah, she loved stories. So... I told her a great one, all about the peaceful Asgardian warrior who stayed. Now, how was I to know her brother the priest would write it all down and turn it into, I don't know, a thing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you know Thor?"
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, sure, I spent all my days palling around with the future King of Asgard. No, I don't know Thor. I was a mason. I broke rocks. Mmmhmm. For thousands of years. If you can imagine that. So when they came, asking for people to fight, yes, of course I signed up. I think, really, I just wanted to travel."
+        },
+        {
+            "character": "Ward",
+            "line": "But you had the staff."
+        },
+        {
+            "character": "Randolph",
+            "line": "I hated that thing. Other guys loved all the power that comes with the rage. No, I didn't like it at all. And you don't, either, it seems."
+        },
+        {
+            "character": "Ward",
+            "line": "What did it do to me?"
+        },
+        {
+            "character": "Randolph",
+            "line": "It shines a light into your dark places. Doesn't matter if you're human, Asgardian. The effect is the same, unpleasant."
+        },
+        {
+            "character": "Simmons",
+            "line": "“Shines a light.” That's no explanation."
+        },
+        {
+            "character": "Randolph",
+            "line": "It was forged from a rare metal and reacts to whoever is holding it. Or interacts. I went to such great lengths to make sure that the staff wasn't found. Unfortunately, since the myth was written down, people have been searching for it for centuries."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need your help to stop them before they get the last piece of your staff."
+        },
+        {
+            "character": "Randolph",
+            "line": "Oh, I am a pacifist now."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you don't want to risk your identity being discovered."
+        },
+        {
+            "character": "Randolph",
+            "line": "Listen, I wouldn't worry too much about these angry youths. They always calm down, and eventually, they die of old age. And that is one of the pleasant aspects of life here. Everything changes."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll tell you what's gonna change, your anonymity... unless you help us find the final piece of your staff. You may not know Thor. But I do."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 1,
+    "scene_name": "DebriefAtTheLighthouse",
+    "description": "Melinda May interrogates Deke Shaw for a full account of recent events. Deke tries to explain their unbelievable predicament, while May insists on hearing all the details. This brief scene serves as a narrative framing device, setting up Deke's recounting of the team's adventures after being stranded.",
+    "roles": [
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Agent Shaw, I want a full report. What happened? Start from the beginning."
+        },
+        {
+            "character": "Deke",
+            "line": "You wouldn't believe me if I told you."
+        },
+        {
+            "character": "May",
+            "line": "Try me, and we'll find out."
+        },
+        {
+            "character": "Deke",
+            "line": "Well..."
+        },
+        {
+            "character": "Womack",
+            "line": "Boy, am I glad you guys are open. This thing has been on the fritz ever since last night's power surge."
+        },
+        {
+            "character": "Feldman",
+            "line": "You're Chip Womack."
+        },
+        {
+            "character": "Womack",
+            "line": "Let me guess, you read the piece in River's End Daily."
+        },
+        {
+            "character": "Feldman",
+            "line": "Actually, we went to River's End High together. Class of ‘68? I'm Russell."
+        },
+        {
+            "character": "Womack",
+            "line": "Ah, did you use to run around with Fat Sack and Petey?"
+        },
+        {
+            "character": "Feldman",
+            "line": "I never really ran around with anyone."
+        },
+        {
+            "character": "Womack",
+            "line": "Well, uh, imagine that. Listen, compadre, I got some big orders coming in, and I'm gonna need this puppy back, ASAP. Capiche?"
+        },
+        {
+            "character": "Feldman",
+            "line": "Capiche."
+        },
+        {
+            "character": "Feldman",
+            "line": "Who are you?"
+        }
+    ]
+}

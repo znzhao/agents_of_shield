@@ -1,0 +1,42 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 14,
+    "scene_name": "ChronicomsDefeatedAndSousaReacts",
+    "description": "With the EMP successfully triggered by Simmons, both Chronicoms and Coulson (as an LMD) are deactivated, halting the detonation and saving the base. Sousa, Simmons, and Yo-Yo (Elena) process the aftermath and witness the Chronicoms self-destruct. Sousa, still confused by the bizarre events but recognizing the team's heroism, calls for a medic and orders a sweep for any remaining threats, solidifying his grudging respect for the \"good guys.\"",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Area 51 (S.H.I.E.L.D. base / 1955)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You all right?"
+        },
+        {
+            "character": "Elena",
+            "line": "That's what they do when you win... they self-destruct."
+        },
+        {
+            "character": "Sousa",
+            "line": "Damn it."
+        },
+        {
+            "character": "Sousa",
+            "line": "Yeah. We need a medic for these two men. Or at least that one."
+        },
+        {
+            "character": "Sousa",
+            "line": "Hell if I know. But you better search the base for others. I'm all right. Go."
+        },
+        {
+            "character": "Sousa",
+            "line": "Good guys, huh?"
+        }
+    ]
+}

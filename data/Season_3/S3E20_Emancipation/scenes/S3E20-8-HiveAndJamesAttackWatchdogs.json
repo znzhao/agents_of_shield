@@ -1,0 +1,43 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 8,
+    "scene_name": "HiveAndJamesAttackWatchdogs",
+    "description": "Hive brings James to help gather new 'volunteers' for Radcliffe’s experiment by ambushing Watchdogs in an alley. Hive chillingly explains his goals to his captives, and James demonstrates his powers in the violent confrontation. The frightening new phase of Hive’s plan is put in motion.",
+    "roles": [
+        "james"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Watchdog",
+            "line": "End of the line, Inhuman. There's nowhere left to run."
+        },
+        {
+            "character": "James",
+            "line": "I suppose there's always Hell. Well, look at that. A real hot dog. But seriously, who follows a stranger down a dark alley dressed as pups? I mean, on principle alone, I can't let this end well for ya."
+        },
+        {
+            "character": "Hive",
+            "line": "Leaving so soon?"
+        },
+        {
+            "character": "Watchdog",
+            "line": "Who are you?"
+        },
+        {
+            "character": "Hive",
+            "line": "I'm the one who invited you. As you can tell, I'm not with the ATCU."
+        },
+        {
+            "character": "Watchdog",
+            "line": "What did you want from us?"
+        },
+        {
+            "character": "Hive",
+            "line": "I want you to become what you hate."
+        }
+    ]
+}

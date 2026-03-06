@@ -1,0 +1,153 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "FreddyAndChronicomsConfrontation",
+    "description": "Freddy Malick and the Chronicom hunters confront Coulson and May, using Nathaniel Malick as leverage. Daisy takes Nathaniel hostage, allowing the S.H.I.E.L.D. agents a narrow escape. As tension builds, the Chronicoms pursue them, but Enoch arrives in a car at the last moment to help the team get away, providing a brief respite and critical support.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "sousa",
+        "gideon_malick",
+        "nathaniel_malick",
+        "enoch"
+    ],
+    "vibe": "action-packed",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Freddy",
+            "line": "Hey. Just wanted to thank you for coming in tonight"
+        },
+        {
+            "character": "Coulson",
+            "line": "Pleasure. It's an honor to serve S.H.I.E.L.D."
+        },
+        {
+            "character": "Freddy",
+            "line": "I bet it is. Uh... sorry, what's your name again?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Patrick. Patrick Kutik."
+        },
+        {
+            "character": "Freddy",
+            "line": "Right. And remind me, where did you come from?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Uh, processing. Systems Analysis. It's a little bit of quantitative. Some days, a lot of qualitative."
+        },
+        {
+            "character": "Freddy",
+            "line": "Have you ever been up to River's End? I just bought a house in town."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't say that I have."
+        },
+        {
+            "character": "Freddy",
+            "line": "Yeah? My friends told me differently. Did you really think I wouldn't remember you?"
+        },
+        {
+            "character": "Sousa",
+            "line": "Those are Chronicoms? They look..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Subtle, I know."
+        },
+        {
+            "character": "Sousa",
+            "line": "So, what's our play?"
+        },
+        {
+            "character": "Freddy",
+            "line": "We first met years ago, in this very room. I've lived an entire lifetime since then. What have you been doing?"
+        },
+        {
+            "character": "Luke",
+            "line": "You should've taken our offer when you had the chance, Mr. Coulson. Surrender now, and we'll go easy on the rest of you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Counter offer. Let us go, and the kid walks."
+        },
+        {
+            "character": "Freddy",
+            "line": "You wouldn't. Nathaniel's got nothing to do with this."
+        },
+        {
+            "character": "May",
+            "line": "He's a ripple. Doesn't belong here."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd hate to do something we'd all regret. So what's it gonna be?"
+        },
+        {
+            "character": "Luke",
+            "line": "Enough. This ends now."
+        },
+        {
+            "character": "Freddy",
+            "line": "Stand down. Stand down!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Sorry, kid. It's nothing personal."
+        },
+        {
+            "character": "Luke",
+            "line": "This is strange behavior."
+        },
+        {
+            "character": "Freddy",
+            "line": "I had no choice. They have my son."
+        },
+        {
+            "character": "Luke",
+            "line": "Get them."
+        },
+        {
+            "character": "Sousa",
+            "line": "So S.H.I.E.L.D. takes hostages now? Anything else you aren't telling me?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll explain later. Let's go."
+        },
+        {
+            "character": "Coulson",
+            "line": "We got to find some wheels and get out of here."
+        },
+        {
+            "character": "Enoch",
+            "line": "Come with me if you want to continue to exist!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Enoch, you're here."
+        },
+        {
+            "character": "Enoch",
+            "line": "Yes. As I have been for the last years. Now buckle up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry we left you behind, thanks for the lift, and sweet ride."
+        },
+        {
+            "character": "Enoch",
+            "line": "Thank you. Consumer Reports gave this vehicle a five-star safety rating, and its fuel economy is best in class."
+        },
+        {
+            "character": "Luke",
+            "line": "It's time we change the rules."
+        }
+    ]
+}

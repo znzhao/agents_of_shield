@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 16,
+    "num": 15,
+    "scene_name": "GiyeraEscapesAndZephyrOneAttacked",
+    "description": "Giyera breaks free from S.H.I.E.L.D. custody aboard Zephyr One. He uses his powers to incapacitate the crew and takes over the plane, forcing it down into a hidden Hydra base. May calls for help before she is cut off, and the team is left vulnerable as the plane is seized.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "giyera"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "That's not good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Giyera's escaped."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do not let him in here."
+        },
+        {
+            "character": "Giyera",
+            "line": "You can't stop us."
+        },
+        {
+            "character": "May",
+            "line": "You're not getting this plane without a fight."
+        },
+        {
+            "character": "Giyera",
+            "line": "We don't need to fight anymore."
+        },
+        {
+            "character": "Pilot",
+            "line": "Mayday! Mayday!"
+        },
+        {
+            "character": "Co-pilot",
+            "line": "What the hell?!"
+        },
+        {
+            "character": "Pilot",
+            "line": "Thrusters at maximum!"
+        },
+        {
+            "character": "Co-pilot",
+            "line": "Pull up!"
+        },
+        {
+            "character": "Pilot",
+            "line": "I can't!"
+        },
+        {
+            "character": "May",
+            "line": "Simmons? Daisy, come in. Giyera's taken control of the plane. We need..."
+        }
+    ]
+}

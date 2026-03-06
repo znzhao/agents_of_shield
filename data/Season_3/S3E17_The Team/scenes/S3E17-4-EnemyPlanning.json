@@ -1,0 +1,23 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 4,
+    "scene_name": "EnemyPlanning",
+    "description": "Giyera reports the events of the failed rescue to the Hive, who reassures him that the Secret Warriors’ infiltration is not a total loss: one of their number is now secretly compromised. The mood between Giyera and Hive is darkly optimistic, laying foreshadowing for trouble ahead within S.H.I.E.L.D.",
+    "roles": [
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "We lost them again and achieved nothing."
+        },
+        {
+            "character": "Hive",
+            "line": "Not true. Now we have one on the inside."
+        }
+    ]
+}

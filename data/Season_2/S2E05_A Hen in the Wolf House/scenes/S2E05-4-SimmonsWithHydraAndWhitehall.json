@@ -1,0 +1,109 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 4,
+    "scene_name": "SimmonsWithHydraAndWhitehall",
+    "description": "In a Hydra facility, Simmons and her colleague Turgeon are summoned by Bakshi to a meeting with Whitehall and other scientists. Whitehall questions Simmons about their failed attempt to weaponize the Obelisk’s effects on a recent victim. Simmons carefully suggests that true weaponization would require the artifact itself, alarming her at the scope of Hydra’s plans. She later warns Turgeon about the extinction-level danger Hydra poses.",
+    "roles": [
+        "jemma_simmons",
+        "sunil_bakshi",
+        "daniel_whitehall"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "What sort of hell cow produces carmine milk?"
+        },
+        {
+            "character": "Turgeon",
+            "line": "I don't know. File just says “Bessie.”"
+        },
+        {
+            "character": "Bakshi",
+            "line": "You two, come with me."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Look these over."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Oh, my god."
+        },
+        {
+            "character": "Simmons",
+            "line": "W-What is it?"
+        },
+        {
+            "character": "Turgeon",
+            "line": "W... that's Daniel Whitehall. One of HYDRA's new heads."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Good day. I've brought you here because I need your help."
+        },
+        {
+            "character": "Lingenfelter",
+            "line": "We recently attempted to reverse engineer the effects of an alien artifact using tissue samples from one of its victims."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Unfortunately, the results were less than what we'd hoped for."
+        },
+        {
+            "character": "Lingenfelter",
+            "line": "There were positives. Many of the deceased were enemies of HYDRA."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Some of us are pleased with these small triumphs. Others have loftier aspirations... passion, even. Our founder... he had his tesseract. As for me, well, it would be an understatement to say that I've waited my whole life to get possession of the Obelisk, to harness its power. Dr. Simmons, is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Bakshi tells me you have a passion for these things yourself. In your opinion, where did Dr. Lingenfelter go wrong?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I-I'm not entirely sure that she did."
+        },
+        {
+            "character": "Whitehall",
+            "line": "That's one among us. Please, clarify."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, it... it's just we're dealing with alien technology. Alien metals interact with biology on a cellular level in a way that's impossible to replicate without a sample."
+        },
+        {
+            "character": "Whitehall",
+            "line": "But if we were to acquire the Obelisk itself, would it then be possible to weaponize its effects?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I would think so, yes."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Excellent. I want everyone prepared when we do."
+        },
+        {
+            "character": "Turgeon",
+            "line": "He knows your name."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you have any idea what this means? We could kill millions of people, perhaps even billions."
+        },
+        {
+            "character": "Turgeon",
+            "line": "Pretty awesome, huh?"
+        }
+    ]
+}

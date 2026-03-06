@@ -1,0 +1,281 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 11,
+    "scene_name": "SimmonsAndSkyeReuniteWardRevealsAllegiance",
+    "description": "Simmons and Skye are finally reunited and quickly bring each other up to speed on their experiences in the Framework. Their relief is short-lived as Ward, suspecting them of Resistance ties, confronts them with a drawn gun. As Hydra agents close in, Ward reveals his own double agent status by saving them, explaining his connection to Vijay and his work for the Resistance. The trio escapes Hydra pursuit by car, solidifying their uneasy alliance.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "thrilling",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It's a magical place."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy!"
+        },
+        {
+            "character": "Skye",
+            "line": "Jemma!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, I was so worried. Wait. You're Hydra?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's a long story. I saw that you were dead. Wait. Are you still dead?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I'm feeling much better."
+        },
+        {
+            "character": "Skye",
+            "line": "So you're okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "You were supposed to be buried in the U.K."
+        },
+        {
+            "character": "Simmons",
+            "line": "More like a mass grave at the Academy. The story's a cover-up. I think Hydra murdered me."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you find the extraction beacon?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Exactly where we programmed it."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. We have to get out of here. Hydra is after you. We have to get somewhere safe."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson gave me up, didn't he? He's completely different, Daisy. You wouldn't believe it. He let Hydra arrest a child."
+        },
+        {
+            "character": "Skye",
+            "line": "May's different, too. She's like number three in Hydra and way more damaged than in the real world."
+        },
+        {
+            "character": "Simmons",
+            "line": "Everything's worse here. I woke up buried alive, was ditched on the side of the road, nearly arrested, and found Coulson brainwashing the young."
+        },
+        {
+            "character": "Skye",
+            "line": "It sounds bad, but wait till you hear how I woke up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why did Radcliffe build this place? He was never into Hydra."
+        },
+        {
+            "character": "Ward",
+            "line": "Ladies."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "We need to talk."
+        },
+        {
+            "character": "Ward",
+            "line": "How did you know my name? Who are you? Skye, what have you told her?"
+        },
+        {
+            "character": "Simmons",
+            "line": "So it's Skye again."
+        },
+        {
+            "character": "Ward",
+            "line": "You have another name?"
+        },
+        {
+            "character": "Skye",
+            "line": "No. I'm Skye."
+        },
+        {
+            "character": "Ward",
+            "line": "Why's Hydra after her? Is she your source in the Resistance?"
+        },
+        {
+            "character": "Skye",
+            "line": "What source? No, she's a friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is he doing here?"
+        },
+        {
+            "character": "Man",
+            "line": "All right, let's go! Down this trail!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy, they're coming. You need to do something before psycho stalker shoots us!"
+        },
+        {
+            "character": "Skye",
+            "line": "Stop it! Stop it! Ward, look at me. I have never betrayed you, ever. We're real."
+        },
+        {
+            "character": "Ward",
+            "line": "Is she your source for the Resistance?"
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, I have nothing to do with the Resistance!"
+        },
+        {
+            "character": "Man",
+            "line": "Over here! Unh!"
+        },
+        {
+            "character": "Ward",
+            "line": "But I do. Come on. We got to get out of here."
+        },
+        {
+            "character": "Man",
+            "line": "Come on! Use lethal force if necessary!"
+        },
+        {
+            "character": "Ward",
+            "line": "We got move, now! Whose car is this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mine."
+        },
+        {
+            "character": "Ward",
+            "line": "Keys, now!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What? No!"
+        },
+        {
+            "character": "Ward",
+            "line": "Keys, or we all die!"
+        },
+        {
+            "character": "Simmons",
+            "line": "What the hell is going on?!"
+        },
+        {
+            "character": "Skye",
+            "line": "I have no idea."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, there's no good way to tell you this, but I had the test results when you were screened. You're an Inhuman."
+        },
+        {
+            "character": "Skye",
+            "line": "I know."
+        },
+        {
+            "character": "Ward",
+            "line": "You know?"
+        },
+        {
+            "character": "Ward",
+            "line": "Cover us!"
+        },
+        {
+            "character": "Simmons",
+            "line": "So, you're Hydra, and you've been protecting Skye?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. That's why I joined the Resistance."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, always the double agent. And this is who you woke up with? You two were together? Oh, this isn't the Framework. This is Hell."
+        },
+        {
+            "character": "Skye",
+            "line": "They're gaining on us!"
+        },
+        {
+            "character": "Ward",
+            "line": "How did you know Vijay Nadeer's real name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Why do you care?"
+        },
+        {
+            "character": "Wared",
+            "line": "I was the one who got his ID cards!"
+        },
+        {
+            "character": "Skye",
+            "line": "You're a mole?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What a surprise."
+        },
+        {
+            "character": "Skye",
+            "line": "You knocked him out to shut him up."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. He was helpful until you burned him. Hold on!"
+        },
+        {
+            "character": "Skye",
+            "line": "What are you doing? We'll get stuck."
+        },
+        {
+            "character": "Ward",
+            "line": "Drones will be here any second."
+        },
+        {
+            "character": "Simmons",
+            "line": "Drones?"
+        },
+        {
+            "character": "Ward",
+            "line": "Dwarfs, whatever. The Doctor invented them. They're everywhere. Metro's just up those steps. Two stops to your apartment. You'll be safe there. I'll clear the car. Go, go, go."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, I'm sorry about Vijay. I got caught up, and I... I had to give May something. I didn't know it could be you."
+        },
+        {
+            "character": "Ward",
+            "line": "What is your name?"
+        },
+        {
+            "character": "Skye",
+            "line": "Daisy."
+        },
+        {
+            "character": "Ward",
+            "line": "We'll talk. Get out of here. Go."
+        }
+    ]
+}

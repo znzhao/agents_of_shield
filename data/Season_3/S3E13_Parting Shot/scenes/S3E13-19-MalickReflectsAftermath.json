@@ -1,0 +1,75 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 19,
+    "scene_name": "MalickReflectsAftermath",
+    "description": "Gideon Malick, in the aftermath of the Russian mission, relaxes with his daughter. Their vague conversation hints at ongoing plans and the presence of a mysterious, dangerous ally. Malick's focus is now on future machinations, suggesting a larger and more dangerous game ahead.",
+    "roles": [
+        "gideon_malick"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "Pull!"
+        },
+        {
+            "character": "Stephanie",
+            "line": "Nice shot, Dad."
+        },
+        {
+            "character": "Malick",
+            "line": "Hey, sweetie."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Early start this morning?"
+        },
+        {
+            "character": "Malick",
+            "line": "Yeah."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Russia didn't go well, did it?"
+        },
+        {
+            "character": "Malick",
+            "line": "No, things got complicated."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Let me guess, S.H.I.E.L.D."
+        },
+        {
+            "character": "Malick",
+            "line": "I'd rather not talk about it."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Okay. They don't know he's back, do they?"
+        },
+        {
+            "character": "Malick",
+            "line": "Nah, Coulson has no clue."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Good. So, when do I get to meet you-know-who?"
+        },
+        {
+            "character": "Malick",
+            "line": "Not yet. He's still... gathering himself and I'm still trying to figure out what his plans are."
+        },
+        {
+            "character": "Stephanie",
+            "line": "Well, I know what they are. He's gonna change the world. Pull!"
+        },
+        {
+            "character": "Malick",
+            "line": "Whoa! That's my girl."
+        }
+    ]
+}

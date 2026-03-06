@@ -1,0 +1,69 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 4,
+    "scene_name": "DekeSavesTheTruck",
+    "description": "Deke manages a brief victory, stabilizing the bomb so it doesn't explode on impact. Daisy, May, and Snowflake share a tense but relieved moment as they realize they're still alive. However, the group quickly acknowledges the crisis isn't over since the bomb is still active and their situation remains precarious.",
+    "roles": [
+        "deke_shaw",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "I can't do it. I can't do it. This is happening."
+        },
+        {
+            "character": "Daisy",
+            "line": "You said it was time to dazzle."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm sorry. I tried."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Actually, I'm not fine. I am not fine at all."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well... that worked."
+        },
+        {
+            "character": "Deke",
+            "line": "We did it! We're still alive! Free spa day for everyone, on me!"
+        },
+        {
+            "character": "May",
+            "line": "Hey. We're not out of this yet."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, buzzkill. No shiatsu for you."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're still stuck with a live nuke and whatever else is out there."
+        },
+        {
+            "character": "May",
+            "line": "And imagine what happens when Sarge notices it didn't go boom."
+        },
+        {
+            "character": "Sarge",
+            "line": "What just happened? Why the hell didn't the bomb go off?"
+        },
+        {
+            "character": "Jaco",
+            "line": "Did you remember to calibrate the firing rod to the new telemetry?"
+        },
+        {
+            "character": "Sarge",
+            "line": "This is not my first warhead."
+        }
+    ]
+}

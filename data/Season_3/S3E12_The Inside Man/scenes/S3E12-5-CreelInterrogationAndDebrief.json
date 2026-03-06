@@ -1,0 +1,219 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 5,
+    "scene_name": "CreelInterrogationAndDebrief",
+    "description": "At the Playground, Simmons and Fitz question Carl Creel about his powers and his unusual survival after touching the Obelisk. Debate erupts among the team—particularly Hunter, May, and Morse—regarding Creel's checkered past with HYDRA and whether he can be trusted on the mission. Talbot insists Creel comes with them to Taiwan, over Coulson's objections, while Daisy expresses concern about being left behind because of symposium rules barring aliens and weapons.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "lance_hunter",
+        "carl_creel"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "His absorbing powers don't seem so impressive now, not with all the inhumans around."
+        },
+        {
+            "character": "Simmons",
+            "line": "Mr. Creel, I'd like to ask you a few questions, if you don't mind. Do you know how you got your powers?"
+        },
+        {
+            "character": "Creel",
+            "line": "An experiment."
+        },
+        {
+            "character": "Simmons",
+            "line": "Something went wrong."
+        },
+        {
+            "character": "Creel",
+            "line": "Something went right."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're the only human who survived contact with a terrigen obelisk. What was that like?"
+        },
+        {
+            "character": "Creel",
+            "line": "It hurt."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, by all accounts, you should be dead. Only inhumans can touch them and survive. Do you know how that was possible?"
+        },
+        {
+            "character": "Creel",
+            "line": "Beats me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I still have a sample of his DNA."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, perhaps we should reopen our study, now we know more about the inhumans. Do you know how long we'll be keeping him here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know. There's still a lot of bad blood."
+        },
+        {
+            "character": "Hunter",
+            "line": "He killed my friends, Izzy and Idaho. I watched them die."
+        },
+        {
+            "character": "Talbot",
+            "line": "He was brainwashed by HYDRA. He didn't know what he was doing. It took us months to undo their dirty work. He's a good kid."
+        },
+        {
+            "character": "Morse",
+            "line": "He's a murderer."
+        },
+        {
+            "character": "May",
+            "line": "And he had a criminal record long before HYDRA got their hands on him."
+        },
+        {
+            "character": "Talbot",
+            "line": "He's from the streets. He made some mistakes. He's reformed."
+        },
+        {
+            "character": "Coulson",
+            "line": "I believe everyone deserves a second chance, but taking him with us on a covert mission doesn't seem like the place to test it."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's a crazy world out there, full of powered people. I finally have one of my own. I don't leave home without him."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Talbot",
+            "line": "He doesn't go, I don't go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fine. We'll go without you. We don't need him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, we do. If the acting head of our own ATCU doesn't show up, it sends a bad message. Not to mention it will embarrass the president and destroy any hope of an international coalition."
+        },
+        {
+            "character": "Hunter",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He goes."
+        },
+        {
+            "character": "Hunter",
+            "line": "You can't be serious."
+        },
+        {
+            "character": "Coulson",
+            "line": "This debate is over. I'm taking a big leap of faith. You better be right."
+        },
+        {
+            "character": "Talbot",
+            "line": "I trust him with my life."
+        },
+        {
+            "character": "Daisy",
+            "line": "If he steps out of line in any way, Lincoln and I will take him down so hard, he'll never get up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May, will you escort General Talbot down to see Creel?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Excuse me."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not kidding. I will hurt him."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not on this op."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do you mean? I should be there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree, but there are two rules for the symposium. The first is, no aliens. The delegates want to be able to speak freely without fear of offending anyone."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, it's too late for that."
+        },
+        {
+            "character": "Morse",
+            "line": "And what's the second rule?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No weapons."
+        },
+        {
+            "character": "Hunter",
+            "line": "And what are we supposed to do if someone else decides not to play by those rules?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why having Creel there might not be such a bad idea. He's not inhuman, so he'll pass any DNA screenings they may have, and if he is truly reformed, could be an asset."
+        },
+        {
+            "character": "Hunter",
+            "line": "You can't take the bad out of a bad man."
+        },
+        {
+            "character": "Malick",
+            "line": "May I have a word? Your body isn't improving. Maybe a new host, one not so damaged."
+        },
+        {
+            "character": "Hive",
+            "line": "I know you're not offering yourself. The host must be dead."
+        },
+        {
+            "character": "Malick",
+            "line": "Oh, no. I'm afraid this old body wouldn't be the right choice. Perhaps Giyera, an inhuman."
+        },
+        {
+            "character": "Hive",
+            "line": "I cannot inhabit inhumans. We cannot feed on our own kind."
+        },
+        {
+            "character": "Malick",
+            "line": "Well, I'm sure I could find a volunteer."
+        },
+        {
+            "character": "Hive",
+            "line": "Grant Ward will serve my needs until we're ready."
+        },
+        {
+            "character": "Malick",
+            "line": "Very well, then. Uh... I can assure you there won't be any more setbacks."
+        },
+        {
+            "character": "Hive",
+            "line": "Good. We like to hear that."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 5,
+    "scene_name": "FitzEnochCapturedNegotiation",
+    "description": "Onboard an alien ship, Fitz and Enoch are discovered by the crew. Fitz desperately bargains for their safety, arguing his value as an engineer. Enoch supports Fitz, listing the improvements they've made, but Viro remains skeptical, threatening to space them unless tasks are completed. Despite Fitz's argument, their future remains uncertain.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Blah."
+        },
+        {
+            "character": "Viro",
+            "line": "I don't recall letting any Terrans onto my ship. Take him fellas. Give these two a better view of the stars."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right, all right, all right! Wait. Let's just talk. Your ship won't survive the next re-entry."
+        },
+        {
+            "character": "Viro",
+            "line": "What do you mean?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Your heat shields are misaligned. Your crew hasn't spotted it, and I haven't had a chance to fix it. You throw me out into space, you lose your best engineer. I'm more productive than the rest of your crew combined."
+        },
+        {
+            "character": "Viro",
+            "line": "I doubt that."
+        },
+        {
+            "character": "Fitz",
+            "line": "You do the math. I patched all your fuel lines and rebuilt your entire tank irrigation system."
+        },
+        {
+            "character": "Enoch",
+            "line": "He also increased the efficiency of the CO2 scrubbers by 30 percent, which has the added benefit of making the Xandarian snails more fertile."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. And Enoch here you'd be hard-pressed to find someone that knows more about snail farming."
+        },
+        {
+            "character": "Viro",
+            "line": "You're still a filthy Terran liar. When you crewed up on Sivos, you told me this was your first haul. You're obviously running. I'll be doing someone a favor."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait... We'll work for free."
+        },
+        {
+            "character": "Viro",
+            "line": "Finally a persuasive argument. Fix the heat shields. And, actually, that airlock's been leaky since we shipped out. No one's been able to pinpoint the problem. If you can get all that done before we arrive at Naro-Atzia, I'll consider not kicking you out that door."
+        }
+    ]
+}

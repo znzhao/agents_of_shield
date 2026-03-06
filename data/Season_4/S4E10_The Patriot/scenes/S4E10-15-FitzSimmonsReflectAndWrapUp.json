@@ -1,0 +1,52 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 15,
+    "scene_name": "FitzSimmonsReflectAndWrapUp",
+    "description": "Fitz stores Aida’s head, and Simmons comforts him after everything that has happened. They share a light moment reflecting on their handling of Talbot and the chaos in the team. Both agents express relief and some hope at the team being safe, hinting at their continuing partnership.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "lighthearted",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Don't worry. I'm gonna figure out what broke you."
+        },
+        {
+            "character": "AIDA",
+            "line": "Thank you, Fitz. Thank you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz? Ah. There you are. You hungry?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Famished. I was, um... just locking away Aida's head... for good."
+        },
+        {
+            "character": "Simmons",
+            "line": "Let's never look at that awful thing again."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Well, you never know. You might want to go all “Godfather” on somebody else. Is it weird that I found that attractive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes."
+        },
+        {
+            "character": "Fitz",
+            "line": "You handled Talbot like a pro."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, please. Coulson always made it look so easy."
+        }
+    ]
+}

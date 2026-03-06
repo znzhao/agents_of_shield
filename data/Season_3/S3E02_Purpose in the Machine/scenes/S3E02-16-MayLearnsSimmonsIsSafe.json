@@ -1,0 +1,65 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 16,
+    "scene_name": "MayLearnsSimmonsIsSafe",
+    "description": "May receives a call from Andrew, who updates her about the successful rescue of Simmons. Hunter excitedly learns the news as well, wanting to celebrate. This scene provides emotional resolution for characters distant from the main action, reinforcing the bonds that tie the team together.",
+    "roles": [
+        "melinda_may",
+        "andrew_garner",
+        "lance_hunter"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Yes?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Your team pulled off a miracle today. Fitz got Simmons back. I thought you deserved to know. They think she's gonna be okay if you want to come back and see her. Or stay. I think headquarters is big enough for the two of us."
+        },
+        {
+            "character": "May",
+            "line": "I'm glad she's safe. Simmons is back. She's okay."
+        },
+        {
+            "character": "Hunter",
+            "line": "Are you serious? She's alive? Fitz, you absolute beauty! Come on, beers? Let's get a beer on it! Come on, mate. Smile for once in your life."
+        },
+        {
+            "character": "Andrew",
+            "line": "First thing tomorrow morning, all right?"
+        },
+        {
+            "character": "Strucker",
+            "line": "Dr. Garner?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Yeah."
+        },
+        {
+            "character": "Strucker",
+            "line": "I'm sorry for the intrusion, but I was hoping to add your class."
+        },
+        {
+            "character": "Andrew",
+            "line": "You okay with a few weeks' makeup work?"
+        },
+        {
+            "character": "Strucker",
+            "line": "Yeah, I-I just transferred. I think psychology might be my major."
+        },
+        {
+            "character": "Andrew",
+            "line": "Okay. You know why most people take psych, right? Ahh, damn this pen. Here. Give me your back. They're trying to figure out their families."
+        },
+        {
+            "character": "Strucker",
+            "line": "You got me there. You wouldn't believe how messed up mine is."
+        }
+    ]
+}

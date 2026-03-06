@@ -1,0 +1,76 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "EnochReceivesCoulsonsCall",
+    "description": "Enoch tends bar at Koenig's speakeasy and receives a coded call from Coulson. After catching up briefly, Enoch transfers Coulson's call to the Zephyr One so he can contact the team. Enoch’s attempts to connect with his bar patrons underscore his loneliness, and he resumes listening to a drunken recruit’s woes.",
+    "roles": [
+        "enoch",
+        "phil_coulson"
+    ],
+    "vibe": "melancholic",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "Thank you."
+        },
+        {
+            "character": "Tom",
+            "line": "These recruits today, they don't know what it means to be stuck with a bad S.O. I mean, mine... He was a real, real son of a bitch. Hey, I hope I'm not boring you, buddy."
+        },
+        {
+            "character": "Enoch",
+            "line": "You are a paying customer. I am a bartender. It is your right to share and have me listen to your personal tale of misery."
+        },
+        {
+            "character": "Tom",
+            "line": "Hmm."
+        },
+        {
+            "character": "Enoch",
+            "line": "The Krazy Kanoe."
+        },
+        {
+            "character": "Coulson",
+            "line": "Enoch?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent Coulson. Such a pleasure to hear your voice after two decades."
+        },
+        {
+            "character": "Coulson",
+            "line": "Glad you found a spot to hide out."
+        },
+        {
+            "character": "Enoch",
+            "line": "As am I. But it will be a longed-for privilege to leave behind the S.H.I.E.L.D. safe house and rejoin you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry, Enoch, we'll have to link up with you later. Right now, I'm hoping you have a way to get a message to the Zephyr. It's urgent."
+        },
+        {
+            "character": "Enoch",
+            "line": "I can do better than that. I can transfer you directly now that I know the Zephyr is here in 1955. 24 years is plenty of time for a lonely Chronicom to build the hardware to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fantastic. Put me through."
+        },
+        {
+            "character": "Enoch",
+            "line": "Certainly. Stand by."
+        },
+        {
+            "character": "Enoch",
+            "line": "Your may proceed with your saga of struggle."
+        },
+        {
+            "character": "Tom",
+            "line": "Right, so this hard-ass, he thought I was gonna be his whipping boy, and he also said something about how my face made him angry."
+        }
+    ]
+}

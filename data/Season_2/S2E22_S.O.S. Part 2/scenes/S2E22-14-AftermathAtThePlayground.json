@@ -1,0 +1,133 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 14,
+    "scene_name": "AftermathAtThePlayground",
+    "description": "Back at the Playground, the S.H.I.E.L.D. team copes with the aftermath of the battle. Coulson recovers as a patient, discusses future plans with May and Fitz for a powered team, and reassures Mack, who is put in charge of managing all alien artifacts. Bobbi, still recuperating from her wounds, confides in Hunter about her future with S.H.I.E.L.D., and Simmons and Fitz share an emotional moment, hinting at a possible relationship. This scene lays the groundwork for upcoming changes within S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "lance_hunter",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "You ready to talk about it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "About what?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Your arm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not yet. I'm looking into some options. I'd rather hear your evaluation of my team. Did you manage to get an accurate read on Bobbi?"
+        },
+        {
+            "character": "Andrew",
+            "line": "I get pretty straight answers with morphine in the mix."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hey. You look better."
+        },
+        {
+            "character": "Morse",
+            "line": "Hmm."
+        },
+        {
+            "character": "Hunter",
+            "line": "Stupid, but better. Taking a bullet for me was stupid."
+        },
+        {
+            "character": "Morse",
+            "line": "Walking into a trap when you know it's a trap is stupid."
+        },
+        {
+            "character": "Hunter",
+            "line": "You were the bait. Listen, Bob, hang in there. It's a long road. Surgery again tomorrow. They haven't even started on your knee yet. But soon, you'll be stable, and then..."
+        },
+        {
+            "character": "Morse",
+            "line": "And then... I can't do this anymore."
+        },
+        {
+            "character": "Andrew",
+            "line": "You convinced Mack not to quit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, he kind of owed me after cutting off my hand without asking."
+        },
+        {
+            "character": "Andrew",
+            "line": "He respects you. But he still holds a deep distrust of all the alien artifacts you've encountered."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's why I put him in charge of them."
+        },
+        {
+            "character": "Jemma",
+            "line": "You know, we could get better readings if we dropped a probe into the glass enclosure."
+        },
+        {
+            "character": "Mack",
+            "line": "No, we're never opening that damn box in 1,000 years."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, May asked for some time off for the first time in the history of ever. Does that have anything to do with you being around these last few days?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Now, you know I can't discuss personal matters with patients."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm your patient now? I wasn't your patient the other night when you and your ex-wife snuck into my office and drank up half my scotch."
+        },
+        {
+            "character": "Andrew",
+            "line": "Ah, it's time May rediscover the world outside of S.H.I.E.L.D., don't you think?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That your report?"
+        },
+        {
+            "character": "Andrew",
+            "line": "No, no, these are my recommendations for the new program. You bringing other people in on this yet?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Slowly. I got Fitz working on these designs. We'll need to be mobile."
+        },
+        {
+            "character": "Andrew",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you. I'm glad you think Skye's ready for this."
+        },
+        {
+            "character": "Andrew",
+            "line": "At this point, I think she's ready for anything."
+        }
+    ]
+}

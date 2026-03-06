@@ -1,0 +1,109 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 5,
+    "scene_name": "SimmonsStrugglesToAdjust",
+    "description": "Simmons attempts to acclimate back to life at The Playground and in the lab, supported by Fitz and Morse. The scene illustrates her ongoing trauma and anxiety resulting from her ordeal on the alien planet. Fitz does his best to offer comfort, while Simmons admits she is overwhelmed by distractions and struggling to readjust.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Still acclimating to less gravity."
+        },
+        {
+            "character": "Morse",
+            "line": "Now this is a sight for sore eyes."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thought it would be good to get back in the lab, see the old workspace."
+        },
+        {
+            "character": "Simmons",
+            "line": "Is that it?"
+        },
+        {
+            "character": "Morse",
+            "line": "It was the portal. Now it's a pile of space rocks."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've run a complete and exhaustive set of diagnostics, so I can assure you there's no need to worry."
+        },
+        {
+            "character": "Fitz",
+            "line": "You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fine."
+        },
+        {
+            "character": "Morse",
+            "line": "Just a sec. It's Hunter. He's on a Ward hunt."
+        },
+        {
+            "character": "Simmons",
+            "line": "Say “hi.”"
+        },
+        {
+            "character": "Morse",
+            "line": "You know it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, look. Just as you left it. Made sure not even a post-it note was moved, 'cause I know how particular you can be about it."
+        },
+        {
+            "character": "Fitz",
+            "line": "What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, I'm just... I'm not accustomed to this many distractions."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, I imagine you must have had quite a lot to take in, extraterrestrial materials and specimens to examine."
+        },
+        {
+            "character": "Simmons",
+            "line": "My curiosity faded once fear set in."
+        },
+        {
+            "character": "Fitz",
+            "line": "Right. Yeah, no, of course. Sorry."
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, I have to admit it's all a bit much. Would you mind?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, yeah. Well, should I get Bobbi?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Um, it's just a little disorientation, attributable to oxidative stress."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, yeah, I'll take you back to your room."
+        },
+        {
+            "character": "Simmons",
+            "line": "I hope you're not too disappointed."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, on the contrary, you're self-diagnosing, which is a sign you're on the mend."
+        }
+    ]
+}

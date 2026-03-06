@@ -1,0 +1,89 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 8,
+    "scene_name": "WardAndRainaDiscussUndercover",
+    "description": "Raina questions Ward about his ability to infiltrate Coulson's group and the nature of his loyalties, probing for any real attachments. Ward details his earlier tactics, especially with May and Skye, and reaffirms his debt and allegiance to Garrett, not S.H.I.E.L.D. Garrett briefly checks in, reinforcing the bond between mentor and protégé.",
+    "roles": [
+        "raina",
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "You were disappointed that he wasn't a real Clairvoyant."
+        },
+        {
+            "character": "Raina",
+            "line": "There was a question I would have asked."
+        },
+        {
+            "character": "Ward",
+            "line": "Hmm."
+        },
+        {
+            "character": "Raina",
+            "line": "You've known him a long time?"
+        },
+        {
+            "character": "Ward",
+            "line": "Ever since I was a teenager. He pulled me out of a hell. Saved me from myself. So, now do you know me? You know how to work me?"
+        },
+        {
+            "character": "Raina",
+            "line": "I'm just curious. If I wanted to work you, I'd ask you about Coulson and his team and how you managed to gain their trust."
+        },
+        {
+            "character": "Ward",
+            "line": "I jumped out of a plane. Deep-cover tactics 101... perform selfless acts of bravery early on. So I jumped to save the scientist. I had a parachute."
+        },
+        {
+            "character": "Raina",
+            "line": "May never suspected."
+        },
+        {
+            "character": "Ward",
+            "line": "Agent May was the primary threat, so I let things get intimate."
+        },
+        {
+            "character": "Raina",
+            "line": "You don't seem like her type."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm everyone's type. Skye was the unknown variable. Being her S.O. put me in a position to be a sounding board, get an idea what she was thinking."
+        },
+        {
+            "character": "Raina",
+            "line": "And Coulson? He wasn't skeptical when you pressured him to join?"
+        },
+        {
+            "character": "Ward",
+            "line": "He pressured me. You'd be surprised how often you get invited to the party when you don't want to go. “Sir, I was trained from day one as a specialist. I go in alone, I get it done. This team thing... not my speed.” I gave Coulson a person he thought he could help. Plane was full of them."
+        },
+        {
+            "character": "Raina",
+            "line": "It's that simple? You really felt nothing for them. I spent time with Coulson. He's a good man. Someone who'd lay down his life for you. Don't you owe a man like that something?"
+        },
+        {
+            "character": "Ward",
+            "line": "Sure."
+        },
+        {
+            "character": "Garrett",
+            "line": "Probably gonna put a little hair on the wall."
+        },
+        {
+            "character": "Ward",
+            "line": "But I owe Garrett everything."
+        },
+        {
+            "character": "Garrett",
+            "line": "Yeah, it's gonna be great. All right."
+        }
+    ]
+}

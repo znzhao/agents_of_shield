@@ -1,0 +1,76 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 4,
+    "scene_name": "YoYoAndDekeRetrieveDevice",
+    "description": "Elena Rodriguez (Yo-Yo) and Deke Shaw drive to retrieve the device at Dr. Lindmore’s address, reflecting on social change and their roles as agents. Their banter mixes humor and seriousness about sexism and racism of the era. Deke is soon abducted by unknown operatives at the house, while Yo-Yo manages to secure the package herself, feeling guilt over Deke’s situation.",
+    "roles": [
+        "elena_rodriguez",
+        "deke_shaw"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Yo-Yo and Deke hit the road to retrieve the S.H.I.E.L.D. gadget from Dr. Lindmore's home."
+        },
+        {
+            "character": "Elena",
+            "line": "You're quiet."
+        },
+        {
+            "character": "Deke",
+            "line": "Still don't have very much driving experience. I'm great on a scooter, though. In the ‘50s, were women allowed to drive?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yes, of course. Why would you..."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm sorry! I don't know. I mean, we were just in the ‘30s and they were really stylish, but it was... so sexist and racist. But the ‘50s, though... ... are still pretty sexist and racist."
+        },
+        {
+            "character": "Elena",
+            "line": "It always gets better, just never fast enough."
+        },
+        {
+            "character": "Deke",
+            "line": "And some things never change."
+        },
+        {
+            "character": "Elena",
+            "line": "Can't hurt to try, though."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, it could... if we lose control of the timeline and it goes skidding off the road. So, that's not the mission now, right?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yep. We're the Agents of Status Quo."
+        },
+        {
+            "character": "Deke",
+            "line": "Sounds like you don't agree with it."
+        },
+        {
+            "character": "Elena",
+            "line": "Sounds like you do."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't know."
+        },
+        {
+            "character": "Elena",
+            "line": "Doesn't look so special."
+        },
+        {
+            "character": "Coulson",
+            "line": "The good news was the package was now in S.H.I.E.L.D.'s possession. The bad news... Deke wasn't."
+        }
+    ]
+}

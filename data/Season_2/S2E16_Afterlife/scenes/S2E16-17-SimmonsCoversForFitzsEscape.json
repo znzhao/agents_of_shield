@@ -1,0 +1,24 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 17,
+    "scene_name": "SimmonsCoversForFitzsEscape",
+    "description": "As the box remains unopened, Simmons feigns failure in front of the others while Fitz departs. The closing moments showcase Simmons's quick thinking and Fitz’s bittersweet farewell, encapsulating the cost of divided loyalties within S.H.I.E.L.D.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I did everything in my power, but it wouldn't open. It's way beyond anything I've ever encountered. Without Coulson or some miracle, I'm afraid it's just a worthless piece of junk."
+        },
+        {
+            "character": "Fitz",
+            "line": "Airport, please. Nice work Jemma. With a hint of Pesto Aioli."
+        }
+    ]
+}

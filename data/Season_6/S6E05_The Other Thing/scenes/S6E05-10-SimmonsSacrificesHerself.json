@@ -1,0 +1,113 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "SimmonsSacrificesHerself",
+    "description": "Back on the Zephyr, the S.H.I.E.L.D. team, now prisoners, attempts an escape. Surrounded, Simmons decides to surrender herself to the Chronicoms as a bargaining chip so that Fitz will be spared, and Daisy and the rest can escape. An emotional farewell cements the team’s bond.",
+    "roles": [
+        "jemma_simmons",
+        "piper",
+        "davis"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "You're not even trying."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, speak for yourself."
+        },
+        {
+            "character": "Davis",
+            "line": "Then why am I the only one sweating?"
+        },
+        {
+            "character": "Piper",
+            "line": "It's ‘cause you haven't worked out in weeks, and it's starting to show."
+        },
+        {
+            "character": "Davis",
+            "line": "We could've saved ourselves."
+        },
+        {
+            "character": "Piper",
+            "line": "We're fine."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're leaving."
+        },
+        {
+            "character": "Davis",
+            "line": "Great."
+        },
+        {
+            "character": "Piper",
+            "line": "Okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's the plan?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Get to Z1, turn the power back on, and get the hell out of here."
+        },
+        {
+            "character": "Malachi",
+            "line": "Found them."
+        },
+        {
+            "character": "Atarah",
+            "line": "Surrender, and I will guarantee a bloodless and efficient death."
+        },
+        {
+            "character": "Piper",
+            "line": "Well, that sounds reasonable."
+        },
+        {
+            "character": "Daisy",
+            "line": "New plan... we fight."
+        },
+        {
+            "character": "Davis",
+            "line": "All right, let's do this. I'm thirsty."
+        },
+        {
+            "character": "Atarah",
+            "line": "Take them."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. Don't shoot. Daisy, don't."
+        },
+        {
+            "character": "Daisy",
+            "line": "Simmons, get out of the way."
+        },
+        {
+            "character": "Simmons",
+            "line": "Enoch was right. Fitz can't solve time travel without me, but not as a hostage... as his partner. Fitz and I, we're a team. Let the others leave, and I'll go with you."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. No, no, no. Don't do this. We will find another way."
+        },
+        {
+            "character": "Simmons",
+            "line": "But there isn't one. We're impossibly outnumbered. We're unarmed. Even if we make it to the Zephyr, there's a fleet of ships waiting to blast us into oblivion. This is the end of the road. You followed me for a year across the galaxy. I never would have made it here without you, but I won't keep putting you in danger. Thank you. Now go home."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. Simmons, I... I can't leave you."
+        },
+        {
+            "character": "Simmons",
+            "line": "You have to. Whatever happens, at least I'll be with Fitz. We'll have each other."
+        }
+    ]
+}

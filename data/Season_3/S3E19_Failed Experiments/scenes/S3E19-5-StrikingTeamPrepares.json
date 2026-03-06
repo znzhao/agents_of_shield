@@ -1,0 +1,81 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 5,
+    "scene_name": "StrikingTeamPrepares",
+    "description": "At the Playground, May, Mack, and a team of S.H.I.E.L.D. agents prepare for a mission to kill Hive, rather than rescue Daisy. Mack is especially driven, blaming himself for Daisy’s turn and emphasizing the mission’s importance to him personally. Coulson gives final orders, making it clear that rescuing Daisy is not the focus. The emotional stakes and seriousness among the team are palpable.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "How many others we got?"
+        },
+        {
+            "character": "Mack",
+            "line": "Four volunteers from operations, aware of the danger and all pretty gung-ho."
+        },
+        {
+            "character": "May",
+            "line": "Don't know if that'll be enough to take out Hive."
+        },
+        {
+            "character": "Mack",
+            "line": "Maybe not. But lucky for us, Coulson had Fitz open up the Cupboard."
+        },
+        {
+            "character": "O'Brien",
+            "line": "Whoa! I got dibs on that."
+        },
+        {
+            "character": "Piper",
+            "line": "Oh, sorry, O'Brien. Coulson promised it to me when I signed up. It's in my contract."
+        },
+        {
+            "character": "Mack",
+            "line": "Eyes up front, everyone. Hive is unlike anything we've ever faced, which is why each of you will be outfitted with the best S.H.I.E.L.D. has to offer. Full Kevlar Tac, heat-sensitive infrared, and enough Splinter Bombs to turn a small army into pixie dust. The rest of the gear is up for grabs."
+        },
+        {
+            "character": "O'Brien",
+            "line": "What's the Calvary packing?"
+        },
+        {
+            "character": "May",
+            "line": "If I need a gun, I'll take one."
+        },
+        {
+            "character": "Mack",
+            "line": "No. You'll be taking this one. We can't leave anything to chance."
+        },
+        {
+            "character": "May",
+            "line": "You seem extra motivated."
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy was my partner. This is on me."
+        },
+        {
+            "character": "May",
+            "line": "Why is everyone making this about themselves?"
+        },
+        {
+            "character": "Mack",
+            "line": "Because I should have seen it, May, but between her Inhuman love connection and me licking my wounds after Bobbi and Hunter left, I took my eyes off the ball. A good partner would've seen that she was turned."
+        },
+        {
+            "character": "May",
+            "line": "None of us saw it. And you need to get your head straight. This mission isn't about Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "Agreed. It's about me making things right."
+        }
+    ]
+}

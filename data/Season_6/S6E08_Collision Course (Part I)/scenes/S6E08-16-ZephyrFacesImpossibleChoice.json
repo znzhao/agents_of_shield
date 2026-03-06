@@ -1,0 +1,63 @@
+{
+    "season": 6,
+    "episode": 8,
+    "num": 16,
+    "scene_name": "ZephyrFacesImpossibleChoice",
+    "description": "Aboard the Zephyr, Mack, Davis, and Elena grapple with whether to destroy Sarge's truck before it reaches a populated area, even at the risk of killing their own team members. Jaco and Sarge use a clandestine device to bridge the truck and the Zephyr, setting up Sarge's escape.",
+    "roles": [
+        "alphonso_mackenzie",
+        "davis",
+        "elena_rodriguez",
+        "jaco",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "We have a lock on the targets."
+        },
+        {
+            "character": "Mack",
+            "line": "Hold steady. There's no good options here. If we fire on the ship and then do Sarge's dirty work, there's no guarantee he'll deactivate the bomb."
+        },
+        {
+            "character": "Elena",
+            "line": "And who's to say Izel's even on it?"
+        },
+        {
+            "character": "Mack",
+            "line": "And if we take out the truck before it reaches a populated area..."
+        },
+        {
+            "character": "Elena",
+            "line": "We could save countless lives."
+        },
+        {
+            "character": "Mack",
+            "line": "But lose three of our own."
+        },
+        {
+            "character": "Elena",
+            "line": "Or we could just hope and pray that Deke figures out a way to deactivate the alien bomb."
+        },
+        {
+            "character": "Jaco",
+            "line": "Pax! Do me a favor. Move away from my jacket."
+        },
+        {
+            "character": "Sarge",
+            "line": "How are you, Jaco?"
+        },
+        {
+            "character": "Jaco",
+            "line": "There's a problem. We're not on their base. We're in their plane."
+        },
+        {
+            "character": "Sarge",
+            "line": "Even better. Why didn't we ever think of that?"
+        }
+    ]
+}

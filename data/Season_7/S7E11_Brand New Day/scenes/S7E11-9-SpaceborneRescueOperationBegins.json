@@ -1,0 +1,40 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 9,
+    "scene_name": "SpaceborneRescueOperationBegins",
+    "description": "Daisy, Sousa, and Mack are aboard their Quinjet, executing their unpredictable plan to rendezvous with Zephyr One. They experience awe at the view of space, banter nervously, and initiate a risky controlled burn toward the target. The scene is suspenseful, blending camaraderie and nerve-wracking action as they leave Earth behind.",
+    "roles": [
+        "alphonso_mackenzie",
+        "sousa"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "Guys, my stomach feels... Whoa. Thank you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Now that we're out of the atmosphere, we should be able to lock on to the Zephyr."
+        },
+        {
+            "character": "Sousa",
+            "line": "My goodness."
+        },
+        {
+            "character": "Mack",
+            "line": "It's really something, huh? All right. Better strap in there, buddy. This next part's gonna be tricky."
+        },
+        {
+            "character": "Daisy",
+            "line": "Seriously, if this isn't timed out just right, we will freeze to death in the dark void of space. So, buckle up, Danny Boy. Okay. Triangulating burn path to Z1."
+        },
+        {
+            "character": "Mack",
+            "line": "Executing controlled burn in 3, 2, 1."
+        }
+    ]
+}

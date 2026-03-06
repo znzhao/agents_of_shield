@@ -1,0 +1,281 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 3,
+    "scene_name": "TeamStrategizesMission",
+    "description": "Back on Zephyr One, the team debates their next steps, focusing on the possible Chronicom threat to Project Helius. There is tension as Mack reinforces the chain of command and the seriousness of their mission. Elena confides her inability to use her speed, and the team discusses May's odd emotional state, highlighting the psychological toll of recent events.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It means we haven't completed our mission yet."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, some of us still don't have a grasp of what the mission is."
+        },
+        {
+            "character": "Daisy",
+            "line": "I had a tough call to make. You were off radio and we were out of time and had the father of Hydra right in front of us."
+        },
+        {
+            "character": "Mack",
+            "line": "I get the temptation, but shooting Freddy would have given the Chronicoms exactly what they wanted. Our mission is to stop them. Is that clear?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Clear, Director. And Deke..."
+        },
+        {
+            "character": "Deke",
+            "line": "What?"
+        },
+        {
+            "character": "Mack",
+            "line": "You may be a CEO in our time, but here, you are an Agent of S.H.I.E.L.D. And you will follow my orders until the mission is done."
+        },
+        {
+            "character": "Deke",
+            "line": "Copy. Understood."
+        },
+        {
+            "character": "Elena",
+            "line": "And will we know when the mission is done? Or are we just guessing, jumping through time?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're moving forward in time. To move backward takes a piece of the time monolith and more energy than we'll ever acquire again. A jump forward takes... less."
+        },
+        {
+            "character": "Mack",
+            "line": "What do you mean, less?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're kind of drafting through time in the Chronicoms' wake."
+        },
+        {
+            "character": "Elena",
+            "line": "Drafting?"
+        },
+        {
+            "character": "Deke",
+            "line": "You ever see “Days of Thunder”? Uh, it's okay. I'll explain it to you later."
+        },
+        {
+            "character": "Mack",
+            "line": "How many jumps?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. We could stop after this or keep going. We jump until we end it. Or end them."
+        },
+        {
+            "character": "Elena",
+            "line": "But we go where they go."
+        },
+        {
+            "character": "Simmons",
+            "line": "And when, yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, so we'll always be a step behind. We need to find the Chronicom ship. Go on the offensive."
+        },
+        {
+            "character": "Deke",
+            "line": "Z1 can scan for it on the ground and in the air. We could get lucky."
+        },
+        {
+            "character": "Mack",
+            "line": "Good. We know they're here. We just need to figure out why."
+        },
+        {
+            "character": "Coulson",
+            "line": "We know Area 51 is a S.H.I.E.L.D. base."
+        },
+        {
+            "character": "Daisy",
+            "line": "We do?"
+        },
+        {
+            "character": "Coulson",
+            "line": "All the Areas are."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wow. Conspiracy Me was so right."
+        },
+        {
+            "character": "Simmons",
+            "line": "Groom Lake was an incubator for early space tech, experimenting in electromagnetics, liquid oxygen."
+        },
+        {
+            "character": "Coulson",
+            "line": "According to the archives, in 1955, there was a classified project at Area 51 called Helius. It could be what they're after."
+        },
+        {
+            "character": "Simmons",
+            "line": "Helius. Yeah, that was an early attempt at an Ion Fusion Reactor. But it... it was never fully realized, and the tech was mothballed."
+        },
+        {
+            "character": "Deke",
+            "line": "Not forever. In the future that I'm from, Ion Fusion was used to power the big weapons. Ship-to-ship killers."
+        },
+        {
+            "character": "Dasiy",
+            "line": "Well, they did just find out that we have a spaceship that follows them through time, so there's no better way to stop us than ship killers."
+        },
+        {
+            "character": "Mack",
+            "line": "Not if we get there first."
+        },
+        {
+            "character": "Man",
+            "line": "Order's up."
+        },
+        {
+            "character": "Woman",
+            "line": "Be right there, Eddie."
+        },
+        {
+            "character": "Mack",
+            "line": "I know you had doubts, but... these are nice."
+        },
+        {
+            "character": "Elena",
+            "line": "They do have their advantages. There's something else I need you to know. At the speakeasy, I tried to go fast and I... I couldn't."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, you're probably still recovering. After all, you were infected by an alien... An alien parasite."
+        },
+        {
+            "character": "Elena",
+            "line": "I just... I feel a little vulnerable being..."
+        },
+        {
+            "character": "Mack",
+            "line": "Slow like me? It's time to learn patience. You're still a good agent."
+        },
+        {
+            "character": "Elena",
+            "line": "I guess so. It's just gonna take a while to bounce back, I guess."
+        },
+        {
+            "character": "Mack",
+            "line": "You're not the only one."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm saying May isn't herself. She was completely emotionless. She went full ninja assassin on Enoch..."
+        },
+        {
+            "character": "Daisy",
+            "line": "That sounds like classic May to me. It's the reaction to you that didn't jive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, even if she isn't happy to see my face, you'd think she'd be confused or mad or give me something."
+        },
+        {
+            "character": "Daisy",
+            "line": "She would be happy. It's odd. But odd is the new normal. I mean, you are a highly sophisticated robot version of yourself, and we're in a diner in the ‘50s."
+        },
+        {
+            "character": "Coulson",
+            "line": "See, that part's cool. I mean, look around. We're at the precipice of the space race. It's a golden age of innovation..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, we still have a ways to go. And there's our mark. Gerald Sharpe. Department of Defense."
+        },
+        {
+            "character": "Sharpe",
+            "line": "All right, who do I have to sue to get a cup of coffee around here? Hey, you got any cream or sugar in this dust bowl?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, creamer? You can... You can borrow mine."
+        },
+        {
+            "character": "Sharpe",
+            "line": "The service in this place, right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I know."
+        },
+        {
+            "character": "Sharpe",
+            "line": "Oh, I guess I'm not the only one around here who needs a little pick-me-up."
+        },
+        {
+            "character": "Deke",
+            "line": "I think that's all the files."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey."
+        },
+        {
+            "character": "Deke",
+            "line": "I think this guy is just some pencil pusher that deals with budgets and risk management."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, so when he wakes up, he should crack wide open."
+        },
+        {
+            "character": "Elena",
+            "line": "May?"
+        },
+        {
+            "character": "Mack",
+            "line": "May. Your orders were to rest."
+        },
+        {
+            "character": "May",
+            "line": "What year are we in now?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's 1955. We're in Area 51, and we're trying to stop the Chronicoms from stealing a space weapon."
+        },
+        {
+            "character": "May",
+            "line": "When do we go in?"
+        },
+        {
+            "character": "Deke",
+            "line": "Did you need a second to process any of that or...?"
+        },
+        {
+            "character": "Mack",
+            "line": "We're up and running. Coulson and Simmons are headed there now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Coulson took the ID of the guy we have in that tent, and for Simmons, we had to get a little creative."
+        }
+    ]
+}

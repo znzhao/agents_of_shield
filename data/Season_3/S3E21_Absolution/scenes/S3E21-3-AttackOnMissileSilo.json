@@ -1,0 +1,78 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 3,
+    "scene_name": "AttackOnMissileSilo",
+    "description": "May, Mack, Lincoln, and Elena infiltrate the missile silo, strategizing about the uplink and moving swiftly to prevent the warhead's launch. The team faces personal tension as Mack and Elena debate their motivations, faith, and the risks ahead. The field agents are under pressure to complete their objectives before Hive can move forward with his plan.",
+    "roles": [
+        "melinda_may",
+        "alphonso_mackenzie",
+        "lincoln",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "missile silo (Pacific island launch site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "All right, here. This is us. Now, look, none of this works unless you..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We'll get the uplink. Coulson's just got to get those codes in time."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay."
+        },
+        {
+            "character": "Talbot",
+            "line": "You sure this is gonna work?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Nope. Ahh. Ahh! Many men on the Moon. Aaah. Aaah. Aaah! Aaah! Aaah! Aaah!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Stop it. Andaz is an inch taller than I am."
+        },
+        {
+            "character": "Talbot",
+            "line": "Undersecretary Thomas, thank you for getting back to us so quickly."
+        },
+        {
+            "character": "Thomas",
+            "line": "General Talbot. General Andaz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, Undersecretary Thomas. I have an Arms Nullification order, and I need you to provide the Kill Codes for..."
+        },
+        {
+            "character": "Thomas",
+            "line": "The code must be provided in person."
+        },
+        {
+            "character": "Talbot",
+            "line": "I have a high-level ATCU agent waiting outside right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's acting under my authority."
+        },
+        {
+            "character": "Thomas",
+            "line": "I'll need his credentials."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, he has them. You bet."
+        },
+        {
+            "character": "Thomas",
+            "line": "Okay."
+        }
+    ]
+}

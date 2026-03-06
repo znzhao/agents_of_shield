@@ -1,0 +1,135 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 16,
+    "scene_name": "SHIELDConfrontsSargeAtTheMuseum",
+    "description": "At the Museum of Natural History, S.H.I.E.L.D. agents, including Mack, May, Elena, Fox, Keller, and Dr. Benson, set up for an anticipated attack. Jaco’s team activates a device that unleashes a powerful beam, disrupting communications and causing chaos. As Sarge arrives through a breach driving a truck, agents are stunned by his uncanny resemblance to Coulson. In a tense standoff, Sarge kills Fox and asserts he knows nothing about S.H.I.E.L.D., shocking the agents.",
+    "roles": [
+        "jaco",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "piper",
+        "melinda_may",
+        "marcus_benson",
+        "sarge_pachakutiq",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "Museum of Natural History (Muncie, Indiana)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I want eyes on something."
+        },
+        {
+            "character": "Agent",
+            "line": "Clear 'em out!"
+        },
+        {
+            "character": "Agent",
+            "line": "Avoid the perimeter."
+        },
+        {
+            "character": "Agent",
+            "line": "First team, move up!"
+        },
+        {
+            "character": "Agent",
+            "line": "Staying clear in the next 90."
+        },
+        {
+            "character": "Agent",
+            "line": "We need you to clear this area!"
+        },
+        {
+            "character": "Agent",
+            "line": "Hurry, folks! Move! Move!"
+        },
+        {
+            "character": "Pax",
+            "line": "This is gonna take a minute. And I'm 90% that a band of natives just pulled up with an axe to grind. Do you want to buy us some more time, Snowflake?"
+        },
+        {
+            "character": "Snowflake",
+            "line": "With pleasure."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Stay back!"
+        },
+        {
+            "character": "Agent",
+            "line": "Hold your fire!"
+        },
+        {
+            "character": "Snowflake",
+            "line": "They have him! Th-they'll kill him!"
+        },
+        {
+            "character": "Fox",
+            "line": "We got hostages!"
+        },
+        {
+            "character": "Benson",
+            "line": "My God."
+        },
+        {
+            "character": "Mack",
+            "line": "May, go in stealth. I want eyes on them first, but the clock's ticking."
+        },
+        {
+            "character": "Snowflake",
+            "line": "Please! My son!"
+        },
+        {
+            "character": "Fox",
+            "line": "It's okay ma'am. Come with me. Are you hurt?"
+        },
+        {
+            "character": "Snowflake",
+            "line": "Don't worry. You'll be a butterfly."
+        },
+        {
+            "character": "Keller",
+            "line": "Get down!"
+        },
+        {
+            "character": "Mack",
+            "line": "Talk to me."
+        },
+        {
+            "character": "Benson",
+            "line": "Communication's knocked out, too."
+        },
+        {
+            "character": "May",
+            "line": "You okay?"
+        },
+        {
+            "character": "Elena",
+            "line": "Go. Go!"
+        },
+        {
+            "character": "Sarge",
+            "line": "Let her go."
+        },
+        {
+            "character": "Fox",
+            "line": "You..."
+        },
+        {
+            "character": "Sarge",
+            "line": "I don't ask twice."
+        },
+        {
+            "character": "Fox",
+            "line": "You're... You're from S.H.I.E.L.D."
+        },
+        {
+            "character": "Sarge",
+            "line": "Never heard of it."
+        }
+    ]
+}

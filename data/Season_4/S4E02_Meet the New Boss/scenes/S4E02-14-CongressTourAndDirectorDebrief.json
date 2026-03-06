@@ -1,0 +1,105 @@
+{
+    "season": 4,
+    "episode": 2,
+    "num": 14,
+    "scene_name": "CongressTourAndDirectorDebrief",
+    "description": "Back at the Playground, Coulson, Simmons, and Mace host the congressional tour, offering information about S.H.I.E.L.D.'s operations and navigating the aftermath of May’s episode. Coulson privately tries to convince Mace to let him help May, but Mace insists on handling the situation his own way and keeps the details classified.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Congressman",
+            "line": "Hey, can we get a picture?"
+        },
+        {
+            "character": "Mace",
+            "line": "Sure."
+        },
+        {
+            "character": "Congressman",
+            "line": "Hey, um, do you mind?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not at all."
+        },
+        {
+            "character": "Mace",
+            "line": "Okay. Nice and close, nice and tight. There we go. You know I love a photo op, right? All right. Nice. Now, as tempting as it may be to post these pictures on Facebook, Snapchat, your re-election campaign website... everything you saw today is confidential. You all signed an NDA, and unlike the Climate Change Accord, this one's enforcable. So if all goes well, we hope it does, next time we do this, it'll be much more public. Safe ride home, my friends."
+        },
+        {
+            "character": "Congressman",
+            "line": "Thanks, Director."
+        },
+        {
+            "character": "Mace",
+            "line": "Thanks for coming. Bye-bye."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got a moment?"
+        },
+        {
+            "character": "Mace",
+            "line": "Sure."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's about May. I have a plan that I think will help..."
+        },
+        {
+            "character": "Mace",
+            "line": "Oh, don't worry, Phil. I've got it handled."
+        },
+        {
+            "character": "Coulson",
+            "line": "The thing is, my experience can help here. I dealt with a similar situation when I..."
+        },
+        {
+            "character": "Mace",
+            "line": "When you were the Director. I know. Phil, am I getting something wrong? This was your idea. When you stepped down, you told the President you didn't want to be the face of the Agency."
+        },
+        {
+            "character": "Coulson",
+            "line": "For a whole host of reasons."
+        },
+        {
+            "character": "Mace",
+            "line": "And you said we needed a new face. And now that Steve Rogers went AWOL, you wanted a hero."
+        },
+        {
+            "character": "Coulson",
+            "line": "I said the new Director should be a powered person the public could trust. And they came up with you."
+        },
+        {
+            "character": "Mace",
+            "line": "And now you're stuck with me. I count on you to be one of my top advisors. There's no one better than you, truly."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. So..."
+        },
+        {
+            "character": "Mace",
+            "line": "But when it comes to May and Daisy, you can't be objective. And to that, I take exception. So, you focus on being the best agent we got, and I'll focus on being the best Director I can."
+        },
+        {
+            "character": "Coulson",
+            "line": "But what... what treatment are you implementing? How long will..."
+        },
+        {
+            "character": "Mace",
+            "line": "Hey. I'm sorry. That's classified."
+        },
+        {
+            "character": "May",
+            "line": "Get away from me. Get away from me. Aah! Get away from me! Get away from me! Aah! Get away!"
+        }
+    ]
+}

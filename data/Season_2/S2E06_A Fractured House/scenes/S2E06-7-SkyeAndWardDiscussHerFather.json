@@ -1,0 +1,92 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 7,
+    "scene_name": "SkyeAndWardDiscussHerFather",
+    "description": "Back at The Playground, Skye continues her questioning of Grant Ward, shifting the conversation directly to her father. Ward reveals Skye's father killed only to protect her, clarifies her mother was murdered by Hydra, and attempts to sway Skye by offering to help reunite them. Skye, determined but resolute, tells Ward his usefulness is over, signaling his pending transfer to Christian Ward's custody. The scene closes this arc of Skye's relationship with Ward for this episode.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I'm telling you the truth. You see that now, don't you? I never lied about your father. You just didn't give me the chance to tell you..."
+        },
+        {
+            "character": "Skye",
+            "line": "I know. But I'm giving you the chance now. And I want to know everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "He won't get away with it this time. It's not going to be simple... but I think I know a way we can both have what we want."
+        },
+        {
+            "character": "Ward",
+            "line": "Your father killed people, yes. But everything he did, Skye, he did because he loved you. I can't fault him for that. The people who died in the Hunan province, they weren't villagers. They were HYDRA agents. They'd found you and your mother."
+        },
+        {
+            "character": "Skye",
+            "line": "My mother? Is she alive, too?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. No, they killed her."
+        },
+        {
+            "character": "Skye",
+            "line": "Why?"
+        },
+        {
+            "character": "Ward",
+            "line": "I don't know. But when your father got there, he lost it, tore up the whole village and everyone in it."
+        },
+        {
+            "character": "Skye",
+            "line": "How? What is he?"
+        },
+        {
+            "character": "Ward",
+            "line": "Whatever he is, he lost his whole family in one day, and he cracked. But now he wants to put that family back together. I can help with that. I can take you to him."
+        },
+        {
+            "character": "Skye",
+            "line": "How? Where is he?"
+        },
+        {
+            "character": "Ward",
+            "line": "I've got connections. People I can talk to will track him..."
+        },
+        {
+            "character": "Skye",
+            "line": "What connections? What people? Raina's gone."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm resourceful."
+        },
+        {
+            "character": "Skye",
+            "line": "Then tell me what you know. Isn't there anything else? Please, Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "No. But we can find him together. I promise you."
+        },
+        {
+            "character": "Skye",
+            "line": "Thank you for telling me everything you know. It's time we get you out of here."
+        },
+        {
+            "character": "Ward",
+            "line": "Really?"
+        },
+        {
+            "character": "Skye",
+            "line": "Really. You're being transferred, Ward. Your brother wants you in his custody, and we're gonna give him exactly what he wants."
+        }
+    ]
+}

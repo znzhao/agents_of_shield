@@ -1,0 +1,51 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 5,
+    "scene_name": "BakshiAndListContinueExperiments",
+    "description": "Inside the Hydra base, Dr. List and Sunil Bakshi discuss their ongoing experiments—contrasting Mike’s cybernetic enhancements with Lincoln’s natural abilities. They talk about their hopes of isolating a genetic component for enhanced abilities, keeping the prisoners alive for experimentation just a little longer.",
+    "roles": [
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "Hydra Arctic Research Facility (Arctic Circle)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "List",
+            "line": "Thank you, doctor. Hail HYDRA. Well, Strucker's most pleased with our progress. And he's very anxious to see the subjects with his own eyes."
+        },
+        {
+            "character": "Bakshi",
+            "line": "They are an interesting contrast, these two. This one, the one they call Deathlok. His modifications are mechanical, bestowed by science, by man."
+        },
+        {
+            "character": "List",
+            "line": "And the other?"
+        },
+        {
+            "character": "Bakshi",
+            "line": "His oddities are intrinsic, somehow bestowed upon him by nature."
+        },
+        {
+            "character": "List",
+            "line": "Yes. But knowing the difference is not the same thing as re-creating it. And to that end, I hope to..."
+        },
+        {
+            "character": "Bakshi",
+            "line": "To isolate the genetic component, yes. A comparison between the two could be invaluable. Dr. Whitehall believed discovery requires experimentation."
+        },
+        {
+            "character": "List",
+            "line": "I do miss him."
+        },
+        {
+            "character": "Bakshi",
+            "line": "As do I. But the world moves on, and we form new allegiances."
+        },
+        {
+            "character": "List",
+            "line": "I'm very glad to hear that, especially as we proceed with the experimentation."
+        }
+    ]
+}

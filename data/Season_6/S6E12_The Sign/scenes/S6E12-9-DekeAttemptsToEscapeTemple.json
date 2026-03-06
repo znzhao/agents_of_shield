@@ -1,0 +1,61 @@
+{
+    "season": 6,
+    "episode": 12,
+    "num": 9,
+    "scene_name": "DekeAttemptsToEscapeTemple",
+    "description": "Inside the temple, Deke tries to use the depleted Shaw Drive to escape, but Fitz and Simmons warn him he doesn't have enough power left. Deke gets stranded in the temple with zombies and Izel. Simmons and Fitz guide him via comms, instructing him to reach the nearby Quinjet for safety while chaos erupts within and outside the temple.",
+    "roles": [
+        "deke_shaw",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "Temple (Izel's gateway / portal site in the western United States)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "I don't want to be here when this lady hits the high note. I'm getting out now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Negative! You don't have enough power to make it back to the Lighthouse."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll take anywhere but here!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Deke, no!"
+        },
+        {
+            "character": "Deke",
+            "line": "I'm out!"
+        },
+        {
+            "character": "Deke",
+            "line": "I'm okay. I made it. I'm safe. Cancel that! Not safe! Not alone!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Get to the Quinjet! It's closest."
+        },
+        {
+            "character": "Deke",
+            "line": "Where's that?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "West!"
+        },
+        {
+            "character": "Deke",
+            "line": "What's west?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Towards the bloody sun!"
+        }
+    ]
+}

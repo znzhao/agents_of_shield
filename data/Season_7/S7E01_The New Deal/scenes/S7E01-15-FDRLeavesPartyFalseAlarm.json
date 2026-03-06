@@ -1,0 +1,217 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 15,
+    "scene_name": "FDRLeavesPartyFalseAlarm",
+    "description": "Franklin D. Roosevelt leaves the party and the agents scramble to intercept, thinking the Chronicoms will attack. Daisy and Coulson follow him discreetly to a service entrance, only to realize there is no threat. Coulson helps Roosevelt into his wheelchair, a personal moment recognizing the governor's struggles and historical importance. The tension diffuses as the team realizes they have misjudged the Chronicoms’ real target.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "New York City (1931)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "MC",
+            "line": "Ladies and gentlemen, please welcome Governor Franklin Roosevelt."
+        },
+        {
+            "character": "Daisy",
+            "line": "How did he get in here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you see that? He's walking! Polio put him in a wheelchair. He wore leg braces to hide it. Do you have any idea how hard that must be?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It is a baller move. But, I mean, he is at an illegal party with dirty cops."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, it's only illegal for now. He campaigns on overturning Prohibition and helps end it in December of ‘33."
+        },
+        {
+            "character": "Daisy",
+            "line": "Careful. Your fanboy's showing. Thank you."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "Well, the band is far more entertaining, but I promise to do my best."
+        },
+        {
+            "character": "Mack",
+            "line": "It's really him."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "Uh, I want to thank you all..."
+        },
+        {
+            "character": "Freddy",
+            "line": "The Governor?"
+        },
+        {
+            "character": "Roosevelt",
+            "line": "... for coming out tonight..."
+        },
+        {
+            "character": "Freddy",
+            "line": "What's the big deal?"
+        },
+        {
+            "character": "Roosevelt",
+            "line": "... and making me feel so very..."
+        },
+        {
+            "character": "Mack",
+            "line": "He created the FEPC, for one, taking on discrimination in the workplace. He was way ahead of his time."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "... was unable to accompany me."
+        },
+        {
+            "character": "Mack",
+            "line": "Or will be. Uh, someday."
+        },
+        {
+            "character": "Deke",
+            "line": "So, anyway, Freddy, how'd you fall into this shifty line of work?"
+        },
+        {
+            "character": "Freddy",
+            "line": "Well, after my dad kicked the bucket, I was hustling work in the streets. Mr. Koenig offered me some."
+        },
+        {
+            "character": "Deke",
+            "line": "I lost my dad, too. You do what you gotta do."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Unknown variable. Unknown location. Unknown. Acquire target..."
+        },
+        {
+            "character": "Elena",
+            "line": "This is taking too much time."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Time. You will never comprehend its true nature. Our anthropologists have studied Earth for thousands of years. To speak in metaphor, we know the exact thread to pull at the exact moment to unravel S.H.I.E.L.D... forever."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll see."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Head right... Eyes up... Res... Resist..."
+        },
+        {
+            "character": "Enoch",
+            "line": "If you push too hard, his system could shut down permanently."
+        },
+        {
+            "character": "Simmons",
+            "line": "How are you going to hit FDR?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mmm. Interesting. This LMD thing might not be all bad. We're together. At a party with FDR. I look good, you look great, and for the first time, we're both superheroes."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's not right."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, I mean, it's not normal, but..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, I mean this. He's exposed. If... If the cops are Chronicoms, what are they waiting for?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe exposure is the problem. They don't want to show themselves in front of all these people."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Hold position... Pull... Pull... Pull the th... Pull the thread..."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's leaving? Where's he going?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The service entrance. That must be how he came in. He needed somewhere close to stash his wheelchair."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're gonna hit him as soon as he's out of sight."
+        },
+        {
+            "character": "Chronicom",
+            "line": "Sta-Stand... Stand by... Target FR..."
+        },
+        {
+            "character": "Enoch",
+            "line": "If he overloads completely, he will be of no use to us."
+        },
+        {
+            "character": "Chronicom",
+            "line": "FD-FD... Target FRD... FDR... FDR... FDR... Target FDR..."
+        },
+        {
+            "character": "Elena",
+            "line": "Simmons, stop it!"
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't. He's doing it to himself."
+        },
+        {
+            "character": "Chronicom",
+            "line": "FDR... FDR... F-F-R-F-FDR... Target..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Look out! I'm sorry. Governor Roosevelt."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "Have a little too much tipple, my friend?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Uh, forgive us. He's a big fan."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "Oh, hm. A little help, son?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Roosevelt",
+            "line": "It'll be our little secret, then."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Mack",
+            "line": "Where are the Chronicoms?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're missing something here."
+        }
+    ]
+}

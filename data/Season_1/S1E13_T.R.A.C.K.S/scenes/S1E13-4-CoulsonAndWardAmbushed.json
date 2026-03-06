@@ -1,0 +1,72 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 4,
+    "scene_name": "CoulsonAndWardAmbushed",
+    "description": "Coulson and Ward, separated from their team, evade security forces after being exposed. They narrowly avoid capture by jumping off the train following a thrown grenade, watching in shock as it appears to vanish. The two regroup, speculating about the nature of the weapon and the events that transpired, and decide to return to the Bus to reassess and warn their Italian contact. The tension increases as they realize they've lost track of the rest of their team.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "The train... it just..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yep. Vanished. Which, I might add... not easy."
+        },
+        {
+            "character": "Ward",
+            "line": "I told Simmons I'd come back for them."
+        },
+        {
+            "character": "Coulson",
+            "line": "May's there. They'll be okay."
+        },
+        {
+            "character": "Ward",
+            "line": "No, she's not."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is your phone working?"
+        },
+        {
+            "character": "Ward",
+            "line": "No. Cybertek must have taken out our electronics."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not a grenade, exactly. Might be some kind of cloaking mechanism."
+        },
+        {
+            "character": "Ward",
+            "line": "Maybe it created some kind of portal, jumped the train there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, let's hope not. I can't deal with Asgard today."
+        },
+        {
+            "character": "Ward",
+            "line": "Cybertek knew we were coming. How?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Could have been the Clairvoyant."
+        },
+        {
+            "character": "Ward",
+            "line": "We got to get back to the plane. Come on."
+        },
+        {
+            "character": "Coulson",
+            "line": "Keys might be in it. It's the country. People are very trusting in the country."
+        }
+    ]
+}

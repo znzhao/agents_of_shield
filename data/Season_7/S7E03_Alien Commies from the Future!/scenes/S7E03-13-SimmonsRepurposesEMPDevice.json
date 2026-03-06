@@ -1,0 +1,117 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "SimmonsRepurposesEMPDevice",
+    "description": "As Helius is priming to blow, Simmons, Daisy, Coulson, May, and Elena regroup to cobble together a modified EMP device in the Helius lab. Under pressure, Simmons leads the team as they pool resources, fight off Chronicom intervention, and improvise to disable the bomb. The stakes are life or death for S.H.I.E.L.D.'s scientific elite. They coordinate with Sousa, who joins the fight inside, and face off against the Chronicoms in a desperate struggle.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "sousa",
+        "sibyl"
+    ],
+    "vibe": "action-packed",
+    "location": "Area 51 (S.H.I.E.L.D. base / 1955)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Dr. Vega!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can we stop it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, the visitors. Where are they?"
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, listen. We have a little time, but you need to evacuate them now. Get them on the bus and drive away. Do you understand? Go."
+        },
+        {
+            "character": "Simmons",
+            "line": "But there is no time."
+        },
+        {
+            "character": "Coulson",
+            "line": "He doesn't know that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. How'd it go? Did you find the Chronicom?"
+        },
+        {
+            "character": "May",
+            "line": "Working on it."
+        },
+        {
+            "character": "Daisy",
+            "line": "If that thing blows..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We won't let it."
+        },
+        {
+            "character": "May",
+            "line": "He's gone."
+        },
+        {
+            "character": "Elena",
+            "line": "Maybe we can buy them some time."
+        },
+        {
+            "character": "Simmons",
+            "line": "They designed this EMP all wrong, but if I can get it working..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can blackout Helius?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, hope so. I need a wire stripper and a soldering iron."
+        },
+        {
+            "character": "Daisy",
+            "line": "I can't hack this thing, it's ancient, and it's hardwired."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, then help me. If we can amplify this, it's... Sir, no, you can't be in here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sir, they're evacuating. You need to leave."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Two Chronicoms. Good to know."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's alarmingly strong."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, I keep forgetting."
+        },
+        {
+            "character": "Sousa",
+            "line": "Get off him! Both of you, stop!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Connected? Here we go."
+        }
+    ]
+}

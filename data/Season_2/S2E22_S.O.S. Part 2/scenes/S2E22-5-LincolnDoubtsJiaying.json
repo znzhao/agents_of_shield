@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 5,
+    "scene_name": "LincolnDoubtsJiaying",
+    "description": "Lincoln discusses his concerns about Jiaying with Gordon on the Iliad. He recognizes Jiaying’s actions as murder, but Gordon justifies them for the survival of their people, urging Lincoln to remember his own troubled past and Jiaying’s role in saving him. The scene reveals the growing divide among the Inhumans regarding Jiaying’s increasingly ruthless leadership.",
+    "roles": [
+        "lincoln",
+        "gordon"
+    ],
+    "vibe": "dramatic",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gordon",
+            "line": "Beautiful, isn't it?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I don't know about beautiful, but I'm guessing it's dangerous."
+        },
+        {
+            "character": "Gordon",
+            "line": "In the wrong hands, lethal to our people. It's better we have control over it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "And what about us? How dangerous are we?"
+        },
+        {
+            "character": "Gordon",
+            "line": "Very. We've always been. Now they know it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What Jiaying did in there was... that was murder."
+        },
+        {
+            "character": "Gordon",
+            "line": "That was necessary. She'll do whatever's needed to protect our people. You know that better than most. Are you forgetting your life before we found you?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Of course I haven't forgotten."
+        },
+        {
+            "character": "Gordon",
+            "line": "Then you remember how far she went to save you and know how far she will go to save all of us. We're not doing anything that S.H.I.E.L.D. itself wouldn't do. They have turned Jiaying's own daughter against us. We have her locked up now, but given how lethal Skye is, it could get worse. You'd be wise to remember that."
+        }
+    ]
+}

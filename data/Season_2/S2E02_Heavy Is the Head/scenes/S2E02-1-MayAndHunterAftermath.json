@@ -1,0 +1,113 @@
+{
+    "season": 2,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "MayAndHunterAftermath",
+    "description": "May finds Hunter pinned under a car after an encounter with Creel. They realize that Hartley and Idaho have died and Creel escaped with the Obelisk. Hunter urges May to go after Creel, and she leaves him a tool to free himself before departing. Army soldiers arrive and take Hunter captive. Meanwhile, Coulson and May discuss the loss and track Creel's movements, with Coulson warning May not to engage directly as Creel enters a civilian area.",
+    "roles": [
+        "melinda_may",
+        "lance_hunter",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Hey, Idaho. Idaho, can you hear me? Come on! Damn it! Come on!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Creel's on foot. But he won't be for long."
+        },
+        {
+            "character": "May",
+            "line": "Hartley and Idaho?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Dead. That's no use. It's jammed."
+        },
+        {
+            "character": "May",
+            "line": "We have to get you out of here!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Look, my leg is pinned. Don't worry about me. There's no time."
+        },
+        {
+            "character": "May",
+            "line": "Soldiers are coming."
+        },
+        {
+            "character": "Hunter",
+            "line": "Creel has the damn thing that burned Harley! You need to get him! Go!"
+        },
+        {
+            "character": "May",
+            "line": "Good luck."
+        },
+        {
+            "character": "Soldier",
+            "line": "Hands on your head! On your knees!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell was Hunter thinking?"
+        },
+        {
+            "character": "May",
+            "line": "He was trying to save Hartley!"
+        },
+        {
+            "character": "Coulson",
+            "line": "And you're absolutely sure?"
+        },
+        {
+            "character": "May",
+            "line": "They're gone. It was bad, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two agents down, another captured. This shouldn't have happened. We got a hit. 911 just picked up a stolen-vehicle call up the road from you. Older model red-and-white pickup."
+        },
+        {
+            "character": "May",
+            "line": "That's got to be Creel."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, you're approaching a civilian area without backup. If you see him, do not engage. You copy? Do you copy? May, that doesn't sound covert."
+        },
+        {
+            "character": "May",
+            "line": "I've got him. Closing in."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, drop back. Do not engage. I repeat... do not engage."
+        },
+        {
+            "character": "May",
+            "line": "He's not looking. I have a shot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Negative!"
+        },
+        {
+            "character": "May",
+            "line": "We can't just let him go, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Creel isn't working alone, And I want to know who he answers to. Drop back into surveillance mode now. That's an order, Agent May!"
+        },
+        {
+            "character": "May",
+            "line": "Yes, sir."
+        }
+    ]
+}

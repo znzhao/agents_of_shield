@@ -1,0 +1,73 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 5
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult hacker and former Rising Tide member who has transitioned into a trusted S.H.I.E.L.D. consultant and aspiring field agent. Her rebellious hacker roots contrast with her growing sense of responsibility, loyalty, and teamwork with S.H.I.E.L.D., where she seeks to prove her worth in covert operations and fieldwork. Deeply motivated by a lifelong search for her parents, which fuels her hacking skills and determination, Skye struggles to balance personal ties and idealism against the pragmatic demands and ethical complexities of her new role. Her evolving relationships—especially the fraught dynamic with her former mentor and romantic interest Miles Lydon—highlight her internal conflict between past affiliations and current loyalties. Skye contributes strong technical expertise and innovative problem-solving on missions, while coping emotionally with betrayal, trust issues, and the harsh realities of her world.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "support_second_chances",
+        "goal": "To support second chances and rehabilitation for former agents who have gone rogue, recognizing the complexity of their situations"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "find_parents",
+        "goal": "To uncover the truth about her parents and origins despite obstacles and institutional secrecy"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_6",
+      "context": "leveraging social media for investigation",
+      "catch_phrase": "Yep, I'm getting full bars, which means if I was down here and 55 guys were in scary red masks, you know what I would do? Instagram."
+    }
+  ]
+}

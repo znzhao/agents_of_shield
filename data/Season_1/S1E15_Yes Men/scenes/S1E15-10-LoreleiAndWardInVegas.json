@@ -1,0 +1,67 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 10,
+    "scene_name": "LoreleiAndWardInVegas",
+    "description": "In a luxury setting, Lorelei seduces and manipulates Ward, instructing him to build her an army and offering him reward. Ward, under Lorelei’s spell, confesses he once had feelings for someone else on the team. Their dangerous partnership escalates as they cement their alliance and plan to eliminate Lady Sif.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lorelei",
+            "line": "I am fortunate to have found you. You are quite resourceful."
+        },
+        {
+            "character": "Ward",
+            "line": "Just well trained."
+        },
+        {
+            "character": "Lorelei",
+            "line": "No. You are worlds apart from those men in the desert."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not an idiot. I know you value me no more than those bikers back there. The truth is... I don't care."
+        },
+        {
+            "character": "Lorelei",
+            "line": "Because of what you feel?"
+        },
+        {
+            "character": "Ward",
+            "line": "I've felt something before for someone on my team. It seems foolish now. I would die for you. Any man would."
+        },
+        {
+            "character": "Lorelei",
+            "line": "But I don't want them. I want you. You're stronger... a real man with the rage of a berserker inside. You will present me with an army. And I will give you a gift in return."
+        },
+        {
+            "character": "Lorelei",
+            "line": "When I first arrived here, I thought Earth left much to be desired. But from here, it's quite beautiful. I've spent the last 600 years locked away in a dark, cold cell... my throat shackled... my voice silenced. Torture."
+        },
+        {
+            "character": "Ward",
+            "line": "You never have to go back there."
+        },
+        {
+            "character": "Lorelei",
+            "line": "But Sif is on the hunt. She will not rest. She will not stop. And I will not know peace."
+        },
+        {
+            "character": "Ward",
+            "line": "So we take her out of the equation. Eliminate the threat."
+        },
+        {
+            "character": "Lorelei",
+            "line": "The graves of Asgard's enemies are littered with men who underestimated Sif. Do not make the same mistake. You do not know her."
+        },
+        {
+            "character": "Ward",
+            "line": "No. I don't. But the people she's working with now... I know them."
+        }
+    ]
+}

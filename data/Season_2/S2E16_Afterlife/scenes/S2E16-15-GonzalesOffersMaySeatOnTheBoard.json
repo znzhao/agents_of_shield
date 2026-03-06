@@ -1,0 +1,44 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 15,
+    "scene_name": "GonzalesOffersMaySeatOnTheBoard",
+    "description": "Gonzales meets with May, offering her a place on S.H.I.E.L.D.'s new ruling council in an attempt to bridge factions and unite their leadership. Through a tense exchange, both express their mutual distrust but also their loyalty to S.H.I.E.L.D. Gonzales urges May to help prevent further conflict and ensure the organization's survival.",
+    "roles": [
+        "robert_gonzales",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Gonzales",
+            "line": "This belonged to my father in the Second World War. He used it to kill over a hundred Nazis. He said it always had a way of finding the right target at the right time. If you think I'm a traitor, now's your chance to do something about it. Pick it up. Pull the trigger. Let's end this right now. Or you can hear me out. It's come to my attention that I'm not handling you properly. And since... I must accept the recommendation of others when I'm out-voted... here we stand. Assuming you decide not to shoot me, I would like to offer you a seat on our board."
+        },
+        {
+            "character": "May",
+            "line": "What's the catch?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "No catch. We're gonna bring Coulson in with or without your help. And when we do, he should have a strong advocate on the board."
+        },
+        {
+            "character": "May",
+            "line": "And then what?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "That's for us to decide. But right now he's acting like a fugitive and a threat. We do not take any threat against S.H.I.E.L.D. lightly."
+        },
+        {
+            "character": "May",
+            "line": "Neither do I. I appreciate the theatrics, but even you're not stupid enough to hand me a loaded gun."
+        },
+        {
+            "character": "Gonzales",
+            "line": "This is not about Coulson. It's not about me. It's not about anyone on this ship. It's about S.H.I.E.L.D. We cannot afford to be enemies to each other when there are new threats out there waiting for a moment we are at our weakest. A house built on shifting sand will fall. And without a strong and united foundation, S.H.I.E.L.D. will fall again. I'm asking you to help us defend her, Agent May. Take a seat on our board."
+        }
+    ]
+}

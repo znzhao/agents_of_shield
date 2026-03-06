@@ -1,0 +1,81 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 13,
+    "scene_name": "LincolnAftermath",
+    "description": "Back at the Playground, Lincoln explains himself to Fitz and Simmons after taking the antitoxin. The consequences of his action become clear as Simmons prepares to take a tissue sample from his brain. The scene captures the continuing disarray, distrust, and urgency in the lab.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "I'm sorry. There was just no other choice. We both thought it was the right thing to do."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. Don't act as if we're on the same side on this. Coulson gave you a direct order, and you disobeyed. Now, half the lab's computers are fried, not to mention the blown servers."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm sorry about that. Really, I am. But the antitoxin is gonna work. I can feel it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we won't know until Simmons has run some more tests."
+        },
+        {
+            "character": "Simmons",
+            "line": "And for that, I'll need to drill inside your head."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. The tissue sample you need is from my brain?"
+        },
+        {
+            "character": "Simmons",
+            "line": "That's correct, something you would have known, had you asked questions instead of going behind our backs."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's all yours, Doctor."
+        },
+        {
+            "character": "May",
+            "line": "He sounds pretty amazing."
+        },
+        {
+            "character": "James",
+            "line": "Oh, yeah. He's got this whole Ziggy Stardust vibe thing happening. It's... It's quite epic."
+        },
+        {
+            "character": "May",
+            "line": "Well, I would love to meet him."
+        },
+        {
+            "character": "James",
+            "line": "Well, I just might be able to broker an introduction for you."
+        },
+        {
+            "character": "May",
+            "line": "Right now? You'd really do that for me?"
+        },
+        {
+            "character": "James",
+            "line": "Not so sure if right now works. I mean, he's kind of a busy guy, with changing the world and everything."
+        },
+        {
+            "character": "May",
+            "line": "Right."
+        },
+        {
+            "character": "James",
+            "line": "No, no, no. Don't go rainy-day blues on me. He might still be in that abandoned mining facility."
+        }
+    ]
+}

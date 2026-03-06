@@ -1,0 +1,52 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 12,
+    "scene_name": "FuryAssistsSimmonsAndLooksForCoulson",
+    "description": "On the S.H.I.E.L.D. plane, Fury tends to the injured Simmons and Fitz, learning about their ordeal and discussing beacons and trackers. Fury reveals his true intent is to find Coulson, connecting the plot threads and bridging the rescue to the team’s main mission.",
+    "roles": [
+        "jemma_simmons",
+        "nick_fury"
+    ],
+    "vibe": "hopeful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fury",
+            "line": "You're in decompression on a jet back to the mainland."
+        },
+        {
+            "character": "Simmons",
+            "line": "They told us you were dead."
+        },
+        {
+            "character": "Fury",
+            "line": "Good. We want word to get around on that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Fury",
+            "line": "Uh, easy. Easy. His heart's still beating... just barely. I have a full med team with him. But you have to remain in this chamber, okay? His brain was without oxygen for a long time, but you saved him."
+        },
+        {
+            "character": "Simmons",
+            "line": "It was the other way around. How did you find us?"
+        },
+        {
+            "character": "Fury",
+            "line": "That makeshift beacon of yours... good thinking. Led us right to you. Lucky we were looking."
+        },
+        {
+            "character": "Simmons",
+            "line": "You were looking?"
+        },
+        {
+            "character": "Fury",
+            "line": "For my man Coulson. I understand you're involved in a dispute I might want to weigh in on. Do you have anything that might lead me to him?"
+        }
+    ]
+}

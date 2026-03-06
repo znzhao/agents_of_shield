@@ -1,0 +1,93 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 5,
+    "scene_name": "ZephyrOneLaunchAndHaleSurrenders",
+    "description": "Daisy and May board Zephyr One and head for Hale’s bunker, while Thomas preps the launch. At the Hydra facility, Hale gives herself up to May and Daisy without resistance, explaining Ruby’s intentions and warning them about FitzSimmons’ potential danger if Ruby succeeds in her plan with the Gravitonium.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "hale"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "It feels good going on offense for a change, you and me."
+        },
+        {
+            "character": "May",
+            "line": "If I need one, I'll take one. I've got some pent-up aggression that needs let out."
+        },
+        {
+            "character": "Daisy",
+            "line": "You want to talk about it?"
+        },
+        {
+            "character": "May",
+            "line": "No, I want to hit."
+        },
+        {
+            "character": "Thomas",
+            "line": "Agent Johnson, system check is complete."
+        },
+        {
+            "character": "Daisy",
+            "line": "Go hot, wait for my signal. Thomas, initiate launch countdown. And try not to hit us on the way down."
+        },
+        {
+            "character": "Thomas",
+            "line": "Copy that. 10 seconds."
+        },
+        {
+            "character": "May",
+            "line": "Safety first."
+        },
+        {
+            "character": "Daisy",
+            "line": "Always. Game on."
+        },
+        {
+            "character": "Lee",
+            "line": "What was that?"
+        },
+        {
+            "character": "Hale",
+            "line": "Stop. Stand down."
+        },
+        {
+            "character": "Lee",
+            "line": "Ma'am, what are you..."
+        },
+        {
+            "character": "Hale",
+            "line": "That's an order. I surrender."
+        },
+        {
+            "character": "Daisy",
+            "line": "And we totally believe you."
+        },
+        {
+            "character": "Hale",
+            "line": "There's no time for us to fight each other. I need your help. We all have to leave right now."
+        },
+        {
+            "character": "May",
+            "line": "Help you? You can't be serious."
+        },
+        {
+            "character": "Hale",
+            "line": "My daughter took the Gravitonium and went to use Strucker's machine."
+        },
+        {
+            "character": "Daisy",
+            "line": "The Destroyer of Worlds."
+        },
+        {
+            "character": "Hale",
+            "line": "She's at the same facility your scientist friends are. Last I knew, they were alive. But if Ruby succeeds, you make no mistake, she will kill them."
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 4,
+    "scene_name": "CybertekUndercoverInterview",
+    "description": "Coulson and May, undercover as former S.H.I.E.L.D. scientists, meet Cybertek R&D leadership at the Palo Alto headquarters. As Skye and Triplett provide technical support remotely, the team realizes Cybertek keeps all files as hard copies, thwarting their digital infiltration plan. Meanwhile, Fitz and Simmons banter while tracking May and Coulson's progress. The covert op gets redirected as they scope out the building's fourth floor, believed to house Project Deathlok records.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "intense",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ott",
+            "line": "Hi. Welcome to Cybertek. Sit. Please. I'm Ott, senior V.P. of R&D. This is Diaz."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm Theo Tittle. This is Dr. Roum. Thanks so much for seeing us on such short notice."
+        },
+        {
+            "character": "Ott",
+            "line": "We've met with a number of other former S.H.I.E.L.D. scientists recently, and I must say, thus far, we're... underwhelmed. Hydra, on the other hand, less constrained in their thinking. And younger."
+        },
+        {
+            "character": "Diaz",
+            "line": "Usually younger."
+        },
+        {
+            "character": "Ott",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "I told you we should have gone in."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, hush. May looks barely a day over... 30. You're gorgeous."
+        },
+        {
+            "character": "Skye",
+            "line": "Score one for the Howling Commandos. Your grandpa's pin should help me locate Cybertek's mainframe."
+        },
+        {
+            "character": "Triplett",
+            "line": "I didn't know they had wi-fi back in the day."
+        },
+        {
+            "character": "Skye",
+            "line": "They didn't. That's the beauty of the pin. It uses UHF to search for data. Nobody's even scanning those frequencies for potential leaks. That's weird. I'm not finding any digital data about anything, let alone a source for it. How is that possible?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Maybe it's protected. Or... insulated somewhere inside?"
+        },
+        {
+            "character": "Skye",
+            "line": "Guys, just keep them busy a minute longer."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, now, show them the icer bullet. I designed this to be powerful..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I designed this to be powerful, nonlethal, and to break... break up under subcutaneous tissue."
+        },
+        {
+            "character": "Simmons",
+            "line": "And my challenge was that it could only hold a dose of..."
+        },
+        {
+            "character": "May",
+            "line": "85 micrograms of dendrotoxin. He should have run the specs by me before building the molds."
+        },
+        {
+            "character": "Simmons",
+            "line": "But I think we can all agree that the..."
+        },
+        {
+            "character": "May",
+            "line": "that the true beauty is in my hyperconcentrated..."
+        },
+        {
+            "character": "Simmons",
+            "line": "... dendrotoxin formula..."
+        },
+        {
+            "character": "Fitz",
+            "line": "... my cartridge-case..."
+        },
+        {
+            "character": "Coulson",
+            "line": "...cartridge-case ejection system, obviously."
+        },
+        {
+            "character": "Coulson",
+            "line": "...concentrated dendrotoxin formula with compressed air expulsion."
+        },
+        {
+            "character": "Ott",
+            "line": "We've seen one of these bullets before. What did they use it with?"
+        },
+        {
+            "character": "Diaz",
+            "line": "The sleepy-sleep gun, I think."
+        },
+        {
+            "character": "Ott",
+            "line": "That's right. Our team took this rudimentary concept and converted it into an aerosol grenade. Much more useful."
+        },
+        {
+            "character": "Fitz",
+            "line": "But this is an icer!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, but this is an icer. Triple the stopping power and a much cooler... name."
+        },
+        {
+            "character": "Ott",
+            "line": "What else do you have?"
+        },
+        {
+            "character": "Skye",
+            "line": "Here we go. Building permits Cybertek's filed in the city. There's something funky about the fourth floor. Only one way in or out. Extra-reinforced security door."
+        },
+        {
+            "character": "Triplett",
+            "line": "That's got to be it, right?"
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson, May, can you get to the fourth floor?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a shame it didn't work out."
+        },
+        {
+            "character": "Ott",
+            "line": "It is."
+        },
+        {
+            "character": "May",
+            "line": "So lovely meeting you both."
+        },
+        {
+            "character": "May",
+            "line": "Does your sweater itch?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A little bit."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know if I've said it enough, but... I'm glad you're back."
+        },
+        {
+            "character": "May",
+            "line": "Try not to set the drapes on fire."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, I think I know why you couldn't find the mainframe. There isn't one."
+        },
+        {
+            "character": "Skye",
+            "line": "What do you mean there isn't one?"
+        },
+        {
+            "character": "Coulson",
+            "line": "All the files are hard copies."
+        },
+        {
+            "character": "May",
+            "line": "That's why granny was typing during our meeting. Well, we're here. Might as well look around."
+        },
+        {
+            "character": "Raina",
+            "line": "You're staring at me again."
+        },
+        {
+            "character": "Mike",
+            "line": "You gave them my son. All I see are pictures of him in a cell."
+        },
+        {
+            "character": "Raina",
+            "line": "I was following orders. Just like you."
+        },
+        {
+            "character": "Mike",
+            "line": "So, is someone playing god with you, too? Seeing everything you see? Waiting to push a button and blow a hole in your skull if you disobey? Is there?"
+        },
+        {
+            "character": "Mike",
+            "line": "Then why are you here?"
+        },
+        {
+            "character": "Raina",
+            "line": "For you and others like you... people with gifts. I'm waiting for what's inside to be revealed. The girl, Skye... what do you know about her? Where does she come from?"
+        },
+        {
+            "character": "Mike",
+            "line": "Why do you care?"
+        },
+        {
+            "character": "Raina",
+            "line": "Because inside, I believe she and I have something in common."
+        }
+    ]
+}

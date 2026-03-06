@@ -1,0 +1,130 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 5,
+    "scene_name": "FitzAndImaginarySimmons",
+    "description": "Within the Playground, Fitz has a heartfelt conversation with his hallucination of Simmons, reflecting on missing her and the changes in his life. The exchange highlights his unresolved feelings and the toll her absence has taken. Meanwhile, Hunter chats with Skye about the mysterious painting, encouraging her to investigate further into Coulson's secrets.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "lance_hunter",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Don't mind me just standing here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Did Skye just steal that painting from our lab?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Mack certainly has an impressive physique, wouldn't you say?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Bugger off."
+        },
+        {
+            "character": "Simmons",
+            "line": "No. It's true. Look at him. He's quite a lot of a man."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, obviously I agree, what with you being my subconscious and everything. What? I can say that to you. It doesn't mean anything. It's just a casual observation. That's all it is."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, I know that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Well, why are you still staring at me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Because you just admitted that I'm not real."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, please. I'm not gonna have this conversation with myself again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, this is a good thing. You've got friends now, real friends. You don't need me anymore."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but I miss you. I mean, I still... miss her."
+        },
+        {
+            "character": "Simmons",
+            "line": "But she left and moved on. Maybe it's time you do the same."
+        },
+        {
+            "character": "Hunter",
+            "line": "I was a fat baby."
+        },
+        {
+            "character": "Skye",
+            "line": "You know this is, like, a religious painting, right?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, well, when aliens started scribbling on the back of it, it kind of voided god's warranty, as far as I'm concerned."
+        },
+        {
+            "character": "Skye",
+            "line": "I just wish I knew what that scribbling meant."
+        },
+        {
+            "character": "Hunter",
+            "line": "The director won't be much help."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you think I was wrong to press?"
+        },
+        {
+            "character": "Hunter",
+            "line": "No, on the contrary, couldn't agree more. Reminded me of how I used to put the screws to my old lady."
+        },
+        {
+            "character": "Skye",
+            "line": "It's not like that."
+        },
+        {
+            "character": "Hunter",
+            "line": "No? Then why put yourself in Coulson's cross hairs?"
+        },
+        {
+            "character": "Skye",
+            "line": "Because Coulson used to be different. He wasn't always so closed off."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm telling you, my ex was the same way... always keeping secrets. Drove me absolutely mental. There really is only one way to handle people like that. Dig deeper. Invade their privacy till they go crazy themselves."
+        },
+        {
+            "character": "Skye",
+            "line": "Wow. Thanks for the advice, divorced guy."
+        },
+        {
+            "character": "Hunter",
+            "line": "All I'm saying is there's something Coulson doesn't want you to know. Maybe you should find out what it is."
+        },
+        {
+            "character": "Skye",
+            "line": "And how do you suggest I do that?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, don't know exactly. But it seems your HYDRA boyfriend downstairs would be a good place to start."
+        }
+    ]
+}

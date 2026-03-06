@@ -1,0 +1,145 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 6,
+    "scene_name": "VideoClueAndForensicsDiscussion",
+    "description": "Back at their base, Skye uncovers social media footage of Sif’s earlier fight with a mysterious man. Fitz, Simmons, Hunter, and Mack analyze the video and associated evidence, looking for clues about the enemy. The science team speculates about the attacker's capabilities and alien nature, laying the groundwork for the investigation.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "lance_hunter",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "We found a couple of other videos of the fight, and we've been analyzing them frame by frame, which..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Which didn't get us much in the way of, um..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of anything new."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Thanks. Um, until we get to... here."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I do very much enjoy that part."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, he... he's... he's wearing something... something mechanical, and she nailed it."
+        },
+        {
+            "character": "Simmons",
+            "line": "And there's more."
+        },
+        {
+            "character": "Coulson",
+            "line": "What is that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Blood?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Hope so. It could give us a lead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, there's no way to know from the video."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once we land, Fitz, you go with Hunter and Mack, handle forensics. I need you and Bobbi to talk to witnesses in the area, see if we can track down where this guy went."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, the science division has loaded the team with heavier suppression artillery. After Raina's vanishing act, we advise that when you find this... man, you contain him first, ask questions later. New ICERs are still in development."
+        },
+        {
+            "character": "Coulson",
+            "line": "Very good. Keep me posted. New ICERs?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. The mechanical design is still top-notch, but we're looking into a more concentrated dendrotoxin formula."
+        },
+        {
+            "character": "Fitz",
+            "line": "And wouldn't that be dangerous?"
+        },
+        {
+            "character": "Simmons",
+            "line": "But effective. Given these elevated threats, we can't risk it not being."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "My mind is that of a lost adolescent. I can provide no information of value."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not totally true. Judging by your clothes, we know you were undercover, probably something you learned after your last visit here. Your usual full-armor look is a little more... conspicuous."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "So you're saying I wear that armor most of the time?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mhm."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Does this mean I'm a warrior?"
+        },
+        {
+            "character": "May",
+            "line": "A good one."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "A great warrior."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's just details that you're missing. You must remember things about your home world, right?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Only basic lessons a child could learn."
+        },
+        {
+            "character": "Coulson",
+            "line": "The name of your sword?"
+        },
+        {
+            "character": "May",
+            "line": "What about Thor?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Um... I do not know this word, yet when you say it, I... want to smile. Why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Who can explain the mysteries of the Asgardian brain?"
+        },
+        {
+            "character": "May",
+            "line": "I can."
+        }
+    ]
+}

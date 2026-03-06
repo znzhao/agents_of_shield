@@ -1,0 +1,21 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 10,
+    "scene_name": "RadcliffeExplainsAIDAIntentions",
+    "description": "Fitz and Radcliffe, joined by AIDA, have a thoughtful discussion about her ultimate purpose as a safeguard — not a weapon — intended to protect agents as a decoy in the field. Fitz’s unease persists, especially regarding potential misuse by S.H.I.E.L.D.'s leadership. The two scientists agree to keep AIDA secret until she's perfect, cementing their pact of secrecy.",
+    "roles": [
+        "leo_fitz",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "suspenseful",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "This could be very dangerous. So much could go wrong."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 4,
+    "scene_name": "DaisyAndMayFaceDangersSeparately",
+    "description": "Meanwhile, Daisy continues searching for the rest of the team. May, separated from the others, encounters Deke, who subdues and restrains her, forcibly implanting a 'metric' device into her wrist. The tension builds as both Daisy and May navigate threats on their own in the hostile, unfamiliar outpost.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, that was right, and not the only one."
+        },
+        {
+            "character": "Deke",
+            "line": "I've been looking for you."
+        },
+        {
+            "character": "May",
+            "line": "Aah!"
+        },
+        {
+            "character": "Deke",
+            "line": "You know, I didn't want to hurt you, but the idea is starting to grow on me. I deserve better than this."
+        },
+        {
+            "character": "May",
+            "line": "Tell that to the corpses."
+        },
+        {
+            "character": "Deke",
+            "line": "Damn. I was not prepared for that, I got to admit. You pack a big punch for such a small package. I got to read the fine print next time. I hate wasting the charge on that thing. Honestly, I wasn't trying to hurt you, but you had a lead pipe at the ready, and I can't... Okay. I guess we'll stick with the first impression."
+        },
+        {
+            "character": "May",
+            "line": "I don't know what you did to these people or why I was dragged here, but..."
+        },
+        {
+            "character": "Deke",
+            "line": "Save it. The less I know, the better."
+        }
+    ]
+}

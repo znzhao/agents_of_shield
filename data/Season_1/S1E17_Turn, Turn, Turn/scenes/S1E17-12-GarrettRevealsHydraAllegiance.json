@@ -1,0 +1,111 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 12,
+    "scene_name": "GarrettRevealsHydraAllegiance",
+    "description": "Garrett, his cover blown, openly discusses Hydra's infiltration and his own betrayal with Coulson, May, and Fitz. He offers Coulson and Fitz a place in Hydra, but they both flatly refuse, expressing their moral outrage. Garrett orders their execution, but an explosion triggered by Ward and Skye provides the opportunity for Coulson and May to fight back and subdue the Hydra agents. Fitz uses a stun grenade to help defeat Garrett, and Hand enters with her team to take him into custody.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "john_garrett",
+        "victoria_hand"
+    ],
+    "vibe": "action-packed",
+    "location": "The Hub (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Those three men in your unit... I guess they asked the wrong questions."
+        },
+        {
+            "character": "Garrett",
+            "line": "Until today, it was all about keeping the secret."
+        },
+        {
+            "character": "Fitz",
+            "line": "Are you gonna kill us?"
+        },
+        {
+            "character": "Garrett",
+            "line": "That wasn't my plan, really. If it was, I could have done that anytime I wanted. No, Coulson and I go way back, back to the days when Fury was teaching us tactics... Clearing corners, slicing the pie. Remember, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fury would bury you for this."
+        },
+        {
+            "character": "Garrett",
+            "line": "Probably. Instead, he'll just have to roll over in his grave. He must have uncovered our secret. Top brass did what they had to do. Explains why we've suddenly come “out of the shadows.” Not a minor inconvenience, I might add."
+        },
+        {
+            "character": "May",
+            "line": "“Top brass?”"
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, my, yes. Tip-top. We had a good thing going, too... waving the S.H.I.E.L.D. flag as hard as we could. I guess we'll be changing colors now."
+        },
+        {
+            "character": "Coulson",
+            "line": "For Hydra? You really believe all that crap... spreading death and destruction?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I wouldn't say I'm a true believer. Let's just say I felt the wind changing direction and swung my sail. You really should, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "I would die before serving Hydra, you sick son of a bitch."
+        },
+        {
+            "character": "Garrett",
+            "line": "I hate to tell you, but... you've been serving Hydra all along. I guess death is the only alternative. It's a sad thing. I consider you a friend. I was happy when I heard you'd made it through."
+        },
+        {
+            "character": "Coulson",
+            "line": "So happy you had me tortured for three days to find out how they did it."
+        },
+        {
+            "character": "Garrett",
+            "line": "I didn't enjoy that. Phil, t-this is me being honest."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, John This is you being a psychopath."
+        },
+        {
+            "character": "Garrett",
+            "line": "I know you'd follow him to the grave, so... As for you, Agent Fitz, you'll hold a very high rank on our tech division if you volunteer. If not, you'll have no rank and a lot of pain. Of course, either way, your services will be required."
+        },
+        {
+            "character": "Fitz",
+            "line": "You're gonna suffer for what you've done. And I... I plan on being a very big part of that."
+        },
+        {
+            "character": "Garrett",
+            "line": "I like you, kid. All right. Let them have it. But shoot that one in the kneecaps."
+        },
+        {
+            "character": "Skye",
+            "line": "Was that all of them?"
+        },
+        {
+            "character": "Ward",
+            "line": "It wasn't as big as I thought..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Aah!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not Hydra."
+        }
+    ]
+}

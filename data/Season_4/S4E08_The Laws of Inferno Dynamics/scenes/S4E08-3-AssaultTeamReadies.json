@@ -1,0 +1,173 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 3,
+    "scene_name": "AssaultTeamReadies",
+    "description": "Fitz scans the building and relays details to Coulson. Mack and Robbie have a brief, tense exchange about leadership and consequences, with Mack reminding Robbie who he ultimately answers to. Daisy joins up with Elena, and the team discusses the ongoing seismic events. Robbie heads out to search the building, and soon the S.H.I.E.L.D. science team begins to monitor the situation, theorizing about Eli's powers and potential traps inside.",
+    "roles": [
+        "leo_fitz",
+        "phil_coulson",
+        "robbie_reyes",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Just finished a scan of the building. I'm uploading signatures now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yo, I'm not wearing a mask, man."
+        },
+        {
+            "character": "Mack",
+            "line": "It's not a mask, it's a balaclava."
+        },
+        {
+            "character": "Robbie",
+            "line": "Thought that was a dessert."
+        },
+        {
+            "character": "Mack",
+            "line": "What? No, ma... Never mind. Director just wants you to keep a low profile. There's a lot of media out here."
+        },
+        {
+            "character": "Robbie",
+            "line": "I don't answer to him."
+        },
+        {
+            "character": "Mack",
+            "line": "No, you don't. Guy you answer to is a lot more unforgiving."
+        },
+        {
+            "character": "Robbie",
+            "line": "Yeah, well, you know a little something about that now, don't you?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, hopefully, when all this is over, he won't be anybody's boss anymore."
+        },
+        {
+            "character": "Robbie",
+            "line": "Amen to that, brother."
+        },
+        {
+            "character": "Coulson",
+            "line": "All good?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Robbie's on his way to Daisy, and, uh, Yo-Yo's already with her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Simmons, the gang's all here and in position."
+        },
+        {
+            "character": "Simmons",
+            "line": "Copy that, Agent Coulson. Fitz, do we have thermals off the satellite?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Morrow's men retreated inside a few minutes ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "All of them?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Strange."
+        },
+        {
+            "character": "Simmons",
+            "line": "Zephyr to Assault Team, be aware that all Morrow's men have pulled back. You need to be ready for anything."
+        },
+        {
+            "character": "Fitz",
+            "line": "Shards of carbon out of thin air. It's not possible. You can't create something out of nothing."
+        },
+        {
+            "character": "Simmons",
+            "line": "First law of thermodynamics."
+        },
+        {
+            "character": "Fitz",
+            "line": "Exactly. Even in the realm of quantum vacuum fluctuations, there are still laws. So how's he doing it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe it's magic."
+        },
+        {
+            "character": "Fitz",
+            "line": "I do not like magic. Or clowns. Or clowns with knives in the dark."
+        },
+        {
+            "character": "Simmons",
+            "line": "Reading another earthquake. 1-4."
+        },
+        {
+            "character": "Daisy",
+            "line": "For the record, it wasn't me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, all the same, Daisy, I'd like to look at the new gauntlets after the mission, check that they're calibrated correctly."
+        },
+        {
+            "character": "Daisy",
+            "line": "They are, trust me. The effect on my bones is a tenth of what it was."
+        },
+        {
+            "character": "Elena",
+            "line": "Here comes Burning Man."
+        },
+        {
+            "character": "Daisy",
+            "line": "Any life on your side?"
+        },
+        {
+            "character": "Robbie",
+            "line": "No. You sure Eli's in there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's find out. Assault Team, you have a go."
+        },
+        {
+            "character": "Daisy",
+            "line": "Copy. Breaching now."
+        },
+        {
+            "character": "Robbie",
+            "line": "Looks all clear to me which means it isn't."
+        },
+        {
+            "character": "Elena",
+            "line": "I hear something, water running."
+        },
+        {
+            "character": "Daisy",
+            "line": "Can you do a little recon up ahead?"
+        },
+        {
+            "character": "Elena",
+            "line": "Well, that depends. If “recon” means “look around,” sure."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yo-Yo!"
+        }
+    ]
+}

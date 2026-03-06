@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 5,
+    "scene_name": "SimmonsInvestigatesFitzsFather",
+    "description": "Simmons approaches May to ask for help accessing HYDRA's files on Fitz's father, realizing Aida changed Fitz by giving him a relationship with Alistair Fitz. Despite their fraught history in the Framework, May reluctantly agrees to assist. Simmons prepares to confront Alistair directly, convinced that unravelling his influence on Fitz is key to their escape.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Hello, Agent May. I'm Jemma Simmons."
+        },
+        {
+            "character": "May",
+            "line": "I know who you are. My squad's been hunting you the past week."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, I suppose that's true."
+        },
+        {
+            "character": "May",
+            "line": "How did a little pop tart like you evade capture?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's good to have you back."
+        },
+        {
+            "character": "May",
+            "line": "You think we know each other? Don't tell me you believe in that “other world” crap, too."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a lot to take in, but we do know each other. We're teammates, in fact. You, Coulson, Daisy and Mack, me and Fitz."
+        },
+        {
+            "character": "May",
+            "line": "Leopold Fitz? The Doctor."
+        },
+        {
+            "character": "Simmons",
+            "line": "I understand he's done some bad things here, but something must have changed him, because the Fitz I know is a kind, caring person, someone who helps people."
+        },
+        {
+            "character": "May",
+            "line": "Doesn't sound like any Fitz I've ever met, father or son."
+        },
+        {
+            "character": "Simmons",
+            "line": "How do you know Fitz's father?"
+        },
+        {
+            "character": "May",
+            "line": "Everyone at HYDRA knows Alistair Fitz. Those two are inseparable."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's what AIDA changed for Fitz. Can you still access HYDRA personnel files?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You're going to help me fix this."
+        }
+    ]
+}

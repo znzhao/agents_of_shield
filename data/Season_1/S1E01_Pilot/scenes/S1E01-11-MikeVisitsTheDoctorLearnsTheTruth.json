@@ -1,0 +1,63 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 11,
+    "scene_name": "MikeVisitsTheDoctorLearnsTheTruth",
+    "description": "Mike goes to the hospital to visit the woman he saved, who is actually his contact in the Centipede project. She scolds him for exposing their activities and warns that Centipede's backers are extremely dangerous. Mike, growing unstable, believes he is experiencing his 'origin story,' while the doctor is alarmed at his deteriorating condition.",
+    "roles": [
+        "michael_peterson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Debbie",
+            "line": "You're... Oh, wow. You're... him."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm glad you're doing okay."
+        },
+        {
+            "character": "Debbie",
+            "line": "Oh, yeah. Thank you. They're beautiful. What the hell are you doing here?"
+        },
+        {
+            "character": "Mike",
+            "line": "I don't know where to go, doctor. Everything's getting... I-I know what's right. I do. But no one will listen to me. I volunteered because you said things would change."
+        },
+        {
+            "character": "Debbie",
+            "line": "And... you said you could keep it together. Our first subject lost it... walked into the lab with a fricking bomb."
+        },
+        {
+            "character": "Mike",
+            "line": "I'm not like him."
+        },
+        {
+            "character": "Debbie",
+            "line": "Well, tell that to your foreman in the I.C.U."
+        },
+        {
+            "character": "Mike",
+            "line": "I saved you."
+        },
+        {
+            "character": "Debbie",
+            "line": "You exposed me! You exposed the program. The people who gave me this technology... they are very serious, and they do not want to be revealed. Mike Peterson needs to disappear."
+        },
+        {
+            "character": "Mike",
+            "line": "You're right. I'm not him anymore. I'm someone else now."
+        },
+        {
+            "character": "Debbie",
+            "line": "Oh, please. You're juiced, Mike. And you're losing it, just like the last guy. This is a disaster."
+        },
+        {
+            "character": "Mike",
+            "line": "No. It's an origin story."
+        }
+    ]
+}

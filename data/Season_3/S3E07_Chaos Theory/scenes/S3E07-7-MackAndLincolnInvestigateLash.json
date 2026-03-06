@@ -1,0 +1,60 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "MackAndLincolnInvestigateLash",
+    "description": "Mack meets with Lincoln in secret. Lincoln reveals that Lash must be within S.H.I.E.L.D., as the killer is using insider knowledge to track Inhumans. The two agree to work together to uncover Lash’s identity, furthering the investigation plot and raising the stakes for the S.H.I.E.L.D. team.",
+    "roles": [
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "Thanks for coming."
+        },
+        {
+            "character": "Mack",
+            "line": "You can settle down. No one knows we're here. You getting any sleep?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's kind of hard when I'm being hunted nonstop. I'm really only worried about the one who wants to blast a hole through my chest."
+        },
+        {
+            "character": "Mack",
+            "line": "If you've got intel on the guy, why not call Daisy?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "'Cause I can't put her life at risk, too. I went looking for my friends. And those who aren't missing are dead."
+        },
+        {
+            "character": "Mack",
+            "line": "You're telling me this why?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Because you fought by my side against that thing. It eliminates you as a suspect."
+        },
+        {
+            "character": "Mack",
+            "line": "Why would I be a suspect?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "'Cause you're with S.H.I.E.L.D."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. I... I'm not sure I'm following."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Lash is in S.H.I.E.L.D. And with your help, I can prove it."
+        }
+    ]
+}

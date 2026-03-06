@@ -1,0 +1,37 @@
+{
+    "role_ids": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "ian_quinn",
+        "john_garrett",
+        "antoine_triplett"
+    ],
+    "aliases": [
+        "Coulson",
+        "May",
+        "Ward",
+        "Skye",
+        "Fitz",
+        "Simmons",
+        "Quinn",
+        "Garrett",
+        "Triplett"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Project Centipede",
+        "Cybertek",
+        "Deathlok Program"
+    ],
+    "locations": [
+        "S.H.I.E.L.D. Trauma Center (Zurich)",
+        "S.H.I.E.L.D. Bus (mobile command jet)",
+        "The Fridge (S.H.I.E.L.D. high-security prison)",
+        "Guest House / T.A.H.I.T.I. facility (Bethesda)",
+        "Triskelion (S.H.I.E.L.D. headquarters)"
+    ]
+}

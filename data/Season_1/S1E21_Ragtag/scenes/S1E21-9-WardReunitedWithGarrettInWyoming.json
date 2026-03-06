@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 9,
+    "scene_name": "WardReunitedWithGarrettInWyoming",
+    "description": "A flashback sequence depicts Garrett returning to the Wyoming wilderness, where he left a young Ward alone for six months with his dog, Buddy. Their reunion is marked with a mix of pride and harsh lessons, as Garrett insists on independence and moral ambiguity, further shaping Ward for Hydra indoctrination.",
+    "roles": [
+        "john_garrett",
+        "grant_ward"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "I brought tacos. I was half expecting you to be long gone."
+        },
+        {
+            "character": "Ward",
+            "line": "I was half expecting you to never come back. You said a couple of months. It's been six!"
+        },
+        {
+            "character": "Garrett",
+            "line": "Been out of the country on assignment. Seems like you and Buddy did okay without me."
+        },
+        {
+            "character": "Ward",
+            "line": "First few weeks were rough. But then I realized my thinking was limited. So I started raiding cabins. Got some tools, the tent. Life got easier. Gonna build a cabin, over there."
+        },
+        {
+            "character": "Garrett",
+            "line": "See? I told you you could do it. Damn, son, you stepped up in a big way. I couldn't be prouder if you were my own. I lied about the tacos."
+        },
+        {
+            "character": "Ward",
+            "line": "What's that for?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Your next lesson. Your turn. Stick with me, kid. In a couple years, you'll shoot better than that."
+        }
+    ]
+}

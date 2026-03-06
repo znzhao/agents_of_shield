@@ -1,0 +1,41 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 10,
+    "scene_name": "BobbiTorturedByWardAndAgent33",
+    "description": "Bobbi is being held captive by Ward and Agent 33. Ward accuses her of betraying Agent 33 to HYDRA, referencing information obtained from Sunil Bakshi, and attempts psychological and physical torture to compel a confession. Bobbi is injected with a paralytic, and the intensity of her capture is apparent as Ward and Agent 33 pressure her for closure.",
+    "roles": [
+        "bobbi_morse",
+        "grant_ward",
+        "sunil_bakshi"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kara",
+            "line": "You know why you're here, but I want to hear you say it."
+        },
+        {
+            "character": "Morse",
+            "line": "Sure, I'm here because you're a twisted psychopath, and once..."
+        },
+        {
+            "character": "Kara",
+            "line": "Wrong answer."
+        },
+        {
+            "character": "Ward",
+            "line": "Shouldn't waste your energy, baby. We'll stay here as long as it takes. We'll get her to admit what she did to you. Sunil Bakshi gave up some surprising information when we were finding closure with him. He said that you knowingly handed Agent Kara Palamas over to HYDRA. You are the reason she suffered months of torture and mind control at the hands of her enemy. You are here to confess that truth, to give Kara the closure she needs to move on, to heal, the way I've healed."
+        },
+        {
+            "character": "Morse",
+            "line": "Good luck with that."
+        },
+        {
+            "character": "Ward",
+            "line": "It's not luck that's gonna help us. Kara tells me you don't like needles."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "season": 4,
+    "episode": 16,
+    "num": 9,
+    "scene_name": "SimmonsConfrontsBurnellAndFindsHope",
+    "description": "Outside the school, Simmons encounters Burnell, one of Coulson’s students, who initially suspects her of being Hydra. Simmons wins over Burnell by recalling her friendship with Coulson and denouncing Hydra, and Burnell helps her by giving her his car. The moment provides Simmons with much-needed hope and renewed resolve.",
+    "roles": [
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Hey! What are you doing? You tagged my car. I can't drive this now."
+        },
+        {
+            "character": "Burnell",
+            "line": "I didn't tag it."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're holding the can."
+        },
+        {
+            "character": "Burnell",
+            "line": "What can? I... I mean, that's how Hydra does it, right? You and Mr. Coulson, I mean, y'all lie to us every day. You know, th-that Hydra isn't a bunch of Nazis, and... and that you don't steal kids out of school?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You think I'm Hydra."
+        },
+        {
+            "character": "Burnell",
+            "line": "I saw you talking to Coulson! Where's Chris? You know, go ahead. Take me to him. ‘Cause if not, I'm gonna find the Resistance and come after all of you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't ha... Ah. You're not even real, you rogue piece of code! This is... This is all fake! It's a virtual world. I don't mean that. Look at me. Do I look like I'm Hydra?"
+        },
+        {
+            "character": "Burnell",
+            "line": "You look like a bag lady."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm Jemma. Coulson let Hydra take your friend? Damn. You know, Coulson used to fight Hydra. He was as brave as you and got into more trouble and even trained me well enough to steal this car."
+        },
+        {
+            "character": "Burnell",
+            "line": "Coulson? You're crazy. Look, I mean, they're definitely gonna stop you now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, have at it. And for the record, Hydra? They're all Nazis."
+        },
+        {
+            "character": "Burnell",
+            "line": "Hey. Look, I trashed your car. You can borrow mine."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're sure?"
+        },
+        {
+            "character": "Burnell",
+            "line": "Are Hydra all Nazis?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Every last one of them. And don't you let anyone forget it."
+        }
+    ]
+}

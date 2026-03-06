@@ -1,0 +1,331 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 9,
+    "scene_name": "CoulsonRainaBlackmailStandoff",
+    "description": "Coulson meets with Raina at a restaurant while May, Skye, and Hunter monitor the situation. Raina threatens to expose Simmons as a mole unless Coulson hands over Skye. Despite Skye's fear for Simmons’ safety, Coulson refuses to capitulate, and the damning photo is sent to Hydra, endangering Simmons' life.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "lance_hunter",
+        "raina"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Chef",
+            "line": "You ask too much. My food... it suffers from this intrusion."
+        },
+        {
+            "character": "Skye",
+            "line": "We have been over this. You and your staff will be well compensated for your help."
+        },
+        {
+            "character": "May",
+            "line": "Incoming at 4:00."
+        },
+        {
+            "character": "Hunter",
+            "line": "The tiny girl in the flower dress? That's who everyone's making such a fuss about?"
+        },
+        {
+            "character": "Raina",
+            "line": "It's good to see you, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Raina."
+        },
+        {
+            "character": "Raina",
+            "line": "I was worried you weren't going to accept my invitation... but perhaps I wasn't the only one looking forward to our next meeting."
+        },
+        {
+            "character": "Hunter",
+            "line": "Is she hitting on him?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yep."
+        },
+        {
+            "character": "May",
+            "line": "That's what she does."
+        },
+        {
+            "character": "Coulson",
+            "line": "You implied there was something urgent to discuss, so here I am. Either way, you're gonna give me what I want."
+        },
+        {
+            "character": "Raina",
+            "line": "You've changed, Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Might just be circumstance, considering last time, you had me strapped into your little memory machine."
+        },
+        {
+            "character": "Raina",
+            "line": "I was only trying to help."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to help? Tell me where to find the Obelisk."
+        },
+        {
+            "character": "Raina",
+            "line": "I'm afraid it's out of my hands."
+        },
+        {
+            "character": "Coulson",
+            "line": "That really doesn't work for me. I've seen what that thing can do. It's too dangerous to be out in the real world."
+        },
+        {
+            "character": "Raina",
+            "line": "You've only seen the beginning. Just because something's powerful doesn't make it dangerous."
+        },
+        {
+            "character": "Coulson",
+            "line": "In this case, it's more the death and destruction."
+        },
+        {
+            "character": "Raina",
+            "line": "You must believe me, Agent Coulson... we want the same thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Unless it's an end to this conversation, I'm pretty sure we don't."
+        },
+        {
+            "character": "Raina",
+            "line": "You really know how to make a girl feel special."
+        },
+        {
+            "character": "Coulson",
+            "line": "Only when I suspect she has something up her sleeve."
+        },
+        {
+            "character": "Raina",
+            "line": "It's in my purse, actually. Right now, HYDRA's looking for a spy within their ranks. I wonder what would happen to Agent Simmons... if this were to fall into the wrong hands."
+        },
+        {
+            "character": "Simmons",
+            "line": "Everything will be just fine."
+        },
+        {
+            "character": "Morse",
+            "line": "Don't you seem nervous?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, maybe it has something to do with you lurking right outside of my stall."
+        },
+        {
+            "character": "Morse",
+            "line": "Bakshi informed me that you and Kenneth were lab partners."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'd worked together on a couple of assignments, yes."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, there are some who believe that he may not have been acting alone. Were you colluding with Kenneth?"
+        },
+        {
+            "character": "Morse",
+            "line": "Did you plant the flex screen on Kenneth's desk?"
+        },
+        {
+            "character": "Morse",
+            "line": "You're not a very good liar, are you? Maybe I should take a look at your hard drive, see what I find."
+        },
+        {
+            "character": "Simmons",
+            "line": "Go right ahead. It's nothing but HYDRA files."
+        },
+        {
+            "character": "Morse",
+            "line": "Oh, it better be. I want you to keep something in mind, Agent Simmons... HYDRA is everywhere. Carry on."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't like being threatened."
+        },
+        {
+            "character": "Raina",
+            "line": "This isn't a threat. It's a gesture of goodwill. I would like nothing more than to delete that photo."
+        },
+        {
+            "character": "Coulson",
+            "line": "And in return, what do you want?"
+        },
+        {
+            "character": "Raina",
+            "line": "From you? Nothing. But I will need to take Skye with me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me? What in the hell is this really about? And why, also in the hell, do you think I would ever let that happen?"
+        },
+        {
+            "character": "Raina",
+            "line": "To prevent every HYDRA employee from receiving an automated e-mail with that photo. You have two minutes, after which, there's nothing I can do."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where are you planning to take Skye?"
+        },
+        {
+            "character": "Raina",
+            "line": "Somewhere she's always wanted to go... to meet her dad."
+        },
+        {
+            "character": "May",
+            "line": "She's lying."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward said Raina knew him. This cannot be a coincidence."
+        },
+        {
+            "character": "Coulson",
+            "line": "So you're what... working for Skye's father now?"
+        },
+        {
+            "character": "Raina",
+            "line": "I'm just trying to make the best out of a difficult situation."
+        },
+        {
+            "character": "Coulson",
+            "line": "By threatening the life of one of my agents?"
+        },
+        {
+            "character": "Raina",
+            "line": "By allowing one to find out who she really is. That's what Skye's been searching for her whole life. Ask her yourself, Agent Coulson. She's here, isn't she... listening? Skye needs to know that her father loves her very much, that she was taken from him against his will, that he's spent her entire life searching for her. No matter how much you've changed, Agent Coulson, deep down, you're still a good man. No good man would intentionally keep a daughter from her father... especially when so much is at stake. You're running out of time. Give Skye what she's always wanted... or else Agent Simmons dies."
+        },
+        {
+            "character": "Coulson",
+            "line": "No deal."
+        },
+        {
+            "character": "May",
+            "line": "Stand down, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Were you not listening? If I don't go out there, Simmons is gonna die."
+        },
+        {
+            "character": "May",
+            "line": "Coulson has a plan."
+        },
+        {
+            "character": "Skye",
+            "line": "He also carves alien writing into his desk, so maybe his judgment is not what it used to be."
+        },
+        {
+            "character": "May",
+            "line": "I said stand down."
+        },
+        {
+            "character": "Raina",
+            "line": "Look, it's not too late. We can fix this. No one needs to get hurt. Please."
+        },
+        {
+            "character": "Bakshi",
+            "line": "There she is. Grab her!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is happening?"
+        },
+        {
+            "character": "Morse",
+            "line": "Don't worry. Coulson has a plan."
+        },
+        {
+            "character": "Raina",
+            "line": "I can't believe you would sacrifice one of your own agents."
+        },
+        {
+            "character": "Coulson",
+            "line": "We all take risks in this business. In your case, it just didn't pay off."
+        },
+        {
+            "character": "Raina",
+            "line": "I had no choice."
+        },
+        {
+            "character": "Hunter",
+            "line": "Tiny violin's playing, but no one's listening, sweetheart."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who's making you do this?"
+        },
+        {
+            "character": "Raina",
+            "line": "HYDRA."
+        },
+        {
+            "character": "Coulson",
+            "line": "They want the Obelisk, but you don't have it. Skye's father does."
+        },
+        {
+            "character": "Raina",
+            "line": "He won't stop until he gets her."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're scared of him... and you don't scare easily."
+        },
+        {
+            "character": "Raina",
+            "line": "He's a very dangerous man. You wouldn't believe the stories."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, now we've established Skye's old man isn't father of the year, what's next?"
+        },
+        {
+            "character": "Raina",
+            "line": "Take me in. Please."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. No vacancies."
+        },
+        {
+            "character": "Raina",
+            "line": "Once I walk out that door, Whitehall will kill me."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's possible. Or... maybe you and I will work together after all."
+        },
+        {
+            "character": "Raina",
+            "line": "What?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Tag and tail it is, then."
+        },
+        {
+            "character": "Raina",
+            "line": "You're gonna use me to get to Whitehall."
+        },
+        {
+            "character": "Coulson",
+            "line": "He'll be trying to find you. Whether or not we're there to save you when he does, that's your call, depending on how useful you make yourself. You can start by telling us how to find Skye's father."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 4,
+    "scene_name": "ZlodaFieldMissionBegins",
+    "description": "Arriving in Belarus, Fitz and Simmons banter about the local scientific history before Coulson directs the team. The group splits up, with Ward and Coulson questioning locals about Amador and Fitz-Simmons tasked to scan for electronic signals. Skye communicates with Ward, humorously raising issues about bathroom breaks, and demonstrates the team's logistical struggles in the field.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "How exciting. I've dreamed of visiting Zloda since I was a schoolgirl."
+        },
+        {
+            "character": "Fitz",
+            "line": "Zloda, Belarus? A dream come true? Really?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the birthplace of Nobel physicist Zhores Alferov! I mean, technically, he's from Vitebsk, but that's less than an hour from here, and I'm a bit disappointed that you didn't know that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, no, of course I know who that is, father of heterostructure transistors, thank you very much. We're all well aware of that. I'm just a little bit preoccupied. Our first and only other time in the field wasn't exactly a picnic, was it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You guys are only here to search for Amador electronically. You won't even need to leave the van."
+        },
+        {
+            "character": "May",
+            "line": "Bus to short bus."
+        },
+        {
+            "character": "Ward",
+            "line": "Go for short bus."
+        },
+        {
+            "character": "Coulson",
+            "line": "Next time, I'll decide what we call ourselves, okay?"
+        },
+        {
+            "character": "May",
+            "line": "H.Q. has requested a status update."
+        },
+        {
+            "character": "Coulson",
+            "line": "What'd you tell them?"
+        },
+        {
+            "character": "May",
+            "line": "That we're tracking a potential suspect... nothing more."
+        },
+        {
+            "character": "Coulson",
+            "line": "I owe you one."
+        },
+        {
+            "character": "May",
+            "line": "More like three."
+        },
+        {
+            "character": "Coulson",
+            "line": "If Amador's here, she'll have to contact her buyer. Scan for cellphone transmissions, encrypted e-mails, anomalous broadcast signatures. Call us if you find anything that indicates her presence."
+        },
+        {
+            "character": "Ward",
+            "line": "Maintain radio silence unless you really need help."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, what exactly defines needing help?!"
+        },
+        {
+            "character": "Ward",
+            "line": "I can only imagine how painful this must be for you, sir, betrayed by someone you trained and believed in."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have all the facts yet."
+        },
+        {
+            "character": "Ward",
+            "line": "True, but I have to assume the worst, that Amador sold out the other two agents on her mission. Wonder what she got in exchange."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know, but until we do, I'm not gonna assume anything."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's barely electricity in this town. Can't be too hard to find our mystery woman."
+        },
+        {
+            "character": "Skye",
+            "line": "Unless she already knows we're here."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, you're not suggesting some sort of precognition or telepathy because..."
+        },
+        {
+            "character": "Skye",
+            "line": "I know, it doesn't exist. And not long ago, I would have dumped ESP in the “aliens and portals are for crazy people” pile. But now... Found a server."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks."
+        },
+        {
+            "character": "Ward",
+            "line": "Did you locate Amador?"
+        },
+        {
+            "character": "Skye",
+            "line": "What? No, not yet. But we've found a broadcast with some weird signal encrypted into it."
+        },
+        {
+            "character": "Ward",
+            "line": "You think Amador might be communicating on that signal?"
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe, but I called with an equally pressing question for you, my S.O. what are we supposed to do if we have to pee?"
+        },
+        {
+            "character": "Ward",
+            "line": "You broke protocol because you need a bathroom break?"
+        },
+        {
+            "character": "Skye",
+            "line": "It was a really, really long drive, and everyone's nervous."
+        },
+        {
+            "character": "Ward",
+            "line": "There's a container in the bottom of the blue chest."
+        },
+        {
+            "character": "Skye",
+            "line": "Bottom of the blue chest."
+        },
+        {
+            "character": "Skye",
+            "line": "Not the water bottle?"
+        },
+        {
+            "character": "Ward",
+            "line": "That's the one."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you never learn the thing that boy parts and girl parts are different, and our parts aren't penises?"
+        },
+        {
+            "character": "Ward",
+            "line": "Agent Coulson and I are trying to find a dangerous criminal. If there's nothing else pressing..."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, one second, Fitz wants to know if you packed any snacks."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I'm feeling a bit peckish."
+        },
+        {
+            "character": "Skye",
+            "line": "Hello? He... he hung up."
+        }
+    ]
+}

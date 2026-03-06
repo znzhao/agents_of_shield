@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 16,
+    "scene_name": "AftermathAtTheFridge",
+    "description": "Later, at The Fridge, Coulson oversees the secret storage of the gravity device, ensuring there is no record or trace of its existence. He reflects on the difficult decisions faced and the muscle memory of covert work. May approaches, asking to return to field duty, hinting at renewed commitment. The weight of their responsibilities lingers as they prepare for future missions.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "The Fridge (S.H.I.E.L.D. high-security prison)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Agent",
+            "line": "Deepest level of the Fridge, unmarked vault, no access granted."
+        },
+        {
+            "character": "Coulson",
+            "line": "And no recorded entry. I don't want it listed. I don't want it flagged for the slingshot. Anyone finds out, you're responsible... and suffering. Understood?"
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's what Hall would've wanted. Used to have this down. Should be just muscle memory."
+        },
+        {
+            "character": "May",
+            "line": "You're making a habit of it, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Trying. Guess I'm a little rusty."
+        },
+        {
+            "character": "May",
+            "line": "Of these close calls, I mean. I don't enjoy running back end."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want off the plane? Go ahead."
+        },
+        {
+            "character": "May",
+            "line": "I want in. Reporting for combat next time it's up."
+        },
+        {
+            "character": "Coulson",
+            "line": "You committed to the cause or just watching my back?"
+        },
+        {
+            "character": "May",
+            "line": "Same thing. And you are a little rusty."
+        }
+    ]
+}

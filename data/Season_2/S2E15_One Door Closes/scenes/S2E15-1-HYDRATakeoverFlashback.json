@@ -1,0 +1,88 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 1,
+    "scene_name": "HYDRATakeoverFlashback",
+    "description": "In a flashback to the day S.H.I.E.L.D. fell, Mack and his team are held hostage by a Hydra agent. Tim, a mechanic, tries to sacrifice himself but is killed. Bobbi Morse and her allies storm in, kill the Hydra agents, and free Mack and the survivors. Bobbi and Hartley inform Mack that they are following Fury's orders to save S.H.I.E.L.D.",
+    "roles": [
+        "alphonso_mackenzie",
+        "bobbi_morse"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "Today, world leaders are scrambling for answers after S.H.I.E.L.D. was crippled by a series of devastating attacks. No one seems to be sure how long the terrorist group known as Hydra has been operating within S.H.I.E.L.D.'s ranks. But today, They made their presence known when they destroyed S.H.I.E.L.D. headquarters, the Triskelion."
+        },
+        {
+            "character": "Tim",
+            "line": "I can't feel my arm, Mack. Can't feel it."
+        },
+        {
+            "character": "Mack",
+            "line": "Tim, I'm gonna need you to trust me now, buddy. It's gonna be okay."
+        },
+        {
+            "character": "Reporter",
+            "line": "Once affiliated with the Nazi party, Hy..."
+        },
+        {
+            "character": "Tim",
+            "line": "It's me. I-I'm chief."
+        },
+        {
+            "character": "Mack",
+            "line": "No! No! No! He's lying to protect me. I'm the one you're looking for."
+        },
+        {
+            "character": "Mack",
+            "line": "Tim! No! No!"
+        },
+        {
+            "character": "Morse",
+            "line": "Got to get you a gun one of these days."
+        },
+        {
+            "character": "Hartley",
+            "line": "Save my bullets for the real fight."
+        },
+        {
+            "character": "Susanna",
+            "line": "You all right?"
+        },
+        {
+            "character": "Case",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "What is that thing?"
+        },
+        {
+            "character": "Morse",
+            "line": "My phone. Needed a distraction. We used all of our other gadgets getting into the ship. Hydra's everywhere, Mack."
+        },
+        {
+            "character": "Hartley",
+            "line": "Hey. This isn't over yet. Time to get moving."
+        },
+        {
+            "character": "Mack",
+            "line": "What's the plan? What are you even doing here?"
+        },
+        {
+            "character": "Hartley",
+            "line": "Fury left us orders."
+        },
+        {
+            "character": "Mack",
+            "line": "To do what?"
+        },
+        {
+            "character": "Morse",
+            "line": "To save S.H.I.E.L.D."
+        }
+    ]
+}

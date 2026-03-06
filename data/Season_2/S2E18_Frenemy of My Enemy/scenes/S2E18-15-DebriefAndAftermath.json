@@ -1,0 +1,40 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 15,
+    "scene_name": "DebriefAndAftermath",
+    "description": "In the aftermath of the firefight, Ward, Hunter, Kara, and Mike regroup with injuries and frustrations. Morse and Mack arrive on the scene after the action, finding evidence of the HYDRA attack and Coulson alive. Coulson, exhausted but determined, requests to be brought back to base, ready to reveal what happened to S.H.I.E.L.D.'s leadership.",
+    "roles": [
+        "grant_ward",
+        "lance_hunter",
+        "michael_peterson",
+        "phil_coulson",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Standard HYDRA issue. I'd say we missed them by less than an hour."
+        },
+        {
+            "character": "Mack",
+            "line": "Hell of a fight, though. Looks like everyone cleared out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not everyone. I doubled back after HYDRA took off. Their cleanup crew really sucks, doesn't it?"
+        },
+        {
+            "character": "Morse",
+            "line": "What the hell happened here, Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll tell you all about it back at the base. Take me to your leader."
+        }
+    ]
+}

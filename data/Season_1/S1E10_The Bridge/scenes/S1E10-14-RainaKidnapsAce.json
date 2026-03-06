@@ -1,0 +1,146 @@
+{
+    "season": 1,
+    "episode": 10,
+    "num": 14,
+    "scene_name": "RainaKidnapsAce",
+    "description": "Mike calls Ace, planning to visit soon, but is horrified to find Raina at his home with Ace, revealing they have his son. Raina offers a devastating trade: Ace's life for Mike's compliance. Back on the Bus, Coulson and the team realize the crisis, and Mike is forced to comply with Centipede's instructions, setting up a complex, high-risk exchange. Fitz and Simmons develop a covert way to track Mike, offering faint hope in a dire situation.",
+    "roles": [
+        "michael_peterson",
+        "skye",
+        "phil_coulson",
+        "raina",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "grant_ward"
+    ],
+    "vibe": "thrilling",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ace",
+            "line": "Hello?"
+        },
+        {
+            "character": "Mike",
+            "line": "Hey, Ace."
+        },
+        {
+            "character": "Ace",
+            "line": "Dad!"
+        },
+        {
+            "character": "Mike",
+            "line": "It is so good to hear your voice, buddy. And I got some good news ... I'm gonna get to come home and see you for a bit."
+        },
+        {
+            "character": "Ace",
+            "line": "Awesome! Then maybe you can meet my new friend. She said she knows you. She's here right now."
+        },
+        {
+            "character": "Mike",
+            "line": "Ace, who's there with you? Where's your Aunt Mindy?"
+        },
+        {
+            "character": "Raina",
+            "line": "Hello, Mike. Remember when I told you I could change your life?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They want a trade... Ace for his father. They've set a time and a place."
+        },
+        {
+            "character": "Fitz",
+            "line": "Bloody savages."
+        },
+        {
+            "character": "Simmons",
+            "line": "They want to experiment on him, determine how he still has his abilities."
+        },
+        {
+            "character": "Ward",
+            "line": "And we're gonna let them? We've fought these guys before."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have a choice. The instructions they gave Mr. Peterson were very specific. I called H.Q., told them to stand down."
+        },
+        {
+            "character": "May",
+            "line": "Stand down?"
+        },
+        {
+            "character": "Ward",
+            "line": "So we take them alone."
+        },
+        {
+            "character": "May",
+            "line": "We should at least have a hostage-rescue unit In support of this."
+        },
+        {
+            "character": "Mike",
+            "line": "They said they would murder my son. If we make one wrong move."
+        },
+        {
+            "character": "Coulson",
+            "line": "Any electronics, any comms, any sign of surveillance and they'll terminate the arrangement."
+        },
+        {
+            "character": "Mike",
+            "line": "I'll give myself up, no problem, get him back. I can figure it out from there."
+        },
+        {
+            "character": "Skye",
+            "line": "You're still recovering. We can't just hand you over to them like that, can we?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz-Simmons have a non-electronic method of tracking him."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons has fabricated an odorless scent. I have an instrument which can detect it. Works like a bloodhound, can track someone from over 50 kilometers."
+        },
+        {
+            "character": "Coulson",
+            "line": "After we make the trade, we'll be able to follow Mr. Peterson. Buy him some time to get his strength back. We'll find him."
+        },
+        {
+            "character": "Mike",
+            "line": "I don't care what happens to me. As long as my boy is..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I promise you, we're gonna get your son back."
+        },
+        {
+            "character": "May",
+            "line": "At least let me escort him out for the exchange."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Peterson requested me. I'm comfortable with that, and if things go South, I need you back here, taking point on the team. Is Ward in position?"
+        },
+        {
+            "character": "May",
+            "line": "Yes. But I don't like any of this."
+        },
+        {
+            "character": "Coulson",
+            "line": "There'd be something wrong with you if you did."
+        },
+        {
+            "character": "Fitz",
+            "line": "Once the swap happens, I'll fire up my equipment. We'll be able to track you wherever they take you."
+        },
+        {
+            "character": "Mike",
+            "line": "Just don't do anything that'll endanger my son."
+        },
+        {
+            "character": "Skye",
+            "line": "We won't, but we want to make sure Ace has his dad at the end of the day, too."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 4,
+    "scene_name": "CoulsonHaleInterrogation",
+    "description": "Coulson questions General Hale after capturing her, seeking answers regarding her campaign against S.H.I.E.L.D. The dialogue is a sparring match of philosophies, with Hale maintaining her mysterious motives and hinting at a greater threat she is trying to avert. Power dynamics shift as she alludes to her preparedness and willingness to make hard decisions.",
+    "roles": [
+        "phil_coulson",
+        "hale"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "General Hale."
+        },
+        {
+            "character": "Hale",
+            "line": "Soundproof walls. Low lighting. Sensory deprivation? Wow. What's next, blasting death metal?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not here to torture you, General. I just want to sit down and talk, ask you some questions that have been bugging me lately."
+        },
+        {
+            "character": "Hale",
+            "line": "Where's my driver?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's start with why you've declared war on my people."
+        },
+        {
+            "character": "Hale",
+            "line": "That's a tad dramatic. I'm a general in the United States Air Force. You're the leader of a domestic terrorist organization. I'm just trying to bring you to justice."
+        },
+        {
+            "character": "Coulson",
+            "line": "I missed the part where “bring to justice” and “blow up with beacon bombs” are analogous."
+        },
+        {
+            "character": "Hale",
+            "line": "I have orders not to let you escape by any means. I'm simply doing my job."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is it your job to cut the arms off one of my agents?"
+        },
+        {
+            "character": "Hale",
+            "line": "For that, I do apologize. One of my subordinates got a bit overzealous. I'm sure you can understand. I mean, after all, wasn't it your Agent Johnson who shot our mutual friend Glenn Talbot in the head?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That wasn't Daisy."
+        },
+        {
+            "character": "Hale",
+            "line": "Ever the guardian, huh? “Get behind my shield. I'll protect you.” I can see why people follow you so blindly."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's called loyalty."
+        },
+        {
+            "character": "Hale",
+            "line": "But only to a point. You need more than that for what I'm trying to do."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what would that be?"
+        },
+        {
+            "character": "Hale",
+            "line": "Prevent our extinction."
+        }
+    ]
+}

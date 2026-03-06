@@ -1,0 +1,103 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 9,
+    "scene_name": "CoulsonAndHaleDeal",
+    "description": "Back on the Zephyr, the situation with Anton Ivanov, Hale, and Creel reaches a boiling point. As Ivanov and Hale pressure Coulson, he negotiates to trade himself for his team's safety. May argues passionately with Coulson about his decision, but Coulson commits to going with Hale in the hope of gaining clarity about the true threat.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "hale",
+        "carl_creel",
+        "anton_ivanov"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "That moral high ground is eroding at your feet. Utilizing robots built by terrorists? You're standing next to the man responsible for shooting Talbot."
+        },
+        {
+            "character": "Creel",
+            "line": "Daisy Johnson shot Talbot. I saw the tape."
+        },
+        {
+            "character": "May",
+            "line": "That was an android. And programmed by him."
+        },
+        {
+            "character": "Hale",
+            "line": "He's an android programmed by Leopold Fitz. You want proof? Let's tear Anton apart, limb by limb. His electronic parts look remarkably like S.H.I.E.L.D. tech."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not what happened."
+        },
+        {
+            "character": "Hale",
+            "line": "What's your proof?"
+        },
+        {
+            "character": "Ivanov",
+            "line": "You see how little you control?"
+        },
+        {
+            "character": "Hale",
+            "line": "Yes, there's much to understand. But I can help you with that. Coulson, come with me."
+        },
+        {
+            "character": "May",
+            "line": "He's not going anywhere."
+        },
+        {
+            "character": "Coulson",
+            "line": "I come with you, my people get away unharmed?"
+        },
+        {
+            "character": "Hale",
+            "line": "I can agree to that."
+        },
+        {
+            "character": "May",
+            "line": "Excuse us."
+        },
+        {
+            "character": "May",
+            "line": "You can't be serious, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "We've been behind her this entire time. If I can get clarity on what we're dealing with, then all the better."
+        },
+        {
+            "character": "May",
+            "line": "Oh, and we don't discuss it? We know this is a trap, Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. And it's a really good one, too."
+        },
+        {
+            "character": "May",
+            "line": "Don't do that. Not now. Not when you're turning your back on me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Turning my back on you? What other way out is there? This is unavoidable."
+        },
+        {
+            "character": "May",
+            "line": "It's suicidal. Which is now a recurring theme for you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not airing our dirty laundry in front of the bad guys right now."
+        },
+        {
+            "character": "May",
+            "line": "How considerate. He's all yours."
+        }
+    ]
+}

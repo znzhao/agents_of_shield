@@ -1,0 +1,73 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "PostAttackInvestigation",
+    "description": "Coulson, Bobbi, and Fitz work to control the scene and investigate the aftermath of the attack, calming neighbors and collecting evidence before the authorities arrive. Alisha is taken into containment as the team tries to piece together what happened while Daisy and Mack pursue the killer. The dynamic between Bobbi and Fitz surfaces as they discuss Simmons’ emotional state.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "I assure you, we're looking for the suspects right now. Please just go back into your apartments and lock your doors."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you for your cooperation. Detective."
+        },
+        {
+            "character": "Morse",
+            "line": "Think they bought it? Don't know."
+        },
+        {
+            "character": "Fitz",
+            "line": "The old lady's a trickster. Had her hand on one of those 911 Red-Alert necklaces."
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't have much time before the official authorities get here. Gather whatever you can find before we lose the scene."
+        },
+        {
+            "character": "Morse",
+            "line": "I thought this was just supposed to be a recruiting mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was. I don't know where this attack came from."
+        },
+        {
+            "character": "Morse",
+            "line": "Is Alisha gonna be okay?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She felt it happen, went into shock. Med team's evac-ing her to containment now. Before the attack, she said something about the couple getting an e-mail. Fitz?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Laptop. On it."
+        },
+        {
+            "character": "Morse",
+            "line": "What about Daisy and Mack? They could use backup out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you really want to get back into action, Agent Morse, but the answer's “no.” You're still rehabbing. You haven't passed the physical."
+        },
+        {
+            "character": "Morse",
+            "line": "Understood, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, what's your location? Daisy, do you copy?"
+        }
+    ]
+}

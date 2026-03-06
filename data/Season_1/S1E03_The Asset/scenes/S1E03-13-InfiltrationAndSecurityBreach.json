@@ -1,0 +1,161 @@
+{
+    "season": 1,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "InfiltrationAndSecurityBreach",
+    "description": "Ward and Coulson prepare to breach the compound as Fitz remotely disables the high-tech fence when Skye activates the device. They rush inside amid alarms and gunfire. Skye is abruptly cut off from the team’s audio as Coulson and Ward split their tasks: Coulson searches for Dr. Hall in the lab, while Ward moves to extract Skye from danger. Quinn grows suspicious of Skye’s real motives as the compound's security is compromised.",
+    "roles": [
+        "skye",
+        "ian_quinn",
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Next patrol any minute now."
+        },
+        {
+            "character": "May",
+            "line": "Skye's offline. Repeat, we've lost audio and vitals."
+        },
+        {
+            "character": "Ward",
+            "line": "Abort is not an option, but if she's compromised..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's still our only way in to get to Dr. Hall."
+        },
+        {
+            "character": "Ward",
+            "line": "And we're their only way out."
+        },
+        {
+            "character": "Man",
+            "line": "Beach is all clear. Let's move up the ridge."
+        },
+        {
+            "character": "Skye",
+            "line": "You're saying they wanted to rope me in because I pose a genuine threat."
+        },
+        {
+            "character": "Quinn",
+            "line": "Yes, and fit their profile."
+        },
+        {
+            "character": "Skye",
+            "line": "Profile."
+        },
+        {
+            "character": "Quinn",
+            "line": "Sure. You're a criminal. You have a warrant somewhere."
+        },
+        {
+            "character": "Skye",
+            "line": "Probably."
+        },
+        {
+            "character": "Quinn",
+            "line": "Specialized skill set."
+        },
+        {
+            "character": "Skye",
+            "line": "I try to stay humble but fail."
+        },
+        {
+            "character": "Quinn",
+            "line": "No family. I'm sorry. I didn't mean to hit a nerve, but that is what these people S.H.I.E.L.D., they prey on fear and loneliness and desperation, and then they offer a home to those who have no one else to turn to. I can offer you something better."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn. A little rusty, I guess."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guys, clock's ticking. Where's Skye?"
+        },
+        {
+            "character": "Quinn",
+            "line": "You stay with us, there's no secrets, no lies, and no agenda. You're free to do what you do without big brother watching over you. But first, you have to tell me exactly what agenda S.H.I.E.L.D. sent you in here with."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, they wanted me to do whatever it takes to get in here."
+        },
+        {
+            "character": "Quinn",
+            "line": "Get in here and...?"
+        },
+        {
+            "character": "Skye",
+            "line": "Bat my eyes. Get you talking."
+        },
+        {
+            "character": "May",
+            "line": "We're in!"
+        },
+        {
+            "character": "Simmons",
+            "line": "She's done it!"
+        },
+        {
+            "character": "May",
+            "line": "Fitz, you're up."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, mother of all things. Move, move, move! Uh..."
+        },
+        {
+            "character": "Man",
+            "line": "We have a man down. Hostiles on the east ridge!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Aah! We need a reset here, Fitz!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Saying his name repeatedly does not increase productivity!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, go!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, maybe it does."
+        },
+        {
+            "character": "Fitz",
+            "line": "System rebooting in two, one, now!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll look for Dr. Hall down in the lab."
+        },
+        {
+            "character": "Ward",
+            "line": "I'll get Skye."
+        },
+        {
+            "character": "Quinn",
+            "line": "No, you can't be the only angle. S.H.I.E.L.D.'s thorough enough to know about me and my exploits. It takes more than a pretty face to disarm me."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, we have a security breach."
+        },
+        {
+            "character": "Skye",
+            "line": "Oh, the timing on that was perfect."
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "season": 2,
+    "episode": 10,
+    "num": 8,
+    "scene_name": "SHTeamAssaultsHydraBase",
+    "description": "Coulson, May, Hunter, and Morse prepare to assault the Hydra-held theater. The plan is to stop the plasma drill and find Skye before Hydra breaks into the city. Triplett and the scientists move into the tunnels with the explosives, each team aware of the stakes if Hydra succeeds.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter",
+        "leo_fitz",
+        "jemma_simmons",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "San Cristobal Fort (San Juan, Puerto Rico)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It's not ideal, but assaulting from up here is our best bet. The narrow quarters reduce Hydra's numerical advantage."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sounds perfect. Other than the fact that Hydra's drill will be all the way down in the basement."
+        },
+        {
+            "character": "Morse",
+            "line": "What about the comms?"
+        },
+        {
+            "character": "May",
+            "line": "Hydra scans for them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two goals... stop the drill, find Skye."
+        },
+        {
+            "character": "Hunter",
+            "line": "Aren't you forgetting a third?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What's that?"
+        },
+        {
+            "character": "Morse",
+            "line": "Don't die out there. We tend to remind each other not to die."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thought that was implicit."
+        },
+        {
+            "character": "Morse",
+            "line": "He likes to hear it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Who doesn't like to hear it?"
+        },
+        {
+            "character": "Triplett",
+            "line": "I still think one of you should wait up here in case something goes wrong."
+        },
+        {
+            "character": "Simmons",
+            "line": "Absolutely not."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we already talked about it."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've got no comms, no flashlight, or GPS. The three of us have a higher probability rate of success if we work together."
+        },
+        {
+            "character": "Triplett",
+            "line": "Hey, don't get me wrong. I love having the company. All right. Timers are good. We just need to get them to the right spots, insert the detonators, get the hell out."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do we do if Mack's down there?"
+        },
+        {
+            "character": "Triplett",
+            "line": "If he's dead, we'll bring his body back up. If not, it's not Mack. We'll be doing him a favor."
+        },
+        {
+            "character": "Triplett",
+            "line": "All right, Mack, where the hell did you go?"
+        },
+        {
+            "character": "Ward",
+            "line": "The woman you look like... Agent May? I knew her. How did you end up with her face?"
+        },
+        {
+            "character": "Ward",
+            "line": "That's got to be an interesting story. Doesn't it bother you?"
+        },
+        {
+            "character": "Ward",
+            "line": "So you're loyal to Hydra."
+        },
+        {
+            "character": "Ward",
+            "line": "There was a guy I used to be loyal to. He went completely insane."
+        },
+        {
+            "character": "Ward",
+            "line": "Happy to comply."
+        },
+        {
+            "character": "Cal",
+            "line": "Did he hurt you?"
+        }
+    ]
+}

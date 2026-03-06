@@ -1,0 +1,101 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 5,
+    "scene_name": "WardAlmostExposed",
+    "description": "Koenig continues to grill Ward under the lie detector. Ward hesitates under questioning about Hydra loyalty and his true agenda. He covers by expressing his feelings for Skye, narrowly passing the test while simultaneously reminding himself of his true mission given by Garrett.",
+    "roles": [
+        "grant_ward",
+        "john_garrett",
+        "eric_koenig"
+    ],
+    "vibe": "tense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Eric Koenig",
+            "line": "What is the difference between an egg and a rock?"
+        },
+        {
+            "character": "Ward",
+            "line": "Egg's a food. Rock's a weapon."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Have you ever heard of project Insight?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Ever made contact with Alexander Pierce?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "You wash up on a deserted island alone. Sitting on the sand is a box. What's in that box?"
+        },
+        {
+            "character": "Ward",
+            "line": "It would depend on the island... Where it is, how big, what's the terrain? Is there fresh water?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Just say the first thing that comes into your head."
+        },
+        {
+            "character": "Ward",
+            "line": "A pistol."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "S.H.I.E.L.D. no longer exists. The agency has been labeled a terrorist organization. So why are you here?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm an agent. It's my duty."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "I need you to give that to me again."
+        },
+        {
+            "character": "Ward",
+            "line": "It's my duty."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "I'm gonna ask you a follow-up. Agent Ward, are you associated with Hydra?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yes. We all are. They've infiltrated the highest levels of our orgazation."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Like you mean it. Are you Hydra?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm loyal to S.H.I.E.L.D... to Agent Coulson... and to my team."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Do you have another agenda here?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'll give you 24 hours to get the password and get out. After that, well... cross off the team and bring the girl to me."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Agent Ward, why are you really here?"
+        },
+        {
+            "character": "Ward",
+            "line": "Skye. Came back for her. I want to spend time with her."
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Skye? Cool."
+        }
+    ]
+}

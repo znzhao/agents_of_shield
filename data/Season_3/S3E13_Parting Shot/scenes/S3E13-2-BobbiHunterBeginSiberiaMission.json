@@ -1,0 +1,84 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 2,
+    "scene_name": "BobbiHunterBeginSiberiaMission",
+    "description": "Bobbi and Hunter are tracking Malick in Siberia, communicating with Zephyr One as Fitz, Mack, Daisy, and Coulson support remotely. Planning their infiltration, the team expresses concern over Malick's plans for an Inhuman sanctuary and discusses protocol and risks for the mission.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Malick's convoy heading our way."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, really should stretch before running."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, where's the de... I thought I had it."
+        },
+        {
+            "character": "Hunter",
+            "line": "Ah, being cooped up in a jet isn't exactly conducive to blood flow."
+        },
+        {
+            "character": "Morse",
+            "line": "Where's the target designator?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, hold on. I got it. Here you go."
+        },
+        {
+            "character": "Morse",
+            "line": "Bird to Zephyr, painting target. Do you copy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Copy that, Bird. Target's lit. We're tracking now. Okay, it looks like Malick's convoy's heading for this decommissioned power plant about 30 kilometers away."
+        },
+        {
+            "character": "Mack",
+            "line": "Dead in the middle of Nowhereville, Siberia."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, if Malick and his Russian patsy want to build some Inhuman sanctuary, why not build it someplace nice and sunny?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Same reason they don't put a prison camp in Malibu. “Not in my backyard.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "That's what the sanctuary really is gonna be, isn't it? A prison camp."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll see what Bobbi and Hunter find when they get there."
+        },
+        {
+            "character": "Fitz",
+            "line": "Zephyr to Bird, we have Malick's convoy, can guide you to them, but you're gonna need some transport. Will that be a problem?"
+        },
+        {
+            "character": "Morse",
+            "line": "No, I think we're good."
+        },
+        {
+            "character": "Hunter",
+            "line": "Chop-chop."
+        }
+    ]
+}

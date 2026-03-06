@@ -1,0 +1,106 @@
+{
+    "season": 2,
+    "episode": 12,
+    "num": 5,
+    "scene_name": "TeamArrivesToQuestionSifInPortugal",
+    "description": "Coulson leads the team to Portugal, where local authorities have Lady Sif in custody. Sif suffers from amnesia and cannot recall why she is on Earth or what her mission is. The team tries to help her recover her memories and understand her presence, gathering important clues from her attire and behavior.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "bobbi_morse",
+        "leo_fitz",
+        "lance_hunter",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Thank you for watching her."
+        },
+        {
+            "character": "Carvalho",
+            "line": "I hear from the prime minister's office I'm to hold this crazy lady here for you, I hold this crazy lady."
+        },
+        {
+            "character": "Coulson",
+            "line": "How did you subdue her and get her to wait?"
+        },
+        {
+            "character": "Carvalho",
+            "line": "No subduing. She stayed willingly once I told her I'd found “Kava” and he was on his way to meet her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. But I'm not Kava."
+        },
+        {
+            "character": "Carvalho",
+            "line": "I'm glad I'm not the one who has to tell her that. Pick up her sword from booking before you go."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "So you are not Kava."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. But I'm a friend. “Son of Coul?” See? We've worked together before."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I apologize. I do not remember."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have no memory of who you are?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I-I know I am from Asgard. But I do not remember my home there. You tell me my name is Lady Sif, but... why I left Asgard, what brought me here to Midgard... why I wear these hides instead of armor... a mystery."
+        },
+        {
+            "character": "Coulson",
+            "line": "One I'll help you solve. I'm sure a clue will turn up somewhere."
+        },
+        {
+            "character": "May",
+            "line": "Twitter. Skye found it."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "That's me. I don't remember this. I'm a decent fighter."
+        },
+        {
+            "character": "May",
+            "line": "This guy can hold his own against you. Impressive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Last time you were here, you came to collect a rogue Asgardian. That would explain his strength."
+        },
+        {
+            "character": "May",
+            "line": "Regardless, she traveled across the universe to find him. He's dangerous."
+        },
+        {
+            "character": "Coulson",
+            "line": "Make that more than dangerous. We know you were after him. Question is, what's he after?"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "Take me to your supplies, powering elements... fuel! Do not try and fight me. Someone on your world has changed. I am here to hunt them down."
+        },
+        {
+            "character": "Nurse",
+            "line": "What do you... What do you want from me?"
+        },
+        {
+            "character": "Vin-Tak",
+            "line": "Don't worry. You won't remember."
+        }
+    ]
+}

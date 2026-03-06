@@ -1,0 +1,100 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 6,
+    "scene_name": "CoulsonAndChristianWardAlliance",
+    "description": "Coulson confronts Senator Christian Ward in his office, leveraging sensitive knowledge about Grant to force the senator to choose: help S.H.I.E.L.D. and get his brother, or endure public exposure of Grant's Hydra ties. The conversation is fraught, with both men revealing their motives, personal connections, and the pressure of family secrets. Coulson makes it clear that he holds valuable leverage, and the two strike a precarious bargain.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Christian Ward",
+            "line": "What are you doing here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't worry. I haven't been waiting long. Phil Coulson. I assume these are for your speech. I made a few changes. It's funnier now. I'm sure Talbot's mentioned me from time to time, which is perhaps why you're trying to call... whomever it is you're trying to call. Also, your men won't be checking on you... at least not for the next hour. You've requested some “me” time. And who can argue with that?"
+        },
+        {
+            "character": "Christian Ward",
+            "line": "What do you want?"
+        },
+        {
+            "character": "Coulson",
+            "line": "An opportunity to clear the air. The attack on the U.N. wasn't S.H.I.E.L.D., it was HYDRA... specifically, a man named Daniel Whitehall."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "You didn't come here to clear the air. You need something from me. And all this swaggering simply tells me you have nothing to offer in return. What do you want me to do? Go on record defending S.H.I.E.L.D., condemning HYDRA? The American people are looking for a simple enemy, Mr. Coulson. It's what makes them feel safe."
+        },
+        {
+            "character": "Coulson",
+            "line": "And how do they think they'd feel if they knew your brother was HYDRA? That's an awfully complicated idea to grasp, especially in an election year."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "Are you threatening me, Mr. Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I'm telling you I have your brother in my basement."
+        },
+        {
+            "character": "Ward",
+            "line": "You're back. Camera's off. Does Coulson know that..."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson's out. He cut us off last time, but now nobody's watching. Just you and me."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "Is he all right? Is Grant hurt? Did... did you have to do anything..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. We believe there are other ways to get information from people. I'm surprised your concerned, honestly."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "You don't have a brother, do you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Always wanted one, though. As an only child, you tend to idealize that relationship. Family has to take care of each other, right? Then again... I've heard some stories that say otherwise."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "What did Grant tell you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Plenty. I know what you did. How you forced him to torture your youngest brother. I know what happened at the well."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "So, it's a well now? You may think you know Grant Ward, Mr. Coulson, but trust me... underneath every lie he tells is just another lie."
+        },
+        {
+            "character": "Ward",
+            "line": "Is Coulson talking to Christian? You can't trust him. He'll smile, bare his soul. It is all manipulation. He is a master at it. Look, I know what I am. But my brother... he's worse."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "When we were kids, our parents were always gone... some state function or another. We'd spend all day by the creek hunting salamanders and crayfish. But I could never leave Grant alone with Thomas. I found Grant down there once, standing over him with a screwdriver. Thomas was on the ground, just screaming. And I saw something... something else behind his eyes. Something I'm sure you've seen before, as well. A second later, it was gone, and he was just my little brother again. He told our parents I forced him to do it. I've spent too much of my life trying to unravel his lies."
+        },
+        {
+            "character": "Coulson",
+            "line": "So have I."
+        },
+        {
+            "character": "Christian Ward",
+            "line": "And yet, he keeps telling them. He always finds someone to believe him."
+        }
+    ]
+}

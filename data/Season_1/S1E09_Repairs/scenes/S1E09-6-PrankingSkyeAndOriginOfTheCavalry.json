@@ -1,0 +1,310 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "PrankingSkyeAndOriginOfTheCavalry",
+    "description": "Fitz and Simmons analyze Hannah's readings and discuss the origins of May's \"Cavalry\" moniker, spinning a tall tale about May single-handedly defeating a massive enemy force on horseback. Skye becomes curious about May's past while bristling at May's tactics and exclusion from helping Hannah. She later vents her frustrations to Ward, who provides a more subdued version of May's backstory.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "comedic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "So sad."
+        },
+        {
+            "character": "Simmons",
+            "line": "And normal. These readings are entirely within average ranges. Of course, it's hard to find something when you don't know what you're looking for. All I can tell from these brain waves is she's upset."
+        },
+        {
+            "character": "Skye",
+            "line": "You need a computer for that? May's in there... the woman who shot her."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sedated her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Things got out of hand. May sorted it out. She's the Cavalry."
+        },
+        {
+            "character": "Skye",
+            "line": "Where does that name come from, anyway?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Didn't Ward tell you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "You don't know?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course not. You spent no time at the academy. It's quite a story."
+        },
+        {
+            "character": "Skye",
+            "line": "Yeah, well, Ward isn't exactly a chatty S.O."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, imagine if you will... a heavily secured compound. Manama, Bahrain. Multiple S.H.I.E.L.D. agents are taken hostage, tortured for information. May's mission... eliminate the threat."
+        },
+        {
+            "character": "Skye",
+            "line": "You mean kill people."
+        },
+        {
+            "character": "Simmons",
+            "line": "Not people... entire squads of mercenaries, almost 100."
+        },
+        {
+            "character": "Fitz",
+            "line": "More than 100."
+        },
+        {
+            "character": "Simmons",
+            "line": "More than 100 men, heavily armed. Her vehicle got totaled, so she rode in."
+        },
+        {
+            "character": "Fitz",
+            "line": "And, um, she had a M249 in each hand."
+        },
+        {
+            "character": "Simmons",
+            "line": "Right... in each hand. And she rode in on a horse."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hence the name."
+        },
+        {
+            "character": "Skye",
+            "line": "Is this real?"
+        },
+        {
+            "character": "Simmons",
+            "line": "She eliminated the enemy threat single-handedly."
+        },
+        {
+            "character": "FItz",
+            "line": "She saw a lot of hurt that day."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that why she's so..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Happy?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Particle accelerator data loading. No! You do not touch that! Two semesters minimum of holographic engineering before you get to touch this!"
+        },
+        {
+            "character": "Skye",
+            "line": "All right, all right. I get it. I didn't go to your stupid S.H.I.E.L.D. Hogwarts or whatever. I'm gonna go upstairs. And I'm gonna do my own research on my computer... my boring, old, flat computer."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can you believe she bought that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "A horse... brilliant."
+        },
+        {
+            "character": "Simmons",
+            "line": "You think you have the next prank?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We must carry on the tradition."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Hannah",
+            "line": "For weeks, I was getting reports from section two complaining that the coupling assembly was coming loose at the bolts. Tobias is the... He was the technician down there. We replaced the part, and we triple-checked it for damage. Seems like I went down there every few days."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you find a problem?"
+        },
+        {
+            "character": "Hannah",
+            "line": "No. But clearly, I missed something."
+        },
+        {
+            "character": "Coulson",
+            "line": "My team is working to determine what really did happen and what might have happen to you."
+        },
+        {
+            "character": "Hannah",
+            "line": "To me? What do you mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We believe that somehow, as a result of the accident, you acquired some form of telekinetic ability."
+        },
+        {
+            "character": "Hannah",
+            "line": "You think it's me? The police car, the gas sta... you think I did that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're not sure, and this can be a hard thing to hear, but all these events have one thing in common."
+        },
+        {
+            "character": "Hannah",
+            "line": "Me, but I'm not causing it. It's not me. I wish it were because then maybe I could make it stop."
+        },
+        {
+            "character": "May",
+            "line": "But if it's not you, then what is it?"
+        },
+        {
+            "character": "Hannah",
+            "line": "You people won't believe me."
+        },
+        {
+            "character": "May",
+            "line": "Try me."
+        },
+        {
+            "character": "Hannah",
+            "line": "God's punishing me. He abandoned me. He doesn't protect me anymore. That's why this is happening."
+        },
+        {
+            "character": "Coulson",
+            "line": "Protect you from what?"
+        },
+        {
+            "character": "Hannah",
+            "line": "Demons, sir. I'm being haunted by demons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Delusions of being persecuted aren't uncommon after trauma."
+        },
+        {
+            "character": "Ward",
+            "line": "She's certainly been through her fair share."
+        },
+        {
+            "character": "Skye",
+            "line": "She's blaming herself. It's guilt."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's all of it. She's broken. Pore over the accident site. If that tragedy gave her powers, we need to shut them down. If it wasn't her fault, even better, but until then, she's a danger to all of us."
+        },
+        {
+            "character": "Skye",
+            "line": "Just let me go in and talk to her, sir, as a friend."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't let you do that. It's too dangerous."
+        },
+        {
+            "character": "Skye",
+            "line": "She's not dangerous. She's nice... like, overly nice. She never misses a birthday post to her friends, runs the youth program at her church, rescues dogs. Hannah's a safety inspector not just because she's detail-oriented but because she..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She genuinely cares."
+        },
+        {
+            "character": "Skye",
+            "line": "Right. And someone with that much empathy being responsible for that much loss of life, she's devastated, spouting nonsense about god punishing her for..."
+        },
+        {
+            "character": "May",
+            "line": "People believe what they need to believe to justify their actions."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that how you justify your shoot-first policy? At least let me try to repair that damage."
+        },
+        {
+            "character": "May",
+            "line": "Until we figure out what's going on with her, she stays locked up and you stay away."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thought that was glued down. You're asking the right questions, Skye, but for now, that's all you get to do. I'm sorry."
+        },
+        {
+            "character": "Skye",
+            "line": "I just don't understand her at all. Everything to her is just... Target acquired. Threat eliminated."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, she's a specialist."
+        },
+        {
+            "character": "Skye",
+            "line": "In one thing. You can catch a lot more flies with honey than with napalm... just saying."
+        },
+        {
+            "character": "Ward",
+            "line": "Hand me the lettuce."
+        },
+        {
+            "character": "Skye",
+            "line": "And she says I need to stay away, but you know what I think? I think she needs to get laid."
+        },
+        {
+            "character": "Ward",
+            "line": "Might want to be less confrontational with Agent May."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not scared of her. Well, I am, but just because the Cavalry shot 100 guys on horseback doesn't mean she knows how people work."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait, horseback? Where'd you hear that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Fitz-Simmons."
+        },
+        {
+            "character": "Ward",
+            "line": "Were they messing with you? Story gets bigger every year. It wasn't 100 guys... it was 20. Trained assassins. May crossed them off with one pistol, no support."
+        },
+        {
+            "character": "Skye",
+            "line": "She rescued a bunch of agents?"
+        },
+        {
+            "character": "Ward",
+            "line": "Mm-hmm. There definitely wasn't a horse."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, if it went so well, why's she so squirrelly about the name?"
+        },
+        {
+            "character": "Ward",
+            "line": "I don't know, May's not in it for the glory. She got the job done. End of story. What did I do with that knife?"
+        },
+        {
+            "character": "Hannah",
+            "line": "Leave me alone! Oh, god, please forgive me!"
+        }
+    ]
+}

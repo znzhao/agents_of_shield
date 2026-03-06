@@ -1,0 +1,120 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 9,
+    "scene_name": "CoulsonAndHunterConfrontRosalind",
+    "description": "Coulson and Hunter intercept the black ops unit’s leader, Rosalind Price, on a train following surveillance intelligence. In a battle of wits, they spar verbally while surrounded by Price’s armed team. The confrontation escalates as they both realize they are not responsible for killing Inhumans, uncovering there is a third party involved.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You're not an easy person to pin down."
+        },
+        {
+            "character": "Price",
+            "line": "Really? ‘Cause you were no trouble at all."
+        },
+        {
+            "character": "Hunter",
+            "line": "Sir, I have trouble counting without using my fingers, but I think there's more of them than us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Roger that. Thanks, hunter."
+        },
+        {
+            "character": "Price",
+            "line": "I would have sent a car, but then you would have suspected something, Mr. Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what should I call you? Mrs. Kinley? Ms. McBride? So many stage names to choose from."
+        },
+        {
+            "character": "Price",
+            "line": "Call me Rosalind."
+        },
+        {
+            "character": "Coulson",
+            "line": "Rosalind. I know that's the name you went by at NASA."
+        },
+        {
+            "character": "Price",
+            "line": "At NASA, they tend to stick to last names, actually. The whole east-coast flight-school mentality is so deeply embedded."
+        },
+        {
+            "character": "Coulson",
+            "line": "And yet you somehow came to it through the D.O.D."
+        },
+        {
+            "character": "Price",
+            "line": "Space exploration and the defense department no longer eat at separate tables."
+        },
+        {
+            "character": "Coulson",
+            "line": "But they also don't like to share recipes. You tend to vanish, then materialize within the walls of a rival agency. I feel like I'm talking to a ghost."
+        },
+        {
+            "character": "Price",
+            "line": "Whereas I'm talking to a corpse. You're not the only one who did the homework."
+        },
+        {
+            "character": "Coulson",
+            "line": "I guess not."
+        },
+        {
+            "character": "Price",
+            "line": "In the eyes of the public, S.H.I.E.L.D. no longer exists. And you were killed long before the agency you worked for was pronounced dead. Yet, somehow you both rise from the ashes. If I wasn't so intrigued, I'd be terrified."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got a feeling nothing scares you."
+        },
+        {
+            "character": "Price",
+            "line": "Not true. But I'm certainly not intimidated by you staking out my route home, resorting to KGB-style tactics of intimidation."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wouldn't know. I haven't spent as much time as you have working with Russian counterintelligence."
+        },
+        {
+            "character": "Price",
+            "line": "And I haven't spent any time in Tahiti, though I hear it's a magical place. Let's both agree that we enjoy a good secret, though mine do appear a bit old hat next to yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got to get with the times, Roz. You don't want to be left in the dust."
+        },
+        {
+            "character": "Price",
+            "line": "That's why I plan to detain you, so it stops happening."
+        },
+        {
+            "character": "Banks",
+            "line": "Two teams in position at the next stop, ma'am."
+        },
+        {
+            "character": "Hunter",
+            "line": "That's one team for each of us. Again, killing it with math."
+        },
+        {
+            "character": "Price",
+            "line": "But I do hope that we can continue this conversation in a more intimate setting."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm perfectly happy to answer any questions that might be bothering you now. Incarceration doesn't seem totally necessary."
+        },
+        {
+            "character": "Price",
+            "line": "Nice of you to be so accommodating. Then tell me, where are you hiding them?"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "season": 1,
+    "episode": 18,
+    "num": 7,
+    "scene_name": "CoulsonReceivesCoordinatesAndTeamDoubts",
+    "description": "Skye hands over the team's S.H.I.E.L.D. badges, reflecting on their loss of purpose. Coulson discovers his badge now glows with mysterious coordinates, which Skye and Fitz determine point to the Canadian wilderness. He informs the team, who are divided about whether to trust these orders, with Triplett voicing suspicion about a possible trap. Coulson delivers a stirring speech about their mission and loyalty to Fury.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "antoine_triplett"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "This wasn't easy. Simmons got choked up when I asked for hers. This was big for me. Finally felt like I was a part of something, and now... it's worthless. I'm sorry. I can't imagine what this is like for you. You gave your life... literally gave your life... to S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was younger than you when Fury recruited me. Just out of high school. Some days, it feels like only yesterday. Other days... a lot longer."
+        },
+        {
+            "character": "Skye",
+            "line": "Is that your badge?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They look like coordinates."
+        },
+        {
+            "character": "Skye",
+            "line": "Coordinates to where?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know yet. But there's only one person who could have sent these. And this is totally his style."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, Director Fury's alive?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What did he say? Does he have a plan?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He only sent coordinates."
+        },
+        {
+            "character": "Skye",
+            "line": "The coordinates should put us somewhere in the Canadian wilderness."
+        },
+        {
+            "character": "Fitz",
+            "line": "What exactly are we looking for here, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's unclear. Maybe a rally point of some kind."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, have you and Agent Fury used this form of communication before?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Never."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then how can you be sure that..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because this is how he operates."
+        },
+        {
+            "character": "Triplett",
+            "line": "Could be a trap. So far, everything has been a trap. Am I wrong? Hydra could have sent you those coordinates."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nick Fury... Gave me this badge. When he did, I swore an oath. We all did. To serve when everything else fails, to be humanity's last line of defense, to be the “shield.” These coordinates mean something. I'm certain of it. Fury also gave me this plane. Anyone wants off, chutes are in the bay. Help yourself."
+        },
+        {
+            "character": "Kaminsky",
+            "line": "We were outnumbered, and S.H.I.E.L.D. pressed the advantage."
+        },
+        {
+            "character": "Garrett",
+            "line": "You managed to make it out with the chopper."
+        },
+        {
+            "character": "Kaminsky",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "No worries, then. The Cube's small potatoes. Once we hit the Fridge and grab all the fun toys tucked away inside, we'll be able to take any base we want."
+        },
+        {
+            "character": "Kaminsky",
+            "line": "Hail Hydra!"
+        },
+        {
+            "character": "Garrett",
+            "line": "All right, all right, put your arms down, Kaminsky. You look like a West Texas cheerleader at a pep rally. Let me see that weapon."
+        }
+    ]
+}

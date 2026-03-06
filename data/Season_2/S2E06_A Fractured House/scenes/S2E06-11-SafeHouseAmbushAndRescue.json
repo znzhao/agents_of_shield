@@ -1,0 +1,74 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 11,
+    "scene_name": "SafeHouseAmbushAndRescue",
+    "description": "In Belgium, with safe house security already breached, Hunter enters under false pretenses to distract Hydra agents long enough for May and Morse to storm in. A tense, action-packed fight breaks out as May faces Scarlotti and Morse and Hunter take down other Hydra mercenaries. The personal dynamic shifts as Morse finally thanks Hunter for saving her life. Talbot and American forces soon arrive to mop up, confirming Beckers has been arrested.",
+    "roles": [
+        "lance_hunter",
+        "melinda_may",
+        "bobbi_morse",
+        "glenn_talbot"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "Whoa, whoa, whoa. Hail HYDRA, guys. Hail HYDRA. I'm unarmed. I'm not looking for any trouble."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "Who sent you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Have you tried the beer around here? This is from Straffe Hendrik, little brewery around the corner. Ask for Zoe. She'll hook you up. Here, sweetheart, you can have the first one. Looks like you could use it. That face... so dour."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "You got 10 seconds to tell me exactly what you're doing here."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'm a Merc, mate, like you lot. And if you're looking to take out a few S.H.I.E.L.D. agents higher up the food chain, I happen to know a couple. They just need about... 90 seconds to get in position."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "Huh?"
+        },
+        {
+            "character": "May",
+            "line": "I got him."
+        },
+        {
+            "character": "Scarlotti",
+            "line": "All alone?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Bobbi!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Bob!"
+        },
+        {
+            "character": "Morse",
+            "line": "Third time today."
+        },
+        {
+            "character": "Hunter",
+            "line": "What?"
+        },
+        {
+            "character": "Morse",
+            "line": "You saved my life."
+        },
+        {
+            "character": "Coulson",
+            "line": "May... how many? Okay. Get home safe."
+        }
+    ]
+}

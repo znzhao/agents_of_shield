@@ -1,0 +1,184 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "TeamPrepsForSymposium",
+    "description": "At the Playground, the team discusses preparations for the Taiwan symposium. Fitz and Hunter banter about weapons and possible threats, while Daisy and Bobbi talk about the symposium's agenda and public perceptions of Inhumans. May and Lincoln conduct a surveillance exercise, emphasizing fieldwork and caution. Coulson and Talbot discuss Malick's possible presence at the symposium and Talbot's personal life, ending with S.H.I.E.L.D. members noticing the arrival of Carl Creel.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "lance_hunter",
+        "lincoln",
+        "carl_creel"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Watch where you're aiming that! You're not seriously gonna take that with you, are you?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Best to be overprepared than caught with your guns down."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a diplomatic conference."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah. Throw inhumans into the mix, and you have to expect the unexpected. Speedy powers, melty powers, eyeball death rays."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, that's why we've got Daisy and Lincoln with us."
+        },
+        {
+            "character": "Hunter",
+            "line": "Oh, yeah. Good old shake'n bake. What's in the case?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It's the director's new toy, something we've been working on."
+        },
+        {
+            "character": "Hunter",
+            "line": "Does it kill, stun, or disintegrate?"
+        },
+        {
+            "character": "Fitz",
+            "line": "It makes gloves."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, Fitz."
+        },
+        {
+            "character": "Daisy",
+            "line": "Are you coming with us?"
+        },
+        {
+            "character": "Fitz",
+            "line": "My work's done. I'm just gonna put this in the Director's Cabin."
+        },
+        {
+            "character": "Morse",
+            "line": "So, what do you know about this conference?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I know it's small, secret, just a few countries. They're calling it “a symposium on the alien contagion.” No wonder everyone is afraid of us when they use words like that. And you know, we're only part alien, and it's not a disease, it's an awakening."
+        },
+        {
+            "character": "Morse",
+            "line": "Interesting word choice."
+        },
+        {
+            "character": "Daisy",
+            "line": "I mean, for me. Terrigenesis made me who I was supposed to be. I was given a gift, and I use it to stop bad people from doing bad things."
+        },
+        {
+            "character": "Morse",
+            "line": "Unfortunately, some of those bad people were also inhumans."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, you know who else does bad things are humans, but you don't see any symposiums on the human contagion."
+        },
+        {
+            "character": "Morse",
+            "line": "Humans, we know. Inhumans are brand-new territory. People fear what they don't understand. Any word from Lincoln? How's his field op with May going?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just a trial run. But having been there myself, I'd say... he's miserable."
+        },
+        {
+            "character": "May",
+            "line": "You're too obvious. Blend in."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I've been blending in half my life. Pretty sure I can handle this. Where are you?"
+        },
+        {
+            "character": "May",
+            "line": "Watching your every move. Stay focused. Field work isn't always about rushing in and using your powers. Look for anything out of the ordinary, people with their hands in their pockets, long coats, clothes that don't match the weather."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. I think I see something suspicious."
+        },
+        {
+            "character": "May",
+            "line": "What is it? What do you see?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "No one would ever intentionally cut their hair like that."
+        },
+        {
+            "character": "May",
+            "line": "Not funny. We're here to protect the Director. Try and remember that."
+        },
+        {
+            "character": "Talbot",
+            "line": "This symposium is gonna be a colossal waste of time. Sitting around a conference table, singing “Kumbaya” is not going to accomplish a damn thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm less interested in the symposium than I am with the intel we can gather there. We need to know if any of these countries are harboring inhumans."
+        },
+        {
+            "character": "Talbot",
+            "line": "So it's a sneaky, little spy mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D., remember? That's how we roll."
+        },
+        {
+            "character": "Lincoln",
+            "line": "May, I've got one. No joke."
+        },
+        {
+            "character": "Coulson",
+            "line": "My gut tells me Malick will have a presence there. Someone in his pocket trying to influence the delegates while getting information on any inhumans."
+        },
+        {
+            "character": "Talbot",
+            "line": "Sounds like you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. But we're the good guys. I know it's none of my business, but I hope you and Carla work things out for your son. George, right? What is he, 11 now?"
+        },
+        {
+            "character": "Talbot",
+            "line": "He's 12."
+        },
+        {
+            "character": "Coulson",
+            "line": "A good age."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good night, General."
+        },
+        {
+            "character": "Talbot",
+            "line": "Director."
+        }
+    ]
+}

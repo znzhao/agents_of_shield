@@ -1,0 +1,131 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 14,
+    "scene_name": "FitzWarnsCoulsonOfBrainwashing",
+    "description": "Fitz and Mack rush to contact Coulson after Fitz realizes Donnie Gill has been brainwashed by Hydra and may have his programming triggered again. Fitz reveals his communication with Ward, and Coulson quickly sends orders to May and Hunter to separate Simmons from Gill, prioritizing both her cover and Gill's neutralization.",
+    "roles": [
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "melinda_may",
+        "lance_hunter"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Donnie didn't escape the Sandbox! He took the Sandbox for Hydra."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hydra recruited Gill?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... the... the brain. The brain."
+        },
+        {
+            "character": "Mack",
+            "line": "They brainwashed him. And they're gonna re-trigger his programming if they can."
+        },
+        {
+            "character": "Coulson",
+            "line": "How do you know this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I spoke to Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll talk about that when I get home. Nice work, Fitz. May, Hunter, do either of you have eyes on Gill?"
+        },
+        {
+            "character": "May",
+            "line": "Not yet."
+        },
+        {
+            "character": "Hunter",
+            "line": "Target is talking to Hydra."
+        },
+        {
+            "character": "Coulson",
+            "line": "End that conversation. Now."
+        },
+        {
+            "character": "Hunter",
+            "line": "Copy that."
+        },
+        {
+            "character": "Simmons",
+            "line": "You know what is best. What is best is you comply."
+        },
+        {
+            "character": "May",
+            "line": "Simmons..."
+        },
+        {
+            "character": "Donnie",
+            "line": "You think I don't know what you're trying to do? You're just like the rest of them. You liar!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What am I hearing?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Agent May shot me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Repeat?"
+        },
+        {
+            "character": "Hunter",
+            "line": "May shot me."
+        },
+        {
+            "character": "Triplett",
+            "line": "Man, I wanted to be the one."
+        },
+        {
+            "character": "May",
+            "line": "Simmons is here. Repeat... Simmons is on site with Hydra. Do we maintain her cover?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. Maintain her cover."
+        },
+        {
+            "character": "Triplett",
+            "line": "Your source?"
+        },
+        {
+            "character": "Coulson",
+            "line": "My source."
+        },
+        {
+            "character": "Triplett",
+            "line": "That's crazy."
+        },
+        {
+            "character": "Hunter",
+            "line": "What about the primary target?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If we can't take him in, we take him out. Do you copy?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Copy that."
+        },
+        {
+            "character": "May",
+            "line": "Copy."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "season": 7,
+    "episode": 1,
+    "num": 13,
+    "scene_name": "SimmonsAndEnochInterrogateChronicom",
+    "description": "On the Zephyr, Simmons and Enoch attempt to interrogate the captured Chronicom. Simmons employs an aggressive data overload strategy to force a reveal, despite Enoch’s warnings that it could cause permanent shutdown. Elena observes, ready to use her new arms if necessary, but Simmons' plan eventually yields results, hinting that the real target is not FDR but someone named Freddy.",
+    "roles": [
+        "jemma_simmons",
+        "elena_rodriguez",
+        "enoch"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "He will reveal nothing. As a Hunter, he is programmed to withstand any form of interrogation."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, I'm ready to see what my arms can do. Maybe I'll work him over anyways."
+        },
+        {
+            "character": "Simmons",
+            "line": "I have a better tactic."
+        },
+        {
+            "character": "Chronicom",
+            "line": "The rumors are true. You've chosen humans over your own kind."
+        },
+        {
+            "character": "Enoch",
+            "line": "You didn't choose anything. You were reassigned."
+        },
+        {
+            "character": "Simmons",
+            "line": "I've set this server to continuously generate junk data. In the end, a Chronicom is nothing but hardware and software."
+        },
+        {
+            "character": "Enoch",
+            "line": "Rude."
+        },
+        {
+            "character": "Simmons",
+            "line": "With limited bandwidth."
+        },
+        {
+            "character": "Enoch",
+            "line": "You're going to overwhelm his system."
+        },
+        {
+            "character": "Simmons",
+            "line": "I saw it with Coulson. If he's unable to control himself, he may randomly spit"
+        },
+        {
+            "character": "Elena",
+            "line": "Is that his data port?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No. What are the Chronicoms planning?"
+        }
+    ]
+}

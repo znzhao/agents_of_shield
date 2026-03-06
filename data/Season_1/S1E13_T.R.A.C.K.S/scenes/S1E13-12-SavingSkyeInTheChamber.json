@@ -1,0 +1,84 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 12,
+    "scene_name": "SavingSkyeInTheChamber",
+    "description": "Coulson finds a gravely wounded Skye. With Simmons’ guidance, the team races to stabilize Skye by placing her in the hyperbaric chamber Mike had been kept in. Simmons coordinates the emergency procedure, and Fitz helps regulate the chamber, while the rest of the team stands by, desperate and anxious. The operation is only a temporary fix; uncertainty hangs in the air as Simmons warns that Skye needs urgent medical care to survive.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Ohh. No. Oh, no. Oh, god. Simmons! Get down here! Oh... Oh, god. Hang on. Just hang on, okay? Oh, god. She's been shot."
+        },
+        {
+            "character": "Simmons",
+            "line": "Keep her upright."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got no pulse."
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh... she's lost too much blood. I don't... Put her in there."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you even know what this thing is?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a hyperbaric chamber, and I said put her in there now! Now!"
+        },
+        {
+            "character": "May",
+            "line": "Okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on! Let's go!"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. All right."
+        },
+        {
+            "character": "May",
+            "line": "All right, gentle."
+        },
+        {
+            "character": "Simmons",
+            "line": "I need to get her temperature down. Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Temperature's dropping."
+        },
+        {
+            "character": "Simmons",
+            "line": "Pressure stabilizing."
+        },
+        {
+            "character": "May",
+            "line": "Is it working?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Is it working?!"
+        },
+        {
+            "character": "Simmons",
+            "line": "For now."
+        }
+    ]
+}

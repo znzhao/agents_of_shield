@@ -1,0 +1,183 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "SargeAndIzelCommunicate",
+    "description": "FitzSimmons establish contact with Davis and S.H.I.E.L.D., but Sarge takes over the comms and directly threatens Izel, vowing revenge for his lost family. Simmons recognizes Sarge's voice as Coulson's, and Izel taunts Sarge about his lost memories. After the call, Izel accuses FitzSimmons of betrayal, and they are forced to flee from Izel's Shrike-possessed crew.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "izel",
+        "davis",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This is S.H.I.E.L.D. 226. Does anyone copy? This is S.H.I.E.L.D. 226. Does anyone copy?"
+        },
+        {
+            "character": "Davis",
+            "line": "We copy, we copy. Do you read me?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, this is Agents Fitz and Simmons with S.H.I.E.L.D. 226."
+        },
+        {
+            "character": "Davis",
+            "line": "It's good to hear your voice, Simmons."
+        },
+        {
+            "character": "Simmons",
+            "line": "Davis, is that you?"
+        },
+        {
+            "character": "Davis",
+            "line": "Affirmative. This is Agent Davis, also with S.H.I.E.L.D. 226."
+        },
+        {
+            "character": "Simmons",
+            "line": "Davis, I think you've confused your call signs."
+        },
+        {
+            "character": "Davis",
+            "line": "No, I'm pretty sure I'm 226, just like you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Copy that. Loud and clear."
+        },
+        {
+            "character": "Davis",
+            "line": "Uh... Simmons, are you, by any chance, on that spacecraft that just entered the upper atmosphere?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, we are, and in fact, it seems our landing site was compromised."
+        },
+        {
+            "character": "Sarge",
+            "line": "Whoever the hell is talking, I know someone else is listening."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I got a message. I killed your Shrike, I destroyed your tower, and I'm coming for you next, Izel."
+        },
+        {
+            "character": "Izel",
+            "line": "Ah. So you finally remember my name. Come for me, and I'll help you remember yours."
+        },
+        {
+            "character": "Fitz",
+            "line": "You said he was dead. Can't be him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then why does it sound exactly like Coulson?"
+        },
+        {
+            "character": "Izel",
+            "line": "Seems you're still not sure what to call yourself."
+        },
+        {
+            "character": "Sarge",
+            "line": "I never put much stock in names. I prefer actions."
+        },
+        {
+            "character": "Izel",
+            "line": "And yours are lacking."
+        },
+        {
+            "character": "Sarge",
+            "line": "Last I checked, I took down your crew. Almost got you, too."
+        },
+        {
+            "character": "Izel",
+            "line": "All you had to do was destroy the entire planet in the process."
+        },
+        {
+            "character": "Sarge",
+            "line": "You'd already infected Chronyca by the time I got there. I severed the limb, stopped the spread."
+        },
+        {
+            "character": "Izel",
+            "line": "Oh! A hero. What is it you always said? People fantasize about doing something heroic, but in the end, they save their own skin. Whose skin are you saving now? Just the one you're wearing, I hope."
+        },
+        {
+            "character": "Sarge",
+            "line": "Come see me and find out."
+        },
+        {
+            "character": "Izel",
+            "line": "I will. It's time for you to come to your senses or to a close. I don't want to destroy you, but if I must..."
+        },
+        {
+            "character": "Sarge",
+            "line": "That's funny. I can't wait to kill you."
+        },
+        {
+            "character": "Izel",
+            "line": "Are you sure?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Dead certain."
+        },
+        {
+            "character": "Izel",
+            "line": "Tell me... why is that?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Because you robbed me of my family, the woman I love, my home. And then you took the one thing I had left... my memories of them."
+        },
+        {
+            "character": "Izel",
+            "line": "It's not that I stole your memories, Sarge. It's that you never had any to begin with."
+        },
+        {
+            "character": "Sarge",
+            "line": "Get me to that ship. Now."
+        },
+        {
+            "character": "Izel",
+            "line": "You recognized his voice. You know him. You've been conspiring against me all along?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no. No conspiring, okay? Honestly, we're the opposite. We're anti-conspiratorial. We knew someone who sounds just like him. But he's dead."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please. Izel, there must be some explanation."
+        },
+        {
+            "character": "Izel",
+            "line": "It's simple. You're telling lies!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, all right. Okay. Just wait a moment."
+        },
+        {
+            "character": "Izel",
+            "line": "Saving your own skin."
+        },
+        {
+            "character": "Simmons",
+            "line": "Now where do we go?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I've got an idea, but you're not gonna love it. Come on."
+        }
+    ]
+}

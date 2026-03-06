@@ -1,0 +1,50 @@
+{
+    "season": 3,
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "lincoln",
+        "grant_ward",
+        "glenn_talbot",
+        "carl_creel",
+        "gideon_malick",
+        "andrew_garner",
+        "giyera",
+        "james",
+        "elena_rodriguez",
+        "joey_gutierrez"
+    ],
+    "affiliations": [
+        "S.H.I.E.L.D.",
+        "Advanced Threat Containment Unit (ATCU)",
+        "Hydra",
+        "Secret Warriors",
+        "Watchdogs (anti-Inhuman terrorist group)",
+        "Transia Corporation",
+        "Kree",
+        "Cybertek",
+        "T.A.H.I.T.I. Project",
+        "Deathlok Program",
+        "Inhumans"
+    ],
+    "locations": [
+        "The Playground (S.H.I.E.L.D. operations facility)",
+        "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+        "Maveth (alien planet accessed via the Kree monolith)",
+        "The Cocoon (S.H.I.E.L.D. Inhuman training/containment facility)",
+        "ATCU headquarters / Advanced Threat Containment Unit facilities",
+        "Transia Corporation facility (Michigan / corporate sites)",
+        "Absolution, Montana (mining town / Hive base)",
+        "English castle (site of the monolith / Distant Star Pathfinder facility)",
+        "Bucharest transhumanist club (black-market for cybernetics / Radcliffe contact)",
+        "Siberian military base (Malick rendezvous)",
+        "Symposium on the Alien Contagion (Taiwan)",
+        "missile silo (Pacific island launch site)"
+    ]
+}

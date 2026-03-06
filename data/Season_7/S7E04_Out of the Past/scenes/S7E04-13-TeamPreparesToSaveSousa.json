@@ -1,0 +1,60 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 13,
+    "scene_name": "TeamPreparesToSaveSousa",
+    "description": "Back on Zephyr One, Mack, Daisy, and Coulson strategize to fake Sousa’s death and keep him from danger during the drop. May reflects on her empathetic link, and the team prepares for the mission while acknowledging the risks of changing history. Moments of personal resolve punctuate the tension as they commit to the operation.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "We're gonna save him. We won't let him get near that place. We'll find a way to make the drop for him and figure out the rest after."
+        },
+        {
+            "character": "Daisy",
+            "line": "Cool. Writing some new history. Copy that."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's the Director's call."
+        },
+        {
+            "character": "Mack",
+            "line": "Let's make some waves."
+        },
+        {
+            "character": "Simmons",
+            "line": "What else did you feel?"
+        },
+        {
+            "character": "Elena",
+            "line": "What was it, May?"
+        },
+        {
+            "character": "May",
+            "line": "An overwhelming urge. I felt the need to..."
+        },
+        {
+            "character": "Elena",
+            "line": "To what?"
+        },
+        {
+            "character": "May",
+            "line": "To run."
+        },
+        {
+            "character": "Coulson",
+            "line": "Like I said, sometimes the hero has to die, and there's nothing you can do about it."
+        }
+    ]
+}

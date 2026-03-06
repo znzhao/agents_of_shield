@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 9,
+    "num": 11,
+    "scene_name": "SkyeAndMayTryToWarnCoulsonAsWhitehallThreatens",
+    "description": "Aboard the Bus, Skye frantically tries to warn Coulson and his team about the danger of entering the city, but communications fail due to interference. Whitehall then comes over the radio issuing a menacing ultimatum: S.H.I.E.L.D. must hand over Raina or their plane will be shot down. Tensions rise as the team prepares for this unexpected HYDRA confrontation.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "We can't let them go down there, May. We have to stop them."
+        },
+        {
+            "character": "May",
+            "line": "Calm down. You can't let Raina get into your head."
+        },
+        {
+            "character": "Skye",
+            "line": "She's not lying. Look, she said the Diviner was meant to guide the worthy to the temple. You see this? It's the same symbol I saw on the Obelisk. It's got to be the temple."
+        },
+        {
+            "character": "May",
+            "line": "You're sure?"
+        },
+        {
+            "character": "Skye",
+            "line": "Trust me. It is seared into my brain. We have to warn Coulson now. Something bad is about to happen. Damn it! Why isn't this working?"
+        },
+        {
+            "character": "May",
+            "line": "Getting some kind of interference."
+        },
+        {
+            "character": "Whitehall",
+            "line": "S.H.I.E.L.D. 6-1-6... do not engage your defenses, or you will be shot out of the sky."
+        },
+        {
+            "character": "May",
+            "line": "Whitehall."
+        },
+        {
+            "character": "Triplett",
+            "line": "There's HYDRA quinjets outside the windows on both sides."
+        },
+        {
+            "character": "Hunter",
+            "line": "Then let's step on it, shall we?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "You have someone aboard that I want... a woman named Raina. I'm going to send over a representative to get her. Any attempt to evade or retaliate will be met with hostile fire. Uncloak and prepare to be boarded."
+        },
+        {
+            "character": "Raina",
+            "line": "Destiny calls."
+        }
+    ]
+}

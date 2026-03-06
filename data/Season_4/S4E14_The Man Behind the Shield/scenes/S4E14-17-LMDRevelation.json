@@ -1,0 +1,108 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 17,
+    "scene_name": "LMDRevelation",
+    "description": "Back at The Playground, Fitz and Simmons discuss inconsistencies in the mission's timeline and data logs. Simmons discovers that Coulson accessed and deleted the LMD detector report, which indicated that several team members, including Coulson, Daisy, Mack, and Mace, are actually LMDs. Fitz and Simmons realize something is terribly wrong, hinting at a deeper infiltration within S.H.I.E.L.D.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "skye",
+        "jeffrey_mace"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Storm front coming in. You and I can just hunker down, pull all this apart until we find something that can help us get Agent May back, yeah? Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "How long were we in that base?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Pardon?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The timetable of this mission is bothering me. Coulson says he came straight down to the submarine dock after rescuing the Director. And we heard the blast from Daisy's battle with Ivanov long before she met up with us again."
+        },
+        {
+            "character": "Fitz",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm saying something doesn't feel right. There's a stretch of time in there that's unaccounted for when no one was in contact."
+        },
+        {
+            "character": "Fitz",
+            "line": "Now you mention it, it was pitch-dark when we left."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the blast-door scanner system."
+        },
+        {
+            "character": "Fitz",
+            "line": "LMD detection?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "What about it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It was disabled."
+        },
+        {
+            "character": "Fitz",
+            "line": "Disabled? Recently? And the system report was deleted from the record. Why would someone do that? By who?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Not sure. Luckily, my level on the spectrum of security means a copy of each report is sent directly to my inbox. The system was accessed by Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson? What would he want to keep from us?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, this has to be a mistake."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait, wait, wait, wait, wait, wait, wait. Look, you said it yourself, we were in there for a while. We were separated from them the whole time."
+        },
+        {
+            "character": "Simmons",
+            "line": "AIDA was seen at the base, and tanks of gas. What kind of gas?"
+        },
+        {
+            "character": "Fitz",
+            "line": "They left a trail of clues. They wanted to find Coulson."
+        },
+        {
+            "character": "Simmons",
+            "line": "And while we were downstairs..."
+        },
+        {
+            "character": "Fitz",
+            "line": "They switched people out. How many?"
+        },
+        {
+            "character": "Simmons",
+            "line": "All of them."
+        }
+    ]
+}

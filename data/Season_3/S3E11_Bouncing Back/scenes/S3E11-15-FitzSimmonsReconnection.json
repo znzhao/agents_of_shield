@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 15,
+    "scene_name": "FitzSimmonsReconnection",
+    "description": "Back at the Playground, Simmons and Fitz have a heartfelt conversation about their relationship, confronting the emotional distance that has grown between them. They express regret and resolve to reconnect, nostalgically recalling their early days together, signaling a potential new beginning for their partnership.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "romantic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "When did you get done?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, earlier today. I think he's gonna like this one. How are you? Must be fascinating getting to know all about Inhuman DNA..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I miss you. There it is. I miss you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm here. Together. We're..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Professional and matter of fact, and there's this chasm in the middle of the room of all these things, of our kiss and Will's death, and..."
+        },
+        {
+            "character": "Fitz",
+            "line": "And I'm sorry about that, Jemma, because... because maybe there was another way... and there was something else that I could've done."
+        },
+        {
+            "character": "Simmons",
+            "line": "Will died saving me. What you did was kill a thing, a monster. You've been nothing less than extraordinary this whole time."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, um... about this... chasm, as you call it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can we start over, back to where we began?"
+        },
+        {
+            "character": "Fitz",
+            "line": "16 and achingly shy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Two people, endlessly inquisitive, about to embark on a relationship that will change their lives, but they don't know where it will go. I'm Jemma Simmons, biochemist."
+        },
+        {
+            "character": "Fitz",
+            "line": "Leopold Fitz, engineering."
+        }
+    ]
+}

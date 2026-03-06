@@ -1,0 +1,179 @@
+{
+    "season": 2,
+    "episode": 11,
+    "num": 6,
+    "scene_name": "DebateOverResponsibilityAndGamePlan",
+    "description": "Coulson gathers the team to plan an operation involving Bakshi to destabilize HYDRA, but Mack confronts him over his leadership and the events leading to Trip's death. Hunter, May, Fitz, and Morse are caught in the heated exchange, with Skye intervening as the group’s emotional state escalates. Eventually, Coulson ends the argument, demanding readiness for their mission against HYDRA.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "grant_ward",
+        "lance_hunter",
+        "bobbi_morse",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "With a prisoner exchange? Using Bakshi out in the open like that... it's a dangerous strategy, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know it's high-risk, but we have a small window to take advantage of HYDRA's lack of leadership."
+        },
+        {
+            "character": "Hunter",
+            "line": "It puts us out on a limb."
+        },
+        {
+            "character": "Coulson",
+            "line": "With a chance to deliver a crushing blow to those responsible for Trip's death. I'll take it."
+        },
+        {
+            "character": "Mack",
+            "line": "Responsible, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You have something to say, Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "Plenty, but I'll keep it to myself."
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't mind him. He's just coming down from the worst alien acid trip of all time."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's not funny."
+        },
+        {
+            "character": "Hunter",
+            "line": "Just trying to lighten the mood, mate."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, well, Mack didn't ask for what happened to him."
+        },
+        {
+            "character": "Hunter",
+            "line": "Of course not."
+        },
+        {
+            "character": "May",
+            "line": "No one asked for any of this to happen. HYDRA forced our hand, and now Coulson plans to force theirs."
+        },
+        {
+            "character": "Mack",
+            "line": "Did they? Did HYDRA force our hand?"
+        },
+        {
+            "character": "Morse",
+            "line": "Calm down, Mack."
+        },
+        {
+            "character": "Coulson",
+            "line": "Repeatedly, but we have a chance here..."
+        },
+        {
+            "character": "Mack",
+            "line": "Or did we hand them detailed plans and the location of that city?"
+        },
+        {
+            "character": "Coulson",
+            "line": "HYDRA took them when they took Skye. Are you saying we shouldn't have gone in to save her?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm saying there wouldn't have been anything to take if you and Skye hadn't been obsessed with the alien messages in your damn head."
+        },
+        {
+            "character": "Morse",
+            "line": "All right, let's just all..."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't about blame."
+        },
+        {
+            "character": "May",
+            "line": "Watch yourself, Mack."
+        },
+        {
+            "character": "Fitz",
+            "line": "No one would have left Skye there. That's not what he's saying."
+        },
+        {
+            "character": "Coulson",
+            "line": "I shouldn't have to ask any of you to save one of our own."
+        },
+        {
+            "character": "Mack",
+            "line": "You never ask! You just give your orders, no matter how cracked out they are!"
+        },
+        {
+            "character": "May",
+            "line": "Mack, you'd do well to remember your rank right now."
+        },
+        {
+            "character": "Hunter",
+            "line": "Really? Rank at a time like this? Why don't you shove rank up your..."
+        },
+        {
+            "character": "Morse",
+            "line": "Not helping, Hunter."
+        },
+        {
+            "character": "Skye",
+            "line": "Guys, stop."
+        },
+        {
+            "character": "Hunter",
+            "line": "No, it's cathartic. Do you have any thoughts of your own on it, or do you just parrot his?"
+        },
+        {
+            "character": "May",
+            "line": "Coulson's only trying to stop HYDRA."
+        },
+        {
+            "character": "Mack",
+            "line": "We didn't stop anything! We unleashed something on the planet!"
+        },
+        {
+            "character": "Skye",
+            "line": "Please."
+        },
+        {
+            "character": "Fitz",
+            "line": "No one knows what happened yet."
+        },
+        {
+            "character": "May",
+            "line": "Trip averted disaster. It could have been a lot worse!"
+        },
+        {
+            "character": "Mack",
+            "line": "And Skye barely made it out alive!"
+        },
+        {
+            "character": "May",
+            "line": "Thanks to Trip... he sacrificed his life, Mack!"
+        },
+        {
+            "character": "Mack",
+            "line": "No, he traded his life for hers! And then he was shattered into a thousand pieces!"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's enough! If Trip was here, he wouldn't be arguing. He wouldn't be bitching. He would be gearing up to do what needs to be done. Yes, we're dealing with forces we don't understand, but HYDRA I do understand. I want everyone ready when the sun comes up, end of discussion."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 2,
+    "scene_name": "BusDebriefAndSecrecy",
+    "description": "On the S.H.I.E.L.D. Bus, Simmons extracts intelligence from Shaw while Coulson reassures him of his safety and reveals that the team will be heading to the Hub. Fitz and Simmons bicker over data analysis. When Skye asks to help decode the intel, Coulson shuts her out due to clearance issues, which frustrates her as she realizes how easily secrecy is accepted among the team.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Whatever you do, don't breathe. That was a joke. You should, of course, feel comfortable breathing if you need to, just not through your nose. And very minimally through your mouth."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah. There we are."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's all the intel you recovered?"
+        },
+        {
+            "character": "Shaw",
+            "line": "Ah. I certainly hope so."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, thank you, Agent Shaw, for keeping it safe up there. We'll push this through to the Hub. In fact, we're headed there now to drop you off. Get you a change of clothes, a proper meal ... you'll be good as new."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Hub? Really? How exciting. It's been ages."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ah. Good. Done with that paranasal extraction nonsense. Do you need me to analyze the data?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That won't be necessary."
+        },
+        {
+            "character": "Skye",
+            "line": "If it's encrypted, I can mine the chip for him."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm afraid this mission's classified. Clearance level 8."
+        },
+        {
+            "character": "Skye",
+            "line": "Uh..."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. What? He can just shut us out of the process like that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, he did say the mission is level 8."
+        },
+        {
+            "character": "Simmons",
+            "line": "And we're not, so we can't know about it."
+        },
+        {
+            "character": "Skye",
+            "line": "Right, but this is normally the part where we all stand around the holocom and we learn about stuff. I mean, aren't we all on the same team?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No need to get started on one of your socialist riffs."
+        },
+        {
+            "character": "Simmons",
+            "line": "S.H.I.E.L.D.'s whole infrastructure is based on the hierarchy and compartmentalization of intelligence."
+        },
+        {
+            "character": "Ward",
+            "line": "Every agent can't have the intel on every mission. Makes the entire organization vulnerable."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, fine, but if I just fought my way out of an underground Siberian prison, I'd kind of want to know what for."
+        },
+        {
+            "character": "May",
+            "line": "Coulson's got you used to the plane, the way we do missions here. The Hub is different."
+        },
+        {
+            "character": "Skye",
+            "line": "The Hub? What's the Hub?"
+        }
+    ]
+}

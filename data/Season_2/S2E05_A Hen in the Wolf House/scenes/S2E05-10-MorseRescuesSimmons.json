@@ -1,0 +1,21 @@
+{
+    "season": 2,
+    "episode": 5,
+    "num": 10,
+    "scene_name": "MorseRescuesSimmons",
+    "description": "With her cover blown, Simmons is in danger at Hydra. Bobbi Morse reveals herself as an undercover S.H.I.E.L.D. agent, fights off Hydra guards, and helps Simmons escape to the roof, where Triplett arrives in a cloaked quinjet to extract them. Simmons learns Morse has retrieved her hard drive with valuable Hydra intel.",
+    "roles": [
+        "jemma_simmons",
+        "bobbi_morse",
+        "antoine_triplett"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I don't mean to sound ungrateful, because I am truly grateful, but who are you?"
+        }
+    ]
+}

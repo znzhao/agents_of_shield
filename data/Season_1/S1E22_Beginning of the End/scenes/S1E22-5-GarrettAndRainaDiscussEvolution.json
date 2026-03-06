@@ -1,0 +1,65 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 5,
+    "scene_name": "GarrettAndRainaDiscussEvolution",
+    "description": "Raina and Garrett stand over the gravitonium, discussing the impending evolution they both await, as Ward observes, increasingly worried about Garrett's mental state. Raina questions Ward's motivations and projects that both he and Skye have important roles in the coming change, heightening Ward's internal conflict.",
+    "roles": [
+        "raina",
+        "grant_ward",
+        "john_garrett"
+    ],
+    "vibe": "mysterious",
+    "location": "Cybertek Headquarters (Palo Alto)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "I'm saying, just talk to him. He says everything's fine, but he's not acting that way. I don't know what's going on with him, and I don't like it."
+        },
+        {
+            "character": "Raina",
+            "line": "Captivating, isn't it?"
+        },
+        {
+            "character": "Garrett",
+            "line": "First time I saw it, it reminded me of a lava lamp. Of course, that was before I could see through it."
+        },
+        {
+            "character": "Raina",
+            "line": "Quinn's expecting the gravitonium as payment. When he's done, I think it would be wise to let him have it."
+        },
+        {
+            "character": "Garrett",
+            "line": "Don't be coy. I know you have plans for the stuff. I understand it now. I can see its soul. I can see yours, too."
+        },
+        {
+            "character": "Ward",
+            "line": "Ward's concerned you're going mad."
+        },
+        {
+            "character": "Garrett",
+            "line": "The drug didn't just strengthen my body. It gave me clarity of mind. It gave me a vision of the world that's waiting beneath the surface of this world. You don't think that's mad, do you? You know exactly what I'm talking about. You always have."
+        },
+        {
+            "character": "Raina",
+            "line": "I have no allegiance to Hydra, Centipede, Cybertek... you. I was only ever interested in..."
+        },
+        {
+            "character": "Garrett",
+            "line": "Evolution. You know we're prehistoric creatures oozing out of the swamps, through the mist, clawing our way onto land so we can finally stand or plant roots... or fly."
+        },
+        {
+            "character": "Raina",
+            "line": "Exactly. I was saddened to learn you weren't Clairvoyant. I had a question I didn't get to ask, but now..."
+        },
+        {
+            "character": "Garrett",
+            "line": "Now the truth is written on the back of my eyes, so... go ahead, Flowers. Ask."
+        },
+        {
+            "character": "Raina",
+            "line": "What will I become?"
+        }
+    ]
+}

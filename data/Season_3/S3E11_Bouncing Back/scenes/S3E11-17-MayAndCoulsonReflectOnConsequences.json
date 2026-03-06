@@ -1,0 +1,72 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 17,
+    "scene_name": "MayAndCoulsonReflectOnConsequences",
+    "description": "May and Coulson debrief after the mission, reflecting on delegation, trust, and the cost of leadership, particularly in light of the sacrifices necessary in their fight against Hydra and the Inhumans. As news breaks of Malick's company suffering financial blows, questions arise about Hydra's next steps and Malick's new Inhuman weapon. The scene underscores the weight and ongoing stakes of their war.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You're trusting them more."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's good to delegate."
+        },
+        {
+            "character": "May",
+            "line": "So it's not because you don't trust yourself. It looks good."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz outdid himself on this one. Lots of bells and whistles. It's pretty fantastic."
+        },
+        {
+            "character": "May",
+            "line": "May I? Feels real."
+        },
+        {
+            "character": "Coulson",
+            "line": "Feels like the others. It's not the hand. It's me."
+        },
+        {
+            "character": "May",
+            "line": "Maybe you're not supposed to get over it. Some things you can't move past. They scar you, change you permanently."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know what happened there, on that planet."
+        },
+        {
+            "character": "May",
+            "line": "I do. You joined the cavalry."
+        },
+        {
+            "character": "Man",
+            "line": "In a surprising move, Gothite Industry closed 10 offices today. Their stock prices continue to tumble as investor react. Gideon Malick cannot be reached for comment."
+        },
+        {
+            "character": "May",
+            "line": "Sometimes you're wounded, sometimes you wound."
+        },
+        {
+            "character": "Coulson",
+            "line": "But he's still collecting Inhumans."
+        },
+        {
+            "character": "May",
+            "line": "Any theories as to why?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Lincoln said Inhuman powers create a balance for the species, an equilibrium. We got a lot of heroes on our side. Makes me wonder what Malick has on his."
+        }
+    ]
+}

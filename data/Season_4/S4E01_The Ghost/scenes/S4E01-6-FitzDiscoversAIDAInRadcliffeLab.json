@@ -1,0 +1,137 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 6,
+    "scene_name": "FitzDiscoversAIDAInRadcliffeLab",
+    "description": "Fitz visits Dr. Radcliffe's house hoping for a casual football match but is stunned when he encounters AIDA, Radcliffe’s newly built humanoid robot. Radcliffe enthusiastically explains AIDA's capabilities and intentions, while Fitz expresses concern about the ethical and security risks. They agree to keep AIDA secret from the new director and even Simmons until the project is perfected.",
+    "roles": [
+        "leo_fitz",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "Hey, just in time. They've just taken to the pitch. Where's Jemma? Is she not coming?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, she wanted to. Same story."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "All work and no play, huh? That's a bit disappointing. Still, make yourself comfortable. I'm just, uh, finishing cleaning up."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, should be pretty lopsided, don't you think? Their keeper's absolutely crap... Oh, my gosh! I'm so sorry. I'm so sorry. I had no idea there was somebody here."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You... You weren't meant to see that."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello. I'm glad to final... Hello. I'm glad to final..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Fitz, meet AIDA."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello. I'm glad to final..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "She's, uh, crashed."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello. I'm glad to final... Hello. I'm glad to final..."
+        },
+        {
+            "character": "AIDA",
+            "line": "Hello. I'm glad to final... Hello. I'm glad to final... Hello. I'm glad to final... Hello. I'm glad to final..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, I've just upped her PSU to compensate for image processing. Must have overcranked it. I'll reboot."
+        },
+        {
+            "character": "Fitz",
+            "line": "Unh-unh, that's not what I meant. I meant... what the hell?!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, you've already met Aida, digital personal assistant, as a voice on the computer. So, uh... I built her a body."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, a naked body."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I-I was just now installing new hardware, updating her gyroscopic sensors. I'm not some sicko."
+        },
+        {
+            "character": "Fitz",
+            "line": "When did you build this? Have you forgotten the very strict stipulations that came with your pardon? You are not allowed experimentation without approval and oversight!"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oversight, I know. I'm well aware of that, yeah. That's why I wanted Simmons here. I wanted to show both of you. Look. This has been a lifelong dream of mine, Fitz. When I saw the work you and Simmons were doing in replicating human tissue and internal bone structure in Coulson's hand, I knew... I knew right then that this was within reach."
+        },
+        {
+            "character": "Fitz",
+            "line": "A robot?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Not just a robot. It's one that can cross the uncanny valley and come out the other side, pass for a human. I mean, it has bloody micro-expressions."
+        },
+        {
+            "character": "Fitz",
+            "line": "She. It's a... It's definitely a “she” 'cause I saw..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes... She has micro-expressions, full range of motion. I mean, physically, it's... she's nearly perfect."
+        },
+        {
+            "character": "Fitz",
+            "line": "She is... very realistic."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Now, mentally, well, you've spoken with AIDA. She's bright, she laughs at the jokes I programmed her to recognize, but she's never pass the Turing test. At the moment, that's a pipe dream. However, I think, with your help..."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no. No, no, no, no! We have to report this right away. You could lose everything."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I know. I know."
+        },
+        {
+            "character": "Fitz",
+            "line": "Or you could go to jail."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I know! I know, you're right. Full disclosure at this time is the best course of action. I... I agree. Hmm. At least let me show you how it works."
+        }
+    ]
+}

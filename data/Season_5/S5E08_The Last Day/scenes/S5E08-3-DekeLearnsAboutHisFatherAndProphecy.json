@@ -1,0 +1,68 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 3,
+    "scene_name": "DekeLearnsAboutHisFatherAndProphecy",
+    "description": "Voss greets Deke, expressing surprise at his survival and hinting at a connection to his father. Voss claims Deke’s father is alive at another outpost, fueling hope and tension. Meanwhile, the episode establishes the ongoing influence of the prophecy that unites the survivors. Deke reflects on his relationship with his father and unresolved feelings of guilt, reinforced by Daisy’s empathy.",
+    "roles": [
+        "deke_shaw",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Voss",
+            "line": "Holy hell. Is that Deke Shaw? Ha! I'll be damned! Thought I was looking at your old man 20 years ago! Welcome."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh, my God, Voss. I should've known that even the roaches wouldn't touch you."
+        },
+        {
+            "character": "Voss",
+            "line": "Ha! Never thought I'd see you tagging along with these folks."
+        },
+        {
+            "character": "Deke",
+            "line": "It's a long story."
+        },
+        {
+            "character": "Voss",
+            "line": "Well, let's hear all about it, huh? You can tell me whether these guys are the real deal or not. I'm surprised you're the only one of ours to make the trip. And Virgil?"
+        },
+        {
+            "character": "Deke",
+            "line": "The Roaches got him. I'm sorry. I've been playing catch-up ever since. I feel like he could've told me that he was exchanging messages with my dead dad."
+        },
+        {
+            "character": "Voss",
+            "line": "We didn't know who to trust."
+        },
+        {
+            "character": "Deke",
+            "line": "Clearly. So, where is he?"
+        },
+        {
+            "character": "Voss",
+            "line": "Your dad was transmitting from a radio tower a few days out. He's on his way back now, but he is gonna be so happy to see you."
+        },
+        {
+            "character": "Deke",
+            "line": "Is he?"
+        },
+        {
+            "character": "Voss",
+            "line": "Oh, come on."
+        },
+        {
+            "character": "Deke",
+            "line": "Just, the way we left things, it wasn't really..."
+        },
+        {
+            "character": "Voss",
+            "line": "No, no, no, no, listen. He never held any of that against you, all right? If anything is to blame, it's the Lighthouse. That place did a number on all of us."
+        }
+    ]
+}

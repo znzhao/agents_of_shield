@@ -1,0 +1,21 @@
+{
+    "season": 1,
+    "episode": 7,
+    "num": 13,
+    "scene_name": "WardAndFitzDefendAndEscape",
+    "description": "Inside the compound, Ward and Fitz finish disabling the device just as the alarm is triggered by the backup team’s assault. Together, they fend off guards, with Fitz disabling weapons and Ward taking out enemies. As chaos erupts, they make a daring escape with May piloting the Bus overhead for rescue.",
+    "roles": [
+        "grant_ward",
+        "leo_fitz",
+        "melinda_may"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "Ah-ah. Last chance, Fitz. Are you sure you don't want a head start? Because the second you pull that final wire..."
+        }
+    ]
+}

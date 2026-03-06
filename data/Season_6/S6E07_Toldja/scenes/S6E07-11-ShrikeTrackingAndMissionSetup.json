@@ -1,0 +1,37 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 11,
+    "scene_name": "ShrikeTrackingAndMissionSetup",
+    "description": "Deke announces his success in hacking Sarge's tracker, revealing the location of two converging Shrike. May organizes teams: she and Yo-Yo will hunt the Shrike using a Quinjet, planning to rendezvous on the Zephyr. The team mobilizes, determined to contain the alien infestation.",
+    "roles": [
+        "deke_shaw",
+        "melinda_may",
+        "elena_rodriguez"
+    ],
+    "vibe": "hopeful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Hey. So, I found a fix in this tracker, of course. I analyzed the alien encryption... Not easy... And found a way to hack it. That's just me, guy from future who doesn't belong. If you look, there's two other dots, and it looks like they're moving towards each other."
+        },
+        {
+            "character": "May",
+            "line": "Once we're in the air, you'll take a pilot and peel off in a Quinjet. We'll each bag a Shrike, then rendezvous on the Zephyr."
+        },
+        {
+            "character": "Elena",
+            "line": "And it's capture, not kill, right?"
+        },
+        {
+            "character": "May",
+            "line": "That's right. Look. Just because we couldn't save them before doesn't mean we can't now."
+        },
+        {
+            "character": "May",
+            "line": "This is Zephyr One... We're en route to target. We'll check in when we've caught the birds."
+        }
+    ]
+}

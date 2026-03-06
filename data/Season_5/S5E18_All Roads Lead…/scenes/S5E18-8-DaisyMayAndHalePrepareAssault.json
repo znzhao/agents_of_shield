@@ -1,0 +1,61 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 8,
+    "scene_name": "DaisyMayAndHalePrepareAssault",
+    "description": "Daisy, May, and Hale strategize their approach to the Hydra bunker. Daisy expresses empathy for Ruby and enlists Hale's help in talking her down if things go badly. The conversation humanizes both Daisy and Hale, underlining the theme of redemption and the ambiguity of their adversarial roles.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "hale"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Our scans show a number of mechs outside the facility. Take them out, secure the perimeter. Only Agent May, Hale, and I will be going in, and if this goes sideways, be ready to evac. Now gear up."
+        },
+        {
+            "character": "Hale",
+            "line": "Coulson taught you well."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just never gave up on me."
+        },
+        {
+            "character": "Hale",
+            "line": "Promise me you won't hurt Ruby."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not unless I have to. It isn't her fault she is the way she is. She's driven. She's a great fighter. And with the right guidance, she could make a really good agent."
+        },
+        {
+            "character": "Hale",
+            "line": "S.H.I.E.L.D. agent. You're not serious."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're about to need all the help we can get."
+        },
+        {
+            "character": "Hale",
+            "line": "Tell me what I can do."
+        },
+        {
+            "character": "Daisy",
+            "line": "If we are too late, you will need to talk her down. We can't let things get out of hand."
+        },
+        {
+            "character": "Hale",
+            "line": "Of course. I just want Ruby to be okay."
+        },
+        {
+            "character": "May",
+            "line": "You ladies about finished?"
+        }
+    ]
+}

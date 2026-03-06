@@ -1,0 +1,133 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 1,
+    "scene_name": "SkyeHospitalizedInZurich",
+    "description": "Coulson, Simmons, Fitz, Ward, and May wait anxiously at the S.H.I.E.L.D. Trauma Center in Zurich after Skye has been shot. The medical team does all they can, but Dr. Jazuat informs the team that her injuries are likely fatal and suggests preparing for her death. The team reacts to the grim prognosis, with Coulson refusing to accept defeat and asserting that the team is her family. Tensions run high as they grapple with the trauma and discuss blame, focusing on Ian Quinn as the culprit. May, fueled by anger, attacks Quinn but is restrained by Coulson and Ward, then sent to fly the plane as Skye is moved.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "melinda_may",
+        "grant_ward",
+        "ian_quinn"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Trauma Center (Zurich)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "She was shot twice in the abdomen at close range almost two hours ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "She's tachycardic, hypotensive, and lost a significant amount of blood. We had to lower her core body temp in order to transport her here."
+        },
+        {
+            "character": "Jazuat",
+            "line": "It's probably what kept her alive this long. We'll do everything we can."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, dear. I'm a mess."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. You were great."
+        },
+        {
+            "character": "Jazuat",
+            "line": "Intubate, and let's start getting that shirt off. Okay, let's prep her for ex-lap."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm here. That's unacceptable. I need to speak to Director Fury immediately, please."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why didn't I stop her? I could have."
+        },
+        {
+            "character": "Simmons",
+            "line": "As if you could stop Skye doing anything she's set her mind to."
+        },
+        {
+            "character": "Fitz",
+            "line": "I shouldn't have let her go after Quinn by herself. What was I thinking?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's not your fault. She shouldn't have been there. I'm her S.O. It's on me."
+        },
+        {
+            "character": "May",
+            "line": "The one to blame is the man who shot her, Ian Quinn. He's responsible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, the message is, I have an agent dying, and there are questions only he can answer."
+        },
+        {
+            "character": "Coulson",
+            "line": "How is she?"
+        },
+        {
+            "character": "Jazuat",
+            "line": "Not good. The shots perforated her stomach and penetrated the large and small intestines. We resected what we could, but... there's been too much damage."
+        },
+        {
+            "character": "Coulson",
+            "line": "So what's next?"
+        },
+        {
+            "character": "Jazuat",
+            "line": "We can keep her comfortable, but you'll need to make a decision on whether or not you want to keep her on life support."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're saying there's nothing to be done?"
+        },
+        {
+            "character": "Jazuat",
+            "line": "I'm saying you need to call her family and get them here as soon as possible."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're her family."
+        },
+        {
+            "character": "Jazuat",
+            "line": "In that case, I'm very sorry."
+        },
+        {
+            "character": "Quinn",
+            "line": "Finally. I was beginning to think you'd forgotten... Ohh. Wait! You can't!"
+        },
+        {
+            "character": "May",
+            "line": "Why? ‘Cause you're defenseless, like she was?"
+        },
+        {
+            "character": "Coulson",
+            "line": "May! May! Outside, now."
+        },
+        {
+            "character": "Quinn",
+            "line": "Aah."
+        },
+        {
+            "character": "May",
+            "line": "He deserves to die, not her!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agreed. But right now, Quinn doesn't matter... only Skye does, and I need you to pilot the plane."
+        },
+        {
+            "character": "May",
+            "line": "You heard what the doctor said."
+        }
+    ]
+}

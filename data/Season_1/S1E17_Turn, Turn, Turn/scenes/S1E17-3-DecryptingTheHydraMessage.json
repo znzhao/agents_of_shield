@@ -1,0 +1,164 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 3,
+    "scene_name": "DecryptingTheHydraMessage",
+    "description": "Back on the Bus, Skye and Fitz analyze an encoded noise disrupting S.H.I.E.L.D. systems. Suddenly, Garrett contacts the crew, requesting emergency help as drones attack his jet. The team scrambles to regain control of their plane and help Garrett evade the drones. Fitz manually arms the Bus' weapons, and together, they help Garrett dock by taking out the threats, while realizing they're being redirected to the Hub, deepening suspicions about Victoria Hand's loyalties.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "What do you mean, “noise?”"
+        },
+        {
+            "character": "Skye",
+            "line": "I mean literally noise across every S.H.I.E.L.D. communication channel. Some sort of blanket signal."
+        },
+        {
+            "character": "Fitz",
+            "line": "Encoded data, maybe."
+        },
+        {
+            "character": "Skye",
+            "line": "I think so."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to fill us in? We root you out, a mole, suddenly our plane shuts down, our communications jammed."
+        },
+        {
+            "character": "May",
+            "line": "I don't know what's happening. I wish I did. You have to believe me."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I don't."
+        },
+        {
+            "character": "Garrett",
+            "line": "Do you read? Do you read, 6-1-6?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Where's that coming from?"
+        },
+        {
+            "character": "Skye",
+            "line": "Close."
+        },
+        {
+            "character": "Garrett",
+            "line": "Enemy aircraft on my tail. Over."
+        },
+        {
+            "character": "Coulson",
+            "line": "Garrett?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Coulson, I'm under attack. Drones. Repeat, S.H.I.E.L.D. drones are on my ass. We're not getting along. Do you copy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy. Garrett, what's happening? We've lost control of our aircraft."
+        },
+        {
+            "character": "Garrett",
+            "line": "Hell if I know. Tell me you got guns on that thing. I'm coming to you."
+        },
+        {
+            "character": "May",
+            "line": "Ohh!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, can you manually wire the guns to weapons control, bypass our system?"
+        },
+        {
+            "character": "Fitz",
+            "line": "If I have cables long enough, yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, decode the signal. We need to get ahead of this. I don't want any more surprises today."
+        },
+        {
+            "character": "Ward",
+            "line": "What happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's a sleeper. I mean the other kind of sleeper."
+        },
+        {
+            "character": "Ward",
+            "line": "Wait. What are you saying?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's been reporting on us this whole time."
+        },
+        {
+            "character": "Fitz",
+            "line": "Controls are live, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Garrett, what's your 20?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'll be on top of you in seconds at your 10:00. Guns hot?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Warming up."
+        },
+        {
+            "character": "Fitz",
+            "line": "He needs to pull up, sir. Hey. Hey! Garrett, pull up!"
+        },
+        {
+            "character": "Coulson",
+            "line": "He knows what he's doing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it."
+        },
+        {
+            "character": "Garrett",
+            "line": "That's Joanie. Any thoughts on chachi? Now it knows you're here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Want to roll over, play dead?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Okay, Phil, but you better make it quick. I'm running on fumes. I'll pull up even of your six. Better not miss."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that."
+        },
+        {
+            "character": "Garrett",
+            "line": "Ready when you are, boss."
+        },
+        {
+            "character": "Coulson",
+            "line": "That means... I better not miss. Boo-yah."
+        }
+    ]
+}

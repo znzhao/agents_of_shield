@@ -1,0 +1,28 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 13,
+    "scene_name": "WardKillsKoenig",
+    "description": "Ward checks on Koenig, who’s excited about Skye's progress hacking the NSA. The dialogue takes a chilling turn as Ward murders Koenig offscreen, paving the way for his secret Hydra mission and placing the base at risk.",
+    "roles": [
+        "grant_ward",
+        "eric_koenig"
+    ],
+    "vibe": "dark",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ward",
+            "line": "How's it going?"
+        },
+        {
+            "character": "Eric Koenig",
+            "line": "Oh! Hey. Believe it or not, Skye got us in! We have access to the NSA's complete sat-feed history! That girl's good. I can see why you like her. Uh, the images are a little patchy, but they're gonna clear up any second. Uh, I guess living on the edge really pays off sometimes."
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. Sometimes."
+        }
+    ]
+}

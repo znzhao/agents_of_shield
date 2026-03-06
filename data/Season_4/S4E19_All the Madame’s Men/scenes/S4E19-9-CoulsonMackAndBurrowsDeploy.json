@@ -1,0 +1,96 @@
+{
+    "season": 4,
+    "episode": 19,
+    "num": 9,
+    "scene_name": "CoulsonMackAndBurrowsDeploy",
+    "description": "Coulson, Mack, and Burrows organize a rescue after hearing about the firefight at the safehouse. Mack arranges care for his daughter before volunteering to drive the Hydra bus. Amidst scrambling for resources and backup, the team heads out to support Skye and May.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Burrows",
+            "line": "Where's Ward?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He went looking for Skye."
+        },
+        {
+            "character": "Burrows",
+            "line": "Agent Triplett?"
+        },
+        {
+            "character": "Mack",
+            "line": "Took the Quinjet on some kind of recon mission with Simmons."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take a breath. What's going on?"
+        },
+        {
+            "character": "Burrows",
+            "line": "One of our field agents just called in. Said he had made contact with someone."
+        },
+        {
+            "character": "Coulson",
+            "line": "Was it Skye?"
+        },
+        {
+            "character": "Burrows",
+            "line": "I don't know. There was gunshots. The line went dead. Could be her, could be a trap. Mace was always the one to make these calls."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's go check it out."
+        },
+        {
+            "character": "Burrows",
+            "line": "W-What about backup? What about transport? W-We're spread too thin."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll drive. The HYDRA bus should get us there in one piece."
+        },
+        {
+            "character": "Coulson",
+            "line": "You sure?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, somebody's got to step up. I'll catch up with you, okay? Mrs. Lee."
+        },
+        {
+            "character": "Lee",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Can you watch Hope for a couple of hours?"
+        },
+        {
+            "character": "Lee",
+            "line": "Sure, whatever you need."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you. Hey. Hey, Sparkplug, uh I have to take off for a little bit to help S.H.I.E.L.D."
+        },
+        {
+            "character": "Hope",
+            "line": "Can I help?"
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Uh, there's some busted walkie-talkies by the bunks over there. Maybe you can show the other kids how to fix a radio."
+        },
+        {
+            "character": "Hope",
+            "line": "That might take a while, but okay."
+        }
+    ]
+}

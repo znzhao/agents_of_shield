@@ -1,0 +1,73 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 1,
+    "scene_name": "ZephyrCrashAndRobinSurvives",
+    "description": "Simmons and May struggle to keep Robin safe during a cataclysmic gravity storm. May attempts to comfort Robin after revealing her mother didn't survive. Robin predicts that they will survive the crash, setting the theme of her visions for the episode. The Zephyr is in peril as the world is collapsing outside, introducing the survivors' desperate situation.",
+    "roles": [
+        "jemma_simmons",
+        "melinda_may",
+        "robin_hinton"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Three more cities just went dark. It's spreading too fast."
+        },
+        {
+            "character": "May",
+            "line": "The Lighthouse is still 200 miles out!"
+        },
+        {
+            "character": "Agent",
+            "line": "Hey! You're not supposed to be here. Where the hell is this girl's mother?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Polly didn't make it this far."
+        },
+        {
+            "character": "May",
+            "line": "Robin, go back downstairs with the others. It's not safe up here."
+        },
+        {
+            "character": "Robin",
+            "line": "It's okay. We survive the crash."
+        },
+        {
+            "character": "May",
+            "line": "What cra..."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's a gravity storm heading right for us!"
+        },
+        {
+            "character": "May",
+            "line": "Sit down! Buckle up!"
+        },
+        {
+            "character": "Robin",
+            "line": "There's something else I need..."
+        },
+        {
+            "character": "Robin",
+            "line": "... to remember. Sorry. W-What did you ask?"
+        },
+        {
+            "character": "May",
+            "line": "How are you even here?"
+        },
+        {
+            "character": "Robin",
+            "line": "I told you we'd survive the crash."
+        },
+        {
+            "character": "May",
+            "line": "The crash? I'm not sure I know what you're..."
+        }
+    ]
+}

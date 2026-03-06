@@ -1,0 +1,278 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 5,
+    "scene_name": "SiloCombatAndHiveTrap",
+    "description": "The agents in the silo split up to rescue hostages and confront Hive. Lincoln and Hive exchange bitter words, with Hive taunting Lincoln about Daisy. Mack and Elena set up the memory machine trap; Hive is overwhelmed by the memories of his past hosts as the machine is triggered. Amidst chaos, the team frees hostages, and Radcliffe pleads with May for protection as S.H.I.E.L.D. regroups to escape the base.",
+    "roles": [
+        "lincoln",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "jemma_simmons",
+        "leo_fitz",
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "missile silo (Pacific island launch site)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "I know you're in here, Lincoln. It's useless to hide. I think it's time we had a heart-to-heart, don't you? Sorry for taking Daisy from you. Oh, I know that hurt. She told me it would."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz entered the kill code in time. That's step one."
+        },
+        {
+            "character": "Daisy",
+            "line": "And Hive?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's step two."
+        },
+        {
+            "character": "Daisy",
+            "line": "Thank you for the update."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you're doing everything you can to try to jog your memory, but when he said absolution..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I told her everything I know. Just like I told him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once we get an update, so will you. You're a prisoner right now, but that's temporary. You have to understand this... this is a new situation."
+        },
+        {
+            "character": "Daisy",
+            "line": "I understand."
+        },
+        {
+            "character": "Coulson",
+            "line": "The security protocols are in place to keep everyone safe."
+        },
+        {
+            "character": "Daisy",
+            "line": "I get it!"
+        },
+        {
+            "character": "Coulson",
+            "line": "No one blames you for this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Then that's on you, because I deserve the blame, all of it. And these protocols? Make them permanent, because I belong in this box."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not a criminal."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's exactly what I am. So you can keep your forgiveness and your pity because I shouldn't have either, or your friendship."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, you were brainwashed."
+        },
+        {
+            "character": "Daisy",
+            "line": "So was Ward. We make the perfect pair."
+        },
+        {
+            "character": "Hive",
+            "line": "Daisy loved you. At least, she thought she did. You deserve to know that. You have to understand, Lincoln, I gave her something you never could. Happiness. True happiness comes from belonging. That's something she needs that you could never offer her. Now, deep down, you know this. I made Daisy whole and I can do the same for you. We can walk out of this room, find her together."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You're never gonna see Daisy again."
+        },
+        {
+            "character": "Hive",
+            "line": "Oh, go ahead. Destroy this body. It's well-worn. I'll just go in someone else. Maybe someone in S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hive didn't just get in your head. He changed it on a fundamental level. He altered the chemistry of your brain like a drug. These are the aftereffects. You're going through withdrawal right now."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is that all you think this is? That I'm dope sick?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not gonna feel like this forever."
+        },
+        {
+            "character": "Daisy",
+            "line": "I want to. I want to feel this pain until I find Hive."
+        },
+        {
+            "character": "Coulson",
+            "line": "And get revenge? I can't imagine what you've been through, but that craving? I know something about that. You think vengeance is the missing piece of the puzzle, that it will make you whole again, but all it does is break you further. You're going to get better. It just takes time and distance."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I should wake up every morning and feel like this, remembering every drop of blood I spilled. Do you still have the memory machine? You used it on that Strucker kid."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, stop."
+        },
+        {
+            "character": "Daisy",
+            "line": "Put me in it. I bet you're already thinking about doing that, right, to jog my memory. So bring it in here. Make it my bed and keep every memory, every detail right at the surface, where it belongs."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's enough. We pulled the memory machine out of storage, but it's not for you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Is it ready yet? Tell me it's ready!"
+        },
+        {
+            "character": "Mack",
+            "line": "I need more time. Go. You guys, go on. Get back! Run! I don't want to have to use this."
+        },
+        {
+            "character": "Elena",
+            "line": "You don't need this."
+        },
+        {
+            "character": "Mack",
+            "line": "How did you..."
+        },
+        {
+            "character": "Elena",
+            "line": "I watch you work slow. I move faster. Your turn."
+        },
+        {
+            "character": "Hive",
+            "line": "Aah!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Will!"
+        },
+        {
+            "character": "Simmons",
+            "line": "If I ever see you again, I'll kill you."
+        },
+        {
+            "character": "Hive",
+            "line": "This won't kill me!"
+        },
+        {
+            "character": "Mack",
+            "line": "No. But it'll suck."
+        },
+        {
+            "character": "Hive",
+            "line": "Aaah!"
+        },
+        {
+            "character": "Elena",
+            "line": "Does this mean the plan worked?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's doing something."
+        },
+        {
+            "character": "Lincoln",
+            "line": "The hostages."
+        },
+        {
+            "character": "Elena",
+            "line": "I know."
+        },
+        {
+            "character": "Young Gideon",
+            "line": "Closure."
+        },
+        {
+            "character": "Young Nathaniel",
+            "line": "I thought we had a deal."
+        },
+        {
+            "character": "Fitz",
+            "line": "I know that you care about us, Ward!"
+        },
+        {
+            "character": "Gideon",
+            "line": "I'm asking you to lead."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I can't hold this much longer. You think we've done it? Fried his brain?"
+        },
+        {
+            "character": "Mack",
+            "line": "Let's not wait around and find out."
+        },
+        {
+            "character": "Ward",
+            "line": "Do you believe I'm telling you the truth?"
+        },
+        {
+            "character": "Hive",
+            "line": "Do you believe I'm telling you the truth?"
+        },
+        {
+            "character": "Giyera",
+            "line": "Yes. Of course we believe you."
+        },
+        {
+            "character": "Hive",
+            "line": "You have to go."
+        },
+        {
+            "character": "James",
+            "line": "Okay. Okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "Will!"
+        },
+        {
+            "character": "Hive",
+            "line": "Jemma. Jemma!"
+        },
+        {
+            "character": "Will",
+            "line": "Jemma, run! go!"
+        },
+        {
+            "character": "Hive",
+            "line": "Run! Run!"
+        },
+        {
+            "character": "James",
+            "line": "Do you think the boss has gone a little gonzo maybe?"
+        },
+        {
+            "character": "Hive",
+            "line": "Together to the end."
+        },
+        {
+            "character": "Young Gideon",
+            "line": "Together to the end."
+        },
+        {
+            "character": "Young Nathaniel",
+            "line": "Together to the end."
+        },
+        {
+            "character": "Hive",
+            "line": "Together to the end. We have a connection... a connection. I want a connection. Aaah!"
+        }
+    ]
+}

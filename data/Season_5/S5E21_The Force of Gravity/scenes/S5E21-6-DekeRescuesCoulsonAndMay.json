@@ -1,0 +1,149 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 6,
+    "scene_name": "DekeRescuesCoulsonAndMay",
+    "description": "Coulson and May attempt to escape their cell using improvised tactics when Deke arrives, helping them break out. The trio strategizes their next moves and discuss Daisy's abduction and Talbot's alarming new partnership. The scene is marked by tension and urgency, as they realize time is running out to save Daisy and stop Talbot.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "deke_shaw"
+    ],
+    "vibe": "tense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I finally got the compound right. Should only take a few days to synthesise. It's funny, isn't it? The Centipede Serum was part of our first mission, and now it's the key to curing Coulson. We've come full circle."
+        },
+        {
+            "character": "Fitz",
+            "line": "Just in time for the end of days. You ever think it would be Talbot?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't want to think about it. He was one of the good guys."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, I know. I don't know what he is anymore, but he needs to be stopped, even if that means..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Even if it means finding a terminal solution. I mean, if there are no other options, we... we could try the odium."
+        },
+        {
+            "character": "Fitz",
+            "line": "How do we get him to take it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Drinking it might not even be strong enough. We could use the Centipede Serum"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a little too quiet in here. That make anyone nervous?"
+        },
+        {
+            "character": "Deke",
+            "line": "Maybe it's Remorath nap time."
+        },
+        {
+            "character": "May",
+            "line": "Then we need to wake one up and ask for directions. All these hallways look the same."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's the same writing that was in the Lighthouse in the future. What's it say, Deke?"
+        },
+        {
+            "character": "Deke",
+            "line": "How would I know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because you lived there."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, they don't teach you the language. I can count to five."
+        },
+        {
+            "character": "Coulson",
+            "line": "You lived there for decades, and you know five numbers?"
+        },
+        {
+            "character": "Deke",
+            "line": "I also know zero, so, no, I know six numbers."
+        },
+        {
+            "character": "May",
+            "line": "I'm amazed you were able to survive."
+        },
+        {
+            "character": "Deke",
+            "line": "You know, I found you, didn't I? And I can lead us back to the Zephyr, so I'm doing my job. You're the ones who lost Daisy."
+        },
+        {
+            "character": "May",
+            "line": "We didn't lose her."
+        },
+        {
+            "character": "Coulson",
+            "line": "Just do your best, Deke. It won't be long before they figure out we're gone, so just pick a direction."
+        },
+        {
+            "character": "Deke",
+            "line": "This way. Wait. No, not that way."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can fight or we can run."
+        },
+        {
+            "character": "May",
+            "line": "Fight."
+        },
+        {
+            "character": "Deke",
+            "line": "Daisy. Are you okay? Did... Are you... Did they hurt you, or whatever?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm fine. Just had a little head trip with Father Kasius."
+        },
+        {
+            "character": "Deke",
+            "line": "Father Kasius? What, you mean his dad's here?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Here but not “here”."
+        },
+        {
+            "character": "Deke",
+            "line": "Well, that's just another reason that we need to get to the Zephyr and fly out of here."
+        },
+        {
+            "character": "May",
+            "line": "We're not going. Not yet."
+        },
+        {
+            "character": "Deke",
+            "line": "What? What... What are you talk... You can't escape without, you know, escaping."
+        },
+        {
+            "character": "Coulson",
+            "line": "Qovas has a couple of ioniser missiles aimed at the Lighthouse. If we try to leave, he'll fire them."
+        },
+        {
+            "character": "Deke",
+            "line": "The Lighthouse can handle it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe. But the people of River's End might not be so lucky."
+        }
+    ]
+}

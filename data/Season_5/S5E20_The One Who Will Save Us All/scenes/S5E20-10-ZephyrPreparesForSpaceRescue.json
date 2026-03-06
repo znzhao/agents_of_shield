@@ -1,0 +1,46 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 10,
+    "scene_name": "ZephyrPreparesForSpaceRescue",
+    "description": "May, Daisy, Deke, and others finalize preparations aboard Zephyr One in anticipation of their mission to the Remorath mothership. May confirms artificial gravity systems are ready as the strike team suits up for the complex and dangerous rescue. They launch into space, acknowledging the risks but determined to save their friends.",
+    "roles": [
+        "melinda_may",
+        "skye",
+        "deke_shaw",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "hopeful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "We space ready?"
+        },
+        {
+            "character": "May",
+            "line": "Looks like we're about to find out. You coming with?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. I just need to get out of the Lighthouse."
+        },
+        {
+            "character": "Davis",
+            "line": "So you're going on a space mission to a hostile alien ship?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. Well, I don't have that many options."
+        },
+        {
+            "character": "May",
+            "line": "This is Zephyr One. We're all systems go."
+        },
+        {
+            "character": "Piper",
+            "line": "Roger that, Zephyr. You are clear for take-off."
+        }
+    ]
+}

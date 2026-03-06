@@ -1,0 +1,306 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 11,
+    "scene_name": "FitzConfrontsSimmonsOverTheBox",
+    "description": "Fitz and Simmons have an emotional confrontation as Fitz discovers Simmons is helping open the secret box without him. He feels betrayed by her actions, questioning her motives and devotion to S.H.I.E.L.D. over their friendship, while Mack and Morse look on with concern. Fitz ultimately decides to leave, cementing the fracture in their relationship.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I hate to see you leave, Turbo."
+        },
+        {
+            "character": "Fitz",
+            "line": "Only my friend Mack calls me that."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll always be your friend, Fitz. Hopefully, someday, you'll understand why I had to do what I did."
+        },
+        {
+            "character": "Fitz",
+            "line": "If you're here to convince me to open the box, you're wasting..."
+        },
+        {
+            "character": "Mack",
+            "line": "No, I'm here because I don't want you to leave, man. I believe in what we're doing. I want you on board. I mean, the damn box is taken care of."
+        },
+        {
+            "character": "Fitz",
+            "line": "What do you mean, it's taken care of?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, Simmons, uh, she found a way in using... genetic markers or something. If she can see we're on the same team, why can't you?"
+        },
+        {
+            "character": "Fitz",
+            "line": "She's scanning the surface dimensions and routing the data through... Why would she do that, unless..."
+        },
+        {
+            "character": "Mack",
+            "line": "It's just a matter of time before she breaks through, and this will all be over."
+        },
+        {
+            "character": "Hunter",
+            "line": "How much time?"
+        },
+        {
+            "character": "Coulson",
+            "line": "About three minutes."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where are the reinforcements?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't know."
+        },
+        {
+            "character": "Hunter",
+            "line": "Stuck in traffic? Are they traveling by clown car? How many are there?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Actually, there's one."
+        },
+        {
+            "character": "Hunter",
+            "line": "One? That's not reinforcements, that's a gravedigger."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, there's not many agents I can trust right now."
+        },
+        {
+            "character": "Hunter",
+            "line": "One? Have you lost your bloody mind? What is that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a 21st-century howling commandos kit. Trip and Fitz built it for me. Hey, do you play cards?"
+        },
+        {
+            "character": "Hunter",
+            "line": "I can't believe that worked."
+        },
+        {
+            "character": "Coulson",
+            "line": "We had the better hand."
+        },
+        {
+            "character": "Skye",
+            "line": "How many of us are there?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "We don't know. Not every descendant is found, and not everyone who is chooses to come."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Gordon! I hope we're still on for pizza tonight. Truthfully, I think that's what sold her."
+        },
+        {
+            "character": "Gordon",
+            "line": "Not tonight. I have to see to some pressing matters, but I'm glad you're feeling better, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "I need you to give a message to my friends, let them know I'm okay."
+        },
+        {
+            "character": "Gordon",
+            "line": "I can ask permission, but they'll advise against it. It's better we stay quiet for the time being."
+        },
+        {
+            "character": "Skye",
+            "line": "Uh... wait. My father and Raina, where did you take them?"
+        },
+        {
+            "character": "Gordon",
+            "line": "I can't divulge their location, just as I can't divulge yours. But you don't need to worry about them."
+        },
+        {
+            "character": "Skye",
+            "line": "What does he mean, “ask permission?” Ask permission from who?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "The Elders. You've made a lot of people afraid, Skye, afraid our secret won't be safe for much longer."
+        },
+        {
+            "character": "Cal",
+            "line": "Where have you been?! After all I've done, this is how you treat me? Locking me up, feeding me like some animal?! I can't have a window?! I don't even know what day it is anymore!"
+        },
+        {
+            "character": "Gordon",
+            "line": "You're lucky we've kept you alive."
+        },
+        {
+            "character": "Cal",
+            "line": "Ohh. You found her, didn't you? That's why you're here. You found her, and she's here. Okay. Uh, I forgive you. You must have had your reasons. Now take me to my Daisy."
+        },
+        {
+            "character": "Gordon",
+            "line": "You will not!"
+        },
+        {
+            "character": "Cal",
+            "line": "I want my daughter! Don't you leave me! Where are you?! Huh? Ohh. This is silly. You clearly have an unfair advantage, and we clearly don't see eye to eye. So let's just... just take a moment and... Aah! Aah! Aah. Why? Why can't I see her?"
+        },
+        {
+            "character": "Gordon",
+            "line": "Because you have no self-control. Your lack of discipline has risked everything that we have built. You have not only sealed your fate, but the fate of your daughter, as well."
+        },
+        {
+            "character": "Hunter",
+            "line": "This would have been a piece of cake if you'd let us use these big-boy guns. Now we have to get close enough to get shot by their big-boy guns."
+        },
+        {
+            "character": "Coulson",
+            "line": "By the time they recognize us, it'll be too late."
+        },
+        {
+            "character": "Hunter",
+            "line": "Then there's the small matter of who's gonna fly that thing. Do you even know how?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I've watched may fly. I know a little."
+        },
+        {
+            "character": "Hunter",
+            "line": "How little?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I can get us off the ground."
+        },
+        {
+            "character": "Hunter",
+            "line": "You do know there's more to it than that... like, getting us back on the ground, for example?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Now we just walk right up and..."
+        },
+        {
+            "character": "Man",
+            "line": "Drop your weapons and put your hands in the air. We have you surrounded."
+        },
+        {
+            "character": "Hunter",
+            "line": "We're not surrounded."
+        },
+        {
+            "character": "Man",
+            "line": "Don't move Your hands up now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Didn't see that coming."
+        },
+        {
+            "character": "Morse",
+            "line": "How's it going?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, well, I'm making progress, but it's going to take some time. There are microscopic pores in the vibranium that I believe are calibrated to Coulson's DNA. It's constantly shifting like a Rubik's cube. But if I can isolate them, then there's..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I saw everything, Jemma. Did you really want me to find out this way?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well... well, I was hoping you would so that we can work together on this. Do you have any idea how valuable the information inside this could be? You need to help me get it out, get things back to normal."
+        },
+        {
+            "character": "Fitz",
+            "line": "Things can never go back to normal. Can't you see that? Can't any of you see what you've done? You've destroyed a man's life, and for what?"
+        },
+        {
+            "character": "Mack",
+            "line": "Fitz, put it down right now."
+        },
+        {
+            "character": "Fitz",
+            "line": "Beause of fear because of fear of what's inside a little black box. Well, I don't believe in fear. I believe in trust, and I'm shocked that you would do this. You knew this would drive me away. You may as well have packed my bags yourself. You want me to leave, don't you, Jemma?"
+        },
+        {
+            "character": "Simmons",
+            "line": "If we work for S.H.I.E.L.D., we have a duty to carry out our responsibilities. So perhaps it's best if you do."
+        },
+        {
+            "character": "Hunter",
+            "line": "Brilliant plan. There was no backup, was there?"
+        },
+        {
+            "character": "Man",
+            "line": "This is Tango Romeo Delta. Tell Gonzales we have his package."
+        },
+        {
+            "character": "Coulson",
+            "line": "Backup."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Hunter, Agent Peterson."
+        },
+        {
+            "character": "Mike",
+            "line": "Call me “Mike.”"
+        },
+        {
+            "character": "Hunter",
+            "line": "Aah! That's quite a handshake you've got."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thanks for coming on such short notice. I see you've taken well to the upgrades."
+        },
+        {
+            "character": "Mike",
+            "line": "No complaints here. You want me to get this bird in the air?"
+        },
+        {
+            "character": "Hunter",
+            "line": "At some point, you might have mentioned that backup was a lethal cyborg."
+        },
+        {
+            "character": "Coulson",
+            "line": "Truthfully, I just wanted to see the look on your face when he showed up. Priceless."
+        },
+        {
+            "character": "Hunter",
+            "line": "Glad I amuse you."
+        },
+        {
+            "character": "Mike",
+            "line": "You know, I can hear you up here."
+        },
+        {
+            "character": "Gonzales",
+            "line": "It's confirmed. Coulson has another powered person working with him, and guess who else."
+        },
+        {
+            "character": "Morse",
+            "line": "Hunter."
+        },
+        {
+            "character": "Gonzales",
+            "line": "If they get to Skye, this is gonna get way out of hand. They've got one last bargaining chip left. Bring me the bus and Agent May."
+        }
+    ]
+}

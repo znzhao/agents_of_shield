@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 10,
+    "scene_name": "WatchdogsTransformed",
+    "description": "Radcliffe, under Hive’s direction, administers the experiment on the captured Watchdogs, resulting in horrifying mutations. James and Radcliffe react with revulsion while Hive sees only success. Daisy glances at the new creatures, repulsed, as Hive claims their 'emancipation' as a twisted gift.",
+    "roles": [
+        "skye",
+        "james"
+    ],
+    "vibe": "dark",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "James",
+            "line": "Move along, little puppies."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "These are volunteers?"
+        },
+        {
+            "character": "Hive",
+            "line": "Sometimes they need a little extra motivation."
+        },
+        {
+            "character": "Boggs",
+            "line": "Do whatever you want to us. It doesn't change the fact that you're all abominations!"
+        },
+        {
+            "character": "James",
+            "line": "Shut your blowhole, preacher. You're about to join the evolution."
+        },
+        {
+            "character": "Hive",
+            "line": "Their lives have been filled with such hatred. Now they'll find peace with us."
+        },
+        {
+            "character": "Daisy",
+            "line": "They don't deserve it."
+        },
+        {
+            "character": "Hive",
+            "line": "Every human deserves a chance to be freed from his prison. Their emancipation will be my gift to you. Are you still confident?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "100% fairly certain. Now we wait."
+        },
+        {
+            "character": "Hive",
+            "line": "Have you accessed S.H.I.E.L.D.'s security system?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm in. I found their weak spot."
+        },
+        {
+            "character": "Hive",
+            "line": "Good. Keep me updated. And please rest. We may need some more blood."
+        }
+    ]
+}

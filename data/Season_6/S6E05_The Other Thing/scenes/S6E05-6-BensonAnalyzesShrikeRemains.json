@@ -1,0 +1,56 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "BensonAnalyzesShrikeRemains",
+    "description": "At the Lighthouse, Mack and Dr. Benson analyze the crystalline remains of the Shrike parasite that killed Keller. Amidst tension over Benson's habits and the team's doubts, Benson explains how the Sarge’s knife paralyzed and destroyed the creature, setting up further investigation.",
+    "roles": [
+        "alphonso_mackenzie",
+        "marcus_benson"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Where are we with Keller?"
+        },
+        {
+            "character": "Benson",
+            "line": "Nowhere. I'm examining the substance that grew out of him, but I never got certified for parasitic alien birds, so who the hell knows."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, it's a first for us, too."
+        },
+        {
+            "character": "Benson",
+            "line": "Well, here's hoping it's the last. I-I-I need a night off."
+        },
+        {
+            "character": "Mack",
+            "line": "This job is stressful. You can cope however you like, as long as it's done responsibly."
+        },
+        {
+            "character": "Benson",
+            "line": "Oh, dear Lord. Is this “the talk”? Take a look under that sheet. Stone-cold sober or blackout drunk, there was no stopping that."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't doubt it, but there have been some concerns."
+        },
+        {
+            "character": "Benson",
+            "line": "Agent Rodriguez."
+        },
+        {
+            "character": "Mack",
+            "line": "People need to know you have their backs and we have you at your best."
+        },
+        {
+            "character": "Benson",
+            "line": "My best was 20 years ago. But Rodriguez was right about one thing... this knife stopped whatever that creature was. It took a while, but it's finally dead. Now, if you don't mind, I got work to do."
+        }
+    ]
+}

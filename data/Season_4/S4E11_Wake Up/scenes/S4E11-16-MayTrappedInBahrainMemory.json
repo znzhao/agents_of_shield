@@ -1,0 +1,53 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 16,
+    "scene_name": "MayTrappedInBahrainMemory",
+    "description": "May, under Radcliffe and AIDA's supervision, is now caught in a new Framework scenario that recreates her traumatic experience in Bahrain. Radcliffe muses on finding the best way to pacify May by offering her a fight she's already lost, keeping her occupied and less likely to escape. The episode ends on this psychological and emotional cliffhanger.",
+    "roles": [
+        "melinda_may",
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "tragic",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "How's our guest? Didn't give you any lip, did she?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Not at all. She's been a model patient, even with the move. I tried the scenario you suggested."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Uh-huh. A memory. Well, an altered memory, but there was enough for me to work with. I'm easing her pain."
+        },
+        {
+            "character": "AIDA",
+            "line": "It's working even better than the other programs."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "May herself proved to be the key. Peacefulness wasn't enough. She'd keep fighting. And fighting wasn't enough. She'd win. But once I remembered that she was fighting a fight she'd already lost. All I had to do was change the fight. Take her back to Bahrain."
+        },
+        {
+            "character": "Andrew",
+            "line": "Melinda?"
+        },
+        {
+            "character": "May",
+            "line": "I did it, Andrew."
+        },
+        {
+            "character": "Katya",
+            "line": "Thank you."
+        },
+        {
+            "character": "May",
+            "line": "I saved the girl. Yeah."
+        }
+    ]
+}

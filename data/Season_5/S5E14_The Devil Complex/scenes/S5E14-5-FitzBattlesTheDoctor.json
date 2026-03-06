@@ -1,0 +1,266 @@
+{
+    "season": 5,
+    "episode": 14,
+    "num": 5,
+    "scene_name": "FitzBattlesTheDoctor",
+    "description": "Fitz experiences a disturbing manifestation of his alter-ego, The Doctor, who confronts him about finishing what needs to be done. As Fitz argues that The Doctor is not real, it becomes clear that his own psyche is fracturing under stress. Meanwhile, Simmons, Mack, and Elena react to new anomalies and are forced to move Elena to another floor for containment.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "I need to access the main terminal."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay."
+        },
+        {
+            "character": "Fitz",
+            "line": "Here. Couldn't find any physical notes from Dr. Hall. Tell me someone scanned them into the system."
+        },
+        {
+            "character": "Daisy",
+            "line": "Rude. I-I already did, and I couldn't find anything."
+        },
+        {
+            "character": "Fitz",
+            "line": "Nothing? We have zero records of his actual research?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Nothing. Fitz! Oh, my..."
+        },
+        {
+            "character": "Fitz",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, you don't need to beat yourself or the computer up over this. Are you okay? Have you even slept?"
+        },
+        {
+            "character": "Fitz",
+            "line": "During what possible period of time, Daisy?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, Fitz, you don't need to carry the weight of the world. We are all here. I mean, even Yo-Yo wants me to set up a security feed in the med bay so she can watch out for anomalies."
+        },
+        {
+            "character": "Fitz",
+            "line": "What am I missing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, no, no, no, no. We just lost two cameras."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's 10 levels below us."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you think it's another anomaly flare?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We know it can reach beyond its origin point. If we don't contain it soon, there won't be any safe levels in the whole base."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, well, I'll... I'll go check it out. We're all doing our part. Just take it easy, okay?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Okay. Okay. Just run possible simulations to compensate for the uneven distribution of... Come on, Fitz. Think!"
+        },
+        {
+            "character": "Doctor",
+            "line": "You're on the right track. You're not quite there yet."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, no. No, you cannot be here."
+        },
+        {
+            "character": "Doctor",
+            "line": "There's work that needs to be finished."
+        },
+        {
+            "character": "Fitz",
+            "line": "What... What work? What are you... What are you doing here?"
+        },
+        {
+            "character": "Doctor",
+            "line": "What you are unwilling to do."
+        },
+        {
+            "character": "Elena",
+            "line": "Wait. What's going on?"
+        },
+        {
+            "character": "Simmons",
+            "line": "More anomalies have begun occurring."
+        },
+        {
+            "character": "Mack",
+            "line": "Until we get a better handle on the situation, we're moving you to another floor out of the line of fire."
+        },
+        {
+            "character": "Elena",
+            "line": "And what's my say in all this? I'm not brain-dead. I can speak for myself."
+        },
+        {
+            "character": "Mack",
+            "line": "We think you'll be safer on another floor."
+        },
+        {
+            "character": "Elena",
+            "line": "Stop treating me like a child, Mack. I'm an agent. Same as both of you. If things are getting crazier around here, then you need me more than ever. I don't need you to protect me."
+        },
+        {
+            "character": "Man",
+            "line": "Don't move."
+        },
+        {
+            "character": "Fitz",
+            "line": "This can't be real."
+        },
+        {
+            "character": "Doctor",
+            "line": "Like the astronaut wasn't real? Like the world, my world, that you destroyed wasn't real? Come on. We both know better than that. I'm very real. And I am gonna finish what you started."
+        },
+        {
+            "character": "Fitz",
+            "line": "I didn't start anything. That was all you. Not me. That's not me."
+        },
+        {
+            "character": "Doctor",
+            "line": "But you and I are the same, aren't we? Fitz. That's what they call you here, isn't it? So familiar."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No, ‘cause... No, whatever it is that you're plotting, I'll stop you."
+        },
+        {
+            "character": "Doctor",
+            "line": "Come on. You couldn't stop me if you wanted to. Plans are already in motion."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Doctor",
+            "line": "You can't escape me, Fitz. We're not finished yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Saving humanity. That's usually my line."
+        },
+        {
+            "character": "Hale",
+            "line": "I don't think you understand the forces at play here. My vantage point is much higher than yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you trying to save the planet from? Why do you need the Gravitonium?"
+        },
+        {
+            "character": "Hale",
+            "line": "No. I understand you, Agent Coulson. I even admire you a bit. But I don't trust you yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "That feeling is becoming increasingly mutual. You're not exactly giving off benevolent vibes here."
+        },
+        {
+            "character": "Hale",
+            "line": "Benevolence is not enough. Your charisma and empathy is only gonna get you so far. I don't lose sleep at night worrying about the difficult calls. I do what's necessary. And, yes, sometimes, people have to die. But I'm willing to pull the trigger. Are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If the right person's on the other end of the gun."
+        },
+        {
+            "character": "Hale",
+            "line": "Then let me point it in the right direction. Let me show you what we are really up against. Come with me."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, thank you. I don't like taking orders from backseat pilots."
+        },
+        {
+            "character": "Hale",
+            "line": "But I've always been in the driver's seat. Oh, come on. Do you really think that hacking my phone was some sort of stealthy exploit I was unaware of? You underestimate me."
+        },
+        {
+            "character": "May",
+            "line": "What is it, Piper?"
+        },
+        {
+            "character": "Piper",
+            "line": "We tried to pull the sleeping driver out of the car."
+        },
+        {
+            "character": "May",
+            "line": "And?"
+        },
+        {
+            "character": "Piper",
+            "line": "We couldn't lift him, ma'am. He's too heavy."
+        },
+        {
+            "character": "May",
+            "line": "An android?"
+        },
+        {
+            "character": "Piper",
+            "line": "More like a statue."
+        },
+        {
+            "character": "Piper",
+            "line": "It hasn't moved. What is it?"
+        },
+        {
+            "character": "May",
+            "line": "Get out of the car, Mr. Creel."
+        },
+        {
+            "character": "Creel",
+            "line": "Agent May."
+        },
+        {
+            "character": "May",
+            "line": "You're working for Hale?"
+        },
+        {
+            "character": "Creel",
+            "line": "I suggest you listen to what she has to say. She can be persuasive."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't beat yourself up. You did what you were told, gave us the contact numbers, the rest is on me. I acted too fast on the intel."
+        },
+        {
+            "character": "Piper",
+            "line": "Another trap. Feels like you'd be safer if you just tossed me out of the plane."
+        },
+        {
+            "character": "May",
+            "line": "We should at least consider it."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Agent Coulson. So good to see you again."
+        }
+    ]
+}

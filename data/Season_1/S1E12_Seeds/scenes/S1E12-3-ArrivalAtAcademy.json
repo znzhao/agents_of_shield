@@ -1,0 +1,116 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 3,
+    "scene_name": "ArrivalAtAcademy",
+    "description": "Fitz, Simmons, Ward, and Skye arrive at the S.H.I.E.L.D. Academy. While Fitz and Simmons reunite with Agent Weaver and bask in the respect of the students, Ward and Skye tour the Wall of Valor, discussing the significance of S.H.I.E.L.D.’s history and Skye’s feelings of being an outsider. May and Coulson receive a new assignment to pursue a lead regarding Skye’s past.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "grant_ward",
+        "skye",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "This was the SSR facility before S.H.I.E.L.D. was even founded. “SSR” stands for..."
+        },
+        {
+            "character": "Skye",
+            "line": "Strategic scientific reserve. Yeah, I know. Is this where you got all your PHDs?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, no, you need at least one to get through the door."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is science and technology what you imagined, Agent Ward?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yep... no uniforms, no rope course, no defined muscularity on anyone."
+        },
+        {
+            "character": "Fitz",
+            "line": "No marching in place, no I.Q.s in double digits."
+        },
+        {
+            "character": "Weaver",
+            "line": "There they are. So good to see you."
+        },
+        {
+            "character": "Simmons",
+            "line": "You look as lovely as ever."
+        },
+        {
+            "character": "Fitz",
+            "line": "I concur."
+        },
+        {
+            "character": "Weaver",
+            "line": "Thank you. Agent Ward. Pleasure to have you, sir."
+        },
+        {
+            "character": "Ward",
+            "line": "Agent Weaver. There's a list of suspects?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Based on the level of intelligence it would take to put a device together like the one we found, we've narrowed it down to the top 10% of our Cadets. I'm worried there's a bad seed."
+        },
+        {
+            "character": "Ward",
+            "line": "Ops and sciences have differences, but both have to be careful about what we call “bad seeds,” people who want to use the tools we give them for..."
+        },
+        {
+            "character": "Skye",
+            "line": "“Bad seed” isn't a S.H.I.E.L.D. term, Ward, just a term."
+        },
+        {
+            "character": "Ward",
+            "line": "I know you've already questioned the victim, but I have a few questions I'd like to ask him myself."
+        },
+        {
+            "character": "Weaver",
+            "line": "I'll arrange for you to talk to Seth Dormer when he's out of class. Now, if you'll excuse me, I'd like to get Agents Fitz and Simmons settled into the lecture hall."
+        },
+        {
+            "character": "Skye",
+            "line": "Look at them... the popular kids. Who knew?"
+        },
+        {
+            "character": "Ward",
+            "line": "I did. Come on. While we have a minute, I think there's something you'll want to see."
+        },
+        {
+            "character": "Skye",
+            "line": "The Wall of valor."
+        },
+        {
+            "character": "Ward",
+            "line": "So you've read about it?"
+        },
+        {
+            "character": "Skye",
+            "line": "Every S.H.I.E.L.D. facility has a memorial to the agents lost in the line of duty. S.H.I.E.L.D.'s history can be traced on walls like this. Huh. “Bucky” Barnes."
+        },
+        {
+            "character": "Ward",
+            "line": "Puts it in perspective... what we do."
+        },
+        {
+            "character": "Skye",
+            "line": "Must make you guys proud... all this history. Just wish I was a part of it. It's not self-pity, really. I'm just saying everyone here has earned this. They deserve it. I hacked my way in... feels like I cheated."
+        },
+        {
+            "character": "Ward",
+            "line": "All you need to join is a dedication to the greater good. Coulson saw that in you the moment he met you."
+        }
+    ]
+}

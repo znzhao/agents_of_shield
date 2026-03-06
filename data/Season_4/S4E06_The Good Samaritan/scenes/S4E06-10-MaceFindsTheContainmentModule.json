@@ -1,0 +1,101 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "MaceFindsTheContainmentModule",
+    "description": "Coulson leads Mace on a tour of the Zephyr to distract him. However, Mace cleverly notices the containment module is missing and has it returned to the plane. Fitz interrupts, trying to get clearance for his investigation, but Mace reprioritizes to focus on Daisy and Robbie. Tensions heighten as Mace insists the fugitives be processed.",
+    "roles": [
+        "phil_coulson",
+        "jeffrey_mace",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Oh, she's a real beauty, Phil. '69 Charger, BDS blower, am I right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, you are."
+        },
+        {
+            "character": "Mace",
+            "line": "Yep. I collected Hot Wheels as a kid."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, they don't make them any hotter than this one. So, I hope you're satisfied that the enhanced people you're searching for are nowhere in the plane?"
+        },
+        {
+            "character": "Mace",
+            "line": "I am. And I appreciate your respect for the Directorship, Phil, that you didn't lie to me. 'Cause, technically... they're not inside the plane, are they? I've been on the Zephyr enough to notice when the containment module is missing."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, this looks bad, but I've seen Coulson talk his way out of tighter spots than this."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, I know the timing isn't great, but I need you to authorize clearance so I can access redacted SSR..."
+        },
+        {
+            "character": "Mace",
+            "line": "I'll take that, Agent Fitz. We have a more pressing issue."
+        },
+        {
+            "character": "Fitz",
+            "line": "I-I know, I know, but it's just a few signatures. I believe it could lead us to Lucy Bauer and Eli Morrow."
+        },
+        {
+            "character": "Coulson",
+            "line": "Finding those two is our top priority. If Fitz can determine where they are, we have to act immediate..."
+        },
+        {
+            "character": "Robbie",
+            "line": "You know where my Uncle is?"
+        },
+        {
+            "character": "Mace",
+            "line": "You'll get a fair trial."
+        },
+        {
+            "character": "Robbie",
+            "line": "What about my Uncle?"
+        },
+        {
+            "character": "Mace",
+            "line": "We'll take every appropriate action once we've landed. Turn your plane around. We're going back to H.Q., where these people will be detained and charged."
+        },
+        {
+            "character": "Robbie",
+            "line": "There's no way I'm going back to their base. My uncle's in trouble."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's called a containment module for a reason."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sir, I don't think you're considering the threat level that these two people represent."
+        },
+        {
+            "character": "Mace",
+            "line": "Securing a known fugitive and a killer is more important than rescuing an escaped convict."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but it's not just Eli Morrow who's in danger. I believe that what Lucy Bauer is trying to achieve could theoretically affect thousands of people."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jeffrey, I'd argue that Daisy and Robbie are already secure. We should listen to..."
+        },
+        {
+            "character": "Mace",
+            "line": "It's Director Mace, and I'd be more amenable to your suggestions if you'd been honest with me from the start. But by wasting my time, you've wasted my goodwill. Now turn the plane around and return to H.Q.!"
+        }
+    ]
+}

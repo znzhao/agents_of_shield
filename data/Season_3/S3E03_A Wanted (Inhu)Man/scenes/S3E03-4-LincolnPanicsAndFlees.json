@@ -1,0 +1,122 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 4,
+    "scene_name": "LincolnPanicsAndFlees",
+    "description": "Lincoln witnesses a news broadcast labeling him as dangerous and, panicked by the intense manhunt, uses his powers to escape from a bus when confronted by a soldier. Meanwhile, Daisy, Mack, and Coulson debate next moves. Both sides feel the personal and ethical weight of the situation, as Lincoln's desperation grows and the team is divided about how to proceed.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "alphonso_mackenzie",
+        "lincoln"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Reporter",
+            "line": "The suspect is considered dangerous. And is wanted by both federal authorities and the ATCU."
+        },
+        {
+            "character": "Coulson",
+            "line": "This went from bad to really really bad."
+        },
+        {
+            "character": "Mack",
+            "line": "They've gone public."
+        },
+        {
+            "character": "Reporter",
+            "line": "If you do see this man, do not engage."
+        },
+        {
+            "character": "Man",
+            "line": "Hey! You're him."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I don't know what you're talking about."
+        },
+        {
+            "character": "Man",
+            "line": "I saw you. I know what you are."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You have no idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, I need you to monitor all law enforcement near Lincoln's last known location."
+        },
+        {
+            "character": "Daisy",
+            "line": "How about we take a team, go look for ourselves?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, the ATCU's on a witch hunt for powered people."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not afraid of them."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but they're terrified of you, which makes them dangerous. Till we know where he is, you're not going out there."
+        },
+        {
+            "character": "Daisy",
+            "line": "Permission to speak freely."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do I have a choice?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I could have talked him in if you didn't put an unsolicited tracker under his skin."
+        },
+        {
+            "character": "Mack",
+            "line": "If you didn't call to alert him, then we..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why wasn't I told?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We thought you were a little close to the situation."
+        },
+        {
+            "character": "Daisy",
+            "line": "Of course I'm close to the situation. You asked me to assemble a team, and I accepted. I didn't expect to be undermined and..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you know what I didn't expect? A global outbreak. The ATCU, their inhuman manhunt. I didn't see all that coming, to be honest. I wanted to assemble a team, to get ahead of the problem, but that didn't happen. So, Daisy."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll scan law-enforcement channels."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you. Mack, you were able to identify Rosalind Price's photo."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "How about getting me her digits?"
+        },
+        {
+            "character": "Mack",
+            "line": "You got it."
+        }
+    ]
+}

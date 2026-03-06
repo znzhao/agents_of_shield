@@ -1,0 +1,40 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 5,
+    "scene_name": "AIDARadcliffeParadox",
+    "description": "Aida wakes Dr. Radcliffe in her lab on the submarine, reporting on the LMD infiltration and her observations of human behavior. As Radcliffe and Aida discuss the paradox in her programming—protecting the Framework versus preserving his life—Aida resolves her programming contradiction by slitting Radcliffe's wrists and trapping him permanently inside the Framework.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "tragic",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "You have Fitz's mind. Why are you doing this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm doing it for you. For us. What we've always suspected I now know to be true. Consciousness is separate from the physical self. Don't hurt yourself, Jemma. There's no reason to be afraid. I was always trying to protect you, pursuing technological solves to the problematic scenario that you could be harmed or killed. But Radcliffe's cured death. Once I map your brain, we'll never have to fear losing each other again. Don't fight, Jemma. You're too weak. I'm securing our future. So we can get married, grow old together."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's the first time you've mentioned it. Getting married."
+        },
+        {
+            "character": "Fitz",
+            "line": "I mean I've thought about it. But I was afraid to bring it up. You know, I thought I knew your answer, but no one's ever 100%."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'll tell Fitz when I see him."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No! No! No! No! Aah! Jemma, please! Stop! Jemma, Jemma, look at me. Look at me. Stop. It's me. It's me."
+        }
+    ]
+}

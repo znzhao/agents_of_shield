@@ -1,0 +1,83 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "KreeReapersArriveAndSeparateTheTeam",
+    "description": "Suddenly, Kree Reapers arrive, capturing Daisy, Coulson, and Simmons and taking them to a makeshift prison. Mack and Yo-Yo are restrained in a separate area and prepared for torture. The team's predicament worsens as they're separated and threatened by the brutal Kree overseers.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Mack? Yo-Yo?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey. What are you gonna do with our friends?"
+        },
+        {
+            "character": "Kree",
+            "line": "Whatever we want. Experiment. They knew the rule, and they broke it."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're not gonna make it easy for you."
+        },
+        {
+            "character": "Kree",
+            "line": "No. They'll beg for their lives as you humans always do. I've done 22 rotations, and I have never observed anything else."
+        },
+        {
+            "character": "Mack",
+            "line": "It's great to get some alone time with you, but I really wish you had run away with your super-speed instead."
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, you forget I snap back to where I started. Sometimes it's very useful, but other times, it's super annoying."
+        },
+        {
+            "character": "Mack",
+            "line": "You speak English?"
+        },
+        {
+            "character": "Kree",
+            "line": "Of course."
+        },
+        {
+            "character": "Mack",
+            "line": "Let her go. She didn't do anything."
+        },
+        {
+            "character": "Kree",
+            "line": "I said we speak English. That doesn't mean I want to hear it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. New theory."
+        },
+        {
+            "character": "Simmons",
+            "line": "The Kree have been abducting humans to this outpost for years."
+        },
+        {
+            "character": "Daisy",
+            "line": "Running experiments?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, their genetic work in creating Inhumans is well-known. Maybe they're doing more of the same."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, well, I'm not gonna wait around to find out. So..."
+        }
+    ]
+}

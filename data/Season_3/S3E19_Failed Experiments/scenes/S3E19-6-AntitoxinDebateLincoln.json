@@ -1,0 +1,82 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 6,
+    "scene_name": "AntitoxinDebateLincoln",
+    "description": "Lincoln presses Simmons and Fitz to test the antitoxin on him, arguing about risks and responsibility. Coulson intervenes, siding with Simmons’ caution, and orders them to consider other options. The confrontation demonstrates Lincoln’s recklessness and desperation to save Daisy, while also underlining the internal divides within the team on how best to act under pressure.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "lincoln",
+        "phil_coulson"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Wouldn't you have to be infected with Hive's parasites to test the antitoxin?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not necessarily. Simmons gives me the drug first, takes my tissue sample, then infects that with Hive's parasites."
+        },
+        {
+            "character": "Simmons",
+            "line": "This antitoxin will destroy your immune system. It could kill you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You're not the only doctor here. From what I can tell, the risks aren't as high as what you're saying."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't pretend that's really your medical opinion."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm not pretending, you're being overly cautious."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, and you're being a lovesick fool trying to make a grand gesture."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, any thoughts?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... I agree with Simmons that the antitoxin could be dangerous but I also think there's a chance it could work."
+        },
+        {
+            "character": "Simmons",
+            "line": "If Lincoln dies, do you really want to be responsible?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, of course I don't, but this could save Daisy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Daisy would never want someone acting so recklessly to save her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, then, I'm glad it's not up to her."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry, Agent Campbell."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Come on. Y-You got to reconsider."
+        },
+        {
+            "character": "Coulson",
+            "line": "My decision's final. Fitz-Simmons, start looking at other options. We'll go from there."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "season": 4,
+    "episode": 22,
+    "num": 4,
+    "scene_name": "IvanovAtS.H.I.E.L.D.Inquiry",
+    "description": "Ivanov attends the international intelligence inquiry with a disguised LMD, using it as a platform to speak against S.H.I.E.L.D. and advocate for uniting against Inhumans. Talbot tries to control the hearing, but Ivanov produces the Darkhold, sowing discord among the agencies. Suddenly, an LMD of Daisy enters and attempts to assassinate Talbot, causing chaos. Coulson leads the S.H.I.E.L.D. response as confusion erupts and the real Daisy chases after the LMDs.",
+    "roles": [
+        "anton_ivanov",
+        "grant_ward",
+        "skye",
+        "phil_coulson",
+        "melinda_may",
+        "robbie_reyes",
+        "glenn_talbot"
+    ],
+    "vibe": "action-packed",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "We've ID'd the head. He's one of the senior Russian analysts invited to the S.H.I.E.L.D. inquiry today, and look who he's bringing as his plus-one."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've left messages for general Talbot, but he's not answering."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's AIDA's play here? Why have the LMDs attend this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "My guess is to drive the final nail into S.H.I.E.L.D.'s coffin."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Enough. For decades, we have turned a blind eye to S.H.I.E.L.D.'s indifference to the rule of law. They claim to be a spy agency but behave more like a secret police, leaving destruction and chaos in their wake. But of all their dangerous policies, there is one that threatens our very survival. It is their secret program of breeding, recruiting, and weaponizing inhumans."
+        },
+        {
+            "character": "Talbot",
+            "line": "What kind of commie double cross is this? I assure you, S.H.I.E.L.D. has no such program."
+        },
+        {
+            "character": "Ivanov",
+            "line": "Hear me out, general. We offer a solution, a path to putting S.H.I.E.L.D. And their inhumans away once and for all. This book opened my eyes to the truth about inhumans. It contains a plan to defeat them, and you can all be a part of it."
+        },
+        {
+            "character": "Talbot",
+            "line": "I smell a load of L. Ron Horsecrap. Daisy, goodness. Is Coulson with you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll flush them to you."
+        },
+        {
+            "character": "Ivanov",
+            "line": "you see? This is what S.H.I.E.L.D. wants. A world of inhumans. We must resist. We must unite!"
+        },
+        {
+            "character": "Evans",
+            "line": "There's still a pulse."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everybody out, now. And get some medical help."
+        },
+        {
+            "character": "May",
+            "line": "Phil. they'll be back for that."
+        }
+    ]
+}

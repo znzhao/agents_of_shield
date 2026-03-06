@@ -1,0 +1,39 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 13,
+    "scene_name": "HiveAndDaisyStandoff",
+    "description": "In Daisy's cell, Hive, still imprisoned but desperate for connection after his memory ordeal, interacts with Daisy. Daisy, in tremendous pain, pleads with Hive to take her back under his sway, unable to cope with her guilt and withdrawal. The episode ends with this emotionally fraught standoff between former adversaries now locked in a twisted, tragic interaction.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "tragic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "Take a breath. You don't need to think of the whole solution. Just... Just part of it. Right? Pieces solving a puzzle."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey."
+        },
+        {
+            "character": "Hive",
+            "line": "Sorry. Having trouble. My memories. You were in that one."
+        },
+        {
+            "character": "Daisy",
+            "line": "Do you have any idea what you did to me?"
+        },
+        {
+            "character": "Hive",
+            "line": "Yes. I remember. You're in pain."
+        },
+        {
+            "character": "Daisy",
+            "line": "Please... take me back."
+        }
+    ]
+}

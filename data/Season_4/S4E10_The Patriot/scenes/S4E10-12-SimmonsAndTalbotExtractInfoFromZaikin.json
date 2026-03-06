@@ -1,0 +1,79 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 12,
+    "scene_name": "SimmonsAndTalbotExtractInfoFromZaikin",
+    "description": "Using a combination of intimidation and psychological tactics, Simmons and Talbot get Zaikin to admit that he and the other mercenaries were hired by the Watchdogs and that their plan was to shoot down the Quinjet in a remote area. They realize the crashed Quinjet is actually in rural West Virginia, not where their search has been focused, and redouble their efforts to find the stranded agents.",
+    "roles": [
+        "glenn_talbot",
+        "jemma_simmons",
+        "leo_fitz",
+        "melinda_may",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "What do you think I've been trying to do? The Russki isn't talking."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, all right, well, we need to come at it from a different angle. We have to try and find a way to motivate him. I know that look."
+        },
+        {
+            "character": "Talbot",
+            "line": "I don't. What are you thinking?"
+        },
+        {
+            "character": "Zaikin",
+            "line": "I've seen American movies. Good cop, bad cop, no?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I told you I'd bring a hammer."
+        },
+        {
+            "character": "Simmons",
+            "line": "It wasn't just Hydra who had operatives within S.H.I.E.L.D. It was the other way around, too. I learned a lot undercover. I can't deny Hydra had some very persuasive interrogation methods. You like statistics. Here's one for you. There's a 100% chance I get inside your head. The question is how long you'll live afterwards."
+        },
+        {
+            "character": "Zaikin",
+            "line": "You're so weak. You bring in this woman to scare me?"
+        },
+        {
+            "character": "Talbot",
+            "line": "The last Hydra operative we captured didn't take Agent Simmons seriously, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "What's that saying you're so fond of at Hydra?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Zaikin admitted to being hired by the Watchdogs."
+        },
+        {
+            "character": "Fitz",
+            "line": "Their plan was to take down the Quinjet in rural West Virginia."
+        },
+        {
+            "character": "May",
+            "line": "We weren't even searching in the right state."
+        },
+        {
+            "character": "Fitz",
+            "line": "The comms are still jammed, but at least we've narrowed down the search area."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, hopefully Mace can hold these guys off until we find them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah... Um, I'm not so sure about that."
+        }
+    ]
+}

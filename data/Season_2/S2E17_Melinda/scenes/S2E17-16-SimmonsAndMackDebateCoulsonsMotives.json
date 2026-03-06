@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 17,
+    "num": 16,
+    "scene_name": "SimmonsAndMackDebateCoulsonsMotives",
+    "description": "Simmons, May, and Mack piece together what Coulson might be building with his secretive resources. Mack suggests it's a facility for powered people, while Simmons points out the possibility of good intentions. May remains committed to unlocking Fury's toolbox, underscoring the division in S.H.I.E.L.D. over secret projects and the unease surrounding powers.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "If we keep digging, I'm afraid of what we're going to find."
+        },
+        {
+            "character": "May",
+            "line": "Coulson's reported trips. Cross-referenced it with Bobbi's Intel. Most were covers. If he said London, he was meeting in Milan or Belgrade, Cairo, buying God knows what."
+        },
+        {
+            "character": "Simmons",
+            "line": "My findings aren't much better. Evidence of construction. I can't even count the shell companies. Coulson's burning through money. Bobbi wasn't lying, May. It's a whole other life. And, um..."
+        },
+        {
+            "character": "May",
+            "line": "What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson met with your ex-husband. They've been consulting for a while."
+        },
+        {
+            "character": "May",
+            "line": "Okay. Put it on the map. What's Coulson even need with 100 bunk beds?"
+        },
+        {
+            "character": "Mack",
+            "line": "We think he's building another base, for powered people. In my opinion, Coulson's determined to explore people with powers. He's been on the front lines of it his whole career. Avengers initiative, Tahiti. Everything he's done since restarting S.H.I.E.L.D. tells me he's continuing the work."
+        },
+        {
+            "character": "Simmons",
+            "line": "He wouldn't why blow up the alien city?"
+        },
+        {
+            "character": "Mack",
+            "line": "But why go there at all? We could debate all day. But if you're planning on training superpowered people, you're gonna need a lot of bunks and scientists and money. And you're definitely gonna find a very good psychologist."
+        },
+        {
+            "character": "May",
+            "line": "Simmons, I need you to get me into Fury's toolbox."
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson could have good reason for keeping this quiet."
+        },
+        {
+            "character": "May",
+            "line": "Open the box. Best intentions aside, underestimating powers is playing with fire."
+        }
+    ]
+}

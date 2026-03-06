@@ -1,0 +1,21 @@
+{
+    "season": 2,
+    "episode": 15,
+    "num": 4,
+    "scene_name": "PowerLossAftermath",
+    "description": "After Bobbi's EMP, Fitz announces he'll try to initiate a manual lockdown. Coulson, May, and Fitz regroup and realize Bobbi and Mack have disabled the base and are after something more than just the toolbox. The team works to prevent Bobbi's escape, suspecting her motives and lamenting their own exposures.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Mack, too."
+        }
+    ]
+}

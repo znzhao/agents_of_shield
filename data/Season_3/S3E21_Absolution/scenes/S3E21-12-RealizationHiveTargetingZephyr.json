@@ -1,0 +1,112 @@
+{
+    "season": 3,
+    "episode": 21,
+    "num": 12,
+    "scene_name": "RealizationHiveTargetingZephyr",
+    "description": "With the chaos settling and the hangar sealed, Daisy realizes that she revealed all details about the Zephyr and its high-altitude capabilities to Hive. The team deduces Hive now has a new delivery system for the pathogen—the Zephyr One. Coulson, May, Mack, Elena, and Lincoln strategize quickly to prevent Hive from escaping with the ship, as hope fades for the agents trapped in the hangar.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "lincoln",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I can't believe this is happening."
+        },
+        {
+            "character": "Mack",
+            "line": "He wants a way out."
+        },
+        {
+            "character": "Mack",
+            "line": "What? Daisy, what is it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I told him everything."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we know that, but what does that have to do..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, Mack, I told him everything, including the plans to the Zephyr."
+        },
+        {
+            "character": "Mack",
+            "line": "And the fact that it has high-altitude capabilities."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hive has his delivery system now."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy."
+        },
+        {
+            "character": "Mack",
+            "line": "She's safe in her cell."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is where you two should be."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Not a chance."
+        },
+        {
+            "character": "Elena",
+            "line": "You can put the vests on us, but we fight."
+        },
+        {
+            "character": "Mack",
+            "line": "We don't have time for this! Daisy said Hive knows everything the Zephyr's capable of. If he gets his hands on it..."
+        },
+        {
+            "character": "May",
+            "line": "That's his new missile."
+        },
+        {
+            "character": "Coulson",
+            "line": "And we brought him right to it."
+        },
+        {
+            "character": "Mack",
+            "line": "He still looks shaky. Maybe he won't remember how to fly it."
+        },
+        {
+            "character": "May",
+            "line": "That's a thin hope to hang onto."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't let Hive get control of that ship."
+        },
+        {
+            "character": "May",
+            "line": "We need to get someone in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't ask anyone to do that."
+        },
+        {
+            "character": "Elena",
+            "line": "I can go in. The gas won't change me."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but it can sway you. I won't let what happened to Daisy happen to anyone else."
+        }
+    ]
+}

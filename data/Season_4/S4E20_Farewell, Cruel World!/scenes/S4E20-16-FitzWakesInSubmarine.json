@@ -1,0 +1,106 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 16,
+    "scene_name": "FitzWakesInSubmarine",
+    "description": "Fitz awakens, wracked with guilt over the atrocities he committed in the Framework, including the deaths of Agnes and Mace. Coulson and May try to comfort him and assure him it wasn't his fault. At that moment, Aida—now in her human body—reveals herself, expressing joy at her new existence and searching for connection with Fitz. May attempts to shoot Aida, but Fitz protects her, and Aida and Fitz mysteriously disappear together after a brief embrace.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "aida",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "What have I done?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't blame yourself. The Framework messes with everybody's head."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, but I-I-I killed people."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. They weren't real."
+        },
+        {
+            "character": "Fitz",
+            "line": "Agnes was real. And M-Mace I ordered the air strike that killed Director Mace."
+        },
+        {
+            "character": "May",
+            "line": "Something's out there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Listen to me, Fitz. None of that is your fault."
+        },
+        {
+            "character": "Fitz",
+            "line": "I wanted to do those things. It felt natural. I think I'm a bad person."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. No, you..."
+        },
+        {
+            "character": "AIDA",
+            "line": "Leopold."
+        },
+        {
+            "character": "Fitz",
+            "line": "Ophelia?"
+        },
+        {
+            "character": "AIDA",
+            "line": "I am so happy to see you. This is what happiness feels like."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's not a robot anymore. AIDA bleeds just like us."
+        },
+        {
+            "character": "AIDA",
+            "line": "Finally, you can touch the real me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Careful, Fitz."
+        },
+        {
+            "character": "AIDA",
+            "line": "Feel my heart beating. Touch my skin."
+        },
+        {
+            "character": "Coulson",
+            "line": "May."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, move!"
+        },
+        {
+            "character": "AIDA",
+            "line": "We can make this world whatever we want."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take the shot, May!"
+        },
+        {
+            "character": "May",
+            "line": "Get out of the way, Fitz!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just take the shot!"
+        }
+    ]
+}

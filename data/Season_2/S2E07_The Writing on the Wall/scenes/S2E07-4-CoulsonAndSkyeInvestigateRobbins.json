@@ -1,0 +1,60 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "CoulsonAndSkyeInvestigateRobbins",
+    "description": "Coulson and Skye visit Janice Robbins' residence in New York. They uncover evidence that links Robbins' paintings to Coulson's carvings and realize she was a S.H.I.E.L.D. agent named Rebecca Stevens. The scene deepens the mystery by revealing connections between the carvings, S.H.I.E.L.D. agents, and former T.A.H.I.T.I. patients.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "You're right. This place just screams S.H.I.E.L.D. agent. You two don't have a single thing in common, unless you have some Enya albums you've been hiding."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Nothing in common at all."
+        },
+        {
+            "character": "Skye",
+            "line": "I take that back."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's a lot of overlap. We were definitely working on the same design, but she has some pieces I was missing."
+        },
+        {
+            "character": "Skye",
+            "line": "How does the carving we found in Miami fit into this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Whoever did it was on our wavelength. There's just a few pieces missing. It's almost there."
+        },
+        {
+            "character": "Skye",
+            "line": "You were right. She's a S.H.I.E.L.D. agent. Agent Rebecca Stevens, level 6. Stationed at the Triskelion."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's probably where I saw her."
+        },
+        {
+            "character": "Skye",
+            "line": "Not recently, you didn't. According to this, she died five years ago from cancer. How is that possible?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We won't know until we perform an autopsy."
+        },
+        {
+            "character": "Skye",
+            "line": "Don't you need a body for that?"
+        }
+    ]
+}

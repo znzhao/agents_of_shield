@@ -1,0 +1,42 @@
+{
+    "season": 6,
+    "episode": 1,
+    "num": 8,
+    "scene_name": "ZephyrCrewFindsWreckAndDeadEnd",
+    "description": "On the crash site, Simmons, Daisy, Davis, and Piper investigate the remnants of the ship but only come up with dead ends as Fitz's pod is empty. Simmons is heartbroken over the lack of new evidence, and there is palpable disappointment and fatigue among the crew, highlighting their desperation and personal stakes in the mission.",
+    "roles": [
+        "davis",
+        "piper",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "melancholic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Complete loss of cabin pressure. It's times like this I wish we didn't change the timeline."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, good news is, Fitz was in cryo, so he'd be able to survive that, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I would think..."
+        },
+        {
+            "character": "Davis",
+            "line": "Over here!"
+        },
+        {
+            "character": "Piper",
+            "line": "Well, at least it's not a dead body."
+        },
+        {
+            "character": "Davis",
+            "line": "Yeah. But it's a dead end."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 10
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. His decisions are often guided by a profound sense of responsibility towards his team, even when faced with morally complex situations involving lethal force and sacrifices. Coulson displays steady courage and unwavering commitment to protecting his team and innocent lives. Despite the immense personal toll from betrayals and losses, his resilience enables him to navigate the tensions between duty and emotional bonds. He remains central in confronting profound alien mysteries and threats while supporting the growth and transformation of team members under his care.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "neutralize_hydra_threat_and_protect_raina",
+        "goal": "Neutralize the Hydra threat targeting Raina and ensure her safety as a key figure linked to the alien Obelisk"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "investigate_and_secure_underground_city_in_puerto_rico",
+        "goal": "Identify, investigate, and secure the entrance and temple of the ancient underground city beneath San Juan, Puerto Rico, to prevent Hydra from exploiting its power"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "stop_hydra_from_exploiting_alien_city_and_protect_skye",
+        "goal": "Stop Hydra from exploiting the alien city and Obelisk, protect Skye from Hydra and her father Cal's influence, and prevent the unleashing of destructive power within the hidden Kree city"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_26",
+      "context": "confronting Cal about his reckless vengeance and warning him to stay away from Skye",
+      "catch_phrase": "I know, in some insane way, you love your daughter, but I will kill you if you take another step."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_25",
+      "context": "confronting Cal about using Triplett's life as leverage and underscoring the urgency of saving him",
+      "catch_phrase": "You'd use this man's life as a bargaining chip?"
+    }
+  ]
+}

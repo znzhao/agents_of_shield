@@ -1,0 +1,73 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 7,
+    "scene_name": "TeamPreparesForBarRaid",
+    "description": "Fitz introduces updated non-lethal weaponry to Ward and May. The team discusses strategy for apprehending Lorelei at the biker bar, while Sif expresses disdain for Lorelei’s manipulative ways. Fitz and Ward’s technical banter provides brief comic relief before the group commits to the high-stakes raid.",
+    "roles": [
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz"
+    ],
+    "vibe": "lighthearted",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Good. Then you can show off these beauties."
+        },
+        {
+            "character": "Ward",
+            "line": "These all night-night guns?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Based on the same technology, but we're not calling them that anymore."
+        },
+        {
+            "character": "Ward",
+            "line": "About time."
+        },
+        {
+            "character": "Fitz",
+            "line": "They're called ICERs... incapacitating cartridge emitting..."
+        },
+        {
+            "character": "Ward",
+            "line": "They're great. And you lost the ounce."
+        },
+        {
+            "character": "Fitz",
+            "line": "And I tripled the stopping power. But I did realize after our run-ins with Mike and Centipede..."
+        },
+        {
+            "character": "May",
+            "line": "Whoa."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry. ...um, that we needed something stronger, better."
+        },
+        {
+            "character": "Ward",
+            "line": "Thought you didn't like guns."
+        },
+        {
+            "character": "May",
+            "line": "No, I always say if I need a gun, I'll take one. We'll need these. When you're up against people who are being controlled, sometimes it's hard to distinguish friend from foe."
+        },
+        {
+            "character": "Coulson",
+            "line": "This way, we can take out either."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where's Lady Sif?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Shall we?"
+        }
+    ]
+}

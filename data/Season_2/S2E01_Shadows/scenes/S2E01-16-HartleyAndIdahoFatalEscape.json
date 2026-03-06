@@ -1,0 +1,56 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 16,
+    "scene_name": "HartleyAndIdahoFatalEscape",
+    "description": "With Hartley grievously injured, Hunter is forced to cut off her hand to save her from the Obelisk, then attempts to flee with Idaho. Creel transforms his body into asphalt and blocks their escape, resulting in a fatal car crash that kills Hartley and Idaho. Creel absorbs the rubber from the tires and departs with the Obelisk, as Hunter survives, barely comprehending the loss.",
+    "roles": [
+        "lance_hunter",
+        "carl_creel"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Go! Go!"
+        },
+        {
+            "character": "Man",
+            "line": "They're headed to the West door!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Get us the hell out of here!"
+        },
+        {
+            "character": "Idaho",
+            "line": "You got it."
+        },
+        {
+            "character": "Hartley",
+            "line": "Cut it off."
+        },
+        {
+            "character": "Hunter",
+            "line": "What? N-no. Okay? We'll get you to a hospital. They'll fix this."
+        },
+        {
+            "character": "Hartley",
+            "line": "This thing is killing me. I can feel it. I need you to cut it off, or I won't make it to the hospital. It's no big deal. You've seen what they can do with robotics these days."
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh, probably be an upgrade."
+        },
+        {
+            "character": "Hartley",
+            "line": "I don't want to die."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay."
+        }
+    ]
+}

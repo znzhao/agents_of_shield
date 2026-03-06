@@ -1,0 +1,99 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 12,
+    "scene_name": "WardCompletesMissionAndSurgeryBegins",
+    "description": "Ward follows the mission’s instructions, awkwardly attempting to seduce a guard to gain access. In the operating room, Simmons and Fitz carefully begin the delicate process of removing Amador’s implant, knowing her life depends on their precision. Ward successfully reaches the destination, and the handler remotely commands a picture to be taken of mysterious equations on a chalkboard.",
+    "roles": [
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "What do they mean, “target?”"
+        },
+        {
+            "character": "Ward",
+            "line": "It's never good, especially for the target. Let's hope it's a knockout and not a kill."
+        },
+        {
+            "character": "Skye",
+            "line": "You should get out of there."
+        },
+        {
+            "character": "Ward",
+            "line": "I've come this far. I'll finish, whatever it takes. Help."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm sorry. Did you say “help?” Because a minute ago, you said you didn't want or need my help."
+        },
+        {
+            "character": "Ward",
+            "line": "That was before they asked me to go all Mata Hari on this guy. I'm just gonna knock him out."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, wait. We may need them to get through the next door. Remember, it said seduce, not kill."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't think I'm his type."
+        },
+        {
+            "character": "Skye",
+            "line": "Let me see. Cheap haircut. 5:00 shadow. Nope. Odds are you guys play for the same team. You're gonna have to bromance him. Talk sports, Vodka, the Victorianov secret catalog. Be friendly, Agent Ward. Can you be friendly?  Please don't die."
+        },
+        {
+            "character": "Ward",
+            "line": "Guess not."
+        },
+        {
+            "character": "Skye",
+            "line": "What now? Are you supposed to grab one of these guys?"
+        },
+        {
+            "character": "May",
+            "line": "They just sent another message. Coulson, he's close, only a few blocks from you. He's somewhere in Victory Square. One more message should lock in his precise location."
+        },
+        {
+            "character": "Ward",
+            "line": "Figured out what I needed the guard for. His password."
+        },
+        {
+            "character": "Skye",
+            "line": "Maybe I can talk you through a hack. Just give me a minute."
+        },
+        {
+            "character": "Ward",
+            "line": "No more minutes. Meet me on the south side of the building, A.S.A.P."
+        },
+        {
+            "character": "Skye",
+            "line": "Gotcha. Which way is South?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Please tell me it's out already."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's... mostly out."
+        },
+        {
+            "character": "Amador",
+            "line": "What's wrong?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Nothing. But Dr. Fitz needs to step in now. This is his area of expertise, not mine. Fitz!"
+        }
+    ]
+}

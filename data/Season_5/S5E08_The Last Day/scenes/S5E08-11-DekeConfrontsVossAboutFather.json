@@ -1,0 +1,83 @@
+{
+    "season": 5,
+    "episode": 8,
+    "num": 11,
+    "scene_name": "DekeConfrontsVossAboutFather",
+    "description": "Deke grows suspicious about the fate of his father when he discovers a monolith shard among Voss’s possessions. Pressing Voss for the truth, he concludes something isn’t right, leading to a violent confrontation where Voss knocks Deke out. Deke realizes Voss may be lying about what happened to his family, increasing the intrigue and distrust among the survivors.",
+    "roles": [
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Voss",
+            "line": "Hey."
+        },
+        {
+            "character": "Deke",
+            "line": "What are they doing with the shard?"
+        },
+        {
+            "character": "Voss",
+            "line": "Who, Coulson and May? Hell if I know, but if you ask me, they got their priorities way out of whack."
+        },
+        {
+            "character": "Deke",
+            "line": "No, that's not what I mean. That belonged to my mom. Why doesn't my dad have it with him? After my mom died, he always kept it close. He wouldn't have left it behind."
+        },
+        {
+            "character": "Voss",
+            "line": "Don't overthink it, kid. It's pretty dangerous out there in the wastelands. He probably just left it here for safekeeping."
+        },
+        {
+            "character": "Deke",
+            "line": "No. Before the Blues exiled him, I begged him for that stupid rock so I'd have something to remember her by, and he said that he couldn't trust me with it."
+        },
+        {
+            "character": "Voss",
+            "line": "You need to calm down."
+        },
+        {
+            "character": "Deke",
+            "line": "No, you need to stop lying to me. He wouldn't leave it in your locker. So what the hell did you do to my father?"
+        },
+        {
+            "character": "Voss",
+            "line": "Hyah!"
+        },
+        {
+            "character": "Flint",
+            "line": "That box controls the entire floor. But the Blues shut the power off."
+        },
+        {
+            "character": "Mack",
+            "line": "Not a problem. Fitz knows how to pack for any occasion. Come on. Beautiful. And Yo-Yo got us plenty of these."
+        },
+        {
+            "character": "Flint",
+            "line": "You know that gas won't be enough to kill the Roaches, right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but it should be enough to drive them into one room."
+        },
+        {
+            "character": "Flint",
+            "line": "Okay. Then what do we do?"
+        },
+        {
+            "character": "Mack",
+            "line": "We don't do anything."
+        },
+        {
+            "character": "Flint",
+            "line": "Whoa."
+        },
+        {
+            "character": "Mack",
+            "line": "Dial it back a notch, Pebbles."
+        }
+    ]
+}

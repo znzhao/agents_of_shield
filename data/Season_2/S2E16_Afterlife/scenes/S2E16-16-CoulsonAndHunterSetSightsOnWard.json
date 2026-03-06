@@ -1,0 +1,77 @@
+{
+    "season": 2,
+    "episode": 16,
+    "num": 16,
+    "scene_name": "CoulsonAndHunterSetSightsOnWard",
+    "description": "Aboard the quinjet, Coulson, Hunter, and Mike regroup and discuss the danger Hydra poses to powered people, highlighting recent intel on Hydra's activities. Realizing Grant Ward is the only person with ties to both sides, Coulson decides they must seek him out to find Skye. This decision sets the direction for the next phase of their mission.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "michael_peterson"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mike",
+            "line": "Autopilot is set. Cruising at 45,000 feet. Any destination?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Mexico."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll let you know. Agent Peterson has been doing some overseas work for me. Remember List?"
+        },
+        {
+            "character": "Hunter",
+            "line": "The Hydra head we didn't cut off?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mike's been trailing him for the past six months. Tell him what you found."
+        },
+        {
+            "character": "Mike",
+            "line": "Last week, I intercepted a coded transmission from list mentioning his interest in powered people."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yeah, they seem to be trending these days."
+        },
+        {
+            "character": "Mike",
+            "line": "He's hunting them down and experimenting on them."
+        },
+        {
+            "character": "Hunter",
+            "line": "You think the no-eyed guy took Skye is one of his?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but he's connected to Skye's father and whatever group of powered people he's involved with."
+        },
+        {
+            "character": "Hunter",
+            "line": "Does Hydra know about them?"
+        },
+        {
+            "character": "Mike",
+            "line": "Seems likely."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's only one man who's connected to both sides of this equation. If we're gonna find Skye, we need to find him first."
+        },
+        {
+            "character": "Hunter",
+            "line": "And who's that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Our bad option. Grant Ward."
+        }
+    ]
+}

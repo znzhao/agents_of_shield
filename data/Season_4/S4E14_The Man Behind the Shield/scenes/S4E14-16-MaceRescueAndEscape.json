@@ -1,0 +1,116 @@
+{
+    "season": 4,
+    "episode": 14,
+    "num": 16,
+    "scene_name": "MaceRescueAndEscape",
+    "description": "Mack finds Mace being beaten by Watchdogs and, with Coulson's help, rescues him. The battered S.H.I.E.L.D. director struggles to give information about May's whereabouts. The group regathers, realizing May escaped on the submarine. Despite Simmons' objections, Coulson insists they must tend to the wounded and regroup back at the Playground.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye"
+    ],
+    "vibe": "action-packed",
+    "location": "Krasnoyarsk Krai detention facility / former Soviet submarine bay",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You all right?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. But I don't know about him. He's breathing, but barely."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jeffrey, where's May? Where are they keeping her? Come on. We got to get him out of here."
+        },
+        {
+            "character": "Ivanov",
+            "line": "I've been looking forward to facing one of you, readying myself. I strive for perfection. You are a genetic cheater."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm not a cheater. You're just playing by the old rules. The game has changed. Ivanov's down. Where is everybody?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Anything?"
+        },
+        {
+            "character": "Davis",
+            "line": "No luck."
+        },
+        {
+            "character": "Simmons",
+            "line": "We've been running all over this place. It's a bloody labyrinth."
+        },
+        {
+            "character": "Davis",
+            "line": "Pray we don't run into the Goblin King."
+        },
+        {
+            "character": "Simmons",
+            "line": "Can anyone hear me? Has anyone spotted AIDA? Still no response. Oh, no, no, no. The submarine. She's escaping."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're too late."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I gathered what I could from the communications room. Who knows what the others have found."
+        },
+        {
+            "character": "Simmons",
+            "line": "Have you heard anything from them? I've been trying to reach them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, me too. Comms have been wonky, going in and out. Jemma."
+        },
+        {
+            "character": "SImmons",
+            "line": "Director Mace! We've been trying to reach you."
+        },
+        {
+            "character": "Coulson",
+            "line": "He needs medical attention. We have to get him out of here."
+        },
+        {
+            "character": "Daisy",
+            "line": "Finally. I've been looking for you guys everywhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where's May?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's not here."
+        },
+        {
+            "character": "Simmons",
+            "line": "They must have had her on the submarine."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, then we have to keep searching. We..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're pulling out."
+        },
+        {
+            "character": "Simmons",
+            "line": "But, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll tend to our injured, live to fight another day."
+        }
+    ]
+}

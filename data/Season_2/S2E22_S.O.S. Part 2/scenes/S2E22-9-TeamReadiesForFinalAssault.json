@@ -1,0 +1,71 @@
+{
+    "season": 2,
+    "episode": 22,
+    "num": 9,
+    "scene_name": "TeamReadiesForFinalAssault",
+    "description": "Coulson’s team—including May, Fitz, and Cal—prepare to leave the Playground and assault the Iliad. Fitz detects Skye’s coded warning and Coulson recalls the S.H.I.E.L.D. strike teams except his own to avoid Jiaying’s trap. Cal insists on handling Jiaying himself to keep this 'a family matter.' The determination of the team is evident as they set out for the final confrontation.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "calvin_johnson"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I'd like to formally voice my doubts about bringing him on this mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "I understand your concerns, May, but Cal's lived with the Inhumans. He knows what we're getting ourselves into. We do not."
+        },
+        {
+            "character": "May",
+            "line": "He's a loose cannon."
+        },
+        {
+            "character": "Coulson",
+            "line": "Worse comes to worst, we let the cannon loose. Any distraction might help us take that boat. Look, Cal's erratic, but if there's one constant, it's his concern for Skye."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, something's happening with the S.O.S. signal from the boat. I thought it was breaking up, like someone cutting the line."
+        },
+        {
+            "character": "Coulson",
+            "line": "Radio interference?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, but there's, um, uh, a pattern to it, like a code."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's Skye. What's she saying?"
+        },
+        {
+            "character": "Fitz",
+            "line": "That it's a trap."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is SHIELD 218 ordering all other forces to fall back. Repeat. Fall back."
+        },
+        {
+            "character": "May",
+            "line": "And what about us?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're gonna finish this."
+        },
+        {
+            "character": "Man",
+            "line": "All the S.H.I.E.L.D. jets have turned around except one."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 8,
+    "scene_name": "WardTrainsWithMay",
+    "description": "Ward vents his anger through physical training in an attempt to work through the staff's effects. May finds him and offers help instead of letting him continue punching things. Ward is reluctant, wanting to focus only on stopping the threat. The exchange illustrates May’s subtle insight into trauma and error, and her willingness to quietly help the team heal.",
+    "roles": [
+        "grant_ward",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Ward!"
+        },
+        {
+            "character": "Young Thomas",
+            "line": "Please!"
+        },
+        {
+            "character": "May",
+            "line": "Hey, Ward!"
+        },
+        {
+            "character": "Ward",
+            "line": "You should be more careful."
+        },
+        {
+            "character": "May",
+            "line": "I'm fine. You?"
+        },
+        {
+            "character": "Ward",
+            "line": "I'm working it out."
+        },
+        {
+            "character": "May",
+            "line": "You're punching things. The last thing you need is to punch things."
+        },
+        {
+            "character": "Ward",
+            "line": "You got a better idea?"
+        },
+        {
+            "character": "May",
+            "line": "Let me help you."
+        },
+        {
+            "character": "Ward",
+            "line": "The only help I need is to stop those guys before they hurt somebody else."
+        },
+        {
+            "character": "Nystrom",
+            "line": "We are the new order! Our world is being taken by gods! We will become gods and take it back! This is the new order! Are you ready to take back the power?"
+        }
+    ]
+}

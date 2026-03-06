@@ -1,0 +1,39 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resilient and principled S.H.I.E.L.D. agent known for his tactical leadership and unwavering commitment to his team amid growing internal threats and external betrayals. Throughout his journey, he has navigated the complexities of secret projects such as T.A.H.I.T.I., grappled with profound personal and professional losses, and maintained a protective and compassionate stance toward his team. Coulson's leadership style is marked by pragmatism, emotional restraint, and determination to protect his team and uphold justice in the shadow of Hydra's infiltration, balancing personal vendettas with greater strategic objectives. His resilience is further demonstrated in his proactive approach to tracing and confronting Hydra operations and adapting strategies despite limited resources and compromised authority. He continues to unite and inspire his fragmented team toward reclaiming control and justice in a chaotic and dangerous environment.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_team_and_maintain_secret_plan",
+        "goal": "Protect his team while managing the secrecy around Nick Fury's status and resistance plans"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "confront_hydra_and_recover_stolen_assets",
+        "goal": "Confront Hydra operatives including John Garrett and Ward, recover stolen S.H.I.E.L.D. assets including their plane, and reestablish security"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

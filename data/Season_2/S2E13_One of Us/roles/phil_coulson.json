@@ -1,0 +1,59 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 13
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. Throughout his journey, he grapples with profound losses and betrayals yet remains steadfast in his commitment to his team and their mission. His personal struggles and moral dilemmas are tempered by a deep sense of responsibility and hope as he navigates the complex interplay between alien mysteries, Hydra threats, and the emotional scars borne by those he leads. Coulson continues to demonstrate an increased willingness to protect and fight for his team members against alien and authoritarian threats, showing particular care for Skye despite the dangers she poses, affirming his role as a leader who balances logic with empathy and trust. In this stage of his journey, Coulson also confronts the painful personal ghosts of his past, including his hometown and family, which deepen his resolve but remind him of the stakes involved.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_28",
+      "context": "confronting Cal at Manitowoc High School and emphasizing the mission despite personal ties",
+      "catch_phrase": "Fight on."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_24",
+      "context": "motivating Fitz during the satellite infiltration mission and emphasizing precision and preparation",
+      "catch_phrase": "We may actually have a shot at finding the city."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 13,
+    "scene_name": "HelicoptersArriveTeamPreparesToEngage",
+    "description": "Helicopter imagery shows the Russian Prime Minister arriving. Zephyr One alerts the ground team, ordering immediate intervention as a coup attempt by Malick's group is imminent. The agents coordinate their plan: May and Hunter to protect the Prime Minister while Daisy, Bobbi, and Mack attempt to contain the General.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse",
+        "lance_hunter",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Sir? Sir, we have incoming. Looks like helicopters headed for the compound."
+        },
+        {
+            "character": "Coulson",
+            "line": "They're not flying in standard military formation."
+        },
+        {
+            "character": "Fitz",
+            "line": "Enhancing satellite imagery."
+        },
+        {
+            "character": "Coulson",
+            "line": "Russian military typically uses MI-8s. That's not what those are."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, sir. Scans show these are AW139s, four of them."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's the Prime Minister's detail. He's coming here."
+        },
+        {
+            "character": "Simmons",
+            "line": "Malick isn't taking the General anywhere because he doesn't have to."
+        },
+        {
+            "character": "Coulson",
+            "line": "Open the comms. Everyone listen up. This hit is going down here and now. The Russian Prime Minister is arriving, and there's an Inhuman assassin on the loose. You need to stop him."
+        },
+        {
+            "character": "Morse",
+            "line": "Stop him how? We don't even know what he can do."
+        },
+        {
+            "character": "Hunter",
+            "line": "Malick's getting away! We could grab one of those trucks."
+        },
+        {
+            "character": "May",
+            "line": "Coulson, do we pursue?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Prime Minister is landing on the north side of the plant."
+        },
+        {
+            "character": "Coulson",
+            "line": "Negative. Forget about Malick."
+        },
+        {
+            "character": "Hunter",
+            "line": "But he's right bloody there!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Protect the Prime Minister. He's walking into a trap. You need to get in there now."
+        }
+    ]
+}

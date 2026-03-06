@@ -1,0 +1,127 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 12,
+    "scene_name": "BobbiTracksMalickGeneralFreed",
+    "description": "Bobbi informs the team of Malick's movement while Daisy and Mack try to keep up with camera feeds. Mack observes the General being released. Communications from Zephyr One point out the severity of the General's powers and the threat to the Prime Minister. Bobbi adjusts her direction to intervene with the General.",
+    "roles": [
+        "bobbi_morse",
+        "lance_hunter",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Heads up. Malick's on the move."
+        },
+        {
+            "character": "Hunter",
+            "line": "Where are you, Bob?"
+        },
+        {
+            "character": "Morse",
+            "line": "South end, upper level. I think he's going to get the General."
+        },
+        {
+            "character": "Morse",
+            "line": "I lost Petrov and Malick! Daisy, little help?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Give me a sec."
+        },
+        {
+            "character": "Mack",
+            "line": "I've got a visual on the General. He's still locked up. I'm just not sure where."
+        },
+        {
+            "character": "Morse",
+            "line": "Is Malick with him?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, just a couple of FSO agents and two guards. And they're cutting him loose."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't let him leave with Malick."
+        },
+        {
+            "character": "Simmons",
+            "line": "Zephyr to ground team, we have a cause of death on the Prime Minister's attaché, Mr. Krupin. All internal signs show he was strangled, with fractures to his larynx and hyoid bone. Oddly, there are no external abrasions, ligature marks, or hand impressions."
+        },
+        {
+            "character": "Fitz",
+            "line": "Like he wasn't even touched."
+        },
+        {
+            "character": "Simmons",
+            "line": "Could be a psychic ability at work here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Rather than physical, yeah."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, but if he can snap bones without laying a finger on you, then the Prime Minister's in real danger."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hold on. I've got eyes on Malick."
+        },
+        {
+            "character": "May",
+            "line": "The General's not with him. Just his security detail."
+        },
+        {
+            "character": "Hunter",
+            "line": "What's Malick's play here? He sows the seeds of a coup, then leaves without the assassin."
+        },
+        {
+            "character": "May",
+            "line": "Must be some other angle. Daisy, where's the General now? You still have eyes on him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hold on. I'm still trying to get Bobbi through a door. Converting to Unicode, and..."
+        },
+        {
+            "character": "Morse",
+            "line": "Spasibo, Daisy!"
+        },
+        {
+            "character": "Daisy",
+            "line": "De nada."
+        },
+        {
+            "character": "Morse",
+            "line": "Pretty sure that's not Russian."
+        },
+        {
+            "character": "Daisy",
+            "line": "Whatever."
+        },
+        {
+            "character": "Mack",
+            "line": "Bobbi, hang a right at the next hallway. That should take you to the General. But you better get there quick, ‘cause he's free. Whoa. What the... Did you see that?"
+        },
+        {
+            "character": "Daisy",
+            "line": "See what?"
+        },
+        {
+            "character": "Mack",
+            "line": "The hell if I know. Is this feed recording?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Let me roll it back."
+        }
+    ]
+}

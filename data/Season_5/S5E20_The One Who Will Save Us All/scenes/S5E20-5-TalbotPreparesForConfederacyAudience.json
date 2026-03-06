@@ -1,0 +1,57 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 5,
+    "scene_name": "TalbotPreparesForConfederacyAudience",
+    "description": "Talbot is prepared—somewhat begrudgingly—for a formal audience with the Confederacy. Hale and Coulson advise on the diplomatic importance of this moment, but Talbot is eager to assert himself, leaving Coulson behind and appointing him as overseer in his absence. Talbot, accompanied by Qovas, proceeds to the Confederacy council for the crucial meeting.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "hale"
+    ],
+    "vibe": "suspenseful",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "I appreciate the trim, but feels like a lot of pomp and circumstance, to me."
+        },
+        {
+            "character": "Hale",
+            "line": "We need allies for whatever war is coming to Earth. Diplomacy is key."
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe I should come along, help navigate any choppy waters."
+        },
+        {
+            "character": "Talbot",
+            "line": "Best not to rock the boat. These snowflakes seem awfully precious about decorum. I think I'll just take the alien."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, but remember, tread lightly. Try and get a feel for the room."
+        },
+        {
+            "character": "Talbot",
+            "line": "I already told you, I can fix this. How do I look?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Pretty cool, actually."
+        },
+        {
+            "character": "Talbot",
+            "line": "I could probably get the boys to rustle you up one if you want it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm good. Not much of a robes guy."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm leaving this man in charge. Anybody here disobeys an order, you'll suffer the same pretzel logic your friend did earlier. All right, Chuckles. Let's hit it."
+        }
+    ]
+}

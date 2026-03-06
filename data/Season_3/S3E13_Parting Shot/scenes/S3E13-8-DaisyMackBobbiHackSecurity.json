@@ -1,0 +1,77 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 8,
+    "scene_name": "DaisyMackBobbiHackSecurity",
+    "description": "Bobbi, Daisy, and Mack work on hacking the facility's ancient security system in order to locate Malick and the detained General. The team exchanges banter, highlighting their teamwork and resourcefulness. With Mack and Daisy's help, Bobbi begins her infiltration towards Malick's meeting location.",
+    "roles": [
+        "bobbi_morse",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "lighthearted",
+    "location": "Siberian military base (Malick rendezvous)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "You're killing me, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Look, I'm not siding with Hunter. I'm just saying, I don't remember you two taking a little vacation."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? Not even a honeymoon?"
+        },
+        {
+            "character": "Morse",
+            "line": "I was in the middle of a mission. I had to get back to Johannesburg. Can you cover our tracks?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, sure, no problem. Oh. Hello, there."
+        },
+        {
+            "character": "Mack",
+            "line": "What's wrong, Tremors?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, aside from the fact that this thing is ancient, I do not read Cyrillic."
+        },
+        {
+            "character": "Morse",
+            "line": "Yet."
+        },
+        {
+            "character": "Daisy",
+            "line": "Forever the optimist."
+        },
+        {
+            "character": "Morse",
+            "line": "Come on, Daisy. You can hack the Pentagon and shake the Earth. You're gonna let a few backwards letters trip you up?"
+        },
+        {
+            "character": "Mack",
+            "line": "Found Malick and Petrov."
+        },
+        {
+            "character": "Morse",
+            "line": "Well, I'll get eyes and ears on them."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, we'll run back end from here, pipe it up to the Zephyr."
+        },
+        {
+            "character": "Daisy",
+            "line": "Be careful. Wait, wait, hold on. The letter that looks like New Hampshire with legs, that's “D,” right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Great."
+        }
+    ]
+}

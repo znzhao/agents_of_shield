@@ -1,0 +1,56 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 6,
+    "scene_name": "CoulsonBringsLincoln",
+    "description": "Coulson brings Lincoln along to investigate one of Blake’s old safehouses. Coulson discusses Lincoln's recent S.H.I.E.L.D. evaluation and his doubts about Lincoln’s commitment, setting expectations for Lincoln to prove himself in the field.",
+    "roles": [
+        "phil_coulson",
+        "lincoln"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "You're looking for me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah. Former S.H.I.E.L.D. agent Felix Blake. While he's out there causing casualties, he's our top priority."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Okay. How can I..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I worked with the guy. I know a few things he doesn't know I know."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You mean that'll help you find him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Everyone has safehouses. Unbeknownst to Blake, I happen to know where a few of his are, and that's not to help me find him. It's to help us find him."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. You're saying I'm going, too."
+        },
+        {
+            "character": "Coulson",
+            "line": "I am. If we can find any evidence he left behind of his plans, we can stop him."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Okay. Great. I mean... You... you didn't say anything about my evaluation, so... You know, it just seemed like you weren't happy with what you saw."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not. But I want to see it for myself."
+        }
+    ]
+}

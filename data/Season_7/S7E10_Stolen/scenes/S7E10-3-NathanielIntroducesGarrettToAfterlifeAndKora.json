@@ -1,0 +1,53 @@
+{
+    "season": 7,
+    "episode": 10,
+    "num": 3,
+    "scene_name": "NathanielIntroducesGarrettToAfterlifeAndKora",
+    "description": "Nathaniel brings Garrett to Afterlife, where he explains his philosophy of freeing people from their predetermined, tragic fates and introduces him to the Time Stream. Kora is shown to be a trusted ally and is asked to grant mercy to a suffering Inhuman. Nathaniel promises Garrett a power of his own in exchange for his loyalty, deepening the stakes for both S.H.I.E.L.D. and Afterlife.",
+    "roles": [
+        "nathaniel_malick",
+        "john_garrett",
+        "kora"
+    ],
+    "vibe": "intense",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Nathaniel",
+            "line": "They call it Afterlife. I couldn't have picked a better name myself. Everyone I bring here has been saved from a tragic end and given a new beginning."
+        },
+        {
+            "character": "Garrett",
+            "line": "How do you do that? How did you see my future?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "I'll show you. It's called the Time Stream. Sent back from the future."
+        },
+        {
+            "character": "Grady",
+            "line": "Almost done prepping, Mr. Malick."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "As soon as Dr. Grady here is finished, you'll get to dip your toe in. Grady here's not afraid of hazardous materials. S.H.I.E.L.D. decided his tech was too dangerous and was set to take him out, so I brought him into the fold."
+        },
+        {
+            "character": "Garrett",
+            "line": "You saying this thing's hazardous?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Well, nothing to worry about. It's not gonna hurt you. It'll just... blow your mind. You'll be meeting Sibyl. She'll guide you."
+        },
+        {
+            "character": "Garrett",
+            "line": "There's a lady in there?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Something like that. She and I are after something... same thing you were after in the story of your life you're about to see. Immortality. Prepare yourself. Most people don't like the ending."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 1,
+    "scene_name": "ZephyrCrisisBuilds",
+    "description": "Onboard Zephyr One, Simmons and Elena discuss the risks of waking people inside the Framework as the agents debate how to preserve power. Elena insists on keeping the Framework online to save their friends, but the plane's crew fears time is running out as they contemplate shutting down cloaking to conserve energy. The tension escalates as the pilots spot potential threats and the need to act becomes urgent.",
+    "roles": [
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "And remember, even if our vitals are going haywire, do not..."
+        },
+        {
+            "character": "Elena",
+            "line": "Do not pull you out or wake you up, I know. It will cook your brains like huevos rotos."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cause permanent damage to the cerebral cortex, yes."
+        },
+        {
+            "character": "Elena",
+            "line": "Just promise me you'll get our guys back, okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I promise."
+        },
+        {
+            "character": "Piper",
+            "line": "So, what's next?"
+        },
+        {
+            "character": "Elena",
+            "line": "We wait."
+        },
+        {
+            "character": "Davis",
+            "line": "Zephyr's got 24 hours till it runs out of power. We can't wait anymore. We need to touch down and refuel."
+        },
+        {
+            "character": "Piper",
+            "line": "Let's not have this conversation again. Okay, we don't know who we can trust at S.H.I.E.L.D., and the government..."
+        },
+        {
+            "character": "Prince",
+            "line": "Talbot's been trying to reach us. Maybe it's time we talk to him."
+        },
+        {
+            "character": "Elena",
+            "line": "You've seen what they're saying in the news. We're lucky they haven't shot us out of the sky. And if they turn off the Framework..."
+        },
+        {
+            "character": "Davis",
+            "line": "That thing's draining all our power. Might be time we figure out a way to wake up Daisy and Simmons."
+        },
+        {
+            "character": "Elena",
+            "line": "That's not an option. We must find something else to turn off."
+        },
+        {
+            "character": "Davis",
+            "line": "We already shut off all non-essential functions. Including the heat."
+        },
+        {
+            "character": "Piper",
+            "line": "Wait. What about the cloaking?"
+        },
+        {
+            "character": "Prince",
+            "line": "Bad idea."
+        },
+        {
+            "character": "Davis",
+            "line": "Cloaking is the only thing that's keeping us safe up here."
+        },
+        {
+            "character": "Elena",
+            "line": "Do it."
+        },
+        {
+            "character": "Piper",
+            "line": "Hurry up, you two. We're running out of time."
+        },
+        {
+            "character": "Reporter",
+            "line": "With forces still fighting for control of the broadcast center, Madame Hydra has dispatched all available units to clean up the streets. Madame Hydra's executive order is in response to..."
+        }
+    ]
+}

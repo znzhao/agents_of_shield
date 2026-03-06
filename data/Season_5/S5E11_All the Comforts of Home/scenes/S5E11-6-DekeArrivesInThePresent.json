@@ -1,0 +1,79 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 6,
+    "scene_name": "DekeArrivesInThePresent",
+    "description": "Deke suddenly finds himself in the present day, awestruck by the mundane world around him. He marvels at trees and heads into a bar to try beer and Zima. His naive attempts at buying a drink get him arrested for not paying. This scene highlights Deke's fish-out-of-water comedic experience upon his unexpected arrival in a world unfamiliar to him.",
+    "roles": [
+        "deke_shaw"
+    ],
+    "vibe": "comedic",
+    "location": "River's End (small town near the Lighthouse)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Oh, boy. You got to be kidding me. Not from here."
+        },
+        {
+            "character": "Woman",
+            "line": "Hey, I get it. It's a pretty tree."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, I've never seen anything like it."
+        },
+        {
+            "character": "Woman",
+            "line": "Yeah, that'll probably stop when whatever you took wears off."
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, I got some of it right. Barkeep. I'd like to try a beer, a real one, please."
+        },
+        {
+            "character": "Bartender",
+            "line": "One real beer. You got it."
+        },
+        {
+            "character": "Deke",
+            "line": "Mm. Oh. God! That does not taste like it looks. Do you have anything else that's like this but delicious?"
+        },
+        {
+            "character": "Bartender",
+            "line": "Yeah."
+        },
+        {
+            "character": "Bartender",
+            "line": "I just need you to settle up, buddy."
+        },
+        {
+            "character": "Deke",
+            "line": "Oh. Right. Yeah, settle up what?"
+        },
+        {
+            "character": "Bartender",
+            "line": "Your tab. You forgot to pay. Ah!"
+        },
+        {
+            "character": "Deke",
+            "line": "Right. Okay, sorry. Here you go."
+        },
+        {
+            "character": "Bartender",
+            "line": "We take credit cards or cash. Whatever works best for you."
+        },
+        {
+            "character": "Deke",
+            "line": "Right. Credit cards or cash, ‘cause that's how people pay for things here, now, here. Okay. Ohh!"
+        },
+        {
+            "character": "Bartender",
+            "line": "Dude."
+        },
+        {
+            "character": "Deke",
+            "line": "No, it's okay, man. I'm from the future."
+        }
+    ]
+}

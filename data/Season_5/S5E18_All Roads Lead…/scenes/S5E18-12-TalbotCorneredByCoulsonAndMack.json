@@ -1,0 +1,226 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 12,
+    "scene_name": "TalbotCorneredByCoulsonAndMack",
+    "description": "On the Lighthouse, Talbot is cornered by Coulson and Mack while trying to escape with Robin. Coulson and Mack work together to talk Talbot down from his brainwashed state, appealing to his humanity and fatherhood. Talbot, in a moment of clarity, threatens suicide but Coulson manipulates his HYDRA conditioning to redirect his actions, giving Mack the opening to save Robin and subdue Talbot.",
+    "roles": [
+        "glenn_talbot",
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "robin_hinton"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Talbot, stop."
+        },
+        {
+            "character": "Mack",
+            "line": "Drop it!"
+        },
+        {
+            "character": "Talbot",
+            "line": "You drop it! Stand down!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Everybody calm down. Glenn, look at me. Why are you trying to get into the hangar? What are you doing?"
+        },
+        {
+            "character": "Talbot",
+            "line": "A soldier never questions his orders. Soldier always completes his mission."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't a mission. This is Hale. She got into your head. She brainwashed you."
+        },
+        {
+            "character": "Mack",
+            "line": "Robin, it's gonna be okay, sweetheart..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Don't you talk to her!"
+        },
+        {
+            "character": "Coulson",
+            "line": "The HYDRA compliance program goes all the way back to Whitehall."
+        },
+        {
+            "character": "Talbot",
+            "line": "You're trying to get in my head. You're trying to confuse me with that HYDRA jibber-jabber."
+        },
+        {
+            "character": "Coulson",
+            "line": "You saw what they did to Creel, how hard you had to work to break his programming."
+        },
+        {
+            "character": "Talbot",
+            "line": "What the hell do you know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you're my friend. And you'd never kidnap a little girl."
+        },
+        {
+            "character": "Talbot",
+            "line": "Kidn... Kidnap? That... That's a hell of an accusation, Phil. I got a job to do."
+        },
+        {
+            "character": "Mack",
+            "line": "She's not much younger than your kid. Think about your son, Talbot."
+        },
+        {
+            "character": "Coulson",
+            "line": "Think about it. What if that was George? You know this is wrong."
+        },
+        {
+            "character": "Talbot",
+            "line": "Shut up! You shut your damn face!"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not too late to turn back."
+        },
+        {
+            "character": "Talbot",
+            "line": "No. My compliance is my reward, and I must be... I must be rewarded."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ignore that. That's the programming talking, not you. Fight it. You can beat it."
+        },
+        {
+            "character": "Talbot",
+            "line": "I can't! I can't. I can't complete the mission. I gotta... I got to stop myself."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's right."
+        },
+        {
+            "character": "Talbot",
+            "line": "There's only one course of action."
+        },
+        {
+            "character": "Hale",
+            "line": "Honey, just listen to my voice."
+        },
+        {
+            "character": "Ruby",
+            "line": "Listen to you, listen to them! Listen, listen, listen!"
+        },
+        {
+            "character": "Hale",
+            "line": "Remember your training. We'll get through this."
+        },
+        {
+            "character": "Ruby",
+            "line": "I can't control it. It's like I'm being ripped apart."
+        },
+        {
+            "character": "Daisy",
+            "line": "Ruby, I have been right where you are, and I know that it seems impossible right now, but you will overcome this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Believe me."
+        },
+        {
+            "character": "Ruby",
+            "line": "They're too loud. They're trying to take over!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just focus. Breathe. Stay calm."
+        },
+        {
+            "character": "Ruby",
+            "line": "It's too late."
+        },
+        {
+            "character": "Hale",
+            "line": "No. Daisy's right. She's been through this."
+        },
+        {
+            "character": "Ruby",
+            "line": "Daisy. It's always Daisy!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Try not to lose control, okay? Your powers will only get more dangerous."
+        },
+        {
+            "character": "Ruby",
+            "line": "Everything powerful is dangerous."
+        },
+        {
+            "character": "Elena",
+            "line": "Melinda."
+        },
+        {
+            "character": "Simmons",
+            "line": "Your arm."
+        },
+        {
+            "character": "Elena",
+            "line": "It's fine. What happened? Did someone go in?"
+        },
+        {
+            "character": "May",
+            "line": "It's being handled. We need to get to the Zephyr."
+        },
+        {
+            "character": "Elena",
+            "line": "Handled by whom? Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot, stop. Don't do this."
+        },
+        {
+            "character": "Talbot",
+            "line": "It doesn't matter, anyway. I'm not the same, Phil. I can't trust my thoughts. There's no other way."
+        },
+        {
+            "character": "Mack",
+            "line": "Robin, come here, come on. Come on."
+        },
+        {
+            "character": "Talbot",
+            "line": "Phil, tell George I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Put the gun down."
+        },
+        {
+            "character": "Talbot",
+            "line": "I can't!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Your compliance will be rewarded."
+        },
+        {
+            "character": "Talbot",
+            "line": "You're just trying to trick me. That's the program."
+        },
+        {
+            "character": "Coulson",
+            "line": "What's best is you comply. Put the gun down."
+        },
+        {
+            "character": "Talbot",
+            "line": "I can't!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Then turn the gun on me. You will comply. Turn the gun on me."
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 13,
+    "scene_name": "BarricadedEscapeThroughGravityWell",
+    "description": "Cornered in a storage area, Deke proposes using his anti-gravity device to send the agents up several levels to the Trawler, while Flint holds off the attackers. The agents enact the plan under pressure, successfully escaping; Flint, Mack, and Elena decide to stay behind to help the people below.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "leo_fitz",
+        "jemma_simmons",
+        "flint",
+        "deke_shaw"
+    ],
+    "vibe": "thrilling",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "So, what do we do now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We escape via the trawler."
+        },
+        {
+            "character": "Deke",
+            "line": "Escape to where?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The surface. All signs have been pointing us there. The Kree won't follow us there, and you don't have to follow us there, either."
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, man, I already told you that I'm in, to go out with you."
+        },
+        {
+            "character": "Elena",
+            "line": "No one's getting out of here if they catch us first."
+        },
+        {
+            "character": "Flint",
+            "line": "Less arguing, more figuring out what the hell we're gonna do."
+        },
+        {
+            "character": "Coulson",
+            "line": "That ought to by us some time. Or not."
+        },
+        {
+            "character": "Mack",
+            "line": "I thought I told you not to go out there."
+        },
+        {
+            "character": "Flint",
+            "line": "You told me to use my powers to protect people."
+        },
+        {
+            "character": "Mack",
+            "line": "This isn't your problem to fix."
+        },
+        {
+            "character": "Flint",
+            "line": "It is my problem! They're after me!"
+        },
+        {
+            "character": "Daisy",
+            "line": "And me."
+        },
+        {
+            "character": "Simmons",
+            "line": "And me."
+        },
+        {
+            "character": "Elena",
+            "line": "I don't think they're gonna be picky about who they kill."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, we can't leave with this place surrounded."
+        },
+        {
+            "character": "Coulson",
+            "line": "Come on. A room full of secret agents, scientists, and superheroes. Someone give me something."
+        },
+        {
+            "character": "Elena",
+            "line": "We stand our ground and fight."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, with what? Rocks and rubbish?"
+        },
+        {
+            "character": "Flint",
+            "line": "I can fight with rocks."
+        },
+        {
+            "character": "Elena",
+            "line": "How else do you propose to get out of here?"
+        },
+        {
+            "character": "Deke",
+            "line": "We don't go out. We go up."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no elevators here."
+        },
+        {
+            "character": "Deke",
+            "line": "Then we make our own elevator with this."
+        },
+        {
+            "character": "Fitz",
+            "line": "A belt buckle?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's an anti-gravity device."
+        },
+        {
+            "character": "Deke",
+            "line": "This chute leads directly to the drop bay under the trawler. We can get to the airlock from there."
+        },
+        {
+            "character": "Simmons",
+            "line": "We use the device to create a gravity well."
+        },
+        {
+            "character": "Mack",
+            "line": "Will it work?"
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, it'll work."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's our best option at this point."
+        },
+        {
+            "character": "Deke",
+            "line": "I'll go first. I'll show you how it works. And then I'll drop the puck down, the next person can come up."
+        },
+        {
+            "character": "All",
+            "line": "No. No, no, no."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not a chance. I'm not gonna let you use us as bait while you make your grand escape. Fitz-Simmons, you're up. You're last."
+        },
+        {
+            "character": "Sinara",
+            "line": "You're slow."
+        },
+        {
+            "character": "Fitz",
+            "line": "Once more unto the breach."
+        },
+        {
+            "character": "Simmons",
+            "line": "Allons-y."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, Yo-Yo, you're up next. Let's keep it moving."
+        },
+        {
+            "character": "Maston-Dar",
+            "line": "Stand back. I'll handle them."
+        },
+        {
+            "character": "Deke",
+            "line": "I'm the last one. You satisfied?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You sure they can't follow us?"
+        },
+        {
+            "character": "Deke",
+            "line": "No, they can definitely follow us. It's gonna take them a while."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right. So you ready to take this thing out?"
+        },
+        {
+            "character": "Deke",
+            "line": "What, me? I'm not a pilot."
+        },
+        {
+            "character": "Daisy",
+            "line": "What? You don't know how to fly this thing?"
+        },
+        {
+            "character": "Deke",
+            "line": "Never said I did."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. What about you, Flint? Wasn't Virgil giving you flying lessons?"
+        },
+        {
+            "character": "Flint",
+            "line": "Well, yeah. And I'm not bad, but, uh... I'm not leaving with you guys."
+        },
+        {
+            "character": "Mack",
+            "line": "What do you mean you're not leaving with us? You have to. This whole station will kill you on sight."
+        },
+        {
+            "character": "Flint",
+            "line": "Look, you told me to use my powers to protect people, right? They're in this mess because of me. I can't just abandon them. I'm gonna figure out a way to get them out of it."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Well, I guess we're gonna have to come up with a plan, then, don't we?"
+        },
+        {
+            "character": "Flint",
+            "line": "“We?”"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, we. Remember what I told you? I'm here if you need me. I got you."
+        },
+        {
+            "character": "Elena",
+            "line": "Me too."
+        },
+        {
+            "character": "Coulson",
+            "line": "Wait. Mack. what about never splitting up?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I know, sir, but I'm not leaving him behind. Look. We'll handle things here. You get to the surface and figure out what the hell all this is about."
+        },
+        {
+            "character": "Coulson",
+            "line": "Be safe."
+        },
+        {
+            "character": "Mack",
+            "line": "I'll see you soon."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Wait. Wait, wait, wait, wait. Okay, if you guys really are gonna go fight a bunch of alien warriors, then you might be interested to know that, in the past, I hid a crate of S.H.I.E.L.D. tech in a wall on the base."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, that's what I'm talking about. Thanks, Turbo."
+        },
+        {
+            "character": "Elena",
+            "line": "Where?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Level three."
+        },
+        {
+            "character": "Mack",
+            "line": "You got to be kidding me."
+        },
+        {
+            "character": "Elena",
+            "line": "You mean the level infested with aliens that suck your blood?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, how was I su... I feel like I'm not getting enough credit here. I have traveled through time and space to find you. I think we're moving past that bit a little bit too quickly."
+        },
+        {
+            "character": "Mack",
+            "line": "Turbo, Turbo, Turbo. We wouldn't expect anything less. Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good luck."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, taking off is easy enough, docking is the hard part, and landing, that's impossible on account of these ships weren't built with landing gear."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, you have no idea what you're doing."
+        },
+        {
+            "character": "Coulson",
+            "line": "I got a flying car. How different can it be? Hold on."
+        }
+    ]
+}

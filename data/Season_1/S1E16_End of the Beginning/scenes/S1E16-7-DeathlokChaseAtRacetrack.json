@@ -1,0 +1,256 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 7,
+    "scene_name": "DeathlokChaseAtRacetrack",
+    "description": "Using the tracer, the team tracks Deathlok to a deserted racetrack. Coulson, May, Ward, Skye, Fitz, and Garrett coordinate a tactical pursuit, but Deathlok eludes them, forcing the agents into a tense and dangerous search. Inside the facility, Coulson and Garrett discover Nash alive and apparently controlling the room’s surveillance. Thomas Nash claims to be the Clairvoyant, taunting the agents with psychological manipulation.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I want this perimeter sealed. Two-man teams on every exit."
+        },
+        {
+            "character": "Agent",
+            "line": "Yes, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, you got a signal?"
+        },
+        {
+            "character": "Fitz",
+            "line": "94%, sir. Deathlok must be inside somewhere."
+        },
+        {
+            "character": "May",
+            "line": "Possible civilians inside?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Highly doubtful. This racetrack's been shut down for months."
+        },
+        {
+            "character": "May",
+            "line": "Move out!"
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, run a back end from the tactical van. You, I want you 6 feet from Skye at all times, weapons hot."
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, it's okay. I'm ready."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward's right. I feel bad enough you're already back in the field. I'm not taking any chances with your safety."
+        },
+        {
+            "character": "Garrett",
+            "line": "This isn't a surprise party, people, so you can toss stealth out the window. Our target's wearing body armor and has enhanced cybernetics. Make your shots count. Let's move."
+        },
+        {
+            "character": "Ward",
+            "line": "You ringing the bell or knocking?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Knocking, of course."
+        },
+        {
+            "character": "Agent",
+            "line": "Clear!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, you're up."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's time to hunt, boys. Let's find us a Deathlok."
+        },
+        {
+            "character": "Garrett",
+            "line": "Impressive toy."
+        },
+        {
+            "character": "Fitz",
+            "line": "I prefer the term “high-tech hardware.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, you online? Hang on."
+        },
+        {
+            "character": "Skye",
+            "line": "Northwest corridor is getting something. I'm pulling up a live feed. I can't confirm it's him. Initiating multi-spectrum overlay. What the hell did they do to him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you seeing?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's not just his leg or his eye. They did stuff to him. It's all under his skin."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, signal's dead. Retriever's down."
+        },
+        {
+            "character": "May",
+            "line": "He knows we're here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz, get back to the van now."
+        },
+        {
+            "character": "Ward",
+            "line": "Contact! Take cover!"
+        },
+        {
+            "character": "Skye",
+            "line": "Ward, are you okay?"
+        },
+        {
+            "character": "Ward",
+            "line": "Uh, I got two men down. We need a med team!"
+        },
+        {
+            "character": "Skye",
+            "line": "Requesting one now. May, he's coming your way."
+        },
+        {
+            "character": "May",
+            "line": "Got him!"
+        },
+        {
+            "character": "Coulson",
+            "line": "He just ducked into the Southwest stairwell. In pursuit. All teams... he's headed into the sub-basement. I do not have a visual. Fitz, you have a retriever down here?"
+        },
+        {
+            "character": "Fitz",
+            "line": "On their way."
+        },
+        {
+            "character": "Garrett",
+            "line": "Easy. I come in peace."
+        },
+        {
+            "character": "Coulson",
+            "line": "How about a signal next time? Fitz, you getting this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, barely, sir. It leads down into the sewer system. That's under at least... 40 feet of concrete? We'll be blind down there."
+        },
+        {
+            "character": "Garrett",
+            "line": "Where's that little guy going?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir, there's someone else down there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that."
+        },
+        {
+            "character": "Garrett",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Nash",
+            "line": "Agent Coulson, Agent Garrett, I surrender. Forgive me if we don't shake hands. I don't like to be touched."
+        },
+        {
+            "character": "Ward",
+            "line": "Sir, we've got a lot of wires back here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't touch anything. We need this room swept for explosives."
+        },
+        {
+            "character": "Nash",
+            "line": "There are no traps here, Agent Coulson. You're here because we are destined to meet."
+        },
+        {
+            "character": "Garrett",
+            "line": "You're the Clairvoyant?"
+        },
+        {
+            "character": "Nash",
+            "line": "I'm Thomas Nash. Mr. Po gave me that other name. A bit dramatic for my taste."
+        },
+        {
+            "character": "Coulson",
+            "line": "Eyes open, everybody. We don't know where Deathlok is or who else is down here."
+        },
+        {
+            "character": "Nash",
+            "line": "Mr. Peterson is gone. I cut his feed, so you won't find him."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you had him lead us here. Why?"
+        },
+        {
+            "character": "Nash",
+            "line": "So I could see you with my own eyes instead of his. Now I understand why I couldn't see you after you died... because you, yourself, could not see. You were simply a broken man who did not know he was broken."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're one to talk."
+        },
+        {
+            "character": "Garrett",
+            "line": "Let's pack this freak off to the fridge where he belongs."
+        },
+        {
+            "character": "Nash",
+            "line": "Agent Garrett, look at me. Do you believe you can confine me any more than this chair?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Can somebody please tell me how we turn that stupid voice thing off?"
+        },
+        {
+            "character": "Nash",
+            "line": "I will join Raina in your prison, Agent Coulson, but I will see you wherever you go, just as I saw you holding Skye in your arms, bleeding... dying... knowing it was all your fault."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're going away. We're gonna stick you in a little box where no one will ever hear you again."
+        },
+        {
+            "character": "Nash",
+            "line": "I see you're angry. Head clouded with lies. You've been betrayed, and now you fear what's about to happen. Nothing's about to happen. Just more empty threats from you. No. It is the inevitable. A force beyond your comprehension is coming for you... you and Skye. She has something we want. And she will die giving it to us. I have seen it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go to hell."
+        },
+        {
+            "character": "Nash",
+            "line": "No matter where I go or what you do to me, I will always..."
+        },
+        {
+            "character": "Coulson",
+            "line": "What did you do?"
+        }
+    ]
+}

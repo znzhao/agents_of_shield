@@ -1,0 +1,60 @@
+{
+    "season": 1,
+    "episode": 9,
+    "num": 5,
+    "scene_name": "InterrogatingHannah",
+    "description": "Coulson and May enter the protected interrogation room to question Hannah, who is distraught and believes herself cursed or haunted by demons. She is overcome with guilt for the explosion and deaths, while Coulson tries to reassure her. May presses Hannah to explain her fears, but Hannah insists she is being punished by God, not suffering from telekinesis.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Brought you some water. It's okay. I'm Phil. This is Melinda May."
+        },
+        {
+            "character": "Hannah",
+            "line": "How did I get here?"
+        },
+        {
+            "character": "May",
+            "line": "I sedated you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I apologize for bringing you in that way. Things were escalating. It was for everyone's safety."
+        },
+        {
+            "character": "Hannah",
+            "line": "Everyone's safety. Good. Okay. Oh, lord, what have I done?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I promise you, Miss Hutchins, nobody was hurt back there."
+        },
+        {
+            "character": "Hannah",
+            "line": "Wherever I go, things turn bad."
+        },
+        {
+            "character": "May",
+            "line": "Were you angry at those people, back at the house?"
+        },
+        {
+            "character": "Hannah",
+            "line": "Um, angry? No. I know most of them. They were angry. I understand. Oh, god. Frank's wife... the way she was looking at me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Frank Delacort. He died in the accident."
+        },
+        {
+            "character": "Hannah",
+            "line": "Because of me, they're gone. I killed them."
+        }
+    ]
+}

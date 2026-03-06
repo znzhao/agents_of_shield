@@ -1,0 +1,68 @@
+{
+    "season": 1,
+    "episode": 2,
+    "num": 7,
+    "scene_name": "CoulsonAndReyesRekindle",
+    "description": "Coulson gives Reyes a tour of his collection of vintage devices and their shared past. The old chemistry and tension between them is apparent, hinting at romantic history. Meanwhile, Ward notices suspicious activity from Reyes' men and prepares for possible treachery.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "romantic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "First walkie-talkie wristwatch, 1936, Poland. They only made 20, I think. Still works."
+        },
+        {
+            "character": "Camilla",
+            "line": "I forgot you're such a sentimentalist, Phillip. Romanticizing history."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, most of it's glued down. There was an elegance to things back then."
+        },
+        {
+            "character": "Camilla",
+            "line": "There we agree."
+        },
+        {
+            "character": "Coulson",
+            "line": "With everything around us changing so quickly, it doesn't hurt to have a few touchstones to the past. Reminds me what's important."
+        },
+        {
+            "character": "Camilla",
+            "line": "The last thing I want to do is relive days gone by. A few nights, maybe."
+        },
+        {
+            "character": "Coulson",
+            "line": "I see what you're doing."
+        },
+        {
+            "character": "Camilla",
+            "line": "I'm reminiscing. This plane is such a step up from the R.V. we used to work out of when you were stationed in Cusco."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't remember much working. I also don't remember you being this direct."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye, hand me the bottle."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, Turbo, but you're still nursing the one you got."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm not the only one."
+        },
+        {
+            "character": "Camilla",
+            "line": "We're stuck above the clouds for the next few hours. We might as well enjoy ourselves. We could make a few more memories to add to your collection. What do you think?"
+        }
+    ]
+}

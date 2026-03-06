@@ -1,0 +1,57 @@
+{
+    "season": 7,
+    "episode": 6,
+    "num": 10,
+    "scene_name": "DekeDiscoversEnochsTrueMission",
+    "description": "Deke finds Enoch apparently operating on Simmons and mistakenly thinks he is harming her, taking Enoch down to 'save' his grandmother. However, Simmons reveals Enoch was fixing her memory implant to keep hidden Fitz's location. Deke learns the true stakes of keeping Fitz secret, and Simmons enlists Deke to help her fix both the ship and her memory.",
+    "roles": [
+        "jemma_simmons",
+        "deke_shaw",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "What the hell? Nana, wake up. Something happened. Enoch's a traitor. Are you okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Deke? Deke... what have you done?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bad time?"
+        },
+        {
+            "character": "Lilla",
+            "line": "Keep pushing, Huggies."
+        },
+        {
+            "character": "Elena",
+            "line": "I call him Turtleman."
+        },
+        {
+            "character": "Lilla",
+            "line": "'Cause he slowly won you over?"
+        },
+        {
+            "character": "John",
+            "line": "Slow and steady wins the race. Aah! Gah! Damn it! Sorry."
+        },
+        {
+            "character": "Mack",
+            "line": "Here, take this. Yo-Yo, stay here, keep working the door."
+        },
+        {
+            "character": "Lilla",
+            "line": "Where are you going?"
+        },
+        {
+            "character": "Mack",
+            "line": "To make sure they don't come anywhere near you guys."
+        }
+    ]
+}

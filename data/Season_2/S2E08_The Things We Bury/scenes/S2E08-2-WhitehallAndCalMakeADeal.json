@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 2,
+    "scene_name": "WhitehallAndCalMakeADeal",
+    "description": "In the present, Dr. Whitehall berates his scientists for their lack of results with the Diviner, then brings in Skye’s father, Cal. Cal mocks HYDRA’s efforts and reveals that the Diviner is not just a weapon, but a key for a chosen worthy few to unlock greater power in a hidden temple. This exchange establishes the new alliance forming between Whitehall and Cal, transforming HYDRA’s understanding of the relic.",
+    "roles": [
+        "daniel_whitehall",
+        "calvin_johnson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Whitehall",
+            "line": "With all of modern science and millions of dollars at your disposal, these are your results? I've had this information for decades. Bring him in."
+        },
+        {
+            "character": "Whitehall",
+            "line": "It's time to prove your claim, that you're an expert on this Diviner."
+        },
+        {
+            "character": "Cal",
+            "line": "I could have saved you weeks of work. Instead, you kept scratching and pawing at it like a monkey, expecting new results... the very definition of insanity."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Mr. Bakshi's disappearance has everyone on edge. These men will remain in case your temper returns."
+        },
+        {
+            "character": "Cal",
+            "line": "Not necessary, I assure you. Cool as a cucumber. Smart to play it safe. Tell me what you do know, sir, and I'll fill in the blanks."
+        },
+        {
+            "character": "Whitehall",
+            "line": "I know that a special few can touch it without suffering. But I have yet to figure out how this weapon can be..."
+        },
+        {
+            "character": "Cal",
+            "line": "Weapon? That's so small-minded. Uh, for someone with such a big mind. It's a key. It can kill, sure, but only to protect itself from those it doesn't divine... hence the catchy name... to be worthy."
+        },
+        {
+            "character": "Whitehall",
+            "line": "I'm interested in science, doctor, not folklore."
+        },
+        {
+            "character": "Cal",
+            "line": "Worthy of unlocking its true power. Oh, I got your attention. There's a place, and if one of those special people you speak of takes this Diviner to that special place, it won't just kill. It will do something... scientifically speaking... much, much cooler."
+        }
+    ]
+}

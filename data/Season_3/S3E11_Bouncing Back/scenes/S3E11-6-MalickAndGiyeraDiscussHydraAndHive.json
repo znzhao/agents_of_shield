@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 11,
+    "num": 6,
+    "scene_name": "MalickAndGiyeraDiscussHydraAndHive",
+    "description": "Giyera and Malick confer about their losses and Hydra's need to replenish Inhuman operatives, expressing doubt over the newly returned Inhuman's (Hive's) current state. Their conversation is ominous as they witness Hive regaining strength, hinting at the significant threat he poses.",
+    "roles": [
+        "gideon_malick",
+        "giyera"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Giyera",
+            "line": "We were alerted to a police report, Bogota, Colombia. I've dispatched a team."
+        },
+        {
+            "character": "Malick",
+            "line": "We need to replace our losses. Dr. Garner did a lot of damage, and our guest needs Inhumans. You have doubts."
+        },
+        {
+            "character": "Giyera",
+            "line": "He can barely stand, doesn't speak."
+        },
+        {
+            "character": "Malick",
+            "line": "Because he spent hundreds of years clinging to life, trying to survive on the few men we were able to sacrifice every few decades. But I'm not a fool. Keep your eyes open. I don't want my faith to be misplaced."
+        },
+        {
+            "character": "Man",
+            "line": "Sir, he's asking for you."
+        },
+        {
+            "character": "Malick",
+            "line": "He spoke?"
+        },
+        {
+            "character": "Malick",
+            "line": "How can I help you? What do you need?"
+        },
+        {
+            "character": "Hive",
+            "line": "I'm hungry."
+        }
+    ]
+}

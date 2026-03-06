@@ -1,0 +1,36 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 2,
+    "scene_name": "MalickAndSibylOnZephyrOne",
+    "description": "Onboard the Zephyr One, Nathaniel Malick relishes their isolation above Earth as he instructs his crew and sends a signal. Deke makes a quip referencing Nakatomi Plaza, while Nathaniel assures Kimball that S.H.I.E.L.D. can't reach them. The atmosphere is tense and villainous, establishing the antagonists' removal from Earth and furthering their plans.",
+    "roles": [
+        "nathaniel_malick",
+        "deke_shaw"
+    ],
+    "vibe": "dark",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Shepard",
+            "line": "50,000 miles above Earth and rising, sir."
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Should be a killer view. And lay off the “sir.” We're trying to make it so no one has to call anyone “sir” ever again. Send the signal."
+        },
+        {
+            "character": "Kimball",
+            "line": "S.H.I.E.L.D. can't follow us?"
+        },
+        {
+            "character": "Nathaniel",
+            "line": "Not at this range. We're all alone up here."
+        },
+        {
+            "character": "Deke",
+            "line": "Just like Nakatomi Plaza. Yipee-ki-yay?"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 16,
+    "scene_name": "BusTeamRecoversAndHydraAllianceFormed",
+    "description": "Skye updates Coulson that their network-hacking operation is underway and that Triplett is recovering under Simmons’ care. The team waits for the computer to find a match for the city, reflecting on the harrowing events and the confrontation with Cal. Meanwhile, at Hydra headquarters, Whitehall introduces Grant Ward and Cal to each other, acknowledging their combined expertise as a threat to S.H.I.E.L.D. Cal ends the episode vowing revenge for his lost love, driven to tear Coulson apart.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "antoine_triplett",
+        "daniel_whitehall",
+        "grant_ward",
+        "calvin_johnson"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "It's been running for a few hours. 26 satellites scouring the world for your map."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good."
+        },
+        {
+            "character": "Skye",
+            "line": "Multispectral images, ground-penetrating radar. Now we wait for the ding that says we have a match. If there's evidence of this city on Earth, the computer will find it. Guys? Is everything okay? They're patching Trip up and he's gonna to be fine, but you're acting like you saw the devil out there. What?"
+        },
+        {
+            "character": "Whitehall",
+            "line": "Doctor, how nice to see you. Please, come... sit. You've had a long night."
+        },
+        {
+            "character": "Cal",
+            "line": "You should tell me when we're having a meeting. I would've freshened up."
+        },
+        {
+            "character": "Whitehall",
+            "line": "Mr. Ward here is something of an expert on S.H.I.E.L.D., and you an expert on the Obelisk. Together, I think there's much we can achieve."
+        },
+        {
+            "character": "Ward",
+            "line": "I was a member of Coulson's team. Lived with them for months."
+        },
+        {
+            "character": "Cal",
+            "line": "So you know the entire team."
+        },
+        {
+            "character": "Ward",
+            "line": "Like family. Heard you crossed Coulson. That can be rough."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh, it wasn't a complete loss. It's always good to look your enemy right in the eye."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh, god. Oh, god. Oh, my love. I'll find him. I'll do to him what he did to you. I will tear him apart!"
+        }
+    ]
+}

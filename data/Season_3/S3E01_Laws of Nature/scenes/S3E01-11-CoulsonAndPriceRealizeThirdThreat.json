@@ -1,0 +1,64 @@
+{
+    "season": 3,
+    "episode": 1,
+    "num": 11,
+    "scene_name": "CoulsonAndPriceRealizeThirdThreat",
+    "description": "Both Coulson's and Price's phones ring simultaneously, signifying an emergent new threat. They realize a third party is involved in the string of Inhuman deaths, not either of their organizations. Tension mounts as Coulson and Hunter make moves to escape their captors and the mounting chaos.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Woman",
+            "line": "911, what's your emergency?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If we're both getting the call, then I think we know what it's about."
+        },
+        {
+            "character": "Price",
+            "line": "You'll have to excuse me."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you don't take it out of my pocket, it's just gonna ring like that forever."
+        },
+        {
+            "character": "Coulson",
+            "line": "I guess you guys didn't do all your homework."
+        },
+        {
+            "character": "Price",
+            "line": "That many! In a hospital? How close is the response team?"
+        },
+        {
+            "character": "Mack",
+            "line": "He's gone!"
+        },
+        {
+            "character": "Man",
+            "line": "Contain the alien threats at all costs. Use lethal force if necessary."
+        },
+        {
+            "character": "Daisy",
+            "line": "Come with us. We'll keep you safe. Your life is in danger."
+        },
+        {
+            "character": "Lincoln",
+            "line": "My life is in ruins."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lincoln!"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy, Daisy! He's on his own. We got to get you out of here. They're hunting you, too. Come on. Let's go."
+        }
+    ]
+}

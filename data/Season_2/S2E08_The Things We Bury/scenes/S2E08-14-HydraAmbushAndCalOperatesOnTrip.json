@@ -1,0 +1,203 @@
+{
+    "season": 2,
+    "episode": 8,
+    "num": 14,
+    "scene_name": "HydraAmbushAndCalOperatesOnTrip",
+    "description": "Coulson’s team carries out the satellite operation in Australia, but they are ambushed by Hydra. Triplett is mortally wounded. Cal (Skye's father) appears and offers his medical expertise, manipulating the situation to use Triplett's life as leverage to escape. He reveals knowledge of Skye and the Diviner, setting conditions for Triplett’s survival, and escapes during the chaos, leaving Coulson to stabilize Trip.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "antoine_triplett",
+        "calvin_johnson"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "This doesn't feel right. Skye, you reading us?"
+        },
+        {
+            "character": "Skye",
+            "line": "Standing by with geek squad. Paddington and Timelord are closing in. E.M.P. ready in 40 seconds."
+        },
+        {
+            "character": "Coulson",
+            "line": "Copy that."
+        },
+        {
+            "character": "Skye",
+            "line": "Kaena point is down. Six minutes on the clock. Guys?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye, there's something jamming us..."
+        },
+        {
+            "character": "Triplett",
+            "line": "Down! Down! Ambush!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz! Untie the crew! HYDRA! How the hell'd they get here?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, it's coming alive! The server's online!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Time to move! Find the access point! We can't miss this window! Follow me! Now!"
+        },
+        {
+            "character": "Skye",
+            "line": "Get comms back online. You guys are my satellite wranglers. I need vector scripts ready to execute the second Fitz get us on that network."
+        },
+        {
+            "character": "Coulson",
+            "line": "Lock yourselves inside. Go."
+        },
+        {
+            "character": "Triplett",
+            "line": "Stay down."
+        },
+        {
+            "character": "Fitz",
+            "line": "I need a few minutes."
+        },
+        {
+            "character": "Triplett",
+            "line": "Fitz, down! Unh!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Trip!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Ah, damn it, Trip. Trip, talk to me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, sir. He's gonna bleed out. We need to stop it."
+        },
+        {
+            "character": "Cal",
+            "line": "I can help. I'm a doctor."
+        },
+        {
+            "character": "Cal",
+            "line": "Put pressure there, please."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can you control it?"
+        },
+        {
+            "character": "Cal",
+            "line": "First went through clean. Second bullet is deep. There's a lot of blood. Got to get it out. Hand me the scalpel. Clamp. Forceps."
+        },
+        {
+            "character": "Coulson",
+            "line": "I prefer we stabilize and move."
+        },
+        {
+            "character": "Cal",
+            "line": "The bullet's holding the wound open. If we keep our heads about us, he has a chance, Phil. Shouldn't have said “Phil.” Not supposed to know that. You probably wouldn't recognize me from the picture I left for her, though. I haven't changed as much as she has since then. If I let go of this clamp, he dies. I just sliced this man's brachial artery. Mr. Coulson, hand me the gun. You too, son."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz. You'd use this man's life as a bargaining chip?"
+        },
+        {
+            "character": "Cal",
+            "line": "An opportunity, actually... to get out of this sticky situation. And we get to know each other a bit."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye wouldn't want Trip to die."
+        },
+        {
+            "character": "Cal",
+            "line": "She's not here, is she? That's a relief. I'm only gonna get one chance at a first impression. This doesn't look very good."
+        },
+        {
+            "character": "Coulson",
+            "line": "You've already made an impression... pile of bodies, going to work for Whitehall. I don't think it's good for Skye to..."
+        },
+        {
+            "character": "Cal",
+            "line": "You're not her father! You're S.H.I.E.L.D., who took her from me. I need Whitehall. The end will justify the means."
+        },
+        {
+            "character": "Coulson",
+            "line": "The end. And that's gonna happen in the city we're both here to find?"
+        },
+        {
+            "character": "Cal",
+            "line": "Yes. I anticipated you'd be close, but you're already tryin' map the Earth. I guess we had the same idea. Whitehall didn't even know about the city until I turned him on to it. He thinks the Diviner is just a weapon. He has no idea of its true power, of what's inside. Oh. There's something inside."
+        },
+        {
+            "character": "Coulson",
+            "line": "What are we talking about? Tesseract-level power?"
+        },
+        {
+            "character": "Cal",
+            "line": "Sure. I don't know what that is."
+        },
+        {
+            "character": "Coulson",
+            "line": "You realize we're talking life and death here."
+        },
+        {
+            "character": "Cal",
+            "line": "I know. It's exciting, isn't it? I mean, both sides racing to the temple, life and death, flesh and blood, emotions! Who knows how it'll shake out? All I know is, my baby's gonna be right there in the center of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know you want to meet her."
+        },
+        {
+            "character": "Cal",
+            "line": "Oh, I can't wait. I mean, I have to wait for the right circumstances, but..."
+        },
+        {
+            "character": "Coulson",
+            "line": "'Cause if you let this man die, Skye will never..."
+        },
+        {
+            "character": "Cal",
+            "line": "That's not her name! And I won't let him die. I'm gonna tell you just how to save him, which will give me time to get away. Two syringe packets inside. Sorry. It's a bit of a mess in there. When I release this, you're gonna pump his wounds full of that clotting agent as fast as you can if you want to save his life. And apply pressure, okay? Here we go."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll find you. And when we do, you and I will finish this conversation."
+        },
+        {
+            "character": "Cal",
+            "line": "I look forward to it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz! Quickly, Fitz, quick."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, done."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get the other one ready."
+        },
+        {
+            "character": "Skye",
+            "line": "We haven't heard from them in over five minutes. Wait. Wait, wait, wait. The transceiver is powering up. Yes, Fitz! Okay. Prioritize all thermal and ground-penetrating imaging."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Hold on, Trip. Hold on. Okay. Come on. Okay. He's stabilizing."
+        }
+    ]
+}

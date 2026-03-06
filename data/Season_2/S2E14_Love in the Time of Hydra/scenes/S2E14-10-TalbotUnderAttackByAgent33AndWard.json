@@ -1,0 +1,52 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 10,
+    "scene_name": "TalbotUnderAttackByAgent33AndWard",
+    "description": "General Talbot's base is infiltrated, as his security precautions are tested when Agent 33 uses her mask to impersonate Talbot's wife. Ward exploits the breach, facilitating their access and creating chaos. Talbot quickly realizes the situation, orders a lockdown, and rallies his men to find the intruders, intensifying the threat posed by Ward and Agent 33.",
+    "roles": [
+        "grant_ward",
+        "glenn_talbot"
+    ],
+    "vibe": "suspenseful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Officer",
+            "line": "Is everything okay, Mrs. Talbot?"
+        },
+        {
+            "character": "Officer",
+            "line": "It's not that, ma'am. It sounds like you have a cold."
+        },
+        {
+            "character": "Officer",
+            "line": "How about I just call the general, get this all straightened out?"
+        },
+        {
+            "character": "Talbot",
+            "line": "The thing about a riding mower is it gives you a superior cut, lets you control the terrain."
+        },
+        {
+            "character": "Lieutenant",
+            "line": "That's very informative, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "Ah. You got two hands, four wheels... one saddle. That's really what it's all about, lieutenant."
+        },
+        {
+            "character": "Lieutenant",
+            "line": "General Talbot's office. I see. It's security. Your wife left her I.D. at home again."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's a little early for taco Tuesday, isn't it? All right. Send her up."
+        },
+        {
+            "character": "Officer",
+            "line": "Yes, ma'am. Sorry about the wait, Mrs. Talbot. You're all set. I hope you feel better."
+        }
+    ]
+}

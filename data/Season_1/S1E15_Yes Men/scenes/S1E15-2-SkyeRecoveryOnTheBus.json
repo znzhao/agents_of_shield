@@ -1,0 +1,141 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 2,
+    "scene_name": "SkyeRecoveryOnTheBus",
+    "description": "On the S.H.I.E.L.D. Bus, Skye wakes up from her injuries and interacts with Simmons and Ward. Simmons checks on Skye’s health, while Ward reassures her and updates her on Mike Peterson’s status. The conversation is a mix of relief and lingering concern, discussing what happened to Skye and her desire to train harder, setting up ongoing story threads.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "No! What did I say?"
+        },
+        {
+            "character": "Skye",
+            "line": "Damn it. Every time. It's like you have a sensor for whenever my butt lifts off the bed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Back in it."
+        },
+        {
+            "character": "Skye",
+            "line": "I just want to stretch my legs."
+        },
+        {
+            "character": "Simmons",
+            "line": "Now."
+        },
+        {
+            "character": "Skye",
+            "line": "Look! There's color in my cheeks. Breathing without... feeling like my whole body's on fire. I'm good."
+        },
+        {
+            "character": "Simmons",
+            "line": "“Good” is not the appropriate word to describe your state. You've been shot twice, had your stomach perforated, and a breathing tube shoved down your throat. “Better” is the more accurate word."
+        },
+        {
+            "character": "Skye",
+            "line": "Again with the blood drive? I'm not gonna have anything left. Not sure how I feel about Dr. Simmons. She's so strict. Ow. And pokey."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, patient Skye is unruly and stubborn."
+        },
+        {
+            "character": "Skye",
+            "line": "And grateful. I hope you know that."
+        },
+        {
+            "character": "Simmons",
+            "line": "I didn't do it alone."
+        },
+        {
+            "character": "Skye",
+            "line": "Still, I'm the most... “grateful-est-est” patient alive."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's not even a word."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. This a bad time?"
+        },
+        {
+            "character": "Skye",
+            "line": "It is if you're here to bust me out. The Warden has extended house arrest."
+        },
+        {
+            "character": "Simmons",
+            "line": "Awful accent."
+        },
+        {
+            "character": "Skye",
+            "line": "I must look terrible! Simmons won't even bring me a mirror."
+        },
+        {
+            "character": "Ward",
+            "line": "I've seen worse."
+        },
+        {
+            "character": "Skye",
+            "line": "Wow. Thanks."
+        },
+        {
+            "character": "Ward",
+            "line": "No, I mean, you look better than when you were dying."
+        },
+        {
+            "character": "Skye",
+            "line": "Swinging and a-missing, Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "It's great to see you... better."
+        },
+        {
+            "character": "Skye",
+            "line": "It was so stupid to go in there alone."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey. There's no point in doing that now. You were brave. Thanks to you, every S.H.I.E.L.D. agent in the country knows Mike Peterson's alive."
+        },
+        {
+            "character": "Skye",
+            "line": "You tell them about his magic leg?"
+        },
+        {
+            "character": "Ward",
+            "line": "I didn't call it that, but yes. Agent Garrett's running point on Mike. Thinks he's part of some project called Deathlok."
+        },
+        {
+            "character": "Skye",
+            "line": "He looked like death. You should have... He wouldn't even look at me. They did something to him. He needs help."
+        },
+        {
+            "character": "Ward",
+            "line": "He's past help. He was there with you, Skye... could have protected you. He let this happen to you. And I'll never forgive that."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, I-I need to better protect myself, so... when Simmons gives the all-clear, we'll start training?"
+        },
+        {
+            "character": "Ward",
+            "line": "We'll ease you back into it."
+        },
+        {
+            "character": "Skye",
+            "line": "No. I want to train harder. Next time, I don't want to depend on some miracle drug to save me."
+        }
+    ]
+}

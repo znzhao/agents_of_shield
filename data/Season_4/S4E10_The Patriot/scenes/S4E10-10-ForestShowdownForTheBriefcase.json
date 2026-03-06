@@ -1,0 +1,57 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 10,
+    "scene_name": "ForestShowdownForTheBriefcase",
+    "description": "Back in the woods, Mace, Mack, and Coulson spot mercenaries searching for Burrows and the briefcase. A plan is hatched: Mack and Coulson flank the merc team while Mace tries a direct approach. When a thug threatens him, Mace grabs the case and flees, but is confronted and injured. Mack and Coulson rescue him, at which point Mace confesses his super-strength was due to a drug cocktail that was in the destroyed briefcase, revealing the truth about his lack of Inhuman abilities.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jeffrey_mace"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Well, this is a fly in the ointment."
+        },
+        {
+            "character": "Coulson",
+            "line": "This squad must've been searching the debris trail. Who knows how many others are out there? How worried should we be about them getting into that thing?"
+        },
+        {
+            "character": "Mace",
+            "line": "It's biometrically locked. Only I can open it."
+        },
+        {
+            "character": "Mack",
+            "line": "Unless they use explosives."
+        },
+        {
+            "character": "Coulson",
+            "line": "Still don't feel like telling us what's inside? Then I guess we're doing this. Mack and I can go around, ICE the three on the far side. Director, you take out the two by the case."
+        },
+        {
+            "character": "Mace",
+            "line": "Are we sure there aren't more inside?"
+        },
+        {
+            "character": "Mack",
+            "line": "If there are, you can always shot put them with your super-strength."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mace",
+            "line": "I'll make it work."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to move now."
+        }
+    ]
+}

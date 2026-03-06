@@ -1,0 +1,156 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 14,
+    "scene_name": "SHEILDAssaultsTheRoxxonPlant",
+    "description": "The S.H.I.E.L.D. team—Coulson, Mack, May, Fitz, Daisy, and Robbie—arrives at the Roxxon facility. They split up, intending to power down the plant and rescue Eli. Daisy discovers she can’t hack the old systems, forcing Fitz and Mack to disable the plant manually. The race is on as the power surges grow more unstable.",
+    "roles": [
+        "alphonso_mackenzie",
+        "leo_fitz",
+        "melinda_may",
+        "phil_coulson",
+        "robbie_reyes",
+        "skye"
+    ],
+    "vibe": "thrilling",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "They're definitely here. The plant started producing energy about an hour ago."
+        },
+        {
+            "character": "Mack",
+            "line": "The stats are high and very unstable. Turbines can blow and destroy the whole building, or the dam could break and wipe out everything in its path."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, no pressure."
+        },
+        {
+            "character": "Robbie",
+            "line": "What are we waiting for?"
+        },
+        {
+            "character": "May",
+            "line": "Remind me why he's here after what he did to Mace."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mr. Reyes wants the safe return of his Uncle as much as we want the power plant shut down."
+        },
+        {
+            "character": "Robbie",
+            "line": "And I'm gonna stop that lady the way I stopped the other ghosts."
+        },
+        {
+            "character": "May",
+            "line": "And who's gonna stop you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Hey, guys? I've got some big, fat, disappointing news. I can't hack in and shut down the plant's operating system from here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you're out of practice. Too much punching, not enough hacking."
+        },
+        {
+            "character": "Daisy",
+            "line": "Very funny. No, I can't hack in because their system isn't on a network. It predates the Internet. Coulson, how did anything ever get done back in the old-timey days?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I ask myself that all the time. Okay, you heard Daisy, we're gonna have to do this from the inside. Fitz and Mack are the engineers. Focus on shutting the power plant down. We'll rescue Eli Morrow."
+        },
+        {
+            "character": "Robbie",
+            "line": "Got it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, then."
+        },
+        {
+            "character": "Daisy",
+            "line": "West and down another level to the control room, and not that you care, but the power surges are growing more frequent and more intense."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're just full of good news today, aren't you?"
+        },
+        {
+            "character": "Daisy",
+            "line": "If it makes you feel any better, I'd rather be there with you than up here on injured reserve."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, are your comms working?"
+        },
+        {
+            "character": "May",
+            "line": "Negative. Just static."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, do you copy? Are you there?"
+        },
+        {
+            "character": "Lucy",
+            "line": "No. But I am."
+        },
+        {
+            "character": "Robbie",
+            "line": "Find my Uncle. I've got this."
+        },
+        {
+            "character": "Lucy",
+            "line": "Am I supposed to be afraid of you?"
+        },
+        {
+            "character": "Robbie",
+            "line": "My Uncle is Eli Morrow."
+        },
+        {
+            "character": "Lucy",
+            "line": "Of course. I've seen your picture. You're his nephew Gabriel, like the angel."
+        },
+        {
+            "character": "Robbie",
+            "line": "No. I'm the other one."
+        },
+        {
+            "character": "Lucy",
+            "line": "It wasn't supposed to be you boys. Joe hired that gang to take out Eli."
+        },
+        {
+            "character": "Robbie",
+            "line": "You think that makes me feel better?"
+        },
+        {
+            "character": "Lucy",
+            "line": "I don't care how it makes you feel. I just wanted you to understand why I'm going to kill him."
+        },
+        {
+            "character": "May",
+            "line": "They've re-created the entire experiment."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you to get this out of here."
+        },
+        {
+            "character": "May",
+            "line": "Okay, but shouldn't we dismantle all of this first?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If this book is half as powerful as everyone thinks it is, then getting it out of here and hiding it somewhere safe is our top priority. You're the only one I trust."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, this is bad, very bad."
+        }
+    ]
+}

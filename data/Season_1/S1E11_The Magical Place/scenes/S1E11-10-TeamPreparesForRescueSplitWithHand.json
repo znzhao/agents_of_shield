@@ -1,0 +1,124 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 10,
+    "scene_name": "TeamPreparesForRescueSplitWithHand",
+    "description": "Fitz, Simmons, Ward, and May reunite to discuss Skye’s findings. Skye delivers the lead on Centipede’s facility, and the group convinces Hand to let them investigate on their own, splitting the team as Hand leads the main strike elsewhere. Tensions run high as May and Hand discuss Skye’s effectiveness, while Ward insists on following the lead to rescue Coulson. The team solidifies their bond and heads out for a dangerous field mission.",
+    "roles": [
+        "skye",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "victoria_hand"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "The Centipede soldiers each have a port on their delivery device to inject refills of serum."
+        },
+        {
+            "character": "Fitz",
+            "line": "But with this injector cuff, we can use the port to our advantage."
+        },
+        {
+            "character": "Simmons",
+            "line": "By injecting a refined dose of dendrotoxin to incapacitate the soldier."
+        },
+        {
+            "character": "Ward",
+            "line": "How's it work?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh, just simply lock it around the Centipede soldier's forearm."
+        },
+        {
+            "character": "Fitz",
+            "line": "And night-night, superpowers."
+        },
+        {
+            "character": "Ward",
+            "line": "Sounds like riding a bull for eight seconds."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, exactly. It's that simple."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "Hello? Simmons, it's me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Why, hello... Dr. Nugent."
+        },
+        {
+            "character": "Skye",
+            "line": "Is someone there? God, don't try to lie. You are the worst at this. Remember our safe word."
+        },
+        {
+            "character": "Simmons",
+            "line": "Manscaping? Oh, I shouldn't have said that. Um, I am right as rain. Couldn't be better, old chap."
+        },
+        {
+            "character": "May",
+            "line": "You three, out."
+        },
+        {
+            "character": "Skye",
+            "line": "Listen up. I may have a lead on where Centipede's holding Coulson."
+        },
+        {
+            "character": "May",
+            "line": "Skye? What have you found?"
+        },
+        {
+            "character": "Hand",
+            "line": "We're about to launch a major assault on a Centipede lab, and you want to take your team to the desert based on a hunch from Skye?"
+        },
+        {
+            "character": "Ward",
+            "line": "It's not a hunch."
+        },
+        {
+            "character": "Fitz",
+            "line": "Skye followed the money from Vanchat back to Centipede."
+        },
+        {
+            "character": "Simmons",
+            "line": "Turns out they recently purchased a small development less than 100 miles from here."
+        },
+        {
+            "character": "Hand",
+            "line": "Well, that's great news for their real-estate portfolio, but we have confirmed activity at the lab. I'm taking a strike team to investigate. End of story."
+        },
+        {
+            "character": "May",
+            "line": "So we split up. You take the strike team and go after Centipede. We'll investigate Skye's lead, see if Coulson's there."
+        },
+        {
+            "character": "Hand",
+            "line": "You backed my decision to kick Skye off the plane."
+        },
+        {
+            "character": "May",
+            "line": "Seems like it worked out."
+        },
+        {
+            "character": "Hand",
+            "line": "Seems like you played me."
+        },
+        {
+            "character": "Ward",
+            "line": "Look, this isn't personal, but I am taking my team and we're gonna find Coulson. Send backup if you want."
+        }
+    ]
+}

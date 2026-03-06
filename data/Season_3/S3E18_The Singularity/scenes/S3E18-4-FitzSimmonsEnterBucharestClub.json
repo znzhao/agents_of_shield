@@ -1,0 +1,89 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 4,
+    "scene_name": "FitzSimmonsEnterBucharestClub",
+    "description": "Fitz, Simmons, and Mack arrive in Romania. FitzSimmons prepare for their undercover operation at the exclusive transhumanist club, discussing tactics and the stakes involved. As they make their entrance and pose as sellers of cybernetic eyes, Mack sets up a rendezvous point and monitors them remotely.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "mysterious",
+    "location": "Bucharest transhumanist club (black-market for cybernetics / Radcliffe contact)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Under the communist regime, public gatherings were prohibited in Bucharest, and people were forced to meet in private homes or secret clubs. Satellites caught Dr. Radcliffe entering one of those old clubs an hour ago."
+        },
+        {
+            "character": "Fitz",
+            "line": "We think transhumanists have turned it into a upscale black market for emerging technologies."
+        },
+        {
+            "character": "Mack",
+            "line": "Oh, good."
+        },
+        {
+            "character": "Fitz",
+            "line": "So Simmons and I will pose as top-level geneticists looking to make a sale."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, but, remember, this is a high-class establishment, so you got to dress the part, which means no lab coats on this one."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, do you think scientists only wear lab coats? Are we wearing them now?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. What, we walk around all day with goggles and gloves on, do we?"
+        },
+        {
+            "character": "Mack",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, like you, Radcliffe's not easy to please. He has refined tastes when it comes to human modifications."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and he's also a known recluse, which is why I'm hoping these little cybernetic bad boys will pique his interest enough to get him out of his shell. They're a variation of what's inside Deathlok."
+        },
+        {
+            "character": "Mack",
+            "line": "That's a different kind of carrot on a stick."
+        },
+        {
+            "character": "Simmons",
+            "line": "Innovation's the quickest way to a scientist's heart. If we can get him to appreciate what we do, hopefully, he'll help us with Daisy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and if that doesn't work, you can go and beat him up and drag him out, 'cause all you are is big and strong, hmm?"
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Okay, I'll never say another word about the lab coats again. All right, this room is our rendezvous point. If we get Radcliffe..."
+        },
+        {
+            "character": "Simmons",
+            "line": "We bring him back here."
+        },
+        {
+            "character": "Mack",
+            "line": "And if something goes wrong..."
+        },
+        {
+            "character": "Fitz",
+            "line": "We meet here."
+        },
+        {
+            "character": "Mack",
+            "line": "Good. 'Cause I'm not ready to lose another teammate today."
+        }
+    ]
+}

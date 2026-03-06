@@ -1,0 +1,142 @@
+{
+    "season": 1,
+    "episode": 16,
+    "num": 4,
+    "scene_name": "CovertTeamPreparations",
+    "description": "The agents engage in preparations for their respective missions with dialogue revealing their anxieties and motivations. Skye describes the double-blind approach for agent pairings, while Garrett encourages her. Fitz, Simmons, and May discuss the unknowns about Skye's recovery and the mysterious drug. The teams set out, each agent with only partial information to prevent the Clairvoyant from anticipating their moves.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "antoine_triplett"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Garrett",
+            "line": "You know, we haven't officially met. John Garrett."
+        },
+        {
+            "character": "Skye",
+            "line": "I guess lying unconscious in a gurney... really should not count."
+        },
+        {
+            "character": "Garrett",
+            "line": "How are you feeling?"
+        },
+        {
+            "character": "Skye",
+            "line": "A lot better, actually."
+        },
+        {
+            "character": "Garrett",
+            "line": "I've been shot a couple times myself... back, shoulder. Had my throat cut once. But you know the toughest one? Thing about a third-degree burn... the burn itself doesn't hurt at all. Crazy, right? The nerve endings get all fried. But the area around the burn? That smarts. Still, gut shot's the worst."
+        },
+        {
+            "character": "Skye",
+            "line": "Sir, I know what you did for me, how you risked your life to save me. So thank you."
+        },
+        {
+            "character": "Garrett",
+            "line": "You've got a good team around you. I just jumped on the bandwagon."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, you trained one of them, sir."
+        },
+        {
+            "character": "Garrett",
+            "line": "Guess it all comes full circle. Ward's your S.O., I was his. Turn, turn, turn. But this S.O. thing goes both ways. You've had a big impact on him. He's different than I remember him."
+        },
+        {
+            "character": "Skye",
+            "line": "Different how?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, the tough thing about being a specialist is being alone. A team gives you a whole new perspective. Guess it's the difference between fighting against something and fighting for something. Or someone. Ward's got that now. Thanks for this. And, Skye, lose the “sir.” I'm a S.H.I.E.L.D. agent, just like you."
+        },
+        {
+            "character": "May",
+            "line": "What's this?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Um, say you need to tag a fleeing vehicle... or a wild monkey, if it was to get away from you. These rounds are built with a micro-receiver, which enables you to track your target via satellite."
+        },
+        {
+            "character": "Simmons",
+            "line": "I've condensed all the blood-sample results into an encrypted file. Now if we just had access to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, we have a visitor."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. May. Hello."
+        },
+        {
+            "character": "May",
+            "line": "I assume you're talking about Skye's blood."
+        },
+        {
+            "character": "Simmons",
+            "line": "There's just so much we don't know."
+        },
+        {
+            "character": "Fitz",
+            "line": "The GH..."
+        },
+        {
+            "character": "Fitz",
+            "line": "I mean, we don't know what drug it is, where it came from."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, not to mention any potential side effects, short- or long-term."
+        },
+        {
+            "character": "Fitz",
+            "line": "We're just worried about Skye. And Agent Coulson, of course."
+        },
+        {
+            "character": "May",
+            "line": "Have either of them exhibited any side effects or strange behavior?"
+        },
+        {
+            "character": "Fitz",
+            "line": "“Strange” is such a subjective term."
+        },
+        {
+            "character": "Simmons",
+            "line": "No more than usual."
+        },
+        {
+            "character": "May",
+            "line": "Because if they have, or if they do in the future, feel free to contact me first. I can help. Okay?"
+        },
+        {
+            "character": "Skye",
+            "line": "Okay. You're all set."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hope you paired me with someone good... or interesting, at least. Stop worrying. You wear your heart on your sleeve. And your face. I trust your judgment. The way you see the world... it's different than the rest of us. That's why I want you to dig deeper into these."
+        },
+        {
+            "character": "Skye",
+            "line": "The candidates' psych evaluations?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The Clairvoyant thinks he can read our minds. See if you can read his. We need some insight into who this person really is, a weakness. So, do what you do... find the exploit. And stop worrying."
+        }
+    ]
+}

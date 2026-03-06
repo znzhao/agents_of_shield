@@ -1,0 +1,188 @@
+{
+    "season": 1,
+    "episode": 20,
+    "num": 12,
+    "scene_name": "MotelAftermathAndMayReturns",
+    "description": "At a motel, Coulson’s team tries to find solace after the harrowing events. Hill advises Coulson to give up the pursuit after finishing his vendetta against Garrett, suggesting that S.H.I.E.L.D. is over. Coulson resists, reluctant to disperse the team. In a more intimate moment, Fitz seeks reassurance from Simmons about their loyalties. The scene turns hopeful as Skye reveals to Coulson she left a surprise for Hydra on the decrypted drive. Melinda May finally arrives and shows Coulson the T.A.H.I.T.I. report’s secrets, closing the episode with Coulson reflecting on his own past involvement in the project.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "antoine_triplett"
+    ],
+    "vibe": "hopeful",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hill",
+            "line": "Wow. I can't believe he shot Lola."
+        },
+        {
+            "character": "Coulson",
+            "line": "I can't talk about it."
+        },
+        {
+            "character": "Hill",
+            "line": "Don't blame you for going after him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll need a base of operations, weapons, tactical backup. Who do you have working for you?"
+        },
+        {
+            "character": "Hill",
+            "line": "Okay, wait, wait. Hold on, Coulson. There is no more backup. No more hidden bunkers."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, come on. I know Fury has others."
+        },
+        {
+            "character": "Hill",
+            "line": "There's no Fury. We're not bringing the band back together again, Coulson. It's over. There is no S.H.I.E.L.D. anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well... not officially."
+        },
+        {
+            "character": "Hill",
+            "line": "Look, I get it, okay? You have to take Ward and Garrett down. But don't act like it's some officially sanctioned mission. It's a personal vendetta, and when it's done, you should walk. Let your people go their separate ways."
+        },
+        {
+            "character": "Coulson",
+            "line": "And what? Turn themselves in? Cut a deal? Work in the private sector?"
+        },
+        {
+            "character": "Hill",
+            "line": "You know Stark would take you in a heartbeat."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not my style."
+        },
+        {
+            "character": "Hill",
+            "line": "I should go. You know where to find me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Say hello to Stark for... Oh, yeah. Never mind. He thinks I'm dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Must be some reason why Ward did it. Maybe they brainwashed him."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't know. Some people are just evil."
+        },
+        {
+            "character": "Fitz",
+            "line": "I'd rather not believe that."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's true. I just assumed we'd be better at spotting it."
+        },
+        {
+            "character": "Fitz",
+            "line": "Tell me that you're not Hydra."
+        },
+        {
+            "character": "Simmons",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I know that it's ridiculous, but I just need to hear you say it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not Hydra."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, good. Good. And I ... ‘cause I'm not, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "Of course not."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah. Because if... if you ever did... I wouldn't. ... I don't know what I would do."
+        },
+        {
+            "character": "Simmons",
+            "line": "You'll never have to find out."
+        },
+        {
+            "character": "Skye",
+            "line": "Thought you didn't eat junk food."
+        },
+        {
+            "character": "Triplett",
+            "line": "I'm on vacation."
+        },
+        {
+            "character": "Skye",
+            "line": "Until...?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Until that man tells me it's time to work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not tonight. Live a little."
+        },
+        {
+            "character": "Triplett",
+            "line": "That case, I'm gonna go crazy. Maybe have another bag."
+        },
+        {
+            "character": "Coulson",
+            "line": "Never been homeless before."
+        },
+        {
+            "character": "Skye",
+            "line": "It's not fun. At least we have a pool."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll get him."
+        },
+        {
+            "character": "Skye",
+            "line": "I know. I left them a little present when I decrypted the drive. Should help."
+        },
+        {
+            "character": "Skye",
+            "line": "Thanks."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice night."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was hoping you'd come back. Ward is..."
+        },
+        {
+            "character": "May",
+            "line": "I know. Hill told me. There's something you need to see. You wanted to know who was behind T.A.H.I.T.I.? This is what I found out."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good morning, Director Fury. I regret to inform you that I'm handing in my resignation. I know you brought me on to project T.A.H.I.T.I. because you trusted my judgment, and it's that judgment that's telling me I can no longer, in good conscience, let the testing continue. I understand you started the program to potentially save a mortally wounded Avenger, but the side effects are too extreme. We had initial success with the regenerative properties of the guest-host tissue, but after the initial physical recovery, the subjects began to deteriorate mentally, displaying hypergraphia, aphasia, catatonia, or just complete psychosis. We don't know if it was the biology at play or simply the awareness of what was done, but the only course of action that showed any promise of stemming these side effects was memory replacement... erasing completely the awareness of what they'd been through. And even those results were very inconsistent. To be clear, I'm recommending the termination of project T.A.H.I.T.I. Under no circumstances should these procedures or drugs be administered to anyone ever. The cost is far too great. Thank you, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Huh."
+        }
+    ]
+}

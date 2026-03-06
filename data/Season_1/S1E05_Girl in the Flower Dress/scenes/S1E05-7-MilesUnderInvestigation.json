@@ -1,0 +1,25 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 7,
+    "scene_name": "MilesUnderInvestigation",
+    "description": "As Miles is held aboard the Bus, Skye debates him about S.H.I.E.L.D.’s ethics versus the Rising Tide’s manifesto. Ward and Simmons pursue evidence of his wrongdoing, uncovering financial transactions that reveal Miles sold information for a large sum. Skye is devastated by his betrayal, and Miles confesses he transferred information to a mysterious woman with interest in Centipede research, which connects to the team’s ongoing adversaries. The team realizes Miles enabled Centipede's next experiment.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "raina"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Miles",
+            "line": "So, I guess due process isn't really S.H.I.E.L.D. protocol."
+        }
+    ]
+}

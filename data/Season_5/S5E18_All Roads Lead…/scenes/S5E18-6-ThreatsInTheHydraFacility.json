@@ -1,0 +1,69 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 6,
+    "scene_name": "ThreatsInTheHydraFacility",
+    "description": "At the Hydra facility, Ruby and Werner continue to pressure Fitz and Simmons, threatening violence unless they work faster. Fitz creates a ruse to stall, but Ruby's unpredictable and dangerous temperament escalates the threat. Tensions mount as they realize their lives are truly at stake, and stakes for Earth's fate grow higher.",
+    "roles": [
+        "ruby",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "intense",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "No, hey! Hey, wait!"
+        },
+        {
+            "character": "Ruby",
+            "line": "Since you were taking a while. Is this above your grade level?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "No, no, no, no. They're S.H.I.E.L.D.'s best and brightest. There's nothing they can't do if motivated."
+        },
+        {
+            "character": "Simmons",
+            "line": "Torturing us isn't going to make us work any faster."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Well, you didn't seem to mind torture the last time we met. Electrocuting me. You two didn't have wedding rings, then, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "Please. We're doing what you asked."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Move. Move."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "The infuser's reversed. They're gonna have to start over."
+        },
+        {
+            "character": "Ruby",
+            "line": "You know, I only really need one of you. Two is starting to feel redundant."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, we're working with very limited resources on a very old machine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz! No! Stop it! Leave him alone! We'll fix it! We'll fix it!"
+        },
+        {
+            "character": "Ruby",
+            "line": "Hey. Eyes up. Look at me. Next time, it's her. And I won't use my fists."
+        }
+    ]
+}

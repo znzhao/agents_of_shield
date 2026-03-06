@@ -1,0 +1,172 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 12,
+    "scene_name": "TheBusTeamReunitesWithSkye",
+    "description": "On the S.H.I.E.L.D. Bus, the strike team is startled by unexpected noise and draw their weapons, only to find Skye has arrived. Awkward tension erupts as the old team is briefly reunited, with Ward’s attempt at apology met with open resentment from the others. Skye, Fitz, and Simmons exchange brief, warm moments before the team turns to focus on the mission details.",
+    "roles": [
+        "grant_ward",
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "What was that?"
+        },
+        {
+            "character": "May",
+            "line": "On your knees, now!"
+        },
+        {
+            "character": "Ward",
+            "line": "May, it wasn't me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then what the hell was it? Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "Hey, guys."
+        },
+        {
+            "character": "Ward",
+            "line": "This is great. We finally got the team back together."
+        },
+        {
+            "character": "Simmons",
+            "line": "How are they all? Are you making friends?"
+        },
+        {
+            "character": "Fitz",
+            "line": "How did you get the intel about the base?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can you control your powers, or...?"
+        },
+        {
+            "character": "Skye",
+            "line": "Yes. Yes, I-I promise I will tell you guys everything. It's a lot. You might not believe me, but just not now."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, we're just happy to see you, and you're being so secretive."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I'm happy to see you, too, but..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, we've got a mission to do, not much time, blah, blah, blah, blah, blah."
+        },
+        {
+            "character": "Skye",
+            "line": "No, Ward is here. I don't want to talk about anything personal in case he's just..."
+        },
+        {
+            "character": "Ward",
+            "line": "Did I hear my name?"
+        },
+        {
+            "character": "Skye",
+            "line": "He's like candyman."
+        },
+        {
+            "character": "Coulson",
+            "line": "We should review the op. Ward..."
+        },
+        {
+            "character": "Ward",
+            "line": "Mhm-hmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "... can't believe I'm saying this, bring us up to speed on Bakshi's intel."
+        },
+        {
+            "character": "Ward",
+            "line": "All right. Bakshi's using old HYDRA text channels to provide us with intel, although m... much of it is, uh... much... All right. Can we just address the elephant on the plane? I know. This is weird. Mistakes were made."
+        },
+        {
+            "character": "Fitz",
+            "line": "By you."
+        },
+        {
+            "character": "Ward",
+            "line": "And people got hurt."
+        },
+        {
+            "character": "Fitz",
+            "line": "By you."
+        },
+        {
+            "character": "Ward",
+            "line": "And I could stand here and explain again how my parents and brother left me vulnerable..."
+        },
+        {
+            "character": "May",
+            "line": "We all had our traumas, Ward. Didn't turn any of us into psychopaths."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, we all have our own ways of coping, don't we? For example, I was yours."
+        },
+        {
+            "character": "Coulson",
+            "line": "Watch it, Ward!"
+        },
+        {
+            "character": "Ward",
+            "line": "Look, I'm just saying we all made mistakes. Coulson handed me over to my abuser, thank you. Skye shot me..."
+        },
+        {
+            "character": "Simmons",
+            "line": "After you killed how many people?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and we were a team and a family, and you betrayed us!"
+        },
+        {
+            "character": "Ward",
+            "line": "I know. It's what I regret the most. Not the lying, the S.H.I.E.L.D. agents I had to put down, and I'm sorry not even dropping you two in the ocean. It's this. My actions destroyed this. I'll regret that forever. ‘Cause there were good times. Right? Before? I mean, for a while there, we were a good team. Weren't we?"
+        },
+        {
+            "character": "Skye",
+            "line": "I'm still happy I shot you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, me too."
+        },
+        {
+            "character": "Simmons",
+            "line": "Should've aimed for the face."
+        },
+        {
+            "character": "May",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guys... I know this is so weird, but we have to come back to the mission. Two teams. Skye, Ward, and Simmons on rescue and medical. Fitz and I will break in to missile defense and gather intel. May's with us for firepower."
+        },
+        {
+            "character": "Skye",
+            "line": "Wait. You're not on rescue?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let me handle the job assignments. The point is, there's a lot of challenges ahead. We don't want to implode before we even get there. And, Ward, just... no more talking... to people."
+        }
+    ]
+}

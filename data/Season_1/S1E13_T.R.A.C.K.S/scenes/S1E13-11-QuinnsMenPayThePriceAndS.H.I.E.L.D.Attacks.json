@@ -1,0 +1,65 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 11,
+    "scene_name": "QuinnsMenPayThePriceAndS.H.I.E.L.D.Attacks",
+    "description": "Mike Peterson violently confronts Quinn's Italian mercenary allies for drawing S.H.I.E.L.D. to their location, following the Clairvoyant's orders. Fitz, having heard the chaos, realizes the situation has spiraled out of control. At the same time, Coulson, May, Ward, and Fitz storm the villa, incapacitate Quinn, and search desperately for Skye. The adrenaline-charged sequence underlines the team's resolve and the grim costs of their mission.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "skye",
+        "ian_quinn",
+        "michael_peterson"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Mike",
+            "line": "The Clairvoyant isn't happy. You led S.H.I.E.L.D. right to us."
+        },
+        {
+            "character": "Mancini",
+            "line": "Let her go."
+        },
+        {
+            "character": "Fitz",
+            "line": "Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's Skye?"
+        },
+        {
+            "character": "Fitz",
+            "line": "S-s-she didn't want to let Quinn get away."
+        },
+        {
+            "character": "Skye",
+            "line": "Help, help... He..."
+        },
+        {
+            "character": "Smith",
+            "line": "Driver's not answering."
+        },
+        {
+            "character": "Quinn",
+            "line": "Ah. Coulson's team finally got here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Where's Skye?"
+        },
+        {
+            "character": "Quinn",
+            "line": "You know, Agent Coulson, it's dangerous... to keep sending her in like that, all alone... when she means so much to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Search the house. Find her! Now!"
+        }
+    ]
+}

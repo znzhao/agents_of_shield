@@ -1,0 +1,219 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "SkyePressesRathmanForInfo",
+    "description": "In Rathman’s office, Skye pressures him to access and print out his transaction history, tracing Centipede activities and uncovering Raina’s recent movements and the next likely hideout. Skye demonstrates her hacking skills and determination, underscoring her key role in tracking down Coulson's location.",
+    "roles": [
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Rathman",
+            "line": "You want me to hack into a Swiss bank account?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just need you to type in your private corporate I.D. to get me in the door."
+        },
+        {
+            "character": "Rathman",
+            "line": "Yeah, well, letting you in that door is a crime. Come to think of it, how do I know you're not just some criminal? In my experience, a federal agent shows a badge."
+        },
+        {
+            "character": "Skye",
+            "line": "You want to see my badge. S.H.I.E.L.D. protocol six alpha victor. There. That's my badge."
+        },
+        {
+            "character": "Rathman",
+            "line": "Great. Just got my high score in Tiny Wings."
+        },
+        {
+            "character": "Skye",
+            "line": "S.H.I.E.L.D.'s been watching you for quite some time, Mr. Rathman. You're a prime exploit... the gambling, the divorces, that money pit in the Caymans. You're even behind on your child-support payments."
+        },
+        {
+            "character": "Rathman",
+            "line": "Ugh, that's a clerical thing. My ex knows that."
+        },
+        {
+            "character": "Skye",
+            "line": "But does David know that?"
+        },
+        {
+            "character": "Rathman",
+            "line": "David thinks I'm a cool dad."
+        },
+        {
+            "character": "Skye",
+            "line": "David thinks you're a jackass. You got to fix that, Lloyd. Kids need someone they can look up to. Now... start typing."
+        },
+        {
+            "character": "Skye",
+            "line": "Ugh!"
+        },
+        {
+            "character": "Rathman",
+            "line": "Okay, I-I'm typing, I'm typing. You S.H.I.E.L.D. guys don't mess around."
+        },
+        {
+            "character": "Raina",
+            "line": "This is turning into an interesting day, isn't it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "So, you're my friend now? 'Cause I've seen what you do to your “friends.”"
+        },
+        {
+            "character": "Raina",
+            "line": "Mr. Po?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah."
+        },
+        {
+            "character": "Raina",
+            "line": "He was a murderer incapable of remorse."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was thinking of Mike Peterson, Chan Ho Yin."
+        },
+        {
+            "character": "Raina",
+            "line": "I gave them what they asked for. Mike wanted to be a hero to his son. Now he is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did Akela Amador want a bomb in her head?"
+        },
+        {
+            "character": "Raina",
+            "line": "The people you work for are just as capable of using cruel means to reach a justified end."
+        },
+        {
+            "character": "Coulson",
+            "line": "And who do you work for, Raina? The Clairvoyant?"
+        },
+        {
+            "character": "Raina",
+            "line": "Yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who is he?"
+        },
+        {
+            "character": "Raina",
+            "line": "I don't know. Today was the first time I personally made contact. My heart's still racing."
+        },
+        {
+            "character": "Coulson",
+            "line": "He has you building super soldiers."
+        },
+        {
+            "character": "Raina",
+            "line": "The Clairvoyant gives us guidance, formulas."
+        },
+        {
+            "character": "Coulson",
+            "line": "For what?"
+        },
+        {
+            "character": "Raina",
+            "line": "The changing world, the world your organization brought upon us. We're new to the business of what you've been doing for decades."
+        },
+        {
+            "character": "Coulson",
+            "line": "So now what? You have soldiers? You can make them strong, you can control them. In an instant, you can kill them."
+        },
+        {
+            "character": "Raina",
+            "line": "Yes, but we can't bring them back to life. You were killed. Now you're here. We want to know how. Don't you? I'd like to turn the machine on again. It induces theta brain-wave frequencies to help uncover the secrets buried in the subconscious. If you cooperate, you can surf those waves."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've gone surfing. That is definitely not like surfing."
+        },
+        {
+            "character": "Raina",
+            "line": "You've been resisting. Fight the waves and you'll drown. Your brain will cook. You'll stop breathing... again."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then that's what it'll be, or I hold out until my team comes to find me. Either way, you will not get classified intel from me."
+        },
+        {
+            "character": "Raina",
+            "line": "I'm not interested in those secrets. The Clairvoyant can see within any agency, any government. He knows what the President dreams about at night. I want what you want... to uncover a different secret... the secret S.H.I.E.L.D. is keeping from you."
+        },
+        {
+            "character": "Rathman",
+            "line": "All right, we're logged in, but you do realize you can't transfer these kinds of funds online."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm not looking to transfer funds. I'm looking for transaction records. Go to your account history. We need to open up a terminal emulator, see what kind of encryption they've got."
+        },
+        {
+            "character": "Rathman",
+            "line": "Okay."
+        },
+        {
+            "character": "Skye",
+            "line": "If it's an SSL 256 or an A.E.S. twofish serpent, we're in business."
+        },
+        {
+            "character": "Rathman",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "Quantum key, that's another story."
+        },
+        {
+            "character": "Rathman",
+            "line": "Right."
+        },
+        {
+            "character": "Skye",
+            "line": "Lloyd. What is happening here?"
+        },
+        {
+            "character": "Rathman",
+            "line": "Yeah, account history. Where is that?"
+        },
+        {
+            "character": "Skye",
+            "line": "Delete that second line. Press “return.”"
+        },
+        {
+            "character": "Rathman",
+            "line": "Thing is, I have an assistant that does all this for me."
+        },
+        {
+            "character": "Skye",
+            "line": "That's it."
+        },
+        {
+            "character": "Officer",
+            "line": "So, this Vanchat... is this the guy you're trying to bust?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, we already have him in custody. What I wanna know is who's recently paid Vanchat a lot of money. I backtrack those payments to the buyer's account and get a record of all the purchases she's made, maybe use it to track her down. Click there. Hello, Raina. Let's see what you've been up to. Print that."
+        },
+        {
+            "character": "Rathman",
+            "line": "Great. So are we done here?"
+        },
+        {
+            "character": "Skye",
+            "line": "One last thing."
+        }
+    ]
+}

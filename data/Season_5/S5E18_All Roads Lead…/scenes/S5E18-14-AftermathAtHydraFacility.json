@@ -1,0 +1,44 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 14,
+    "scene_name": "AftermathAtHydraFacility",
+    "description": "After Ruby’s death, the remaining S.H.I.E.L.D. team processes what transpired. Daisy is furious at Yo-Yo’s actions, while Elena defends her decision as necessary to save the world. The emotional fallout is palpable, and Hale flees the scene, devastated by her daughter's demise.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "hale",
+        "elena_rodriguez",
+        "skye",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "Hydra facility (abandoned English nuclear silo / Particle Infusion Chamber site)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Simmons."
+        },
+        {
+            "character": "Fitz",
+            "line": "Where's Hale?"
+        },
+        {
+            "character": "May",
+            "line": "How did she get away?"
+        },
+        {
+            "character": "Simmons",
+            "line": "And what happened to Ruby?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I had it under control. She was coming around, and then Yo-Yo killed her."
+        },
+        {
+            "character": "Elena",
+            "line": "No. I just saved the world."
+        }
+    ]
+}

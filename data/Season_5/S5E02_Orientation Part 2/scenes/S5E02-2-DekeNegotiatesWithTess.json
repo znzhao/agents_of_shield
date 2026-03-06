@@ -1,0 +1,24 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "DekeNegotiatesWithTess",
+    "description": "Deke and Tess bargain over Virgil’s death and what is owed, revealing the transactional, desperate nature of life under Kree rule. Deke agrees to look for Daisy, Mack, and Elena in exchange for more compensation, while Tess promises to keep the rest of the team hidden. This sets Deke off to track down the separated agents, emphasizing the fractured, uneasy alliances in the Lighthouse.",
+    "roles": [
+        "deke_shaw",
+        "tess"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Tess",
+            "line": "I'll double his price."
+        },
+        {
+            "character": "Deke",
+            "line": "You don't even know the number that you just agreed to. All right, fine. You stash these people, you make them blend in. I'll see if I can talk the others out of certain death."
+        }
+    ]
+}

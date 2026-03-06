@@ -1,0 +1,220 @@
+{
+    "season": 3,
+    "episode": 2,
+    "num": 1,
+    "scene_name": "FitzRisksAllForSimmons",
+    "description": "Daisy, Mack, Hunter, Bobbi, Fitz, and Coulson urgently respond when Fitz recklessly enters the containment room with the monolith, searching for any evidence about Simmons' fate. The team pulls Fitz out just in time, and he reveals that the sand he brought back is impossibly old, predating Earth itself, proving the monolith is a portal to another world. Realizing Simmons is likely alive elsewhere, the team rallies to help Fitz, with Coulson deciding outside help is needed. Tension and urgency run high as the team prepares for their next steps.",
+    "roles": [
+        "skye",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "bobbi_morse",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I think Joey's a real candidate."
+        },
+        {
+            "character": "Mack",
+            "line": "Sure. He's Inhuman. But doesn't meet my criteria."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's a decent guy, and you know it. Getting that unit up and running is priority."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but it doesn't mean it has to be a rush job. Look, Dr. Garner will make his recommendation."
+        },
+        {
+            "character": "Daisy",
+            "line": "And it will be the same as always, three months observation and counseling before reassessment. He's as much of a buzzkill as you are. And if you haven't been keeping score, our team's down to three musketeers. May and Simmons are gone. Fitz might as well be, Bobbi's on the DL. And from what I hear, Hunter's planning to leave."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but not for good. He's got a score to settle."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's Fitz!"
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz broke into containment!"
+        },
+        {
+            "character": "Mack",
+            "line": "Fitz!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Fitz, get out of there!"
+        },
+        {
+            "character": "Mack",
+            "line": "Are you crazy?"
+        },
+        {
+            "character": "Morse",
+            "line": "Close it! Close it! I got it!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn it, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "I had to know... had to... had to know."
+        },
+        {
+            "character": "Coulson",
+            "line": "I already lost Simmons to that thing. I cannot afford to lose you, too."
+        },
+        {
+            "character": "Hunter",
+            "line": "Are you trying to get yourself killed?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry. I won't give up. I can't give up."
+        },
+        {
+            "character": "Daisy",
+            "line": "None of us want to, Fitz, but..."
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz, you tried. Okay? You tried your hardest. Everybody knows that."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. I missed something. I m... I missed something."
+        },
+        {
+            "character": "Morse",
+            "line": "What is that?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Proof."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sand. Not just sand... impossible sand."
+        },
+        {
+            "character": "Mack",
+            "line": "The Monolith's case is a clean room. There's nothing in there but that rock. Not even dust."
+        },
+        {
+            "character": "Hunter",
+            "line": "Unless you blast it open with a shotgun and contaminate everything."
+        },
+        {
+            "character": "Morse",
+            "line": "That's not what this is."
+        },
+        {
+            "character": "Hunter",
+            "line": "Okay, the sand itself... not unusual. Mostly silicone-dioxide particles just like on Earth."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you're saying this sand is not from Earth?"
+        },
+        {
+            "character": "Morse",
+            "line": "Sir, carbon dating shows that..."
+        },
+        {
+            "character": "Fitz",
+            "line": "It predates the Earth by a billion years."
+        },
+        {
+            "character": "Daisy",
+            "line": "So you think the rock is a portal?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No. No, I'm proving that it's a portal, okay, to another planet, a-a very old planet. A crack in space-time that carried Simmons away and carried the sand back. Which means..."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's out there. But it's been months."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She could be long gone from wherever this thing dropped her."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "She could be dead."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "But we're gonna find out, aren't we?"
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn right."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, Fitz, what do you need?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, uh, well, uh, more historical data. People have studied this thing for centuries. I need an expert on quantum mechanics and Einstein-Rosen bridge theory, and a... a sandwich would be nice."
+        },
+        {
+            "character": "Coulson",
+            "line": "I might have an idea, about the other things. You two, stay with our new Inhuman guest. Be here for Dr. Garner's assessment. Building that team is still the priority."
+        },
+        {
+            "character": "Daisy",
+            "line": "What did I say?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Bobbi."
+        },
+        {
+            "character": "Morse",
+            "line": "I'm on this with Fitz."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, haven't you been on this with Fitz the whole time? Hiding his trip to Morocco, covering for him on a constant basis?"
+        },
+        {
+            "character": "Morse",
+            "line": "Have I?"
+        }
+    ]
+}

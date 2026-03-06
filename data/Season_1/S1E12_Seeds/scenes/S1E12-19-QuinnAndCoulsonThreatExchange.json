@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 19,
+    "scene_name": "QuinnAndCoulsonThreatExchange",
+    "description": "Ian Quinn receives a call from Coulson warning him that S.H.I.E.L.D. will shoot down his aircraft if he enters allied airspace. Quinn relays a cryptic message from the Clairvoyant. The scene solidifies the ongoing antagonism and sets up future conflict.",
+    "roles": [
+        "ian_quinn",
+        "phil_coulson"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Quinn",
+            "line": "Seth, I've gotta say... you have exceeded my expectations."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're on to you."
+        },
+        {
+            "character": "Quinn",
+            "line": "Who is this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Phil Coulson with S.H.I.E.L.D. We've never actually met, but I'm familiar with your work... all of it."
+        },
+        {
+            "character": "Quinn",
+            "line": "So, this is a “getting to know you” call?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, just a message that the first time your aircraft drifts over any country allied with S.H.I.E.L.D., we will shoot you out of the sky."
+        },
+        {
+            "character": "Quinn",
+            "line": "So this is a courtesy call. Well, thank you, Agent Coulson. And I have a message for you. The Clairvoyant told me to say hello."
+        }
+    ]
+}

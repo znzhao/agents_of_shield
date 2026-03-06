@@ -1,0 +1,58 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 10,
+    "scene_name": "MackRescuesPollyMayAndFitz",
+    "description": "Mack locates Polly and reunites her with Robin after a tense search through the ship’s wreckage. Fitz catches up with May and Robin, worried for his friends' fates based on future warnings, and they all navigate the crumbling ship to get Polly to safety. The group barely escapes further collapse but are not yet out of danger.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "leo_fitz",
+        "robin_hinton"
+    ],
+    "vibe": "action-packed",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Polly? Polly? Polly?"
+        },
+        {
+            "character": "Polly",
+            "line": "In here."
+        },
+        {
+            "character": "Fitz",
+            "line": "Robin. Oh, good. Where's Mack?"
+        },
+        {
+            "character": "May",
+            "line": "Uh, in the ship. He went to find Polly."
+        },
+        {
+            "character": "Fitz",
+            "line": "May, neither of them make it. Oh, no."
+        },
+        {
+            "character": "Polly",
+            "line": "Oh, thank God, you're here."
+        },
+        {
+            "character": "Mack",
+            "line": "You okay?"
+        },
+        {
+            "character": "Polly",
+            "line": "Yeah. Robin?"
+        },
+        {
+            "character": "Mack",
+            "line": "Don't worry. We have her. Let's get you to her."
+        },
+        {
+            "character": "Polly",
+            "line": "Okay."
+        }
+    ]
+}

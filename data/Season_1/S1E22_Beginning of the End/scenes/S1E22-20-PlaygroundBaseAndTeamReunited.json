@@ -1,0 +1,64 @@
+{
+    "season": 1,
+    "episode": 22,
+    "num": 20,
+    "scene_name": "PlaygroundBaseAndTeamReunited",
+    "description": "Coulson, May, Skye, Simmons, and Triplett arrive at their new base, the Playground, as introduced by Billy Koenig. The atmosphere is cautiously optimistic as they settle into unknown territory and prepare for future threats, solidifying the team's unity and resilience.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "antoine_triplett",
+        "eric_koenig"
+    ],
+    "vibe": "hopeful",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Fitz... is he okay? Please tell me he's okay."
+        },
+        {
+            "character": "Simmons",
+            "line": "He's alive."
+        },
+        {
+            "character": "May",
+            "line": "What is this place?"
+        },
+        {
+            "character": "Coulson",
+            "line": "First thing I found in that box was these coordinates. Another secret base?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "I call it the Playground, although, technically, it doesn't have a name because, technically, it doesn't exist, it being a secret base and all."
+        },
+        {
+            "character": "Skye",
+            "line": "Eric?"
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "Billy... Koenig, agent of S.H.I.E.L.D., although I totally understand the confusion. Eric passed away, sadly, but it's great to have company, finally, and I did not mind minding this place."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Coulson."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "I know. I know. And it is an honor to meet you, sir! I'll get your lanyard shortly. For the rest of you, lanyards will be handed out on a case-by-case basis. Can't be too careful with all those Hydra threats still out there, causing trouble. That's why we're here... get you up and running and back fighting the good fight, which is gonna be cool. I know we don't have much, but what we have is yours, sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "So... where would you like to start?"
+        }
+    ]
+}

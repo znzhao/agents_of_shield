@@ -1,0 +1,38 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 8,
+    "scene_name": "CalArrivesAtPlayground",
+    "description": "Cal is brought to the Playground as a supposed 'peace offering.' Coulson and Simmons grow wary, with Simmons analyzing substances Cal took, suspecting a trojan horse strategy. May and Coulson confirm Skye's decision to side with her mother, making the S.H.I.E.L.D. team increasingly anxious about Cal and Jiaying's secrets.",
+    "roles": [
+        "calvin_johnson",
+        "phil_coulson",
+        "jemma_simmons",
+        "melinda_may"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You want to tell me what you're really doing here?"
+        },
+        {
+            "character": "Cal",
+            "line": "Sure. I'm a present, a gift horse, a peace offering from my family. I'm also an excellent Shanghai rummy partner."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, I'm worried he's more of a trojan horse. I believe Cal took these before he was handed over to us. I'm going to analyze them in the lab."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go. Have we lost Skye?"
+        },
+        {
+            "character": "May",
+            "line": "We didn't lose Skye. She chose."
+        }
+    ]
+}

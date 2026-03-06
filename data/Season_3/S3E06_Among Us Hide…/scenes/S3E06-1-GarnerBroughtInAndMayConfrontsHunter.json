@@ -1,0 +1,126 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 1,
+    "scene_name": "GarnerBroughtInAndMayConfrontsHunter",
+    "description": "Dr. Andrew Garner is rushed into the Playground, injured after an attack. May is at his side, demanding to know what happened, and Andrew describes the ambush and how he survived thanks to Coulson's backup agent. Coulson tries to calm tensions, but May blames Hunter for Andrew's injuries. Hunter argues he made the logical choice in trying to kill Ward, but Coulson pulls him off the Ward assignment, placing May in charge. This emotional moment underlines the team's fracturing trust and May's determination for payback.",
+    "roles": [
+        "andrew_garner",
+        "melinda_may",
+        "phil_coulson",
+        "lance_hunter"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Agent May? He's alive."
+        },
+        {
+            "character": "Woman",
+            "line": "Possible pneumo on the right. Let's get him on the monitor."
+        },
+        {
+            "character": "Mam",
+            "line": "He's dry. I'm starting him on another liter of fluid."
+        },
+        {
+            "character": "May",
+            "line": "Andrew, what happened?"
+        },
+        {
+            "character": "Andrew",
+            "line": "I went into the store. I... I had a headache. I needed something. One of my students was there. Was, uh..."
+        },
+        {
+            "character": "Strucker",
+            "line": "Hey, professor.  Where you been?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Transfer student. He only started a few weeks ago. Had two men with him. You know, my experience is limited, but I'd say they were professionals."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was HYDRA."
+        },
+        {
+            "character": "Andrew",
+            "line": "Don't know why they'd be after me."
+        },
+        {
+            "character": "May",
+            "line": "I do."
+        },
+        {
+            "character": "Coulson",
+            "line": "May, this isn't your fault."
+        },
+        {
+            "character": "May",
+            "line": "How'd you survive?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Phil. He had a S.H.I.E.L.D. agent tailing me. The man saved my life. He gave me time to find cover, and he must've caught Alex off guard because nothing went exactly as planned. The kid had a lighter. I barely made it to the door. The blast must've thrown me clear. The next thing I remember, you were there, picking me up. I'm lucky. Can't see how anyone would've survived that. Now, I know Alex is trouble, but I'm not sorry he's gone. Ward would've made him finish the job. What if Ward..."
+        },
+        {
+            "character": "May",
+            "line": "He won't."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're safe now. We got you. We'll let the doctor work on you. You need to get some rest."
+        },
+        {
+            "character": "May",
+            "line": "Where the hell do you think you're going?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Uh, I think I'm going to see Andrew."
+        },
+        {
+            "character": "Hunter",
+            "line": "I just want to make sure he's all right."
+        },
+        {
+            "character": "May",
+            "line": "You're the reason he's not."
+        },
+        {
+            "character": "Hunter",
+            "line": "Ward was gonna hurt him no mat... I made the most logical choice."
+        },
+        {
+            "character": "May",
+            "line": "Logical? You wanted revenge."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, hey, hey!"
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson's orders were to end him. I had one shot. I took it."
+        },
+        {
+            "character": "Coulson",
+            "line": "And you missed. You're off that assignment."
+        },
+        {
+            "character": "May",
+            "line": "Good. Then put me on it. Let me go after him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Are you back?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah, I'm back."
+        }
+    ]
+}

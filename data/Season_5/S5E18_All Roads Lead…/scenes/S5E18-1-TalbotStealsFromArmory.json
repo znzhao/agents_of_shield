@@ -1,0 +1,178 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 1,
+    "scene_name": "TalbotStealsFromArmory",
+    "description": "Talbot, still shaken from his captivity, behaves erratically in the Lighthouse. Mack notices his agitation but lets it go, while Talbot readies himself for a mission, setting the tone for his later actions. Meanwhile, in the Hydra facility, Ruby and Werner von Strucker put pressure on FitzSimmons to repair the Gravitonium infusion chamber, threatening their lives to hasten the process.",
+    "roles": [
+        "carl_creel",
+        "phil_coulson",
+        "glenn_talbot",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "ruby"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Complete the mission, soldier. Eyes on the prize. Be prepared. Nobody has to get hurt. Get in, get out. Complete the mission."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, Talbot."
+        },
+        {
+            "character": "Talbot",
+            "line": "Hey."
+        },
+        {
+            "character": "Mack",
+            "line": "You looking for something?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Unh-unh. I'm just like a ticking time bomb over here, huh? Sorry. Just I've been in a cell for six months. I'm just a little pent-up. Can't sit still."
+        },
+        {
+            "character": "Mack",
+            "line": "I can imagine. I wish we got you out sooner."
+        },
+        {
+            "character": "Talbot",
+            "line": "Me too, son. Me too."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, listen, if you ever want to talk about it or anything else..."
+        },
+        {
+            "character": "Talbot",
+            "line": "I can't. No, I can't do that. But, uh, but thanks. You know, just trying to focus on one task at a time."
+        },
+        {
+            "character": "Mack",
+            "line": "Right. Mm-hmm. Yeah, well, rest up. Doctor's orders."
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah. You got it. Happy to comply."
+        },
+        {
+            "character": "Fitz",
+            "line": "Stop!"
+        },
+        {
+            "character": "Ruby",
+            "line": "Aww. But I'm enjoying myself. I don't really get out much, and it does seem to keep you motivated."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. Let her go. You want this machine fixed, I need her help. Please. I'm engineering. She's biotech. We're a team."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, I'm fine."
+        },
+        {
+            "character": "Fitz",
+            "line": "You sure?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm all right, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay."
+        },
+        {
+            "character": "Ruby",
+            "line": "Aww. You two are adorable. I ship it. I really do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Do you have any idea of the consequences of what you're trying to do? We've seen where this leads."
+        },
+        {
+            "character": "Ruby",
+            "line": "Your little trip to the future? Coulson filled me in."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then you'll know that you destroy everything, the entire planet."
+        },
+        {
+            "character": "Ruby",
+            "line": "See, I thought your pal Daisy did all of that. You people really need to get your stories straight."
+        },
+        {
+            "character": "Fitz",
+            "line": "Everyone that you care about will die."
+        },
+        {
+            "character": "Ruby",
+            "line": "Not a long list."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "And it's getting shorter. Found Anton, what's left of him. He took a header out a window."
+        },
+        {
+            "character": "Ruby",
+            "line": "Then someone else must be here."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Not for long. I activated our copter's signal jammer and set the fallen mechs to seek and destroy."
+        },
+        {
+            "character": "Ruby",
+            "line": "You know how to reprogram them?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I took one apart once. It's a basic protocol but effective. They'll hunt down and kill anyone they find."
+        },
+        {
+            "character": "Ruby",
+            "line": "Show me."
+        },
+        {
+            "character": "Fitz",
+            "line": "You realize that we have a choice to make."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Our hypothesis is being proven. We die, we break the loop. We don't fix this, we stop them."
+        },
+        {
+            "character": "Fitz",
+            "line": "They'll kill us. I can't choose anything over you, not even..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I feel the same way. So..."
+        },
+        {
+            "character": "Fitz",
+            "line": "So we keep working, piece by piece. There's a lot to do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. Very complicated. It will take a while."
+        },
+        {
+            "character": "Ruby",
+            "line": "Hey! Pick up the pace, or I start removing body parts. Like I did to your friend."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 4,
+    "scene_name": "CoulsonAndMayOnSkyeInvestigation",
+    "description": "May urges Coulson to set aside his obsession with the file about his own resurrection as they prepare to go after Richard Lumley, a lead connected to Skye’s origin. Their interaction hints at May’s increased involvement and support, while Coulson reflects on secrets within S.H.I.E.L.D.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You have got to put that away."
+        },
+        {
+            "character": "Coulson",
+            "line": "How can I? You read it."
+        },
+        {
+            "character": "May",
+            "line": "And you haven't stopped reading it."
+        },
+        {
+            "character": "Coulson",
+            "line": "I just can't get my head around it. I remember what happened... the pain... but I also remember Tahiti. It's..."
+        },
+        {
+            "character": "May",
+            "line": "What's in that file... it's the truth."
+        },
+        {
+            "character": "Coulson",
+            "line": "Says who?"
+        },
+        {
+            "character": "May",
+            "line": "Director Fury."
+        },
+        {
+            "character": "Coulson",
+            "line": "If I hadn't asked, he'd have kept it from me, kept me from knowing."
+        },
+        {
+            "character": "May",
+            "line": "And now that you know, you feel better? Put it away."
+        },
+        {
+            "character": "Coulson",
+            "line": "You want to tell me why we're flying to Mexico City?"
+        },
+        {
+            "character": "May",
+            "line": "To get your head working on something else. I've been looking into Skye's past, like you asked, into the agent who dropped her off at the orphanage."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent Avery. She was killed."
+        },
+        {
+            "character": "May",
+            "line": "But her partner wasn't. He disappeared."
+        },
+        {
+            "character": "Coulson",
+            "line": "Richard Lumley."
+        },
+        {
+            "character": "May",
+            "line": "Went off-grid 23 years ago, day after Avery was crossed off."
+        },
+        {
+            "character": "Coulson",
+            "line": "He's resurfaced?"
+        },
+        {
+            "character": "May",
+            "line": "A few days ago, a Mexican teenager posted a selfie on his facebook page, managed to capture our guy leaving a grocery store in the background."
+        },
+        {
+            "character": "Coulson",
+            "line": "If he's good enough to avoid S.H.I.E.L.D. all these years, he'll know."
+        },
+        {
+            "character": "May",
+            "line": "And he'll be on the move. We have a short window to intercept."
+        },
+        {
+            "character": "Coulson",
+            "line": "He may have killed Agent Avery."
+        },
+        {
+            "character": "May",
+            "line": "Or wanted to avoid the same fate."
+        },
+        {
+            "character": "Coulson",
+            "line": "Find him, we find out. How long till we touch down?"
+        },
+        {
+            "character": "May",
+            "line": "40 minutes. I'll gas the car."
+        }
+    ]
+}

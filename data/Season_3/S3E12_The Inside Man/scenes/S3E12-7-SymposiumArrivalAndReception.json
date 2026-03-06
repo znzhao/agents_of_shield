@@ -1,0 +1,135 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 7,
+    "scene_name": "SymposiumArrivalAndReception",
+    "description": "Coulson and Talbot arrive at the symposium in Taiwan, assuming their cover identities. They interact with international delegates, including Petrov, Chen, and King, while Talbot's cultural ignorance creates awkward moments. Back at S.H.I.E.L.D., Daisy, May, and Hunter prepare to access delegates' rooms. The team makes initial assessments about which delegate might be Malick's insider. This sequence establishes the mission's international stakes and the diverse attitudes toward Inhumans.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may",
+        "bobbi_morse",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "Symposium on the Alien Contagion (Taiwan)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "There will be five other delegates at the symposium with General Talbot. They have information that we need and that Malick would like to get his hands on. Malick's obsession with inhumans continues, so it's likely that one of these delegates is his inside man."
+        },
+        {
+            "character": "Morse",
+            "line": "Or woman."
+        },
+        {
+            "character": "Coulson",
+            "line": "Our mission, collect intel on any foreign inhumans and uncover the insider so that we can track them back to Malick. The symposium kicks off with a reception held by our Taiwanese hosts. All of the delegates will be in attendance, along with their attachés, a small number of invited guests, General Talbot, and myself."
+        },
+        {
+            "character": "Talbot",
+            "line": "I don't care what they call it. It's a dress. You must be loving this."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're the president's official representative. It's a customary way to honor them for hosting this symposium, and you look very dignified."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's all loosey-goosey under there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I will be attending as Dr. Sean Lundwall, a CDC expert in alien biology. General Talbot, as acting head of the ATCU, will attend as himself."
+        },
+        {
+            "character": "Petrov",
+            "line": "General Talbot? I recognize your face. Anton Petrov. Please thank your president for organizing this. I think we will all find it very valuable."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is Dr. Lundwall from the CDC."
+        },
+        {
+            "character": "Petrov",
+            "line": "Oh, uh, so sorry. Uh, I very much look forward to your presentation. We have so much to learn about these creatures. Excuse me, gentlemen."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's our guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because he called them “creatures?” Could be a mistranslation."
+        },
+        {
+            "character": "Talbot",
+            "line": "Because he's Russian, and he's probably in cahoots with that sushiyaki."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yakimura?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Talbot and I will find out what we can at the reception. The rest is up to you once the symposium starts. I've acquired a list of the delegates rooms. Those rooms are only accessible with a full palm print."
+        },
+        {
+            "character": "Hunter",
+            "line": "So, how are we supposed to get in? Do you want us to cut their hands off?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We won't need to cut off any hands, but I will need to shake a few."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ms. Chen. Dr. Sean Lundwall. It's a beautiful place. Thank you for hosting."
+        },
+        {
+            "character": "Chen",
+            "line": "It's our pleasure."
+        },
+        {
+            "character": "Hunter",
+            "line": "Fits like a glove."
+        },
+        {
+            "character": "Chen",
+            "line": "General Talbot. I must say, I'm quite honored that you're wearing a traditional long gown."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, the honor's all mine. I don't put on a dress for just anyone."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't think we've met."
+        },
+        {
+            "character": "King",
+            "line": "Ellen King. Have you found a cure for them, Doctor?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A cure needs a disease."
+        },
+        {
+            "character": "King",
+            "line": "Interesting. I'm sure you'll enlighten us all later. Excuse us."
+        },
+        {
+            "character": "Talbot",
+            "line": "I think it's Chen. She's too nice. Never trust nice. Although, did you see the scar on down under's face? Maybe she tangled with one of the inhumans, got her all hotheaded, you know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Congratulations. You've just narrowed it down to everyone."
+        }
+    ]
+}

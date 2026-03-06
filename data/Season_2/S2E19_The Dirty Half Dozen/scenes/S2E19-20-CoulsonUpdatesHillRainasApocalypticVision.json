@@ -1,0 +1,109 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 20,
+    "scene_name": "CoulsonUpdatesHillRainasApocalypticVision",
+    "description": "Coulson contacts Maria Hill about the Hydra mission and reveals his intel about Loki's scepter and Strucker's location. Meanwhile, in Afterlife, Jiaying confronts Raina about her actions, and Raina is consumed by a terrifying new vision: an apocalyptic scenario with men of metal destroying cities, foreshadowing catastrophic events ahead. The episode ends on this ominous, foreboding note.",
+    "roles": [
+        "raina",
+        "jiaying",
+        "phil_coulson"
+    ],
+    "vibe": "dark",
+    "location": "Afterlife (Inhuman sanctuary)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Hill",
+            "line": "I bet Gonzales wasn't happy when you said he wasn't invited to this chat."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, I wasn't too happy when he blew a hole in my base and kicked me out. We all live with disappointment, and right now, we have bigger problems."
+        },
+        {
+            "character": "Hill",
+            "line": "Does that mean you found it?"
+        },
+        {
+            "character": "Raina",
+            "line": "I figured you'd visit me again."
+        },
+        {
+            "character": "Jiaying",
+            "line": "I spoke to Gordon. I think we should discuss your visions. Specifically, I'd like to discuss how you used them to convince Skye to run off and rescue Lincoln."
+        },
+        {
+            "character": "Raina",
+            "line": "I didn't convince Skye. I just told her what was gonna happen."
+        },
+        {
+            "character": "Jiaying",
+            "line": "It was dangerous and it was foolish, and it won't happen again. From now on, any decisions based on your gift will be made by me."
+        },
+        {
+            "character": "Raina",
+            "line": "It's funny. I was just thinking, who decided you should have final say in all the decions around here?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Raina..."
+        },
+        {
+            "character": "Raina",
+            "line": "I'm just saying, maybe the time has come for someone else to..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm guessing HYDRA doesn't know Loki's scepter was the weapon that killed me, but I bet they know it can control minds."
+        },
+        {
+            "character": "Hill",
+            "line": "In their hands, that's catastrophic. Coulson, please tell me you know where it is."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sokovia. I'm pretty sure List is headed there right now."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Raina. Raina, talk to me."
+        },
+        {
+            "character": "Raina",
+            "line": "I see... a scepter. Beautiful... dangerous... It isn't finished yet. So much destruction."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've just sent you everything I found on Strucker's location."
+        },
+        {
+            "character": "Hill",
+            "line": "Coulson, why didn't you just tell Gonzales why you really wanted to get onto the HYDRA base?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Believe it or not, he puts every decision to a vote. I know. And I was pretty sure if I'd been honest, I'd have lost the swing vote, so I did what I had to do."
+        },
+        {
+            "character": "Hill",
+            "line": "Last thing. Theta Protocol, is it ready?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, it is. Time to bring in the Avengers."
+        },
+        {
+            "character": "Raina",
+            "line": "It's terrible. Jiaying, it was..."
+        },
+        {
+            "character": "Jiaying",
+            "line": "What? What was it?"
+        },
+        {
+            "character": "Raina",
+            "line": "Consequences are upon us. Men made of metal will tear our cities apart. And the world will be changed forever."
+        }
+    ]
+}

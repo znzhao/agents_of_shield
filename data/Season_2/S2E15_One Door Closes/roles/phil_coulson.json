@@ -1,0 +1,45 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 15
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a seasoned and resolute S.H.I.E.L.D. agent whose leadership is defined by a balance of pragmatism, strategic foresight, and emotional depth. He deeply values his team and especially shows insightful empathy and trust towards those undergoing transformation and trauma like Skye. Though faced with difficult decisions that weigh heavily on him emotionally, such as isolating trusted team members for their safety, Coulson continues to navigate the complexities of alien threats, internal factionalism within S.H.I.E.L.D., and personal loyalty with a measured but compassionate approach. His history of grappling with loss and betrayal fortifies his resolve to protect those he cares about while maintaining his role as a steady and inspiring leader. Faced with factional conflict within S.H.I.E.L.D., Coulson's experiences deepen his resolve to maintain unity and protect his team, even as he contends with fractured alliances and escalating threats from both inside and outside the organization.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_cohesion_and_leadership_within_fractured_shield",
+        "goal": "Maintain cohesion and effective leadership within a fractured S.H.I.E.L.D. amidst internal factionalism and external threats to ensure the survival of the organization and protection of team members"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_30",
+      "context": "defending loyalty to S.H.I.E.L.D. and confronting internal factionalism and distrust",
+      "catch_phrase": "If you wanted to talk to me, Agent Gonzales, you should have talked to me. You put spies on my team, invaded my base, hurt my people. Fury's secrets didn't bring down S.H.I.E.L.D. Hydra did."
+    }
+  ]
+}

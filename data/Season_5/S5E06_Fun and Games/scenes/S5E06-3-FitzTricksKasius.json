@@ -1,0 +1,89 @@
+{
+    "season": 5,
+    "episode": 6,
+    "num": 3,
+    "scene_name": "FitzTricksKasius",
+    "description": "Fitz confronts Kasius about Simmons' inability to hear guests, and Kasius turns off her hearing. Fitz continues to play his villainous role to impress the guests, inquiring about the Inhuman harvest and Daisy. Kasius details the forthcoming Terrigenesis and flaunts Simmons' value as part of Daisy's lot.",
+    "roles": [
+        "leo_fitz",
+        "kasius",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Is there a problem?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I asked your servant a question, which she ignored."
+        },
+        {
+            "character": "Kasius",
+            "line": "My apologies. My servitors are only allowed to hear the voice of their master."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh. Are they? Well, why don't you tell me how your guests' needs are met when your slaves can't hear them?"
+        },
+        {
+            "character": "Kasius",
+            "line": "There."
+        },
+        {
+            "character": "Fitz",
+            "line": "Thank you."
+        },
+        {
+            "character": "Kasius",
+            "line": "This one is quite exemplary. In fact, she also traveled through time with the Destroyer of Worlds."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hmm?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Which probably explains her flawless complexion."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is she for sale?"
+        },
+        {
+            "character": "Kasius",
+            "line": "Not independently. She comes as a companion, for she is quite adept at motivating the Destroyer."
+        },
+        {
+            "character": "Fitz",
+            "line": "Huh. Well, I find the only motivation people ever really need is pain. And its proper application."
+        },
+        {
+            "character": "Kasius",
+            "line": "A wonderful sentiment. I should have expected no less from a man with such an impressive brooch."
+        },
+        {
+            "character": "Kasius",
+            "line": "I need you to go see what has been reaped from today's harvest."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? Terran food awaits?"
+        },
+        {
+            "character": "Kasius",
+            "line": "A bounty, though the harvest is something else. Earlier today, my men were carrying out the process of Terrigenesis, hoping to produce new Inhumans for my guests. If any were so inclined."
+        },
+        {
+            "character": "Fitz",
+            "line": "Depends on how many units I have left after I purchase the Destroyer."
+        },
+        {
+            "character": "Kasius",
+            "line": "It is said you are a man of expensive tastes. We shall soon see if you have the resources to support such desires."
+        }
+    ]
+}

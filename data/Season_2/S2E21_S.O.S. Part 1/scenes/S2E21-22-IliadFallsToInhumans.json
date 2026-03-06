@@ -1,0 +1,33 @@
+{
+    "season": 2,
+    "episode": 21,
+    "num": 22,
+    "scene_name": "IliadFallsToInhumans",
+    "description": "With the Inhumans’ strategy devastatingly effective, Gordon and Lincoln report to Jiaying that the ship has been fully taken. Weaver is captured, and most of the S.H.I.E.L.D. crew is confined below decks as Jiaying prepares to launch her next phase, signaling the true beginning of the conflict between S.H.I.E.L.D. and the Inhumans.",
+    "roles": [
+        "gordon",
+        "lincoln",
+        "jiaying"
+    ],
+    "vibe": "thrilling",
+    "location": "The Iliad (S.H.I.E.L.D. aircraft carrier)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Alisha",
+            "line": "All clear."
+        },
+        {
+            "character": "Gordon",
+            "line": "The ship's been taken. Most of the crew have been secured on a lower deck. Anyone unaccounted for will be found on our next sweep."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Now what?"
+        },
+        {
+            "character": "Jiaying",
+            "line": "Now we begin."
+        }
+    ]
+}

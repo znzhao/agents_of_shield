@@ -1,0 +1,97 @@
+{
+    "season": 2,
+    "episode": 14,
+    "num": 17,
+    "scene_name": "CoulsonAndTalbotDebrief",
+    "description": "Coulson and May connect with Talbot, piecing together the events and learning that Ward was behind Bakshi's breakout with Agent 33's help. Talbot is shaken by the breach and worried about his family, while Coulson offers his condolences and promises justice. May and Coulson reflect on the day's difficult decisions and their uncertainty about Mack's loyalty.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Agent 33 infiltrated your base to break out Sunil Bakshi?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Turns out she wasn't working alone, either. We managed to track down video of the vehicle leaving the premises. Guess who was behind the wheel. Grant Ward."
+        },
+        {
+            "character": "May",
+            "line": "Agent 33 must have dragged him out of Puerto Rico."
+        },
+        {
+            "character": "Coulson",
+            "line": "Guessing we haven't heard the last of this. Your wife, how's she holding up?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Rattled, which is to be expected. Damn experience nearly cost me my marriage. I'm gonna be up to my ears in edible arrangements trying to make this thing right. I lost two men to those psychopaths. Good men."
+        },
+        {
+            "character": "Coulson",
+            "line": "My condolences. It's never easy."
+        },
+        {
+            "character": "Talbot",
+            "line": "Just tell me we'll get those sons of bitches, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You have my word, general."
+        },
+        {
+            "character": "Talbot",
+            "line": "All right, then. I'll be in touch."
+        },
+        {
+            "character": "May",
+            "line": "It's a lot to process."
+        },
+        {
+            "character": "Coulson",
+            "line": "Throw it on the heap."
+        },
+        {
+            "character": "May",
+            "line": "Everything all right, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Earlier today, with Skye... just didn't feel right."
+        },
+        {
+            "character": "May",
+            "line": "You made the right call. There's just too many things in play right now for her to be here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, maybe. But you ever get that feeling... like you mishandled something important?"
+        },
+        {
+            "character": "May",
+            "line": "Yeah. It's how I felt after leaving Andrew."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, Mack... you believe him?"
+        },
+        {
+            "character": "May",
+            "line": "Nope."
+        },
+        {
+            "character": "Coulson",
+            "line": "Me, neither. Guess it's time we find out what he's up to."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, it's me. Something happened with Skye. I think we have a situation."
+        }
+    ]
+}

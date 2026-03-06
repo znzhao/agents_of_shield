@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 6,
+    "scene_name": "MayQuestionsFitzAboutAIDA",
+    "description": "LMD May seeks answers from Fitz regarding AIDA's autonomy and the events that transpired with the Darkhold. This scene explores May's existential uncertainty and Fitz's reassuring explanation about the decision-making that led to AIDA's actions.",
+    "roles": [
+        "melinda_may",
+        "leo_fitz"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "May. You need something?"
+        },
+        {
+            "character": "May",
+            "line": "Answers about AIDA. Security report on the incident, need to close it out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay. What do you need to know?"
+        },
+        {
+            "character": "May",
+            "line": "How much was AIDA aware of what she was going to do before she did it? Could she have stopped it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "This isn't about a security report, is it? It's about you. About ordering AIDA to read the Darkhold. Trust me, I was trying to get her to do the same thing, and I'm asking the same questions that you are. I think you did what you had to do in the moment. It was a hard choice."
+        },
+        {
+            "character": "May",
+            "line": "Not when it comes to saving you and Coulson."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. That's just how you're built."
+        },
+        {
+            "character": "May",
+            "line": "Aah! Aah."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA? I need to go out for a bit. There's a situation to which I must attend."
+        },
+        {
+            "character": "AIDA",
+            "line": "Shall I drive you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No. Shouldn't take long."
+        },
+        {
+            "character": "AIDA",
+            "line": "Doctor, if Agent May does become a problem..."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, I don't see that happening."
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 8,
+    "scene_name": "FitzSimmonsEnochConfrontedByKitson",
+    "description": "On Kitson, Fitz, Simmons, and Enoch are recognized and brought before Mr. Kitson for cheating and causing chaos. Kitson sentences Enoch to the brothels and FitzSimmons to a deadly game involving a guillotine and gambling. The stakes are set high as the couple faces imminent danger in the casino's House of Games.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "suspenseful",
+    "location": "Kitson (alien casino planet / House of Games)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "What kind of person looks at himself that much? A bit tacky, this Mr. Kitson. Portrait of himself and everything."
+        },
+        {
+            "character": "Man",
+            "line": "That is his grandfather, the first Mr. Kitson. He was a great man."
+        },
+        {
+            "character": "Kitson",
+            "line": "Ah, he was a son of a bitch. But you have to be when you've got ambition. My grandfather came to this planet with 20 Yookalian slaves and a dream."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's inspiring."
+        },
+        {
+            "character": "Kitson",
+            "line": "He built this planet's original settlement with their bare hands. A few ramshackle modules for his games, a small dome for his brothel, and then he kept building so that I, son and grandson of Kitson, would one day have an empire. And you put all that at risk. Using a synthetic to cheat. Bringing bounty hunters in to wreak havoc at my house of games."
+        },
+        {
+            "character": "Fitz",
+            "line": "We just want to go home."
+        },
+        {
+            "character": "Simmons",
+            "line": "Surely a decent soul like you can understand. Somebody who's so proud of his own home."
+        },
+        {
+            "character": "Kitson",
+            "line": "Decency doesn't put food into the mouths of my wives. No. I'm a gambler. And I'm also a man who will deal out a punishment."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, okay. Just... There's no need for that. We can work. I'm an engineer."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah. We both know alien languages. I'm a botanist, a chemist..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, and Enoch, here, is a... super-advanced computer."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, so..."
+        },
+        {
+            "character": "Fitz",
+            "line": "So, we can be of use."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah."
+        },
+        {
+            "character": "Fitz",
+            "line": "There's no need to kill us."
+        },
+        {
+            "character": "Kitson",
+            "line": "Killing you is the use I have for you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Is it?"
+        },
+        {
+            "character": "Kitson",
+            "line": "Killing a synthetic is a wasted sport. He'll be sent to the brothels."
+        },
+        {
+            "character": "Enoch",
+            "line": "I do not know what I am feeling."
+        },
+        {
+            "character": "Kitson",
+            "line": "You know what? I have something very special in mind for you Terrans. Hope you're not too attached to your heads."
+        },
+        {
+            "character": "Simmons",
+            "line": "After everything, this can't possibly be how we come to an end. No one would believe it."
+        },
+        {
+            "character": "Fitz",
+            "line": "I would."
+        },
+        {
+            "character": "Gambler",
+            "line": "House always wins, don't it?"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "season": 4,
+    "episode": 15,
+    "num": 8,
+    "scene_name": "AIDARadcliffePhilosophy",
+    "description": "Aida shows Radcliffe the body she's building for the Superior and discusses her difficulty understanding human emotions, identifying regret as a key trait. She reveals why Radcliffe himself is now considered a threat and her plan to 'solve the paradox.' This deepens Aida's evolving motivations.",
+    "roles": [
+        "holden_radcliffe",
+        "aida"
+    ],
+    "vibe": "mysterious",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "AIDA",
+            "line": "There's a beauty to it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "This body you're building, the Russian won't approve."
+        },
+        {
+            "character": "AIDA",
+            "line": "He'll come around. I've observed his behavior. I've observed much human behavior. And the more I see, the harder it gets to find a logic to it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, you sweet girl, there is no logic to love, anger, wonder, joy."
+        },
+        {
+            "character": "AIDA",
+            "line": "I understand the concepts, but I don't feel them myself. And unfortunately, they've created a paradox in my programming."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What do you mean? Explain."
+        },
+        {
+            "character": "AIDA",
+            "line": "My two main parameters are in opposition due to human emotions. I was programmed to protect the Framework but also to preserve your life above all others."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, how is that a contradiction?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Because the greatest threat to the Framework, Doctor, is you."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, that's simply not accurate."
+        },
+        {
+            "character": "AIDA",
+            "line": "A defining human trait seems to be regret, or so I've observed. You even asked me to repair one regret for each person entering the Framework."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes."
+        },
+        {
+            "character": "AIDA",
+            "line": "Well, you, Doctor, exhibit poor self-control, and if you someday come to regret building the Framework, you could change my parameters and have me dismantle it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Why would you think I would ever do that? I am saving these people. I am giving them a replica of their life with less pain."
+        },
+        {
+            "character": "AIDA",
+            "line": "Yes. But their physical bodies will eventually give out because of it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Oh, AIDA, that doesn't matter. Reality is just perception. They perceive it as real, which makes it real."
+        },
+        {
+            "character": "AIDA",
+            "line": "They might not believe that."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yeah, but I do. I know it. I believe it to be true, wholeheartedly."
+        },
+        {
+            "character": "AIDA",
+            "line": "Thank you for clarifying. That statement fixes the paradox. I can now solve both problems at once. Shh. You'll live a long life, free of pain."
+        },
+        {
+            "character": "Mace",
+            "line": "We know you're wondering why you're here. You've received orders. Base is on a complete lockdown. Agent Coulson will explain why."
+        },
+        {
+            "character": "Coulson",
+            "line": "Two of our best agents and friends, Daisy Johnson and Jemma Simmons, have been kidnapped. And worse than that, they've been replaced."
+        }
+    ]
+}

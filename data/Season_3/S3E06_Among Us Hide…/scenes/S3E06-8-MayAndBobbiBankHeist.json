@@ -1,0 +1,125 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 8,
+    "scene_name": "MayAndBobbiBankHeist",
+    "description": "May and Bobbi pose as operatives at a Cayman Islands bank to search Strucker's safe deposit box. Their cover is almost blown by a tripped alarm, but Bobbi smoothly redirects the situation and they exit after retrieving Strucker's information. The scene features teamwork, spy-craft, and demonstrates Bobbi's growing confidence back in the field.",
+    "roles": [
+        "melinda_may",
+        "bobbi_morse",
+        "leo_fitz"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Ms. Wong would like to access her safe-deposit box. Here's her account number."
+        },
+        {
+            "character": "Deschamps",
+            "line": "I will need your I.D.s, please."
+        },
+        {
+            "character": "Morse",
+            "line": "Of course. (in Mandarin) Let's hope Fitz got these right."
+        },
+        {
+            "character": "Morse",
+            "line": "Ms. Wong likes your tie."
+        },
+        {
+            "character": "Deschamps",
+            "line": "Follow me."
+        },
+        {
+            "character": "Deschamps",
+            "line": "Take as much time as you need."
+        },
+        {
+            "character": "May",
+            "line": "Box 38."
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz, we need anything on Strucker, anything that will get us to Ward."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, getting it. Real-estate deeds, passport. No cash?"
+        },
+        {
+            "character": "Morse",
+            "line": "He must've cleared it all out. He..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, uh, guys, I think you triggered an alarm somewhere."
+        },
+        {
+            "character": "May",
+            "line": "Great."
+        },
+        {
+            "character": "Morse",
+            "line": "How much time do we have?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh... Oh. Looks like zero."
+        },
+        {
+            "character": "Deschamps",
+            "line": "What is happening in here?"
+        },
+        {
+            "character": "Morse",
+            "line": "My boss would like to congratulate you."
+        },
+        {
+            "character": "Deschamps",
+            "line": "What?"
+        },
+        {
+            "character": "Morse",
+            "line": "Your security system is top-notch, and your team is incredibly efficient. Just what we'd hoped for."
+        },
+        {
+            "character": "Morse",
+            "line": "We've been reading up on you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Oh, I see where you're going with this. One second."
+        },
+        {
+            "character": "Morse",
+            "line": "We'd like to offer you a job."
+        },
+        {
+            "character": "Deschamps",
+            "line": "A job? This seems most unorthodox."
+        },
+        {
+            "character": "Morse",
+            "line": "We were sent from your former employer, First Fiduciary National, and they would like you back. I know it's been hard, your wife missing Miami. How long have you been separated?"
+        },
+        {
+            "character": "Deschamps",
+            "line": "You know about that?"
+        },
+        {
+            "character": "Morse",
+            "line": "You're only earning 4% more than you were in 2012. We can do better."
+        },
+        {
+            "character": "Deschamps",
+            "line": "I... I have been looking to make a change."
+        },
+        {
+            "character": "May",
+            "line": "Sorry."
+        }
+    ]
+}

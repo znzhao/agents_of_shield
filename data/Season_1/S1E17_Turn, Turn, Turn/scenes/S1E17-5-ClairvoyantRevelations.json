@@ -1,0 +1,200 @@
+{
+    "season": 1,
+    "episode": 17,
+    "num": 5,
+    "scene_name": "ClairvoyantRevelations",
+    "description": "On the Bus, Skye deciphers a coded message revealing an activation signal for Hydra sleeper agents. The team debates the shocking realization that Hydra has infiltrated S.H.I.E.L.D., with suspicion falling on Hand as the potential Clairvoyant. Tensions spike as they discuss the history of Hydra and the threat now facing them, resolving to fly into the Hub even as the odds stack against them.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "john_garrett"
+    ],
+    "vibe": "suspenseful",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "It's a simple message repeated. Semantic encoding. I needed to find the mnemonic key. It should only take me a minute more to decipher."
+        },
+        {
+            "character": "Garrett",
+            "line": "Can I ask the obvious question? What the hell?!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We don't know. We don't even know where our plane is headed."
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, I saw your trajectory. You're being tractor-beamed straight to the Hub. Those drones were launched out of there for sure."
+        },
+        {
+            "character": "Coulson",
+            "line": "Victoria Hand."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hand? Can't be."
+        },
+        {
+            "character": "Garrett",
+            "line": "It can't be what, now?"
+        },
+        {
+            "character": "Skye",
+            "line": "The Clairvoyant."
+        },
+        {
+            "character": "Garrett",
+            "line": "I thought Ward capped that guy."
+        },
+        {
+            "character": "Coulson",
+            "line": "I don't believe the man Ward killed was the Clairvoyant. I think he was an unwitting decoy meant to end our investigation."
+        },
+        {
+            "character": "Garrett",
+            "line": "That's a lot of trouble to go through for a red herring, don't you think?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Because the Clairvoyant is a S.H.I.E.L.D. agent using high-level clearance to stay ahead of us, make it seem like she's got psychic abilities."
+        },
+        {
+            "character": "Garrett",
+            "line": "“She?” You think Victoria Hand's the Clairvoyant? I don't mean to pee in the punch bowl, but that doesn't make a lot of sense. I was stationed with Vic in Lisbon. She's a hard-ass and a buzzkill at parties, I grant you, but do you really think she's capable of that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me. Didn't she just try to blow you out of the sky?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Don't get me wrong... she's definitely gone nuts, but her actions prove she's not the Clairvoyant, right? I mean, if she's been hiding in plain sight all this time, why reveal herself now?"
+        },
+        {
+            "character": "Skye",
+            "line": "Guys."
+        },
+        {
+            "character": "Coulson",
+            "line": "“Out of the shadows, into the light.”"
+        },
+        {
+            "character": "Garrett",
+            "line": "Well, I'll be."
+        },
+        {
+            "character": "Fitz",
+            "line": "I thought Hydra was defeated after World War II."
+        },
+        {
+            "character": "Coulson",
+            "line": "It was. S.H.I.E.L.D. was founded in the wake of that victory."
+        },
+        {
+            "character": "Fitz",
+            "line": "And now they're back?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Hydra always comes back."
+        },
+        {
+            "character": "Coulson",
+            "line": "Cut off a head, two more will take its place."
+        },
+        {
+            "character": "Garrett",
+            "line": "Is it a head? I thought it was a limb."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, no, no. “Cut off a head.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a head."
+        },
+        {
+            "character": "Skye",
+            "line": "But it was sent from a S.H.I.E.L.D. source. It's got to be some sort of activation signal to Hydra members within S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hand must be one of them."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, stop. Stop. W-what does that mean? In S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Targeting level-eight agents, seizing power. Wonder how deep it goes."
+        },
+        {
+            "character": "Skye",
+            "line": "The signal's everywhere. Deep."
+        },
+        {
+            "character": "Coulson",
+            "line": "You know what this means?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Yeah. We're screwed."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't change course, and we have no idea what's waiting for us at the Hub."
+        },
+        {
+            "character": "Fitz",
+            "line": "The Hub."
+        },
+        {
+            "character": "Garrett",
+            "line": "I say we blow a hole in the side of this puppy and parachute out, live to fight another day."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't."
+        },
+        {
+            "character": "Garrett",
+            "line": "It's a cherry ride, I'll give you that, but let's not just hand over the keys."
+        },
+        {
+            "character": "Fitz",
+            "line": "Simmons is at the Hub. We have to save her."
+        },
+        {
+            "character": "Garrett",
+            "line": "Oh, crap. Yeah. Trip's there, too. I don't mind saying I don't like the odds on this one. We should let your specialists out of their cage. We can use every weapon we can get."
+        },
+        {
+            "character": "Skye",
+            "line": "We've got to save her."
+        },
+        {
+            "character": "Coulson",
+            "line": "; So we'll fly in there, face the music... even if it is the Hydra theme song."
+        },
+        {
+            "character": "Barbour",
+            "line": "Agents Triplett and Simmons are unaccounted for, ma'am."
+        },
+        {
+            "character": "Jacobson",
+            "line": "Searches are under way. They don't have anywhere to go."
+        },
+        {
+            "character": "Hand",
+            "line": "Don't underestimate Coulson's people. Tie up those loose ends."
+        }
+    ]
+}

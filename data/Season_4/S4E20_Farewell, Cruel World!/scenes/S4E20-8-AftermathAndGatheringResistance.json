@@ -1,0 +1,114 @@
+{
+    "season": 4,
+    "episode": 20,
+    "num": 8,
+    "scene_name": "AftermathAndGatheringResistance",
+    "description": "May, Coulson, Skye, and Simmons regroup following the confrontation at Alistair's home. They process Simmons’ encounter and the repercussions of Alistair’s death, knowing HYDRA will now be in pursuit and Fitz is lost to them for now. Tensions in the Playground rise as they prioritize getting everyone to Radcliffe’s backdoor as quickly as possible.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "Framework (virtual reality simulation / Dr. Radcliffe / Aida construct)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Something's not right here. People are staring at us."
+        },
+        {
+            "character": "May",
+            "line": "No, they're staring at you. That's what happens when you go on TV calling for revolution. You're now the face of the Resistance."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's really not my style. I'm really more of a “work in the shadows” kind of guy."
+        },
+        {
+            "character": "May",
+            "line": "Really? That's how teaching 10th grade works best from the shadows?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'll be honest with you 15-year-olds are no joke."
+        },
+        {
+            "character": "Skye",
+            "line": "Do you know where Simmons went?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, sorry."
+        },
+        {
+            "character": "May",
+            "line": "She went to find Alistair Fitz."
+        },
+        {
+            "character": "Skye",
+            "line": "What? Why didn't you come and tell me?"
+        },
+        {
+            "character": "May",
+            "line": "Because I don't answer to you, not here or any other fantasy world you two might have cooked up."
+        },
+        {
+            "character": "Skye",
+            "line": "You told her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It came up in conversation."
+        },
+        {
+            "character": "Skye",
+            "line": "How does the existence of an alternate reality come up in in casual conversation?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd like to think it's because we were bonding, though I don't really want to speak for her."
+        },
+        {
+            "character": "Skye",
+            "line": "You're really not helping."
+        },
+        {
+            "character": "Coulson",
+            "line": "Don't worry. Melinda here said she'd keep an open mind."
+        },
+        {
+            "character": "Skye",
+            "line": "We can't leave without Simmons."
+        },
+        {
+            "character": "May",
+            "line": "She knows how to stay off-radar. I'm sure everything's fine."
+        },
+        {
+            "character": "Man",
+            "line": "Clear! One down. Clear! Sir!"
+        },
+        {
+            "character": "Man",
+            "line": "Round up the men. Start canvassing the neighborhood."
+        },
+        {
+            "character": "Doctor",
+            "line": "That won't be necessary."
+        },
+        {
+            "character": "Man",
+            "line": "Excuse me, sir?"
+        },
+        {
+            "character": "Doctor",
+            "line": "I'm sure the fugitive's gone by now, but it doesn't matter. We know where she's going. Get the men back on the Zephyr."
+        },
+        {
+            "character": "Man",
+            "line": "Move out."
+        }
+    ]
+}

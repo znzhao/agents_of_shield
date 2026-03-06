@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 19,
+    "num": 20,
+    "scene_name": "HiveAndDaisyAftermathPlan",
+    "description": "Hive berates Daisy for failing to prevent S.H.I.E.L.D. from foiling their plans and suspects her loyalties. Daisy, desperate to prove herself, offers her own blood for the experiment, arguing she has Kree blood from when Coulson revived her. Hive accepts, hinting at the next steps in their dangerous mission together. Daisy asserts her severance from S.H.I.E.L.D., cementing her position at Hive's side.",
+    "roles": [
+        "skye",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "Absolution, Montana (mining town / Hive base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hive",
+            "line": "I ripped out its heart as discussed. But you failed us."
+        },
+        {
+            "character": "Daisy",
+            "line": "I tried to stop him."
+        },
+        {
+            "character": "Hive",
+            "line": "Then your efforts were lacking. Not only did your friend destroy everything we've been working towards, he also got away. We put too much trust in you. Your ties to S.H.I.E.L.D. are stronger than you admit. Leaves me with questions."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. You were right to trust me. I'm finished with S.H.I.E.L.D. And actually, I have answers. The DNA you need, I have it."
+        },
+        {
+            "character": "Hive",
+            "line": "Inhuman DNA is not enough. We needed to drain actual Kree blood."
+        },
+        {
+            "character": "Daisy",
+            "line": "Which is what I have pumping through my veins. Coulson used it to bring me back after Quinn shot me. Ward should remember."
+        },
+        {
+            "character": "Hive",
+            "line": "He does."
+        },
+        {
+            "character": "Daisy",
+            "line": "So, if you want this experiment to work, drain me."
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 9,
+    "scene_name": "ZephyrMayConfrontationAndExtractionPrep",
+    "description": "On Zephyr, May overpowers Enoch in her attempt to leave, leading to a confrontation with the returning team, including Coulson. May responds dispassionately to Coulson's return, unsettling Simmons and Daisy, who note her abnormal calmness. Enoch discusses May's malfunction while Simmons prepares the ship for extraction and Koenig processes the shock of the Zephyr's advanced technology.",
+    "roles": [
+        "melinda_may",
+        "enoch",
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Enoch",
+            "line": "I am sorry, Agent May. I cannot let you leave this ship."
+        },
+        {
+            "character": "May",
+            "line": "You don't have the guts to pull that trigger."
+        },
+        {
+            "character": "Enoch",
+            "line": "No, I may not have an intestinal digestive system, but I am very capable of applying pressure to..."
+        },
+        {
+            "character": "Enoch",
+            "line": "I do not wish to harm you."
+        },
+        {
+            "character": "Enoch",
+            "line": "Since we are at war, I took the opportunity to upgrade to the Hunter-Level Combat Skill Package."
+        },
+        {
+            "character": "May",
+            "line": "A machine is still just a machine."
+        },
+        {
+            "character": "Enoch",
+            "line": "No need to make this personal."
+        },
+        {
+            "character": "Enoch",
+            "line": "I cannot let you leave."
+        },
+        {
+            "character": "Coulson",
+            "line": "May! Stand down."
+        },
+        {
+            "character": "May",
+            "line": "You're not Sarge."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I'm not."
+        },
+        {
+            "character": "May",
+            "line": "You're not Coulson either."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, yes and no. Aren't you at all surprised? I mean... I was dead."
+        },
+        {
+            "character": "May",
+            "line": "You still are."
+        },
+        {
+            "character": "Daisy",
+            "line": "She wasn't even fazed when she saw you. Don't you think that's a little strange?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's very strange. She let me sedate her without any resistance. She was completely calm and relaxed, as if nothing had happened."
+        },
+        {
+            "character": "Enoch",
+            "line": "Agent May is clearly malfunctioning."
+        },
+        {
+            "character": "Elena",
+            "line": "Any idea why she attacked you?"
+        },
+        {
+            "character": "Enoch",
+            "line": "She wanted to be on the mission and didn't appreciate my advice."
+        },
+        {
+            "character": "Elena",
+            "line": "Were you able to contact Mack?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Negative. But I did make considerable advances. Once we are in the air and closer to our destination, we should be able to make contact."
+        },
+        {
+            "character": "Coulson",
+            "line": "I trust this will be our little secret. Not that many people have been inside our joint."
+        },
+        {
+            "character": "Koenig",
+            "line": "Oh, well... I feel so special. And excuse me if I'm not impressed."
+        },
+        {
+            "character": "Coulson",
+            "line": "Welcome aboard, Mr. Koenig."
+        },
+        {
+            "character": "Koenig",
+            "line": "This is a... This is a... rocketship. This is... This is a re... a real live... This is a real live rocketship. And that... th... Is... Is that... Is he... he's, uh... This is one of those, uh, uh, electric men... Oh, oh, oh! Oh, a robot! Is... is... is that robot?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I am not a robot. I am a Chronicom. If you will excuse me, I must go fix my face."
+        },
+        {
+            "character": "Koenig",
+            "line": "You... You're from outer space. That's it, isn't it? You... You... you're all Martians."
+        },
+        {
+            "character": "Coulson",
+            "line": "Feels like it sometimes, but, no, we're not Martians. And now, Mr. Koenig, if you'd kindly take us to Hell."
+        },
+        {
+            "character": "Freddy",
+            "line": "Why don't you come clean? You ain't bootleggers, and you definitely ain't from around here."
+        },
+        {
+            "character": "Deke",
+            "line": "Okay, you're right. We were sent a very, very, very long way to make sure that you don't die."
+        },
+        {
+            "character": "Freddy",
+            "line": "Why? ‘Cause I'm this “thread”? What's that even mean?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, it's complicated. But Deke's right. Our job is to protect you. How do you know this no-name guy isn't planning to kill you after he gets what he wants?"
+        },
+        {
+            "character": "Freddy",
+            "line": "I know her. The lady who asked me to do this? She knew my father. And she's giving me a chance to be something he never could. They ain't gonna kill me unless I do something stupid."
+        },
+        {
+            "character": "Deke",
+            "line": "Why'd we stop?"
+        },
+        {
+            "character": "Freddy",
+            "line": "We're here."
+        },
+        {
+            "character": "Koenig",
+            "line": "A telephone you don't got to plug in. A plane that flies itself."
+        },
+        {
+            "character": "Elena",
+            "line": "We'll be landing in five minutes."
+        },
+        {
+            "character": "Koenig",
+            "line": "Well... If you guys aren't Martians or Moon-men, then where are you from?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're from right here, just not right now."
+        },
+        {
+            "character": "Koenig",
+            "line": "What does that mean?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're from the future, early 21st century. We're part of a secret organization known as S.H.I.E.L.D. We protect the world from evil threats."
+        },
+        {
+            "character": "Koenig",
+            "line": "I gotta admit, I underestimated you Canadians, but what has this got to do with Freddy?"
+        },
+        {
+            "character": "Elena",
+            "line": "He's gonna be one of those threats."
+        },
+        {
+            "character": "Daisy",
+            "line": "Freddy and his family will be responsible for thousands of deaths in the future."
+        },
+        {
+            "character": "Koenig",
+            "line": "That... No, that ain't Freddy."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, it's not now, but it will be."
+        },
+        {
+            "character": "Koenig",
+            "line": "But you... you can't blame someone for something they ain't done yet."
+        },
+        {
+            "character": "Simmons",
+            "line": "No..."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's happening?"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "season": 6,
+    "episode": 9,
+    "num": 1,
+    "scene_name": "ZephyrCrisisBegins",
+    "description": "The action opens as Elena, Mack, and Davis discuss the imminent truck collision and evacuation logistics aboard the Zephyr One. Sarge and his crew prepare to take control of the bridge, equipped with shelter charges to keep out the fast 'girl with mechanical arms' (Elena). Meanwhile, Simmons and Fitz, aboard Izel's ship, notice the crew acting strangely and question Izel about this bizarre behavior. Tensions run high as all teams brace for impact or confrontation.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "davis",
+        "sarge_pachakutiq",
+        "jaco",
+        "jemma_simmons",
+        "leo_fitz",
+        "izel"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "Six minutes till impact."
+        },
+        {
+            "character": "Man",
+            "line": "We're evacuating civilians from the blast zone radius."
+        },
+        {
+            "character": "Diaz",
+            "line": "Local law enforcement is on standby."
+        },
+        {
+            "character": "Mack",
+            "line": "Tell me they can slow down that truck."
+        },
+        {
+            "character": "Diaz",
+            "line": "Negative. No units in range."
+        },
+        {
+            "character": "Mack",
+            "line": "All right, Davis, how close can we get to that rig?"
+        },
+        {
+            "character": "Davis",
+            "line": "Not very. The Zephyr's too big. Our wake could topple them."
+        },
+        {
+            "character": "Elena",
+            "line": "What about the Quinjet?"
+        },
+        {
+            "character": "Mack",
+            "line": "You think you can extract them in time?"
+        },
+        {
+            "character": "Elena",
+            "line": "Trust me. That's what I do."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. Go ahead. Prepare the Quinjet. You heard the plan. Get in range until Yo-Yo can deploy."
+        },
+        {
+            "character": "Davis",
+            "line": "All right, copy that."
+        },
+        {
+            "character": "Mack",
+            "line": "After all this, Sarge is making a sacrifice move. It doesn't add up."
+        },
+        {
+            "character": "Davis",
+            "line": "He doesn't sound like someone who would play the martyr to me."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. So, what are we missing?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Jaco and I will take the bridge. Pax, you lock down the engine bays. Then we get this ship out of here before the warhead blows."
+        },
+        {
+            "character": "Pax",
+            "line": "Sounds great. Except for the glaring flaw in the plan."
+        },
+        {
+            "character": "Sarge",
+            "line": "Enlighten me."
+        },
+        {
+            "character": "Pax",
+            "line": "That fast lady... how are we supposed to stop her?"
+        },
+        {
+            "character": "Jaco",
+            "line": "The girl with the mechanical arms can achieve abnormally high velocity, which can be an abnormally large pain in the ass."
+        },
+        {
+            "character": "Sarge",
+            "line": "Come on. How long we been doing this?"
+        },
+        {
+            "character": "Pax",
+            "line": "Shelter charges. I haven't seen these in a while."
+        },
+        {
+            "character": "Sarge",
+            "line": "Once the field goes up, nobody gets in or out. Doesn't matter how fast."
+        },
+        {
+            "character": "Jaco",
+            "line": "Careful, Pax. These things run hot, remember?"
+        },
+        {
+            "character": "Pax",
+            "line": "Remember? That image scarred me for life. I mean, not as badly as the guy who got his face fried off, ‘cause he's dead, but still."
+        },
+        {
+            "character": "Jaco",
+            "line": "What about Snowflake?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Sorry, Jaco. She couldn't make it out in time. But we owe it to Snow to see this through. so... what do you say we go get ourselves a new spaceship?"
+        },
+        {
+            "character": "Jaco",
+            "line": "She'd like that."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're five minutes out. How's it going with the comms?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Swimmingly. Couldn't be better. Been at this for hours, and I still can't transmit a signal."
+        },
+        {
+            "character": "Simmons",
+            "line": "All right. We'll keep trying. We may have better luck closer to the... Fitz. I found the crew. Gathering silently. Staring into the middle distance."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's not normal. To... state the obvious."
+        },
+        {
+            "character": "Simmons",
+            "line": "Are they infected? Some... alien microorganism?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Maybe it's one of your little puff parties."
+        },
+        {
+            "character": "Simmons",
+            "line": "Nah, I don't think so. They lack joy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, whatever that is, we cannot let that reach Earth."
+        },
+        {
+            "character": "Simmons",
+            "line": "Pathogen or parasite, before we land, we'll have to try to determine the cause and the... I think I found the cause."
+        },
+        {
+            "character": "Izel",
+            "line": "Ready for arrival?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Can't wait. Izel, d-does the crew seem to be feeling okay?"
+        },
+        {
+            "character": "Izel",
+            "line": "Well, they're not feeling anything. We agreed that these rogues were all mindless fools, right? So I gave them a higher purpose."
+        },
+        {
+            "character": "Simmons",
+            "line": "How generous of you."
+        },
+        {
+            "character": "Fitz",
+            "line": "What... What purpose do you mean, exactly?"
+        },
+        {
+            "character": "Izel",
+            "line": "Are you afraid you're gonna end up like them? Oh. No, I wouldn't dream of it. You underestimate your value."
+        },
+        {
+            "character": "Simmons",
+            "line": "More than you've already paid?"
+        },
+        {
+            "character": "Izel",
+            "line": "You have no idea how rare it is to find intelligent beings like you in this galaxy... someone to talk to who sees the possibilities. Which is why I need your Terran expertise."
+        },
+        {
+            "character": "Fitz",
+            "line": "Earth... has possibilities?"
+        },
+        {
+            "character": "Izel",
+            "line": "Wait until you see what we've built on your planet."
+        }
+    ]
+}

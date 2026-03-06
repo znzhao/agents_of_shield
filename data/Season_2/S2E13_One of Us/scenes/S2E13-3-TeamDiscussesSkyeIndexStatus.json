@@ -1,0 +1,73 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "TeamDiscussesSkyeIndexStatus",
+    "description": "Bobbi Morse and Jemma Simmons talk about the difficulty of completing Skye's file and the strange molecular changes in Skye and Raina. Fitz enters and has an awkward interaction with Simmons, hinting at tension from Fitz's recent deceptions. Bobbi and Simmons reflect on trust and the shifting team dynamics.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons",
+        "bobbi_morse"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Wonder where she's off to."
+        },
+        {
+            "character": "Simmons",
+            "line": "Another question in the long list of questions I don't have answers to."
+        },
+        {
+            "character": "Morse",
+            "line": "What is it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Coulson asked me to complete Skye's index file to the best of my ability. I'm afraid my best is woefully insufficient."
+        },
+        {
+            "character": "Morse",
+            "line": "It's bizarre, the extra macromolecules."
+        },
+        {
+            "character": "Simmons",
+            "line": "Raina's DNA is the same. The mist triggered something inside them, something waiting to be activated. But how Skye is able to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sorry. I'm just, um, looking for... Ah. Got it."
+        },
+        {
+            "character": "Simmons",
+            "line": "...able to create a vibrational force? That I don't understand at all."
+        },
+        {
+            "character": "Morse",
+            "line": "How long are you gonna give him...?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He lied to me."
+        },
+        {
+            "character": "Morse",
+            "line": "We're spies. We lie for a living. Fitz's intentions were good. He wanted to protect a friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "From me? And how is that protecting her? Corrupting data, altering test results? Fitz and I shared science. It was sacred. Now that's changed, too. I have to accept that he's different now and our relationship won't ever be what it was."
+        },
+        {
+            "character": "Morse",
+            "line": "Little early to sound the funeral bells, don't you think?"
+        },
+        {
+            "character": "Simmons",
+            "line": "A betrayal of trust like that, it changes everything."
+        }
+    ]
+}

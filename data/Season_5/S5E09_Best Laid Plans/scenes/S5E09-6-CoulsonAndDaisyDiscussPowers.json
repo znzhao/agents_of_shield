@@ -1,0 +1,78 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 6,
+    "scene_name": "CoulsonAndDaisyDiscussPowers",
+    "description": "Back on Zephyr One, Coulson and Daisy discuss the comms being restored, the urgent need to reach their friends, and the dilemma over restoring Daisy's Inhuman powers. Daisy expresses deep concern about her role as the 'Destroyer of Worlds' but resolves to continue as Agent Johnson, wanting to distance herself from that identity. Meanwhile, FitzSimmons discover that Gravitonium is key to both Earth's condition and their plan to get the Zephyr airborne, setting the stage for their desperate launch.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Everything okay, boss?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Hand needs a little juice."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Well, the comms are up and running. If we can get a line of sight to the Lighthouse, we should be able to contact Mack and... The sooner the better."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once we're in, first thing we do is get downstairs, remove your inhibitor, get your powers back."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Maybe we don't."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need you at full strength."
+        },
+        {
+            "character": "Daisy",
+            "line": "You have me as an agent."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy..."
+        },
+        {
+            "character": "Daisy",
+            "line": "You saw the video. I was there at the end of everything. Can we really take that chance?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. needs Quake."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm just tired of these names. If I'm... If I'm not Quake, I can't be the Destroyer of Worlds. Maybe I should just be Daisy Johnson, Agent of S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay, Phil. Back to work."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah! Damn it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, please be careful."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I'm not trying to electrocute myself. But everything has been reconfigured, so I don't even know what I'm looking at."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "season": 4,
+    "episode": 6,
+    "num": 5,
+    "scene_name": "LucyForcesEliToHelp",
+    "description": "Lucy Bauer and Eli Morrow are inside a new power facility, debating the dangers of the experiment they’re about to launch using Momentum’s technology. Eli pushes back against Lucy’s reckless ambitions, warning her of the risk to thousands of lives, but Lucy is resolute, urging him to continue anyway. The Darkhold’s influence becomes more evident as the scene unfolds.",
+    "roles": [
+        "eli_morrow",
+        "lucy_bauer"
+    ],
+    "vibe": "dark",
+    "location": "Roxxon power station (abandoned / Momentum-related facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Eli",
+            "line": "This chamber should work."
+        },
+        {
+            "character": "Lucy",
+            "line": "Yes. But it's these power cells that'll save me. What's the book telling you?"
+        },
+        {
+            "character": "Eli",
+            "line": "Why the experiment failed before."
+        },
+        {
+            "character": "Lucy",
+            "line": "It didn't fail. It was sabotaged."
+        },
+        {
+            "character": "Eli",
+            "line": "Even if Joe had completed it, there wasn't enough power. That's why we're here, isn't it?"
+        },
+        {
+            "character": "Lucy",
+            "line": "This facility can generate close to 20,000 megawatts."
+        },
+        {
+            "character": "Eli",
+            "line": "You realize that if anything goes wrong, thousands could die."
+        },
+        {
+            "character": "Lucy",
+            "line": "Not my problem."
+        }
+    ]
+}

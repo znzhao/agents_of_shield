@@ -1,0 +1,55 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 2,
+    "scene_name": "ChronicomDiscussion",
+    "description": "Onboard their own vessel or operating from the shadows, Sibyl and another Chronicom (Hunter) discuss the team's pursuit and elaborate on their larger plan, focusing on the importance of Project Helius and the need to be careful with their interference in the timeline. Sibyl stresses precise, calculated action against S.H.I.E.L.D. for maximum impact.",
+    "roles": [
+        "sibyl"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Luke",
+            "line": "It appears our adversaries are following our time-trails, clinging to us like parasites."
+        },
+        {
+            "character": "Sibyl",
+            "line": "I did say this was a possibility."
+        },
+        {
+            "character": "Luke",
+            "line": "Even if S.H.I.E.L.D. can travel in our wake, they have yet to discover our ship. It is an advantage."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Clarify."
+        },
+        {
+            "character": "Sibyl",
+            "line": "Advanced technology would be scattered across the past. Which would only hasten the formation of S.H.I.E.L.D."
+        },
+        {
+            "character": "Luke",
+            "line": "You see? This is why you are a Hunter and Sibyl is our Predictor."
+        },
+        {
+            "character": "Luke",
+            "line": "There are no other Predictors."
+        },
+        {
+            "character": "Sibyl",
+            "line": "We must be delicate with Time."
+        },
+        {
+            "character": "Luke",
+            "line": "Others have been sent in, have taken faces. Is Helius still a viable plan?"
+        },
+        {
+            "character": "Sibyl",
+            "line": "I've calculated every possible outcome. If done correctly, it will be brutal and exacting."
+        }
+    ]
+}

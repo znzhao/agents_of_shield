@@ -1,0 +1,33 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 16,
+    "scene_name": "CalTakesHostagesAtManitowocHighSchool",
+    "description": "At Manitowoc High School, Cal and his team create a spectacle, using Angar’s voice to incapacitate the students and draw Coulson out. Coulson and Morse arrive at the gym, realizing Cal is holding the crowd hostage and wants to confront Coulson directly. The tension escalates as Coulson makes himself vulnerable to negotiate for the civilians’ safety.",
+    "roles": [
+        "calvin_johnson",
+        "phil_coulson",
+        "bobbi_morse"
+    ],
+    "vibe": "intense",
+    "location": "Manitowoc High School (Manitowoc, Wisconsin)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Morse",
+            "line": "Is this your high school?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I never went here. My dad coached football and taught history."
+        },
+        {
+            "character": "Morse",
+            "line": "Were you close?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was 9 when he died. I've forgotten more about him than I remember. Angar."
+        }
+    ]
+}

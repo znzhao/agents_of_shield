@@ -1,0 +1,85 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 3,
+    "scene_name": "ChronicomsInvadeLighthouse",
+    "description": "Inside the Lighthouse, the Chronicom Hunters, led by Malachi and Isaiah, systematically lock down the facility and execute any remaining S.H.I.E.L.D. agents. Fitz and Simmons realize that the Chronicoms have used their memories to anticipate every move and emergency protocol. With regular hiding spots compromised, Simmons comes up with a plan to use Deke’s development lab as a new refuge. The pair sends Diaz and others to safety, deciding to remain behind to destroy critical S.H.I.E.L.D. technology.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Isaiah",
+            "line": "We've taken command of their operating systems."
+        },
+        {
+            "character": "Malachi",
+            "line": "And the exits?"
+        },
+        {
+            "character": "Baal-Gad",
+            "line": "Locked down. It confounds that Enoch would speak of S.H.I.E.L.D. with such reverence."
+        },
+        {
+            "character": "Malachi",
+            "line": "It was a weakness."
+        },
+        {
+            "character": "Isaiah",
+            "line": "One which proved his undoing."
+        },
+        {
+            "character": "Malachi",
+            "line": "Take your men. Follow S.H.I.E.L.D. protocol to flush out all personnel. The technology here is quite primitive."
+        },
+        {
+            "character": "Isaiah",
+            "line": "The human mind has its limits."
+        },
+        {
+            "character": "Malachi",
+            "line": "Along with its secrets, and we will soon unlock the rest of them. Now go find us the key."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, all right, we just need to follow S.H.I.E.L.D. emergency protocols."
+        },
+        {
+            "character": "Simmons",
+            "line": "Agent Khan's strike team should be waiting for us down on the Staging Floor. What are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Calling for back-up."
+        },
+        {
+            "character": "Enoch",
+            "line": "You have reached..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Aah!"
+        },
+        {
+            "character": "Enoch",
+            "line": "... the voice mailbox for Enoch Coltrane. I am currently unable to receive your transmi..."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if the Chronicoms got to him first?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Malachi ordered his men to leave no prisoners. This isn't just an ambush."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's an extermination."
+        }
+    ]
+}

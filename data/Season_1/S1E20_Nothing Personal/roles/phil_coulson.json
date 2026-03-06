@@ -1,0 +1,62 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 20
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resilient and principled S.H.I.E.L.D. agent known for his tactical leadership and unwavering commitment to his team amid growing internal threats and external betrayals. Throughout his journey, he has navigated the complexities of secret projects such as T.A.H.I.T.I., grappled with profound personal and professional losses, and maintained a protective and compassionate stance toward his team. Coulson's leadership style is marked by pragmatism, emotional restraint, and determination to protect his team and uphold justice in the shadow of Hydra's infiltration, balancing personal vendettas with greater strategic objectives.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "bring_down_hydra_and_protect_team",
+        "goal": "Bring down Hydra operatives including John Garrett and Ward while protecting team members and innocent civilians"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_15",
+      "context": "mocking Ward's Hydra allegiance",
+      "catch_phrase": "Hail Hydra."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_12",
+      "context": "revelation about Hydra infiltration in S.H.I.E.L.D.",
+      "catch_phrase": "Hail Hydra."
+    }
+  ]
+}

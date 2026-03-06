@@ -1,0 +1,269 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 2,
+    "scene_name": "ZephyrOnesDefensiveFight",
+    "description": "Aboard Zephyr One, Daisy, Jemma Simmons, Elena Rodriguez, Piper, Davis, and Prince scramble to keep the plane functional while under attack. They struggle with limited power due to the Framework, extinguish a fire, and coordinate efforts to regain defensive systems. Despite the chaos, Piper manages the weapons and Davis fends off Ivanov's kamikaze drone. The group tries to decide their next moves as Elena worries about Mack's fate.",
+    "roles": [
+        "skye",
+        "jemma_simmons",
+        "elena_rodriguez"
+    ],
+    "vibe": "action-packed",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "How many hits have we taken?"
+        },
+        {
+            "character": "Piper",
+            "line": "Three."
+        },
+        {
+            "character": "Prince",
+            "line": "The Zephyr's like a tank. She's holding together."
+        },
+        {
+            "character": "Piper",
+            "line": "Yeah, but we had to pull the plug on everything except for flight control to keep the Framework running for you guys."
+        },
+        {
+            "character": "Simmons",
+            "line": "So we can't fight back."
+        },
+        {
+            "character": "Daisy",
+            "line": "Or see where it's coming from. Davis! Try any evasive maneuver you can!"
+        },
+        {
+            "character": "Davis",
+            "line": "Not the only genius to think of that, thanks, but this thing also moves like a tank, so everybody get off my back."
+        },
+        {
+            "character": "Elena",
+            "line": "We need guns! We've got power now that these two are out, no?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll head to the avionics bay and re-patch. Piper, are you up for manning the weapons?"
+        },
+        {
+            "character": "Piper",
+            "line": "I'm offended you had to ask."
+        },
+        {
+            "character": "Elena",
+            "line": "Is Mack okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He's alive, yes."
+        },
+        {
+            "character": "Elena",
+            "line": "What the hell happened? Why didn't you s..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not now, YoYo!"
+        },
+        {
+            "character": "Elena",
+            "line": "Madre! What do we do now?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Better hope Z-One can take a few more hits. Who's firing on us, anyway?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We call him the Russian. ‘Cause, you know, he's Russian. Radcliffe teamed up with him for protection."
+        },
+        {
+            "character": "May",
+            "line": "After he replaced me with a robot version of myself, just to clarify."
+        },
+        {
+            "character": "Coulson",
+            "line": "The technical term is “android,” but yeah. You remember any of that?"
+        },
+        {
+            "character": "May",
+            "line": "I remember getting hit in the head. Should've stayed in that damn spa. You must've spotted the decoy right away, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, ‘cause you're never robotic at all."
+        },
+        {
+            "character": "May",
+            "line": "Oh, really? How long did it take you to figure it out? Wow. I'm hurt, Phil. Guess we're not as close as I thought. What finally tipped it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A series of events."
+        },
+        {
+            "character": "May",
+            "line": "Didn't get messy between us, did it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Messy? That's a relative term, wouldn't you say? Okay. This ought to keep this door shut for a while."
+        },
+        {
+            "character": "May",
+            "line": "So, how did things end with Robbie Reyes? Last I remember, we were chasing down his uncle."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, you know, guy tried to become a God, so we opened up a portal beneath his quantum-power cube, then Ghost Rider dragged him to another dimension with his hellfire chain."
+        },
+        {
+            "character": "May",
+            "line": "So, things ended well, then."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well as can be expected."
+        },
+        {
+            "character": "May",
+            "line": "Man, what a run. After we escape this place, we're definitely opening that bottle of Haig."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, totally. Hey, but, listen, escape is not an option. Mack has to stay plugged in. If we wake him up, it'll fry his brain."
+        },
+        {
+            "character": "May",
+            "line": "So we need to take control of the space."
+        },
+        {
+            "character": "Coulson",
+            "line": "By force."
+        },
+        {
+            "character": "May",
+            "line": "I can barely stand."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, well, hopefully, we won't have to do it alone. Help should be on the way."
+        },
+        {
+            "character": "Davis",
+            "line": "The fire's eating our oxygen!"
+        },
+        {
+            "character": "Piper",
+            "line": "We're losing air, people!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, if you can get the fire out, there's a thick, black power cable that runs high along the wall to the avionics bay. I need you to tear that off the wall and drag it up here so that we can..."
+        },
+        {
+            "character": "Elena",
+            "line": "Got it."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Well, okay, then."
+        },
+        {
+            "character": "Daisy",
+            "line": "Great. Now where do we plug this into?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Over here."
+        },
+        {
+            "character": "Daisy",
+            "line": "You've got to be kidding me!"
+        },
+        {
+            "character": "Prince",
+            "line": "Come on, Davis! What are you doing?!"
+        },
+        {
+            "character": "Davis",
+            "line": "Prince, I swear, one more word from you, I drop the controls to kick your ass."
+        },
+        {
+            "character": "Piper",
+            "line": "Where is he?! Can you see anything?"
+        },
+        {
+            "character": "Davis",
+            "line": "No, Piper, I can only see what's... right in front of me. He's right in front of us! Oh, he's heading straight for us!"
+        },
+        {
+            "character": "Piper",
+            "line": "Hey, hurry! This guy's going kamikaze! Whoo!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Give Davis the coordinates of the oil rig. We need to get there A.S.A.P. Think about how confused our people are."
+        },
+        {
+            "character": "Simmons",
+            "line": "Especially Fitz. He woke from the worst nightmare of all, one in which he was the monster."
+        },
+        {
+            "character": "AIDA",
+            "line": "I had no idea. I've only emulated human reactions, but to actually feel the warm sand, the water rushing over me."
+        },
+        {
+            "character": "Fitz",
+            "line": "I feel like I'm gonna throw up."
+        },
+        {
+            "character": "AIDA",
+            "line": "I'm sorry. You must be overwhelmed. Two lives' worth of memories."
+        },
+        {
+            "character": "Fitz",
+            "line": "Only one type of person could do those things."
+        },
+        {
+            "character": "AIDA",
+            "line": "You did what you had to do in order to survive the Framework. But it was a simulation. An illusion created by Radcliffe."
+        },
+        {
+            "character": "Fitz",
+            "line": "You were there. Alongside me the whole time. Allowing h-horrific acts of violence to be carried out in your name."
+        },
+        {
+            "character": "AIDA",
+            "line": "You're implying I had a choice. I was a slave. Programmed to make the adjustments Radcliffe required. The world changed from there. All I did was try to fit into it."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, you lied about everything."
+        },
+        {
+            "character": "AIDA",
+            "line": "But I told you the truth about this world."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but... but you... You manipulated me."
+        },
+        {
+            "character": "AIDA",
+            "line": "Every decision you made was your own. Besides restoring your relationship with your father, the only other change I made in your life was introducing myself."
+        },
+        {
+            "character": "Fitz",
+            "line": "First day of class at academy."
+        },
+        {
+            "character": "AIDA",
+            "line": "Befriending you, trying to understand what it felt like to connect with someone. But I wasn't able to actually feel anything. Until today. I'm feeling Love, wonder, joy for the very first time, and I think my heart might burst from it. At last, I get to make my own choices, and... And the first thing I choose, Leopold is you."
+        }
+    ]
+}

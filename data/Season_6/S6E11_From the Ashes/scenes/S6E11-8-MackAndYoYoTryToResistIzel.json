@@ -1,0 +1,102 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "MackAndYoYoTryToResistIzel",
+    "description": "On Zephyr, Elena and Mack reflect on their relationship and tactical decisions in the face of Izel’s threats. Izel explains the power of the gravitonium device and the monolith energies, then uses the creation monolith to bring Benson's dead husband Thomas to life. Benson is tormented by this illusion until he finally relents and gives Izel the temple's location.",
+    "roles": [
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "izel",
+        "marcus_benson"
+    ],
+    "vibe": "dark",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "We really haven't had a chance to have a, uh heart-to-heart since... since the other night."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh..."
+        },
+        {
+            "character": "Elena",
+            "line": "Look, one thing's for sure. If we want whatever this is to work, you've got to be willing to put me in danger, Mack. This whole thing..."
+        },
+        {
+            "character": "Mack",
+            "line": "My decision to come along was just tactical."
+        },
+        {
+            "character": "Elena",
+            "line": "Tactical?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Izel can only possess one person at a time. This way, at least one of us will always be awake."
+        },
+        {
+            "character": "Elena",
+            "line": "To get murdered by the one that isn't."
+        },
+        {
+            "character": "Mack",
+            "line": "And I knew that getting Izel off the base would buy the team some time. They'll figure out a way to stop her."
+        },
+        {
+            "character": "Elena",
+            "line": "I suppose I can see how that's a smart plan."
+        },
+        {
+            "character": "Mack",
+            "line": "Feels good to argue again, doesn't it?"
+        },
+        {
+            "character": "Izel",
+            "line": "When the Di'Allas were destroyed, their energies didn't disappear. They were contained in this device."
+        },
+        {
+            "character": "Elena",
+            "line": "If she opens that..."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, I don't even want to think about it."
+        },
+        {
+            "character": "Izel",
+            "line": "Out of the three, the Di'Alla of Creation was the most powerful. It reaches into your mind and builds what you see. Your people have great imaginations but lack the control to create anything other than what you fear."
+        },
+        {
+            "character": "Benson",
+            "line": "That seems to me like a good reason to leave it alone."
+        },
+        {
+            "character": "Izel",
+            "line": "Mm. I'd rather see what it finds in you."
+        },
+        {
+            "character": "Mack",
+            "line": "Whatever you're seeing, it's not real!"
+        },
+        {
+            "character": "Elena",
+            "line": "Fight it if you have to!"
+        },
+        {
+            "character": "Benson",
+            "line": "Thomas."
+        },
+        {
+            "character": "Thomas",
+            "line": "How did I get here?"
+        },
+        {
+            "character": "Benson",
+            "line": "I thought I'd never see you again."
+        }
+    ]
+}

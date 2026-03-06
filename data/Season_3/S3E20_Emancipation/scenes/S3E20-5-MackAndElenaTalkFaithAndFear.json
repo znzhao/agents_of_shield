@@ -1,0 +1,20 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 5,
+    "scene_name": "MackAndElenaTalkFaithAndFear",
+    "description": "Elena and Mack reconnect as he wrestles with hopelessness over Daisy’s fate and the power of Hive. Elena advocates for standing up to evil and maintaining faith, providing much-needed resolve for Mack. The deeply personal conversation contrasts with the episode's grander threats.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Elena",
+            "line": "You're not happy to see me."
+        }
+    ]
+}

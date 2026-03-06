@@ -1,0 +1,68 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 3,
+    "scene_name": "DaisySharesTheoryWithCoulson",
+    "description": "Daisy tells Coulson her theory that Lash is secretly working inside the ATCU, using their inside information to hunt Inhumans. Coulson agrees to look for clues while investigating the ATCU with Rosalind, but Daisy is unsettled at the possibility of a hidden monster among their supposed allies. The scene sets up their parallel investigations and the undercurrent of mistrust in the ATCU.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "mysterious",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Hey. How you holding up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm pissed. I got manhandled by Lash, and it messed up our chance to see the ATCU facility. But, good news, I have a theory."
+        },
+        {
+            "character": "Coulson",
+            "line": "I like theories."
+        },
+        {
+            "character": "Daisy",
+            "line": "Lash was tracking us. He knew where our truck was. He... He needed inside info for that."
+        },
+        {
+            "character": "Coulson",
+            "line": "You think he's got access to ATCU information?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, I... I think he's in the ATCU. We know that he can transform himself into a regular-sized guy and back. What if he's hiding out as one of them?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's a scary thought. I've got Rosalind giving me a tour of her operation today. Let me see what I find there."
+        },
+        {
+            "character": "Daisy",
+            "line": "Good. I'll see what I can get on Lash's identity."
+        },
+        {
+            "character": "Coulson",
+            "line": "And whatever you dig into, try to keep it off Rosalind's radar. I need her to trust me today."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're not having a hard time working her, are you? Not getting too attached?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You do this long enough, you learn to cut yourself off from all that. Makes it easier to do the job."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sir? Is May really back for good?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm not sure. Right now, she's out for blood."
+        }
+    ]
+}

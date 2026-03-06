@@ -1,0 +1,76 @@
+{
+    "season": 5,
+    "episode": 5,
+    "num": 2,
+    "scene_name": "FitzUnderMilitaryCustody",
+    "description": "Fitz is placed under heavy interrogation by the military, now led by Hale. Despite rough questioning and accusations about his past and S.H.I.E.L.D.’s activities, Fitz tries to explain what little he knows. The military debates whether they can help find the missing agents by putting Fitz to work, and eventually tasks him with theorizing on what happened, suspecting he might have knowledge or a solution.",
+    "roles": [
+        "leo_fitz",
+        "hale"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Aah."
+        },
+        {
+            "character": "Man",
+            "line": "Time to get up. On your feet! Get up."
+        },
+        {
+            "character": "Lucas",
+            "line": "Where is Phil Coulson?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know."
+        },
+        {
+            "character": "Lucas",
+            "line": "Where is Daisy Johnson?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I don't know."
+        },
+        {
+            "character": "Lucas",
+            "line": "Where is Jemma Simmons?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I wish I knew. I wish I knew, ‘cause as much as you want to find them and bring them to justice, I want to find them so I know that they're okay. I am more than happy to pay for my sins, but I honestly do not know where they are or what happened to them. I swear I will do anything I can to help you find them. If you let me."
+        },
+        {
+            "character": "Evans",
+            "line": "He's telling the truth."
+        },
+        {
+            "character": "Hale",
+            "line": "Or he beat the machine."
+        },
+        {
+            "character": "Lucas",
+            "line": "I don't think so. I want him to fry as much as anyone, but he's the smartest guy we've ever had in here. Maybe we should let his brain work for us, help us solve this thing."
+        },
+        {
+            "character": "Hale",
+            "line": "What does he need?"
+        },
+        {
+            "character": "Evans",
+            "line": "Papers, pens, books."
+        },
+        {
+            "character": "Lucas",
+            "line": "And a TV. To watch soccer."
+        },
+        {
+            "character": "Hale",
+            "line": "Make sure that's all he watches."
+        }
+    ]
+}

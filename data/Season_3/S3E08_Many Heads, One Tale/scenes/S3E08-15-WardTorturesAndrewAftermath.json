@@ -1,0 +1,48 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 15,
+    "scene_name": "WardTorturesAndrewAftermath",
+    "description": "In an ominous final scene, Ward now has Andrew in captivity. Ward psychologically torments Andrew, hinting at plans to manipulate his transformation for HYDRA's purposes, and taunts him with the knowledge that he can now harm both May and S.H.I.E.L.D. The episode ends on a dark note as Ward prepares to experiment on Andrew.",
+    "roles": [
+        "andrew_garner",
+        "grant_ward"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "Hey! Hey! Someone want to fill me in? How long are you gonna keep me in here without any idea of what's going on? No, no, no, no, no, no! I don't need to be sedated anymore. I just... I just... I need to talk to someone about what's going on."
+        },
+        {
+            "character": "Ward",
+            "line": "All right. Let's talk. I could use a session with you, doc. I seem to be carrying around a lot of baggage these days. It's nice to finally meet you. My name is Grant..."
+        },
+        {
+            "character": "Andrew",
+            "line": "I know who you are. What are you doing here?"
+        },
+        {
+            "character": "Ward",
+            "line": "Learning. Spent a good few days educating myself. Now we get to learn about you."
+        },
+        {
+            "character": "Andrew",
+            "line": "You feeling powerful behind this glass? Well, you're gonna die with a hole in your chest. You can try to sedate me, but I promise..."
+        },
+        {
+            "character": "Ward",
+            "line": "Oh, no, no, no, no. No, this isn't the sedation compound from S.H.I.E.L.D. This is chloroethyl sulfide... something. It's, uh, basically mustard gas. You see, S.H.I.E.L.D. showed us how to turn the monster off. Now we want to know how to turn that back on. Oh, uh, I also wanted to thank you for helping me find closure. You see, I thought I knew all the best ways to bring Melinda pain. But you... May thinks I'm a monster, but you actually become one."
+        },
+        {
+            "character": "Andrew",
+            "line": "Aah!"
+        },
+        {
+            "character": "Ward",
+            "line": "I guess we know her type."
+        }
+    ]
+}

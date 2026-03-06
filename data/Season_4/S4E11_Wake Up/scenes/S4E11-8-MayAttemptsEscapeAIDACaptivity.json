@@ -1,0 +1,36 @@
+{
+    "season": 4,
+    "episode": 11,
+    "num": 8,
+    "scene_name": "MayAttemptsEscapeAIDACaptivity",
+    "description": "In Radcliffe's lab, the real May attempts to free herself from captivity. She battles AIDA, using her wits and physical prowess, but is overpowered and subdued yet again. This scene underscores May's determination to escape and AIDA's increasing willingness to use force to maintain control.",
+    "roles": [
+        "melinda_may",
+        "aida"
+    ],
+    "vibe": "action-packed",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Aah."
+        },
+        {
+            "character": "AIDA",
+            "line": "Perhaps you are gonna be a problem after all."
+        },
+        {
+            "character": "May",
+            "line": "Hyah!"
+        },
+        {
+            "character": "AIDA",
+            "line": "I like you, Agent May. I don't wish for you to suffer. I promise to make this quick and painless."
+        },
+        {
+            "character": "May",
+            "line": "Thanks. I'm not worried."
+        }
+    ]
+}

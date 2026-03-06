@@ -1,0 +1,37 @@
+{
+    "season": 7,
+    "episode": 7,
+    "num": 9,
+    "scene_name": "CoulsonAdvisesMackReturn",
+    "description": "Back at Lighthouse HQ, Coulson and Deke attempt to convince Mack to return to the team, emphasizing how isolation is unhealthy and the importance of friends during hard times. Deke invites Mack to observe the Deke Squad's training, hoping to impress him with the squad's potential.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "It's good to see you, Mack. I know this last year hasn't been easy for you."
+        },
+        {
+            "character": "Mack",
+            "line": "Seems I'm not the only one."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not wrong. Though it's been better since Cricket stopped playing his home videos in my VCR slot. Hardest part's been not having the team around. You must really miss Yo-Yo."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm just glad she hasn't had to see me like this."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, this may be coming from a head on a UHF channel, but isolating yourself just isn't healthy. You need your friends, especially during the rough patches. Maybe you should think about moving back in with us."
+        }
+    ]
+}

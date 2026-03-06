@@ -1,0 +1,77 @@
+{
+    "season": 5,
+    "episode": 22,
+    "num": 5,
+    "scene_name": "CoulsonConfrontsMayAboutHisFate",
+    "description": "May and Simmons check on Coulson, who is now awake but weak. Simmons gives Coulson the choice to take the serum; May insists that the decision is truly his. In an emotionally charged exchange, Coulson and May share their feelings for one another and face the looming prospect of loss.",
+    "roles": [
+        "melinda_may",
+        "jemma_simmons",
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's almost the same serum that was keeping Garrett alive, though the Centipede ingredients might give you a little extra mojo."
+        },
+        {
+            "character": "Coulson",
+            "line": "Jemma, you remember when I was carving into the walls, and you know how it ended with Garrett. We've seen what happens when we don't let nature take its course."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, sir. And we discussed that as a group..."
+        },
+        {
+            "character": "May",
+            "line": "Simmons. Will you give us a moment?"
+        },
+        {
+            "character": "May",
+            "line": "I'm not going to detail what we've risked to get this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm aware. And I'm not happy I was left out of that decision."
+        },
+        {
+            "character": "May",
+            "line": "You wouldn't wake up. But now, the decision's yours. You're too weak to stand? Well, we'd like to see you walk out of this room and re-join the fight. But it's up to you, if you think more time is worth it. I've made it clear how I feel."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think I have too."
+        },
+        {
+            "character": "May",
+            "line": "But even now, the word scares you."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm just having a hard-enough time leaving you behind."
+        },
+        {
+            "character": "May",
+            "line": "So, don't."
+        },
+        {
+            "character": "Davis",
+            "line": "We're ten minutes out."
+        },
+        {
+            "character": "Mack",
+            "line": "The buildings are holding for now and the tracker we placed on Robin is back online and it places her inside that ship. So, taking out Talbot is one thing, but we gotta clear the civilians and rescue Robin too."
+        },
+        {
+            "character": "May",
+            "line": "Before the ship and the buildings collapse."
+        },
+        {
+            "character": "Fitz",
+            "line": "I would like to get close and test the building's structural integrity."
+        }
+    ]
+}

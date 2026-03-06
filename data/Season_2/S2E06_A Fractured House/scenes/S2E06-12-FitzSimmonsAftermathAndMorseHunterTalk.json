@@ -1,0 +1,74 @@
+{
+    "season": 2,
+    "episode": 6,
+    "num": 12,
+    "scene_name": "FitzSimmonsAftermathAndMorseHunterTalk",
+    "description": "Back at The Playground, Simmons and Mack discuss Fitz's progress and Simmons' feelings, while Mack gently suggests Simmons' presence may be making things harder for Fitz. The emotional conversation pushes Simmons to reflect on her decisions. Simultaneously, Morse and Hunter have a heart-to-heart about their place in S.H.I.E.L.D. and their personal choices, hinting at romantic tension and unresolved feelings.",
+    "roles": [
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "lance_hunter",
+        "bobbi_morse"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "It's funny. This is where we used to keep the hazardous biological materials."
+        },
+        {
+            "character": "Mack",
+            "line": "Guess not everything changes, huh? What can I do for you?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I just wanted to thank you for helping Fitz. Well, for... for being his friend."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't help him. He doesn't need any. You know, that guy you're wishing he would be... I never met him. I only know this guy, and, uh... Yeah, I mean, he's a little weird, but, uh... but I like him."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't want him to be anybody but himself."
+        },
+        {
+            "character": "Mack",
+            "line": "You sure about that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes."
+        },
+        {
+            "character": "Mack",
+            "line": "Because I heard he told you how he felt and you bailed."
+        },
+        {
+            "character": "Simmons",
+            "line": "That's not what happened."
+        },
+        {
+            "character": "Mack",
+            "line": "Look... I know you two have a past. But from what I've seen, the only thing that makes him worse... is you."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know. Why do you think I left?"
+        },
+        {
+            "character": "Morse",
+            "line": "You're leaving?"
+        },
+        {
+            "character": "Hunter",
+            "line": "S.H.I.E.L.D.'s always been your thing. I won't stand in the way of that."
+        },
+        {
+            "character": "Morse",
+            "line": "S.H.I.E.L.D.'s not S.H.I.E.L.D. anymore. I'm still trying to figure out where I fit in, too. Just don't die out there, all right? But if you want to stay... stay."
+        }
+    ]
+}

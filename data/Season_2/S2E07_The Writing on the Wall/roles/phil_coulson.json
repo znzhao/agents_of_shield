@@ -1,0 +1,111 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 7
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a deeply committed and resilient leader of S.H.I.E.L.D., whose pragmatic and strategic nature is tempered by a growing psychic burden linked to the alien GH.325 serum and mysterious carvings associated with the T.A.H.I.T.I. project. His leadership reflects unwavering loyalty to his team and a protective instinct, even amid profound mental and emotional struggles caused by resurfacing memories and obsessions connected to his lost past. Coulson's arc reveals a balance of vulnerability and strength as he confronts the ethical consequences of past experiments, fights to uncover hidden truths behind the alien runes, and navigates complex personal and organizational betrayals. His evolution also highlights his increasing willingness to take personal risks to protect others and solve the puzzles threatening his team's survival against Hydra's expansion.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_shield_covert_operations_and_secure_allies",
+        "goal": "Sustain S.H.I.E.L.D. covert operations while managing strained relationships with governmental forces and securing trusted alliances"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_meaning_of_alien_carvings_and_find_city",
+        "goal": "Uncover the true meaning of the alien carvings linked to the T.A.H.I.T.I. project and locate the hidden city they blueprint to stay ahead of Hydra"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "apprehend_and_stabilize_tahiti_subjects",
+        "goal": "Apprehend and stabilize surviving T.A.H.I.T.I. project test subjects to prevent further harm and unravel project consequences"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "capture_grant_ward_and_undermine_hydra_operations",
+        "goal": "Capture or neutralize Grant Ward to disrupt Hydra infiltration and protect S.H.I.E.L.D. agents"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "prevent_hydra_recruitment_of_potential_weapons",
+        "goal": "Prevent Hydra from recruiting or weaponizing individuals with emerging powers or scientific expertise"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_and_recover_agents_and_intelligence",
+        "goal": "Protect S.H.I.E.L.D. agents embedded in hostile environments and recover critical intelligence assets despite high risks"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_23",
+      "context": "defending the reality of his mental state and rallying team for the discovery of the blueprint city",
+      "catch_phrase": "To answer the question on everyone's mind, no, I'm not crazy. I know in the past few months, it may have seemed like I was leading you on some fool's errand, chasing after strange carvings and artifacts. At times, I questioned it myself... wondering if I was chasing windmills, trying to solve some unsolvable puzzle. But the pieces are coming together. The puzzle's taking shape."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_20",
+      "context": "expressing frustration and resolve against Hydra's recruitment tactics",
+      "catch_phrase": "It's gone from being a land grab to a talent grab. And I'm getting damn tired of losing our best and brightest to Hydra."
+    }
+  ]
+}

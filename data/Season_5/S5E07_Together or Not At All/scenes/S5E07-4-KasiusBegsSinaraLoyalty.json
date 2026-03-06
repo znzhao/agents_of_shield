@@ -1,0 +1,43 @@
+{
+    "season": 5,
+    "episode": 7,
+    "num": 4,
+    "scene_name": "KasiusBegsSinaraLoyalty",
+    "description": "Kasius tries to secure Sinara’s support, clearly feeling vulnerable with Faulnak in control. He appeals to Sinara’s loyalty and past achievements, urging her to help regain his honor and freedom. Sinara, however, is unimpressed by his pleas, revealing cracks in their alliance.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Kasius",
+            "line": "Finally. There's work to be done. Faulnak loves to play general. Let him. I need him to be satiated. He's the gatekeeper to my father, to our freedom."
+        },
+        {
+            "character": "Sinara",
+            "line": "“Our?”"
+        },
+        {
+            "character": "Kasius",
+            "line": "Don't be dramatic."
+        },
+        {
+            "character": "Sinara",
+            "line": "He gives the orders now, no?"
+        },
+        {
+            "character": "Kasius",
+            "line": "I see. You're resentful because I allowed him to throw you in the Crater. Well, look at you, no worse for wear. You held your own against the Destroyer of Worlds, as I knew you would. Your strength has never let me down. And now I ask for you to lend it to me once again. We're so close, Sinara, to freedom from this place. Restored to glory together."
+        },
+        {
+            "character": "Sinara",
+            "line": "You're begging. It's repulsive."
+        },
+        {
+            "character": "Kasius",
+            "line": "I'm imploring you to think. To use reason. I must appease my brother, and I cannot allow him to steal my reward. I will keep him entertained. We'll let his man chase her tail while you figure out what's in her head. Where will she go?"
+        }
+    ]
+}

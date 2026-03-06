@@ -1,0 +1,64 @@
+{
+    "season": 4,
+    "episode": 13,
+    "num": 13,
+    "scene_name": "FitzSimmonsAnalyzeShockleyExplosion",
+    "description": "Fitz and Simmons analyze evidence from Nadeer's office. They realize the explosion was caused by a Terrigenesis event, not a conventional bomb, and deduce Shockley survived the transformation. They rush to warn the team.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "thrilling",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Damn. Got hydrocarbons up the wazoo, but not a single oxidizing agent that would cause an explosion."
+        },
+        {
+            "character": "Fitz",
+            "line": "No nitro-methane?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Sulphonic acid?"
+        },
+        {
+            "character": "Simmons",
+            "line": "No, just carbon, nitrogen, phosphorous..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait, wait, wait, wait. Did you find selenium?"
+        },
+        {
+            "character": "Simmons",
+            "line": "How did you know?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Jemma, you didn't find pieces of bomb casing in that office. You found pieces of Inhuman husk."
+        },
+        {
+            "character": "Simmons",
+            "line": "Inhuman husk! Fitz, you're brilliant!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, we both said it at the same time."
+        },
+        {
+            "character": "Simmons",
+            "line": "So that means that somebody in that office went through a Terrigenesis. And then what, just exploded?"
+        },
+        {
+            "character": "Fitz",
+            "line": "We've seen worse. Big question is, how did Shockley survive it?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Bloody hell."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "season": 6,
+    "episode": 2,
+    "num": 6,
+    "scene_name": "SargeTruckMissionPlanning",
+    "description": "Sarge's team regroups, breathing Earth's air and planning their next heist. Pax expresses weariness of this world, while Sarge is unrelenting, reminding everyone to stay on task despite personal fatigue or nostalgia. Tensions simmer as Sarge keeps his guard up about his mysterious past and motivations.",
+    "roles": [
+        "sarge_pachakutiq"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Sarge",
+            "line": "Nice to have breathable air again."
+        },
+        {
+            "character": "Pax",
+            "line": "Yeah. It'll be a shame to see it go. Is there any interference?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Straight shot. Plenty of leeway. Should be fun."
+        },
+        {
+            "character": "Pax",
+            "line": "You know, each of us... we have a very different definition of what that word means."
+        },
+        {
+            "character": "Sarge",
+            "line": "Why do I feel like you're about to enlighten me with yours?"
+        },
+        {
+            "character": "Pax",
+            "line": "You know, why not take a breath here? This place has sugar water, blue sky. Maybe kick back before it's reduced to ash."
+        },
+        {
+            "character": "Sarge",
+            "line": "Sounds like powering down."
+        },
+        {
+            "character": "Pax",
+            "line": "Or charging up, right? I mean, didn't you ever take a load off back in your home turf, your past life or whatever? One day, you're gonna tell us about it."
+        },
+        {
+            "character": "Sarge",
+            "line": "Don't hold your breath."
+        },
+        {
+            "character": "Man",
+            "line": "Hey! You two have some I.D.? This area's restricted."
+        },
+        {
+            "character": "Pax",
+            "line": "You must not have known we were coming. Uh, we're almost done here, so you can..."
+        },
+        {
+            "character": "Man",
+            "line": "Done with what? Who are you?"
+        },
+        {
+            "character": "Pax",
+            "line": "We were hired by the Conglomerated Ministry of Shipping."
+        },
+        {
+            "character": "Man",
+            "line": "The Shipping Department?"
+        },
+        {
+            "character": "Pax",
+            "line": "The... The Min... I don't know."
+        },
+        {
+            "character": "Sarge",
+            "line": "It was worth a shot."
+        },
+        {
+            "character": "Mack",
+            "line": "These guys must need something. And when they go for it, we'll be watching."
+        }
+    ]
+}

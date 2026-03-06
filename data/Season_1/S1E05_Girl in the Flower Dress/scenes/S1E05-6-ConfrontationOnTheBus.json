@@ -1,0 +1,168 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 6,
+    "scene_name": "ConfrontationOnTheBus",
+    "description": "Back on the Bus, Skye is interrogated by Coulson about her contact with Miles. She insists she only warned Miles for personal reasons and denies working with him against S.H.I.E.L.D. The team's trust is shaken as they detain Miles, and Fitz and Simmons discuss Skye's deception. May, Coulson, Ward, and Skye navigate the rift caused by this betrayal, and Skye pleads for understanding.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "How long have you two been in contact?"
+        },
+        {
+            "character": "Skye",
+            "line": "I contacted him once the day I joined to tell him I was okay and once earlier today."
+        },
+        {
+            "character": "Coulson",
+            "line": "When you tipped off an active suspect?"
+        },
+        {
+            "character": "Skye",
+            "line": "No, it's not like that. Miles and I... we met when we were both a little screwed up. Scratch that... he was a little screwed up, I was a lot. But we looked after one another. That's why I warned him, not because we're working together on this, but because we're... friends. I'm really sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "Noted. If not you, then who is Mr. Lydon working with?"
+        },
+        {
+            "character": "Skye",
+            "line": "No one. He's an idealist, believes in freedom of information."
+        },
+        {
+            "character": "Coulson",
+            "line": "That information cost a man his freedom, and you sabotaged our attempts to remedy that."
+        },
+        {
+            "character": "Skye",
+            "line": "No, I came here to find out what Miles knows about Chan."
+        },
+        {
+            "character": "Coulson",
+            "line": "And?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nothing. Miles is a dead end. He's harmless."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll see."
+        },
+        {
+            "character": "Skye",
+            "line": "Really, I was gonna find out everything I could to try to help. I just... I felt like I couldn't tell you guys everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know. That's why I asked May to follow you. Seems like that wasn't a dead end."
+        },
+        {
+            "character": "Fitz",
+            "line": "Why would Skye do this to us for him? I thought she was our friend."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think she is, Fitz. But he's just obviously more than that."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, but we've been through so much together, and she didn't even tell us that she has a guy."
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, who knows what they've been through together?"
+        },
+        {
+            "character": "May",
+            "line": "The classified information you stole from us... who did you give it to?"
+        },
+        {
+            "character": "Miles",
+            "line": "It's information. It has a life of its own."
+        },
+        {
+            "character": "May",
+            "line": "What happened to Mr. Chan?"
+        },
+        {
+            "character": "Miles",
+            "line": "I don't know who that is, so why don't you tell me? So, are you guys just gonna destroy all my stuff?"
+        },
+        {
+            "character": "May",
+            "line": "Yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "Anything?"
+        },
+        {
+            "character": "Miles",
+            "line": "I don't have to talk to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Take him in. Gather all the evidence and secure the prisoners. We got what we were looking for here. We're going to Hong Kong."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm so sorry, Ward. This is not what it looks like."
+        },
+        {
+            "character": "Ward",
+            "line": "Hands. Now get up."
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, you missed a button."
+        },
+        {
+            "character": "Chan",
+            "line": "What is this big place, Raina? And who are these guys?"
+        },
+        {
+            "character": "Raina",
+            "line": "They'll assist you with anything you need. We're here to monitor your vitals while we observe your powers. And it's big because we'll need the space. This serum strengthens the cytoskeleton within each cell of your body. One dose, and you'll feel incredible... until it wears off."
+        },
+        {
+            "character": "Chan",
+            "line": "And it will wear off?"
+        },
+        {
+            "character": "Raina",
+            "line": "Yes. But the effects in average subjects have been impressive. In you, I'm excited to see."
+        },
+        {
+            "character": "Chan",
+            "line": "What do you think of the name “Scorch?”"
+        },
+        {
+            "character": "Raina",
+            "line": "Breathe. Feel it? Now let's see what you can do."
+        },
+        {
+            "character": "Chan",
+            "line": "Whoa. Oh, sorry! You almost got scorched. This is incredible. Whoo! You are a beautiful angel, you know that?"
+        },
+        {
+            "character": "Raina",
+            "line": "Your power is an amazing gift."
+        },
+        {
+            "character": "Chan",
+            "line": "And S.H.I.E.L.D. wouldn't let me use it. But thanks to you, the whole world can finally see what I can do. From now on, nobody holds me back."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 10,
+    "scene_name": "CoulsonAndMalickBond",
+    "description": "Coulson continues interrogating Malick, who is wracked by loss and guilt. Coulson tries to rebuild trust and draw out useful information by appealing to their shared experience of loss and the need for revenge. Malick finally offers to cooperate fully, giving Coulson everything he knows about Hive.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "I got to ask, you wanted all of this. What did you think would happen?"
+        },
+        {
+            "character": "Malick",
+            "line": "You don't understand what it's like to be brought up in faith."
+        },
+        {
+            "character": "Coulson",
+            "line": "We were “C and E” Catholics. Sure, it's no death cult."
+        },
+        {
+            "character": "Malick",
+            "line": "Then you know we all have our sins. I believed that I could resurrect a god. But instead, I freed the Devil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Only technically. I mean, all the ancient Satanic creation myths, they were based on him, which you knew."
+        },
+        {
+            "character": "Malick",
+            "line": "The Devil promises everything and then lets you destroy your own world. I sacrificed my brother to him. Still, he took my daughter. And that image of her body lying on that floor. I failed her. W-What else matters?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What you do next matters."
+        },
+        {
+            "character": "Malick",
+            "line": "Are you trying to sell me on the idea that I can set everything right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm trying to sell you on revenge. I have an image, too, of a body on the floor. Rosalind Price. Love turned to rage in that moment. So I hunted down and murdered Grant Ward. Not to serve any good. Not to serve any belief. I wanted revenge. I wanted to feel him die. That's the sin that gave your Devil new life."
+        },
+        {
+            "character": "Malick",
+            "line": "To come and take everything we love."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let it turn into rage. Tell me how to stop him."
+        },
+        {
+            "character": "Malick",
+            "line": "This god has outlived..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've met gods. Gods bleed."
+        },
+        {
+            "character": "Malick",
+            "line": "I never saw my last rodeo being with S.H.I.E.L.D. What would you like to know?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Start with everything."
+        }
+    ]
+}

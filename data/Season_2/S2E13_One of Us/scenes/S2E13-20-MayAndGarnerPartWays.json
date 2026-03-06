@@ -1,0 +1,51 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 20,
+    "scene_name": "MayAndGarnerPartWays",
+    "description": "May and Garner share a final, bittersweet conversation about Skye and the dangers agents now face. May asks Garner to consult for S.H.I.E.L.D. again, but he declines and says his personal life has moved on. Their goodbye is somber, reflecting on the unchanged dangers of their world and the emotional costs of their work.",
+    "roles": [
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "I left Coulson and Skye copies of my report."
+        },
+        {
+            "character": "May",
+            "line": "I assume you're recommending Skye be removed from active duty."
+        },
+        {
+            "character": "Andrew",
+            "line": "I'm recommending Skye leave S.H.I.E.L.D. altogether. It's too much for her to deal with, emotionally, physically. She needs to be somewhere safe to do that."
+        },
+        {
+            "character": "May",
+            "line": "She is safe with us."
+        },
+        {
+            "character": "Andrew",
+            "line": "You really believe that? After Bahrain? You better than anyone knows how badly this can end."
+        },
+        {
+            "character": "May",
+            "line": "We're as close to a family as Skye has."
+        },
+        {
+            "character": "Andrew",
+            "line": "Yeah."
+        },
+        {
+            "character": "May",
+            "line": "She likes you. Would you consider consulting for us?"
+        },
+        {
+            "character": "Andrew",
+            "line": "No. I can suggest someone, but it can't be me. S.H.I.E.L.D. hasn't changed. None of it's changed. There was a reason I moved on back then. And I have another reason now. Her photo's on my desk. Goodbye, Melinda."
+        }
+    ]
+}

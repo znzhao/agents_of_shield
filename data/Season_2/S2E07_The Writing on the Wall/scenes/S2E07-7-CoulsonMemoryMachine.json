@@ -1,0 +1,459 @@
+{
+    "season": 2,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "CoulsonMemoryMachine",
+    "description": "At The Playground, Coulson insists on using the memory machine to unlock lost information about T.A.H.I.T.I. test subjects, despite the team's concerns. Skye, Simmons, Mack, and Fitz support or observe as Coulson painfully relives the project's operation, including the controversial mind-wiping solution for patients. Coulson identifies two survivors, Lewis Seaver and Sebastian Derik, before the experience nearly breaks him.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "skye",
+        "leo_fitz",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "intense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "You're gonna have to torture it out of me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is all this really necessary?"
+        },
+        {
+            "character": "Simmons",
+            "line": "If you're going to insist on doing this, I'm going to be monitoring you very closely. It took me and Fitz six weeks to figure out how to operate this, and quite honestly, I never thought we'd have to use it."
+        },
+        {
+            "character": "Skye",
+            "line": "We should have destroyed it. In the history of bad ideas, this is light-years ahead of everything."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, trying to bring dead agents back to life using alien blood blows everything else away."
+        },
+        {
+            "character": "Skye",
+            "line": "They buried those memories for a reason, Coulson. They were driving people insane. And now you want to uncover it when you've been getting worse. May would never..."
+        },
+        {
+            "character": "Coulson",
+            "line": "May's not the director. This is my call. I was put in charge of the Tahiti project, so those people are my responsibility. If going back in this machine saves even one life, then it's worth the risk."
+        },
+        {
+            "character": "Mack",
+            "line": "Stealing bodies, talking about aliens, and bringing the dead back to life. What kind of creature feature did I sign up for?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Coulson lost his..."
+        },
+        {
+            "character": "Mack",
+            "line": "Marbles? Mind?"
+        },
+        {
+            "character": "Fitz",
+            "line": "No, memories. The machine helps him find them."
+        },
+        {
+            "character": "Skye",
+            "line": "Mack, I need you close just in case."
+        },
+        {
+            "character": "Mack",
+            "line": "In case...?"
+        },
+        {
+            "character": "Skye",
+            "line": "In case he starts screaming and you need to hold him down."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, try to stay relaxed. Listen to my voice. I'll guide you through, but at the first sign of any duress, I'm pulling you out."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, not until we have everything we need to find this guy."
+        },
+        {
+            "character": "Simmons",
+            "line": "All systems are go."
+        },
+        {
+            "character": "Skye",
+            "line": "Concentrate on Agent Stevens. She's your access point. Focus on her. All right. Take him back."
+        },
+        {
+            "character": "Skye",
+            "line": "What do you see? Where are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The guest house... in the interview room."
+        },
+        {
+            "character": "Skye",
+            "line": "D-Do you recognize anyone?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm alone."
+        },
+        {
+            "character": "Skye",
+            "line": "Concentrate on Agent Stevens."
+        },
+        {
+            "character": "Coulson",
+            "line": "How do you feel today?"
+        },
+        {
+            "character": "Stevens",
+            "line": "Terrific. I've never felt better."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do you remember how you got here?"
+        },
+        {
+            "character": "Stevens",
+            "line": "I volunteered. I was dying, and... when I woke up, everything was okay."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's here. She's doing well."
+        },
+        {
+            "character": "Skye",
+            "line": "And the others? How many are there?"
+        },
+        {
+            "character": "Derik",
+            "line": "I'm ready to get back in the field."
+        },
+        {
+            "character": "Woman",
+            "line": "I feel great. It's a new day."
+        },
+        {
+            "character": "Derik",
+            "line": "How long are you keeping me here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Six patients, well-adjusted. I'm recommending immediate release."
+        },
+        {
+            "character": "Simmons",
+            "line": "His heart rate is spiking."
+        },
+        {
+            "character": "Skye",
+            "line": "What's happening, Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I see the writing... for the first time. Something's happening to them."
+        },
+        {
+            "character": "Woman",
+            "line": "I want to get out of here! I want to get out of here!"
+        },
+        {
+            "character": "Derik",
+            "line": "How long are you gonna keep me here with these lunatics, Coulson?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Vital signs elevating."
+        },
+        {
+            "character": "Skye",
+            "line": "Tell me what's going on, Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "Degenerative effects. They're unstable. They're getting worse every day. They're getting worse every day. We're losing them. We need to shut down the program."
+        },
+        {
+            "character": "Goodman",
+            "line": "This isn't a failure, Agent Coulson. It's a first step. We rejuvenated life."
+        },
+        {
+            "character": "Coulson",
+            "line": "This isn't life. We need to shut it down and destroy the host."
+        },
+        {
+            "character": "Goodman",
+            "line": "You can't do that! It's thousands of years old, pre-dating the pyramids! We haven't even scratched the surface of the benefits."
+        },
+        {
+            "character": "Coulson",
+            "line": "These are human beings, not lab rats! I'm contacting Fury."
+        },
+        {
+            "character": "Goodman",
+            "line": "There's still hope for them. The host's genetic material may be implanting its own genetic memories onto theirs, creating the psychic schism. If we were to completely wipe away all their memories..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Erase their minds? That's hope?"
+        },
+        {
+            "character": "Goodman",
+            "line": "We can give them new memories, new identities. They'll never be agents again, but they'll be able to lead normal, healthy lives."
+        },
+        {
+            "character": "Thompson",
+            "line": "Let me die! No, stop! Please! No! Please, will you make it stop? Please, make it stop! Aah! Please, somebody! Somebody stop it! Stop doing this, please!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What have we done? What have we done? What have we done? What did you do? Tell me. We erased them, all of them. New names, new memories... it was the only way."
+        },
+        {
+            "character": "Skye",
+            "line": "You did the right thing. Can you find their new names?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, how much more can he take?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know."
+        },
+        {
+            "character": "Mack",
+            "line": "Whatever you're doing to him, you need to stop!"
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson, we need their names. Find their names so we can pull you out!"
+        },
+        {
+            "character": "Coulsonn",
+            "line": "Lewis Seaver."
+        },
+        {
+            "character": "Skye",
+            "line": "That's one. That... That's one. That's... K-keep them coming. Keep them coming."
+        },
+        {
+            "character": "Hunter",
+            "line": "Looks like the big, bad wolf is stopping for a pint."
+        },
+        {
+            "character": "Bartender",
+            "line": "I'll give you a choice. Colombian necktie... or bullet in the head."
+        },
+        {
+            "character": "Ward",
+            "line": "Bullet in the head... on the rocks."
+        },
+        {
+            "character": "Bartender",
+            "line": "On the house. Welcome back."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hello. May, we have a problem."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Grant Ward. In from the cold at last. Mr. Garrett spoke quite highly of you. Imagine my surprise when I received your call. I wasn't even aware that phone was active... or you, for that matter. We thought you were dead."
+        },
+        {
+            "character": "Ward",
+            "line": "Not dead. Waiting. I was locked in a cage. Before that, I was trapped behind a S.H.I.E.L.D. badge. Now I'm finally free."
+        },
+        {
+            "character": "Bakshi",
+            "line": "How can we help you?"
+        },
+        {
+            "character": "Ward",
+            "line": "Since Strucker is overseas, I assume you report to someone else."
+        },
+        {
+            "character": "Bakshi",
+            "line": "That's correct."
+        },
+        {
+            "character": "Ward",
+            "line": "I want a meeting."
+        },
+        {
+            "character": "Bakshi",
+            "line": "Though we do appreciate your talents and your loyalty, Mr. Whitehall is a very busy man."
+        },
+        {
+            "character": "Ward",
+            "line": "Will his schedule open up if I can get you face-to-face with Coulson? Close enough to put... a bullet in his head."
+        },
+        {
+            "character": "May",
+            "line": "Skye? Coulson?! Anyone."
+        },
+        {
+            "character": "Triplett",
+            "line": "When the cat's away..."
+        },
+        {
+            "character": "May",
+            "line": "Keep trying to reach them. I'm taking us down."
+        },
+        {
+            "character": "Skye",
+            "line": "The body of Lewis Seaver was found in the remains of the Santa Maria church fire in Miami."
+        },
+        {
+            "character": "Coulson",
+            "line": "In the fire was this guy too."
+        },
+        {
+            "character": "Skye",
+            "line": "Three of the others died of unnatural causes in the last six weeks. This guy is definitely targeting Tahiti patients."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is there still a chance?"
+        },
+        {
+            "character": "Skye",
+            "line": "Two of them are alive. We need to find out which one is the killer. Do you remember anything, a-any clues?"
+        },
+        {
+            "character": "Derik",
+            "line": "Stay out of my head, Coulson. There's nothing wrong with me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Roll up your sleeves."
+        },
+        {
+            "character": "Derik",
+            "line": "You don't need to erase me. There's nothing wrong with me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're not okay, and it's only gonna get worse. But I can help you."
+        },
+        {
+            "character": "Derik",
+            "line": "No! It's the only way to know! You... you can't erase me, Coulson! Don't do this to me, Coulson! I need to know! I need to know! No! You can't erase me! I need to know what it means! It wants me to know!"
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to know! It wants me to know! I need to know! I need to know! I need to know! No! No! I need to know! I need to know!"
+        },
+        {
+            "character": "Mack",
+            "line": "Get him the hell out of there!"
+        },
+        {
+            "character": "Skye",
+            "line": "Shut it down! Shut it down! I need to know! Sedate him! I'm calling May."
+        },
+        {
+            "character": "Triplett",
+            "line": "I... I got Skye."
+        },
+        {
+            "character": "May",
+            "line": "Skye? We have a Ward situation that's about to get really bad for all of us."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson went into the memory machine."
+        },
+        {
+            "character": "May",
+            "line": "What?! And you let him."
+        },
+        {
+            "character": "Skye",
+            "line": "It wasn't my call."
+        },
+        {
+            "character": "May",
+            "line": "Lock him up and keep him under observation until I get back."
+        },
+        {
+            "character": "Triplett",
+            "line": "What the hell is going on?"
+        },
+        {
+            "character": "May",
+            "line": "Let's just stay focused."
+        },
+        {
+            "character": "Coulson",
+            "line": "I need to know. I need to know!"
+        },
+        {
+            "character": "Mack",
+            "line": "What did you do to him?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Just hold him down."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson?! Don't make me use this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sorry."
+        },
+        {
+            "character": "Skye",
+            "line": "I spoke to May. She wants us to lock you up until she gets back."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think that's a good idea."
+        },
+        {
+            "character": "Coulson",
+            "line": "His name was Sebastian Derik. He was an assassin from the dark side of S.H.I.E.L.D. How many others did you say are still alive?"
+        },
+        {
+            "character": "Skye",
+            "line": "Just one... Hank Thompson. He only lives a few hours away from here, so I'll send some agents to protect him."
+        },
+        {
+            "character": "Coulson",
+            "line": "That won't be necessary."
+        },
+        {
+            "character": "Skye",
+            "line": "Aah! Coulson..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sorry. I need to take care of him personally."
+        },
+        {
+            "character": "Skye",
+            "line": "Coulson, what do you..."
+        },
+        {
+            "character": "Thompson",
+            "line": "Hey, you want to slow down that train, buddy? You want to see them crash, don't you? I fear for the world the day you get your driver's license."
+        },
+        {
+            "character": "Thompson",
+            "line": "Is it a customer?"
+        },
+        {
+            "character": "Thompson",
+            "line": "Okay, I'll be right there."
+        }
+    ]
+}

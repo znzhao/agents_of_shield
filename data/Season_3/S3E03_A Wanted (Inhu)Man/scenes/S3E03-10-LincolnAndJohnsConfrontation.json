@@ -1,0 +1,91 @@
+{
+    "season": 3,
+    "episode": 3,
+    "num": 10,
+    "scene_name": "LincolnAndJohnsConfrontation",
+    "description": "Lincoln's refuge is shattered as his friend John reveals he has called the authorities after seeing news reports about Lincoln. The confrontation escalates, ending in tragedy when John suffers a heart attack and Lincoln desperately tries, and fails, to save him. Lincoln is left grief-stricken and wracked with guilt.",
+    "roles": [
+        "lincoln"
+    ],
+    "vibe": "tragic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "John",
+            "line": "Not exactly the penthouse view. You looking for something?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "No, I just... it's hard to relax, you know?"
+        },
+        {
+            "character": "John",
+            "line": "I know."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Everything okay?"
+        },
+        {
+            "character": "John",
+            "line": "Why wouldn't it be?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Maybe I will hop in the shower. John, what's up? What's wrong?"
+        },
+        {
+            "character": "John",
+            "line": "You just stay where you are. Don't touch me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Wait. What is going on?"
+        },
+        {
+            "character": "John",
+            "line": "They'll be here any minute."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Who did you call?"
+        },
+        {
+            "character": "John",
+            "line": "I called the hotline. They said that you're dangerous. Lincoln, they said that you killed people."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I never killed anyone, I swear. You said you know what type of man I am."
+        },
+        {
+            "character": "John",
+            "line": "I don't even know what you are. They say you're an alien."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's not at all what you think."
+        },
+        {
+            "character": "John",
+            "line": "You just stay there. Stay there! I'm not kidding! Stay there. They're gonna be here any minute."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Here. I'm gonna leave the money and take the car. You don't need to be involved."
+        },
+        {
+            "character": "John",
+            "line": "Just stay back!"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Get out of my way! Sorry I brought you into this."
+        },
+        {
+            "character": "Lincoln",
+            "line": "No, no, no, no. No, John. Come on, John!"
+        }
+    ]
+}

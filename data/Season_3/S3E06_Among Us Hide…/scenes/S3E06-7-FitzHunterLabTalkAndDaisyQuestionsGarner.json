@@ -1,0 +1,179 @@
+{
+    "season": 3,
+    "episode": 6,
+    "num": 7,
+    "scene_name": "FitzHunterLabTalkAndDaisyQuestionsGarner",
+    "description": "While Fitz helps Hunter with research and has a candid discussion about Simmons and her relationship with Will, Daisy seeks Dr. Garner's input on Lash and voices her suspicion that Lash can change into a human form. This scene intercuts personal and investigative dialogue, with Daisy, Fitz, and Hunter's dynamics deepening and Daisy's hunt for Lash intensifying. Mack soon pulls Daisy aside to discuss their theory about Banks, the ATCU agent.",
+    "roles": [
+        "leo_fitz",
+        "lance_hunter",
+        "skye",
+        "andrew_garner",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "I just thought you could use some help."
+        },
+        {
+            "character": "Fitz",
+            "line": "I've got it. I promise. I just need to concentrate."
+        },
+        {
+            "character": "Hunter",
+            "line": "Really? 'Cause it looks like your mind's kind of elsewhere."
+        },
+        {
+            "character": "Fitz",
+            "line": "The portal simulation is just running in the background. They're not taking any of my time."
+        },
+        {
+            "character": "Hunter",
+            "line": "Doesn't make it a good idea."
+        },
+        {
+            "character": "Fitz",
+            "line": "What? You don't think I should help Simmons rescue Will?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Do you think you should? He's the competition. If your girlfriend's ex wants to visit from Phoenix, you do not buy him a plane ticket."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's really specific."
+        },
+        {
+            "character": "Hunter",
+            "line": "Huh?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Anyway, this guy kept Simmons alive. I owe him. He deserves my help."
+        },
+        {
+            "character": "Hunter",
+            "line": "Just because he kept Simmons warm for a few months, with fire, doesn't mean he's someone you should save. How much do you even know about him?"
+        },
+        {
+            "character": "Fitz",
+            "line": "What're you doing? In here, I mean. Why are you here?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Coulson put me on the bench. So I thought I would offer my expertise elsewhere. Is that what you're going with, “Katelin Frayer?” Is that how you spell “Katelin”? K-a-t...? I'm not sure that's right, mate."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, no, th... there's lots of ways to spell “Katelin.” And can you please just find somewhere else to make yourself useful?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Copy that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Dr. Garner, it's good to see you up. Do you have time for a consult?"
+        },
+        {
+            "character": "Andrew",
+            "line": "Oh, god, yes, please. Came off more desperate than I intended. Being laid up is very boring. What's up?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It's Lash."
+        },
+        {
+            "character": "Andrew",
+            "line": "Lash?"
+        },
+        {
+            "character": "Daisy",
+            "line": "The Inhuman killer monster."
+        },
+        {
+            "character": "Andrew",
+            "line": "Oh, right. I heard you had a run-in with him. Glad you're okay."
+        },
+        {
+            "character": "Daisy",
+            "line": "That is what I don't understand. Why am I okay? He kills Inhumans. He killed Frye. Why spare me?"
+        },
+        {
+            "character": "Andrew",
+            "line": "That's a tough one. Still trying to put together an Inhuman psych profile. And you know, they're all different."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, but he's really different. He changed into a guy, a regular guy."
+        },
+        {
+            "character": "Andrew",
+            "line": "You saw him? Did you get a good look at him?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, just a shadow, but still."
+        },
+        {
+            "character": "Andrew",
+            "line": "I didn't know that was possible."
+        },
+        {
+            "character": "Daisy",
+            "line": "Me neither, but someone that big and ugly. I mean, it makes sense. He's got to get around without being noticed somehow."
+        },
+        {
+            "character": "Andrew",
+            "line": "Maybe Lincoln can help. You know where he is?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No idea. He's been off the grid since the ATCU tried picking him up, but he calls sometimes."
+        },
+        {
+            "character": "Mack",
+            "line": "Hey, tremors, you got a sec?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Um... Thank you. I'll keep you posted."
+        },
+        {
+            "character": "Daisy",
+            "line": "What's up?"
+        },
+        {
+            "character": "Mack",
+            "line": "Been thinking about your ATCU theory. Now, who took off before the convoy left, and who knew the exact route we were going to take?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Banks."
+        },
+        {
+            "character": "Mack",
+            "line": "He's got access to everything that ATCU learns about Inhumans."
+        },
+        {
+            "character": "Daisy",
+            "line": "We should tail him."
+        },
+        {
+            "character": "Mack",
+            "line": "Already got a van ready to go, full surveillance package. Infrared scanners, one-way glass."
+        },
+        {
+            "character": "Daisy",
+            "line": "Perfect. Let me get some things."
+        },
+        {
+            "character": "Hunter",
+            "line": "I'll drive. I mean, please."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "season": 1,
+    "episode": 14,
+    "num": 12,
+    "scene_name": "GH325AdministeredToSkye",
+    "description": "With the drug retrieved but communications still limited, Fitz and Ward deliver the GH-325 to Simmons and May aboard the Bus. Despite Coulson's warning not to use it—relayed too late—Simmons injects Skye, who reacts violently at first but then stabilizes, her vitals improving. The team experiences a wave of relief and confusion over what exactly GH-325 is, as Skye begins to recover, having survived a near-certain death.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "john_garrett",
+        "antoine_triplett",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "Weak, erratic heart rate. Each time we save her, I ask myself, “is this what Skye would want?”"
+        },
+        {
+            "character": "May",
+            "line": "We didn't come this far to quit."
+        },
+        {
+            "character": "Fitz",
+            "line": "Get off... the ground immediately."
+        },
+        {
+            "character": "Simmons",
+            "line": "They're alive. Maybe we can..."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, come in. What's your status?"
+        },
+        {
+            "character": "Garrett",
+            "line": "Phil! Phil, what the hell? Clock's not slowing down. It's about to get really warm in here. Hey, you with me? The guys are out already. They took the drug up to Skye."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, don't give it to her. The drug... they can't give it to her!"
+        },
+        {
+            "character": "Garrett",
+            "line": "All right. You can tell them yourself. Right now, we just need to get out of this mountain and off the ground. Now let's go."
+        },
+        {
+            "character": "Fitz",
+            "line": "We found it."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is it? And how much, injected where?"
+        },
+        {
+            "character": "Ward",
+            "line": "May, get us off the ground, or it'll fall out from under us."
+        },
+        {
+            "character": "Coulson",
+            "line": "No! Don't give it to her!"
+        },
+        {
+            "character": "Skye",
+            "line": "I was losing her, anyway. What harm can it do?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Come on, girl."
+        },
+        {
+            "character": "Garrett",
+            "line": "It's working."
+        },
+        {
+            "character": "May",
+            "line": "She's spiking."
+        },
+        {
+            "character": "Ward",
+            "line": "Stop it. How can we stop it? Skye!"
+        },
+        {
+            "character": "Coulson",
+            "line": "What's happening?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Skye!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Do something... we have to do something!"
+        },
+        {
+            "character": "Simmons",
+            "line": "Her heartbeat... she's stabilizing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons?"
+        },
+        {
+            "character": "Ward",
+            "line": "Could someone tell me what we just saw?"
+        },
+        {
+            "character": "Triplett",
+            "line": "The girl's a fighter. What was that stuff you just gave her?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. All I know is that it worked."
+        },
+        {
+            "character": "Triplett",
+            "line": "You're a real miracle worker."
+        },
+        {
+            "character": "May",
+            "line": "You did it."
+        },
+        {
+            "character": "May",
+            "line": "Something happen down there?"
+        },
+        {
+            "character": "Garrett",
+            "line": "I'm not sure. One minute, he was fine. The next, it was like he had seen a ghost."
+        }
+    ]
+}

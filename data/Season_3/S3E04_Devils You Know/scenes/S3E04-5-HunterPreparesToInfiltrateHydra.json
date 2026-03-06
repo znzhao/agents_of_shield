@@ -1,0 +1,160 @@
+{
+    "season": 3,
+    "episode": 4,
+    "num": 5,
+    "scene_name": "HunterPreparesToInfiltrateHydra",
+    "description": "Hunter and May converse about Hunter's dangerous pursuit of Ward within Hydra. May expresses concern over Hunter going in without enough intel, but Hunter insists on moving up the ranks even if it's risky. Their conversation reinforces the desperate drive behind Hunter's plan and May's cautious support, while she agrees to be his backup when he gets specifics.",
+    "roles": [
+        "melinda_may",
+        "lance_hunter"
+    ],
+    "vibe": "dramatic",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "So, what's the job?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't know."
+        },
+        {
+            "character": "May",
+            "line": "When's it going down?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Don't know."
+        },
+        {
+            "character": "May",
+            "line": "Any idea where?"
+        },
+        {
+            "character": "Hunter",
+            "line": "Not yet."
+        },
+        {
+            "character": "May",
+            "line": "You do realize the point of intelligence gathering is to gather intelligence?"
+        },
+        {
+            "character": "Hunter",
+            "line": "The point is, I'm moving up the food chain. And that lunatic Kebo is finally bringing me in on a job."
+        },
+        {
+            "character": "May",
+            "line": "Or luring you into a trap. We have to be smart about this."
+        },
+        {
+            "character": "Hunter",
+            "line": "It's not complicated, really. Just point, shoot, repeat as necessary."
+        },
+        {
+            "character": "May",
+            "line": "You don't have enough intel. It's sloppy."
+        },
+        {
+            "character": "Hunter",
+            "line": "If it's a chance to find Ward, it's worth it."
+        },
+        {
+            "character": "May",
+            "line": "What happens if you walk into a roomful of Hydra enforcers with guns pointed at your head?"
+        },
+        {
+            "character": "Hunter",
+            "line": "That's what you're here for. To help. Try to keep up, love."
+        },
+        {
+            "character": "May",
+            "line": "This isn't funny, Hunter. What if there are innocent lives at risk?"
+        },
+        {
+            "character": "Hunter",
+            "line": "There's always lives at risk! You were there, when Bobbi was bleeding out in my arms. Ward did that. If I have a shot at finding him, I'm taking it. I have to, before Bobbi gets back in the field."
+        },
+        {
+            "character": "May",
+            "line": "Look, I want Ward as bad as you do. But I don't think his life is worth yours or Bobbi's."
+        },
+        {
+            "character": "Hunter",
+            "line": "Well, on that, we can agree."
+        },
+        {
+            "character": "May",
+            "line": "Once you get the time and place, call me."
+        },
+        {
+            "character": "Hunter",
+            "line": "Yes, mum."
+        },
+        {
+            "character": "Morse",
+            "line": "The DNA results came in. They confirm the killer is an Inhuman. He's killing his own kind."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't get it. If he knows what it's like, what we go through, I just... I refuse to believe Mack's “great white shark” theory. He's not some mindless wrecking machine."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agreed. The killer's tracking its prey. The question is how."
+        },
+        {
+            "character": "Morse",
+            "line": "Alisha knew these people. They were friends of hers before the outbreak. Maybe the killer was, too."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's possible, but before Alisha was attacked, the couple mentioned that they got some weird e-mail, right? Well, that e-mail had a nasty virus attached to it. It chewed up the operating system like a blender. I was able to un-mangle it, and it looks like the virus was planted to track their location."
+        },
+        {
+            "character": "Coulson",
+            "line": "Do we know of any other Inhumans who got this e-mail?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Joey Gutierrez didn't. I checked. But the others, I don't know. It's not like we have a ton of candidates to work with."
+        },
+        {
+            "character": "Coulson",
+            "line": "Reach out to the ATCU. Let them know what you found."
+        },
+        {
+            "character": "Daisy",
+            "line": "Taking this team spirit thing a little far, aren't we?"
+        },
+        {
+            "character": "Morse",
+            "line": "Fitz and I grabbed that laptop before they got there. Why would we share this intel?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We know the ATCU has found Inhumans in the past, confiscated all their belongings. Let's see if they've come across this virus before."
+        },
+        {
+            "character": "Daisy",
+            "line": "If we share with them, what do we get in return?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What do you want?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know. Let's start with how many Inhumans they've come across, where they take them."
+        },
+        {
+            "character": "Morse",
+            "line": "Daisy has a good point, sir. We don't know nearly enough about them."
+        },
+        {
+            "character": "Coulson",
+            "line": "I agree, but if you want answers, then you gotta play ball. Share the intel, trace the virus to its source."
+        }
+    ]
+}

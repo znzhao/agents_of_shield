@@ -1,0 +1,84 @@
+{
+    "season": 6,
+    "episode": 5,
+    "num": 14,
+    "scene_name": "FitzAndEnochOnChronicomShip",
+    "description": "Onboard a Chronicom ship, Fitz and Enoch discuss the fallout from Enoch’s deal with Atarah. Fitz is furious when he discovers Simmons is being used as leverage for time-travel research, while Enoch explains that this was the only way to keep Fitz alive—emphasizing their troubled but enduring friendship.",
+    "roles": [
+        "leo_fitz",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "Chronica II (Chronicom homeworld)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Enoch. They... They... They... They won't tell me anything. Is... Is... Is Jemma okay?"
+        },
+        {
+            "character": "Enoch",
+            "line": "Daisy Johnson and her crew have returned home. Jemma Simmons is safe, but... a prisoner on this ship."
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, assume that I've asked you all the questions. Tell me what happened."
+        },
+        {
+            "character": "Enoch",
+            "line": "The Chronicoms need you to develop a method of time travel so that we may go back and save our home world."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's insane."
+        },
+        {
+            "character": "Enoch",
+            "line": "Insanity is relative."
+        },
+        {
+            "character": "Fitz",
+            "line": "What does this got to do with Jemma? Why is she a prisoner? Enoch. What did you do?"
+        },
+        {
+            "character": "Enoch",
+            "line": "I told them that you were the only one who could accomplish this task and that... that Simmons would serve well as... motivation."
+        },
+        {
+            "character": "Fitz",
+            "line": "You did what?"
+        },
+        {
+            "character": "Enoch",
+            "line": "It was the only way I could prevent your execution and also help my people."
+        },
+        {
+            "character": "Fitz",
+            "line": "You useless, no-good automaton."
+        },
+        {
+            "character": "Enoch",
+            "line": "There's no need for pejoratives."
+        },
+        {
+            "character": "Fitz",
+            "line": "You are the absolute worst!"
+        },
+        {
+            "character": "Enoch",
+            "line": "On the bright side, you and Simmons will be together."
+        },
+        {
+            "character": "Fitz",
+            "line": "The last thing that I would ever want is for Simmons to be in danger. And you knew that. Get out."
+        },
+        {
+            "character": "Enoch",
+            "line": "I came here to tell you we are nearing our destination and that... I will always consider you a friend."
+        },
+        {
+            "character": "Fitz",
+            "line": "The hell? Enoch. Okay."
+        }
+    ]
+}

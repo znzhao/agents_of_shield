@@ -1,0 +1,120 @@
+{
+    "season": 1,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "MissionBriefingOnTheBus",
+    "description": "Coulson gathers May, Ward, Skye, Fitz, and Simmons on the S.H.I.E.L.D. Bus to brief them about Ian Quinn's upcoming Cybertek package drop via an isolated Italian train. The team discusses their undercover roles and mission goals, emphasizing the importance of subtlety. Coulson references their support from local Italian authorities. The mood is tense as stakes are made clear and roles assigned, with banter showing team dynamics.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "tense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Ian Quinn."
+        },
+        {
+            "character": "May",
+            "line": "You found him?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but we think we know how we can. Skye tracked down an invoice from one of his shell companies. He made a big purchase recently."
+        },
+        {
+            "character": "Skye",
+            "line": "$10 million big."
+        },
+        {
+            "character": "Simmons",
+            "line": "Any idea what it is?"
+        },
+        {
+            "character": "Skye",
+            "line": "No clue, but it was designed and built by Cybertek, Inc., a small firm that deals in advanced technology and research."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which is where this gets interesting. They've hired a private-security outfit to transport the purchase... former military, ex-mercs."
+        },
+        {
+            "character": "Ward",
+            "line": "Lot of muscle to move one package."
+        },
+        {
+            "character": "Coulson",
+            "line": "And they know S.H.I.E.L.D.'s got eyes on Quinn."
+        },
+        {
+            "character": "Skye",
+            "line": "Which is why they're transporting it old-school."
+        },
+        {
+            "character": "Coulson",
+            "line": "On a train, through the Italian countryside, from Verona to Zagreb... very rural, very isolated."
+        },
+        {
+            "character": "May",
+            "line": "And you think Quinn's on that train."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, but I believe they're delivering the item to Quinn himself. We got our intel from Italian authorities who have been monitoring the situation."
+        },
+        {
+            "character": "May",
+            "line": "And they don't mind us taking over the op?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I asked very nicely."
+        },
+        {
+            "character": "Russo",
+            "line": "You're not asking me at all, Agent Coulson. You're telling me and my team to step aside to hand over our investigation to S.H.I.E.L.D."
+        },
+        {
+            "character": "Coulson",
+            "line": "Try to think of it less as a hand-over and more as a hand-off. You've done your part. Now we'll do ours."
+        },
+        {
+            "character": "Coulson",
+            "line": "If everything goes as planned, Cybertek's security team won't even know we were on the train."
+        },
+        {
+            "character": "Ward",
+            "line": "So we're going in undercover."
+        },
+        {
+            "character": "May",
+            "line": "I hate undercover."
+        },
+        {
+            "character": "Coulson",
+            "line": "May and Ward, you're front and center. Once we locate the package, you'll tag it with a tracker. Skye and Fitz, you'll be running communications. After the package is tagged, we'll follow it to Quinn. Once we capture Quinn, we'll be one step closer to the Clairvoyant."
+        },
+        {
+            "character": "Simmmons",
+            "line": "And what about the two of us, sir?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Here. Let me get that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Oh. Thanks, Dad. Who looks far too young to have a daughter my age."
+        },
+        {
+            "character": "Train Conductor",
+            "line": "Prego."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 2,
+    "scene_name": "AndrewReturnsAndTerrigenesis",
+    "description": "Back from vacation, Andrew returns home where S.H.I.E.L.D. has sent Jiaying’s belongings for him to examine. He talks to Coulson on the phone, thankful for the materials. As he inspects Jiaying's book, he accidentally triggers a hidden Terrigen crystal, releasing the mist, and starts undergoing Terrigenesis. This is the inciting incident for Andrew's transformation.",
+    "roles": [
+        "phil_coulson",
+        "andrew_garner"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Andrew",
+            "line": "I don't know when Melinda's coming back, Phil. We only got home a couple of days ago. Wanted to thank you for sending over Jiaying's things from Afterlife."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hopefully, it'll help shed some light on our new Inhuman situation."
+        },
+        {
+            "character": "Andrew",
+            "line": "I'll keep you posted if I find anything interesting. And, Phil, I wouldn't wait for Melinda to call you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good advice. Thanks."
+        },
+        {
+            "character": "Andrew",
+            "line": "All right."
+        },
+        {
+            "character": "Andrew",
+            "line": "Oh, god!"
+        }
+    ]
+}

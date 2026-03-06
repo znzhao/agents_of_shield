@@ -1,0 +1,136 @@
+{
+    "season": 7,
+    "episode": 4,
+    "num": 11,
+    "scene_name": "ZephyrDebatesSousasFateAndHydra",
+    "description": "On Zephyr One, the team discusses the implications of Sousa’s survival, the threat posed by Hydra, and the possibility of changing history. Mack and Coulson weigh moral questions about saving Sousa versus maintaining the timeline. Sousa staunchly expresses his determination to root out Hydra. The tension around these decisions mounts, emphasizing the stakes for both S.H.I.E.L.D. and the greater good.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "skye",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "We have an address for Malick. Maybe Deke's been taken there."
+        },
+        {
+            "character": "Coulson",
+            "line": "And Agent Sousa? He still has a delivery to make. I don't want it to happen, either, but we kept Malick on course despite the temptation to do otherwise. Look, I'm not taking a side. I'm just saying..."
+        },
+        {
+            "character": "Mack",
+            "line": "Well, it's easier to let a bad man live than to let a good man die."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's catchy, and I wish I'd said it, but Agent Sousa's sacrifice was an inspiration to others in S.H.I.E.L.D."
+        },
+        {
+            "character": "Mack",
+            "line": "Like yours was for the Avengers."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, let's not oversell it."
+        },
+        {
+            "character": "Mack",
+            "line": "No, it's a fact. And it's also a fact you got a chance to fight another day."
+        },
+        {
+            "character": "Coulson",
+            "line": "I did, but if Sousa lives, we don't know what impact that will have on history."
+        },
+        {
+            "character": "Sousa",
+            "line": "I suspected they burrowed into S.H.I.E.L.D., but I thought it was the fringes. If someone like Malick is Hydra..."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're dug in deep."
+        },
+        {
+            "character": "Sousa",
+            "line": "I'm not sure what's more frustrating...that you won't tell me how you know what you know or you're telling me I can't act on it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Malick is just a piece of it. If you expose him right now, they'll just go deeper underground."
+        },
+        {
+            "character": "Sousa",
+            "line": "Then I'll follow them there. Hydra took a lot of good people from me. This is a fight I'll wage alone if I have to. I'd give my life for it."
+        },
+        {
+            "character": "Coulson",
+            "line": "A great writer once said, “The past is never dead. It's not even past”. Deke could now attest to that."
+        },
+        {
+            "character": "Deke",
+            "line": "You don't have to do this, Freddy."
+        },
+        {
+            "character": "Freddy",
+            "line": "Nobody calls me that."
+        },
+        {
+            "character": "Deke",
+            "line": "I did. In 1931."
+        },
+        {
+            "character": "Freddy",
+            "line": "That was the year my life began."
+        },
+        {
+            "character": "Deke",
+            "line": "You delivered a serum. I helped you do it."
+        },
+        {
+            "character": "Deke",
+            "line": "This is Deke. Hello? Is anyone there?"
+        },
+        {
+            "character": "Freddy",
+            "line": "Impossible."
+        },
+        {
+            "character": "Deke",
+            "line": "I get that a lot. Kept my looks. I go hard on the vegetables."
+        },
+        {
+            "character": "Freddy",
+            "line": "I recall you held a gun on me once."
+        },
+        {
+            "character": "Deke",
+            "line": "And I didn't shoot you. I shot someone who was coming after you."
+        },
+        {
+            "character": "Freddy",
+            "line": "You'll have to forgive my memory. When you reach my position, it's easy to forget the people that helped you on your way to the top. I guess I owe you a debt of gratitude, Deke."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah. I'm glad life worked out for you."
+        },
+        {
+            "character": "Freddy",
+            "line": "Well, it looks like it has for you, too. You get to walk out of here instead of being carried out. Consider my debt paid. Although, if I see you again, you won't be so lucky. Oh, uh... What were you doing in that house anyway? You're no salesman."
+        },
+        {
+            "character": "Deke",
+            "line": "Just looking out for my future."
+        },
+        {
+            "character": "Freddy",
+            "line": "Aren't we all?"
+        }
+    ]
+}

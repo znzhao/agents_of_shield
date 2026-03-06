@@ -1,0 +1,133 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 5,
+    "scene_name": "MackCoulsonMeetElenaOnZephyrOne",
+    "description": "Coulson and Mack arrive in Los Angeles under the guise of routine asset check-ins and meet with Elena (Yo-Yo) on the tarmac of Zephyr One. Elena’s playful banter with Mack hints at their ongoing chemistry. Mack and Coulson use Elena’s intel to help justify their investigation, balancing official duties with their real quest for Daisy.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "elena_rodriguez"
+    ],
+    "vibe": "lighthearted",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Davis",
+            "line": "Agent Coulson?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Davis."
+        },
+        {
+            "character": "Davis",
+            "line": "Preparing for decent. Inhuman asset will be waiting on the tarmac."
+        },
+        {
+            "character": "Mack",
+            "line": "What?"
+        },
+        {
+            "character": "Elena",
+            "line": "How's your wife, Davis?"
+        },
+        {
+            "character": "Davis",
+            "line": "Getting bigger every day."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh. Don't tell her that."
+        },
+        {
+            "character": "Davis",
+            "line": "More beautiful every day."
+        },
+        {
+            "character": "Elena",
+            "line": "There you go."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Yo-Yo. Just have a few questions."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm all yours."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh, so, I see you went to Colombia for a week."
+        },
+        {
+            "character": "Elena",
+            "line": "Mm-hmm."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. And, uh, tickets to Miami coming up."
+        },
+        {
+            "character": "Elena",
+            "line": "Yes. Do you watch me sleep or shower or...?"
+        },
+        {
+            "character": "Mack",
+            "line": "Just procedure."
+        },
+        {
+            "character": "Elena",
+            "line": "You don't have to use a satellite to get to know me better. Just ask me to dinner again."
+        },
+        {
+            "character": "Mack",
+            "line": "You know the rules about fraternizing with assets in the field."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, we haven't fraternized anything yet. And I thought you were breaking the rules, coming to do my checkup early just to see me. Or are you here because, uh, there's been a lot of little earthquakes lately?"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy could be in the area. But officially, that's not the mission. Doesn't matter. We'll never find her. She's always one step ahead."
+        },
+        {
+            "character": "Elena",
+            "line": "What is the official mission? Can I help?"
+        },
+        {
+            "character": "Mack",
+            "line": "Here's where I have to remind you that Sokovia Accords, which you signed..."
+        },
+        {
+            "character": "Elena",
+            "line": "Oh, all right."
+        },
+        {
+            "character": "Mack",
+            "line": "... require approval by the United Nations subcommittee before an enhanced indiv..."
+        },
+        {
+            "character": "Elena",
+            "line": "Rules, rules, rules. Blah, blah, blah. S.H.I.E.L.D. moves too slow now, Turtleman. I prefer to move fast."
+        },
+        {
+            "character": "Mack",
+            "line": "Uh..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mack, they found the truck."
+        },
+        {
+            "character": "Elena",
+            "line": "Good to see you, too, Coulson! Well, if you're in Miami, look me up. Just because we can't work together doesn't mean we can't live a little."
+        }
+    ]
+}

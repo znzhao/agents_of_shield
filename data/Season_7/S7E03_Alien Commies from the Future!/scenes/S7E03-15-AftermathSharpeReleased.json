@@ -1,0 +1,44 @@
+{
+    "season": 7,
+    "episode": 3,
+    "num": 15,
+    "scene_name": "AftermathSharpeReleased",
+    "description": "Back on Zephyr One, the team prepares to release Sharpe, erasing his memories and maintaining cover to preserve the timeline. Deke and Mack fake a classic alien abduction threat, intimidating Sharpe into silence about what he observed. Sharpe, terrified, is left babbling about communists and flying saucers as a bystander finds him, wrapping up the mission and leaving local authorities baffled by his wild tale.",
+    "roles": [
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "comedic",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "You sure about this?"
+        },
+        {
+            "character": "Mack",
+            "line": "We gotta preserve the timeline."
+        },
+        {
+            "character": "Deke",
+            "line": "You're on."
+        },
+        {
+            "character": "Mack",
+            "line": "Earthling. You will not reveal what you've seen here today, or the next time we abduct you... ... you will be... probed."
+        },
+        {
+            "character": "Sharpe",
+            "line": "Someone help me! I was just abducted by aliens!"
+        },
+        {
+            "character": "Woman",
+            "line": "Looks like we got a live one."
+        },
+        {
+            "character": "Sharpe",
+            "line": "You have to believe me! I saw their spaceship! And... And I'm pretty sure they were Communists... from the future."
+        }
+    ]
+}

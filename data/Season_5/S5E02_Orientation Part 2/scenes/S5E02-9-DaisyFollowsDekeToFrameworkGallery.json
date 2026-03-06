@@ -1,0 +1,84 @@
+{
+    "season": 5,
+    "episode": 2,
+    "num": 9,
+    "scene_name": "DaisyFollowsDekeToFrameworkGallery",
+    "description": "Daisy tails Deke and discovers his secret: a black-market Framework simulation where people pay to escape their harsh reality. Daisy confronts him about preying on people’s hope, while Deke tries to justify his actions and warns her about the dangers of trying to change the world. Their ideological clash exposes Deke's cynicism and Daisy’s enduring optimism, deepening the episode’s thematic tension between hope and despair.",
+    "roles": [
+        "skye",
+        "deke_shaw"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Deke",
+            "line": "Where is it? Did you throw out the old papers?"
+        },
+        {
+            "character": "Rick",
+            "line": "Yeah, it was a mess."
+        },
+        {
+            "character": "Deke",
+            "line": "Stop doing that. You're always cleaning."
+        },
+        {
+            "character": "Rick",
+            "line": "Yeah, you programmed me to."
+        },
+        {
+            "character": "Deke",
+            "line": "Really? Because I don't remember programming you to talk back to me. It was a joke, because I-I did program you to talk... just... will you find the papers, please? You may as well pull up a stool and have a beer."
+        },
+        {
+            "character": "Daisy",
+            "line": "Clearly, you're a talented pusher, but I will pass, thanks."
+        },
+        {
+            "character": "Deke",
+            "line": "It's probably for the best, because I have no idea what actual beer tasted like."
+        },
+        {
+            "character": "Daisy",
+            "line": "You want to tell me where I am?"
+        },
+        {
+            "character": "Deke",
+            "line": "You're passed out at my place of business. You got too close to my transmitters when you were stalking me."
+        },
+        {
+            "character": "Daisy",
+            "line": "So this is your racket? You're... You're pimping out the Framework?"
+        },
+        {
+            "character": "Deke",
+            "line": "I never called it that, but yeah. That's the technology the hardware interface is based on. I-I had to rebuild the software from scratch because Kasius had the historical archives erased. But I was able to get my hands on the servers. I gathered bits of data here and there, and the rest is guesswork."
+        },
+        {
+            "character": "Daisy",
+            "line": "But your customers don't know the difference. You've got them addicted to Earth-as-it-was scenarios."
+        },
+        {
+            "character": "Deke",
+            "line": "Among other simulations, yes."
+        },
+        {
+            "character": "Daisy",
+            "line": "So this is the business that you're protecting? Your creepy opium den of fantasy?"
+        },
+        {
+            "character": "Deke",
+            "line": "Well, I can't get real opium, so I'm selling escape. The only other way out of here is the final exit."
+        },
+        {
+            "character": "Daisy",
+            "line": "They're trading one prison for another."
+        },
+        {
+            "character": "Deke",
+            "line": "You think the Lighthouse is a prison? Sweetheart, prison would be nice."
+        }
+    ]
+}

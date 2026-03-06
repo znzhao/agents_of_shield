@@ -1,0 +1,203 @@
+{
+    "season": 5,
+    "episode": 19,
+    "num": 1,
+    "scene_name": "CoulsonBriefsTheTeam",
+    "description": "Coulson convenes the core S.H.I.E.L.D. team in the Lighthouse to outline his plan to dispose of the gravitonium by launching it into the sun. The group is tense as Elena’s decision to kill Ruby is hotly debated, with Daisy, Mack, and Fitz all offering different perspectives on morality and responsibility. Deke chimes in with his own knowledge from the future, while May, Simmons, and Creel’s status are discussed. The emotionally charged atmosphere ends with Coulson asserting his authority and urging everyone to focus on the mission.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "carl_creel"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Four-three point nine. Four-six-two dash seven-six point one-one-nine-one. Four-three point nine-four-six-two dash seven-six point one-one-nine-one. Four-three point nine-four-six-two dash seven-six point one-one-nine-one. Four-three point nine-four-six-two dash seven-six point one-one-nine-one. Four-three point nine-four-six-two..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once Zephyr One breaks through the upper atmosphere, we can slingshot the gravitonium at high velocity into the Sun, destroying it for good. As anxious as we are to contain an element that may cause the future destruction of the planet, we have to get Zephyr ready for space travel first."
+        },
+        {
+            "character": "Kim",
+            "line": "“Future destruction?”"
+        },
+        {
+            "character": "Piper",
+            "line": "It's complicated. Just go with it."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, how close are we?"
+        },
+        {
+            "character": "Fitz",
+            "line": "On the Zephyr, RCS thrusters are operational on the gravitonium."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're nearly finished extracting residual traces from the machine which seems to have refined the element in some way."
+        },
+        {
+            "character": "Deke",
+            "line": "It should be enough to power the pseudo-gravity engine. So, in other words, we're close. I've kind of been consulting, so..."
+        },
+        {
+            "character": "May",
+            "line": "Meanwhile, Carl Creel still needs medical help. And I think we should get Robin and Polly somewhere safe, too. After General Talbot..."
+        },
+        {
+            "character": "Piper",
+            "line": "He's not going anywhere."
+        },
+        {
+            "character": "May",
+            "line": "I know, but I've been talking to Tony Caine."
+        },
+        {
+            "character": "Mack",
+            "line": "What, my Tony? The Candyman?"
+        },
+        {
+            "character": "May",
+            "line": "He's arranged for Creel's treatment, and he says he could take care of Robin and Polly for now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Great. Do it. Maybe Davis can..."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll take him. It's the least I can do after dragging them out of hiding. Unless there's some objection."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. They'll be safer, not here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, make it quick. General Hale's MIA, and I doubt she took an early retirement."
+        },
+        {
+            "character": "Mack",
+            "line": "Wait, explain to me how she got away. Didn't you have them contained?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah, we did."
+        },
+        {
+            "character": "Elena",
+            "line": "That girl was a ticking bomb."
+        },
+        {
+            "character": "Daisy",
+            "line": "And she went off when you cut her throat. A gravity surge knocked everyone back and disrupted our equipment."
+        },
+        {
+            "character": "May",
+            "line": "She slipped away."
+        },
+        {
+            "character": "Elena",
+            "line": "I was afraid you'd have to quake Ruby and crack the Earth."
+        },
+        {
+            "character": "Daisy",
+            "line": "That shouldn't even be an issue, speaking of cutthroat."
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, let's keep it productive."
+        },
+        {
+            "character": "Simmons",
+            "line": "There would already be a crack in the universe if you hadn't."
+        },
+        {
+            "character": "Elena",
+            "line": "Look, I did what I did. I'm not proud, but it was the right choice."
+        },
+        {
+            "character": "Daisy",
+            "line": "It was revenge. You let your emotions get the best of you. Ruby should be locked up, and she's not the only one."
+        },
+        {
+            "character": "Elena",
+            "line": "All I did was kill the person called the Destroyer of Worlds."
+        },
+        {
+            "character": "Deke",
+            "line": "That's what Daisy was called. We're lucky you didn't cut her throat."
+        },
+        {
+            "character": "Daisy",
+            "line": "Just stop, Deke. The point is, you don't make that decision."
+        },
+        {
+            "character": "Elena",
+            "line": "Then who does? You? We all have blood on our hands. Why am I being singled out?"
+        },
+        {
+            "character": "Mack",
+            "line": "That's not what we do here. This is S.H.I.E.L.D. We protect."
+        },
+        {
+            "character": "Elena",
+            "line": "She was a psychopath. Ask Fitz."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, just look at his cracked rib. If you'd have seen what she was like..."
+        },
+        {
+            "character": "Mack",
+            "line": "I didn't get a chance. I was too busy screaming to be let out of a cell."
+        },
+        {
+            "character": "Daisy",
+            "line": "Fitz shouldn't have even been there."
+        },
+        {
+            "character": "Simmons",
+            "line": "We delayed their plan!"
+        },
+        {
+            "character": "Fitz",
+            "line": "If we hadn't gone, Ruby would be free."
+        },
+        {
+            "character": "Elena",
+            "line": "But this isn't about the decision, is it? This is about not following your orders."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's about both."
+        },
+        {
+            "character": "Elena",
+            "line": "Well, we didn't pick you. Coulson made that decision and brought you back when he could have broken that loop right there!"
+        },
+        {
+            "character": "Coulson",
+            "line": "All right, stop it. Yes, I made that decision, and I'll be making the rest today. It's over. Go do your jobs."
+        },
+        {
+            "character": "Kim",
+            "line": "So, is this normal?"
+        },
+        {
+            "character": "Davis",
+            "line": "A weird mission? Yeah. The fighting? That's new."
+        }
+    ]
+}

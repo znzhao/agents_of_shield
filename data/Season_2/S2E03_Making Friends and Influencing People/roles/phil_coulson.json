@@ -1,0 +1,79 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 3
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and resolute leader committed to preserving and rebuilding S.H.I.E.L.D. amid constant threats from Hydra and internal fractures. His leadership is marked by pragmatism under pressure, strategic delegation, and a protective instinct toward his team, often weighing the burdens of secrecy and sacrifice. He balances mission imperatives with empathy, exemplified by his concern for the wellbeing and loyalty of his agents, including those undercover in enemy ranks. Coulson faces ongoing psychological strain from past trauma and unexplained compulsions, deepening his resolve but also complicating his trust dynamics. His dedication to thwarting Hydra's advances, securing dangerous assets, and maintaining cohesion within a fractured organization underscores his role as a guardian and tactician in a shadow war.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "defeat_carl_creel_and_prevent_obelisk_hydra",
+        "goal": "Capture or neutralize Carl Creel, stop him from using the Obelisk, and prevent Hydra from obtaining this dangerous artifact"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_civilians_from_escaped_dangerous_prisoners",
+        "goal": "Recapture escaped superpowered prisoners to protect civilians"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "secure_advanced_technology_to_gain_edge_against_hydra",
+        "goal": "Obtain and leverage advanced technology, such as quinjet cloaking systems, to gain a tactical advantage for S.H.I.E.L.D. against Hydra threats"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "prevent_dangerous_technology_falling_into_wrong_hands",
+        "goal": "Prevent dangerous technology or weapons from falling into improper hands or provoking international conflict"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "prevent_hydra_recruitment_of_potential_weapons",
+        "goal": "Prevent Hydra from recruiting or weaponizing individuals with emerging powers or scientific expertise"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_13",
+      "context": "response to betrayal and internal threats",
+      "catch_phrase": "We can't change course, and we have no idea what's waiting for us."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_14",
+      "context": "reflecting on personal sacrifice and deception for survival and protection",
+      "catch_phrase": "She said I never lied to her. Today, I did. But she's alive and safe."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_20",
+      "context": "expressing frustration and resolve against Hydra's recruitment tactics",
+      "catch_phrase": "It's gone from being a land grab to a talent grab. And I'm getting damn tired of losing our best and brightest to Hydra."
+    }
+  ]
+}

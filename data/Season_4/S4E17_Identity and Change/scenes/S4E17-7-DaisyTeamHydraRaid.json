@@ -1,0 +1,197 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 7,
+    "scene_name": "DaisyTeamHydraRaid",
+    "description": "At the Triskelion, Daisy is forced to participate in a Hydra mission to apprehend subversives. Under May's watch, Daisy witnesses Mack and Hope being captured by Hydra. Shelby’s emotional turmoil is evident as she is compelled to comply to avoid suspicion, highlighting the difficult choices and blurred loyalties within the Framework.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Is this gonna take long?"
+        },
+        {
+            "character": "May",
+            "line": "We have a mission. Madame Hydra's office requested you specifically."
+        },
+        {
+            "character": "Skye",
+            "line": "Why me?"
+        },
+        {
+            "character": "Doctor",
+            "line": "The target was spotted via drone yesterday. She's been reaching out to leaders of the Resistance and is planning a major attack. Capture any subversives found on site, but do not underestimate this woman. Lethal force is authorized, if necessary."
+        },
+        {
+            "character": "Skye",
+            "line": "Did you know about this?"
+        },
+        {
+            "character": "Doctor",
+            "line": "And believe me, we will defeat these terrorists, and we will make our society great again."
+        },
+        {
+            "character": "May",
+            "line": "Hail Hydra."
+        },
+        {
+            "character": "Hope",
+            "line": "He was Inhuman, that man they took? Does that mean he's bad?"
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know, Sparkplug."
+        },
+        {
+            "character": "Hope",
+            "line": "Do we hate Inhumans?"
+        },
+        {
+            "character": "Mack",
+            "line": "No. They're people, just like you and me."
+        },
+        {
+            "character": "Hope",
+            "line": "But if they didn't do anything wrong, why are they all being arrested?"
+        },
+        {
+            "character": "Mack",
+            "line": "Look, you're smarter than most kids your age, and you pick up on things pretty quickly. But I don't want you worrying about this stuff, okay?"
+        },
+        {
+            "character": "Hope",
+            "line": "What would've happened if they'd looked in my bag?"
+        },
+        {
+            "character": "Mack",
+            "line": "Then I would've taken care of it, ‘cause that's my job. Tell you what, how about if we make some popcorn and watch a video?"
+        },
+        {
+            "character": "Hope",
+            "line": "“Chopping Mall?”"
+        },
+        {
+            "character": "Mack",
+            "line": "Again with that silly robot movie?"
+        },
+        {
+            "character": "Hope",
+            "line": "Don't pretend you don't love it."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, okay. But I'm still fast-forwarding through the bad parts."
+        },
+        {
+            "character": "Ward",
+            "line": "I don't know. It all happened so fast."
+        },
+        {
+            "character": "Mace",
+            "line": "From everything you've told me, Skye's tough as hell. She can handle herself in there."
+        },
+        {
+            "character": "Simmons",
+            "line": "Before they took her, did she get a location on Radcliffe?"
+        },
+        {
+            "character": "Ward",
+            "line": "You know, Skye hasn't been herself ever since you showed up. What is it that you're really after?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You, of all people, the Hydra double agent, are doubting my loyalty. That is rich."
+        },
+        {
+            "character": "Mace",
+            "line": "But don't forget, you're only here because I trust him, not you."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fine. You want to question me? When Hydra wiped out the Academy and people were dying, I was there. I fought and took a bullet. I had to claw my way out of a mass grave. How's that for loyalty to S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Mace",
+            "line": "I apologize."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ogygia? These coordinates, they're east of Bermuda. There shouldn't be anything out there."
+        },
+        {
+            "character": "Mace",
+            "line": "Who is this Radcliffe?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He's a scientist."
+        },
+        {
+            "character": "Ward",
+            "line": "Skye said he could take down Hydra. What does that mean?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I can't be sure, but we need to find him as quickly as possible."
+        },
+        {
+            "character": "Mace",
+            "line": "I'm sorry. With all that's going on, I can't send a team today."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then send us."
+        },
+        {
+            "character": "Mace",
+            "line": "With all due respect, this is a spy organization and you're a teacher."
+        },
+        {
+            "character": "Coulson",
+            "line": "Seems you need all the help you can get."
+        },
+        {
+            "character": "Simmons",
+            "line": "Skye did risk everything for this."
+        },
+        {
+            "character": "Ward",
+            "line": "They may have a point, sir. I can pilot and supervise."
+        },
+        {
+            "character": "Skye",
+            "line": "All this because of one subversive? Seems a little extreme."
+        },
+        {
+            "character": "May",
+            "line": "Be quiet. Do your job."
+        },
+        {
+            "character": "Mack",
+            "line": "No! No! No!"
+        },
+        {
+            "character": "Hope",
+            "line": "Daddy! Leave him alone! Daddy!"
+        },
+        {
+            "character": "Mack",
+            "line": "Let her go!"
+        },
+        {
+            "character": "Hope",
+            "line": "Daddy, help me! Daddy, help me! Daddy! Daddy!"
+        },
+        {
+            "character": "Mack",
+            "line": "She's just a kid! She's just a kid! Let her go!"
+        }
+    ]
+}

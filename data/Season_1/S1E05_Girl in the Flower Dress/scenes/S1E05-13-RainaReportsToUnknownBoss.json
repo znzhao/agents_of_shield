@@ -1,0 +1,63 @@
+{
+    "season": 1,
+    "episode": 5,
+    "num": 13,
+    "scene_name": "RainaReportsToUnknownBoss",
+    "description": "Raina is seen reporting the results of the Centipede experiment to her unseen superior, discussing the death of the team’s scientist and the progress toward creating stable subjects. The conversation turns to mysterious plans for 'stage two' and references the enigmatic Clairvoyant, hinting at larger dangers yet to come. Raina’s ambition and sinister optimism foreshadow further threats for S.H.I.E.L.D.",
+    "roles": [
+        "raina"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Po",
+            "line": "Well, you know I'm not going to do the talking."
+        },
+        {
+            "character": "Raina",
+            "line": "The doctor is dead."
+        },
+        {
+            "character": "Po",
+            "line": "About time."
+        },
+        {
+            "character": "Raina",
+            "line": "Well, she did find a solution to our... combustion problem. We believe we'll soon have stable subjects. On to stage two."
+        },
+        {
+            "character": "Po",
+            "line": "That mean my situation's going to improve any?"
+        },
+        {
+            "character": "Raina",
+            "line": "Well, other problems have surfaced, resurfaced, I should say. The S.H.I.E.L.D. unit in Hong Kong, we've encountered them before. They... took our subject off the map in Los Angeles."
+        },
+        {
+            "character": "Po",
+            "line": "Not much I can do about that in here. So that's not why I'm getting the visit."
+        },
+        {
+            "character": "Raina",
+            "line": "We would like you to touch base with the Clairvoyant. See if any insights can be given... on stage three."
+        },
+        {
+            "character": "Po",
+            "line": "The Clairvoyant doesn't like to be touched."
+        },
+        {
+            "character": "Raina",
+            "line": "We all have to do things that make us uncomfortable if we are ever to get our toy soldiers off the shelf. You know that better than any of us."
+        },
+        {
+            "character": "Po",
+            "line": "I like your dress."
+        },
+        {
+            "character": "Raina",
+            "line": "I know."
+        }
+    ]
+}

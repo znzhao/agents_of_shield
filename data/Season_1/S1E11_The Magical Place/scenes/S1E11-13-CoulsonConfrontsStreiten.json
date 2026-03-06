@@ -1,0 +1,83 @@
+{
+    "season": 1,
+    "episode": 11,
+    "num": 13,
+    "scene_name": "CoulsonConfrontsStreiten",
+    "description": "Coulson seeks out Doctor Streiten on the Bus and confronts him about the true circumstances of his resurrection. Streiten reveals Coulson was dead for days and describes the horrific methods Fury sanctioned to revive him, including keeping Coulson conscious for painful brain surgery. Streiten expresses regret, explaining S.H.I.E.L.D.'s attempts to restore Coulson’s will to live by implanting pleasant memories. The truth leaves Coulson shaken, closing the episode on an emotional note.",
+    "roles": [
+        "phil_coulson"
+    ],
+    "vibe": "melancholic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Evening, Doctor."
+        },
+        {
+            "character": "Streiten",
+            "line": "Agent Coulson."
+        },
+        {
+            "character": "Coulson",
+            "line": "You weren't operating on my heart. I know about Tahiti."
+        },
+        {
+            "character": "Streiten",
+            "line": "I was afraid this day would come."
+        },
+        {
+            "character": "Coulson",
+            "line": "Because of what I'd do?"
+        },
+        {
+            "character": "Streiten",
+            "line": "Because of what I've done. After New York, you weren't dead for 8 seconds or 40 seconds or whatever they put in your file. You were dead for... days."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's impossible."
+        },
+        {
+            "character": "Streiten",
+            "line": "It should be, but Director Fury moved heaven and Earth. He had a team of scientists working around the clock using procedures that no good doctor would ever allow."
+        },
+        {
+            "character": "Coulson",
+            "line": "You were there."
+        },
+        {
+            "character": "Streiten",
+            "line": "Fury brought me in during the seventh operation. We kept you conscious to monitor brain activity, but you were in extreme pain. The neurological damage... it was catastrophic."
+        },
+        {
+            "character": "Coulson",
+            "line": "I wanted to die."
+        },
+        {
+            "character": "Streiten",
+            "line": "And we should have let you. The trauma you'd endured was... Ungodly."
+        },
+        {
+            "character": "Coulson",
+            "line": "Why was that machine messing with my brain?"
+        },
+        {
+            "character": "Streiten",
+            "line": "After what you'd been through... we wanted to restore the man you'd once been, so we gave you a pleasant memory of a beautiful island. We didn't want you to be that... thing."
+        },
+        {
+            "character": "Coulson",
+            "line": "What did I become, Doctor? Tell me."
+        },
+        {
+            "character": "Streiten",
+            "line": "You'd lost your will to live. We tried to give it back. I'm sorry, Agent Coulson. Truly, I am. If you only knew."
+        },
+        {
+            "character": "Mike",
+            "line": "H-hello? Anybody there? Hello? No."
+        }
+    ]
+}

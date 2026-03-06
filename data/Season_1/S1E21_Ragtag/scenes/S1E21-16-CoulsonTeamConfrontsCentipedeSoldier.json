@@ -1,0 +1,34 @@
+{
+    "season": 1,
+    "episode": 21,
+    "num": 16,
+    "scene_name": "CoulsonTeamConfrontsCentipedeSoldier",
+    "description": "Coulson’s team uncovers a secret entrance and prepares for a confrontation. They encounter a Centipede soldier, a demonstration of the threat Hydra now poses with mass-produced super soldiers. The scene is charged as the stakes of the final battle become clear.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "antoine_triplett"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Triplett",
+            "line": "Come on. Over here. There's something behind this wall. Okay, I got something."
+        },
+        {
+            "character": "Coulson",
+            "line": "Secret door? I got this. They're like my thing. Here we go."
+        },
+        {
+            "character": "Skye",
+            "line": "Finally."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a Centipede soldier."
+        }
+    ]
+}

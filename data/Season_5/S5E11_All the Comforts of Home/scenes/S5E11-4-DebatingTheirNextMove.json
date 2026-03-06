@@ -1,0 +1,169 @@
+{
+    "season": 5,
+    "episode": 11,
+    "num": 4,
+    "scene_name": "DebatingTheirNextMove",
+    "description": "The S.H.I.E.L.D. team discusses the significance of the mysterious light in St. Louis, connecting it to the warning from Voss and the Kree beacon. Daisy refuses to join the field team, preferring instead to monitor things remotely, while May, Mack, Simmons, Fitz, and Coulson prepare for a covert departure. Noah provides information about secret tunnels leading into the nearby town, and Daisy sets up an alert on Noah’s systems.",
+    "roles": [
+        "phil_coulson",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons",
+        "melinda_may",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "suspenseful",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "A light from the sky."
+        },
+        {
+            "character": "May",
+            "line": "Figured you'd be interested."
+        },
+        {
+            "character": "Coulson",
+            "line": "This is what Voss warned me about. If he's right, then this is where it all starts, hell on Earth."
+        },
+        {
+            "character": "Mack",
+            "line": "And we're back."
+        },
+        {
+            "character": "Coulson",
+            "line": "How long since it first appeared?"
+        },
+        {
+            "character": "Noah",
+            "line": "It showed up a few weeks ago, then appeared intermittently for some time after."
+        },
+        {
+            "character": "Elena",
+            "line": "You think it's alien?"
+        },
+        {
+            "character": "Noah",
+            "line": "The wavelength is unusual."
+        },
+        {
+            "character": "Simmons",
+            "line": "Showed up where? Where was this?"
+        },
+        {
+            "character": "Noah",
+            "line": "St. Louis, Missouri."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, guess we're going to St. Louis, Missouri."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hunter and I left the Zephyr cloaked just outside of town. I'll show you where it is."
+        },
+        {
+            "character": "Daisy",
+            "line": "Great. But I'm not going."
+        },
+        {
+            "character": "Simmons",
+            "line": "What?"
+        },
+        {
+            "character": "Daisy",
+            "line": "If I'm responsible for ending the world, I'd rather not get near one of the first omens. Hard pass."
+        },
+        {
+            "character": "Coulson",
+            "line": "We could use you out there."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'll be more useful in here. I'll run back end on the mission with all of Noah's dope-ass equipment. Dope-ass is a... it's a good thing."
+        },
+        {
+            "character": "May",
+            "line": "So, what do we do? Just walk out the front door into town?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, we are wanted. After what Fitz said about General Hale's task force, we need to be covert."
+        },
+        {
+            "character": "Noah",
+            "line": "You will be. The Lighthouse has a few covert entrances."
+        },
+        {
+            "character": "Simmons",
+            "line": "This place has secret tunnels, like an Agatha Christie novel."
+        },
+        {
+            "character": "Mack",
+            "line": "More like “C.H.U.D.”"
+        },
+        {
+            "character": "Noah",
+            "line": "There are a few tunnels, but this one takes you underground to the charming, little town of River's End. From there, it is up to you."
+        },
+        {
+            "character": "Coulson",
+            "line": "No time like the present. Let's go."
+        },
+        {
+            "character": "Fitz",
+            "line": "We really are home."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to get moving. How about that one, Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "Sure."
+        },
+        {
+            "character": "Elena",
+            "line": "Here comes the catch."
+        },
+        {
+            "character": "Mack",
+            "line": "But there's a catch."
+        },
+        {
+            "character": "May",
+            "line": "Come on. We're damn spies."
+        },
+        {
+            "character": "Simmons",
+            "line": "I think it's admirable of him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll return the van when we're done. No stealing, I promise."
+        },
+        {
+            "character": "Daisy",
+            "line": "If I'm gonna be holed up here for a while, it's good to know that it's fortified. It's kind of the perfect place to hide out."
+        },
+        {
+            "character": "Noah",
+            "line": "You are typing with my keyboard. Which is fine. It does not bother me, even though you did not ask. But why are you typing?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm setting up an alert. Even though my friends have been out in the world for like four minutes, it'll let me know if one of them is spotted."
+        },
+        {
+            "character": "Noah",
+            "line": "It has been much longer than four min..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Dramatic effect, Noah."
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "season": 1,
+    "episode": 4,
+    "num": 1,
+    "scene_name": "TeamPrepsForHeistInvestigation",
+    "description": "On the S.H.I.E.L.D. Bus, Coulson talks with May about the upcoming mission before turning to Ward, Fitz, and Simmons. The team discusses a new non-lethal weapon and the recent string of elaborate diamond heists. Skye is in one of the cars, missing her old van, and Coulson enlists her help to investigate how the thief cracked such intense security. They begin piecing together facts about the thief's M.O. and discuss if powers such as ESP are possible, but decide to stick with science.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "skye",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Maybe I should learn to fly. It's not too late, right? I could learn. What do you like best? The freedom? The view?"
+        },
+        {
+            "character": "May",
+            "line": "The solitude."
+        },
+        {
+            "character": "Coulson",
+            "line": "Got it. See you in Sweden."
+        },
+        {
+            "character": "Ward",
+            "line": "I only get one shot. And it has to knock a person back, as well as out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Which is why we're perfecting this little beauty. .45-caliber cartridges, semi-automatic. Each mag... contains eight therapeutic rounds of dendrotoxin."
+        },
+        {
+            "character": "Simmons",
+            "line": "In case you miss! Or have multiple assailants."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah, w-we're gonna have this new night-night pistol working in no time. Okay?"
+        },
+        {
+            "character": "Ward",
+            "line": "Great. One thing... we're not calling it that."
+        },
+        {
+            "character": "Simmons",
+            "line": "Ah, told you."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yes, we... yes, we are."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have you seen Skye?"
+        },
+        {
+            "character": "Ward",
+            "line": "Not since weapons training."
+        },
+        {
+            "character": "Coulson",
+            "line": "Has she stopped saying “bang” when she pulls the trigger?"
+        },
+        {
+            "character": "Ward",
+            "line": "Mostly. Now, if she can just learn the difference between the safety release and the magazine release, we'll be making real progress."
+        },
+        {
+            "character": "Skye",
+            "line": "What's up, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'd prefer you not call me “Phil.”"
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, you're the boss... A.C. Just missing my van a bit, taking a little me time."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want your help with something."
+        },
+        {
+            "character": "Skye",
+            "line": "Hit me with it."
+        },
+        {
+            "character": "Coulson",
+            "line": "You ever rob a bank?"
+        },
+        {
+            "character": "Coulson",
+            "line": "An armored car?"
+        },
+        {
+            "character": "Skye",
+            "line": "Nope."
+        },
+        {
+            "character": "Coulson",
+            "line": "How about a casino?"
+        },
+        {
+            "character": "Skye",
+            "line": "Should I be offended?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Somebody's stealing millions of dollars in diamonds. They've found a way to crack the security systems. I want you to figure out their exploit."
+        },
+        {
+            "character": "Skye",
+            "line": "Hmmm."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yesterday, 55 men, all military, were hired by one of the largest gem brokers in the world. They dressed the men in identical outfits, gave each one a randomly assigned briefcase, and sent them along 25 different routes here in Stockholm. No one knew which briefcase contained the diamonds, but they were still stolen."
+        },
+        {
+            "character": "May",
+            "line": "Why the Kabuki theater?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They were afraid because somebody's targeting diamonds... an armored car in Milan, a safe in Monte Carlo, and now this... over $30 mil total. Each theft occurred despite heavy security."
+        },
+        {
+            "character": "May",
+            "line": "They sound like inside jobs."
+        },
+        {
+            "character": "Coulson",
+            "line": "A lot of people share that opinion."
+        },
+        {
+            "character": "Skye",
+            "line": "You don't. CCTV cameras catch any of the action?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Fitz-Simmons is checking. The system went dark for an hour. They think it was hacked."
+        },
+        {
+            "character": "May",
+            "line": "It was the same thieves each time?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes, but it was just one thief... a woman. And she did it all with her eyes closed."
+        },
+        {
+            "character": "May",
+            "line": "Eyewitnesses I.D. her?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Black, athletic build, late 20s, early 30s."
+        },
+        {
+            "character": "Skye",
+            "line": "So, you asked how she could have cracked the system. I have a pitch, but it's way outside the box."
+        },
+        {
+            "character": "Coulson",
+            "line": "I live outside the box."
+        },
+        {
+            "character": "Skye",
+            "line": "There are people in the world with superpowers, right? What if this woman has ESP or something?"
+        },
+        {
+            "character": "May",
+            "line": "There are no credible studies that support precognition, telepathy, or extrasensory perception."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, so science says “no.” But this woman knew impossible things. And why did she close her eyes? That's either random or totally important. Was she listening... or was she reading minds? I'm gonna go... play with my phone now."
+        },
+        {
+            "character": "May",
+            "line": "Why does H.Q. want us to investigate these heists?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They don't. I picked this op. Any luck?"
+        }
+    ]
+}

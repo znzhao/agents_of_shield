@@ -1,0 +1,27 @@
+{
+    "season": 3,
+    "episode": 13,
+    "num": 1,
+    "scene_name": "BobbiHunterInterrogationBegins",
+    "description": "Bobbi Morse is interrogated in a tense environment at Interpol's black site in Moscow. She tries to deflect the questions humorously while being accused of murder and espionage. The focus is on her unwillingness to divulge any information, keeping up a guarded facade despite pressure.",
+    "roles": [
+        "bobbi_morse"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Duval",
+            "line": "Incroyable. How you are alive, sitting here, is a miracle to me. You're lucky that your government intervened, that Interpol was brought in at all. For something as serious at this? Three highly decorated members of the Russian government, murdered in cold blood, on Russian soil, by former S.H.I.E.L.D. agents. In another time, we would have found you three feet below the ice, if we found you at all. You must have something to say for yourself."
+        },
+        {
+            "character": "Morse",
+            "line": "I'd like a cheeseburger, medium, with cheddar cheese, ketchup, mayo, lettuce, and tomato. And some curly fries. Crispy."
+        },
+        {
+            "character": "Duval",
+            "line": "Ms. Morse. I'm your only ally here. There's no one else to help you, nowhere to run. So tell me, what were you doing in Siberia?"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "season": 6,
+    "episode": 4,
+    "num": 2,
+    "scene_name": "MackMaySargeInvestigation",
+    "description": "Back at the Lighthouse, Mack, May, Elena, and Keller review surveillance reports regarding Sarge and his crew. The team debates the impact Sarge is having and discuss the investigation into the mysterious fireworks event. There are subtle tensions as Keller nearly admits his relationship with Elena, and Mack reinforces S.H.I.E.L.D. protocol, shifting quickly into operational mode when a body turns up in Reno.",
+    "roles": [
+        "alphonso_mackenzie",
+        "melinda_may",
+        "elena_rodriguez"
+    ],
+    "vibe": "dramatic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "Agent Diaz, you have something for me?"
+        },
+        {
+            "character": "Diaz",
+            "line": "We're running CCTV, local law enforcement, satellite imagery, but so far, no eyes on our target since the fireworks."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. Agent May's running point on this, so let's make sure she knows."
+        },
+        {
+            "character": "Diaz",
+            "line": "Believe me, she's on it."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay."
+        },
+        {
+            "character": "Keller",
+            "line": "You got a minute?"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah."
+        },
+        {
+            "character": "Keller",
+            "line": "I know S.H.I.E.L.D. has certain protocols, so in the spirit of full disclosure..."
+        },
+        {
+            "character": "Mack",
+            "line": "I'm gonna stop you right there."
+        },
+        {
+            "character": "Keller",
+            "line": "Sir?"
+        },
+        {
+            "character": "Mack",
+            "line": "Let's say you're here to disclose an interpersonal relationship, theoretically. Well, that means I have to separate teams. People that work well together. When you're out in the field, you can't second-guess yourself because you're working with someone you care about. It can, uh... compromise your judgment."
+        },
+        {
+            "character": "Keller",
+            "line": "Of course. I just thought, in... in light of S.H.I.E.L.D.'s policy on that..."
+        },
+        {
+            "character": "Mack",
+            "line": "I plan to enforce that policy. So, do you believe yourself to be compromised, theoretically?"
+        },
+        {
+            "character": "Mack",
+            "line": "Good."
+        },
+        {
+            "character": "Elena",
+            "line": "Mack, we got back... Um, is this a bad time?"
+        },
+        {
+            "character": "Mack",
+            "line": "No, not at all."
+        },
+        {
+            "character": "Elena",
+            "line": "Um, Benson did a full analysis of the area where Fake Coulson put on the fireworks show."
+        },
+        {
+            "character": "Mack",
+            "line": "No atmospheric toxicity, didn't disrupt air traffic, but... “trace amounts of statically charged particles?”"
+        },
+        {
+            "character": "Elena",
+            "line": "Suspended in orbit. Eyewitnesses described a pattern in the sky, a grid. So, I was thinking, maybe they were making a map."
+        },
+        {
+            "character": "Keller",
+            "line": "But the jewelry store, firing off a cannon... seems like a lot of trouble if they could just check GPS."
+        },
+        {
+            "character": "Mack",
+            "line": "You think they're looking for something."
+        },
+        {
+            "character": "Elena",
+            "line": "I do. But who knows what it is."
+        }
+    ]
+}

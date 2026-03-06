@@ -1,0 +1,56 @@
+{
+    "season": 5,
+    "episode": 12,
+    "num": 11,
+    "scene_name": "MayAndCoulsonSayGoodbye",
+    "description": "May checks on Coulson and pointedly challenges him about his attitude toward dying, urging him not to give up hope. Although Coulson claims to have made peace with his fate, May insists the team needs him and they both reflect on their bond and the team’s importance. Coulson suits up, preparing for his dangerous descent to the rift.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "melancholic",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You in pain?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not always."
+        },
+        {
+            "character": "May",
+            "line": "Is this why we took a step back?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The last thing you need is to waste your time on another lost cause."
+        },
+        {
+            "character": "May",
+            "line": "Who I waste my time on is for me to decide. It's not like you to just roll over. There has to be a way out of this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've come to terms with it. I got a second chance. I made a difference in a few people's lives. I don't want to be greedy. It's time to make space for somebody else."
+        },
+        {
+            "character": "May",
+            "line": "For Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "I won't be around forever, and despite appearances to the contrary, neither will you. We need fresh blood to lead the team."
+        },
+        {
+            "character": "May",
+            "line": "It's more than a team, and you know it. None of us are giving up on you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, great, because I have every intention of walking back out of that basement. Just because ‭I've made peace with dying doesn't mean I'm in a hurry. Now, you want to help me get into this gear Fitz has for me? It's super sexy."
+        }
+    ]
+}

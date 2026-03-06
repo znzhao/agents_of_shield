@@ -1,0 +1,117 @@
+{
+    "season": 5,
+    "episode": 17,
+    "num": 4,
+    "scene_name": "DaisyVsRubyRescueMission",
+    "description": "Daisy finds Coulson and Talbot. She orders May and Deke to evacuate them while Daisy confronts Ruby, who reveals her desire to surpass Daisy. Deke attempts to assist, but chaos erupts. Hale arrives, and the situation escalates, culminating in Deke being shot by Hale.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "skye",
+        "melinda_may",
+        "deke_shaw",
+        "ruby",
+        "hale"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "We should start looking for shelter. Maybe get a fire going. Were you ever a Boy Scout?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Brigadier General outranks a Boy Scout."
+        },
+        {
+            "character": "Coulson",
+            "line": "Run."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, come on. We got to keep moving. Come on."
+        },
+        {
+            "character": "Coulson",
+            "line": "You got your powers back."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a long story. May, get them back to the Zephyr. I'll take care of her."
+        },
+        {
+            "character": "May",
+            "line": "Not a chance."
+        },
+        {
+            "character": "Daisy",
+            "line": "It's a rescue mission. Look at them."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, how'd you find us?"
+        },
+        {
+            "character": "May",
+            "line": "Robin."
+        },
+        {
+            "character": "Coulson",
+            "line": "A little bit like cheating, don't you think?"
+        },
+        {
+            "character": "May",
+            "line": "Keep moving."
+        },
+        {
+            "character": "Daisy",
+            "line": "And, Deke, watch their back. That's an order."
+        },
+        {
+            "character": "Ruby",
+            "line": "Oh. The legendary Quake. You know, you're much prettier in person."
+        },
+        {
+            "character": "Daisy",
+            "line": "And meaner, so I'd stay where you are."
+        },
+        {
+            "character": "Ruby",
+            "line": "It's funny. I have your poster up on my wall. You're like that, uh, hero that every little girl wants to be when they grow up."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hm. Looks like you made a wrong turn along the way."
+        },
+        {
+            "character": "Ruby",
+            "line": "No. I'm just engineered differently. I don't want to be you. I want to beat you."
+        },
+        {
+            "character": "Daisy",
+            "line": "You can certainly try."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't think she's getting up from that."
+        },
+        {
+            "character": "Daisy",
+            "line": "What are you still doing here?"
+        },
+        {
+            "character": "Deke",
+            "line": "I thought she had you for a sec, but..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Deke! We got to get out of here. Let's go."
+        },
+        {
+            "character": "Hale",
+            "line": "I need an extraction team at this location."
+        }
+    ]
+}

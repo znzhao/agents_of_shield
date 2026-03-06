@@ -1,0 +1,154 @@
+{
+    "season": 3,
+    "episode": 14,
+    "num": 3,
+    "scene_name": "IndianaSiteInvestigation",
+    "description": "At the ATCU site, Mack, Daisy, and Fitz investigate the Watchdogs' attack. Fitz determines Nitramene was used in the attack, raising concerns about how the Watchdogs got such tech. Daisy reports their findings to Coulson, who connects the situation to former S.H.I.E.L.D. agent Felix Blake, setting up a lead for the team.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye",
+        "leo_fitz",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "ATCU headquarters / Advanced Threat Containment Unit facilities",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "We get it, Watchdogs, you did this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yeah. Did you ride that here?"
+        },
+        {
+            "character": "Mack",
+            "line": "Uh-huh."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wow. You really are on vacation."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. Vacation. All right, here's what we know so far. This facility was a storage site for the ATCU."
+        },
+        {
+            "character": "Daisy",
+            "line": "But somehow, the Watchdogs found out."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey! Hey. Uh, the residue from the bombs, it's got nitramene in it."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know what that is, but your tone of voice makes it sound bad."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, Howard Stark developed it after World War II. It causes implosions."
+        },
+        {
+            "character": "Mack",
+            "line": "Mm. That's weird."
+        },
+        {
+            "character": "Daisy",
+            "line": "Weird how? That they got their hands on it?"
+        },
+        {
+            "character": "Mack",
+            "line": "Nitramene isn't stable enough to be used in a gel-based explosive. Or at least it shouldn't be."
+        },
+        {
+            "character": "Fitz",
+            "line": "So the Watchdogs have been making improvements to nitramene."
+        },
+        {
+            "character": "Daisy",
+            "line": "J-just to be clear, nitramene..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Actually, I think I've got some sodium hydrogen acetate back on Zephyr One."
+        },
+        {
+            "character": "Mack",
+            "line": "That'll help if we encounter any more bombs, right."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sodium..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hydrogen acetate."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay. Thank you, Nerd Herd. I'm gonna go call Coulson."
+        },
+        {
+            "character": "Mack",
+            "line": "Do we take this debris back with us, study it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, yeah, sure. If... if you've been working out. ‘Cause it weighs like 100,000 tons. It's a building."
+        },
+        {
+            "character": "Mack",
+            "line": "So... no, then."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nitramene."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why does that mean something to everyone else but me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "S.H.I.E.L.D. history. Stark tech. And I knew somebody once who was keen on improving the original formula."
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, well, is that enough to connect that person to the Watchdogs?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He was fixated on it. Thought it might be something we could add to our arsenal."
+        },
+        {
+            "character": "Daisy",
+            "line": "Our arsenal? A-Are you saying this could be a S.H.I.E.L.D. agent?"
+        },
+        {
+            "character": "Coulson",
+            "line": "A S.H.I.E.L.D. agent you've met. A good man, but he went off the grid when he got out of the hospital, which means he's at large with a lot of our secrets."
+        },
+        {
+            "character": "Daisy",
+            "line": "He was in the hospital?"
+        },
+        {
+            "character": "Coulson",
+            "line": "After Deathlok broke his spine."
+        },
+        {
+            "character": "Blake",
+            "line": "Nice work out there, boys."
+        },
+        {
+            "character": "Coulson",
+            "line": "Felix Blake."
+        },
+        {
+            "character": "Blake",
+            "line": "Gentlemen, I've got a new plan of attack. And it's a good one."
+        }
+    ]
+}

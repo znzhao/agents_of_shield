@@ -1,0 +1,183 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 2,
+    "scene_name": "TeamDebriefsAtProvidence",
+    "description": "At the Providence base, Simmons tends to Ward's wounds while the rest of the team learns about the Hydra takeover of the Fridge. Ward lies about Garrett’s fate, while Coulson orders Skye to start checking the escaped inmates' files and makes a plan to go after Marcus Daniels. Koenig insists everyone must undergo orientation before leaving the base.",
+    "roles": [
+        "jemma_simmons",
+        "skye",
+        "leo_fitz",
+        "grant_ward",
+        "melinda_may",
+        "phil_coulson",
+        "marcus_daniels",
+        "antoine_triplett",
+        "eric_koenig"
+    ],
+    "vibe": "tense",
+    "location": "Providence (S.H.I.E.L.D. base)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Simmons",
+            "line": "I'm afraid this might scar."
+        },
+        {
+            "character": "Skye",
+            "line": "Upside... you'll look badass, dangerous."
+        },
+        {
+            "character": "Fitz",
+            "line": "He's gonna be fine, though, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "He will if you back up and give me some room."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, what then?"
+        },
+        {
+            "character": "Ward",
+            "line": "By the time we got to the Fridge, it was too late. It was overrun... Hydra everywhere. We couldn't stop them."
+        },
+        {
+            "character": "May",
+            "line": "What were they after?"
+        },
+        {
+            "character": "Ward",
+            "line": "Everything. They took weapons, alien artifacts... anything they could grab."
+        },
+        {
+            "character": "Coulson",
+            "line": "I assume that means the prisoners are no longer prisoners?"
+        },
+        {
+            "character": "Skye",
+            "line": "So... Ian Quinn..."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm sorry. He's out. They all are."
+        },
+        {
+            "character": "Fitz",
+            "line": "And Garrett? Did he get away?"
+        },
+        {
+            "character": "Ward",
+            "line": "Couldn't stop them from taking the Fridge, but I wasn't gonna let Garrett walk... not after what he did."
+        },
+        {
+            "character": "Skye",
+            "line": "Is he the one that did this to you?"
+        },
+        {
+            "character": "Ward",
+            "line": "He was a tough son of a bitch."
+        },
+        {
+            "character": "Ward",
+            "line": "We need to make it believable."
+        },
+        {
+            "character": "May",
+            "line": "“Was?” Past tense?"
+        },
+        {
+            "character": "Ward",
+            "line": "As soon as I had the upper hand, I put two in the back of his head."
+        },
+        {
+            "character": "Fitz",
+            "line": "Good."
+        },
+        {
+            "character": "Ward",
+            "line": "One from me... one from you."
+        },
+        {
+            "character": "Triplett",
+            "line": "I would have emptied the mag."
+        },
+        {
+            "character": "Simmons",
+            "line": "You're all set... well, I mean, as set as you can be with two cracked ribs and a zygomatic fracture."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, for those of you that don't know what that is, that's a..."
+        },
+        {
+            "character": "Simmons",
+            "line": "Your body needs time to heal. Please take some time."
+        },
+        {
+            "character": "Ward",
+            "line": "Understood. Thanks. Ah. One small victory. Hydra didn't get their hands on this."
+        },
+        {
+            "character": "Triplett",
+            "line": "A hard drive?"
+        },
+        {
+            "character": "Skye",
+            "line": "It's all the research our team's ever done, downloaded off the plane and encrypted for safekeeping."
+        },
+        {
+            "character": "Ward",
+            "line": "We should probably back it up now that we're in a secure facility."
+        },
+        {
+            "character": "Coulson",
+            "line": "First, Skye, I need you on threat assessment. Pull up a list of all the inmates at the Fridge. I want to know just how bad this is."
+        },
+        {
+            "character": "Skye",
+            "line": "This is really, really bad. Quinn is the least scary of the bunch, and he shot me... twice."
+        },
+        {
+            "character": "Coulson",
+            "line": "Quinn's more a sociopath. A lot of those inmates are full-blown psychopaths... Violent, impulsive."
+        },
+        {
+            "character": "Skye",
+            "line": "And some with superpowers. Lovely."
+        },
+        {
+            "character": "Coulson",
+            "line": "Is Marcus Daniels on the list? That's him. Cross-check the list of inmates with crime databases, recent activity. Got a feeling we'll be seeing a slight uptick."
+        },
+        {
+            "character": "Skye",
+            "line": "Okay, but that'll take time, and more computing power than my laptop. Agent Koenig probably has some sort of..."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm sure he'll lend a hand. The plane you flew in on... is it operational?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah. You need me to pilot?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You heard Simmons. You stay and get better. I'm gonna take a splinter team out and start going after inmates on that list, starting with Mr. Daniels. I think I know where he's going."
+        },
+        {
+            "character": "May",
+            "line": "Uh, you sure it's wise to split up the team, leave this base? What if it's part of Hydra's plan... a distraction?"
+        },
+        {
+            "character": "Skye",
+            "line": "She's got a point. I mean, Fury brought you to this base for a reason. We're safe here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, we're safe here. But what about everyone else... people who don't happen to have access to a top-secret underground shelter? What about them? I don't know if it's wise, but it's right. I'm taking a team, and that's the end of it."
+        }
+    ]
+}

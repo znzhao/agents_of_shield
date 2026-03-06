@@ -1,0 +1,64 @@
+{
+    "season": 6,
+    "episode": 7,
+    "num": 7,
+    "scene_name": "SargeAndMackDebateLoyalty",
+    "description": "Mack confronts Sarge with a photograph of Coulson, drawing a sharp contrast between his mentor's values and Sarge's ruthless pragmatism. Mack tries to use Jaco's declining health as leverage to get Sarge to cooperate. Their exchange underscores the difference in leadership and morality between Coulson and Sarge.",
+    "roles": [
+        "alphonso_mackenzie",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Trevor",
+            "line": "The Director wants to see you."
+        },
+        {
+            "character": "Mack",
+            "line": "Must be strange looking at the real deal... when you're just a knockoff."
+        },
+        {
+            "character": "Sarge",
+            "line": "What did you think this would do to me? You trying to make things personal?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, I think you have to be a person for that to happen, and I don't know what the hell you are. Do you?"
+        },
+        {
+            "character": "Sarge",
+            "line": "It's going to be satisfying when I take you out of the picture."
+        },
+        {
+            "character": "Mack",
+            "line": "Now, this man taught me what S.H.I.E.L.D. was about. You do the right thing. We save lives. We don't take them."
+        },
+        {
+            "character": "Sarge",
+            "line": "Some lives have already been taken, and you can't get them back."
+        },
+        {
+            "character": "Mack",
+            "line": "See, that's the difference between you two right there. Coulson put a value on life. Especially cared about those who were loyal to him. I don't think you do. 'Cause I know your man Jaco isn't well. He's refusing medical care out of some misguided loyalty to you."
+        },
+        {
+            "character": "Sarge",
+            "line": "What's your point?"
+        },
+        {
+            "character": "Mack",
+            "line": "Cooperate with us. Maybe Jaco will do the same. Agree to some treatment. You can help him by helping us."
+        },
+        {
+            "character": "Sarge",
+            "line": "Jaco's seen a lot. Maybe he's had enough."
+        },
+        {
+            "character": "Mack",
+            "line": "That's what I thought. Just another life, right? Not worth anything to you."
+        }
+    ]
+}

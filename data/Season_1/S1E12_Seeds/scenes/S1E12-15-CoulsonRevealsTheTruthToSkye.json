@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "episode": 12,
+    "num": 15,
+    "scene_name": "CoulsonRevealsTheTruthToSkye",
+    "description": "Skye confronts Coulson on the Bus about his distance and secrecy. Coulson decides to reveal the full truth about her violent origins, explaining the massacre in China and how she was protected at the cost of many lives. The conversation is deeply emotional, shattering illusions Skye held about her past.",
+    "roles": [
+        "phil_coulson",
+        "skye"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Ever since you got back from who knows where, you won't even look at me. And I know things have been heavy right now, but... did I do something wrong?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. I did. Ian Quinn's not the only one who manipulates people, Skye. We do it all the time... actually teach it at the Academy. It's our trade."
+        },
+        {
+            "character": "Skye",
+            "line": "What are you talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been keeping something from you. But recently, I realized I had no right to do that."
+        },
+        {
+            "character": "Skye",
+            "line": "You lied to me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Agent May and I went down to Mexico City to talk to somebody... somebody who knows where you came from."
+        },
+        {
+            "character": "Skye",
+            "line": "Tell me."
+        },
+        {
+            "character": "Coulson",
+            "line": "When we started this, I warned you... that you might not like what you learn."
+        },
+        {
+            "character": "Skye",
+            "line": "And I told you... that it can't be worse than what I have imagined."
+        },
+        {
+            "character": "Coulson",
+            "line": "It is. The agent who dropped you at St. Agnes was not your mother, but she was killed trying to protect you. 24 years ago, an entire S.H.I.E.L.D. team in a small village... was massacred... in attempt to secure you."
+        }
+    ]
+}

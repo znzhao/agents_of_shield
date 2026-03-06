@@ -1,0 +1,63 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 3,
+    "scene_name": "ZephyrOneFieldTeamStrategies",
+    "description": "On Zephyr One, May, Coulson, and Lincoln discuss the plan to locate and protect Alisha before Hive recruits her. Lincoln is only allowed on the field if he wears an explosive vest as a precaution against Hive's infection. Tensions flare as May questions Coulson's willingness to make tough calls and the risks the team is being forced to take. Meanwhile, Daisy bonds further with Hive, while Hive's plans for a world led by Inhumans come to light.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "lincoln",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Feel like sharing?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If it becomes a thing, I'll let you know."
+        },
+        {
+            "character": "May",
+            "line": "You didn't tell him about Daisy."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, I didn't."
+        },
+        {
+            "character": "May",
+            "line": "So you think they'll go after Alisha?"
+        },
+        {
+            "character": "Coulson",
+            "line": "After Lash killed one of her doubles, I put her in protective housing to give her time to recover. Hypothetically, I'm the only one who knows where she is, but..."
+        },
+        {
+            "character": "May",
+            "line": "Daisy has her ways."
+        },
+        {
+            "character": "Coulson",
+            "line": "And Alisha's four Inhumans for the price of one. We need to get to her before Hive does."
+        },
+        {
+            "character": "Hive",
+            "line": "Humans, especially those with war in their hearts, presume I want an army."
+        },
+        {
+            "character": "Daisy",
+            "line": "But there's no need for war when everyone shares a common goal."
+        },
+        {
+            "character": "Hive",
+            "line": "And after we're finished, there will be no more war. No more pain. Especially now that we're together. It's time we took back this planet. Make it the home Inhumans have always deserved."
+        }
+    ]
+}

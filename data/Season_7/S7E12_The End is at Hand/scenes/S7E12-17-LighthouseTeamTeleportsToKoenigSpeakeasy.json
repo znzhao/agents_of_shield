@@ -1,0 +1,63 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 17,
+    "scene_name": "LighthouseTeamTeleportsToKoenigSpeakeasy",
+    "description": "Garrett teleports the Lighthouse agents to Koenig’s speakeasy, where they encounter other S.H.I.E.L.D. survivors. Amid confusion and guns drawn, Coulson clarifies their identities and purpose. The team unites with Mack, Daisy, Simmons, Deke, and Sousa as they arrive, and the mood shifts to cautious optimism.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "elena_rodriguez",
+        "john_garrett",
+        "alphonso_mackenzie",
+        "skye",
+        "jemma_simmons",
+        "deke_shaw",
+        "sousa"
+    ],
+    "vibe": "dramatic",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Man",
+            "line": "Freeze! Hands in the air, or we'll..."
+        },
+        {
+            "character": "Man",
+            "line": "Hands behind your head before another person gets shot."
+        },
+        {
+            "character": "Elena",
+            "line": "I can disarm everyone without them even knowing what happened."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's not scare them any more than they already are."
+        },
+        {
+            "character": "May",
+            "line": "They are scared. I can feel it. And confused."
+        },
+        {
+            "character": "Coulson",
+            "line": "My name is Phil Coulson. I'm an agent of S.H.I.E.L.D. We received a coded transmission after the attack. Is it fair to assume that everyone here responded to the same coded broadcast?"
+        },
+        {
+            "character": "Gamble",
+            "line": "I'm Agent Brandon Gamble. I was stationed at the Hub. Why the hell didn't you just use the door, instead of this crazy teleportation device? Your friend might still be alive."
+        },
+        {
+            "character": "Hand",
+            "line": "Does that mean I just killed one of our own? Oh, God."
+        },
+        {
+            "character": "May",
+            "line": "I know what you're feeling, but this man, John Garrett, was a double agent. He was responsible for destroying the Lighthouse and killing civilians."
+        },
+        {
+            "character": "Elena",
+            "line": "You did the world a favor."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "season": 6,
+    "episode": 13,
+    "num": 11,
+    "scene_name": "ZephyrAboveNYAndCoulsonLMDReveal",
+    "description": "Aboard the Zephyr, the team learns they are above New York City as Simmons details the upgrades made in preparation for the Chronicom threat. Simmons reveals that S.H.I.E.L.D.'s salvation may hinge on a new Chronicom-influenced LMD with Coulson’s mind and memories. As the shock sets in and the stakes are outlined, Coulson reappears, greeting the team, hinting at a new chapter.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "skye",
+        "alphonso_mackenzie",
+        "deke_shaw"
+    ],
+    "vibe": "emotional",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "Where are we going?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The Lighthouse wasn't the only point of interest targeted by the Hunters."
+        },
+        {
+            "character": "Mack",
+            "line": "You wanna share exactly where Fitz sent us?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't have that information yet. I'll scan the terrain."
+        },
+        {
+            "character": "Simmons",
+            "line": "We're above New York City. It's completely fogged over. Good thing, because I forgot to activate cloaking. The controls changed when we upgraded."
+        },
+        {
+            "character": "Daisy",
+            "line": "You're right. I can see the Empire State Building."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, but it's the only building above the clouds."
+        },
+        {
+            "character": "Simmons",
+            "line": "It may be the tallest building in the world."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons. Cloaking isn't the only thing you upgraded, is it? You enhanced the jump drive, too. How?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Like I said we had time."
+        },
+        {
+            "character": "Daisy",
+            "line": "I would say I need a drink but those are illegal now, aren't they?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're cloaked."
+        },
+        {
+            "character": "Mack",
+            "line": "Are there any other bombshells you want to drop, Agent Simmons?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes. There is one. We have a problem that Fitz and I could not solve, but Enoch provided a possible solution. The Chronicom Hunters have Fury's Black Box as well as centuries of anthropological research to pull from. Our team needs an expert in S.H.I.E.L.D. history to have a chance of stopping them to even know what the Hunters might target. I would ask May her opinion, but she's out of commission for the time being. The rest of us could vote, but truthfully, this decision should be left up to him. And he has already voiced his opposition to anything like this. He has all of his own memories and has been upgraded with complete knowledge of everything he's missed. He has Chronicom hardware, which makes him our most advanced LMD. And there is no better person to be your right hand, sir."
+        },
+        {
+            "character": "Mack",
+            "line": "Simmons..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was deeply against it at first but the more I thought about it, the more I think he'd understand. I believe it's the right thing to do. And frankly I miss him."
+        },
+        {
+            "character": "Simmons",
+            "line": "So, what do you think?"
+        },
+        {
+            "character": "Mack",
+            "line": "He would want us to consider the ramifications."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, guys."
+        }
+    ]
+}

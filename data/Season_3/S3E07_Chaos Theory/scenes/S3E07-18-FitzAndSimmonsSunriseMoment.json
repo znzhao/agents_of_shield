@@ -1,0 +1,52 @@
+{
+    "season": 3,
+    "episode": 7,
+    "num": 18,
+    "scene_name": "FitzAndSimmonsSunriseMoment",
+    "description": "Late at the Playground, Fitz and Simmons meet to watch the sunrise. Fitz shares his progress on opening the portal and reveals he has recovered Simmons’ recordings. Simmons affirms her emotional clarity during her ordeal. The scene ends with a quiet, hopeful moment between them, suggesting a deepening of their relationship.",
+    "roles": [
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "hopeful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Hey. You okay?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I couldn't sleep. There aren't a lot of windows in the base, and I wanted to..."
+        },
+        {
+            "character": "Fitz",
+            "line": "Watch the sunrise. I, uh... I can't make any promises, but I think I may have found something. Might help us open up the portal."
+        },
+        {
+            "character": "Simmons",
+            "line": "Really?"
+        },
+        {
+            "character": "Fitz",
+            "line": "And, um... fixed your SIM card, so, I heard your recordings and saw your video. Didn't know you thought about settling down in Perthshire. That's in Scotland."
+        },
+        {
+            "character": "Simmons",
+            "line": "I know where it is, Fitz."
+        },
+        {
+            "character": "Fitz",
+            "line": "So when you said all those things about... I mean, you were tired and dehydrated."
+        },
+        {
+            "character": "Simmons",
+            "line": "I was as clearheaded then as I've ever been, when I said all those things. What do you think we should do about it?"
+        },
+        {
+            "character": "Fitz",
+            "line": "For now, let's just watch the sunrise."
+        }
+    ]
+}

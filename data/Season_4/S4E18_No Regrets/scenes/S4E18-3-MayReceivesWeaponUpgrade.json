@@ -1,0 +1,44 @@
+{
+    "season": 4,
+    "episode": 18,
+    "num": 3,
+    "scene_name": "MayReceivesWeaponUpgrade",
+    "description": "Agent May is informed by Madame Hydra that there is now a weapon capable of taking down the Patriot. May volunteers to be augmented, showing her commitment to Hydra's cause. This scene sets up May as a future threat to Mace.",
+    "roles": [
+        "melinda_may",
+        "aida"
+    ],
+    "vibe": "dark",
+    "location": "Triskelion (S.H.I.E.L.D. headquarters)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "I should've had better judgment that day."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Best not to dwell on the past. What's important is our future."
+        },
+        {
+            "character": "May",
+            "line": "No. It's the present we need to worry about. The Inhuman threat keeps growing. The Patriot hijacked a prison transport. It's time we take him out."
+        },
+        {
+            "character": "Ophelia",
+            "line": "I admire your resolve, Agent May. The truth is, we may have a weapon that can beat him, but there are risks involved."
+        },
+        {
+            "character": "May",
+            "line": "It's only a risk if you have something to lose."
+        },
+        {
+            "character": "Ophelia",
+            "line": "Are you volunteering for the task?"
+        },
+        {
+            "character": "May",
+            "line": "Hail Hydra."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 7,
+    "scene_name": "TeamRegroupsOnZephyrOne",
+    "description": "Back aboard Zephyr One, Coulson, May, Fitz, Aida, Jemma Simmons, Elena, and Daisy regroup and debate what to do with Aida, now that she possesses Inhuman powers and human emotions. The team secures Aida and Fitz inside the specialized containment cell, built to restrict teleportation, and discusses the dangers they might still pose. Elena pushes for more drastic solutions, but May and Coulson urge restraint and reflection.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "jemma_simmons",
+        "leo_fitz",
+        "elena_rodriguez",
+        "skye",
+        "aida"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "My God. Who did this?"
+        },
+        {
+            "character": "Daisy",
+            "line": "You did. To stop him from coming after us."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who?"
+        },
+        {
+            "character": "Simmons",
+            "line": "You."
+        },
+        {
+            "character": "May",
+            "line": "Looks like we weren't detected flying in."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't stay long. Probably shouldn't have come here."
+        },
+        {
+            "character": "Simmons",
+            "line": "We have to refuel. Also, we had no choice."
+        },
+        {
+            "character": "Elena",
+            "line": "Because of that room?"
+        },
+        {
+            "character": "Simmons",
+            "line": "It's the only place that can contain AIDA's teleportation ability."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's outfitted with technology we used to stop Gordon, the first guy we encountered with that particular skill set."
+        },
+        {
+            "character": "Daisy",
+            "line": "She'll remain inside until we can decide what we want to do with her."
+        },
+        {
+            "character": "Elena",
+            "line": "Why don't we chop off her head like last time? You need a volunteer?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's take a moment and think about that, Sweeney Todd. She's a real person now, and she..."
+        },
+        {
+            "character": "Daisy",
+            "line": "She saved Mack."
+        },
+        {
+            "character": "Coulson",
+            "line": "She made herself real in order to escape Radcliffe's programming, so... Now maybe she's different."
+        },
+        {
+            "character": "Simmons",
+            "line": "I highly doubt that. People don't name themselves “Madame HYDRA” if they're open-minded."
+        },
+        {
+            "character": "Elena",
+            "line": "She did what you said in the Framework, seems better safe than sorry."
+        },
+        {
+            "character": "May",
+            "line": "No more killing. There's been enough killing."
+        },
+        {
+            "character": "Coulson",
+            "line": "Which leads to the next question."
+        },
+        {
+            "character": "Daisy",
+            "line": "What do we do with Fitz?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What do the two of you remember of your Framework lives?"
+        },
+        {
+            "character": "Coulson",
+            "line": "As much as I remember about this life. The only difference is, I know..."
+        },
+        {
+            "character": "May",
+            "line": "It wasn't real."
+        },
+        {
+            "character": "Simmons",
+            "line": "So it's like you woke up from a dream."
+        },
+        {
+            "character": "May",
+            "line": "No. Not a dream, Simmons. A life."
+        },
+        {
+            "character": "Simmons",
+            "line": "But this is you, right? I mean does it feel as real as..."
+        },
+        {
+            "character": "Daisy",
+            "line": "She's afraid Fitz will be the same guy he was in the Framework."
+        },
+        {
+            "character": "Elena",
+            "line": "No. She's afraid he still loves someone else."
+        }
+    ]
+}

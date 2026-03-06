@@ -1,0 +1,102 @@
+{
+    "season": 3,
+    "episode": 20,
+    "num": 9,
+    "scene_name": "TeamDebriefsTalbotAboutHive",
+    "description": "Fitz, Simmons, and Coulson fully brief Talbot about Hive’s origin, his mind-controlling parasites, and how Daisy’s powers and blood might facilitate Hive's endgame. They deduce that Hive could now create a viral agent using Daisy’s DNA, raising fears of mass transformation. This critical scene clarifies the stakes and moves Talbot closer to understanding S.H.I.E.L.D.’s secrecy.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "The devil? You must be kidding me."
+        },
+        {
+            "character": "Fitz",
+            "line": "Technically, it's not the devil, but many of the myths about the devil are derived from Hive and the cults that worshipped him as HYDRA."
+        },
+        {
+            "character": "Talbot",
+            "line": "You're saying a demon possessed Grant Ward."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not “The Exorcist.” There's nothing demonic about Hive. He's an Inhuman."
+        },
+        {
+            "character": "Simmons",
+            "line": "An Inhuman who's made up of an indeterminable amount of Nano-Parasites. Those nano-parasites can consume human flesh upon contact, but when they make contact with Inhumans, they attack the pleasure centers of the brain, giving its victims a desire and willingness to connect with Hive and to serve him."
+        },
+        {
+            "character": "Talbot",
+            "line": "So he's controlling Daisy. Is that it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That's it."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is exactly why the Sokovia Accords were created. This is a nightmare scenario. She's a nuclear weapon in the wrong hands. How many of these Inhumans is he controlling?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not many. He tried to create his own, but we rained on that parade."
+        },
+        {
+            "character": "Simmons",
+            "line": "We did. But, sir, he may actually have everything he needs now."
+        },
+        {
+            "character": "Coulson",
+            "line": "All cards on the table, Dr. Simmons. I want General Talbot on the same page as the rest of us."
+        },
+        {
+            "character": "Fitz",
+            "line": "All right, well, we've been trying to put the pieces together to determine possible end-game scenarios."
+        },
+        {
+            "character": "Simmons",
+            "line": "We know he wanted Kree blood so he can duplicate the original Kree experiment."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's turning a human into an Inhuman."
+        },
+        {
+            "character": "Coulson",
+            "line": "The Kree were destroyed. May and Mack made sure of that. There's no more Kree blood."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes, there is. You have it, and so does Daisy. He can use her blood."
+        },
+        {
+            "character": "Talbot",
+            "line": "So just take some of Daisy's blood and make more of these. You know how crazy this sounds, right?"
+        },
+        {
+            "character": "Coulson",
+            "line": "But that would kill her. Do you really think he'd sacrifice her just to make a few more Inhumans? With her powers, her knowledge, she's worth 100."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if he could make that many?"
+        },
+        {
+            "character": "Simmons",
+            "line": "With enough of Daisy's blood, the Terrigen Crystals they have, Hive's own particulate DNA, and a scientist who knows how to stir the cocktail..."
+        },
+        {
+            "character": "Fitz",
+            "line": "He could create an all-in-one virus that instantly transforms any humans into swayed Inhumans completely under his control."
+        }
+    ]
+}

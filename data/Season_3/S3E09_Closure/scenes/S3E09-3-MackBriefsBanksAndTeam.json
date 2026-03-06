@@ -1,0 +1,156 @@
+{
+    "season": 3,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "MackBriefsBanksAndTeam",
+    "description": "Mack meets with Banks and brings in Daisy to coordinate next steps in investigating Malick and HYDRA's connection to the NASA-linked Distant Star Pathfinder program. Banks reveals operational details and the team decides to check out an abandoned contractor facility linked to Malick.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "I realize this has got to be hard on you."
+        },
+        {
+            "character": "Banks",
+            "line": "I just want to get the guy who took Roz out."
+        },
+        {
+            "character": "Mack",
+            "line": "So do we. Which is why there are a couple of people I need you to meet."
+        },
+        {
+            "character": "Daisy",
+            "line": "There was just something about him. We both had these messed-up childhoods. Made it easy to relate."
+        },
+        {
+            "character": "Coulson",
+            "line": "Have you considered that all of that might've been an act to get close, that maybe he found a weakness and exploited it?"
+        },
+        {
+            "character": "Daisy",
+            "line": "It wasn't an act. For whatever reason, Ward never lied to me. He just hid parts of himself that I wasn't ready to see yet."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yet?"
+        },
+        {
+            "character": "Daisy",
+            "line": "When you grew up like we did, it... it impacts how you see the world. Everything is filtered through a very specific lens. And Ward got that. That's why he thought he could make me understand him."
+        },
+        {
+            "character": "Coulson",
+            "line": "Was he right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Probably. After years of moving from place to place, I totally get how easy it was for him to be taken in by a powerful father figure. I even understand how Garrett was able to draw him into HYDRA. It's not like I wasn't fooled by my mom when she..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Sounds like there's a lot you're willing to forgive."
+        },
+        {
+            "character": "Daisy",
+            "line": "I will never forgive him. He murdered Rosalind just to hurt you. He killed Koenig... He killed Koenig because of me."
+        },
+        {
+            "character": "Coulson",
+            "line": "He knew once Koenig outed him as HYDRA, he'd lose you."
+        },
+        {
+            "character": "Daisy",
+            "line": "And the sad part is, that's when I finally understood him for the first time. The reason Ward kills isn't because he feels nothing. It's because he feels too much."
+        },
+        {
+            "character": "Mack",
+            "line": "Ward mentioned that Malick's trying to open a portal."
+        },
+        {
+            "character": "Fitz",
+            "line": "Does this look familiar?"
+        },
+        {
+            "character": "Banks",
+            "line": "Yeah, that's Distant Star Pathfinder. It was the program NASA was in the middle of when Roz and I... joined. We weren't privy to the details."
+        },
+        {
+            "character": "Mack",
+            "line": "You know where NASA was running it?"
+        },
+        {
+            "character": "Banks",
+            "line": "They weren't. An independent contractor proposed the project, ran things out of a lab complex. Facility shut down years ago."
+        },
+        {
+            "character": "Simmons",
+            "line": "Maybe worth looking anyway. Do we have to guess who it was that funded this independent contractor?"
+        },
+        {
+            "character": "Banks",
+            "line": "No, you don't. It was Gideon Malick."
+        },
+        {
+            "character": "Malick",
+            "line": "All hail the conquering hero. That was fast. Seems I just gave the go-ahead."
+        },
+        {
+            "character": "Ward",
+            "line": "Been a while since I took a shot from that far out. Felt good."
+        },
+        {
+            "character": "Malick",
+            "line": "Yeah, I bet. Guess in all that excitement, you forgot about the part where we need Phil Coulson alive."
+        },
+        {
+            "character": "Ward",
+            "line": "He made it out."
+        },
+        {
+            "character": "Malick",
+            "line": "By the skin of his teeth. What the hell were you thinking about, sending in your little bones brigade?"
+        },
+        {
+            "character": "Ward",
+            "line": "I wanted to put Coulson through his paces."
+        },
+        {
+            "character": "Malick",
+            "line": "Ah. This is not some game you just leave to chance."
+        },
+        {
+            "character": "Ward",
+            "line": "Well, maybe not for you. I was good either way."
+        },
+        {
+            "character": "Malick",
+            "line": "Right. ‘Cause if Coulson doesn't make it out, you get that closure you've been searching for. Closure's not something that I ever put much stock in. What I believe in, is moving forward. Never looking back. These five stones were extracted from the monolith centuries ago. The idea was that they should be divided up evenly among HYDRA's most powerful leaders."
+        },
+        {
+            "character": "Ward",
+            "line": "Now you've got the full set, thanks to me."
+        },
+        {
+            "character": "Malick",
+            "line": "You're missing the point. These stones are the key to everything that HYDRA's been marching toward since it was formed. And now you're jeopardizing all of that for something as petty as closure."
+        },
+        {
+            "character": "Ward",
+            "line": "Don't worry. Everything will play out exactly like we planned."
+        },
+        {
+            "character": "Malick",
+            "line": "How can you be so sure?"
+        },
+        {
+            "character": "Ward",
+            "line": "‘Cause I know Coulson better than he knows himself."
+        }
+    ]
+}

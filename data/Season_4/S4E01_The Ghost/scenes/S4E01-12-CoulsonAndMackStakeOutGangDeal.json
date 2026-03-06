@@ -1,0 +1,61 @@
+{
+    "season": 4,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "CoulsonAndMackStakeOutGangDeal",
+    "description": "Coulson and Mack stake out a meeting between the Chinese gangsters and the remaining Aryan Brotherhood members over the mysterious box. The mood turns unsettling when ghostly energy escapes as the box is opened, intoxicating the criminals. Coulson and Mack realize the threat and covertly call for May and her strike team backup. Chaos erupts as the gangsters start hallucinating and attacking each other.",
+    "roles": [
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dark",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "They're walking in now, six. Really convivial-looking fellows. At least four of them are packing."
+        },
+        {
+            "character": "Mack",
+            "line": "We should be tapped into surveillance now. Let's see what we get."
+        },
+        {
+            "character": "Chen",
+            "line": "Where are the other two men?"
+        },
+        {
+            "character": "Man",
+            "line": "We had to leave them at the pick-up site."
+        },
+        {
+            "character": "Chen",
+            "line": "Explain."
+        },
+        {
+            "character": "Man",
+            "line": "Those guys were transferring the box into the armored transport. Maybe they peeked inside or something. But they went berserk and tore into each other. There was blood everywhere. We put two bullets in each of them and locked them in the truck. No, no. Look, we were freaking out. We had to get out of there!"
+        },
+        {
+            "character": "Chen",
+            "line": "Did you burn their bodies or dump the truck in the ocean? Because if not, they can be traced back here. They probably saw what was in this box and were fighting over it, you idiot! I have been told it's powerful enough to bring our new enhanced enemies to their knees."
+        },
+        {
+            "character": "Mack",
+            "line": "We get on comms and call the Zephyr for backup, headquarters will know we're on Daisy's trail."
+        },
+        {
+            "character": "Coulson",
+            "line": "No orders to pull out. She's been tracking this sale. She could show up here any minute."
+        },
+        {
+            "character": "Mack",
+            "line": "I don't know."
+        },
+        {
+            "character": "Coulson",
+            "line": "Let's let this play out, see if anyone else makes an appearance."
+        }
+    ]
+}

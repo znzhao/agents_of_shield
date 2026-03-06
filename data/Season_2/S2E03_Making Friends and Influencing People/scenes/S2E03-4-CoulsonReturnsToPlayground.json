@@ -1,0 +1,32 @@
+{
+    "season": 2,
+    "episode": 3,
+    "num": 4,
+    "scene_name": "CoulsonReturnsToPlayground",
+    "description": "Phil Coulson arrives at the Playground, updating May on the failed mission to save Agent 33 from Hydra's recruitment. Coulson expresses his frustration at Hydra's successful 'talent grab' of former S.H.I.E.L.D. operatives. The weight of responsibility and ongoing losses is evident as Coulson and May strategize their next steps.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "You're alone. Should I assume?"
+        },
+        {
+            "character": "Coulson",
+            "line": "That the entire trip was a waste of precious jet fuel? Yep. Assume that."
+        },
+        {
+            "character": "May",
+            "line": "At least tell me that Agent 33 retired."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nope. They got to her first. It's gone from being a land grab to a talent grab. And I'm getting damn tired of losing our best and brightest to Hydra."
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "season": 5,
+    "episode": 18,
+    "num": 7,
+    "scene_name": "TalbotKidnapsRobin",
+    "description": "In the Lighthouse, Talbot enters the Hinton's room under false pretenses. He tries to understand Robin's premonitions but, feeling pressure from his conditioning, renders Polly unconscious and kidnaps Robin. The scene sets Talbot on a collision course with the rest of the team, introducing immediate danger within the S.H.I.E.L.D. base.",
+    "roles": [
+        "glenn_talbot",
+        "robin_hinton"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "This kid likes her crimson crayon. Redrum. Redrum."
+        },
+        {
+            "character": "Polly",
+            "line": "What is this?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Busted. Hi. My name's Glenn Talbot. You helped rescue me."
+        },
+        {
+            "character": "Polly",
+            "line": "What are you doing in our room?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Uh, right. Uh, I shouldn't... I shouldn't be here. You're right. I know better. Uh, I just... I... I just... I couldn't... I couldn't help myself. I have a boy, George. He likes to draw, too. I just haven't seen him in a long time. It's just hard. I'm sorry. I just... I haven't been myself."
+        },
+        {
+            "character": "Polly",
+            "line": "I think we're all a bit out of sorts these days. It's a strange time."
+        },
+        {
+            "character": "Talbot",
+            "line": "So, this is who all the fuss is about, huh? She can tell the future?"
+        },
+        {
+            "character": "Polly",
+            "line": "Sort of. She sees a lot, but it's all out of order."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's a pretty remarkable gift you have, young lady. You must have seen some incredible things. Now, now. There's no need to be afraid of me. I'm Glenn."
+        },
+        {
+            "character": "Robin",
+            "line": "You're the General."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's right. How did you know that?"
+        },
+        {
+            "character": "Robin",
+            "line": "I've drawn you."
+        },
+        {
+            "character": "Daisy",
+            "line": ": There's something wrong with him. Creel touched the Gravitonium and felt people in there."
+        },
+        {
+            "character": "Coulson",
+            "line": "Franklin Hall."
+        },
+        {
+            "character": "May",
+            "line": "Ian Quinn, too."
+        },
+        {
+            "character": "Daisy",
+            "line": "We've seen it consume people, but apparently, it also absorbs their consciousness."
+        },
+        {
+            "character": "Deke",
+            "line": "Is that even possible?"
+        },
+        {
+            "character": "Mack",
+            "line": "Well, assume the answer to that question's always yes."
+        },
+        {
+            "character": "Coulson",
+            "line": "How's Creel doing now?"
+        },
+        {
+            "character": "May",
+            "line": "He's barely hanging on, lost in his own head. We had to sedate him."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to get him help. I owe him that much."
+        },
+        {
+            "character": "Daisy",
+            "line": "And we will, but right now, we have to stop Ruby."
+        },
+        {
+            "character": "May",
+            "line": "According to Hale, Fitz and Simmons have been spotted on site."
+        },
+        {
+            "character": "Mack",
+            "line": "Damn it, Yo-Yo. If that crazy Hydra girl powers herself..."
+        },
+        {
+            "character": "Deke",
+            "line": "Daisy, you can't go there. That's too dangerous."
+        },
+        {
+            "character": "Daisy",
+            "line": "For the hundredth time, I'm not gonna quake the world apart."
+        },
+        {
+            "character": "Deke",
+            "line": "That's not what I'm saying. I'm saying you have to be careful, because..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No matter what, I'm not gonna use my powers around the Gravitonium."
+        },
+        {
+            "character": "Coulson",
+            "line": "If you won't quake and Ruby's powered, she'll kill you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Sir, you brought me back to lead. This is what that looks like."
+        },
+        {
+            "character": "Coulson",
+            "line": "You can't put yourself at risk like that."
+        },
+        {
+            "character": "May",
+            "line": "We'll make those decisions, Phil, not you."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look, we need every advantage we can get, so go through Robin's drawings and see if there's anything we can use."
+        },
+        {
+            "character": "Deke",
+            "line": "Women, huh?"
+        },
+        {
+            "character": "Mack",
+            "line": "Shut up, lemons."
+        },
+        {
+            "character": "Talbot",
+            "line": "Who is this? And when does this happen?"
+        },
+        {
+            "character": "Polly",
+            "line": "That's not really how it works."
+        },
+        {
+            "character": "Robin",
+            "line": "Soon."
+        },
+        {
+            "character": "Talbot",
+            "line": "Soon. And these? These all come true? We need to act on this. There are people who want to meet you. There are people who want to meet you."
+        },
+        {
+            "character": "Polly",
+            "line": "Robin's getting tired. Maybe we could chat about this tomorrow."
+        },
+        {
+            "character": "Talbot",
+            "line": "No, tomorrow... tomorrow's too late. The mission's... The mission's today. The mission is now. I'm really sorry about this."
+        },
+        {
+            "character": "Polly",
+            "line": "Go, Robin! No! Robin, get out of here!"
+        },
+        {
+            "character": "Talbot",
+            "line": "Shh, shh, shh, shh, shh!"
+        },
+        {
+            "character": "Polly",
+            "line": "Go! Get help, Robin..."
+        },
+        {
+            "character": "Talbot",
+            "line": "Just go to sleep. Shh, shh, shh. That's it. Shh, shh, shh. Just go to sleep. Shh. Go to sleep. You're coming with me."
+        },
+        {
+            "character": "Robin",
+            "line": "I know."
+        }
+    ]
+}

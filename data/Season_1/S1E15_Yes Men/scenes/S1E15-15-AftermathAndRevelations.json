@@ -1,0 +1,188 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 15,
+    "scene_name": "AftermathAndRevelations",
+    "description": "As the dust settles, the team addresses lingering tensions. Sif formally takes Lorelei back to Asgard. May and Coulson discuss the damage—physical and emotional—wrought by recent events, urging each other to confront personal truths. Coulson finally tells Skye the truth about the alien origins of GH.325 and their shared uncertainties, deciding to keep the secret for now. In a covert moment, May files a secret status report, revealing layers of hidden agendas within the team.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Lady Sif",
+            "line": "My apologies. The damage caused to your flying boat was unfortunate."
+        },
+        {
+            "character": "May",
+            "line": "It's seen worse."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I assure you, Lorelei will be punished severely for the crimes against your people."
+        },
+        {
+            "character": "Coulson",
+            "line": "It must have been hard for you... After everything she did, to move past it, to let it go."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Odin ordered her back alive. As one of his warriors, I bow to his will."
+        },
+        {
+            "character": "Coulson",
+            "line": "Regardless of what it cost you?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Much like your S.H.I.E.L.D., we are bound by our code. I am honored to have fought by your side."
+        },
+        {
+            "character": "May",
+            "line": "I'll run diagnostics, see how much damage we're dealing with."
+        },
+        {
+            "character": "Coulson",
+            "line": "How much are you dealing with?"
+        },
+        {
+            "character": "May",
+            "line": "He didn't break anything, so..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not what I meant. You should talk to him, hash it out."
+        },
+        {
+            "character": "May",
+            "line": "And you should take your own advice. You've been sitting on something since the Guest House. If not with me, then with Skye. She deserves to know what you saw down there."
+        },
+        {
+            "character": "Ward",
+            "line": "I figure... I let you punch me again, repeatedly, just... why don't you just..."
+        },
+        {
+            "character": "May",
+            "line": "It's fine."
+        },
+        {
+            "character": "Ward",
+            "line": "It's not. I never intended... I didn't want to hurt..."
+        },
+        {
+            "character": "May",
+            "line": "You didn't. That was never a risk with me. I told you that."
+        },
+        {
+            "character": "Ward",
+            "line": "You... You did."
+        },
+        {
+            "character": "May",
+            "line": "Seems like we're done here."
+        },
+        {
+            "character": "Ward",
+            "line": "Okay."
+        },
+        {
+            "character": "May",
+            "line": "But if what Lorelei said was true... you were more honest with her than you are with yourself."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm not saying you were weak. I'm saying all men are weak."
+        },
+        {
+            "character": "Fitz",
+            "line": "Sir. I understand why you had to punch me. I forgive you."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can I get a moment alone with Skye, please?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Skye",
+            "line": "I know that face, and something gives me a feeling I should be sitting down for this."
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been looking for a way to tell you this, looking around for some answers, something to help... explain... but I don't have any. So... the drug, the one that saved us both... when we found it, I discovered something else. Its source. It was... alien."
+        },
+        {
+            "character": "Skye",
+            "line": "A-alien, as in... unfamiliar?"
+        },
+        {
+            "character": "Skye",
+            "line": "Wow."
+        },
+        {
+            "character": "Coulson",
+            "line": "The minute I learned what it was, I tried to keep them from injecting you with it, but I was too late. I'm so sorry, Skye."
+        },
+        {
+            "character": "Skye",
+            "line": "You were trying to save my life. You did save my life."
+        },
+        {
+            "character": "Coulson",
+            "line": "I was desperate to, and so I subjected you to unknown ramifications or side effects."
+        },
+        {
+            "character": "Skye",
+            "line": "I'm sorry to say this, sir, but... so what? We are alive. And you've had that stuff in you for... uh, some time now, and you're okay, right? Plus, you're not sprouting a pointy tail or anything, so bonus there."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know nothing fazes you, but this should faze you. We are completely in the dark on this."
+        },
+        {
+            "character": "Skye",
+            "line": "That's where we live. I'm an 0-8-4. Who knows what the hell that means? At least we're in the dark together."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. But not for long. To hell with any protocols or any code I used to be bound by. We have a long list of questions we need answers for, and we're going after them ourselves."
+        },
+        {
+            "character": "Skye",
+            "line": "Well, if the team's up for it..."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. No, listen to me. I trust them, but we need to protect them from this. Fury went to dangerous lengths to keep this under wraps... lied to me, lied to S.H.I.E.L.D. This is a powerful secret, a secret men died for. Until we know why, we can't share this with anyone, for their safety and ours."
+        },
+        {
+            "character": "Skye",
+            "line": "Got it. So, what'll it be, A.C.? What do we go after first?"
+        },
+        {
+            "character": "Coulson",
+            "line": "The person responsible for this. And we make him pay."
+        },
+        {
+            "character": "Coulson",
+            "line": "No, listen. I trust them, but we need to protect them from this. Fury went to dangerous lengths to keep this under wraps... Lied to me, lied to S.H.I.E.L.D. This is a powerful secret, a secret men died for. Until we know why, we can't share this with anyone, for their safety and ours."
+        },
+        {
+            "character": "Woman",
+            "line": "Encrypted line secure."
+        },
+        {
+            "character": "May",
+            "line": "Agent Melinda May. Update log 93. He knows. I repeat... Coulson knows."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "season": 3,
+    "episode": 12,
+    "num": 17,
+    "scene_name": "MalickAndPetrovSanctuaryDeal",
+    "description": "On their way home, Malick and Petrov discuss the successful establishment of the Inhuman sanctuary plan and Petrov’s appreciation for Malick's help. Malick expresses his intent to aid in making the state a reality, hinting at continued Hydra influence behind the scenes. The scene ends with their mutual toast to a world where Inhumans are gathered—and vulnerable to Malick's machinations.",
+    "roles": [
+        "grant_ward"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Malick",
+            "line": "I hope your experience with Coulson didn't sour you. It's still a noble and worthwhile idea, and I'd like to help you any way that I can."
+        },
+        {
+            "character": "Petrov",
+            "line": "Thank you, Mr. Malick, and thank you for this incredible ride home."
+        },
+        {
+            "character": "Malick",
+            "line": "It's my pleasure, anything for a friend."
+        },
+        {
+            "character": "Petrov",
+            "line": "There are a few obstacles in my country, but with your influence, we should be able to work them all out, and then we shall have our sanctuary state."
+        },
+        {
+            "character": "Malick",
+            "line": "To a place where all inhumans can live peacefully and not have to worry about the likes of Coulson."
+        },
+        {
+            "character": "Petrov",
+            "line": "Cheers to that."
+        }
+    ]
+}

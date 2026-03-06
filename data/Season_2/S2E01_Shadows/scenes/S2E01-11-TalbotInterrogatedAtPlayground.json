@@ -1,0 +1,81 @@
+{
+    "season": 2,
+    "episode": 1,
+    "num": 11,
+    "scene_name": "TalbotInterrogatedAtPlayground",
+    "description": "Talbot is brought to The Playground, where Coulson tries to convince him to help S.H.I.E.L.D. secure the deadly weapon Creel is after. The interaction is tense as Coulson attempts to gain Talbot's trust while covertly obtaining his fingerprints for security clearance. Talbot remains defiant and refuses to cooperate, resulting in Coulson resorting to subterfuge.",
+    "roles": [
+        "phil_coulson",
+        "glenn_talbot",
+        "melinda_may"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Are these straps really necessary?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You tell me."
+        },
+        {
+            "character": "Talbot",
+            "line": "I guess. To ensure your safety."
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm hoping we can work together, be buddies like we used to be."
+        },
+        {
+            "character": "Talbot",
+            "line": "“Buddies?” Last time we saw each other, you assaulted me and my team."
+        },
+        {
+            "character": "Coulson",
+            "line": "So I could go stop a killer, which I did. Whereas you discovered that secret base. Got a big promotion, Brigadier General Talbot. Sounds like a pair of best buds to me."
+        },
+        {
+            "character": "Talbot",
+            "line": "I got to say... I respect you. You managed to evade us for an entire winter."
+        },
+        {
+            "character": "Coulson",
+            "line": "And I respect you for making it so damn hard. I'm exhausted."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll bet."
+        },
+        {
+            "character": "Coulson",
+            "line": "But I want to make your job easier. Chasing us is a waste of resources, general. We're the good guys, and we can help you catch the bad guys."
+        },
+        {
+            "character": "Talbot",
+            "line": "Kidnapping me and tying me up in your honeycomb kill room is not helping your case. Do you think I'm an idiot?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no. You're the real deal. But you're surrounded by people who constantly underestimate the threat they're up against. Me and my people swore an oath we don't intend to break... to protect the innocent, to watch out for people... people like your son."
+        },
+        {
+            "character": "Talbot",
+            "line": "How dare you bring my family into this."
+        },
+        {
+            "character": "Coulson",
+            "line": "We save lives, including yours, whether you like it or not."
+        },
+        {
+            "character": "Billy Koenig",
+            "line": "That was smooth. Riled him up, got him to grab the arm rests, and now active fingerprint analysis... 89%."
+        },
+        {
+            "character": "Coulson",
+            "line": "We were there for your protection. Everyone is save. No one got hurt."
+        }
+    ]
+}

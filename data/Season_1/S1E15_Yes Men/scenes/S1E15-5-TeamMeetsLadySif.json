@@ -1,0 +1,219 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 5,
+    "scene_name": "TeamMeetsLadySif",
+    "description": "The S.H.I.E.L.D. team encounters an incoming Asgardian: Lady Sif. She reveals the threat posed by Lorelei and her mind-controlling powers over men. Sif explains the use of an enchanted collar to contain Lorelei and recounts Lorelei’s apocalyptic history. The team prepares for a challenging confrontation as Sif insists on immediate action.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons"
+    ],
+    "vibe": "dramatic",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Fitz",
+            "line": "Whoa. I'm getting a massive energy surge, three times the level of the one before."
+        },
+        {
+            "character": "May",
+            "line": "How close?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah, definitely Asgardian."
+        },
+        {
+            "character": "Fitz",
+            "line": "Running facial recognition. Okay, got it. I don't have a name, but I can confirm she was in New Mexico, fighting with Thor and his mates. She's on our side."
+        },
+        {
+            "character": "May",
+            "line": "Stand down. She's a friendly."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "You are of S.H.I.E.L.D.?"
+        },
+        {
+            "character": "Ward",
+            "line": "Yeah?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I am Lady Sif of Asgard. Your world is in grave danger."
+        },
+        {
+            "character": "Coulson",
+            "line": "She's a warrior. I saw her fight in New Mexico with Thor... climbed a giant metal killing machine, speared it with her double-bladed sword. It was pretty badass."
+        },
+        {
+            "character": "May",
+            "line": "She says she needs S.H.I.E.L.D. to help her find someone. You up for this?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I'm fine."
+        },
+        {
+            "character": "May",
+            "line": "“Fine” doesn't look like this. Not on you. You've been gone more often than not. Whatever's bothering you... I'm here."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "What dark magic is this? Thor said you perished at the hand of Loki."
+        },
+        {
+            "character": "Coulson",
+            "line": "And he was right... for awhile, anyway. But Loki wasn't the only one with some tricks up his sleeve. Turns out, S.H.I.E.L.D. had a few of their own."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Thor will be pleased to hear it. He considers you a friend."
+        },
+        {
+            "character": "Coulson",
+            "line": "I feel the same, which is why I'd prefer he hear it from me, if that's okay. I understand you're looking for someone."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I am hunting her. Lorelei. 600 years ago, she used her powers to wreak havoc across the nine realms, to command armies, bring down kings, empires."
+        },
+        {
+            "character": "Ward",
+            "line": "What kind of powers we talking about? Strength? Speed?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Sorcery. She bends and shapes the will of men to her own purpose."
+        },
+        {
+            "character": "May",
+            "line": "Only men? Her powers don't work on women?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "No. Men have an inherent weakness we do not share."
+        },
+        {
+            "character": "Fitz",
+            "line": "I can't imagine what she's talking about."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "The very sound of her voice can ensnare most. For the rare man who can resist, it's her voice joined by her touch that will overpower his will."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, how do we stop her?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "With this. It prevents her from speaking. She wore one like it for centuries while locked in prison. She escaped when the dark elves invaded Asgard and came here using one of Loki's secret pathways between worlds."
+        },
+        {
+            "character": "Ward",
+            "line": "Do we know where she is now?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "All I know is the bifrost delivered me to her last known location."
+        },
+        {
+            "character": "Coulson",
+            "line": "Mostly small towns out that way. Let's start looking for unusual activity within a few-hundred-mile radius... burglary, theft, assault. If this woman's used to ruling over empires... she's gonna be hard to please."
+        },
+        {
+            "character": "Lorelei",
+            "line": "I wanted gold! You bring me... paper?!"
+        },
+        {
+            "character": "Rooster",
+            "line": "It's ... it's cash. It's like gold. This is the currency here."
+        },
+        {
+            "character": "Lorelei",
+            "line": "And who's this ugly woman?"
+        },
+        {
+            "character": "Rooster",
+            "line": "Uh, that's ... uh, that's Ben Franklin. Used to be President. Used to rule this whole country."
+        },
+        {
+            "character": "Lorelei",
+            "line": "Hmm. And women can rule your land, can they not?"
+        },
+        {
+            "character": "Rooster",
+            "line": "Well, uh, y-you'd be the first."
+        },
+        {
+            "character": "Lorelei",
+            "line": "Yes. I will."
+        },
+        {
+            "character": "Rosie",
+            "line": "What the hell, Duane?!"
+        },
+        {
+            "character": "Man",
+            "line": "Whoa, whoa, whoa."
+        },
+        {
+            "character": "Rosie",
+            "line": "Move! Move! I have been texting you all day, worried sick! I thought you were dead in a gutter somewhere."
+        },
+        {
+            "character": "Rooster",
+            "line": "No, no. Don't, baby. There's nothing to worry about. I-I just turned off my cellphone ‘cause the noise was bothering Lorelei."
+        },
+        {
+            "character": "Rosie",
+            "line": "Are those my clothes? Why is this woman wearing my clothes, Duane?"
+        },
+        {
+            "character": "Lorelei",
+            "line": "Who's this Duane she speaks of?"
+        },
+        {
+            "character": "Rooster",
+            "line": "It's, uh... that's me. My... my real name's Duane. She calls me that. She's my wife."
+        },
+        {
+            "character": "Rosie",
+            "line": "Yeah."
+        },
+        {
+            "character": "Lorelei",
+            "line": "Oh! Do you prefer her to me?"
+        },
+        {
+            "character": "Rooster",
+            "line": "Sh-she is nobody next to you."
+        },
+        {
+            "character": "Rosie",
+            "line": "Nobody?! Really?! “Nobody” owns this bar. You know what? Everybody out. Out! We are closed! Out!"
+        },
+        {
+            "character": "Lorelei",
+            "line": "I'm tired of this noise, Rooster. Make it stop."
+        },
+        {
+            "character": "Rosie",
+            "line": "His name is not Rooster! It's..."
+        },
+        {
+            "character": "Rooster",
+            "line": "I'm sorry, baby. You're just making too much noise."
+        }
+    ]
+}

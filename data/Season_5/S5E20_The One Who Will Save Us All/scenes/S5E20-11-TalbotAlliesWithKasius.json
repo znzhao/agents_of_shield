@@ -1,0 +1,222 @@
+{
+    "season": 5,
+    "episode": 20,
+    "num": 11,
+    "scene_name": "TalbotAlliesWithKasius",
+    "description": "On the Remorath ship, Talbot meets privately with Taryan (of House Kasius), who informs him of Thanos's imminent attack on Earth and reveals the Confederacy never intended to aid humanity. Taryan manipulates Talbot with promises of greater power, suggesting that absorbing more gravitonium is Earth's only hope.",
+    "roles": [
+        "glenn_talbot",
+        "kasius",
+        "phil_coulson",
+        "hale"
+    ],
+    "vibe": "tense",
+    "location": "Remorath ship (Confederacy/Remorath mothership)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Taryan",
+            "line": "You were right to bring this man here, Qovas. Truly he stands a giant."
+        },
+        {
+            "character": "Qovas",
+            "line": "As always, you see wisdom, while the others cower in fear."
+        },
+        {
+            "character": "Taryan",
+            "line": "A strength of our warrior breeding."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm sorry, partner. I didn't get your name earlier."
+        },
+        {
+            "character": "Taryan",
+            "line": "No apology necessary, the honour is mine. I am the first-born Taryan, master of the house Kasius."
+        },
+        {
+            "character": "Talbot",
+            "line": "Kasius. Well, that certainly has a ring."
+        },
+        {
+            "character": "Taryan",
+            "line": "The way you handled yourself today was quite admirable. Though I fear your Earth faces a far more pressing threat than anything posed by our Confederacy."
+        },
+        {
+            "character": "Talbot",
+            "line": "Is this the attack Qovas warned might be coming?"
+        },
+        {
+            "character": "Qovas",
+            "line": "It shall be the end of your planet."
+        },
+        {
+            "character": "Talbot",
+            "line": "That's why Hale had a deal with the Confederacy to fight beside us."
+        },
+        {
+            "character": "Taryan",
+            "line": "The Confederacy never intended to honour this agreement, nor could it, even if it so desired, it was merely a deception to extort the resources from your planet before time ran out. Which now it has."
+        },
+        {
+            "character": "Talbot",
+            "line": "What are you saying?"
+        },
+        {
+            "character": "Taryan",
+            "line": "Thanos, and his forces have begun an assault on your world, even as we speak."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well then, I've gotta get down there with the Avengers and take on this Thanos."
+        },
+        {
+            "character": "Taryan",
+            "line": "Thanos's strength is unrivalled. You will lose, even with your powerful friends fighting alongside you. Though perhaps there might still be a way."
+        },
+        {
+            "character": "Hale",
+            "line": "Astronauts say the view of Earth from space changes you. That's why I always wanted to be one."
+        },
+        {
+            "character": "Coulson",
+            "line": "Malick had Project Distant Star running inside NASA. Why didn't you go work for him?"
+        },
+        {
+            "character": "Hale",
+            "line": "Leadership had other plans for me. Really rolled the dice letting Talbot go out on his own."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not to mention, we have no way out if things go sideways. Artillery, I'm guessing."
+        },
+        {
+            "character": "Hale",
+            "line": "Probably have enough firepower there to incinerate your entire base."
+        },
+        {
+            "character": "Talbot",
+            "line": "It seems the situation is worse than we feared. The Earth is under attack by an alien named Thanos."
+        },
+        {
+            "character": "Hale",
+            "line": "What about the Confederacy? Did they agree to help us?"
+        },
+        {
+            "character": "Talbot",
+            "line": "More bark than bite. I'm afraid we're on our own, General."
+        },
+        {
+            "character": "Coulson",
+            "line": "We have to get back."
+        },
+        {
+            "character": "Hale",
+            "line": "And do what exactly?"
+        },
+        {
+            "character": "Talbot",
+            "line": "The only option left. Make me invincible."
+        },
+        {
+            "character": "Coulson",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I struck up a conversation with this guy from the Confederacy. He tells me there's untapped deposits of gravitonium under the Earth's surface."
+        },
+        {
+            "character": "Hale",
+            "line": "And you want to get it out and power yourself up more."
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, that way I can handle any threat the Earth faces. I can be the “shield.”"
+        },
+        {
+            "character": "Coulson",
+            "line": "Can we just talk about this for a second?"
+        },
+        {
+            "character": "Talbot",
+            "line": "No! You don't get to call a time-out, Phil! Our very way of life is under threat!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Which we will find a way to defeat. But gravitonium? It's too dangerous, you could lose control!"
+        },
+        {
+            "character": "Talbot",
+            "line": "I've never been more in control! You know, it is just like you, to second-guess me. Or is it now that you've seen gravitonium's power, you want it all for yourself."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not what's happening and you know it."
+        },
+        {
+            "character": "Talbot",
+            "line": "Do I? How many times have we worked together, only for me later to find out you weren't being above-board?"
+        },
+        {
+            "character": "Hale",
+            "line": "Do you trust this Confederacy member who told you about the gravitonium?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Yeah. Real straight shooter. Named Kasius. Said he has two sons of his own."
+        },
+        {
+            "character": "Coulson",
+            "line": "Did you say Kasius? Glenn, you're being played. You can't trust him."
+        },
+        {
+            "character": "Talbot",
+            "line": "The hell is wrong with you, Phil? First you question my capacity to handle myself, and then it's our allies, who you begged me to make."
+        },
+        {
+            "character": "Coulson",
+            "line": "I know it sounds crazy, but the alien running Earth in the future, was a Kasius. He's our enemy."
+        },
+        {
+            "character": "Qovas",
+            "line": "Kasius is the most noble family in the Confederacy. This man is clearly lying."
+        },
+        {
+            "character": "Talbot",
+            "line": "So, what? Is this another angle you're playing, Phil?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Glenn..."
+        },
+        {
+            "character": "Talbot",
+            "line": "We are at war! A war we will surely lose if I am not the most powerful being in the universe."
+        },
+        {
+            "character": "Coulson",
+            "line": "No. There's gotta be another way. We can use this ship and attack..."
+        },
+        {
+            "character": "Talbot",
+            "line": "This is not a debate! I'm in charge here! You're either with me, or against me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Obviously, I'm with you."
+        },
+        {
+            "character": "Talbot",
+            "line": "Then kneel."
+        },
+        {
+            "character": "Coulson",
+            "line": "What?"
+        },
+        {
+            "character": "Talbot",
+            "line": "I'm Earth's last hope, Phil. Its true protector. The one who can save us all. Now, either you accept that or suffer the consequences. Kneel."
+        }
+    ]
+}

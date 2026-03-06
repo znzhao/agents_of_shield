@@ -1,0 +1,71 @@
+{
+    "season": 5,
+    "episode": 16,
+    "num": 8,
+    "scene_name": "RubyAndStruckerDiscussChamber",
+    "description": "Ruby interrogates Strucker about his father's notes in their secretive base. They debate their roles and Hale’s true intentions as they wait for news about Creel and strain against family expectations.",
+    "roles": [
+        "ruby"
+    ],
+    "vibe": "tense",
+    "location": "unknown",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Von Strucker",
+            "line": "Good. Uh, take these to be translated. I don't speak German. Is something wrong?"
+        },
+        {
+            "character": "Ruby",
+            "line": "Well, do these have the answer we're looking for or just more musings from a HYDRA has-been?"
+        },
+        {
+            "character": "Von Strucker",
+            "line": "My father kept everything separate. There's no single journal that explains how the chamber works. A-Assembly, the mechanics, the infusion process."
+        },
+        {
+            "character": "Ruby",
+            "line": "So then, we're still missing something."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I am trying to re-create these as fast as I can, to understand it all."
+        },
+        {
+            "character": "Ruby",
+            "line": "We may be running out of time. My mother just gave Creel the Gravitonium. A new toy for him to play with."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "Creel? What, is he the... the test subject?"
+        },
+        {
+            "character": "Ruby",
+            "line": "That's what she says, but she's up to something, and I can feel it. She wanted to join forces with S.H.I.E.L.D. , with Daisy Johnson."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "The Gravitonium is meant for you. She can't make him into the..."
+        },
+        {
+            "character": "Ruby",
+            "line": "The Destroyer of Worlds? I've worked myself to the bone, trained my whole life to become this. And I'm so close."
+        },
+        {
+            "character": "Von Strucker",
+            "line": "I'll get you there. I'll work harder. I just... I need to think."
+        },
+        {
+            "character": "Davis",
+            "line": "Zephyr One, we're en route to you. Five minutes out."
+        },
+        {
+            "character": "May",
+            "line": "Copy that. You have the cargo onboard?"
+        },
+        {
+            "character": "Davis",
+            "line": "Yes, ma'am. Safe and secure."
+        }
+    ]
+}

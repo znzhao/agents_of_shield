@@ -1,0 +1,106 @@
+{
+    "season": 5,
+    "episode": 3,
+    "num": 13,
+    "scene_name": "TeamReturnsAndFacesGrill",
+    "description": "The trawler team returns and faces Grill's wrath, as he accuses them of mutiny. Tess deflects blame, but Elena cleverly plants the gun on Zev, exposing him as a violator and sparing her friends. Grill declares his intent to make an example out of Zev, enforcing harsh Kree control and demonstrating the constant peril faced by the team.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "tess"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Grill",
+            "line": "Are you kidding me? You have got to be the dumbest bunch of lugs I have ever seen. Zev catches you smuggling contraband, and then you mutiny?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Mutiny? That's a strong wor..."
+        },
+        {
+            "character": "Grill",
+            "line": "Picking up where Virgil left off? I knew someone was stealing. Squirreling things away."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah, like you know what a squirrel is."
+        },
+        {
+            "character": "Grill",
+            "line": "Shut it, agitator! I am gonna kill the lot of you, good and slow! But I'm starting with you."
+        },
+        {
+            "character": "Tess",
+            "line": "It wasn't them. It was me. Just me."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tess."
+        },
+        {
+            "character": "Tess",
+            "line": "Grill, these people didn't even know Virgil. So any gripe you had with him is with me now. Same with any contraband."
+        },
+        {
+            "character": "Elena",
+            "line": "You want contraband? He has a gun."
+        },
+        {
+            "character": "Grill",
+            "line": "A gun?"
+        },
+        {
+            "character": "Elena",
+            "line": "Zev threatened me with it. Probably threatened them, too. If you're looking for contraband, he's got it."
+        },
+        {
+            "character": "Zev",
+            "line": "No way, boss."
+        },
+        {
+            "character": "Elena",
+            "line": "Search him. If I'm wrong, I know the consequences."
+        },
+        {
+            "character": "Zev",
+            "line": "No way. No, no, no, no. No way."
+        },
+        {
+            "character": "Grill",
+            "line": "You stole this. From someone."
+        },
+        {
+            "character": "Zev",
+            "line": "No. Wait. Wait."
+        },
+        {
+            "character": "Grill",
+            "line": "Humans aren't allowed to have firearms."
+        },
+        {
+            "character": "Coulson",
+            "line": "We wanted to tell you the truth, but he's your guy, and..."
+        },
+        {
+            "character": "Tess",
+            "line": "We didn't want the Blues to come down on you."
+        },
+        {
+            "character": "Grill",
+            "line": "That's why I'm reporting this violator to them myself."
+        },
+        {
+            "character": "Zev",
+            "line": "Grill, no."
+        },
+        {
+            "character": "Grill",
+            "line": "You know what their punishment is for this. Let that be a lesson. No one is above the rules!"
+        }
+    ]
+}

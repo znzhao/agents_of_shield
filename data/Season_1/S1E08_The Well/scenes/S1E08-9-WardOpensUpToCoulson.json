@@ -1,0 +1,44 @@
+{
+    "season": 1,
+    "episode": 8,
+    "num": 9,
+    "scene_name": "WardOpensUpToCoulson",
+    "description": "Ward admits to Coulson that the staff has left him emotionally compromised by dredging up his darkest memories of his childhood. Coulson encourages Ward to use his aggression productively, suggesting he interrogate Randolph. Coulson’s trust in Ward despite his anger creates a tense but honest environment as they turn to a new strategy.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Come on in."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm concerned that my exposure to that weapon has compromised my ability to do my job."
+        },
+        {
+            "character": "Coulson",
+            "line": "Go on."
+        },
+        {
+            "character": "Ward",
+            "line": "You're familiar with my family history. So, for obvious reasons, I don't think back to childhood. Ever. There are things I put away a long time ago. On lockdown. Because to do this, I have to be focused, tactical. I can't be distracted. Especially by things that happened a lifetime ago."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're saying touching the staff unlocked certain memories."
+        },
+        {
+            "character": "Ward",
+            "line": "My worst memory. The first time I felt... hate. And it won't go away. I don't trust myself. The way I went off at Skye and Fitz-Simmons in the lab..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Grant... you telling me this makes me feel I can trust you. Him, on the other hand... I can't get the Professor to talk. You've got some rage built up. Maybe it's time to let it out."
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "season": 7,
+    "episode": 2,
+    "num": 2,
+    "scene_name": "SpeakeasyMedicalTensions",
+    "description": "At Koenig's speakeasy, Simmons and Elena arrive to tend to Freddy's wounded contact. Coulson, Skye (Daisy), and Simmons debate the ethics and dangers of their mission to protect Freddy Malick, realizing his survival is crucial for both Hydra and S.H.I.E.L.D.'s future. Enoch communicates that May is awake on Zephyr One, raising further tension within the team.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "elena_rodriguez",
+        "skye",
+        "enoch"
+    ],
+    "vibe": "dramatic",
+    "location": "Koenig's speakeasy (Ernest Koenig's bar / S.H.I.E.L.D. safe house)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Koenig",
+            "line": "You guys aren't in the import/export business, are you?"
+        },
+        {
+            "character": "Coulson",
+            "line": "All you need to know right now is that we're here to help."
+        },
+        {
+            "character": "Koenig",
+            "line": "Oh, help, my ass. It's been nothing but trouble ever since you two showed up. If anything happens to Freddy..."
+        },
+        {
+            "character": "Daisy",
+            "line": "We should be so lucky."
+        },
+        {
+            "character": "Koenig",
+            "line": "What'd he ever do to you?"
+        },
+        {
+            "character": "Koenig",
+            "line": "Buzz off. We're closed."
+        },
+        {
+            "character": "Simmons",
+            "line": "Swordfish. Now let us in. We came as fast as we could. We had to change."
+        },
+        {
+            "character": "Elena",
+            "line": "And run... in high heels. Which isn't easy. I don't know how you people"
+        },
+        {
+            "character": "Simmons",
+            "line": "How is she?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Not good. We need to get her fixed up enough to get her to a hospital."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not until we get some answers."
+        },
+        {
+            "character": "Koenig",
+            "line": "Whoa, whoa, whoa. Whoa? You're just gonna operate here?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I need to remove the bullet."
+        },
+        {
+            "character": "Koenig",
+            "line": "Just what I need... a dead body in here because some dame..."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm a doctor, not a dame."
+        },
+        {
+            "character": "Koenig",
+            "line": "Just clean up afterward. I'm gonna get on the horn, see if I can get the lowdown."
+        },
+        {
+            "character": "Elena",
+            "line": "What's going on?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We found out why Freddy's the target. Last name... Malick."
+        },
+        {
+            "character": "Elena",
+            "line": "Malick? As in..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Hail Hydra. Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ain't that the cat's pajamas."
+        },
+        {
+            "character": "Elena",
+            "line": "Where is he?"
+        },
+        {
+            "character": "Daisy",
+            "line": "With Mack and Deke."
+        },
+        {
+            "character": "Elena",
+            "line": "Do they know? We couldn't reach them."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know. We can't reach them either."
+        },
+        {
+            "character": "Coulson",
+            "line": "They do know the mission is to protect him at all costs, or there will be consequences."
+        },
+        {
+            "character": "Daisy",
+            "line": "But what are the consequences? We... We don't... know."
+        },
+        {
+            "character": "Coulson",
+            "line": "If Hydra doesn't form, then S.H.I.E.L.D. doesn't form in response."
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, because it doesn't have to. I mean, think about all the future lives we'll save if there's no Freddy Malick."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't disrupt the timeline. If we take out Malick, something even worse could rise up in his place."
+        },
+        {
+            "character": "Daisy",
+            "line": "But then we'll just deal with it when we get back, right?"
+        },
+        {
+            "character": "Simmons",
+            "line": "To a future we won't recognize. She's going to be okay. Killing Malick was the Chronicoms' intent. They do know the consequences."
+        },
+        {
+            "character": "Daisy",
+            "line": "And we'll only know what happens if he lives. None of this is pretty."
+        },
+        {
+            "character": "Elena",
+            "line": "But why does it have to be a live-or-die situation? Can't we stay here awhile, uh, be a good influence for him, change his heart?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Technically, that would still be killing the historic Malick, who..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Has no heart."
+        },
+        {
+            "character": "Koenig",
+            "line": "You need to disappear. Word is out. Coppers are swarming every gin joint, looking for Freddy."
+        },
+        {
+            "character": "Coulson",
+            "line": "Can we move her?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, she's unconscious, but she's stable now."
+        },
+        {
+            "character": "Coulson",
+            "line": "Zephyr One, come in. Are you there, Enoch?"
+        },
+        {
+            "character": "Enoch",
+            "line": "This is Zephyr One. I am here."
+        },
+        {
+            "character": "Coulson",
+            "line": "We're coming back. We need to find a way to reach Mack. They may be out of range."
+        },
+        {
+            "character": "Enoch",
+            "line": "Perhaps I can find a way to boost the signal on the radio transmitter."
+        },
+        {
+            "character": "Coulson",
+            "line": "See what you can do. He needs to know what he's dealing with."
+        },
+        {
+            "character": "Enoch",
+            "line": "There's something else we may need to deal with. Agent May is awake."
+        },
+        {
+            "character": "Simmons",
+            "line": "What do you mean she's awake?"
+        },
+        {
+            "character": "Enoch",
+            "line": "She is up and quite active."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's too soon. We have no idea what kind of side effects or complications she'll have. You need to sedate her and put her back in the healing pod."
+        },
+        {
+            "character": "Enoch",
+            "line": "I will do my best, but she does not seem to be in the mood to take orders."
+        }
+    ]
+}

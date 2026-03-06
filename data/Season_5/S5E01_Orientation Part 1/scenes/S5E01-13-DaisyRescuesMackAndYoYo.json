@@ -1,0 +1,49 @@
+{
+    "season": 5,
+    "episode": 1,
+    "num": 13,
+    "scene_name": "DaisyRescuesMackAndYoYo",
+    "description": "Daisy locates and frees Mack and Yo-Yo from their captors. Together, they fight off their Kree torturers in a display of action and teamwork, finally reuniting and preparing to join the rest of the team. The characters reflect on the gravity of their situation, but remain determined to survive and find answers.",
+    "roles": [
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "skye"
+    ],
+    "vibe": "action-packed",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "You okay? Thought you were gonna lose these for a second there."
+        },
+        {
+            "character": "Elena",
+            "line": "I was starting to picture myself with two hooks."
+        },
+        {
+            "character": "Daisy",
+            "line": "Wait. Wait. Yeah, help me get him up. We can gain access now, maybe talk to the Trawler ship, find their location."
+        },
+        {
+            "character": "May",
+            "line": "We need to get up off this debris field if we want a clear signal."
+        },
+        {
+            "character": "Simmons",
+            "line": "Yeah, if I can figure out how to send one. I mean, the good news is, I-I recognize some of these constellations, so we're... we're at least in our own galaxy."
+        },
+        {
+            "character": "Coulson",
+            "line": "That doesn't make sense. How long ago did they build this place, and when did you first come here?"
+        },
+        {
+            "character": "Deke",
+            "line": "I don't know. They built it 90-some-odd years ago, minimum. But I... what do you mean “come here?” I was born here."
+        },
+        {
+            "character": "Elena",
+            "line": "Que pasa, Mack?"
+        }
+    ]
+}

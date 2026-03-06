@@ -1,0 +1,125 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 7,
+    "scene_name": "TeamRecoveryAndDistrustBegins",
+    "description": "Back in the Playground, Daisy checks on Lincoln and the rest of the team, but it's clear that trust is already becoming strained. Daisy and Lincoln discuss the Kree artifact Lincoln had taken without permission, reflecting growing suspicion. Joey and Elena are uneasy, and Mack assures Elena that S.H.I.E.L.D.'s intentions are noble. Meanwhile, Fitz and Simmons begin Lucio’s autopsy and discover evidence of abnormal infection, raising scientific anxiety.",
+    "roles": [
+        "skye",
+        "lincoln",
+        "joey_gutierrez",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "jemma_simmons",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "What are you doing?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Just checking it out. You really think it belonged to that Alveus guy? It's so old."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't know, but we better check it in along with the Terrigen."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You're still upset I took that crystal to James' shack."
+        },
+        {
+            "character": "Daisy",
+            "line": "Yes, I am. You should have told me."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I thought, if you didn't know, you couldn't be blamed."
+        },
+        {
+            "character": "Daisy",
+            "line": "And if something went wrong?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I know. I'm sorry. Can't be easy having your boyfriend on the team."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not when you take advantage of that relationship."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I thought you'd understand the move."
+        },
+        {
+            "character": "Daisy",
+            "line": "It was a good play. Just tell me next time."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You should check in on Joey. I think killing Lucio has him pretty shaken."
+        },
+        {
+            "character": "Daisy",
+            "line": "I completely missed it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "They did good today, but there's a lot to get used to at S.H.I.E.L.D."
+        },
+        {
+            "character": "Elena",
+            "line": "I have a new name, too. They all call me “Yo-Yo.” Your fault."
+        },
+        {
+            "character": "Elena",
+            "line": "I will get my revenge. And your Spanish is much better, not just “pescado.”"
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. It's a new S.H.I.E.L.D. requirement. I know you think S.H.I.E.L.D. is dangerous, but, really, our mission is to protect. (in Spanish) We do our best not to kill. Doesn't kill. Doesn't kill. Doesn't kill."
+        },
+        {
+            "character": "Elena",
+            "line": "And these?"
+        },
+        {
+            "character": "Mack",
+            "line": "Those kill. You do your best, but... some days are tougher than others."
+        },
+        {
+            "character": "Elena",
+            "line": "It's okay, Mack. I trust you."
+        },
+        {
+            "character": "Simmons",
+            "line": "What on earth are you doing?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, you're the doctor. Is he dead or not? His body temperature is 98 degrees."
+        },
+        {
+            "character": "Simmons",
+            "line": "Dead-ish. There's some sort of metabolic activity. Fascinating."
+        },
+        {
+            "character": "Fitz",
+            "line": "No, not fascinating. Quarantine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Quarantine."
+        },
+        {
+            "character": "Simmons",
+            "line": "Excuse us. Nothing to worry about."
+        }
+    ]
+}

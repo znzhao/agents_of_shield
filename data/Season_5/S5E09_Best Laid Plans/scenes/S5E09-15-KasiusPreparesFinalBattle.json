@@ -1,0 +1,47 @@
+{
+    "season": 5,
+    "episode": 9,
+    "num": 15,
+    "scene_name": "KasiusPreparesFinalBattle",
+    "description": "Upon learning that S.H.I.E.L.D. is approaching in a surviving aircraft, Kasius orders his Kree to prepare for a final confrontation at the landing pad, confident that his own seer rivals the humans' ability to predict their moves. This sets up the next stage of the conflict, as Kasius vows to finish the fight once and for all.",
+    "roles": [
+        "kasius"
+    ],
+    "vibe": "intense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in future)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Kree",
+            "line": "We spotted something that..."
+        },
+        {
+            "character": "Kasius",
+            "line": "Let me guess. The Destroyer and her friends are heading here in an old S.H.I.E.L.D. aircraft."
+        },
+        {
+            "character": "Kree",
+            "line": "Yes, but how do you..."
+        },
+        {
+            "character": "Kasius",
+            "line": "They're nearing the landing pad?"
+        },
+        {
+            "character": "Kree",
+            "line": "It appears so."
+        },
+        {
+            "character": "Kasius",
+            "line": "Ready a squad. We will meet them there and finish this once and for all."
+        },
+        {
+            "character": "Kree",
+            "line": "Kasius, apologies, but how did you know?"
+        },
+        {
+            "character": "Kasius",
+            "line": "They have a seer telling them what's to come? Well, I have one of my own."
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "season": 3,
+    "episode": 17,
+    "num": 17,
+    "scene_name": "DaisyRevealedAsTraitor",
+    "description": "Daisy breaks out of her cell and tries to convince Lincoln to leave S.H.I.E.L.D. with her. Lincoln realizes Daisy is the one infected by Hive when her strange behavior and plans become clear. Daisy, dominated by Hive's will, admits her betrayal to a heartbroken Lincoln and completes her mission by stealing key items and departing via Zephyr One. As she leaves, Daisy uses her powers to create an earthquake, devastating much of the Playground.",
+    "roles": [
+        "skye",
+        "lincoln"
+    ],
+    "vibe": "tragic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "I had to see you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy. I didn't do anything. I-I promise. I did not betray the team."
+        },
+        {
+            "character": "Daisy",
+            "line": "I believe you. I believe you. That's why I came. I came to get you out of here."
+        },
+        {
+            "character": "Lincoln",
+            "line": "What? Are you serious?"
+        },
+        {
+            "character": "Daisy",
+            "line": "We could just walk right out of here."
+        },
+        {
+            "character": "Lincoln",
+            "line": "They wouldn't understand."
+        },
+        {
+            "character": "Daisy",
+            "line": "I don't care. We can be together."
+        },
+        {
+            "character": "Lincoln",
+            "line": "We can't just throw S.H.I.E.L.D. away. They'll find a test and see that I'm innocent. How did you get out of your cell?"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm the one who programmed the security features. Lincoln, S.H.I.E.L.D. can't hold us."
+        },
+        {
+            "character": "Lincoln",
+            "line": "But we want them to, right? Daisy, what did you do?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I've got Malick."
+        },
+        {
+            "character": "Daisy",
+            "line": "I have to get back to the base. They have something we need."
+        },
+        {
+            "character": "Hive",
+            "line": "Do it."
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys, I'm coming to you."
+        },
+        {
+            "character": "Lincoln",
+            "line": "So, this is what Hive's sway looks like. Daisy, he's using you! You're... You're sick."
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I'm happier than I've ever been. You get it. You've felt an emptiness your entire life, like me. We've tried to fill it, but it never works. I found the answer and it's beautiful. It's... It's... It's a bond."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Beautiful? Daisy, people are dying!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Malick?"
+        },
+        {
+            "character": "Malick",
+            "line": "So it's you. I was curious who Hive would send. I know what you're gonna do."
+        },
+        {
+            "character": "Daisy",
+            "line": "We can't let you keep talking."
+        },
+        {
+            "character": "Malick",
+            "line": "And I won't be kept from my daughter."
+        },
+        {
+            "character": "Daisy",
+            "line": "If I'm honest, I might enjoy this."
+        },
+        {
+            "character": "Daisy",
+            "line": "Malick doesn't matter. He could only hurt us. What we are trying to build..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Do I matter that little to you?!"
+        },
+        {
+            "character": "Daisy",
+            "line": "No, I care about you! I..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "The Daisy I know wouldn't betray S.H.I.E.L.D., wouldn't throw away what we have! Y-You framed me."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm sorry. But Coulson had to find his rat so S.H.I.E.L.D. could stand down. And you have trouble keeping your temper."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Really?"
+        },
+        {
+            "character": "Daisy",
+            "line": "But I'm not throwing you away."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You... You... You used that against me?!"
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm here for you now! We care about you. We could have all of it together."
+        },
+        {
+            "character": "Lincoln",
+            "line": "No. I don't want any part of this."
+        },
+        {
+            "character": "Daisy",
+            "line": "You'll understand someday."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Daisy!"
+        }
+    ]
+}

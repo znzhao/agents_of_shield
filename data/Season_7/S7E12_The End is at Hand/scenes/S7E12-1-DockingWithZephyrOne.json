@@ -1,0 +1,77 @@
+{
+    "season": 7,
+    "episode": 12,
+    "num": 1,
+    "scene_name": "DockingWithZephyrOne",
+    "description": "Mack, Daisy, and Sousa approach the Zephyr One, discussing the space weaponry and their plan to rescue Simmons and Deke. They dock with the Zephyr, preparing for whatever lies ahead, not knowing what surprises wait for them onboard.",
+    "roles": [
+        "alphonso_mackenzie",
+        "skye",
+        "sousa"
+    ],
+    "vibe": "tense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Sousa",
+            "line": "Are those space lasers?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Just lasers that happen to be in space."
+        },
+        {
+            "character": "Sousa",
+            "line": "But they're weapons, right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "100%. But they don't seem to be aimed at us, which means they probably don't see us yet."
+        },
+        {
+            "character": "Mack",
+            "line": "Hope that's still true after I do this. Alright, we got less than a minute before we dock with the Zephyr... or the other thing's gonna happen."
+        },
+        {
+            "character": "Sousa",
+            "line": "Let's say we manage to dock with the Zephyr and somehow rescue Simmons and Deke. Then what?"
+        },
+        {
+            "character": "Mack",
+            "line": "One problem at a time."
+        },
+        {
+            "character": "Daisy",
+            "line": "Here we go. Three... two... one."
+        },
+        {
+            "character": "Mack",
+            "line": "Nice flying, Tremors."
+        },
+        {
+            "character": "Sousa",
+            "line": "I thought it was “Quake.”"
+        },
+        {
+            "character": "Mack",
+            "line": "What was that? Are we hit?"
+        },
+        {
+            "character": "Daisy",
+            "line": "No. I think they've locked on to the Zephyr."
+        },
+        {
+            "character": "Sousa",
+            "line": "So... I guess this is the next problem."
+        },
+        {
+            "character": "Sousa",
+            "line": "Is it possible they're on the other side, doing the exact same thing?"
+        },
+        {
+            "character": "Mack",
+            "line": "Let's scan their ship, see if we can find our team."
+        }
+    ]
+}

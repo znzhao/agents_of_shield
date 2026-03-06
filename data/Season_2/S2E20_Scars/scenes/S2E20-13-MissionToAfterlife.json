@@ -1,0 +1,93 @@
+{
+    "season": 2,
+    "episode": 20,
+    "num": 13,
+    "scene_name": "MissionToAfterlife",
+    "description": "Coulson, May, Simmons, Hunter, Fitz, Morse, and Gonzales plan S.H.I.E.L.D.'s approach to Afterlife. While Gonzales insists on going himself, citing Coulson’s lack of objectivity, Coulson accepts and remains behind. May pilots the quinjet with Gonzales, Weaver, and Simmons en route to Afterlife, preparing for what could be a pivotal diplomatic encounter. Bobbi discovers something is amiss on the quinjet as Kara, disguised as May, attacks.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "bobbi_morse",
+        "robert_gonzales",
+        "jemma_simmons",
+        "lance_hunter",
+        "leo_fitz"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Hunter",
+            "line": "You're really gonna let Captain Ahab just waltz in there and have a fireside chat with Skye's mum?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I am, though that is a really strange way of putting it."
+        },
+        {
+            "character": "Fitz",
+            "line": "What if the Council is wrong? I mean, Gonzales has never..."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's not the Council versus us, Fitz. Not anymore. And they're right. I haven't always made the right call, especially when it comes to Skye. If I don't put my faith in them, then S.H.I.E.L.D. will fall apart all over again."
+        },
+        {
+            "character": "Hunter",
+            "line": "Hate to break it to you, but S.H.I.E.L.D. will also fall apart if a dozen angry enhanced blokes rain terror on us all."
+        },
+        {
+            "character": "Fitz",
+            "line": "Yeah."
+        },
+        {
+            "character": "Coulson",
+            "line": "I think we've been spending too much time together."
+        },
+        {
+            "character": "Jiaying",
+            "line": "Gordon. What is it? What's wrong?"
+        },
+        {
+            "character": "Gonzales",
+            "line": "Were you able to locate our insurance policy?"
+        },
+        {
+            "character": "Weaver",
+            "line": "Took some digging, and I'd appreciate a bit more notice in the future."
+        },
+        {
+            "character": "May",
+            "line": "10 minutes out."
+        },
+        {
+            "character": "Gonzales",
+            "line": "Copy that, Agent May."
+        },
+        {
+            "character": "Morse",
+            "line": "Hey, May, autopilot has us descending. You sure about those coordinates?"
+        },
+        {
+            "character": "Morse",
+            "line": "Kara."
+        },
+        {
+            "character": "Kara",
+            "line": "You just sat there, pretending to comfort me. But you were just trying to see if I remembered. Well, I do."
+        },
+        {
+            "character": "Simmons",
+            "line": "Sir, there are a lot more unknowns than we anticipated."
+        },
+        {
+            "character": "Gonzales",
+            "line": "If Skye's done her job and their leader agrees to meet, I'll handle the rest."
+        },
+        {
+            "character": "May",
+            "line": "Lock in. Touchdown in five."
+        }
+    ]
+}

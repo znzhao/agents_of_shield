@@ -1,0 +1,401 @@
+{
+    "season": 4,
+    "episode": 8,
+    "num": 5,
+    "scene_name": "MaceEvaluatesAIDA",
+    "description": "At Radcliffe's lab, Mace interviews Radcliffe about AIDA, questioning her origins and the risks involved, referencing the Sokovia Accords and previous disasters involving artificial intelligence. Radcliffe insists on AIDA's usefulness; Mace appears both fascinated and unsettled. The lab team, including May, Fitz, Simmons, and Daisy, prepare AIDA for field deployment to assist in the mission against Eli, with Mace agreeing to use her as an asset for this operation before planning her dismantlement.",
+    "roles": [
+        "holden_radcliffe",
+        "jeffrey_mace",
+        "melinda_may",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye",
+        "aida"
+    ],
+    "vibe": "dramatic",
+    "location": "Dr. Holden Radcliffe's house (New York / Radcliffe lab)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "Director... Sir, i-if I may explain, I wasn't trying to fool anyone."
+        },
+        {
+            "character": "Mace",
+            "line": "But you did. AIDA fooled everyone. She's quite amazing, Doctor, totally lifelike."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, the LMD program was designed to save lives, the lives of... of... of agents in the field, of the Director."
+        },
+        {
+            "character": "Mace",
+            "line": "Oh, I understand the allure. An android like AIDA could be used as a soldier, a spy, a decoy."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Or a chef, if you like. Sir... I realize how this must look. Genius scientist with a questionable past forgetting to ask for the proper clearances, et cetera, et cetera. But I assure you all of my data is yours. I'm an open book."
+        },
+        {
+            "character": "Mace",
+            "line": "Mm. Book. Right. That arch-gateway thing that saved the team on their last mission... AIDA designed and built it, yes?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Which proves how valuable she can be."
+        },
+        {
+            "character": "Mace",
+            "line": "Mm. Is this what showed her how to build it?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "The book... helped, yes."
+        },
+        {
+            "character": "Mace",
+            "line": "I want to know more about it."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, all I know is it's a very powerful piece of technology. It's like a... like a tablet that can read your mind, very intimidating, frankly, which is why we had AIDA read it. It's a good job we did. Otherwise, Agents Coulson and Fitz would have been lost in the dimensional vacuum of space-time."
+        },
+        {
+            "character": "Mace",
+            "line": "So the book intimidates you, but AIDA doesn't intimidate you?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "No, not at all. Why? What are your plans for her?"
+        },
+        {
+            "character": "Mace",
+            "line": "Well, that depends."
+        },
+        {
+            "character": "Mace",
+            "line": "Her next mission."
+        },
+        {
+            "character": "Mack",
+            "line": "We need to get you up to the Zephyr so Simmons can check you out."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm fine. We have a job to do."
+        },
+        {
+            "character": "Mack",
+            "line": "Thanks. I'm just trying to help you out. Why you being so cold?"
+        },
+        {
+            "character": "Elena",
+            "line": "I'm not being cold. I just got hit by a giant fireball, I lost my favorite jacket, and you're treating me like a niña. Give me that."
+        },
+        {
+            "character": "Coulson",
+            "line": "You okay?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Better than them, apparently. Anything on Robbie?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. His camera's all glitchy. The feed keeps cutting in and out."
+        },
+        {
+            "character": "Daisy",
+            "line": "Going through the fire probably didn't help. Oh. Hang on. We got something."
+        },
+        {
+            "character": "Robbie",
+            "line": "Is this thing on? Anyone seeing this?"
+        },
+        {
+            "character": "Man",
+            "line": "We do."
+        },
+        {
+            "character": "Robbie",
+            "line": "What the...?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Looks like the power cells from Momentum Lab, except economy-sized."
+        },
+        {
+            "character": "Simmons",
+            "line": "Morrow has created a giant battery for himself, filled with quantum energy."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, not “created,” exactly."
+        },
+        {
+            "character": "Simmons",
+            "line": "No, no, no! Don't go in there!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Robbie? The comms must be fried."
+        },
+        {
+            "character": "Coulson",
+            "line": "What the hell is that?"
+        },
+        {
+            "character": "Simmons",
+            "line": "What's that object on the wall?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Hope it's not cesium again."
+        },
+        {
+            "character": "Simmons",
+            "line": "Cesium? Is that what ignited the entry hall?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Based on the spectral analysis of Yo-Yo's jacket, yeah. It's highly unstable."
+        },
+        {
+            "character": "Simmons",
+            "line": "And pyrophoric, yeah. Reacts on contact with water. First carbon, now cesium, it's like Morrow is testing his abilities, making his way through the periodic table. Who knows what other traps he's set?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I do. I've seen that setup before."
+        },
+        {
+            "character": "Eli",
+            "line": "Don't touch that."
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. Eli."
+        },
+        {
+            "character": "Eli",
+            "line": "You don't belong here, Robbie. Go home. Please."
+        },
+        {
+            "character": "Robbie",
+            "line": "I will... once you're dead."
+        },
+        {
+            "character": "Daisy",
+            "line": "What the hell just happened?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Robbie's down."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm going in."
+        },
+        {
+            "character": "Coulson",
+            "line": "Daisy, wait. You realize we're trying to hide you from the press, right?"
+        },
+        {
+            "character": "Daisy",
+            "line": "“A...” I don't care. “B...” that wasn't me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Um, guys, the problem is bigger than you think. There's something in that building everyone needs to see."
+        },
+        {
+            "character": "Coulson",
+            "line": "The “demon core?” Seriously?"
+        },
+        {
+            "character": "Mack",
+            "line": "You cannot make this stuff up."
+        },
+        {
+            "character": "Fitz",
+            "line": "I didn't name it that. The physicists at Los Alamos did. This is the last image before Robbie's feed cut out."
+        },
+        {
+            "character": "Daisy",
+            "line": "They do look awfully similar... whatever they are."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's a fail-safe."
+        },
+        {
+            "character": "Fitz",
+            "line": "It's a fuel source. Well, it's both... powering not just the cell, but Eli himself."
+        },
+        {
+            "character": "Simmons",
+            "line": "But it's also the perfect insurance policy to keep us all at bay."
+        },
+        {
+            "character": "Mack",
+            "line": "Now... Now, when you say “fail-safe...”"
+        },
+        {
+            "character": "Simmons",
+            "line": "See this beryllium lid? It's a neutron reflector rigged to drop at the touch of a finger."
+        },
+        {
+            "character": "Fitz",
+            "line": "If that lid drops into place, it would trigger supercritical mass."
+        },
+        {
+            "character": "Daisy",
+            "line": "Time-out. Fail-safe, supercritical mass... are you guys talking about what I think you're talking about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Eli's made his way through the periodic table, all the way to plutonium."
+        },
+        {
+            "character": "Mack",
+            "line": "Alright. And if Matchstick messes with it?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Time for Plan “B.” Anyone? Feel free to chime in."
+        },
+        {
+            "character": "Eli",
+            "line": "Guess I'm not the only one with a secret. Between the radioactive plutonium and the quantum energy fields bombarding you and the carbon spike, a normal person would have been dead 10 times over, but... I guess you're not normal, are you?"
+        },
+        {
+            "character": "Robbie",
+            "line": "Come closer. I'll show you what I am."
+        },
+        {
+            "character": "Eli",
+            "line": "I heard stories in prison, whispers of a demon, “Ghost Rider.” My own nephew? How?"
+        },
+        {
+            "character": "Robbie",
+            "line": "It was ‘cause of you. The night of the drive-by, they were trying to kill you, for things you've done!"
+        },
+        {
+            "character": "Eli",
+            "line": "No, it was the Bauers, Joe and Lucy. They started this! They lied."
+        },
+        {
+            "character": "Robbie",
+            "line": "You think I give a rat's ass about any of that? A bunch of scientists fighting over some stupid book? All the killing, the bodies, the lives destroyed."
+        },
+        {
+            "character": "Eli",
+            "line": "I never meant for any of this to happen, Robbie. I never wanted to hurt you."
+        },
+        {
+            "character": "Robbie",
+            "line": "We trusted you, Téo, Gabe and me. We loved you like a father and you tore it all apart."
+        },
+        {
+            "character": "Eli",
+            "line": "I know."
+        },
+        {
+            "character": "Robbie",
+            "line": "Why? Why'd you do it? Become a killer?"
+        },
+        {
+            "character": "Eli",
+            "line": "Well, I guess it runs in the family."
+        },
+        {
+            "character": "Robbie",
+            "line": "You had a PhD. You had us. You had a good job."
+        },
+        {
+            "character": "Eli",
+            "line": "A good job? Those gueros at Momentum thought they were doing me a favor. They looked at me like they were better, like they were smarter! The condescension in their eyes... They got what they deserved."
+        },
+        {
+            "character": "Robbie",
+            "line": "You had to get vengeance."
+        },
+        {
+            "character": "Eli",
+            "line": "Not vengeance. Respect! You have no idea how hard I worked every day of my life. To claw my way, just to get in that damn door. Sure, I made mistakes, like any kid. And I paid for them. But it didn't matter. From high school to grad school, no one believed in me! They thought I was cheating. They thought I wasn't capable! Shut me out. Well, guess what? Guess what I'm capable of now. I can create a city out of nothing, or I can cover it in volcanic rock. Robbie, I am becoming a god."
+        },
+        {
+            "character": "Robbie",
+            "line": "You better be. Because the devil is coming for you."
+        },
+        {
+            "character": "Eli",
+            "line": "Remember I gave you a chance to leave. Whatever happens next is on you."
+        },
+        {
+            "character": "Mace",
+            "line": "Agent Coulson, I took the liberty of bringing Dr. Radcliffe up to speed."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Yes, quantum cells, flaming skulls, androids... just another day at S.H.I.E.L.D., huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What's all this?"
+        },
+        {
+            "character": "AIDA",
+            "line": "Components from the transdimensional Arch and the neodymium core from an EMP generator."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "AIDA thought they could be quite useful."
+        },
+        {
+            "character": "May",
+            "line": "AIDA thinks?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Maybe about “electric sheep.”"
+        },
+        {
+            "character": "AIDA",
+            "line": "I take it that was a joke and does not require a response."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Mnh-mnh."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice to see you made it."
+        },
+        {
+            "character": "May",
+            "line": "Just following orders."
+        },
+        {
+            "character": "Burrows",
+            "line": "We need all hands on deck on this one."
+        },
+        {
+            "character": "Coulson",
+            "line": "Still, Director, you didn't need to come all this way."
+        },
+        {
+            "character": "Mace",
+            "line": "And miss the opportunity of seeing a nuclear weapon up close? Not a chance."
+        },
+        {
+            "character": "Coulson",
+            "line": "How close do you mean?"
+        },
+        {
+            "character": "Mace",
+            "line": "I think it's time the public sees the Director of S.H.I.E.L.D. in action. Walk with me, Phil. I've got a plan."
+        }
+    ]
+}

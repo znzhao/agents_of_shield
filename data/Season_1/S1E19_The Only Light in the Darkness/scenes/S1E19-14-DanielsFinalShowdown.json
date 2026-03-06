@@ -1,0 +1,79 @@
+{
+    "season": 1,
+    "episode": 19,
+    "num": 14,
+    "scene_name": "DanielsFinalShowdown",
+    "description": "Audrey performs in an empty concert hall to lure Daniels. The trap works: as Daniels approaches, Fitz, Simmons, and Triplett unleash beams of intense light. Daniels briefly overpowers them and attacks Audrey, but the team increases the output, causing Daniels to disintegrate into a cloud of Darkforce. Coulson stays hidden but comforts Audrey as she recovers, ensuring she never directly sees him.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "jemma_simmons",
+        "marcus_daniels",
+        "antoine_triplett"
+    ],
+    "vibe": "thrilling",
+    "location": "unknown",
+    "significance": "climactic",
+    "transcript": [
+        {
+            "character": "Nathan",
+            "line": "What if he doesn't show?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Before they put him away, he never missed a rehearsal, right?"
+        },
+        {
+            "character": "Triplett",
+            "line": "Then he won't this time, either."
+        },
+        {
+            "character": "Simmons",
+            "line": "Don't worry. We'll be close."
+        },
+        {
+            "character": "Triplett",
+            "line": "All you need to do is keep playing until Daniels gets close to the stage. We'll do the rest."
+        },
+        {
+            "character": "Nathan",
+            "line": "Last time, there were two whole teams of S.H.I.E.L.D. agents."
+        },
+        {
+            "character": "Simmons",
+            "line": "See up there? Our best agents are watching. I promise. They won't let anything happen to you."
+        },
+        {
+            "character": "Fitz",
+            "line": "I pulled these from the jet's power reserves. Simmons made me wear gloves. She's so uptight, that one. Sir."
+        },
+        {
+            "character": "Coulson",
+            "line": "Good. Can they stop him?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Okay, well, this will modify the frequency and wavelength of the stage lights, although technically they wouldn't be lights at that point. More like gamma rays."
+        },
+        {
+            "character": "Coulson",
+            "line": "Tell me this will work. I gave Daniels to S.H.I.E.L.D. to rehabilitate him. Turns out, they just gave him an upgrade."
+        },
+        {
+            "character": "Fitz",
+            "line": "Well, I mean, there's a slight chance he would absorb the energy and gain more power, but it's unlikely."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who did you say created this technology, again?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Bruce Banner."
+        },
+        {
+            "character": "Coulson",
+            "line": "Then I'm sure it'll go off without a hitch."
+        }
+    ]
+}

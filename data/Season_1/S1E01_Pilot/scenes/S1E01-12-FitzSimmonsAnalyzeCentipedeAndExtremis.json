@@ -1,0 +1,103 @@
+{
+    "season": 1,
+    "episode": 1,
+    "num": 12,
+    "scene_name": "FitzSimmonsAnalyzeCentipedeAndExtremis",
+    "description": "Back on the Bus, Skye uploads audio files, and Fitz and Simmons use them to reconstruct events before the explosion. They confirm the Centipede device incorporates various source materials—super-soldier serum, alien metal, Extremis—and identify it as extremely unstable, threatening Mike’s life and the public. Coulson tasks the team to find a solution that doesn't involve killing Mike.",
+    "roles": [
+        "phil_coulson",
+        "grant_ward",
+        "leo_fitz",
+        "jemma_simmons",
+        "skye"
+    ],
+    "vibe": "intense",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Skye",
+            "line": "Audio file should be coming through. It's not compressed, so it might take a minute."
+        },
+        {
+            "character": "Fitz",
+            "line": "Uh, yeah. Yeah, yeah, yeah, yeah, yeah. I'm getting it. So, uh, uh, when... when you get back, I'll show you my thing. A thing. It's not... I-it's my hardware. My equipment. Let's... hang up."
+        },
+        {
+            "character": "Coulson",
+            "line": "So, the alien metal wasn't the explosive?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Well, I assumed from the break pattern and dispersion that it was, but it's just dripping with gamma radiation and... Oh! Now it's actually dripping. Fun."
+        },
+        {
+            "character": "Ward",
+            "line": "So, what did that get us?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Skye's sending us the rest of her decrypted files on Centipede. But we have her audio. I've loaded it up."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nice work."
+        },
+        {
+            "character": "FItz",
+            "line": "Now, using motion estimation, Bayesian inference, a beam splitter, and a little diffraction theory, our mystery man... appears. It's like magic. But it's... it's science."
+        },
+        {
+            "character": "Ward",
+            "line": "Explosives in the case?"
+        },
+        {
+            "character": "Doctor",
+            "line": "...please calm down. Just let me check your vitals."
+        },
+        {
+            "character": "Man",
+            "line": "I feel fine. I want to feel more. Where's the doctor? Where is she?!"
+        },
+        {
+            "character": "Doctor",
+            "line": "I-if you don't settle down, I-I'll have you sedated."
+        },
+        {
+            "character": "Man",
+            "line": "Where is she?!"
+        },
+        {
+            "character": "Fitz",
+            "line": "Wait. Did you... did you see that on his arm?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What does that look like to you?"
+        },
+        {
+            "character": "Ward",
+            "line": "A centipede."
+        },
+        {
+            "character": "Simmons",
+            "line": "It's an intravenous filter for his blood. This goo, sir... very similar to the serum Dr. Erskine developed in the '40s for the..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Super soldiers."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm reading alien metal, gamma radiation, the serum... every known source of superpower thrown in a blender."
+        },
+        {
+            "character": "Coulson",
+            "line": "We need to see the origin of the blast. Run it back from the last point recorded."
+        },
+        {
+            "character": "Skye",
+            "line": "That should do it."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "season": 4,
+    "episode": 12,
+    "num": 2,
+    "scene_name": "SimmonsFitzMackQuestionRadcliffeLMD",
+    "description": "Back at The Playground, Fitz, Simmons, and Mack question the Holden Radcliffe LMD to determine the whereabouts of the real Radcliffe. The LMD is evasive, feigning confusion and using Latin phrases, frustrating the team. They discuss their progress and the complexity of Radcliffe's programming, with Simmons and Mack bantering about the danger of possessed robots.",
+    "roles": [
+        "jemma_simmons",
+        "leo_fitz",
+        "alphonso_mackenzie",
+        "holden_radcliffe"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Radcliffe",
+            "line": "I'm not going to let this come between us. What's the occasional bullet in the head among friends?"
+        },
+        {
+            "character": "Fitz",
+            "line": "Done. Now talk. Where's Radcliffe?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm right in front of you, and... you've paralyzed me from the neck down."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey. Where is he?"
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Sorry, Fitz. You don't get to shoot first and ask questions later."
+        },
+        {
+            "character": "Simmons",
+            "line": "We'll shoot whenever we damn please."
+        },
+        {
+            "character": "Mack",
+            "line": "And this time, nobody's gonna put you back together again."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What I meant is, I don't precisely know where I... where Dr. Radcliffe currently is at this precise moment. I could be out for a walk or getting groceries."
+        },
+        {
+            "character": "Mack",
+            "line": "That's enough."
+        },
+        {
+            "character": "Fitz",
+            "line": "Hey, hey, I need his CPU in one piece, not scattered all over the lab."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "I'm not trying to be difficult. You need to understand, I'm the victim. Things are not as they seem."
+        }
+    ]
+}

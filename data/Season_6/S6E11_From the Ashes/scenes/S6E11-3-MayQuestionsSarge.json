@@ -1,0 +1,72 @@
+{
+    "season": 6,
+    "episode": 11,
+    "num": 3,
+    "scene_name": "MayQuestionsSarge",
+    "description": "May attempts to interrogate Sarge, probing him about his memories and his origins. Sarge resists her emotional appeals, and May admits to seeing a part of Coulson in him but is met with firm rejection. The scene underscores May's struggle between her feelings for Coulson and the current threat Sarge represents.",
+    "roles": [
+        "melinda_may",
+        "sarge_pachakutiq"
+    ],
+    "vibe": "emotional",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "So, you never even questioned where you came from?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Why would I? I didn't know I had someone else's face until I got here."
+        },
+        {
+            "character": "May",
+            "line": "And now that you do?"
+        },
+        {
+            "character": "Sarge",
+            "line": "Well, I don't suddenly feel like a different person."
+        },
+        {
+            "character": "May",
+            "line": "These, um, echoes, as she called them they've gotten clearer the memories?"
+        },
+        {
+            "character": "Sarge",
+            "line": "I never used that word. It's always just been a sense... a feeling in my bones."
+        },
+        {
+            "character": "May",
+            "line": "You said that they all felt real."
+        },
+        {
+            "character": "Sarge",
+            "line": "What's real is the time I spent chasing Izel across the galaxy with my crew, as myself."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get revenge for something that never happened?"
+        },
+        {
+            "character": "Sarge",
+            "line": "It's not like the lies you tell yourself are any more true. You want me to be someone I'm not."
+        },
+        {
+            "character": "May",
+            "line": "I never said that."
+        },
+        {
+            "character": "Sarge",
+            "line": "You didn't have to."
+        },
+        {
+            "character": "May",
+            "line": "I recognized you, yes. But can you really say that there's no part of you that recognizes us? If you have his memories, can feel what he felt, I'm hoping that you will..."
+        },
+        {
+            "character": "Sarge",
+            "line": "I'm not the cure for your loneliness!"
+        }
+    ]
+}

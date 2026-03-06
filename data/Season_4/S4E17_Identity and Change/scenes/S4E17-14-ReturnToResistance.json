@@ -1,0 +1,84 @@
+{
+    "season": 4,
+    "episode": 17,
+    "num": 14,
+    "scene_name": "ReturnToResistance",
+    "description": "Back at the Playground, Coulson, Ward, and Simmons report to Mace about the disastrous mission, including Fitz’s shocking actions and Simmons’ complex feelings for him. The resistance leadership questions Simmons’ judgment, and conflict arises as they process what has happened and what it means for their fight against Hydra. Meanwhile, Mack arrives with information about Skye’s capture and offers to help the resistance, closing the loop on earlier storylines and setting up the next phase of the struggle.",
+    "roles": [
+        "phil_coulson",
+        "jemma_simmons",
+        "grant_ward",
+        "jeffrey_mace",
+        "billy_koenig",
+        "alphonso_mackenzie"
+    ],
+    "vibe": "emotional",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Someone had better explain what the hell happened out there, pronto! Ward tells me he had a shot on the doctor, but you stopped him. And that you're in love with that psychopath!"
+        },
+        {
+            "character": "Coulson",
+            "line": "We can explain everything."
+        },
+        {
+            "character": "Ward",
+            "line": "She says Madame Hydra brainwashed him."
+        },
+        {
+            "character": "Mace",
+            "line": "That's a bold claim. You have evidence, or do we have to take this at face value, too?"
+        },
+        {
+            "character": "Coulson",
+            "line": "She's been through a lot."
+        },
+        {
+            "character": "Mace",
+            "line": "We all have. Step aside."
+        },
+        {
+            "character": "Coulson",
+            "line": "This can wait."
+        },
+        {
+            "character": "Ward",
+            "line": "No, she owes us answers."
+        },
+        {
+            "character": "Simmons",
+            "line": "This is wrong. We don't even belong here! None of this is real!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Please! She just needs some time."
+        },
+        {
+            "character": "Burrows",
+            "line": "Sir. A recon team found a civilian sniffing around one of our dead drops. He's got quite the story."
+        },
+        {
+            "character": "Mace",
+            "line": "Well, glad somebody wants to talk. Let's hear it."
+        },
+        {
+            "character": "Mack",
+            "line": "I met a woman today who was with S.H.I.E.L.D. Her name is Daisy Johnson. You might know her as Skye? Hydra used me to trick her and take her captive."
+        },
+        {
+            "character": "Ward",
+            "line": "No. Please tell me she's okay."
+        },
+        {
+            "character": "Mace",
+            "line": "Why are you here?"
+        },
+        {
+            "character": "Mack",
+            "line": "Today, for the first time, I couldn't look my little girl in the eye. I need to make that right. I'm here to help."
+        }
+    ]
+}

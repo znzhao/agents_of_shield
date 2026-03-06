@@ -1,0 +1,81 @@
+{
+    "season": 4,
+    "episode": 9,
+    "num": 2,
+    "scene_name": "MaceBriefsTheTeam",
+    "description": "At the Playground, Director Mace gathers Coulson, Fitz, Radcliffe, Mack, and May (unaware she is an LMD) to debrief on the Aida situation. Coulson outlines a plan to secure the Darkhold, while Fitz and Radcliffe are ordered to erase Aida’s memory. The group debates the risks and ethics of dealing with Aida, with Mack voicing suspicion about trusting androids. Mace asserts his authority and splits up the assignments.",
+    "roles": [
+        "phil_coulson",
+        "leo_fitz",
+        "holden_radcliffe",
+        "alphonso_mackenzie",
+        "melinda_may",
+        "jemma_simmons",
+        "jeffrey_mace"
+    ],
+    "vibe": "tense",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mace",
+            "line": "Due to recent events, S.H.I.E.L.D. is on high alert. This is a serious threat we're facing, which is why I've assembled you all here today. It is absolutely critical that we safely dispose of the Darkhold. Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "Once the Zephyr's ready, Agents May and Mackenzie will accompany me. We'll transfer the Darkhold to an agent who specializes in making items like this disappear."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "How's he going to manage that? Some sort of magic spell? Right, yeah, probably had your fill of dark-arts jokes, what with the flame-headed demon and all of that."
+        },
+        {
+            "character": "Coulson",
+            "line": "While we're handling the book, your mission is to accompany Dr. Radcliffe and erase AIDA's hard drive."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "What?"
+        },
+        {
+            "character": "Fitz",
+            "line": "I'm not... I'm not sure..."
+        },
+        {
+            "character": "Mace",
+            "line": "AIDA read the Darkhold."
+        },
+        {
+            "character": "Coulson",
+            "line": "We can't risk having any of its contents in her memory. It's too dangerous."
+        },
+        {
+            "character": "Fitz",
+            "line": "Makes sense, although does seem a little bit unfair to Aida, considering how many lives she just saved."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. First of all, that thing is not a “she,” it's a damn robot. And second of all, what's the matter with you two chuckleheads? Have either one of you seen a movie in the last 30 years? The robots always attack."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "Well, technically speaking, AIDA's not a robot, she's an android."
+        },
+        {
+            "character": "Fitz",
+            "line": "That's true."
+        },
+        {
+            "character": "Mack",
+            "line": "Android, robot... it doesn't matter what you call ‘em. The end result's always the same, they rise up against their human overlords and go kill crazy."
+        },
+        {
+            "character": "Radcliffe",
+            "line": "You make a fair, if somewhat intense, point. Yeah. Yeah, I don't see any harm in replacing her hard drive. Better safe than sorry, as they say."
+        },
+        {
+            "character": "Mace",
+            "line": "So happy you agree, ‘cause it's also an order. Now get to work."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "season": 2,
+    "episode": 13,
+    "num": 8,
+    "scene_name": "CoulsonAndMorseInvestigateFacility",
+    "description": "Coulson and Morse examine the aftermath of Cal's attack at the psychiatric facility. They work with Agent Broyles, deducing that Cal freed the dangerous David Angar. As they descend to the secret sub-basement, they face an attack from John Bruno and find evidence of Cal’s cryptic message and Angar's escape. Realizing what’s at stake, they move quickly to track Cal’s group.",
+    "roles": [
+        "phil_coulson",
+        "bobbi_morse"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Broyles",
+            "line": "Notified County, they're gonna send us additional peronnel."
+        },
+        {
+            "character": "Coulson",
+            "line": "Thank you, Agent Broyles. So, when the communications and electrical systems were fried, a group used the chaos to tear through the facility, opening doors, releasing prisoners."
+        },
+        {
+            "character": "Morse",
+            "line": "Yeah, whoever did this did some serious damage to the system. I'm recovering what was recorded before the power went out. Is that Skye's dad?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no."
+        },
+        {
+            "character": "Morse",
+            "line": "Who's he waving to?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Us. We have to get into that sub-level basement, now."
+        },
+        {
+            "character": "Morse",
+            "line": "So, how many prisoners were housed here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Two. John Bruno... military assassin. Became an obsession discovering creative ways to kill."
+        },
+        {
+            "character": "Morse",
+            "line": "Charming."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not as scary, however, as bachelor number two. He..."
+        },
+        {
+            "character": "Man",
+            "line": "You shouldn't have come down here."
+        },
+        {
+            "character": "Coulson",
+            "line": "Damn. Now, where's bachelor number two? David A. Angar... vocal cords exposed to experimental energy blasts. Shrunk the tumors, but left him with a voice that triggers the central nervous system, induces immediate catatonia with the slightest whisper. Here's his room."
+        },
+        {
+            "character": "Morse",
+            "line": "Any idea what that means?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Other than Skye's father being crazy? Nope."
+        },
+        {
+            "character": "Karla",
+            "line": "Thought we were going after S.H.I.E.L.D."
+        },
+        {
+            "character": "Cal",
+            "line": "They'll come to us."
+        }
+    ]
+}

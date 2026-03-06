@@ -1,0 +1,244 @@
+{
+    "season": 7,
+    "episode": 9,
+    "num": 3,
+    "scene_name": "CoulsonAndDaisyRememberLoops",
+    "description": "Daisy wakes up Coulson, who reveals he also remembers every time loop, explaining the mechanics and their shared predicament. Coulson reveals the loops have been happening far longer than Daisy realizes, with him frequently being the one to retrain her each time. The mounting hopelessness becomes plain as they observe how the Zephyr gets ever closer to the vortex with each reset.",
+    "roles": [
+        "skye",
+        "phil_coulson"
+    ],
+    "vibe": "suspenseful",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Repeating the same events over and over again? Yeah. How long did it take you to figure it out this time?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I was really hoping not to have this conversation again, but if you forgot everything we went through, I guess that means you died again."
+        },
+        {
+            "character": "Daisy",
+            "line": "I died?! \"Again?”"
+        },
+        {
+            "character": "Coulson",
+            "line": "And always say it just like that. We're the only two who remember, so each time you die in one of these loops, you don't remember anything in the next reset, so then you have to learn everything all over again."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's awful."
+        },
+        {
+            "character": "Coulson",
+            "line": "It's annoying. 'Cause who has to teach you every time? This guy. I've done it 14 times so far."
+        },
+        {
+            "character": "Daisy",
+            "line": "We've done this 14 times?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh, no. No, no, no. You've died 14 times. We've been through this loop 87 times... or I should say that I know about."
+        },
+        {
+            "character": "Daisy",
+            "line": "That you know about?"
+        },
+        {
+            "character": "Coulson",
+            "line": "'Cause you don't come power me up every time! It's okay. Not your fault. P.S., not a big fan of starting each loop powered down. Disconcerting."
+        },
+        {
+            "character": "Daisy",
+            "line": "Why are we the only ones that are remembering these loops?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Really not sure. You've had theories. The latest was that we're the only two who start each loop in a futuristic sleeping pod. Speaking of which..."
+        },
+        {
+            "character": "Daisy",
+            "line": "No, I'm not ready yet. Th..."
+        },
+        {
+            "character": "Coulson",
+            "line": "Nothing we can do. You'll get used to it. Please come wake me up this time, 'kay?"
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "Daisy",
+            "line": "Shut the door! Sparks!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Okay. Where were we? The Time Drive is stuck. It keeps looping back on itself over and over again."
+        },
+        {
+            "character": "Daisy",
+            "line": "Like feedback?"
+        },
+        {
+            "character": "Coulson",
+            "line": "I've been thinking about it like a record skipping. Every time I say that, you give me the same look. Vinyl's back. You're supposed to know records again."
+        },
+        {
+            "character": "Daisy",
+            "line": "What about flying out?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We tried it. No navigation, radiation fried the controls, and technically, space is irrelevant here. So we narrowed it down to fixing the drive."
+        },
+        {
+            "character": "Daisy",
+            "line": "And we can't get far enough before everything resets. How many loops now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "90. But who knows? Maybe 90th time's the charm."
+        },
+        {
+            "character": "Daisy",
+            "line": "Is that you trying to be optimistic? 'Cause it didn't work."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yeah, that... wasn't great. I'm sorry."
+        },
+        {
+            "character": "Coulson",
+            "line": "And we're running out of time."
+        },
+        {
+            "character": "Daisy",
+            "line": "Another zinger. You're serious. We can't just keep looping until we get everything exactly right? Practice making perfect?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Oh. You haven't noticed the numbers. You really are behind."
+        },
+        {
+            "character": "Elena",
+            "line": "It's me. Everywhere's nearby. I'm already here. I'll check it out."
+        },
+        {
+            "character": "May",
+            "line": "Simmons? Are you seeing this?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Yes..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Time storm."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't want to alarm anyone, but... Yep, time storm. Yeah, that's right."
+        },
+        {
+            "character": "Daisy",
+            "line": "Approaching the vortex, circling the drain. How far away are we?"
+        },
+        {
+            "character": "Deke",
+            "line": "79 kilometers. Thanks for asking."
+        },
+        {
+            "character": "Daisy",
+            "line": "He's saying 79, but it was 94."
+        },
+        {
+            "character": "Coulson",
+            "line": "Used to be a lot more than that. Each loop resets us, but it also brings the Zephyr a little closer to the vortex and destruction."
+        },
+        {
+            "character": "Daisy",
+            "line": "We're gonna run out of loops."
+        },
+        {
+            "character": "Coulson",
+            "line": "See above re: \"Let's do this fast.”"
+        },
+        {
+            "character": "Daisy",
+            "line": "Okay, so, if the problem is that we never solve the riddle before time runs out, that means we have two options... we increase the time we have..."
+        },
+        {
+            "character": "Coulson",
+            "line": "We tried that during loops 23 through 42-ish. Dead end."
+        },
+        {
+            "character": "Daisy",
+            "line": "...or we solve faster."
+        },
+        {
+            "character": "Coulson",
+            "line": "Yes. Got any thoughts on how to do that?"
+        },
+        {
+            "character": "Mack",
+            "line": "I've got damage to nearly all systems."
+        },
+        {
+            "character": "May",
+            "line": "Trying to get a read on our location."
+        },
+        {
+            "character": "Daisy",
+            "line": "Guys... stop! Listen to me. We are repeating time. Sparks, Yo-Yo, Simmons, Deke."
+        },
+        {
+            "character": "Elena",
+            "line": "Looks like something just fried the Quinjet's flight system."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay. You nearby?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Radiation levels are off the charts."
+        },
+        {
+            "character": "Simmons",
+            "line": "Radiation levels are off the charts. We need to get out of this."
+        },
+        {
+            "character": "Daisy",
+            "line": "And Deke, who doesn't want to alarm anyone."
+        },
+        {
+            "character": "Deke",
+            "line": "I don't want to alarm anyone, but we're trapped in a time storm."
+        },
+        {
+            "character": "Daisy",
+            "line": "See? I know the future. Let's talk."
+        },
+        {
+            "character": "Deke",
+            "line": "We're 65 kilometers away from the vortex already. I don't know how many more loops that means we have."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm guessing not many."
+        },
+        {
+            "character": "Mack",
+            "line": "Deke, is there any other information on the Drive we can find? Anything Fitz might have left behind?"
+        },
+        {
+            "character": "Deke",
+            "line": "Let me check. I'll be right back. It's... It's, uh, hard to access."
+        }
+    ]
+}

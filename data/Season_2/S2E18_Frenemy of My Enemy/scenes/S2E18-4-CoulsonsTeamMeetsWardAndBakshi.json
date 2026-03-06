@@ -1,0 +1,132 @@
+{
+    "season": 2,
+    "episode": 18,
+    "num": 4,
+    "scene_name": "CoulsonsTeamMeetsWardAndBakshi",
+    "description": "Coulson's team uses Agent 33 (Kara) to lure Ward. Ward is forced to surrender his weapons to Michael Peterson, and Coulson proposes his ultimatum: help him take down HYDRA and undergo the T.A.H.I.T.I. protocol, or else. Ward hesitantly agrees, and Bakshi is presented as their way in to Strucker. Tensions are high as trust on both sides is scarce.",
+    "roles": [
+        "phil_coulson",
+        "lance_hunter",
+        "leo_fitz",
+        "grant_ward",
+        "michael_peterson",
+        "sunil_bakshi"
+    ],
+    "vibe": "intense",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Agent 33. You're looking well."
+        },
+        {
+            "character": "Ward",
+            "line": "Hey, baby."
+        },
+        {
+            "character": "Coulson",
+            "line": "Hey, sweetie. Why don't you drop by? Love to catch up."
+        },
+        {
+            "character": "Mike",
+            "line": "That mask on your face, got any more of those lying around?"
+        },
+        {
+            "character": "Kara",
+            "line": "Afraid not."
+        },
+        {
+            "character": "Mike",
+            "line": "At least I have my winning personality."
+        },
+        {
+            "character": "Ward",
+            "line": "They didn't hurt you, did they?"
+        },
+        {
+            "character": "Kara",
+            "line": "No, I'm okay. You shouldn't have come."
+        },
+        {
+            "character": "Ward",
+            "line": "Fact that this guy hasn't killed me yet means they need me. Mike."
+        },
+        {
+            "character": "Mike",
+            "line": "Ward. Turn around. You know what needs to happen. All of it."
+        },
+        {
+            "character": "Coulson",
+            "line": "Ward."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm flattered. Bringing the robot along just for a sit-down with me."
+        },
+        {
+            "character": "Coulson",
+            "line": "There's no need for false modesty. We both know you're that good. But frankly, this isn't about you. I'm after bigger fish. Strucker, List."
+        },
+        {
+            "character": "Ward",
+            "line": "Can't help you, not in HYDRA anymore."
+        },
+        {
+            "character": "Coulson",
+            "line": "But you were."
+        },
+        {
+            "character": "Ward",
+            "line": "Even then, I only knew them by reputation, never met either."
+        },
+        {
+            "character": "Coulson",
+            "line": "Again with the false modesty. You're resourceful. Bet you know a guy who knows a guy."
+        },
+        {
+            "character": "Ward",
+            "line": "You know, last time I suggested we work together, you called me a deluded son of a bitch."
+        },
+        {
+            "character": "Coulson",
+            "line": "Things change. I'm offering you a deal. Help me, and I'll let you walk away, free and clear. No more looking over your shoulder."
+        },
+        {
+            "character": "Ward",
+            "line": "When something's too good to be true, it's a lie."
+        },
+        {
+            "character": "Coulson",
+            "line": "Not lying. I tried the stick with you before, it didn't work so well, so I'm offering a carrot."
+        },
+        {
+            "character": "Ward",
+            "line": "I'm listening."
+        },
+        {
+            "character": "Coulson",
+            "line": "Get me inside. After that, I put you through the T.A.H.I.T.I. protocol, and then you're free to go."
+        },
+        {
+            "character": "Ward",
+            "line": "Wipe my memories? Well, that sounds like a threat, not a carrot. I like who I am."
+        },
+        {
+            "character": "Coulson",
+            "line": "A murderer and a traitor? Sorry. My offer's the only way you leave here. I'm taking a huge chance. You could've run. You didn't. You risked your freedom for her. That says something, says that maybe there's still good left in you. Maybe Garrett, your family didn't destroy all that. T.A.H.I.T.I. will erase all the bad, let you be the man you wanna be, start over."
+        },
+        {
+            "character": "Ward",
+            "line": "Free and clear."
+        },
+        {
+            "character": "Coulson",
+            "line": "I give you my word as director of S.H.I.E.L.D."
+        },
+        {
+            "character": "Ward",
+            "line": "I might know a guy."
+        }
+    ]
+}

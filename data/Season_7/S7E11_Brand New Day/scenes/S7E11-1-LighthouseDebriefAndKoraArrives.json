@@ -1,0 +1,128 @@
+{
+    "season": 7,
+    "episode": 11,
+    "num": 1,
+    "scene_name": "LighthouseDebriefAndKoraArrives",
+    "description": "The episode opens in the Lighthouse where Daisy, May, Sousa, and Elena discuss the disappearance of Zephyr One, realizing it has been taken above Earth's satellites. Mack and Coulson join with Kora in custody, leading to a tense confrontation as Daisy demands to know Simmons' location. Kora shocks the team by offering to become an Agent of S.H.I.E.L.D., suggesting she can save lives with her knowledge of the new timeline. The scene sets up Kora's ambiguous motives and foreshadows deeper manipulations at play.",
+    "roles": [
+        "melinda_may",
+        "sousa",
+        "elena_rodriguez",
+        "alphonso_mackenzie",
+        "phil_coulson",
+        "kora"
+    ],
+    "vibe": "tense",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "What the hell just happened?"
+        },
+        {
+            "character": "May",
+            "line": "They disappeared. Dropped off satellite."
+        },
+        {
+            "character": "Sousa",
+            "line": "Did they jump? I thought the Time Drive wasn't working."
+        },
+        {
+            "character": "Daisy",
+            "line": "They didn't jump."
+        },
+        {
+            "character": "Sousa",
+            "line": "How do you know?"
+        },
+        {
+            "character": "Daisy",
+            "line": "They didn't jump."
+        },
+        {
+            "character": "Sousa",
+            "line": "Okay, how do you drop off satellite? Don't they surround the planet?"
+        },
+        {
+            "character": "May",
+            "line": "You move above them. Daisy, I can feel your guilt. This isn't your fault."
+        },
+        {
+            "character": "Daisy",
+            "line": "I should've quaked that psychopath's bones apart when I had the chance."
+        },
+        {
+            "character": "Elena",
+            "line": "616 requesting permission to land."
+        },
+        {
+            "character": "May",
+            "line": "You're clear, 616."
+        },
+        {
+            "character": "Daisy",
+            "line": "They have Kora."
+        },
+        {
+            "character": "May",
+            "line": "Maybe she'll have answers."
+        },
+        {
+            "character": "May",
+            "line": "We can't tell her about Jiaying's death."
+        },
+        {
+            "character": "Daisy",
+            "line": "She should know what her boyfriend did."
+        },
+        {
+            "character": "May",
+            "line": "Kora's not stable. Hearing that her mother died might set her off."
+        },
+        {
+            "character": "Sousa",
+            "line": "If she's a bomb, then what's the plan if she explodes?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Leave that to me. I won't make the same mistake I made with Nathaniel."
+        },
+        {
+            "character": "Coulson",
+            "line": "The potential Inhumans are safe. We dropped them at a hospital, made sure they're being taken care of."
+        },
+        {
+            "character": "Kora",
+            "line": "You must be Daisy..."
+        },
+        {
+            "character": "Daisy",
+            "line": "Where did they take Simmons?"
+        },
+        {
+            "character": "Mack",
+            "line": "Daisy, that's enough!"
+        },
+        {
+            "character": "Daisy",
+            "line": "Not until she talks!"
+        },
+        {
+            "character": "Mack",
+            "line": "Put her down, Agent Johnson! That's an order."
+        },
+        {
+            "character": "Kora",
+            "line": "Look, there's no reason to hurt each other. I'm here to help."
+        },
+        {
+            "character": "Mack",
+            "line": "How, exactly?"
+        },
+        {
+            "character": "Kora",
+            "line": "Save lives, of course. I want to be an Agent of S.H.I.E.L.D."
+        }
+    ]
+}

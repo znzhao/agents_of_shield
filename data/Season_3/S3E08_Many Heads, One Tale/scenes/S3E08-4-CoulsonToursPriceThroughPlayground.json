@@ -1,0 +1,61 @@
+{
+    "season": 3,
+    "episode": 8,
+    "num": 4,
+    "scene_name": "CoulsonToursPriceThroughPlayground",
+    "description": "Rosalind Price arrives at The Playground to meet with Coulson. The two exchange witty banter and discuss operational security, with Coulson subtly probing Price's intentions while maintaining their flirtatious rapport. Meanwhile, Mack and Daisy monitor her phone for intelligence gathering.",
+    "roles": [
+        "phil_coulson",
+        "alphonso_mackenzie",
+        "skye"
+    ],
+    "vibe": "suspenseful",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Coulson",
+            "line": "Ms. Price. Welcome to S.H.I.E.L.D."
+        },
+        {
+            "character": "Price",
+            "line": "Not exactly running things out of your mom's basement, are we? Did you give it a slick code name?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Classified. But to me, it's home."
+        },
+        {
+            "character": "Price",
+            "line": "That's cute. Almost as cute as flying me in circles for six hours on a plane. I don't know if I'm in Albuquerque or Albania."
+        },
+        {
+            "character": "Coulson",
+            "line": "Imagine the possibilities. And be flattered. I waived our usual blindfold protocol."
+        },
+        {
+            "character": "Price",
+            "line": "Oh, they'll say you're going soft, director. Then again, completely disabled my phone for the entire flight. Couldn't even check my fantasy-football scores."
+        },
+        {
+            "character": "Coulson",
+            "line": "Such cruelty. I can reactivate the phone, but we'll need to sweep for wireless sniffers first."
+        },
+        {
+            "character": "Price",
+            "line": "Two words I never want to hear again. Go for it, cowboy."
+        },
+        {
+            "character": "Coulson",
+            "line": "You left your intelligence-gathering phone at your apartment, didn't you?"
+        },
+        {
+            "character": "Price",
+            "line": "I almost didn't, but I thought it might be rude."
+        },
+        {
+            "character": "Coulson",
+            "line": "Please. We expect nothing less."
+        }
+    ]
+}

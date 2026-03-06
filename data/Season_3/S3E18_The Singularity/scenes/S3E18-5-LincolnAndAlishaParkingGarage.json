@@ -1,0 +1,189 @@
+{
+    "season": 3,
+    "episode": 18,
+    "num": 5,
+    "scene_name": "LincolnAndAlishaParkingGarage",
+    "description": "Lincoln attempts to approach Alisha in a parking garage, hoping to protect her from Hive. However, Hive has already influenced her. A confrontation erupts when Alisha and her duplicates attack Lincoln and May intervenes. The situation escalates tragically when Alisha, under Hive's sway, kills a duplicate and is shot by Coulson, revealing the brutal consequences of Hive's control.",
+    "roles": [
+        "lincoln",
+        "melinda_may",
+        "phil_coulson"
+    ],
+    "vibe": "action-packed",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "Lincoln, what are you doing?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Alisha and I are friends. She trusts me."
+        },
+        {
+            "character": "May",
+            "line": "Hive can infect you. You can't come."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I won't let him get to me."
+        },
+        {
+            "character": "May",
+            "line": "You think you have a say in that? You think Daisy did?"
+        },
+        {
+            "character": "Coulson",
+            "line": "He's coming. With one caveat. You want in, you wear this. It's lined with nano-thermites."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Nano-what?"
+        },
+        {
+            "character": "Coulson",
+            "line": "They're miniscule explosives."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You want me to wear a suicide vest?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's only if Hive infects you. And, technically, a suicide vest is something you control."
+        },
+        {
+            "character": "Lincoln",
+            "line": "So it's a murder vest."
+        },
+        {
+            "character": "Coulson",
+            "line": "This watch is the trigger."
+        },
+        {
+            "character": "May",
+            "line": "Phil."
+        },
+        {
+            "character": "Coulson",
+            "line": "If Hive gets its hands on him..."
+        },
+        {
+            "character": "Lincoln",
+            "line": "I go kaboom? That'd make you both real happy, wouldn't it? Then you'd get Daisy back, and the three of you can live as one small, messed-up family again?"
+        },
+        {
+            "character": "Coulson",
+            "line": "It's a last resort."
+        },
+        {
+            "character": "Lincoln",
+            "line": "It's insane."
+        },
+        {
+            "character": "Coulson",
+            "line": "I want your help. I need it. But if Hive sways you, that's it. No one's gonna force you to do anything you don't want to do. That's the whole point. But if you want in the field, then this is a risk you've got to be willing to take."
+        },
+        {
+            "character": "Simmons",
+            "line": "What is it? Do I look weird? I feel a bit weird all dressed up like this."
+        },
+        {
+            "character": "Fitz",
+            "line": "No. You look nice. That's all. Mack, do you have a visual?"
+        },
+        {
+            "character": "Mack",
+            "line": "Affirmative. I see what you see."
+        },
+        {
+            "character": "Fitz",
+            "line": "Turn on multi-spectral imaging."
+        },
+        {
+            "character": "Mack",
+            "line": "All right. I don't know what I expected, but... this is not what I expected. Let's just say most of the people in this room are more than what they seem. You two stay alert. I'm not sure what you're walking into."
+        },
+        {
+            "character": "Coulson",
+            "line": "Looks clear from out here. Lincoln?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I'm in position by Alisha's car."
+        },
+        {
+            "character": "Coulson",
+            "line": "You take the stairwell. I'll follow you in."
+        },
+        {
+            "character": "May",
+            "line": "What happens if they show up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We neutralize Hive and extricate Daisy."
+        },
+        {
+            "character": "May",
+            "line": "It's that simple, huh?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We'll figure it out. We always do."
+        },
+        {
+            "character": "May",
+            "line": "And if Daisy won't come quietly?"
+        },
+        {
+            "character": "Coulson",
+            "line": "What are you getting at?"
+        },
+        {
+            "character": "May",
+            "line": "This is a potentially volatile situation, and I need to know what you expect from me."
+        },
+        {
+            "character": "Coulson",
+            "line": "You're always so quick to the trigger, you know that?"
+        },
+        {
+            "character": "May",
+            "line": "Excuse me?"
+        },
+        {
+            "character": "Coulson",
+            "line": "If you're asking whether you shoot Daisy, the answer's no. Daisy is not Andrew."
+        },
+        {
+            "character": "May",
+            "line": "I pull the trigger because you order me to. You're the Director. I didn't ask for the kill switch to Lincoln's vest. You gave it to me. Because somehow, sacrificing him is okay with you."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not what I meant."
+        },
+        {
+            "character": "May",
+            "line": "I'll do your dirty work, Phil, but don't you dare pretend your hands are clean."
+        },
+        {
+            "character": "Alisha",
+            "line": "Lincoln? How'd you know where I was?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "Have you seen Daisy recently?"
+        },
+        {
+            "character": "Alisha",
+            "line": "No. Why?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I thought they'd come for you."
+        }
+    ]
+}

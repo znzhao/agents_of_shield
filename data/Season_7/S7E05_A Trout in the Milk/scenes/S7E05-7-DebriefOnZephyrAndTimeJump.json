@@ -1,0 +1,115 @@
+{
+    "season": 7,
+    "episode": 5,
+    "num": 7,
+    "scene_name": "DebriefOnZephyrAndTimeJump",
+    "description": "Back on Zephyr One, the full team regroups to share what they've learned about Project Insight, the Chronicoms’ involvement, and the risk to major figures in the timeline. Suddenly, the Zephyr’s time drive activates uncontrollably; Simmons discovers the Chronicoms have triggered another jump. Panic ensues as the agents brace for the unknown, and Simmons confides in Enoch about her slipping memory and fear of what she's forgetting.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "skye",
+        "jemma_simmons",
+        "alphonso_mackenzie",
+        "elena_rodriguez",
+        "deke_shaw",
+        "enoch",
+        "sousa"
+    ],
+    "vibe": "intense",
+    "location": "Zephyr One (S.H.I.E.L.D. quinjet / mobile command plane)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Mack",
+            "line": "So, Hydra's attempting Insight in 1973."
+        },
+        {
+            "character": "Elena",
+            "line": "With no Helicarriers."
+        },
+        {
+            "character": "Coulson",
+            "line": "According to Malick, S.H.I.E.L.D. has a system of satellites and lasers, which, as I say it, sounds really cool, but it's definitely not cool."
+        },
+        {
+            "character": "Mack",
+            "line": "And it explains the launch pad at the Lighthouse. Must be where they're planning to send up the satellite."
+        },
+        {
+            "character": "Elena",
+            "line": "Any idea who the targets are?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Well, we found a dossier of mostly S.H.I.E.L.D. assets... Bruce Banner, Nick Fury."
+        },
+        {
+            "character": "Sousa",
+            "line": "Peggy Carter."
+        },
+        {
+            "character": "May",
+            "line": "Picking us off, one by one."
+        },
+        {
+            "character": "Mack",
+            "line": "Not yet. If we move now, we can disable Insight before it's launch capable."
+        },
+        {
+            "character": "Sousa",
+            "line": "Guys, I think something's wrong."
+        },
+        {
+            "character": "Mack",
+            "line": "They know we're coming, so we have to assume the Lighthouse is fortified with a battalion..."
+        },
+        {
+            "character": "Sousa",
+            "line": "Guys! Is it supposed to do that?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Simmons, what's happening?"
+        },
+        {
+            "character": "Simmons",
+            "line": "We're about to jump."
+        },
+        {
+            "character": "Mack",
+            "line": "Tell me you can override it."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm trying, but something's messed with the algorithm."
+        },
+        {
+            "character": "Daisy",
+            "line": "How is that possible?"
+        },
+        {
+            "character": "Simmons",
+            "line": "The Chronicoms have changed plans. They're jumping early."
+        },
+        {
+            "character": "Sousa",
+            "line": "To when? Where are we going?"
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know! I can't control it!"
+        },
+        {
+            "character": "Mack",
+            "line": "This is our only chance to stop Insight. We can't be on this ship."
+        },
+        {
+            "character": "Coulson",
+            "line": "You tried. There's nothing else you could've done."
+        },
+        {
+            "character": "Elena",
+            "line": "How far did we jump?"
+        }
+    ]
+}

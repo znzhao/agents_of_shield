@@ -1,0 +1,72 @@
+{
+    "season": 4,
+    "episode": 5,
+    "num": 1,
+    "scene_name": "DarkholdDiscoveryFlashback",
+    "description": "Lucy and Joseph Bauer search for the Darkhold in the basement of an abandoned house. They are astonished as the book's pages become readable, each appearing to them in their native language, suggesting the book is responding to them. The initial sense of discovery quickly turns to unease as they realize the power involved.",
+    "roles": [
+        "lucy_bauer",
+        "joseph_bauer"
+    ],
+    "vibe": "mysterious",
+    "location": "unknown",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Joseph",
+            "line": "Well, Lucy, this has to be it."
+        },
+        {
+            "character": "Lucy",
+            "line": "Mildew and cobwebs. You know, this reminds me of Outer Mongolia."
+        },
+        {
+            "character": "Joseph",
+            "line": "You got to admit, the yurt was kind of romantic."
+        },
+        {
+            "character": "Lucy",
+            "line": "And we were so sure it was there. So... what are the odds that it's here?"
+        },
+        {
+            "character": "Joseph",
+            "line": "In the family home of the guy who killed the last person who had it? We've never been this close."
+        },
+        {
+            "character": "Lucy",
+            "line": "Well, we've said that before. What if we spent all these years doing the science instead of looking for shortcuts? If we did the actual work... Whoa. This is weird."
+        },
+        {
+            "character": "Joseph",
+            "line": "Here."
+        },
+        {
+            "character": "Lucy",
+            "line": "Is it ..."
+        },
+        {
+            "character": "Joseph",
+            "line": "Okay. Here."
+        },
+        {
+            "character": "Lucy",
+            "line": "Wait. What the...? Are you seeing what I'm seeing?"
+        },
+        {
+            "character": "Joseph",
+            "line": "I didn't think it would be in German."
+        },
+        {
+            "character": "Lucy",
+            "line": "No, I'm reading English. Wait. Are you not seeing what I'm seeing? Joe, German is your first language."
+        },
+        {
+            "character": "Joseph",
+            "line": "Y-Yes, but this is not possible."
+        },
+        {
+            "character": "Lucy",
+            "line": "Unless... What if, in some way, it is reading us?"
+        }
+    ]
+}

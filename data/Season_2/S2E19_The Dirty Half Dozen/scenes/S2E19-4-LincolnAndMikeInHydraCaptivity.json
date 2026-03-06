@@ -1,0 +1,68 @@
+{
+    "season": 2,
+    "episode": 19,
+    "num": 4,
+    "scene_name": "LincolnAndMikeInHydraCaptivity",
+    "description": "Mike Peterson and Lincoln regain consciousness inside Hydra’s research facility. Both men, battered and uncertain, compare notes about their situations. Mike’s mechanical enhancements have been neutralized, and Lincoln expresses worry for his people, realizing that rescue is unlikely and that they must depend on themselves to find a way out.",
+    "roles": [
+        "michael_peterson",
+        "lincoln"
+    ],
+    "vibe": "tense",
+    "location": "Hydra Arctic Research Facility (Arctic Circle)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "Lincoln",
+            "line": "What the hell?"
+        },
+        {
+            "character": "Mike",
+            "line": "Welcome back."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Who's there?"
+        },
+        {
+            "character": "Mike",
+            "line": "We didn't get to formally meet. My name's Mike. I think we got knocked out together."
+        },
+        {
+            "character": "Lincoln",
+            "line": "You're the guy with the parts. You know where we are?"
+        },
+        {
+            "character": "Mike",
+            "line": "No. At least they haven't killed us yet. But there are bodies out there."
+        },
+        {
+            "character": "Lincoln",
+            "line": "Oh, great. You got all that hardware. Use one of those weapons and get us out of here."
+        },
+        {
+            "character": "Mike",
+            "line": "Right. Because I didn't think of that."
+        },
+        {
+            "character": "Lincoln",
+            "line": "At least your sarcasm still works."
+        },
+        {
+            "character": "Mike",
+            "line": "They disabled the arm. It's dead. What about that teleporting guy? He coming to help us out?"
+        },
+        {
+            "character": "Lincoln",
+            "line": "I hope not. I think they're tracking him. He'd put all my people at risk."
+        },
+        {
+            "character": "Mike",
+            "line": "Yeah. My people are just as outmatched. Only they're stupid enough to try it."
+        },
+        {
+            "character": "Lincoln",
+            "line": "So if we want out of here, we got to do it ourselves. I'm Lincoln."
+        }
+    ]
+}

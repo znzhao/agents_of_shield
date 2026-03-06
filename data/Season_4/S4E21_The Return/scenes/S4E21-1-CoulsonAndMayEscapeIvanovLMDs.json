@@ -1,0 +1,89 @@
+{
+    "season": 4,
+    "episode": 21,
+    "num": 1,
+    "scene_name": "CoulsonAndMayEscapeIvanovLMDs",
+    "description": "Phil Coulson and Melinda May wake up disoriented from the Framework and are immediately thrust into a dangerous confrontation with Ivanov, who is no longer confined by Aida's restrictions. Coulson explains recent events to May, who catches up on her time replaced by an LMD. The two fight off Ivanov's LMD body and realize more Superior LMDs are searching for them throughout the platform. They barricade themselves to strategize and prepare for an intense battle.",
+    "roles": [
+        "phil_coulson",
+        "melinda_may",
+        "anton_ivanov"
+    ],
+    "vibe": "tense",
+    "location": "Anton Ivanov's drilling platform / Superior's submarine (Baltic Sea)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Ivanov",
+            "line": "There are actually a few funny passages in here. Has the little puppet finally made herself into a real girl? I'm tired of talking to myself."
+        },
+        {
+            "character": "May",
+            "line": "Fitz, move!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Take the shot, May!"
+        },
+        {
+            "character": "May",
+            "line": "Get out of the way, Fitz!"
+        },
+        {
+            "character": "Coulson",
+            "line": "Just take the shot!"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. No, no, no! She has Inhuman powers now?! Can we get a break, please?! Can we get one break?!"
+        },
+        {
+            "character": "May",
+            "line": "Guess they weren't assessing powers at HYDRA as much as collecting them."
+        },
+        {
+            "character": "Coulson",
+            "line": "Who even knows what Hydra was doing in the Framework. Oh, wait. You do, I guess, right? Sorry. I'm having trouble sorting through the..."
+        },
+        {
+            "character": "May",
+            "line": "Two lives we lived?"
+        },
+        {
+            "character": "Coulson",
+            "line": "You feel that, too, huh? Nice to see you again. Actual you. We're lucky we got out of there."
+        },
+        {
+            "character": "Ivanov",
+            "line": "It wasn't luck. You are only alive because I had restrictions put on me. Fortunately, those restrictions have just been lifted."
+        },
+        {
+            "character": "May",
+            "line": "Who the hell is this guy?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Well, you missed a fair amount, May, but the quick version is, you can go ahead and shoot him."
+        },
+        {
+            "character": "Ivanov",
+            "line": "You are nothing now without a S.H.I.E.L.D. to hide behind."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's not all they're good for."
+        },
+        {
+            "character": "May",
+            "line": "Robots, is that a common occurrence now?"
+        },
+        {
+            "character": "Coulson",
+            "line": "Like I said, you missed a fair amount."
+        },
+        {
+            "character": "May",
+            "line": "It's good to be back."
+        }
+    ]
+}

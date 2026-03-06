@@ -1,0 +1,90 @@
+{
+    "season": 4,
+    "episode": 10,
+    "num": 6,
+    "scene_name": "RescueMissionPlansZephyrOne",
+    "description": "Back at the Playground, with Mace's Quinjet missing, Daisy, Simmons, and May discuss the possible next phase of the threat. Talbot takes charge, planning a search and rescue mission, but butts heads with Simmons over access and command protocol. May and Daisy are authorized to lead the Zephyr One to search for their missing colleagues, as Talbot remains in charge at headquarters.",
+    "roles": [
+        "skye",
+        "melinda_may",
+        "jemma_simmons",
+        "glenn_talbot"
+    ],
+    "vibe": "dramatic",
+    "location": "The Playground (S.H.I.E.L.D. operations facility)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Daisy",
+            "line": "How do you lose a damn Quinjet?"
+        },
+        {
+            "character": "May",
+            "line": "Simmons, tell me they're alive."
+        },
+        {
+            "character": "Simmons",
+            "line": "I don't know. We lost contact approximately seven minutes ago."
+        },
+        {
+            "character": "Daisy",
+            "line": "Zaikin said he wasn't alone. This must be Phase Two."
+        },
+        {
+            "character": "Simmons",
+            "line": "Then we may need more than the standard rescue team. General, have we made contact?"
+        },
+        {
+            "character": "Talbot",
+            "line": "They just dropped off the map. No signal, no emergency beacon, nothing."
+        },
+        {
+            "character": "Daisy",
+            "line": "It could be an equipment malfunction."
+        },
+        {
+            "character": "Talbot",
+            "line": "When have we ever been that lucky? If we want our team back, we're gonna have to act fast."
+        },
+        {
+            "character": "May",
+            "line": "Daisy and I can take point on the rescue mission. Coulson would want me to take command of Zephyr One. Simmons, I need expanded clearance to do that."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll take care of that. I'll make you... DayGlo pink, or whatever's high enough."
+        },
+        {
+            "character": "Daisy",
+            "line": "If we find them, they won't be alone. Zaikin had partners."
+        },
+        {
+            "character": "Simmons",
+            "line": "I'm the highest-ranking agent here, and contingency protocols grant me greater access if the Director is missing in action."
+        },
+        {
+            "character": "Talbot",
+            "line": "I know that. I wrote the damn protocols. Besides, I have an assignment for you."
+        },
+        {
+            "character": "Simmons",
+            "line": "But I could look through Mace's file for any leads. If we've overlooked any enemies he might have..."
+        },
+        {
+            "character": "Talbot",
+            "line": "I'll handle this. I'm gonna squeeze our prisoner like a lime wedge on dollar beer night. Now, find me some science-y way to regain contact with our men on the ground."
+        },
+        {
+            "character": "Simmons",
+            "line": "But we..."
+        },
+        {
+            "character": "Talbot",
+            "line": "You all have jobs to do. If you'll excuse me, I need to update the leader of the free world."
+        },
+        {
+            "character": "Talbot",
+            "line": "Mr. President. We don't know who survived, but I've got our top agents searching for the Quinjet. Agent Burrows has the package, but we don't know if he was onboard. Yes, sir. Let's hope for all our sakes that Director Mace got it."
+        }
+    ]
+}

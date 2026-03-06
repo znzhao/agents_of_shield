@@ -1,0 +1,314 @@
+{
+    "season": 5,
+    "episode": 21,
+    "num": 3,
+    "scene_name": "TalbotAbsorbsCreel",
+    "description": "Talbot locates Carl Creel in a hospital, deceiving Creel with the promise of curing his condition. Instead, Talbot absorbs Creel into himself, increasing his power. Mack and Elena, watching from the Lighthouse, discuss the terrible turn of events and Mack's struggle with forgiveness and responsibility, heightening the stakes with Talbot's growing threat.",
+    "roles": [
+        "glenn_talbot",
+        "carl_creel",
+        "alphonso_mackenzie",
+        "elena_rodriguez"
+    ],
+    "vibe": "dark",
+    "location": "Lighthouse (S.H.I.E.L.D. doomsday bunker in present)",
+    "significance": "major",
+    "transcript": [
+        {
+            "character": "Talbot",
+            "line": "Mr Creel."
+        },
+        {
+            "character": "Creel",
+            "line": "General?"
+        },
+        {
+            "character": "Talbot",
+            "line": "How you feeling?"
+        },
+        {
+            "character": "Creel",
+            "line": "What are you wearing?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Well, choices were limited. It's the new me, but I'm here to talk about the new you. It's all right, soldier. Relax. You've been through a lot. It's good to see you, Carl."
+        },
+        {
+            "character": "Creel",
+            "line": "It's good to see you, too, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "I know what it's like. You're trapped in this hospital bed, noggin's not working right."
+        },
+        {
+            "character": "Creel",
+            "line": "I know you do, sir."
+        },
+        {
+            "character": "Talbot",
+            "line": "But I also got through it and I can help you. The two of us are stronger together."
+        },
+        {
+            "character": "Creel",
+            "line": "General, you seem... You all right?"
+        },
+        {
+            "character": "Talbot",
+            "line": "Right as rain. Never felt better. I did come in contact with gravitonium just like you."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's okay. It's all right. Soldier, I'm fine. As a matter of fact, I've learned a few things. Do you still hear the voices? What if I told you I know how to control them, silence them. I can silence them for you, too."
+        },
+        {
+            "character": "Taryan",
+            "line": "You are formidable, but your strength has been going to waste. Come with me, and I can show you how to unleash your power."
+        },
+        {
+            "character": "Daisy",
+            "line": "As your weapon."
+        },
+        {
+            "character": "Taryan",
+            "line": "As my disciple."
+        },
+        {
+            "character": "Daisy",
+            "line": "Oh, God. What is with your family and this God complex?"
+        },
+        {
+            "character": "Taryan",
+            "line": "What do you know of my family?"
+        },
+        {
+            "character": "Daisy",
+            "line": "Plenty."
+        },
+        {
+            "character": "Taryan",
+            "line": "Well, then you know that I am from a long line of inventive thinkers. I have ideas, methods, which don't, shall we say, mesh with those of my breed."
+        },
+        {
+            "character": "Daisy",
+            "line": "That's not completely chilling."
+        },
+        {
+            "character": "Taryan",
+            "line": "I'm merely saying that I understand what it is to be on the outside, as I'm sure you are different, hunted by lesser humans. You deserve better than that."
+        },
+        {
+            "character": "Daisy",
+            "line": "Look, yeah, some people have given me a hard time. Humans are... are complicated. They disagree. Sometimes it comes to blows. Only, sometimes, it's a person who risks everything for their friends even though she lost her limbs. Hypothetically. We fight, okay, but not with a lack of respect, and that's something I don't think you're quite understanding."
+        },
+        {
+            "character": "Taryan",
+            "line": "No matter. You will come with me willingly or not."
+        },
+        {
+            "character": "Daisy",
+            "line": "I'm gonna have to choose “not.”"
+        },
+        {
+            "character": "Taryan",
+            "line": "Problem?"
+        },
+        {
+            "character": "Daisy",
+            "line": "What is this? Why can't I..."
+        },
+        {
+            "character": "Taryan",
+            "line": "Because you're not conscious yet."
+        },
+        {
+            "character": "Daisy",
+            "line": "Not conscious?"
+        },
+        {
+            "character": "Taryan",
+            "line": "I'm not a fool. I know how strong you are and I have to make sure that you are thoroughly broken in before you're brought to me."
+        },
+        {
+            "character": "Simmons",
+            "line": "Fitz, it's done. This could change everything."
+        },
+        {
+            "character": "Mack",
+            "line": "Change everything about what?"
+        },
+        {
+            "character": "Simmons",
+            "line": "Uh, Daisy asked us to run some tests."
+        },
+        {
+            "character": "Fitz",
+            "line": "Looking for a way to revive Coulson's necrotic tissue. Jemma thinks it could work."
+        },
+        {
+            "character": "Mack",
+            "line": "Okay, that's... that's good to know. That's really good."
+        },
+        {
+            "character": "Fitz",
+            "line": "What do you need, Mack?"
+        },
+        {
+            "character": "Mack",
+            "line": "It's Talbot. The gravitonium is becoming a problem. He's racking up a body count."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. There must be something you can do to reverse the machine."
+        },
+        {
+            "character": "Fitz",
+            "line": "Something else that needs fixing?"
+        },
+        {
+            "character": "Mack",
+            "line": "Right now, Talbot's out there. He's dangerous. If there's a solution, we need it fast, okay? Or none of this matters."
+        },
+        {
+            "character": "Simmons",
+            "line": "Okay, we're on it."
+        },
+        {
+            "character": "Mack",
+            "line": "Thank you."
+        },
+        {
+            "character": "Fitz",
+            "line": "He and I will work it out."
+        },
+        {
+            "character": "May",
+            "line": "There."
+        },
+        {
+            "character": "Coulson",
+            "line": "Circuit panel. Good. Remorath tech wasn't exactly my major, but let's assume the circuitry still creates an electric field. I use the charge from my arm, maybe I can short it out."
+        },
+        {
+            "character": "May",
+            "line": "And the door opens."
+        },
+        {
+            "character": "Coulson",
+            "line": "That's the theory."
+        },
+        {
+            "character": "May",
+            "line": "At this point, I'll take theory."
+        },
+        {
+            "character": "Coulson",
+            "line": "I mean, we still have to face the guard outside, but we'll cross that bridge"
+        },
+        {
+            "character": "Deke",
+            "line": "Hey, guys. You ever notice these schmucks are really hard to beat up?"
+        },
+        {
+            "character": "Coulson",
+            "line": "We're glad to see you."
+        },
+        {
+            "character": "Deke",
+            "line": "Yeah, likewise. We just had a tiny adventure with Talbot, and ended with a man down. I figured I'd better start looking for you on the prison level."
+        },
+        {
+            "character": "May",
+            "line": "Good thinking."
+        },
+        {
+            "character": "Deke",
+            "line": "Where's Daisy? She's not here?"
+        },
+        {
+            "character": "Coulson",
+            "line": "No. Qovas handed her off to his warriors. We got to find her next."
+        },
+        {
+            "character": "May",
+            "line": "You see where Talbot went?"
+        },
+        {
+            "character": "Deke",
+            "line": "Sort of. You're not gonna like it."
+        },
+        {
+            "character": "Creel",
+            "line": "These voices, I thought I was stuck with them."
+        },
+        {
+            "character": "Talbot",
+            "line": "You don't have to be. Let me help you."
+        },
+        {
+            "character": "Creel",
+            "line": "You have it in you. I..."
+        },
+        {
+            "character": "Talbot",
+            "line": "It's okay, son. I'm telling you the truth. This will make everything better. Join me. What do you feel?"
+        },
+        {
+            "character": "Creel",
+            "line": "Peace. So much quieter. Wait..."
+        },
+        {
+            "character": "Talbot",
+            "line": "This part isn't gonna be great for you, Carl."
+        },
+        {
+            "character": "Creel",
+            "line": "Sir! No!"
+        },
+        {
+            "character": "Talbot",
+            "line": "But it will be over quickly. I promise. The two of us are stronger than one and your suffering, it's over now. Thank you, Carl."
+        },
+        {
+            "character": "Talbot",
+            "line": "Thank you, Carl."
+        },
+        {
+            "character": "Mack",
+            "line": "So, he can do that. He must've gotten his location from the quinjet's flight log. We knew Talbot was killing people, but to see him do that to Creel, I just... I ever tell you about Isabelle Hartley?"
+        },
+        {
+            "character": "Elena",
+            "line": "Yeah, a little. I know she was your friend."
+        },
+        {
+            "character": "Mack",
+            "line": "Hmm."
+        },
+        {
+            "character": "Elena",
+            "line": "I know Creel killed her."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. I wanted him dead. I thought I'd never forgive him, but, once he was deprogrammed, and once I got to know him, he was a decent man. I'm glad I had the chance."
+        },
+        {
+            "character": "Elena",
+            "line": "I'm sure he was, too. You have an amazing capacity to forgive people, Mack."
+        },
+        {
+            "character": "Mack",
+            "line": "Yeah. But the bodies are still piling up, aren't they? He has to be stopped no matter what."
+        },
+        {
+            "character": "Elena",
+            "line": "Yes, and maybe for good."
+        },
+        {
+            "character": "Mack",
+            "line": "If it comes to that, I'm the one who does it. Understood?"
+        }
+    ]
+}

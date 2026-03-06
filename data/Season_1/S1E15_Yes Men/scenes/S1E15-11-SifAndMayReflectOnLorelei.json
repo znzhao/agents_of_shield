@@ -1,0 +1,67 @@
+{
+    "season": 1,
+    "episode": 15,
+    "num": 11,
+    "scene_name": "SifAndMayReflectOnLorelei",
+    "description": "Sif and May train together, sharing insights about Lorelei's tactics and the pain of losing a man to her manipulation. Their conversation reveals Sif’s past trauma and cautions May about possible outcomes with Ward. The discussion also illustrates the emotional stakes for the team, highlighting themes of trust and betrayal.",
+    "roles": [
+        "melinda_may"
+    ],
+    "vibe": "emotional",
+    "location": "S.H.I.E.L.D. Bus (mobile command jet)",
+    "significance": "minor",
+    "transcript": [
+        {
+            "character": "May",
+            "line": "May I?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "You have experience with swords."
+        },
+        {
+            "character": "May",
+            "line": "Yes. But I prefer to use my hands."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Admirable. But be warned... Loreles quite skilled at combat."
+        },
+        {
+            "character": "May",
+            "line": "Then why co-opt men? Why have them fight for her?"
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Well... I believe it gives her a thrill... Especially if the man is already taken. And, besides, even the best warrior needs an army to conquer an empire. So her pattern remains. She attaches herself to the strongest warrior she can find and then unleashes a swath of blood and destruction."
+        },
+        {
+            "character": "May",
+            "line": "The man she's with... Ward... he's as lethal as any. One of our best."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "I see. I've been where you are, Melinda May... a man I cared for, under her spell, so enchanted, forsook his family, his friends, me. Steel yourself to do what might be necessary. Your Agent Ward..."
+        },
+        {
+            "character": "May",
+            "line": "He's not mine."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Well, that is certainly true now. But Agent Ward is no longer the man you knew. He will not hesitate to kill you."
+        },
+        {
+            "character": "May",
+            "line": "Ward won't kill me."
+        },
+        {
+            "character": "Lady Sif",
+            "line": "Do not let your feelings cloud your judgment."
+        },
+        {
+            "character": "May",
+            "line": "I'm not. He might try to kill me, but he won't."
+        }
+    ]
+}
