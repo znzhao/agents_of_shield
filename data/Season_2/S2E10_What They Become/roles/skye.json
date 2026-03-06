@@ -1,0 +1,104 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 10
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye, also known as Daisy, is a resilient and resourceful S.H.I.E.L.D. operative with a complex and painful heritage tied to alien origins and the mysterious Kree civilization. She struggles with the gravity of her newfound powers and the legacy of her family, especially the violent and conflicted relationship with her father, Cal. Her character is defined by a fierce independence, a commitment to protect others, and an evolving acceptance of her destiny, which is marked by transformation and the emergence of formidable seismic abilities. Skye wrestles with the moral ambiguity of her lineage and the burdens of violence, all while striving to uphold her loyalty to her team and to the values of justice and freedom amid a cosmic struggle.",
+  "aliases": [
+    {
+      "action": "+",
+      "alias": "Daisy"
+    }
+  ],
+  "affiliations": [],
+  "superpowers": [
+    {
+      "action": "+",
+      "superpower": "seismic_powers"
+    }
+  ],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 3
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "master_and_control_new_powers",
+        "goal": "To understand, master, and control her newly emerged seismic abilities to use them responsibly and protect others"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "investigate_and_understand_alien_writing_and_blueprint",
+        "goal": "To decode and understand the alien carvings as blueprints to a hidden city, learning their full significance and implications"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_15",
+      "context": "acknowledging the painful and transformative emergence of her new powers after petrification",
+      "catch_phrase": "I'm so sorry. I couldn't kill him. I couldn't kill him, and I wanted to and I couldn't. I'm so sorry. I'm gonna make it right."
+    }
+  ]
+}

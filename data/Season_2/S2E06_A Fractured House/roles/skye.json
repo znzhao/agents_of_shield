@@ -1,0 +1,98 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 6
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined S.H.I.E.L.D. agent whose journey involves deep personal challenges related to her mysterious origins and fractured family ties. She has evolved from a skilled hacker to a courageous field operative willing to confront difficult truths and threats directly. Skye seeks honesty and transparency in her relationships, especially with Coulson, and is driven by a resolute desire to stop dangerous forces, including her own father, whom she views as a dangerous murderer despite his motivations. Her intelligence and tactical acumen continue to be central to the team's efforts against Hydra, while her emotional resilience grows as she grapples with revelations about her father and the alien technology impacting their world. Skye's character embodies the tension between personal identity and mission, embracing vulnerability and strength as she stands firm in her allegiance and purpose, increasingly disentangling herself from complicated and manipulative figures like Grant Ward while seeking direct control over her own narrative.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": null,
+  "core_values": [
+    {
+      "action": "+",
+      "value": "honesty",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "value": "justice",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "value": "courage",
+      "level": 1
+    }
+  ],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "stop_skye_father_and_protect_sheild",
+        "goal": "To stop Skye's father who possesses the Obelisk and to protect S.H.I.E.L.D. from his dangerous influence and Hydra's plans."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "locate_skye_father",
+        "goal": "To locate and understand Skye's father, uncover his current motivations and threats, and determine the impact on herself and S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_15",
+      "context": "confirming detection of the virus threatening the team's safety on the Bus",
+      "catch_phrase": "Virus."
+    }
+  ]
+}

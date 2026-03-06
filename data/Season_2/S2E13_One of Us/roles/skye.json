@@ -1,0 +1,60 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 13
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult American hacker and Inhuman operative affiliated with S.H.I.E.L.D. who recently underwent Terrigenesis, developing powerful seismic abilities. She struggles profoundly with the uncontrollable nature of her powers and the intense emotional and physical toll they take on her. Despite her external bravado and witty deflections, Skye harbors deep fears about her new identity, her place within S.H.I.E.L.D., and the potential destruction she might cause. She undergoes psychological evaluation to confront the trauma and pain intertwined with her abilities and demonstrates a determined yet fragile resolve to maintain control. Her relationships remain pivotal, especially with May and Dr. Andrew Garner, who serve as her protectors and supports. Skye's evolution reflects a balance between her fierce loyalty and the internal battles she faces, highlighting her resilience and ongoing journey to master her powers while facing external threats and complicated family ties.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "become_field_agent",
+        "goal": "To train and develop as a S.H.I.E.L.D. field agent under supervision"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "gain_emotional_control_over_powers",
+        "goal": "To gain control over her emotional state in order to manage and stabilize her seismic abilities"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "achieve_physical_and_psychological_control_over_powers",
+        "goal": "To gain sustained physical and psychological control over her seismic abilities by addressing underlying trauma and learning to manage her powers safely"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_team_and_pursue_hydra",
+        "goal": "To protect her S.H.I.E.L.D. team while actively opposing HYDRA and seeking justice for fallen comrades"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_15",
+      "context": "expressing her struggle and apology upon losing control of her powers during confrontation with Kree",
+      "catch_phrase": "I can't make it stop. Everyone is at risk."
+    }
+  ]
+}

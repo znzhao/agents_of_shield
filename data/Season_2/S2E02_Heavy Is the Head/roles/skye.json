@@ -1,0 +1,88 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 2
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and dedicated S.H.I.E.L.D. operative whose evolution from a skilled hacker to field agent demonstrates her commitment to her team and mission. She values loyalty and justice deeply, balancing a pragmatic approach with emotional insight. Despite her confidence and proficiency in espionage and tech, she remains sensitive to the toll their struggles take on her allies and the emotional weight of loss. Her inquisitive nature drives her to uncover hidden threats like the Obelisk and the truth behind enigmatic symbols, showing intellectual curiosity beyond her hacking expertise. She also demonstrates growing emotional maturity and empathy, providing support to comrades like Fitz and Hunter while grappling with concern over Coulson's secretive behavior and wellbeing. Skye embodies a blend of toughness and compassion that anchors her integral role within the S.H.I.E.L.D. team as they face persistent Hydra dangers and internal challenges.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "address_hydra_and_cenemy_threat_with_cybertek_technology_and_level_10_assets",
+        "goal": "To investigate and neutralize Hydra threats using recovered assets and advanced technology, while safeguarding key personnel and information"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_and_protect_skye_fathers_identity_and_links_to_hydra",
+        "goal": "To learn the truth about her mysterious father and his connections to Hydra, seeking understanding and protection against related threats"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_and_research_obelisk_and_alien_symbols",
+        "goal": "To investigate the nature and significance of the Obelisk and the strange alien runes associated with it, to better understand its origins and impact"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_10",
+      "context": "taunting Ward upon revealing knowledge of his true allegiance while tipping off authorities",
+      "catch_phrase": "Hail Hydra"
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_13",
+      "context": "expressing concern and support to Coulson about his emotional and physical wellbeing as a leader",
+      "catch_phrase": "You need to loosen up. Try... yoga or something."
+    }
+  ]
+}

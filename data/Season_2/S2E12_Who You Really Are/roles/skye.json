@@ -1,0 +1,85 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 12
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult American hacker and Inhuman operative affiliated with S.H.I.E.L.D., who recently underwent a profound and transformative Terrigenesis that awakened powerful seismic abilities. She struggles with intense emotional turmoil—fear, guilt, and anger—stemming from the uncontrollable nature of her new powers and the loss of her teammates. Despite her insecurities and isolation, she demonstrates resilience and determination to master her evolving abilities. Skye is fiercely loyal to her team and works to balance her human identity with her Inhuman heritage, as she faces external threats posed by Hydra and the Kree. She maintains a close and protective bond with her mentors and teammates, particularly May and Coulson, who support her in managing her powers and emotional struggles. Her experience has deepened her resolve to protect others while navigating the dangers of her transformed self.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "gain_emotional_control_over_powers",
+        "goal": "To gain control over her emotional state in order to manage and stabilize her seismic abilities"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "understand_ancient_kree_experiment_impact",
+        "goal": "To investigate and understand the impact of the ancient Kree genetic experiments and their implications for herself and others transformed by Terrigenesis"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_16",
+      "context": "reacting to the terror of her uncontrollable powers manifesting in isolation",
+      "catch_phrase": "No. No, no, no."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_18",
+      "context": "expressing her struggle and apology upon losing control of her powers during confrontation with Kree",
+      "catch_phrase": "I can't make it stop. Everyone is at risk."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 22
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a resolute and strategic leader within S.H.I.E.L.D., deeply committed to protecting powered individuals and maintaining global security amidst complex intergroup conflicts. Throughout his experiences, he has demonstrated emotional resilience and tactical acumen, balancing personal loyalties with his organizational duties. Coulson has shown a readiness to make difficult sacrifices, including physical ones, to preserve the team's cohesion and safety. His pragmatic leadership style is marked by forward-thinking initiatives, such as preparing a specialized team of powered individuals led by Daisy. Despite enduring physical trauma and strained alliances, Coulson continues to embody unwavering resolve, tactical intelligence, and cautious hope for a future where superpowered beings are managed with secrecy and care to prevent widespread upheaval.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_and_manage_risks_of_enhanced_individuals_amid_rival_threats",
+        "goal": "Protect and manage the risks posed by powered and enhanced individuals caught between Hydra and S.H.I.E.L.D., including securing and controlling volatile targets like Cal and Skye, while navigating complex loyalties and threats."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "establish_and_lead_superpowered_team_with_focus_on_secrecy",
+        "goal": "Establish and lead a team of superpowered individuals operating under secrecy to protect these individuals and manage the consequences of superpowered conflicts, with Daisy as the initial lead."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_26",
+      "context": "confronting Cal about his reckless vengeance and warning him to stay away from Skye",
+      "catch_phrase": "I know, in some insane way, you love your daughter, but I will kill you if you take another step."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_33",
+      "context": "after tensions and flashbacks with Ward, assigning mission roles emphasising team unity despite past wounds",
+      "catch_phrase": "Guys... I know this is so weird, but we have to come back to the mission."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_36",
+      "context": "reassuring Daisy about the necessity and anonymity of a new powered team initiative",
+      "catch_phrase": "If we do this, we need to be anonymous. That's the idea. But it's not if we do this. We have to do this."
+    }
+  ]
+}

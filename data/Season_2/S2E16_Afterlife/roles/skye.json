@@ -1,0 +1,72 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 16
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and Inhuman affiliated with S.H.I.E.L.D. who underwent Terrigenesis, resulting in seismic powers that challenge her physically and emotionally. Her transformation has deepened her feelings of isolation and identity conflict, especially as she confronts the legacy of her lineage and the reality of her powers. In 'Afterlife,' she experiences an intense emotional and physical transition within a secretive Inhuman sanctuary, grappling with resentment towards Raina for past betrayals and the irreversible nature of her change. Despite her resistance and mistrust, she begins to cautiously engage with other Inhumans who share her condition, depicting a complex evolution from fear and anger toward tentative hope and acceptance. Her journey remains defined by a struggle between self-rejection and the search for control, community, and purpose within a divided world.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "sadness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 3
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "accept_and_master_own_inhuman_powers",
+        "goal": "To accept her irreversible Inhuman transformation, learn to control her seismic powers, and find a path to use them positively despite her fears and regrets"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_25",
+      "context": "expressing defiant self-acceptance and acknowledgment of irreversible change within the Inhuman community",
+      "catch_phrase": "I didn't want this."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_20",
+      "context": "expressing vulnerability and plea for friendship amid isolation and uncertainty",
+      "catch_phrase": "Stop. Stop being this S.H.I.E.L.D. guy for just one second, okay? Please. We've been through way too much together. I just need you to be my friend right now."
+    }
+  ]
+}

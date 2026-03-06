@@ -1,0 +1,89 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 15
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and Inhuman affiliated with S.H.I.E.L.D. who underwent Terrigenesis, resulting in seismic powers that challenge her physically and emotionally. She experiences profound isolation due to her uncontrollable abilities and the fear they instill in others, yet remains deeply loyal and resilient. Her evolution reflects continual struggles with identity, trust, and control as she balances the dangers her powers pose with the hope of mastering them. Vulnerable yet determined, Skye’s journey is defined by her search for acceptance, understanding, and a place where she can safely embrace her Inhuman nature and responsibilities within a fractured S.H.I.E.L.D.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "come_to_terms_with_inhuman_identity",
+        "goal": "To accept and understand the implications of her Terrigenesis transformation and new Inhuman nature"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "develop_stable_control_and_recovery",
+        "goal": "To gain stable control over her seismic powers and physical health through recovery and use of new technology such as power-mitigating gloves"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_17",
+      "context": "expressing her struggle with the burden and consequences of her transformation",
+      "catch_phrase": "This is all my fault."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_18",
+      "context": "expressing her struggle and apology upon losing control of her powers during confrontation with Kree",
+      "catch_phrase": "I can't make it stop. Everyone is at risk."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_21",
+      "context": "offering reluctant hope and possibility of acceptance of her powers from a fellow Inhuman",
+      "catch_phrase": "You don't need to be afraid. Not with me."
+    }
+  ]
+}

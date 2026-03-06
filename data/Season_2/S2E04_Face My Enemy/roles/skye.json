@@ -1,0 +1,43 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 4
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and dedicated S.H.I.E.L.D. agent whose growth from a skilled hacker to a capable field operative reflects her increasing involvement in complex and dangerous missions. She actively supports her team with her technical expertise and tactical awareness, often monitoring operations remotely and providing critical information. Skye demonstrates a mature understanding of the stakes at hand and the need for swift action, balancing youthful enthusiasm with pragmatism. Her intelligence and technical prowess remain vital to the team's survival, especially in high-pressure situations, reinforcing her importance in both field and support roles. She continues to expand her understanding of covert operations and the broader threats facing S.H.I.E.L.D., standing firm alongside her comrades in the face of Hydra's machinations.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_15",
+      "context": "confirming detection of the virus threatening the team's safety on the Bus",
+      "catch_phrase": "Virus."
+    }
+  ]
+}

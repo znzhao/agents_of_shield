@@ -1,0 +1,93 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 11
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye, also known as Daisy, is a resilient and resourceful S.H.I.E.L.D. operative with a complex and painful heritage tied to alien origins and the mysterious Kree civilization. She struggles with the gravity of her newly solidified transformation after Terrigenesis, which has granted her powerful seismic abilities but also marked a profound change in her biology and identity. Skye grapples with the emotional burden of her evolving powers and the losses within her team, especially the death of a close comrade. She is fiercely loyal to her team and determined to confront both external threats like HYDRA and internal challenges posed by her own transformation. Despite moments of vulnerability and isolation, she demonstrates growing resilience and a commitment to protect others, navigating the difficult intersection of her humanity and her new Inhuman nature.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "come_to_terms_with_inhuman_identity",
+        "goal": "To accept and understand the implications of her Terrigenesis transformation and new Inhuman nature"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_team_and_pursue_hydra",
+        "goal": "To protect her S.H.I.E.L.D. team while actively opposing HYDRA and seeking justice for fallen comrades"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_16",
+      "context": "reacting to the terror of her uncontrollable powers manifesting in isolation",
+      "catch_phrase": "No. No, no, no."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_17",
+      "context": "expressing her struggle with the burden and consequences of her transformation",
+      "catch_phrase": "This is all my fault."
+    }
+  ]
+}

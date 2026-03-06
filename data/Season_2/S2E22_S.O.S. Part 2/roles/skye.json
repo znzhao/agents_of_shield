@@ -1,0 +1,97 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 22
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resilient and resourceful young Inhuman who embraces the codename Daisy Johnson. She is defined by her fierce loyalty to both her biological and chosen families, grappling with the stark moral complexities of her heritage and her role within S.H.I.E.L.D. Despite enduring betrayals and devastating losses, especially involving her mother Jiaying's radicalism and deceit, Skye grows into a strategic leader with an increased sense of responsibility toward protecting powered individuals. Her journey charts a transition from conflicted daughter caught between warring factions to a determined figure poised to lead and safeguard those like herself, balancing compassion with the hard realities of secret-keeping and covert operations.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    },
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "oppose_maternal_deception_and_end_irreversible_conflict",
+        "goal": "To expose and oppose the deceptive and dangerous leadership of her mother Jiaying that endangers the Inhumans, and to find a path through or beyond the escalating war between Inhumans and S.H.I.E.L.D."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "lead_and_protect_superpowered_team",
+        "goal": "To lead and protect a covert team of super-powered individuals, fostering their abilities while maintaining secrecy to prevent public exposure and backlash"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_secrecy_and_safety_of_inhumans",
+        "goal": "To keep Inhumans and superpowered individuals hidden and safe from external threats, learning from past conflicts to avoid further escalation"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "accept_and_master_own_inhuman_powers",
+        "goal": "To accept her irreversible Inhuman transformation, learn to control her seismic powers, and find a path to use them positively despite her fears and regrets"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_43",
+      "context": "accepting the burden and importance of leading a powered team under secrecy",
+      "catch_phrase": "If we do this, we need to be... anonymous."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_14",
+      "context": "acknowledging the emotional burden of taking a life and growing as a field agent",
+      "catch_phrase": "The threat's been neutralized. Hydra doesn't have him."
+    }
+  ]
+}

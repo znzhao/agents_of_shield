@@ -1,0 +1,70 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 18
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and Inhuman affiliated with S.H.I.E.L.D. and the Afterlife community. Having undergone Terrigenesis, she possesses seismic powers that continuously challenge her control and emotional balance. Her journey is deeply marked by her search for belonging and family, particularly as she navigates complex relationships with her biological parents—Jiaying and Cal—while balancing loyalties between S.H.I.E.L.D. and the Inhuman community. Skye is empathetic yet strong-willed, showing compassion especially for those she considers family. Her past trauma and years of isolation fuel her persistent drive to connect and protect others, even as she struggles with doubt and danger posed by her powers and the broader conflicts around her. Her evolving identity is rooted in embracing her heritage, mastering her abilities, and seeking peace between conflicting factions and personal ties.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "accept_motherly_mentorship_and_inhuman_culture",
+        "goal": "To accept Jiaying's mentorship, learn to control her seismic powers through Inhuman traditions, and find a sense of belonging and identity within the Afterlife community"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "manage_family_relationships_and_forgiveness",
+        "goal": "To reconcile and manage complex relationships with her biological parents Jiaying and Cal, seeking understanding and forgiveness while protecting those she cares about"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_others_from_cal's_danger_and_navigating_dangerous_loyalties",
+        "goal": "To protect others from the potential danger posed by her unstable father Cal while navigating conflicting loyalties between S.H.I.E.L.D., Inhumans, and Hydra threats"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_21",
+      "context": "offering reluctant hope and possibility of acceptance of her powers from a fellow Inhuman",
+      "catch_phrase": "You don't need to be afraid. Not with me."
+    }
+  ]
+}

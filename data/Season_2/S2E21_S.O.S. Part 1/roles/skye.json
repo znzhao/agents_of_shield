@@ -1,0 +1,90 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 21
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined young Inhuman with seismic powers, navigating complex legacies as the daughter of Jiaying and Cal. She is fiercely loyal to those she considers family, driven by a deep compassion and strong sense of justice. Skye balances her emerging superhuman abilities with her hacker skills and field experience, struggling to reconcile her roots within the Inhuman community and her allegiance to S.H.I.E.L.D. Her journey involves significant emotional turbulence, as she faces the brutality of betrayal and the harsh realities of leadership conflict. She increasingly grapples with the moral quandaries posed by her mother's ruthless actions and the looming war between Inhumans and S.H.I.E.L.D. This strife cultivates a growing resolve in Skye to challenge deception, seek truth, and ultimately play a pivotal role in bridging or deciding the fate of her divided worlds.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "rebuild_team_trust_and_mission_focus",
+        "goal": "To rebuild strained trust and cohesion within her S.H.I.E.L.D. team and focus on shared objectives despite past betrayals and interpersonal tensions"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "mediate_between_shield_and_inhumans",
+        "goal": "To mediate and prevent violent conflict between S.H.I.E.L.D. and the Inhuman community by leveraging her unique familial and organizational ties"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "oppose_maternal_deception_and_end_irreversible_conflict",
+        "goal": "To expose and oppose the deceptive and dangerous leadership of her mother Jiaying that endangers the Inhumans, and to find a path through or beyond the escalating war between Inhumans and S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_31",
+      "context": "confronting escalating conflict in family and political loyalties and betrayal",
+      "catch_phrase": "You killed Gonzales. You want a war."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_29",
+      "context": "confronting escalating conflict in family and political loyalties",
+      "catch_phrase": "This is war."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 17
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a dedicated and strategic S.H.I.E.L.D. agent whose leadership blends tactical intelligence with a deeply human understanding of the extraordinary individuals under his care. Throughout his career, he has faced difficult moral decisions involving powered beings, balancing operational imperatives with empathy. His past experience working intimately with gifted individuals, including missions revealing the origins and struggles of Inhumans, has shaped his measured yet resolute approach. Coulson is marked by his ability to maintain calm under pressure, his unwavering loyalty to his team, and his willingness to confront painful realities to protect both his agents and innocents. He leads with pragmatism and compassion, aware of the sacrifices such leadership demands.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "recover_and_protect_transformed_and_injured_inhumans",
+        "goal": "Recover and protect transformed and injured Inhumans like Skye and Raina, aiding their control and acceptance while understanding their dual threats and vulnerabilities"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "investigate_and_manage_threats_posed_by_gifted_and_enhanced_individuals",
+        "goal": "Investigate and manage threats posed by gifted and enhanced individuals, balancing containment and protection while uncovering the truth behind secretive projects like Theta Protocol."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_29",
+      "context": "comforting Skye while moving her to a safe house and expressing trust in her",
+      "catch_phrase": "Because you're one of the few people I know I can trust."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_32",
+      "context": "encouraging May to trust in her capability and mission during a tense hostage situation in Bahrain",
+      "catch_phrase": "If they go in, it's gonna be an assault. People will die. I can do this."
+    }
+  ]
+}

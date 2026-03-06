@@ -1,0 +1,89 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 20
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined young Inhuman with seismic powers, navigating complex legacies as the daughter of Jiaying and Cal. She is fiercely loyal to those she considers family, driven by a deep compassion and strong sense of justice. Skye balances her emerging superhuman abilities with her hacker skills and field experience, struggling to reconcile her roots within the Inhuman community and her allegiance to S.H.I.E.L.D. Her journey is marked by personal resilience and courage in the face of trauma, betrayal, and dangerous missions, continuously fighting to protect vulnerable allies and unify fractured relationships. In recent developments, she has taken on the difficult role of mediator between S.H.I.E.L.D. and the Inhuman community, leveraging her unique position to try to prevent open conflict, and facing the painful reality of her mother's escalating hostility toward S.H.I.E.L.D., which has intensified her internal conflicts and loyalties.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_inhumans_and_allies_from_hydra_threats",
+        "goal": "To actively protect Inhumans and close allies from Hydra's capture and experimentation, including risking personal involvement in dangerous rescue operations"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "mediate_between_shield_and_inhumans",
+        "goal": "To mediate and prevent violent conflict between S.H.I.E.L.D. and the Inhuman community by leveraging her unique familial and organizational ties"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "gain_peace_and_trust_bridging_inhumans_and_humans",
+        "goal": "To gain trust and achieve peaceful coexistence between Inhumans and S.H.I.E.L.D. through negotiation, understanding, and communication"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_29",
+      "context": "confronting escalating conflict in family and political loyalties",
+      "catch_phrase": "This is war."
+    }
+  ]
+}

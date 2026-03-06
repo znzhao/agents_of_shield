@@ -1,0 +1,65 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 8
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined S.H.I.E.L.D. field agent and skilled hacker, striving to uncover her mysterious origins and the true significance of alien technology linked to her past. She navigates complex loyalties, including a difficult connection with her father, who emerges as a morally ambiguous figure intertwined with Hydra. Despite personal and emotional challenges, she remains committed to S.H.I.E.L.D. and her mission to find the hidden city connected to the Diviner and the alien Obelisk. Her experiences have deepened her resilience and sharpened her tactical skills in high-stakes operations.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "locate_skye_father",
+        "goal": "To locate and understand Skye's father, uncover his current motivations and threats, and determine the impact on herself and S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_15",
+      "context": "sarcastic remark on surveillance and scrutiny during investigations",
+      "catch_phrase": "Do I look like I've been sleeping?"
+    }
+  ]
+}

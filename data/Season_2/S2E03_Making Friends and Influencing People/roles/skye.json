@@ -1,0 +1,48 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 3
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and dedicated S.H.I.E.L.D. operative whose evolution from a skilled hacker to a capable field agent demonstrates her growing competence and emotional resilience. She balances her technical expertise with increasing proficiency in combat and tactical operations, embracing the difficult realities and moral complexities of fieldwork. Despite her inherent compassion and loyalty to her team, she confronts harsh truths about the costs of their fight and the darker facets of intelligence work, including executing lethal force when necessary. Skye’s inquisitive nature and commitment to uncovering truth drive her to challenge adversaries directly, while her vulnerability surfaces in her emotional responses to betrayals and revelations about her family heritage. Her determination and guarded optimism remain central to her role as a linchpin in the reformed S.H.I.E.L.D. resistance against Hydra and other threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "combat",
+      "level": 4
+    }
+  ],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_14",
+      "context": "acknowledging the emotional burden of taking a life and growing as a field agent",
+      "catch_phrase": "The threat's been neutralized. Hydra doesn't have him."
+    }
+  ]
+}

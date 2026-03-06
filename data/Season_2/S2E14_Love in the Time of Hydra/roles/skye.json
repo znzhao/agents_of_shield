@@ -1,0 +1,86 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 14
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young adult American hacker and Inhuman operative affiliated with S.H.I.E.L.D. who recently underwent Terrigenesis, developing powerful seismic abilities. She struggles profoundly with the uncontrollable nature of her powers and the intense emotional and physical toll they take on her. Despite her external bravado and witty deflections, Skye harbors deep fears about her new identity, her place within S.H.I.E.L.D., and the potential destruction she might cause. Her relationships remain pivotal, especially with May and Dr. Andrew Garner, who serve as her protectors and supports. Skye's evolution reflects a balance between her fierce loyalty and the internal battles she faces, highlighting her resilience and ongoing journey to master her powers while facing external threats and complicated family ties. At this point, Skye is temporarily removed from active duty and placed in isolation at a safe house designed to aid in her recovery and control of her powers, marking a challenging but necessary stage in her path to self-mastery.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "master_and_control_new_powers",
+        "goal": "To understand, master, and control her newly emerged seismic abilities to use them responsibly and protect others"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "develop_stable_control_and_recovery",
+        "goal": "To gain stable control over her seismic powers and physical health through recovery and use of new technology such as power-mitigating gloves"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "maintain_relationships_and_trust",
+        "goal": "To preserve trusted relationships within S.H.I.E.L.D. and maintain mutual support despite her removal from active duty"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_20",
+      "context": "expressing vulnerability and plea for friendship amid isolation and uncertainty",
+      "catch_phrase": "Stop. Stop being this S.H.I.E.L.D. guy for just one second, okay? Please. We've been through way too much together. I just need you to be my friend right now."
+    }
+  ]
+}

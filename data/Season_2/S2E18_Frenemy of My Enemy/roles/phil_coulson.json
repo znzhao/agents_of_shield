@@ -1,0 +1,60 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 18
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a dedicated and strategic S.H.I.E.L.D. agent whose leadership blends tactical intelligence with a deeply human understanding of the extraordinary individuals under his care. Throughout his career, he has faced difficult moral decisions involving powered beings, balancing operational imperatives with empathy. His past experience working intimately with gifted individuals, including missions unveiling the origins and struggles of Inhumans, has shaped his measured yet resolute approach. Coulson is marked by his ability to maintain calm under pressure, his unwavering loyalty to his team, and his willingness to confront painful realities to protect both his agents and innocents. He leads with pragmatism and compassion, aware of the sacrifices such leadership demands. Recently, he has become more willing to embrace unconventional alliances and difficult choices to combat larger threats, indicating his evolving pragmatism and adaptive leadership in complex conflict.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "locate_and_reclaim_skye_and_reestablish_shield_command",
+        "goal": "Locate and reclaim Skye who is taken by unknown powered individuals, secure support from allies, and take back control of S.H.I.E.L.D. from the Gonzales faction"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "infiltrate_and_take_down_hydra_headquarters_strategically_using_former_enemies",
+        "goal": "Infiltrate and take down Hydra's leadership, specifically Strucker and List, through strategic alliances such as recruiting Grant Ward and leveraging inside agents like Bakshi, balancing trust and risk in a high-stakes operation."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_and_manage_risks_of_enhanced_individuals_amid_rival_threats",
+        "goal": "Protect and manage the risks posed by powered and enhanced individuals caught between Hydra and S.H.I.E.L.D., including securing and controlling volatile targets like Cal and Skye, while navigating complex loyalties and threats."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "counter_hydra_threat_to_powered_people_and_inhumans",
+        "goal": "Counter Hydra's ongoing threats specifically targeting powered people and Inhumans, using intelligence and force to prevent further exploitation and harm"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_31",
+      "context": "revealing his resolve to find Skye and take back S.H.I.E.L.D. despite overwhelming odds",
+      "catch_phrase": "We're not surrendering. We're gonna find Skye and I'm gonna take back S.H.I.E.L.D., and we're gonna need more than honest Eddie's jeep to do it."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 9
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined S.H.I.E.L.D. field agent and skilled hacker, driven by a deep need to understand her mysterious origins and the true significance of alien technology linked to her past. Her complex lineage, involving her violent and misunderstood father, adds layers of emotional conflict and resilience to her character. Throughout her journey, she grapples with trust issues, unpredictable alliances, and the burden of destiny connected to the Kree and the ancient city that the Obelisk reveals. Skye's courage and tactical acumen are tested repeatedly as she seeks to protect her team and uncover hidden truths, balancing vulnerability with a growing sense of purpose in the broader cosmic struggle.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

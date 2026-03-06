@@ -1,0 +1,46 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 7
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined S.H.I.E.L.D. agent whose journey involves deep personal challenges related to her mysterious origins and fractured family ties. Beyond her expertise as a skilled hacker and field operative, she has become an essential team member in investigations linking alien technology, the T.A.H.I.T.I. project, and dangerous Hydra plots. She remains committed to uncovering the truth about her origins and the significance of the alien carvings, showing resilience and growing emotional maturity in confronting threats and internal team struggles, including ongoing manipulation attempts by Grant Ward. Skye's loyalty to S.H.I.E.L.D. and her moral compass continue to drive her mission, even amid uncertainty and rising enemy pressure.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "investigate_and_understand_alien_writing_and_blueprint",
+        "goal": "To decode and understand the alien carvings as blueprints to a hidden city, learning their full significance and implications"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "uncover_and_research_obelisk_and_alien_symbols",
+        "goal": null
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_15",
+      "context": "sarcastic remark on surveillance and scrutiny during investigations",
+      "catch_phrase": "Do I look like I've been sleeping?"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 19
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a stalwart leader of S.H.I.E.L.D., navigating complex internal divisions and external threats with strategic acumen and deep commitment to his team and mission. His leadership is marked by pragmatism, careful risk assessment, and a readiness to work with uneasy allies to combat Hydra’s dangerous experiments on powered individuals. Despite personal betrayals and strained loyalties within his team, Coulson strives to hold the fractured organization together by focusing on clear objectives, operational discipline, and transparent communication when possible. He balances strong tactical decision-making with an understanding of the emotional dynamics among his agents, showing willingness to support and reconcile with them even as he guards critical secrets like Theta Protocol. His evolving approach reveals a leader increasingly burdened by secrecy but driven by urgency to rescue those endangered by Hydra’s ambitions.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "infiltrate_and_take_down_hydra_headquarters_strategically_using_former_enemies",
+        "goal": "Infiltrate and take down Hydra's leadership, specifically Strucker and List, through strategic alliances such as recruiting Grant Ward and leveraging inside agents like Bakshi, balancing trust and risk in a high-stakes operation."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "rescue_and_protect_enhanced_prisoners_from_hydra_arctic_base",
+        "goal": "Lead a focused mission to infiltrate Hydra's Arctic research base, rescue enhanced prisoners like Deathlok and Lincoln, and disable Hydra's defensive systems before Gonzales' jets destroy the facility to prevent further unethical experiments."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_27",
+      "context": "motivating the team to focus and prepare for a high-risk mission against Hydra despite recent losses",
+      "catch_phrase": "If Trip was here, he wouldn't be arguing. He wouldn't be bitching. He would be gearing up to do what needs to be done."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_33",
+      "context": "after tensions and flashbacks with Ward, assigning mission roles emphasising team unity despite past wounds",
+      "catch_phrase": "Guys... I know this is so weird, but we have to come back to the mission."
+    }
+  ]
+}

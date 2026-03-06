@@ -1,0 +1,74 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 5
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined S.H.I.E.L.D. agent whose journey involves deep personal challenges related to her mysterious origins and fractured family ties. She has evolved from a skilled hacker to a courageous field operative willing to confront difficult truths and threats directly. Skye seeks honesty and transparency in her relationships, especially with Coulson, and is driven by a resolute desire to stop dangerous forces, including her own father, whom she now views with suspicion and condemnation. Her intelligence and tactical acumen continue to be central to the team's efforts against Hydra, while her emotional resilience grows as she grapples with revelations about alien DNA and S.H.I.E.L.D.'s covert actions surrounding her. Skye's character embodies the tension between personal identity and mission, embracing both vulnerability and strength as she stands firm in her allegiance and purpose.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "stop_skye_father_and_protect_sheild",
+        "goal": "To stop Skye's father who possesses the Obelisk and to protect S.H.I.E.L.D. from his dangerous influence and Hydra's plans."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "accept_own_past_and_build_new_foundation",
+        "goal": "To come to terms with the painful truth of her origins and recognize S.H.I.E.L.D. as her true family and support system"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_11",
+      "context": "expressing determination to confront and stop Garrett and Ward",
+      "catch_phrase": "I'll be damned if I'm gonna let Garrett and Ward get away with murder."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_13",
+      "context": "expressing concern and support to Coulson about his emotional and physical wellbeing as a leader",
+      "catch_phrase": "You need to loosen up. Try... yoga or something."
+    }
+  ]
+}

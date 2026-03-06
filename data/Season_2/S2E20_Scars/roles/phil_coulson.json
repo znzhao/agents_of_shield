@@ -1,0 +1,74 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 20
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and pragmatic leader deeply committed to protecting humanity and the delicate balance between powered individuals and global security. He navigates complex organizational politics within S.H.I.E.L.D., striving to unify fractured factions while managing immense burdens of secrecy and trust. Coulson's leadership is defined by strategic vision, tempered by emotional intelligence and a willingness to reconcile personal loyalties with professional duties. His role as director involves managing emerging threats from Inhumans and Hydra alike, emphasizing diplomacy and understanding to avoid unnecessary conflict, yet prepared for decisive action when required. Throughout his experiences, Coulson has evolved into a resilient, pragmatic commander, bearing the weight of past mistakes and carrying hope for a more stable future.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 1
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "contain_and_manage_aftermath_of_alien_terraforming_and_transformations",
+        "goal": "Contain and manage the aftermath of the alien city’s Terrigenesis transformations, including new Inhumans like Skye and the threat posed by Raina’s monstrous change, while rallying the team to counter Hydra’s destabilization efforts"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "unify_SHIELD_factions_and_strengthen_organization",
+        "goal": "Unify the fractured S.H.I.E.L.D. factions under a single leadership structure to strengthen organizational integrity and effectiveness in facing internal and external threats."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "rescue_and_protect_enhanced_prisoners_from_hydra_arctic_base",
+        "goal": "Lead a focused mission to infiltrate Hydra's Arctic research base, rescue enhanced prisoners like Deathlok and Lincoln, and disable Hydra's defensive systems before Gonzales' jets destroy the facility to prevent further unethical experiments."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "-",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "-",
+      "id": "catchphrase_28",
+      "context": "confronting Cal at Manitowoc High School and emphasizing the mission despite personal ties",
+      "catch_phrase": "Fight on."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 21
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and pragmatic leader deeply committed to protecting humanity and the delicate balance between powered individuals and global security. He navigates complex organizational politics within S.H.I.E.L.D., striving to unify fractured factions while managing immense burdens of secrecy and trust. Coulson's leadership is defined by strategic vision, tempered by emotional intelligence and a willingness to reconcile personal loyalties with professional duties. His role as director involves managing emerging threats from Inhumans and Hydra alike, emphasizing diplomacy and understanding to avoid unnecessary conflict, yet prepared for decisive action when required. Throughout his experiences, Coulson has evolved into a resilient, pragmatic commander, bearing the weight of past mistakes and carrying hope for a more stable future. This evolution is marked by enduring resolve to protect even those close to him, such as his cautious hope for Cal despite his dangerous instability, and his refusal to sacrifice agents like Skye without due consideration. However, his leadership also faces increasing challenges from infiltration and internal betrayal, reinforcing his vigilance and strategic caution.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_34",
+      "context": "confronting Cal about his dangerous drug ingestion to gain strength and protect Daisy",
+      "catch_phrase": "You're here to take out some S.H.I.E.L.D. agents."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_35",
+      "context": "acknowledging Ward's complex hidden self and betrayal during confrontation with Bobbi and Agent 33",
+      "catch_phrase": "You know, you and I are a lot alike, both of us living one life on the outside. But who we really are, we keep that buried deep inside where no one can ever find it."
+    }
+  ]
+}

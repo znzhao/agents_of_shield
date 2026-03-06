@@ -1,0 +1,67 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 1
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a highly skilled hacker and vital operative within S.H.I.E.L.D., deeply committed to the protection of her team and the pursuit of justice. She demonstrates resilience and strategic acumen, balancing field operations with intelligence gathering and technological analysis. Skye has evolved from a curious outsider into a valued and trusted member of the agency, often taking on interrogative roles and direct field action. Her inquisitive nature and determination to uncover hidden threats and protect her allies continue to shape her role within the team, while dealing with the emotional complexities of past betrayals and ongoing dangers.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "confront_project_TAHTI_truths_and_its_consequences",
+        "goal": "To understand the full scope and ethical implications of Project T.A.H.I.T.I., learning from its secrets to guide future decisions and actions"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_skye_and_support_team_against_Hydra",
+        "goal": "To survive Hydra's betrayal and protect team members, especially by leveraging her hacking skills to thwart Hydra's plans and support Coulson's mission"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "pursue_and_confront_ward_and_garrett",
+        "goal": "To track down and confront Grant Ward and John Garrett as part of dismantling Hydra and seeking justice for their betrayals and crimes"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "confront_garrett_and_hydra_threats",
+        "goal": "To confront and overcome John Garrett and dismantle Hydra's operations to protect her team and the world"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "address_hydra_and_cenemy_threat_with_cybertek_technology_and_level_10_assets",
+        "goal": "To investigate and neutralize Hydra threats using recovered assets and advanced technology, while safeguarding key personnel and information"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_and_protect_skye_fathers_identity_and_links_to_hydra",
+        "goal": "To learn the truth about her mysterious father and his connections to Hydra, seeking understanding and protection against related threats"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

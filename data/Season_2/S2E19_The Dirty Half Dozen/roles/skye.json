@@ -1,0 +1,87 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 19
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a resourceful and determined young Inhuman with seismic powers, navigating complex legacies as the daughter of Jiaying and Cal. She is fiercely loyal to those she considers family, driven by a deep compassion and strong sense of justice. Skye balances her emerging superhuman abilities with her hacker skills and field experience, struggling to reconcile her roots within the Inhuman community and her allegiance to S.H.I.E.L.D. Her journey is marked by personal resilience and courage in the face of trauma, betrayal, and dangerous missions, continuously fighting to protect vulnerable allies and unify fractured relationships.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "manage_family_relationships_and_forgiveness",
+        "goal": "To reconcile and manage complex relationships with her biological parents Jiaying and Cal, seeking understanding and forgiveness while protecting those she cares about"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_others_from_cal's_danger_and_navigating_dangerous_loyalties",
+        "goal": "To protect others from the potential danger posed by her unstable father Cal while navigating conflicting loyalties between S.H.I.E.L.D., Inhumans, and Hydra threats"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "maintain_relationships_and_trust",
+        "goal": "To preserve trusted relationships within S.H.I.E.L.D. and maintain mutual support despite her removal from active duty"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_inhumans_and_allies_from_hydra_threats",
+        "goal": "To actively protect Inhumans and close allies from Hydra's capture and experimentation, including risking personal involvement in dangerous rescue operations"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "rebuild_team_trust_and_mission_focus",
+        "goal": "To rebuild strained trust and cohesion within her S.H.I.E.L.D. team and focus on shared objectives despite past betrayals and interpersonal tensions"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

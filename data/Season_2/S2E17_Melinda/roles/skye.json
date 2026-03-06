@@ -1,0 +1,67 @@
+{
+  "timestamp": {
+    "season": 2,
+    "episode": 17
+  },
+  "role_id": "skye",
+  "first_name": "Skye",
+  "last_name": null,
+  "description": "Skye is a young American hacker and Inhuman affiliated with S.H.I.E.L.D. who underwent Terrigenesis, resulting in seismic powers that challenge her physically and emotionally. Her transformation has deepened her feelings of isolation and identity conflict, especially as she confronts the legacy of her lineage and the reality of her powers. Through her experiences, Skye has begun acceptance and control of her abilities, fostered by new mentorship from Jiaying, her mother, which opens possibilities for belonging and healing. Her journey continues to be defined by a struggle to reconcile her past trauma and mistrust with a cautiously growing hope for family, community, and mastery over her seismic gifts.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "accept_motherly_mentorship_and_inhuman_culture",
+        "goal": "To accept Jiaying's mentorship, learn to control her seismic powers through Inhuman traditions, and find a sense of belonging and identity within the Afterlife community"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}
