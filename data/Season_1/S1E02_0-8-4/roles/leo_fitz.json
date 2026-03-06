@@ -1,0 +1,53 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 2
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a brilliant and meticulous engineer and scientist with a deep passion for understanding complex technologies and phenomena. Though introverted and sometimes socially awkward, he is loyal and dedicated to the team's success, often stepping up in high-pressure situations to apply his technical expertise. His intelligence and technical acumen anchor the group's scientific efforts, especially in deciphering alien or advanced artifacts. Throughout the team's early missions, Fitz demonstrates a growing confidence in field operations despite initial reservations, and a developing trust and camaraderie with his teammates, particularly Simmons. His cautious pragmatism balances the risks inherent in their work, while his dry wit occasionally lightens tense moments. Fitz represents the cerebral core of the team, instrumental in both problem-solving and tactical planning, even while navigating interpersonal challenges and security threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": {
+    "arousal": 6
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

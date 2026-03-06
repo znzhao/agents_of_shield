@@ -1,0 +1,107 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "aliases": [],
+  "demographics": {
+    "state": "normal",
+    "appearance": "normal",
+    "age": "young_adult",
+    "sex": "m",
+    "sexual_orientation": null,
+    "nationality": "British",
+    "religion": null,
+    "occupation": "engineer",
+    "affiliation": [
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": -3,
+    "sensing": 8,
+    "thinking": 9,
+    "judging": 4
+  },
+  "skills": {
+    "physical_fitness": 4,
+    "combat": 2,
+    "espionage": 3,
+    "stealth": 2,
+    "hacking": 5,
+    "negotiation": 4,
+    "leadership": 3,
+    "field_medicine": 3,
+    "intelligence": 10,
+    "research": 9,
+    "decision_making": 5,
+    "mechanical_repair": 9
+  },
+  "emotions": {
+    "core": {
+      "happiness": 3,
+      "sadness": 1,
+      "anger": 1,
+      "fear": 2,
+      "disgust": 0,
+      "shocked": 2
+    },
+    "mood": {
+      "calmness_anxiety": 1,
+      "loneliness_connection": 4,
+      "despair_hope": 4,
+      "helplessness_confidence": 5
+    },
+    "self_state": {
+      "self_worth": 6,
+      "social_trust": 5,
+      "guilt": 0,
+      "shame": 0,
+      "hostility": 0,
+      "resentment": 0
+    },
+    "intensity": {
+      "arousal": 5
+    }
+  },
+  "core_values": {
+    "honesty": 7,
+    "compassion": 5,
+    "violence": -6,
+    "justice": 8,
+    "loyalty": 7,
+    "courage": 6,
+    "freedom": 5,
+    "order": 8,
+    "self_interest": 1,
+    "pragmatism": 8,
+    "kindness": 6
+  },
+  "goals": [
+    {
+      "goal_id": "advance_technology_for_good",
+      "goal": "Develop and apply technology to aid the team and protect others."
+    },
+    {
+      "goal_id": "support_s_h_i_e_l_d_missions",
+      "goal": "Use skills to assist S.H.I.E.L.D.'s investigations and operations."
+    },
+    {
+      "goal_id": "help_contain_centiipede_threat",
+      "goal": "Help to understand and mitigate the danger posed by the Centipede project."
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": 3,
+    "recklessness_carefulness": 8,
+    "humor": 2,
+    "attractiveness": 2,
+    "mystery": 2
+  },
+  "description": "Leo Fitz is a highly intelligent and technically gifted engineer affiliated with S.H.I.E.L.D. Focused on research and innovation, he excels at mechanical repair, technical problem solving, and digital analysis. Introverted and thoughtful, Fitz approaches challenges carefully and pragmatically, often working behind the scenes to provide the team with essential technological insights. While not physically dominant, he demonstrates moderate courage and loyalty to his team, driven by a strong ethical compass and a desire to use science for the greater good. His interactions reflect a dry wit and a reserved warmth, making him an indispensable technical mind within a covert operations environment.",
+  "catch_phrases": []
+}

@@ -1,0 +1,48 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 2
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a committed and highly capable S.H.I.E.L.D. agent specializing in covert operations and combat, known for his pragmatism, strict discipline, and loyalty. Traditionally a lone operator with strong confidence in his abilities, he exhibits frustration with teammates he perceives as less combat-ready or cautious. Throughout his assignments, he has begun slowly adapting to working within a team, acknowledging the necessity of cooperation despite personal reservations. Ward also possesses linguistic skills and a strategic mindset developed through experience in war zones. His interactions with allies and new recruits reveal a guarded, complex personality reluctant to fully open up but capable of mentorship and tactical leadership. He balances a tough exterior with a nuanced perspective on loyalty and violence, committed to protecting the world while navigating shifting allegiances and emerging challenges within S.H.I.E.L.D.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_1",
+      "context": "while discussing teamwork and initial mission coordination",
+      "catch_phrase": "No turning back. No freezing up."
+    }
+  ]
+}

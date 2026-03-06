@@ -1,0 +1,109 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "aliases": [
+    "Agent Grant Ward"
+  ],
+  "demographics": {
+    "state": "healthy",
+    "appearance": "normal",
+    "age": "young_adult",
+    "sex": "m",
+    "sexual_orientation": "heterosexual",
+    "nationality": "American",
+    "religion": null,
+    "occupation": "S.H.I.E.L.D. Agent",
+    "affiliation": [
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": 3,
+    "sensing": 7,
+    "thinking": 8,
+    "judging": 7
+  },
+  "skills": {
+    "physical_fitness": 9,
+    "combat": 9,
+    "espionage": 8,
+    "stealth": 7,
+    "hacking": 4,
+    "negotiation": 5,
+    "leadership": 6,
+    "field_medicine": 3,
+    "intelligence": 6,
+    "research": 4,
+    "decision_making": 7,
+    "mechanical_repair": 3
+  },
+  "emotions": {
+    "core": {
+      "happiness": 2,
+      "sadness": 1,
+      "anger": 3,
+      "fear": 2,
+      "disgust": 1,
+      "shocked": 1
+    },
+    "mood": {
+      "calmness_anxiety": 1,
+      "loneliness_connection": 3,
+      "despair_hope": 2,
+      "helplessness_confidence": 6
+    },
+    "self_state": {
+      "self_worth": 6,
+      "social_trust": 4,
+      "guilt": 2,
+      "shame": 2,
+      "hostility": 3,
+      "resentment": 3
+    },
+    "intensity": {
+      "arousal": 6
+    }
+  },
+  "core_values": {
+    "honesty": 5,
+    "compassion": 2,
+    "violence": 6,
+    "justice": 5,
+    "loyalty": 8,
+    "courage": 7,
+    "freedom": 4,
+    "order": 7,
+    "self_interest": 3,
+    "pragmatism": 8,
+    "kindness": 1
+  },
+  "goals": [
+    {
+      "goal_id": "protect_world",
+      "goal": "To protect the world and maintain secrecy from threats like Rising Tide and dangerous technologies."
+    },
+    {
+      "goal_id": "find_and_control_gifted",
+      "goal": "Locate and control individuals with enhanced abilities to prevent misuse."
+    },
+    {
+      "goal_id": "support_team_operations",
+      "goal": "Support Coulson's team operations and execute high-risk missions effectively."
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": -2,
+    "recklessness_carefulness": 4,
+    "humor": 2,
+    "attractiveness": 3,
+    "mystery": 5
+  },
+  "description": "Grant Ward is a highly skilled, young adult male agent of S.H.I.E.L.D., serving as a specialist in covert operations, combat, and espionage. Trained from an early stage as a lone operator, Ward embodies a pragmatic, disciplined, and pragmatic mindset with a strong adherence to order and loyalty, though social skills are notably limited. He displays controlled confidence with an underlying emotional complexity, showing both a capacity for violence and a reluctant sense of compassion. His personality blends a strategic thinker with tactical precision, favoring practical results over emotional expression. Despite a hard exterior, Ward is beginning to engage with teamwork reluctantly, indicating a potential for growth in trust and collaboration. He values justice and loyalty highly but is shaped by a pragmatic streak and a tough approach to his duties, sometimes at the cost of interpersonal warmth. Overall, Ward's essence lies in being a reliable, efficient operative who balances competence with a guarded vulnerability, anchored by his commitment to protecting the world from emerging threats and supporting his team.",
+  "catch_phrases": []
+}

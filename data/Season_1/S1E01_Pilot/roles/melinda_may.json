@@ -1,0 +1,109 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "aliases": [
+    "The Cavalry"
+  ],
+  "demographics": {
+    "state": "normal",
+    "appearance": "normal",
+    "age": "adult",
+    "sex": "f",
+    "sexual_orientation": null,
+    "nationality": "American",
+    "religion": null,
+    "occupation": "S.H.I.E.L.D. agent",
+    "affiliation": [
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": -3,
+    "sensing": 6,
+    "thinking": 7,
+    "judging": 8
+  },
+  "skills": {
+    "physical_fitness": 9,
+    "combat": 10,
+    "espionage": 7,
+    "stealth": 8,
+    "hacking": 3,
+    "negotiation": 6,
+    "leadership": 7,
+    "field_medicine": 6,
+    "intelligence": 7,
+    "research": 5,
+    "decision_making": 8,
+    "mechanical_repair": 4
+  },
+  "emotions": {
+    "core": {
+      "happiness": 2,
+      "sadness": 1,
+      "anger": 3,
+      "fear": 4,
+      "disgust": 2,
+      "shocked": 3
+    },
+    "mood": {
+      "calmness_anxiety": 3,
+      "loneliness_connection": -2,
+      "despair_hope": 2,
+      "helplessness_confidence": 7
+    },
+    "self_state": {
+      "self_worth": 7,
+      "social_trust": 3,
+      "guilt": 4,
+      "shame": 1,
+      "hostility": 2,
+      "resentment": 3
+    },
+    "intensity": {
+      "arousal": 7
+    }
+  },
+  "core_values": {
+    "honesty": 7,
+    "compassion": 5,
+    "violence": 5,
+    "justice": 8,
+    "loyalty": 9,
+    "courage": 9,
+    "freedom": 3,
+    "order": 7,
+    "self_interest": 2,
+    "pragmatism": 8,
+    "kindness": 4
+  },
+  "goals": [
+    {
+      "goal_id": "protect_team",
+      "goal": "Support and protect her S.H.I.E.L.D. team and their mission."
+    },
+    {
+      "goal_id": "support_coulson_leadership",
+      "goal": "Assist Agent Coulson in leading the team and making critical decisions."
+    },
+    {
+      "goal_id": "ensure_mission_success",
+      "goal": "Ensure successful completion of S.H.I.E.L.D. operations, including investigations and field missions."
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": -3,
+    "recklessness_carefulness": 8,
+    "humor": -2,
+    "attractiveness": 4,
+    "mystery": 6
+  },
+  "description": "Melinda May is an elite, highly skilled S.H.I.E.L.D. agent known both for her exceptional combat ability and her calm, calculated approach in the field. Nicknamed 'The Cavalry' for her prowess and efficiency, she balances a tough, somewhat intimidating presence with a deep loyalty and protective nature toward her team. May is pragmatic and disciplined, often reluctant to engage emotionally but committed to the mission and the people she serves. Her expertise in decision-making, leadership, and physical combat make her an essential operative for high-risk field operations and overseeing team safety. Despite a reserved demeanor, she shows strong compassion beneath her tough exterior, often acting as the unwavering backbone of the team.",
+  "catch_phrases": []
+}

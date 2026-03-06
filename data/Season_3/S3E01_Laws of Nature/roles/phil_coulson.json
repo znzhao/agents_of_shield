@@ -6,79 +6,26 @@
   "role_id": "phil_coulson",
   "first_name": "Phil",
   "last_name": "Coulson",
-  "description": "Phil Coulson is a resilient and strategically minded S.H.I.E.L.D. agent, known for his unwavering leadership and compassionate approach toward Inhumans and alien threats. He balances pragmatic decision-making with deep empathy, especially toward those struggling with transformation or trauma. Despite immense organizational fractures and personal losses, Coulson remains focused on protecting his team and advancing S.H.I.E.L.D.'s mission. His tactical acumen and calm under pressure facilitate crucial alliances and confrontations with both human and superhuman adversaries, underscoring his role as a steadfast and inspirational figure in a world increasingly complicated by emerging Inhumans and covert threats.",
+  "description": "Phil Coulson is a steadfast and resourceful leader within S.H.I.E.L.D., dedicated to protecting emerging superpowered individuals known as Inhumans and navigating complex threats involving human and alien elements. He balances pragmatic intelligence and emotional resilience, managing internal team dynamics and external dangers with determination and strategic acumen. Despite physical losses and organizational upheavals, Coulson remains committed to uncovering hidden adversaries and securing the future of his team and the powered community, blending cautious hope with unwavering resolve.",
   "aliases": [],
   "affiliations": [],
   "superpowers": [],
   "demographics": null,
   "personality": [],
   "skills": [],
-  "core_emotions": [
-    {
-      "action": "+",
-      "emotion": "fear",
-      "level": 1
-    },
-    {
-      "action": "+",
-      "emotion": "anger",
-      "level": 1
-    }
-  ],
+  "core_emotions": [],
   "moods": [],
   "self_states": [],
   "intensities": null,
   "core_values": [],
-  "goals": [
-    {
-      "action": "-",
-      "goal": {
-        "goal_id": "contain_and_manage_aftermath_of_alien_terraforming_and_transformations",
-        "goal": "Contain and manage the aftermath of the alien city’s Terrigenesis transformations, including new Inhumans like Skye and the threat posed by Raina’s monstrous change, while rallying the team to counter Hydra’s destabilization efforts"
-      }
-    },
-    {
-      "action": "-",
-      "goal": {
-        "goal_id": "recover_and_protect_transformed_and_injured_inhumans",
-        "goal": "Recover and protect transformed and injured Inhumans like Skye and Raina, aiding their control and acceptance while understanding their dual threats and vulnerabilities"
-      }
-    },
-    {
-      "action": "-",
-      "goal": {
-        "goal_id": "locate_and_reclaim_skye_and_reestablish_shield_command",
-        "goal": "Locate and reclaim Skye who is taken by unknown powered individuals, secure support from allies, and take back control of S.H.I.E.L.D. from the Gonzales faction"
-      }
-    },
-    {
-      "action": "-",
-      "goal": {
-        "goal_id": "counter_hydra_threat_to_powered_people_and_inhumans",
-        "goal": "Counter Hydra's ongoing threats specifically targeting powered people and Inhumans, using intelligence and force to prevent further exploitation and harm"
-      }
-    },
-    {
-      "action": "+",
-      "goal": {
-        "goal_id": "investigate_and_counter_new_third_party_threat_targeting_inhumans",
-        "goal": "Investigate and counter the emergent third party that is killing Inhumans and surpasses Hydra and other factions in threat, protecting new Inhumans and reclaiming operational control with S.H.I.E.L.D. forces."
-      }
-    }
-  ],
+  "goals": [],
   "aura": [],
   "catch_phrases_delta": [
     {
-      "action": "-",
-      "id": "catchphrase_26",
-      "context": "confronting Cal about his reckless vengeance and warning him to stay away from Skye",
-      "catch_phrase": "I know, in some insane way, you love your daughter, but I will kill you if you take another step."
-    },
-    {
       "action": "+",
-      "id": "catchphrase_32",
-      "context": "confronting Rosalind and reflecting on secrets and the shadows both walk in",
-      "catch_phrase": "I haven't spent any time in Tahiti, though I hear it's a magical place."
+      "id": "catchphrase_37",
+      "context": "confronting Rosalind Price with tense wit and strategic banter on the train, revealing his persistence in uncovering hidden threats",
+      "catch_phrase": "Got to get with the times, Roz. You don't want to be left in the dust."
     }
   ]
 }

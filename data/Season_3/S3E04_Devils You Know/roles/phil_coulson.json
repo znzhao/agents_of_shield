@@ -1,0 +1,37 @@
+{
+  "timestamp": {
+    "season": 3,
+    "episode": 4
+  },
+  "role_id": "phil_coulson",
+  "first_name": "Phil",
+  "last_name": "Coulson",
+  "description": "Phil Coulson is a steadfast and pragmatic leader of S.H.I.E.L.D., committed to navigating the complex threats posed by Inhumans and Hydra alike. He demonstrates resilience under pressure and a strategic mind that balances diplomacy with decisive action. Throughout his journey, Coulson grapples with the moral ambiguities of recruiting and protecting superpowered individuals while confronting enemies both external and internal. His leadership reflects a protective dedication to his team and a willingness to make personal sacrifices for the greater good, showcasing his deep loyalty, courage, and sense of responsibility.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_40",
+      "context": "asserting mutual cooperation requirement to Rosalind Price during ATCU negotiation",
+      "catch_phrase": "Sharing is a two-way street. We invited you to the party. Now we need to know what you're doing with the guests. Come on, Rosalind. Fair is fair."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_37",
+      "context": "confronting Rosalind Price with tense wit and strategic banter on the train, revealing his persistence in uncovering hidden threats",
+      "catch_phrase": "Got to get with the times, Roz. You don't want to be left in the dust."
+    }
+  ]
+}

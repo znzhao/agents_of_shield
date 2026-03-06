@@ -1,0 +1,109 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 1
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "aliases": [
+    "Agent Simmons"
+  ],
+  "demographics": {
+    "state": "healthy",
+    "appearance": "normal",
+    "age": "young_adult",
+    "sex": "f",
+    "sexual_orientation": null,
+    "nationality": null,
+    "religion": null,
+    "occupation": "biochemist",
+    "affiliation": [
+      "S.H.I.E.L.D."
+    ],
+    "superpowers": []
+  },
+  "personality": {
+    "extraversion": -3,
+    "sensing": 7,
+    "thinking": 8,
+    "judging": 6
+  },
+  "skills": {
+    "physical_fitness": 2,
+    "combat": 2,
+    "espionage": 3,
+    "stealth": 3,
+    "hacking": 5,
+    "negotiation": 4,
+    "leadership": 3,
+    "field_medicine": 5,
+    "intelligence": 10,
+    "research": 9,
+    "decision_making": 6,
+    "mechanical_repair": 6
+  },
+  "emotions": {
+    "core": {
+      "happiness": 2,
+      "sadness": 1,
+      "anger": 1,
+      "fear": 1,
+      "disgust": 0,
+      "shocked": 2
+    },
+    "mood": {
+      "calmness_anxiety": -2,
+      "loneliness_connection": 3,
+      "despair_hope": 4,
+      "helplessness_confidence": 7
+    },
+    "self_state": {
+      "self_worth": 6,
+      "social_trust": 5,
+      "guilt": 0,
+      "shame": 0,
+      "hostility": 0,
+      "resentment": 0
+    },
+    "intensity": {
+      "arousal": 5
+    }
+  },
+  "core_values": {
+    "honesty": 7,
+    "compassion": 6,
+    "violence": -7,
+    "justice": 8,
+    "loyalty": 7,
+    "courage": 5,
+    "freedom": 3,
+    "order": 6,
+    "self_interest": 1,
+    "pragmatism": 8,
+    "kindness": 7
+  },
+  "goals": [
+    {
+      "goal_id": "solve_centipede_mystery",
+      "goal": "Understand and unravel the mysterious Centipede technology and its effects"
+    },
+    {
+      "goal_id": "assist_sheild_team",
+      "goal": "Support S.H.I.E.L.D. operations through scientific expertise and analysis"
+    },
+    {
+      "goal_id": "protect_civilians",
+      "goal": "Help protect innocent civilians from dangerous experimental technologies"
+    }
+  ],
+  "aura": {
+    "intimidation_warmth": 3,
+    "recklessness_carefulness": 8,
+    "humor": 3,
+    "attractiveness": 4,
+    "mystery": 2
+  },
+  "description": "Jemma Simmons is a highly intelligent and skilled biochemist working with S.H.I.E.L.D. She is methodical, pragmatic, and careful, blending scientific expertise with calm composure under pressure. Simmons exhibits strong analytical skills with a passion for uncovering the truth behind complex phenomena, such as experimental technologies like the Centipede device. Though introverted, she contributes actively to team missions, showing loyalty and compassion while maintaining a warm and approachable demeanor interspersed with dry humor. Her dedication lies in protecting people through knowledge and scientific innovation, acting as a crucial problem solver in high-stakes situations.",
+  "catch_phrases": []
+}

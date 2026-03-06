@@ -6,7 +6,7 @@
   "role_id": "phil_coulson",
   "first_name": "Phil",
   "last_name": "Coulson",
-  "description": "Phil Coulson is a pragmatic and steadfast S.H.I.E.L.D. leader, marked by resilience and strategic insight. His leadership is driven by a deep commitment to his team and mission, balancing empathy with a hardened resolve forged by personal loss and organizational upheaval. His experience spans covert operations, interspecies alliances, and interdimensional mysteries, including the protection and support of Inhumans. Throughout his journey, Coulson has evolved from a traditional agent into a resourceful, adaptable commander who embraces unconventional allies and methods while safeguarding those he values. His courage and tactical acumen solidify him as a central figure navigating the complexities of a fractured S.H.I.E.L.D. and a world teetering on the brink of superhuman upheaval.",
+  "description": "Phil Coulson is a determined and strategic leader within S.H.I.E.L.D., navigating the complexities of superhuman threats and interdimensional mysteries. He embodies a pragmatic approach grounded in loyalty, courage, and justice, tempered by hard-earned experience and personal loss. Coulson skillfully balances scientific inquiry and field operations while managing his team with a protective resolve, often making tough decisions to safeguard his people and mission. His leadership style reflects resilience, adaptability, and a deep commitment to uncovering truth and protecting both powered individuals and humanity at large.",
   "aliases": [],
   "affiliations": [],
   "superpowers": [],
@@ -24,14 +24,32 @@
     {
       "action": "-",
       "id": "catchphrase_32",
-      "context": "confronting Rosalind and reflecting on secrets and the shadows both walk in",
-      "catch_phrase": "I haven't spent any time in Tahiti, though I hear it's a magical place."
+      "context": "encouraging May to trust in her capability and mission during a tense hostage situation in Bahrain",
+      "catch_phrase": "If they go in, it's gonna be an assault. People will die. I can do this."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_34",
+      "context": "confronting Cal about his dangerous drug ingestion to gain strength and protect Daisy",
+      "catch_phrase": "You're here to take out some S.H.I.E.L.D. agents."
+    },
+    {
+      "action": "-",
+      "id": "catchphrase_35",
+      "context": "acknowledging Ward's complex hidden self and betrayal during confrontation with Bobbi and Agent 33",
+      "catch_phrase": "You know, you and I are a lot alike, both of us living one life on the outside. But who we really are, we keep that buried deep inside where no one can ever find it."
     },
     {
       "action": "+",
-      "id": "catchphrase_33",
-      "context": "motivating the team that realism would have stopped them long ago to confront impossible challenges",
+      "id": "catchphrase_38",
+      "context": "assuring his team during the risky and unprecedented mission to open the portal and rescue Simmons",
       "catch_phrase": "If we were realistic, we never would have gotten this far."
+    },
+    {
+      "action": "+",
+      "id": "catchphrase_39",
+      "context": "firmly stating the resolve and high stakes involved in the portal mission\",\"catch_phrase\":\"If we lose that probe, nobody cares.",
+      "catch_phrase": "If we lose that probe, nobody cares."
     }
   ]
 }
