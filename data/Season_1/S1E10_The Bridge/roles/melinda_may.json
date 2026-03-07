@@ -1,0 +1,66 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 10
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is a highly skilled and disciplined S.H.I.E.L.D. agent known as \"The Cavalry\" for her exceptional expertise in combat and tactical operations. She is characterized by her pragmatic and no-nonsense approach, prioritizing mission efficiency and professionalism over personal emotions. Despite a guarded exterior shaped by past trauma, May is deeply loyal and protective of her team, often acting as a stabilizing presence during crises. Her strong sense of duty and tactical mindset sometimes create emotional distance, particularly as she insists on separating personal attachments from operational priorities. Over time, she has confronted and managed her emotional baggage, offering tough love and mentorship, especially helping teammates navigate their own struggles, while maintaining her reputation as an elite fighter and leader.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "disgust",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "active_field_combat_duty",
+        "goal": "Return to active combat duty and take a frontline role in S.H.I.E.L.D. field operations."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 3
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a highly skilled and loyal S.H.I.E.L.D. agent specializing in covert operations and combat. He presents a tough, pragmatic exterior forged by a violent and challenging childhood, where early trauma taught him discipline and self-defense. Despite his initial skepticism about teamwork and the outsider Skye, he gradually opens up and invests in mentoring newer recruits, showing a protective and more human side. Ward balances intense dedication to S.H.I.E.L.D.'s mission with a complex inner struggle regarding trust and emotional openness, hinting at a path toward greater interpersonal connection and responsibility within the team. His strategic mind, tactical expertise, and unwavering loyalty continue to make him a cornerstone of Coulson's operations in confronting emerging threats and internal vulnerabilities within S.H.I.E.L.D.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

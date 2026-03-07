@@ -1,0 +1,46 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 13
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a brilliant and precise biochemist integral to S.H.I.E.L.D.'s scientific efforts, specializing in creating and implementing advanced technologies to support field operations and counteract alien and bioengineered threats. Her partnership with Fitz deepens as they collaborate closely on field investigations and lectures, emphasizing the ethical responsibilities of scientific potential. Simmons balances her scientific rigor with compassion, demonstrated in her efforts to reach and support isolated, troubled individuals like Donnie Gill. She maintains a growing tactical awareness and emotional resilience, embracing both the intellectual demands and the harsh realities of field missions. Following a high-risk mission infiltrating a Cybertek operation, Simmons exhibited personal courage and resilience by protecting team members, enduring a chemical grenade attack, and providing critical emergency medical care for an injured Skye. Her adaptability and quick thinking in crisis solidify her role as an indispensable scientific and medical resource within the team, showing evolution toward greater assertiveness and strategic action under duress.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

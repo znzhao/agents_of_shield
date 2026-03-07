@@ -1,0 +1,30 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is a highly skilled and disciplined S.H.I.E.L.D. agent known as \"The Cavalry\" for her expertise in combat and tactical missions. She serves as a stabilizing presence in her team, displaying pragmatism and deep emotional insight shaped by past personal traumas. May confronts her emotional history openly and offers support and understanding to teammates, emphasizing healing and camaraderie even amidst operational stress. She is fiercely loyal, protective, and pragmatic, maintaining strong trust in her team and leadership while balancing operational secrecy with empathy and personal connection.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

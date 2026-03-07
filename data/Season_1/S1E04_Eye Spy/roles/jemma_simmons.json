@@ -1,0 +1,30 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 4
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is an exceptionally intelligent and methodical biochemist devoted to the scientific analysis and medical support of S.H.I.E.L.D.'s missions. She is meticulous in her work, particularly in high-pressure environments, reflecting a strong pragmatic approach and dedication to team safety. Simmons demonstrates a capacity to adapt beyond her primary laboratory role, engaging directly in field operations such as complex ocular surgery under duress. Her collaborative dynamic with her scientific partner Fitz and the wider team underlines her loyalty and deep commitment to protecting civilians and allies alike while navigating morally ambiguous situations involving advanced technologies. She holds a consistent belief in protecting innocent lives and persistently applies her expertise to neutralize threats posed by cutting-edge, possibly alien, devices. Simmons retains a calm yet intense focus amidst crises, embodying a balance between scientific rigor and compassionate responsibility.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "field_medicine",
+      "level": 1
+    }
+  ],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

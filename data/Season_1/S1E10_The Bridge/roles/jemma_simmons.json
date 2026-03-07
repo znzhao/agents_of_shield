@@ -1,0 +1,59 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 10
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a brilliant and precise biochemist integral to S.H.I.E.L.D.'s scientific efforts, specializing in creating and implementing advanced technologies to support field operations and counteract alien and bioengineered threats. She works closely with her partner Fitz, advancing diagnostic tools and protective gear, demonstrating growing confidence and tactical awareness as she transitions from lab-bound analysis to active mission support. Simmons balances her scientific rigor with a compassionate nature, particularly in understanding the pressures faced by enhanced individuals like Mike Peterson. Her role is pivotal in deciphering complex technologies like Centipede's advancements and supporting the team through medically informed strategies in high-risk confrontations, reflecting a blend of intellectual prowess and evolving field resilience.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "field_medicine",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "skill": "intelligence",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "skill": "research",
+      "level": 1
+    }
+  ],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": {
+    "arousal": 6
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

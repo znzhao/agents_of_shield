@@ -1,0 +1,58 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 12
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a meticulous British engineer and scientist whose technical expertise and analytical mindset have made him a key member of S.H.I.E.L.D. His progression from a reserved research scientist to a courageous and resourceful field operative demonstrates his ability to adapt under pressure and navigate complex ethical challenges. Fitz's inventive approach to technology, such as investigating and analyzing advanced devices, highlights his intellectual leadership and problem-solving skills within the team. Throughout his experiences, Fitz has shown care and empathy towards those isolated or vulnerable, forming genuine bonds that enhance his protective dedication to his colleagues and the broader mission.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "develop_advanced_field_technology",
+        "goal": "Create innovative technology solutions to support field operations under hazardous conditions."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

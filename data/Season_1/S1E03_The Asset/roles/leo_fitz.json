@@ -1,0 +1,52 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 3
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientist with a brilliant mind for advanced technology and a deep dedication to the safety and success of his team. Known for his meticulous nature and technical expertise, Fitz plays a critical role in deciphering and managing complex scientific phenomena, often underpinning the team's tactical operations with crucial research and ingenuity. His introverted, cerebral personality balances field mission risks with caution, while a growing camaraderie with his teammates, including Simmons and Skye, enhances his social trust and confidence. Across their missions, Fitz has exhibited resilience amid crises, strengthening his emotional intensity and commitment to protecting his colleagues and understanding emerging technological threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

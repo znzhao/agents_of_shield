@@ -1,0 +1,49 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a highly intelligent and methodical biochemist whose scientific rigor anchors the S.H.I.E.L.D. team’s understanding of alien and mythic phenomena. Over time, she has evolved from a cautious laboratory scientist into a resilient and compassionate field operative who confronts extraordinary and sometimes dangerous situations with growing confidence. Her experience with alien biology and advanced medical science informs her pragmatic approach to threats, yet she continuously strives to balance empirical evidence with the team's need for trust and intuitive insights. Simmons also shows an increasing willingness to engage with the emotional complexities of her teammates and herself, demonstrating deeper interpersonal connections and a stronger sense of responsibility beyond purely scientific endeavors.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "find_cure_alien_virus",
+        "goal": "Develop a cure for the alien virus infecting the firefighters and herself to save lives and contain the threat"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

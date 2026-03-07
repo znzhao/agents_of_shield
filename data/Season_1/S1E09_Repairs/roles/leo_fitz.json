@@ -1,0 +1,30 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 9
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientist known for his meticulous technical expertise and calm, analytical mindset. He has developed from a reserved scientist focused on research into a courageous and resourceful field operative who embraces danger alongside his team. His profound intelligence and ingenuity provide critical scientific and technical support, enabling breakthroughs in complex and strange missions involving alien technology and dimensional phenomena. Fitz's deep loyalty and growing confidence allow him to contribute under pressure, balancing his scientific curiosity with a practical commitment to his team's safety and mission success.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "research",
+      "level": 1
+    }
+  ],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

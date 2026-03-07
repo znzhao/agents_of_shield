@@ -86,11 +86,13 @@ class CharacterChatBot:
         # --- LLM engine ------------------------------------------------------
         self.engine = Engine(model=model)
 
-        # --- episode summary for context ------------------------------------
+        # --- episode synopsis and summary for context -------------------------
         try:
             ep = self.story[SETimestamp(season=season, episode=episode)]
+            self.episode_synopsis: Optional[str] = ep.synopsis if ep.synopsis else None
             self.episode_summary: Optional[str] = ep.summary if ep.summary else None
         except (ValueError, IndexError):
+            self.episode_synopsis = None
             self.episode_summary = None
 
         # --- build once ------------------------------------------------------
@@ -217,11 +219,15 @@ NEVER DO THESE:
 
 Reminder: You MUST reply in the same language as the user's message.
 
-=== CURRENT EPISODE SUMMARY ==="""
+=== CURRENT EPISODE ==="""
 
+        episode_context = ""
+        if self.episode_synopsis:
+            episode_context += f"\nSYNOPSIS:\n{self.episode_synopsis}"
         if self.episode_summary:
-            return base + f"\n{self.episode_summary}"
-        return base
+            episode_context += f"\n\nSUMMARY:\n{self.episode_summary}"
+        
+        return base + episode_context if episode_context else base
 
     # ------------------------------------------------------------------ #
     #  Graph nodes

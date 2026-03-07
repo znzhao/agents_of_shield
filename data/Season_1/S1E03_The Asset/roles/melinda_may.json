@@ -1,0 +1,39 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 3
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is an elite S.H.I.E.L.D. agent known for her exceptional combat skills, resilience, and composed demeanor in high-pressure situations. Despite her tough exterior and cautious approach, she is deeply loyal to her team and committed to the mission. Her pragmatism balances her fierce willingness to protect allies and face danger head-on. Though initially hesitant about field duty, she demonstrates renewed resolve to engage actively in combat operations, reflecting her dedication and readiness to support key missions personally. May combines professional competence with a pragmatic realism shaped by past trauma and complex team dynamics, always prioritizing team safety and mission success.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "active_field_combat_duty",
+        "goal": "Return to active combat duty and take a frontline role in S.H.I.E.L.D. field operations."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "avoid_field_combat",
+        "goal": ""
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

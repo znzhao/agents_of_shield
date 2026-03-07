@@ -1,0 +1,36 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientist known for his meticulous technical expertise and calm, analytical mindset. Throughout his journey with S.H.I.E.L.D., he has grown from a reserved scientist focused on research into a courageous field operative who embraces danger alongside his team. Fitz combines his profound intelligence and ingenuity to provide technical and scientific support, often enabling critical breakthroughs in complex missions. His loyalty and deep bond with his teammates remain core to his identity as he continues to adapt to the challenges posed by alien technology and threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

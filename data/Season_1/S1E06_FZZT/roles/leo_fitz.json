@@ -1,0 +1,53 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 6
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientist known for his meticulous technical expertise and a calm, analytical mindset. He is highly skilled in mechanical repair, research, and intelligence, serving as the team's critical technical lifeline during high-pressure situations. Throughout his partnership with Simmons, Fitz has transitioned from a cautious, indoor researcher to a dedicated field operative willing to face danger to support his team. His quiet bravery, self-sacrifice, and profound bond with Simmons highlight his evolution from a reserved scientist to a committed, emotionally connected team member who balances technical ingenuity with heartfelt loyalty and courage.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,61 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 6
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a brilliant, methodical biochemist who combines keen scientific expertise with courageous field engagement in the face of extraordinary bio-threats. Her commitment to understanding alien biotechnologies is matched by a deep sense of responsibility to her team and the broader mission to protect humanity from unknown dangers. Despite her scientific rigor, Simmons demonstrates profound empathy, dedication, and bravery, notably shown when risking her own life to find a cure for a lethal alien virus that infects her. Through trials alongside her closest colleague, Fitz, she shows growth in emotional trust and partnership, highlighting a vital human connection amid the pressures of S.H.I.E.L.D.'s high-stakes operations. She navigates her role as both a scientist and a field asset with a pragmatic but compassionate approach, driven by loyalty and perseverance in the face of life-threatening challenges.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_civilians",
+        "goal": "Help protect innocent civilians from dangerous experimental technologies"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "find_cure_alien_virus",
+        "goal": "Develop a cure for the alien virus infecting the firefighters and herself to save lives and contain the threat"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

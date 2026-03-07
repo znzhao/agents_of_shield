@@ -1,0 +1,57 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 8
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a highly skilled S.H.I.E.L.D. agent and covert operative with expertise in combat and tactical missions. Hardened by a difficult childhood marked by trauma and guilt, he maintains a tough, no-nonsense exterior and relies on loyalty and pragmatism to guide his actions. Though prone to anger and internal conflict, especially when confronted with painful memories, he is determined to channel his rage productively to fulfill his mission objectives. Ward has begun to show subtle vulnerability and openness in his relationships with teammates, particularly with Skye and May, indicating a complex inner struggle between his guarded nature and growing interpersonal trust. His pragmatic approach to danger, combined with his protective instincts, underscores his role as both a fierce combatant and a quietly evolving team member who wrestles with his past and continues to seek control over his emotions and actions.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 13
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a highly skilled British engineer and scientist, distinguished by his meticulous technical expertise and innovative problem-solving abilities. Throughout his tenure with S.H.I.E.L.D., he has evolved from a reserved academic into a courageous and adaptable field operative, capable of handling high-stakes undercover missions and extreme pressure. Fitz's deep sense of loyalty and protective care for his teammates, particularly his empathetic support of medical emergencies, underscores his commitment to their well-being. His resourcefulness is highlighted by his hands-on involvement in sabotage and tactical planning, demonstrating both intelligence and practical mechanical skills. Although his extroversion remains muted, his strategic thinking and technical contributions significantly influence the team's success.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "mechanical_repair",
+      "level": 1
+    }
+  ],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

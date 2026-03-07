@@ -1,0 +1,30 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 3
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a highly intelligent and skilled biochemist dedicated to advancing scientific understanding and supporting S.H.I.E.L.D.'s mission through her expertise. She shows a strong emotional investment in her colleagues and scientific mentors, highlighting her compassion and loyalty. Simmons is methodical and pragmatic, able to adapt quickly to unexpected situations such as investigating advanced, potentially catastrophic technology. Although primarily a lab scientist, she demonstrates a growing inclination towards field involvement and teamwork under pressure. Her professional confidence and willingness to critically appraise environmental and ethical implications reveal a deep commitment to justice and responsibility within a complex moral landscape.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

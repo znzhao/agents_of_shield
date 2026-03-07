@@ -1,0 +1,41 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 7
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientist renowned for his meticulous technical expertise and calm, analytical mindset. He plays a vital role as the team's technical lifeline, often acting with quiet bravery and resourcefulness under intense pressure. Though primarily a researcher, Fitz has evolved into a committed field operative who embraces the dangers of covert missions alongside his teammates. His deep bond with Simmons and willingness to confront peril highlight his growth from a reserved scientist to a courageous agent whose loyalty and ingenuity are indispensable to S.H.I.E.L.D.'s success.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

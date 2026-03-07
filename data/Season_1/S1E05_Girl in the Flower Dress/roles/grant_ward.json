@@ -1,0 +1,61 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 5
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a highly skilled and loyal S.H.I.E.L.D. agent specializing in covert operations and combat. His pragmatic and tough exterior, shaped by a violent childhood and early trauma, complements his strong sense of loyalty and dedication to the S.H.I.E.L.D. mission. Ward demonstrates adaptability and a developing willingness to mentor and cooperate more closely with newer team members, even under pressure. His tactical expertise and physical prowess remain vital assets, and he maintains a pragmatic, no-nonsense approach to field operations. Ward balances his intense commitment to mission success with moments of levity and team camaraderie, showing signs of open emotional connection, particularly through interactions with team members such as Skye. However, his underlying skepticism toward compromised individuals is pronounced, reflecting his focus on loyalty and practical judgment.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": null,
+  "core_values": [
+    {
+      "action": "+",
+      "value": "loyalty",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "value": "pragmatism",
+      "level": 1
+    }
+  ],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}
