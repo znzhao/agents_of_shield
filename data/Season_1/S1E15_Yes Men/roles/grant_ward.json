@@ -1,0 +1,60 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 15
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a cunning and highly trained S.H.I.E.L.D. agent known for his combat skills and loyalty to his team. His pragmatic and tactical mindset often places him at the forefront of field operations, balancing fierce determination with personal emotional struggles. Ward has demonstrated susceptibility to manipulation through emotional vulnerabilities, notably his past attachments and desire for connection, which others exploit. Despite this, he remains a resolute and complex figure navigating the challenges of trust, loyalty, and internal conflict within S.H.I.E.L.D.'s morally ambiguous environment.",
+  "aliases": [],
+  "affiliations": [
+    {
+      "action": "+",
+      "affiliation": "Dogs of Hell Motorcycle Club"
+    }
+  ],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "mystery"
+    }
+  ],
+  "catch_phrases_delta": []
+}

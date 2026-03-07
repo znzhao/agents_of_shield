@@ -1,0 +1,85 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a deeply conflicted and skilled operative whose life is shaped by a harsh upbringing under an abusive older brother and cruel parents. His allegiance to Hydra remains strong, though he struggles to balance this with genuine emotional connections, notably with Skye. Ward's pragmatism and loyalty to Hydra and Garrett guide his covert actions, even as he reveals glimpses of vulnerability and a desire for genuine relationships. His deceptive nature, readiness for violence, and manipulative tendencies make him a dangerous adversary, yet his complexity is underscored by moments of honesty and emotional struggle.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [
+    {
+      "action": "+",
+      "value": "loyalty",
+      "level": 2
+    }
+  ],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "embrace_hydra",
+        "goal": "To embrace his new allegiance with Hydra and advance their clandestine objectives."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "deliver_skye_to_garrett",
+        "goal": "To deliver Skye to John Garrett as part of his secret Hydra mission while maintaining his cover."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "-",
+      "trait": "mystery"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_2",
+      "context": "while reflecting on feelings and relationships with Skye",
+      "catch_phrase": "There’s never a good time. We’ve got to start somewhere."
+    }
+  ]
+}

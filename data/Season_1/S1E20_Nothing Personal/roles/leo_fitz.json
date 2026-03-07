@@ -1,0 +1,56 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 20
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a brilliant British engineer and scientific thinker known for his analytical precision and deep emotional loyalty to his teammates. His expertise in technology and problem-solving is matched by a profound sensitivity to betrayal and trust. Fitz's experiences have cultivated a cautious yet hopeful mindset, especially as he grapples with the ramifications of Hydra's infiltration and the personal betrayals surrounding Ward and the S.H.I.E.L.D. collapse. Despite setbacks and emotional turmoil, Fitz remains resolute in supporting his team and believes in the possibility of reclaiming order and justice. His intellectual rigor is balanced by his capacity for emotional reassurance, particularly in moments of crisis with close allies like Simmons.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "emotion": "happiness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "expose_and_counter_hydra_infiltration",
+        "goal": "Identify, expose, and counter Hydra agents infiltrated within S.H.I.E.L.D. to protect the organization and his team."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_skye_and_counter_hydra",
+        "goal": "Find Skye and counter Hydra's schemes to protect her and the team from internal betrayal and external threats."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

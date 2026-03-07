@@ -1,0 +1,40 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 18
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a highly intelligent British engineer and scientific expert integral to S.H.I.E.L.D., distinguished by his exceptional mechanical repair skills, research abilities, and loyalty to his team. Despite the collapse of S.H.I.E.L.D. and growing mistrust among team members, Fitz remains staunchly loyal to Agent Coulson and the ideals of the organization, fostering hope and determination even in dire circumstances. He actively supports the technical and operational needs of the team and grapples with the tension of uncertain loyalties and fractured trust within the group. Fitz's character embodies resilience, dedication, and a cautious optimism in the face of overwhelming adversity and deception.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

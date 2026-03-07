@@ -1,0 +1,46 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 16
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is an exceptionally skilled and compassionate biochemist devoted to supporting S.H.I.E.L.D. through advanced scientific and medical expertise. Throughout her service, she demonstrates remarkable resilience in the face of intense emotional and physical crises, persistently striving to save her teammates even when confronted with ethically complex and extreme experimental procedures. Her partnership with Fitz strengthens as they tackle impossible medical mysteries together, revealing her unwavering commitment to both scientific rigor and the well-being of her team. Simmons balances her intellectual precision with deep empathy, courageously confronting the darker aspects of S.H.I.E.L.D.'s secrets while endeavoring to protect those she cares about. She embodies a fusion of scientific brilliance and humanitarian dedication, evolving into an indispensable figure in field medicine and high-stakes decision-making. Over time, her experiences in high-risk missions and secrecy have sharpened her awareness of the ethical and practical complexities of advanced bioengineering and classified medical research.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "assist_sheild_team",
+        "goal": "Support S.H.I.E.L.D. operations through scientific expertise and analysis"
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "investigate_gh_325_further",
+        "goal": "Investigate the foreign and mysterious properties of the GH-325 drug to understand its capabilities and risks despite restrictions"
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "analyze_deathlok_program",
+        "goal": "Analyze and understand the Deathlok cybernetic program to aid S.H.I.E.L.D.'s efforts against enhanced threats"
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 14
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May remains a highly skilled, pragmatic, and resilient S.H.I.E.L.D. agent known for her exceptional combat expertise and tactical acumen. She often serves as a stabilizing and protective figure within her team, balancing her professional loyalty to S.H.I.E.L.D. with a pragmatic, sometimes emotionally reserved approach to complex missions. As her journey continues, she grows increasingly willing to express her fierce loyalty and protective instincts, acting decisively and unapologetically, especially in defense of team members like Skye. May also grapples with ethical complexities and the emotional toll of their work, showing both strength and concern for the consequences of their actions on her teammates. This evolving blend of toughness with deeper emotional engagement underscores her vital role as both protector and tactician in high-stakes operations.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

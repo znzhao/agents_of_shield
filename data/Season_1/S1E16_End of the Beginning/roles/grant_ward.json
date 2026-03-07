@@ -1,0 +1,36 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 16
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a determined and highly skilled S.H.I.E.L.D. agent whose loyalty and protective instincts drive many of his actions. His combat expertise and pragmatic approach make him a formidable operative, often taking the lead in high-risk situations. Despite a tough exterior and a history of emotional manipulation, Ward deeply values his team and those he mentors, notably Skye. He struggles with balancing his duty and personal emotions, which can lead to critical decisions made from a place of anger and protection. Ward's journey is marked by ongoing internal conflict between his sense of justice, loyalty, and the harsh realities of espionage and covert operations within S.H.I.E.L.D.'s morally complex environment.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

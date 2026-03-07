@@ -1,0 +1,32 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a fiercely intelligent and dedicated biochemist who consistently serves as the scientific backbone of S.H.I.E.L.D.'s operations. Though highly rational and analytic, her interactions reveal her deep loyalty and protective nature toward her teammates. She balances her clinical expertise with emotional support, helping maintain team cohesion amid betrayal and crisis. Over time, Simmons grows more emotionally resilient as she faces the consistent threat of Hydra infiltration and the moral complexities surrounding projects like T.A.H.I.T.I. Her steadfast morality, pragmatism, and compassion make her an indispensable agent whose scientific insight is crucial in navigating the blurred lines between science and ethics. Experiencing betrayal and trauma firsthand with Ward's betrayal and their capture alongside Fitz, she also demonstrates resourcefulness and resolve under extreme pressure, further cementing her unwavering commitment to her team and their mission against Hydra.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "survive_hydra_coup",
+        "goal": "Survive and counter Hydra's infiltration and coup within S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

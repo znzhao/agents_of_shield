@@ -1,0 +1,111 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 17
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a skilled and loyal S.H.I.E.L.D. agent with a strong sense of duty and combat prowess. His experiences of betrayal and loss have hardened his demeanor, deepening his emotional complexity. Ward's struggle with trust and loyalty culminates in his decision to embrace a darker path, aligning himself with Hydra. Despite his past protective instincts and emotional conflicts, he now exhibits a cold and calculated persona, showing willingness to betray former allies for what he perceives as a greater cause or personal survival. His evolving identity oscillates between a committed operative and a pragmatic survivor navigating the murky worlds of espionage, betrayal, and covert allegiances.",
+  "aliases": [],
+  "affiliations": [
+    {
+      "action": "-",
+      "affiliation": "S.H.I.E.L.D."
+    },
+    {
+      "action": "+",
+      "affiliation": "Hydra"
+    }
+  ],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "social_trust"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "shame"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "support_team_operations",
+        "goal": "Support Coulson's team operations and execute high-risk missions effectively."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "embrace_hydra",
+        "goal": "To embrace his new allegiance with Hydra and advance their clandestine objectives."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "intimidation_warmth"
+    },
+    {
+      "action": "+",
+      "trait": "mystery"
+    },
+    {
+      "action": "-",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,75 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a gifted British engineer and scientist whose technical expertise and analytical mind make him an invaluable asset to the team. Despite his intellectual prowess, Fitz struggles profoundly with emotional conflicts around trust and betrayal, especially towards Grant Ward, whose disloyalty deeply challenges Fitz's beliefs. This tension highlights Fitz's enduring empathy and his refusal to give up on those he considers friends, demonstrating a core of emotional resilience amid hardship. His experiences have only deepened his commitment to justice and protecting his team, while his scientific rigor and creative problem-solving continue to drive the group's efforts against Hydra and other threats. Fitz navigates the complexity of friendship, loyalty, and ethical dilemmas with increasing maturity, balancing logic and compassion in the face of adversity.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "secure_and_neutralize_superpowered_threats",
+        "goal": "Capture and neutralize dangerous escaped inmates with superpowers to protect civilians and contain the threat."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

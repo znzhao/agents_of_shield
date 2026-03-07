@@ -1,0 +1,80 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 17
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a highly intelligent British engineer and scientific expert integral to S.H.I.E.L.D., known for his exceptional mechanical and technical aptitude. He specializes in developing and maintaining critical technology under pressure, with particular skill in encrypted communications and tracking systems. Fitz exhibits a reserved, analytical personality and demonstrates unwavering loyalty to his teammates. Collaborating closely with Jemma Simmons, Fitz supports advanced biomedical investigations, including experimental treatments like the GH.325 serum recovery. His experiences navigating internal agency distrust and betrayal, especially uncovering Hydra infiltration and the Clairvoyant's identity, have deepened his vigilance and commitment to protecting the team and uncovering hidden threats. Through crises involving both earthly and extraterrestrial dangers, Fitz's resilience and inventiveness remain central to the team's success and security, reinforcing his resolve to oppose Hydra and contribute to the survival and cohesion of Coulson's team.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "help_contain_centiipede_threat",
+        "goal": "Help to understand and mitigate the danger posed by the Centipede project."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "expose_and_counter_hydra_infiltration",
+        "goal": "Identify, expose, and counter Hydra agents infiltrated within S.H.I.E.L.D. to protect the organization and his team."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "support_team_survival_and_recovery",
+        "goal": "Aid in the survival, repair, and regrouping of Coulson's team amidst the collapse of S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 14
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a highly capable and pragmatic S.H.I.E.L.D. agent, known for his unwavering loyalty to his team and his tactical expertise in high-risk operations. He balances a firm sense of duty with deep personal investment in the safety and well-being of his teammates, often absorbing blame and responsibility in moments of crisis. Ward is protective and resolute when defending team members, willing to physically intervene and assert control during tense situations. Throughout his experiences, he continues to evolve in navigating the moral and emotional complexities of covert operations and the blurred lines of loyalty and trust within S.H.I.E.L.D.'s secretive environment.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

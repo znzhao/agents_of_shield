@@ -1,0 +1,82 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 22
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a deeply conflicted and hardened operative marked by fierce loyalty and pragmatism. Trained ruthlessly by his mentor John Garrett, Ward's identity has been shaped by ruthless obedience and deeply ingrained emotional scars. Despite his alignment with Hydra and willingness to betray, there remain flickers of inner conflict and desire for personal agency that complicate his worldview. His evolution reflects a push-pull between submission to a manipulative figure and the stirring of his own will, leading to moments of vulnerability and confrontation with his own moral weakness. Even as a formidable field operative, Ward wrestles with his personal attachments and the legacy of his violent past, revealing a complex interplay of strength, weakness, and fractured loyalty.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_garrett",
+        "goal": "To ensure John Garrett's survival and assist in his quest for the GH-325 serum to prolong his life and further Hydra's agenda."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "choose_own_path",
+        "goal": "Determine and pursue his own desires and identity independent of Garrett's influence, breaking free from blind obedience."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

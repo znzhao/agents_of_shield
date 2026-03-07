@@ -1,0 +1,43 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is a highly skilled biochemist and vital member of the S.H.I.E.L.D. team, knowledgeable about complex scientific phenomena such as Darkforce energy. She combines scientific expertise with practical field experience, consistently showing courage and dedication in dangerous situations. Simmons balances her analytical mind with empathy, supporting teammates physically and emotionally during crises. Her calm, methodical approach and concern for team safety reflect a commitment to protecting others, even while navigating the stresses of betrayal and uncertainty within S.H.I.E.L.D. She remains a key scientific mind who helps devise technical solutions for enhanced threats, underpinning the team's efforts with her medical and research skills while displaying growing awareness of internal and external dangers.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    },
+    {
+      "action": "-",
+      "emotion": "shocked",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": {
+    "arousal": 7
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

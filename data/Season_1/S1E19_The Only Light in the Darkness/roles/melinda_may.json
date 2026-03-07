@@ -1,0 +1,82 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is an exceptionally skilled and pragmatic S.H.I.E.L.D. agent known for her intense combat ability and protective instincts, earning her the nickname 'The Cavalry.' She is steadfastly loyal to her team and to S.H.I.E.L.D.'s mission, maintaining a cautious and disciplined approach even in the face of deep betrayal and organizational collapse. Despite her reserved demeanor, she harbors deep concerns about the mental and emotional wellbeing of those she cares about, especially Agent Coulson, and struggles with the tensions between trust, duty, and suspicion in a fractured and dangerous environment. Her role is that of a reliable, strategic, and emotionally guarded protector whose commitment to order and loyalty guides her hard assessments and decisions. Having experienced severe strain in her relationships and trust within her team, she is currently reevaluating her place and loyalties in the wake of profound personal and professional betrayals, signaling a shift towards seeking new allies and answers outside the established framework of S.H.I.E.L.D. and Coulson's leadership.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "shocked",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "support_coulson_leadership",
+        "goal": "Assist Agent Coulson in leading the team and making critical decisions."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "trust_coulson_and_mission",
+        "goal": "Support Phil Coulson despite doubts and ensure trust within the team to complete the mission as agents of S.H.I.E.L.D."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "seek_new_allies_and_answers",
+        "goal": "Find new trusted allies and seek the truth beyond Coulson and fracturing S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

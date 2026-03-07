@@ -1,0 +1,75 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 16
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is an elite and fiercely loyal S.H.I.E.L.D. agent known for her exceptional combat skills and strategic mind, often acting as the team's protector and level-headed enforcer. She maintains a pragmatic and reserved demeanor, balancing her fierce loyalty with a guarded emotional stance. Throughout her service, May confronts moral complexities and betrayal within the agency, particularly navigating fractured trust and her own secretive actions that raise questions about her true allegiances. Her unwavering dedication to mission success often puts her at odds with teammates but underscores her role as the stabilizing force within the team, especially when facing internal and external threats of immense magnitude.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "manage_ward_situation",
+        "goal": "Manage and resolve the complex situation involving Ward's enchantment and potential threat to the team."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "uncover_clairvoyant_identity",
+        "goal": "Uncover the true identity of the Clairvoyant and protect the team from betrayal within S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "mystery"
+    }
+  ],
+  "catch_phrases_delta": []
+}

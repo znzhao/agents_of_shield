@@ -1,0 +1,106 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a deeply conflicted and hardened operative, shaped by a traumatic youth and ruthless mentorship under John Garrett. His loyalty to Hydra is unwavering, forged through brutal training and testing of his limits, including faked obedience and emotionally wrenching acts like the killing of his dog Buddy. Ward's identity is marked by a complex mix of loyalty, pragmatism, and suppressed vulnerability. He wrestles intensely with his personal attachments and the harsh demands of his Hydra role, resulting in acts of betrayal and violence even against those he cares about. His evolution charts a path from a resentful youth to a highly skilled and loyal Hydra agent, deeply entangled in covert agendas and the survival of his mentor Garrett, whose failing health and death-driven desperation further complicate Ward's mission and psyche. Though capable of empathy and inner conflict, Ward prioritizes duty and orders, viewing emotional attachments as weaknesses to overcome.",
+  "aliases": [],
+  "affiliations": [
+    {
+      "action": "-",
+      "affiliation": "Dogs of Hell Motorcycle Club"
+    }
+  ],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "loneliness_connection",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [
+    {
+      "action": "+",
+      "value": "loyalty",
+      "level": 2
+    }
+  ],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "deliver_skye_to_garrett",
+        "goal": "To deliver Skye to John Garrett as part of his secret Hydra mission while maintaining his cover."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_garrett",
+        "goal": "To ensure John Garrett's survival and assist in his quest for the GH-325 serum to prolong his life and further Hydra's agenda."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "execute_hydra_orders",
+        "goal": "Carry out Hydra's objectives including neutralizing threats to the organization, even if it means eliminating former allies."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "intimidation_warmth"
+    }
+  ],
+  "catch_phrases_delta": [
+    {
+      "action": "+",
+      "id": "catchphrase_3",
+      "context": "confronting loyalty and weakness with Garrett's mentorship",
+      "catch_phrase": "Don't trust anybody, ever, especially me."
+    }
+  ]
+}

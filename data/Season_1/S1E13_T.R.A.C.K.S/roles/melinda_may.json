@@ -1,0 +1,51 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 13
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May remains a highly skilled, pragmatic, and resilient S.H.I.E.L.D. agent known for her exceptional combat expertise and tactical acumen. She often serves as a stabilizing and protective figure within her team, balancing her professional loyalty to S.H.I.E.L.D. with a pragmatic, sometimes emotionally reserved approach to complex missions. Over time, she has grown more deeply involved in the personal dynamics of the team, navigating trust and interpersonal challenges, especially around close colleagues like Coulson and Ward. May demonstrates unwavering dedication to mission success and team safety while revealing moments of vulnerability and emotional subtlety beneath her hardened exterior, emphasizing her role as both protector and tactician in high-stakes operations.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

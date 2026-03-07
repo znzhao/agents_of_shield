@@ -1,0 +1,45 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 19
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a brilliant British engineer and scientific thinker devoted to supporting his S.H.I.E.L.D. team through innovative technological solutions and rigorous scientific analysis. Despite the destabilizing pressures of betrayal and the fall of S.H.I.E.L.D., Fitz remains steadfastly loyal to his teammates and to the ideals of protecting innocent lives. Pragmatic yet cautious, he struggles with change and uncertainty but consistently channels his intellectual acumen to devise plans and devices that aid the team in combating superpowered threats, such as Marcus Daniels. Fitz is emotionally sensitive, showing care for teammates and those endangered, yet maintains an analytical mindset that accepts the harsh realities of their world, negotiating complex interpersonal tensions especially with Ward and Simmons. He embodies resilience, loyalty, intelligence, and technical mastery in a fractured and threatening environment.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "support_team_survival_and_recovery",
+        "goal": "Aid in the survival, repair, and regrouping of Coulson's team amidst the collapse of S.H.I.E.L.D."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "secure_and_neutralize_superpowered_threats",
+        "goal": "Capture and neutralize dangerous escaped inmates with superpowers to protect civilians and contain the threat."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

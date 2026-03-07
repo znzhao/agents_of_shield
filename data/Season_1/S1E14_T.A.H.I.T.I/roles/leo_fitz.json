@@ -1,0 +1,55 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 14
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a British engineer and scientific expert known for his exceptional intelligence and mechanical skills, as well as his dedication to his S.H.I.E.L.D. team. He exhibits a typically reserved, thoughtful demeanor but has repeatedly demonstrated deep emotional commitment to his friends, particularly in extreme situations involving their physical and emotional well-being. Throughout his experiences with S.H.I.E.L.D., Fitz has shown adaptability and courage in the field. This evolution includes grappling with moral complexities around experimental medical procedures as well as pushing his scientific boundaries to find solutions under pressure. His partnership with Simmons strengthens his collaborative nature, and together they take significant risks to understand and replicate the advanced medical technologies that saved their leader and now Skye. Fitz's resilience, intellect, and loyalty continue to define his role as both a protector and innovator in precarious circumstances.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "happiness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "guilt"
+    },
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

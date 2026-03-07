@@ -1,0 +1,64 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 21
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is an exceptionally skilled and pragmatic S.H.I.E.L.D. agent known for her intense combat ability and protective instincts, earning her the nickname 'The Cavalry.' She is steadfastly loyal to her team and to S.H.I.E.L.D.'s mission, maintaining a cautious and disciplined approach even in the face of deep betrayal and organizational collapse. Despite her reserved demeanor, she harbors deep concerns about the mental and emotional wellbeing of those she cares about, especially Agent Coulson, and struggles with the tensions between trust, duty, and suspicion in a fractured and dangerous environment. Her role is that of a reliable, strategic, and emotionally guarded protector whose commitment to order and loyalty guides her hard assessments and decisions. Having experienced severe strain in her relationships and trust within her team, she is currently reevaluating her place and loyalties in the wake of profound personal and professional betrayals, signaling a shift towards seeking new allies and answers outside the established framework of S.H.I.E.L.D. and Coulson's leadership. Across her journey, May increasingly balances the discipline of a hardened warrior with growing emotional investment in her teammates, channeling her anger and pain into focused resolve against Hydra's rising threat. This episode deepens that evolution as she supports Skye's emotional turmoil, embraces her fury toward Ward as a driving force, and recommits to their mission with strategic urgency and grounded leadership.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 3
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "loneliness_connection",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    },
+    {
+      "action": "+",
+      "self_state": "hostility"
+    },
+    {
+      "action": "-",
+      "self_state": "guilt"
+    }
+  ],
+  "intensities": null,
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

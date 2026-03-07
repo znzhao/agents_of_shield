@@ -1,0 +1,70 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 22
+  },
+  "role_id": "leo_fitz",
+  "first_name": "Leo",
+  "last_name": null,
+  "description": "Leo Fitz is a highly intelligent and technically gifted British engineer and scientist who plays a crucial role in the S.H.I.E.L.D. team. His analytical skills and innovative thinking are matched by a deep emotional complexity, particularly in his relationships with his teammates, especially Jemma Simmons. Despite facing life-threatening dangers and profound betrayals from within his team, Fitz consistently demonstrates bravery, self-sacrifice, and a profound commitment to his friends and their cause. His emotional resilience has been tested repeatedly, and he continues to navigate the difficult balance between logic and compassion, showing growth in courage and depth of feeling. His willingness to face mortality with philosophical reflection and to risk himself for others highlights his evolution into a hero who combines intellect with heartfelt dedication.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 3
+    },
+    {
+      "action": "-",
+      "emotion": "happiness",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "sadness",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "self_worth"
+    },
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 8
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "protect_skye_and_counter_hydra",
+        "goal": "Find Skye and counter Hydra's schemes to protect her and the team from internal betrayal and external threats."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

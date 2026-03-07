@@ -1,0 +1,84 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 22
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is an exceptionally skilled and pragmatic S.H.I.E.L.D. agent known for her intense combat ability and protective instincts, earning her the nickname 'The Cavalry.' She is steadfastly loyal to her team and to S.H.I.E.L.D.'s mission, maintaining a cautious and disciplined approach even in the face of deep betrayal and organizational collapse. Despite her reserved demeanor, she harbors deep concerns about the mental and emotional wellbeing of those she cares about, especially Agent Coulson, and struggles with the tensions between trust, duty, and suspicion in a fractured and dangerous environment. Having experienced severe strain in her relationships and trust within her team, she is currently reevaluating her place and loyalties in the wake of profound personal and professional betrayals, signaling a shift towards seeking new allies and answers outside the established framework of S.H.I.E.L.D. and Coulson's leadership. Across her journey, May increasingly balances the discipline of a hardened warrior with growing emotional investment in her teammates, channeling her anger and pain into focused resolve against Hydra's rising threat. She is an effective leader and fighter, demonstrating tactical acumen and emotional resilience in crises, while remaining pragmatic and willing to engage in harsh measures against traitors like Ward. Her role is that of a reliable, strategic, and emotionally guarded protector whose commitment to order and loyalty guides her hard assessments and decisions. The episode deepens this evolution as she takes decisive action in combat, supports Skye in confronting Ward, engages in physical retribution against betrayal, and recommits to the ongoing mission and team unity despite loss and upheaval.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "anger",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 2
+    },
+    {
+      "action": "+",
+      "emotion": "happiness",
+      "level": 1
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "helplessness_confidence",
+      "level": 2
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "guilt"
+    },
+    {
+      "action": "-",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 10
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "protect_team_emotionally_stronger",
+        "goal": "Support and emotionally strengthen her team members, especially Skye, through their internal struggles and traumatic challenges."
+      }
+    },
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "neutralize_hydra_and_betrayers",
+        "goal": "Bring down Hydra operatives and ensure justice and accountability, particularly targeting traitors like Ward to protect the team and mission."
+      }
+    },
+    {
+      "action": "-",
+      "goal": {
+        "goal_id": "seek_new_allies_and_answers",
+        "goal": "Find new trusted allies and seek the truth beyond Coulson and fracturing S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [
+    {
+      "action": "+",
+      "trait": "recklessness_carefulness"
+    }
+  ],
+  "catch_phrases_delta": []
+}

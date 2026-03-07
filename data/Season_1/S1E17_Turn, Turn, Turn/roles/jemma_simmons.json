@@ -1,0 +1,44 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 17
+  },
+  "role_id": "jemma_simmons",
+  "first_name": "Jemma",
+  "last_name": null,
+  "description": "Jemma Simmons is an exceptionally skilled and compassionate biochemist devoted to supporting S.H.I.E.L.D. through advanced scientific and medical expertise. She demonstrates resilience under intense emotional and physical crises, persistently striving to save her teammates even during ethically complex and covert operations. Simmons' partnership with Fitz strengthens as they navigate dangerous missions and scientific mysteries together. Her unwavering commitment to scientific rigor and team welfare is balanced with growing awareness of the ethical and political complexities within S.H.I.E.L.D. and its hidden infiltrations. She evolves into a key figure skilled in covert operations, strategic deception, and crisis management, embodying intelligence, empathy, and courage amid betrayal and upheaval.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [
+    {
+      "action": "+",
+      "skill": "research",
+      "level": 1
+    }
+  ],
+  "core_emotions": [],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "despair_hope",
+      "level": 2
+    }
+  ],
+  "self_states": [],
+  "intensities": null,
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "survive_hydra_coup",
+        "goal": "Survive and counter Hydra's infiltration and coup within S.H.I.E.L.D."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}

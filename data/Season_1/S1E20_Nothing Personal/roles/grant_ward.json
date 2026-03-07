@@ -1,0 +1,52 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 20
+  },
+  "role_id": "grant_ward",
+  "first_name": "Grant",
+  "last_name": "Ward",
+  "description": "Grant Ward is a complex and conflicted operative whose loyalties have shifted deeply into the shadows due to his covert allegiance to Hydra. Though he maintains a chillingly pragmatic and calculating facade, his emotions, particularly in relation to Skye, reveal a layer of vulnerability and turmoil. Ward embodies the archetype of a spy deeply embedded in deception and betrayal, wielding charm and brutality intertwined with genuine, if troubled, feelings. His internal struggles with loyalty, guilt, and self-worth complicate his actions and fuel his efforts to execute Hydra's agenda, even as he faces the inevitable consequences of his double life.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "-",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    },
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "-",
+      "self_state": "resentment"
+    },
+    {
+      "action": "-",
+      "self_state": "hostility"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [],
+  "aura": [],
+  "catch_phrases_delta": []
+}

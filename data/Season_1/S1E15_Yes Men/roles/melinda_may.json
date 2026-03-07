@@ -1,0 +1,56 @@
+{
+  "timestamp": {
+    "season": 1,
+    "episode": 15
+  },
+  "role_id": "melinda_may",
+  "first_name": "Melinda",
+  "last_name": "May",
+  "description": "Melinda May is a highly skilled and pragmatic S.H.I.E.L.D. agent, renowned for her combat expertise and tactical acumen. She serves as a protective stabilizing force within her team, balancing her professional loyalty with a reserved emotional approach to complex missions. Throughout her journey, she demonstrates fierce loyalty and protective instincts, especially towards her teammates, while grappling with the ethical and emotional consequences of their work. May's strong sense of reality and resilience is tempered with moments of insight and vulnerability, particularly in relation to interpersonal conflicts and the moral challenges posed by their missions. Her evolving role sees her navigating trust, betrayal, and the need to maintain control in high-stakes environments, solidifying her as both protector and tactician in S.H.I.E.L.D.'s efforts against supernatural and technological threats.",
+  "aliases": [],
+  "affiliations": [],
+  "superpowers": [],
+  "demographics": null,
+  "personality": [],
+  "skills": [],
+  "core_emotions": [
+    {
+      "action": "+",
+      "emotion": "fear",
+      "level": 2
+    }
+  ],
+  "moods": [
+    {
+      "action": "+",
+      "mood": "calmness_anxiety",
+      "level": 2
+    },
+    {
+      "action": "-",
+      "mood": "helplessness_confidence",
+      "level": 1
+    }
+  ],
+  "self_states": [
+    {
+      "action": "+",
+      "self_state": "resentment"
+    }
+  ],
+  "intensities": {
+    "arousal": 9
+  },
+  "core_values": [],
+  "goals": [
+    {
+      "action": "+",
+      "goal": {
+        "goal_id": "manage_ward_situation",
+        "goal": "Manage and resolve the complex situation involving Ward's enchantment and potential threat to the team."
+      }
+    }
+  ],
+  "aura": [],
+  "catch_phrases_delta": []
+}
